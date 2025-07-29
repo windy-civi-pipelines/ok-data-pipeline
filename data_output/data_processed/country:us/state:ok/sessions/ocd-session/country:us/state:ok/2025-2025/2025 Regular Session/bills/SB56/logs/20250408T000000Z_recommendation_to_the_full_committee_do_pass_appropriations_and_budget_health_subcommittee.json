@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommendation to the full committee; Do Pass Appropriations and Budget Health Subcommittee",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB56"
+}

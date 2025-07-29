@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative George as principal House author and substitute with Representative Caldwell (Trey)",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1627"
+}

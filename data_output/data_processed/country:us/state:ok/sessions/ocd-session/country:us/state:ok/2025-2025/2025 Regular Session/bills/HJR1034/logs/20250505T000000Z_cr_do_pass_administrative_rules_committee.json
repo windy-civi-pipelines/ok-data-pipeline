@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "CR; Do Pass Administrative Rules Committee",
+    "date": "2025-05-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR1034"
+}

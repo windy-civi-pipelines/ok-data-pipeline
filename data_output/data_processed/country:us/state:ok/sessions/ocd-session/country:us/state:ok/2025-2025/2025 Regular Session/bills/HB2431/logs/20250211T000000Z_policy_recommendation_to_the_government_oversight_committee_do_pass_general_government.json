@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Government Oversight committee; Do Pass General Government",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2431"
+}

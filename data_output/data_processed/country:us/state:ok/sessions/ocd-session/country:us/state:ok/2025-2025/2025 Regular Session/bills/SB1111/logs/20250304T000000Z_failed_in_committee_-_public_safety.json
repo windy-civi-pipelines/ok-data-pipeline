@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Failed in Committee - Public Safety",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1111"
+}

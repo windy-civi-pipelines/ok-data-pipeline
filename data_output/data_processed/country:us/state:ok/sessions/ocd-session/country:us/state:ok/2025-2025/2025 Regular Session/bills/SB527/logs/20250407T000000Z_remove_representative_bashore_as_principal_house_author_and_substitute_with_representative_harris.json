@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Bashore as principal House author and substitute with Representative Harris",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB527"
+}

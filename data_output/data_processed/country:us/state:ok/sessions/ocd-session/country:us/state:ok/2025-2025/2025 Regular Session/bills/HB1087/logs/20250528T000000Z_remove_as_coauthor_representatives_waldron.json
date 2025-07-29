@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "remove as coauthor Representative(s) Waldron",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1087"
+}

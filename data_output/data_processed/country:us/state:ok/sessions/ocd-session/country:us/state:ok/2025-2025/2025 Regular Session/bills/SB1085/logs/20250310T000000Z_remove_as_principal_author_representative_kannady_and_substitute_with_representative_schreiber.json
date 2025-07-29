@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove as principal author Representative Kannady and substitute with Representative Schreiber",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB1085"
+}

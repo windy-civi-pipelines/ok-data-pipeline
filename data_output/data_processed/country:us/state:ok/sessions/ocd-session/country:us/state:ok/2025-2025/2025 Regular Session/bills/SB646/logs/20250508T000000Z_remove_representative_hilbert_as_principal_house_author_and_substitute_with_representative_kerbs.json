@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Hilbert as principal House author and substitute with Representative Kerbs",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB646"
+}

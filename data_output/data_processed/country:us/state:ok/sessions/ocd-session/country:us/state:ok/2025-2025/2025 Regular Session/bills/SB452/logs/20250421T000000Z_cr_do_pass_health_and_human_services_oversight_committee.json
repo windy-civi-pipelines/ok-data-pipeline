@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "CR; Do Pass Health and Human Services Oversight Committee",
+    "date": "2025-04-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB452"
+}

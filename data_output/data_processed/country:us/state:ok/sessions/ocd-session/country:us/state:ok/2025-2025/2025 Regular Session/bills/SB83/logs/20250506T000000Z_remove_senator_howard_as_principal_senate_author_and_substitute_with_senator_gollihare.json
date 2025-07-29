@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Senator Howard as principal Senate author and substitute with Senator Gollihare",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB83"
+}

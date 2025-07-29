@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommendation to the full committee; Do Pass Appropriations and Budget Human Services Subcommittee",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1680"
+}

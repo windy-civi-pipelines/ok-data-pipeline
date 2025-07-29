@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Measure and Emergency passed:  Ayes: 34  Nays: 8",
+    "date": "2025-05-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1024"
+}

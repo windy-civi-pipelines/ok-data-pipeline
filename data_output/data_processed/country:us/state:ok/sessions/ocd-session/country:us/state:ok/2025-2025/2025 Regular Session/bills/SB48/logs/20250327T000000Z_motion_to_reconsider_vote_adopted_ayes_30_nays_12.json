@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to reconsider vote adopted:  Ayes: 30  Nays: 12",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB48"
+}

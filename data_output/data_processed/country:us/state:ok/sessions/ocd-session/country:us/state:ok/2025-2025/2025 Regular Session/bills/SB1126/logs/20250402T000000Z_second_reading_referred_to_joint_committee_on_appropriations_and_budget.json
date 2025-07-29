@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Second Reading referred to Joint Committee on Appropriations and Budget",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1126"
+}

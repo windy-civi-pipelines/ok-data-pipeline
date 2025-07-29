@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommendation to the full committee; Do Pass Appropriations and Budget Public Safety Subcommittee",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2028"
+}

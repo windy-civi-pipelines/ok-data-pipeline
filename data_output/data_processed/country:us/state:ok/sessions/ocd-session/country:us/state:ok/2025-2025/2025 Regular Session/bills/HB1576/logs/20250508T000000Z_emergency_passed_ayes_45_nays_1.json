@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Emergency passed:  Ayes: 45 Nays: 1",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1576"
+}

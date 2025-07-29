@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Energy and Natural Resources Oversight committee; Do Pass Utilities",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB480"
+}

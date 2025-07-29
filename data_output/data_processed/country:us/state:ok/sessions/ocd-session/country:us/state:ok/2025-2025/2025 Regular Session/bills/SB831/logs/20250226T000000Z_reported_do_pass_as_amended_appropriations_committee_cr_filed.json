@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported Do Pass as amended Appropriations committee; CR filed",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB831"
+}

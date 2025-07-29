@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Burns as principal House author and substitute with Representative Duel",
+    "date": "2025-02-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2836"
+}

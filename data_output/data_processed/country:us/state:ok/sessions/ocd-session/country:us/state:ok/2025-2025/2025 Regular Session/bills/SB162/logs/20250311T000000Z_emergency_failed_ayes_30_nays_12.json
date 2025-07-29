@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Emergency failed:  Ayes: 30 Nays: 12",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB162"
+}

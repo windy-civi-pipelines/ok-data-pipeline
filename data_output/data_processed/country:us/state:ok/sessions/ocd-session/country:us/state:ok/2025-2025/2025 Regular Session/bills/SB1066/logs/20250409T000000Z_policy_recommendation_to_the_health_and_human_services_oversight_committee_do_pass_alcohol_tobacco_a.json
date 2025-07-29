@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass Alcohol, Tobacco and Controlled Substances",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1066"
+}

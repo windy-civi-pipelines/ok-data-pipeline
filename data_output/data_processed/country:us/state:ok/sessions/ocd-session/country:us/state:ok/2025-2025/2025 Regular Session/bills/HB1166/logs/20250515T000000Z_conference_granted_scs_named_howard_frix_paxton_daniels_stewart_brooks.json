@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference granted, SCs named Howard, Frix, Paxton, Daniels, Stewart, Brooks",
+    "date": "2025-05-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1166"
+}

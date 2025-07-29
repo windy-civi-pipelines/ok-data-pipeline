@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove as principal author Representative Archer and substitute with Representative Stinson",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB904"
+}

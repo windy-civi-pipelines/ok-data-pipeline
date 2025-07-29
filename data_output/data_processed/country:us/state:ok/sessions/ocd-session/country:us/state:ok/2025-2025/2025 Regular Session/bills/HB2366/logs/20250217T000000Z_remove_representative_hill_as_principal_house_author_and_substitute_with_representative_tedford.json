@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Hill as principal House author and substitute with Representative Tedford",
+    "date": "2025-02-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2366"
+}

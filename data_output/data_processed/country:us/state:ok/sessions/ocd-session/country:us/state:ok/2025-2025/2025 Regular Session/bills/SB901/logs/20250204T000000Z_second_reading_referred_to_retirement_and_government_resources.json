@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Second Reading referred to Retirement and Government Resources",
+    "date": "2025-02-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB901"
+}

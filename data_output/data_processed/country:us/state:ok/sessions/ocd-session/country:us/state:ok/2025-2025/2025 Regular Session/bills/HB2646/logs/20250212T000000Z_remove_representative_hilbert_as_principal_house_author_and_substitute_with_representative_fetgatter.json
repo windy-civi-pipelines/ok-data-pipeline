@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Hilbert as principal House author and substitute with Representative Fetgatter",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2646"
+}

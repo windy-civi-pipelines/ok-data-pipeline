@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference granted, naming Special Conference Committee on SB 647",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB647"
+}

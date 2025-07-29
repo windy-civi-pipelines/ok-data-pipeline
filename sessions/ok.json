@@ -1,0 +1,94 @@
+{
+  "2011-2012": {
+    "name": "2011-2012 Regular Session",
+    "date_folder": "2011-2012"
+  },
+  "2012SS1": {
+    "name": "2012 Special Session",
+    "date_folder": "2012-2012"
+  },
+  "2013-2014": {
+    "name": "2013-2014 Regular Session",
+    "date_folder": "2013-2014"
+  },
+  "2013SS1": {
+    "name": "2013 Special Session",
+    "date_folder": "2013-2013"
+  },
+  "2015-2016": {
+    "name": "2015-2016 Regular Session",
+    "date_folder": "2015-2016"
+  },
+  "2017SS1": {
+    "name": "2017 First Special Session",
+    "date_folder": "2017-2017"
+  },
+  "2017SS2": {
+    "name": "2017 Second Special Session",
+    "date_folder": "2017-2018"
+  },
+  "2017-2018": {
+    "name": "2017-2018 Regular Session",
+    "date_folder": "2017-2018"
+  },
+  "2019-2020": {
+    "name": "2019-2020 Regular Session",
+    "date_folder": "2019-2019"
+  },
+  "2020SS1": {
+    "name": "2020 First Special Session",
+    "date_folder": "2020-2020"
+  },
+  "2020": {
+    "name": "2020 Regular Session",
+    "date_folder": "2019-2020"
+  },
+  "2021": {
+    "name": "2021 Regular Session",
+    "date_folder": "2021-2021"
+  },
+  "2022": {
+    "name": "2022 Regular Session",
+    "date_folder": "2022-2022"
+  },
+  "2021SS1": {
+    "name": "2021 First Special Session",
+    "date_folder": "2021-2021"
+  },
+  "2022SS2": {
+    "name": "2022 Second Special Session",
+    "date_folder": "2022-2022"
+  },
+  "2022SS3": {
+    "name": "2022 Third Special Session",
+    "date_folder": "2022-2022"
+  },
+  "2023": {
+    "name": "2023 Regular Session",
+    "date_folder": "2023-2023"
+  },
+  "2023S1": {
+    "name": "2023 First Special Session",
+    "date_folder": "2023-2023"
+  },
+  "2023S2": {
+    "name": "2023 Second Special Session",
+    "date_folder": "2023-2023"
+  },
+  "2024": {
+    "name": "2024 Regular Session",
+    "date_folder": "2024-2024"
+  },
+  "2024S3": {
+    "name": "2024 Third Special Session",
+    "date_folder": "2024-2024"
+  },
+  "2024S4": {
+    "name": "2024 Fourth Special Session",
+    "date_folder": "2024-2024"
+  },
+  "2025": {
+    "name": "2025 Regular Session",
+    "date_folder": "2025-2025"
+  }
+}

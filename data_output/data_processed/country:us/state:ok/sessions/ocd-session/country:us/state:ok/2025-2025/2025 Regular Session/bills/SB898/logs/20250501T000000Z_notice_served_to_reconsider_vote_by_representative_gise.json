@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Notice served to reconsider vote by Representative Gise",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB898"
+}

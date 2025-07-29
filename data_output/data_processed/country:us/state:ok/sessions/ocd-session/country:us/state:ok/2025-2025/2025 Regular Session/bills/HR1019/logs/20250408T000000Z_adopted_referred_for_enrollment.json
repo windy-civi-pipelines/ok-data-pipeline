@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Adopted, referred for enrollment",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR1019"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Second Reading referred to Health and Human Services",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2387"
+}

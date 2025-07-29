@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Measure passed:  Ayes: 39  Nays: 2",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1075"
+}

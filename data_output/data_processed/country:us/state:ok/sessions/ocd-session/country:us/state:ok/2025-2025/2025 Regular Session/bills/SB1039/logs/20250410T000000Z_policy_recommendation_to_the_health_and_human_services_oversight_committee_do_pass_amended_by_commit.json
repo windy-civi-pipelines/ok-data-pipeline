@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass, amended by committee substitute Alcohol, Tobacco and Controlled Substances",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1039"
+}

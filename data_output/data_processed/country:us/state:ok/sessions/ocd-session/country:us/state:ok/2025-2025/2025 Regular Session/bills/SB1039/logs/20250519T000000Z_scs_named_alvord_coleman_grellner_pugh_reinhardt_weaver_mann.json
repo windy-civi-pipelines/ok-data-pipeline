@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SCs named Alvord, Coleman, Grellner, Pugh, Reinhardt, Weaver, Mann",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB1039"
+}

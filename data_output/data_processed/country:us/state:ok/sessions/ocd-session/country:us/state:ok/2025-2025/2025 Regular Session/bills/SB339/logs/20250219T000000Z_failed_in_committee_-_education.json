@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Failed in Committee - Education",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB339"
+}

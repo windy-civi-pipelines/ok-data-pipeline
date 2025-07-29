@@ -1,0 +1,75 @@
+{
+  "identifier": "",
+  "motion_text": "County And Municipal Government Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "2d80901e-6cd1-11f0-8485-7e175fe115d3",
+  "bill_action": null,
+  "bill_identifier": "HB1052",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bennett",
+      "voter_id": "~{\"name\": \"Bennett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Blair",
+      "voter_id": "~{\"name\": \"Blair\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boles",
+      "voter_id": "~{\"name\": \"Boles\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dempsey",
+      "voter_id": "~{\"name\": \"Dempsey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kelley",
+      "voter_id": "~{\"name\": \"Kelley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner",
+      "voter_id": "~{\"name\": \"Turner\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1052_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1052_VOTES.HTM#4",
+  "_id": "2d92c9b4-6cd1-11f0-8485-7e175fe115d3"
+}

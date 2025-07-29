@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Caldwell (Chad) as principal House author and substitute with Representative Kelley",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1287"
+}

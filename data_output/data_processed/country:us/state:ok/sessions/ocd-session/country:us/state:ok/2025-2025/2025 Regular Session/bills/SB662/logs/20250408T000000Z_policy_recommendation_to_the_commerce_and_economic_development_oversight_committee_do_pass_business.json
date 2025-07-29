@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Commerce and Economic Development Oversight committee; Do Pass Business",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB662"
+}
