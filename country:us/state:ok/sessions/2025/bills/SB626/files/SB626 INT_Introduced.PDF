@@ -1,0 +1,1689 @@
+Title: SENATE BILL 626 By: Howard
+Official Title: SENATE BILL 626 By: Howard
+Number of Sections: 29
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Security Breach Notification
+7
+Act; amending 24 O.S. 2021, Sections 162, 163, 164,
+8
+165, and 166, which relate to definitions, duty to
+8
+disclose breach, notice, enforcement, and
+9
+application; modifying definitions; requiring notice
+9
+of security breach of certain information; requiring
+10
+notice to Attorney General under certain
+10
+circumstances; specifying contents of required
+11
+notice; providing exemptions from certain notice
+11
+requirements; requiring confidentiality of certain
+12
+information submitted to Attorney General;
+12
+authorizing Attorney General to promulgate rules;
+13
+clarifying compliance with certain notice
+13
+requirements; modifying authorized civil penalties
+14
+for certain violations; providing exemptions from
+14
+certain liability; limiting liability for violations
+15
+under certain circumstances; modifying applicability
+15
+of act; updating statutory language; updating
+16
+statutory references; and providing an effective
+16
+date.
+17
+17
+18
+18
+19
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19
+20
+
+Section 2:
+SECTION 1. AMENDATORY 24 O.S. 2021, Section 162, is
+20
+21
+amended to read as follows:
+21
+22
+
+Section 3:
+Section 162. As used in the Security Breach Notification Act:
+22
+23
+
+Section 4:
+1. “Breach of the security of a system” means the unauthorized
+23
+24
+access and acquisition of unencrypted and unredacted computerized
+24
+Req. No. 891 Page 1
+1
+data that compromises the security or confidentiality of personal
+1
+2
+information maintained by an individual or entity as part of a
+2
+3
+database of personal information regarding multiple individuals and
+3
+4
+that causes, or the individual or entity reasonably believes has
+4
+5
+caused or will cause, identity theft or other fraud to any resident
+5
+6
+of this state. Good faith acquisition of personal information by an
+6
+7
+employee or agent of an individual or entity for the purposes of the
+7
+8
+individual or the entity is not a breach of the security of the
+8
+9
+system, provided that the personal information is not used for a
+9
+10
+purpose other than a lawful purpose of the individual or entity or
+10
+11
+subject to further unauthorized disclosure;
+11
+12
+
+Section 5:
+2. “Entity” includes corporations, business trusts, estates,
+12
+13
+partnerships, limited partnerships, limited liability partnerships,
+13
+14
+limited liability companies, associations, organizations, joint
+14
+15
+ventures, governments, governmental subdivisions, agencies, or
+15
+16
+instrumentalities, or any other legal entity, whether for profit or
+16
+17
+not-for-profit;
+17
+18
+
+Section 6:
+3. “Encrypted” means transformation of data through the use of
+18
+19
+an algorithmic process into a form in which there is a low
+19
+20
+probability of assigning meaning without use of a confidential
+20
+21
+process or key, or securing the information by another method that
+21
+22
+renders the data elements unreadable or unusable;
+22
+23
+23
+24
+24
+Req. No. 891 Page 2
+1
+
+Section 7:
+4. “Financial institution” means any institution the business
+1
+2
+of which is engaging in financial activities as defined by 15
+2
+3
+U.S.C., Section 6809;
+3
+4
+
+Section 8:
+5. “Individual” means a natural person;
+4
+5
+
+Section 9:
+6. “Personal information” means the an individual’s first name
+5
+6
+or first initial and last name in combination with and linked to any
+6
+7
+one or more of the following data elements that relate to a resident
+7
+8
+of this state, when the individual if any of the data elements are
+8
+9
+neither not encrypted, nor redacted, or otherwise altered by any
+9
+10
+method or technology in such a manner that the name or data elements
+10
+11
+are unreadable or are encrypted, redacted, or otherwise altered by
+11
+12
+any method or technology but the keys to unencrypt, unredact, or
+12
+13
+otherwise read the data elements have been obtained through the
+13
+14
+breach of security:
+14
+15
+a. social security number,
+15
+16
+b. driver license number or state other unique
+16
+17
+identification card number issued in lieu of a driver
+17
+18
+license, or created or collected by a government
+18
+19
+entity,
+19
+20
+c. financial account number, or credit card or debit card
+20
+21
+number, in combination with any required expiration
+21
+22
+date, security code, access code, or password that
+22
+23
+would permit access to the an individual’s financial
+23
+24
+accounts of a resident account,
+24
+Req. No. 891 Page 3
+1
+d. unique electronic identifier or routing code in
+1
+2
+combination with any required security code, access
+2
+3
+code, or password that would permit access to an
+3
+4
+individual’s financial account, or
+4
+5
+e. unique biometric data such as a fingerprint, retina or
+5
+6
+iris image, or other unique physical or digital
+6
+7
+representation of biometric data.
+7
+8
+The term does not include information that is lawfully obtained from
+8
+9
+publicly available information sources, or from federal, state or
+9
+10
+local government records lawfully made available to the general
+10
+11
+public;
+11
+12
+
+Section 10:
+7. “Notice” means:
+12
+13
+a. written notice to the postal address in the records
+13
+14
+of the individual or entity,
+14
+15
+b. telephone notice,
+15
+16
+c. electronic notice, or
+16
+17
+d. substitute notice, if the individual or the entity
+17
+18
+required to provide notice demonstrates that the cost
+18
+19
+of providing notice will exceed Fifty Thousand Dollars
+19
+20
+($50,000.00), or that the affected class of residents
+20
+21
+to be notified exceeds one hundred thousand (100,000)
+21
+22
+persons, or that the individual or the entity does not
+22
+23
+have sufficient contact information or consent to
+23
+24
+provide notice as described in subparagraph a, b, or c
+24
+Req. No. 891 Page 4
+1
+of this paragraph. Substitute notice consists of any
+1
+2
+two of the following:
+2
+3
+(1) e-mail email notice if the individual or the
+3
+4
+entity has e-mail email addresses for the members
+4
+5
+of the affected class of residents,
+5
+6
+(2) conspicuous posting of the notice on the Internet
+6
+7
+web site website of the individual or the entity
+7
+8
+if the individual or the entity maintains a
+8
+9
+public Internet web site website, or
+9
+10
+(3) notice to major statewide media; and
+10
+11
+
+Section 11:
+8. “Reasonable safeguards” means policies and practices that
+11
+12
+ensure personal information is secure, taking into consideration an
+12
+13
+entity’s size and the type and amount of personal information. The
+13
+14
+term includes, but is not limited to, conducting risk assessments,
+14
+15
+implementing technical and physical layered defenses, employee
+15
+16
+training on handling personal information, and establishing an
+16
+17
+incident response plan; and
+17
+18
+
+Section 12:
+9. “Redact” means alteration or truncation of data such that no
+18
+19
+more than the following are accessible as part of the personal
+19
+20
+information:
+20
+21
+a. five digits of a social security number, or
+21
+22
+b. the last four digits of a driver license number, state
+22
+23
+unique identification card number created or collected
+23
+24
+by a government entity, or account number.
+24
+Req. No. 891 Page 5
+1
+
+Section 13:
+SECTION 2. AMENDATORY 24 O.S. 2021, Section 163, is
+1
+2
+amended to read as follows:
+2
+3
+
+Section 14:
+Section 163. A. An individual or entity that owns or licenses
+3
+4
+computerized data that includes personal information shall disclose
+4
+5
+provide notice of any breach of the security of the system following
+5
+6
+discovery determination or notification of the breach of the
+6
+7
+security of the system to any resident of this state whose
+7
+8
+unencrypted and unredacted personal information was or is reasonably
+8
+9
+believed to have been accessed and acquired by an unauthorized
+9
+10
+person and that causes, or the individual or entity reasonably
+10
+11
+believes has caused or will cause, identity theft or other fraud to
+11
+12
+any resident of this state. Except as provided in subsection D of
+12
+13
+this section or in order to take any measures necessary to determine
+13
+14
+the scope of the breach and to restore the reasonable integrity of
+14
+15
+the system, the disclosure shall be made without unreasonable delay.
+15
+16
+B. An individual or entity must disclose shall provide notice
+16
+17
+of the breach of the security of the system if encrypted or redacted
+17
+18
+information is accessed and acquired in an unencrypted or unredacted
+18
+19
+form or if the security breach involves a person with access to the
+19
+20
+encryption key and the individual or entity reasonably believes that
+20
+21
+such breach has caused or will cause identity theft or other fraud
+21
+22
+to any resident of this state.
+22
+23
+C. An individual or entity that maintains computerized data
+23
+24
+that includes personal information that the individual or entity
+24
+Req. No. 891 Page 6
+1
+does not own or license shall notify provide notice to the owner or
+1
+2
+licensee of the information of any breach of the security of the
+2
+3
+system as soon as practicable following discovery determination, if
+3
+4
+the personal information was or if the entity reasonably believes it
+4
+5
+was accessed and acquired by an unauthorized person.
+5
+6
+D. Notice required by this section may be delayed if a law
+6
+7
+enforcement agency determines and advises the individual or entity
+7
+8
+that the notice will impede a criminal or civil investigation or
+8
+9
+homeland or national security. Notice required by this section must
+9
+10
+be made without unreasonable delay after the law enforcement agency
+10
+11
+determines that notification will no longer impede the investigation
+11
+12
+or jeopardize national or homeland security.
+12
+13
+E. 1. An individual or entity required to provide notice in
+13
+14
+accordance with subsection A, B, or C of this section shall also
+14
+15
+provide notice to the Attorney General of such breach without
+15
+16
+unreasonable delay but in no event more than sixty (60) days after
+16
+17
+providing notice to impacted residents of this state as required by
+17
+18
+this section. The notice shall include the date of the breach, the
+18
+19
+date of its determination, the nature of the breach, the type of
+19
+20
+personal information exposed, the number of residents of this state
+20
+21
+affected, the estimated monetary impact of the breach to the extent
+21
+22
+such impact can be determined, and any reasonable safeguards the
+22
+23
+entity employs.
+23
+24
+24
+Req. No. 891 Page 7
+1
+
+Section 15:
+2. A breach of a security system where fewer than five hundred
+1
+2
+(500) residents of this state are affected within a single breach
+2
+3
+shall be exempt from the notice requirements of paragraph 1 of this
+3
+4
+subsection.
+4
+5
+
+Section 16:
+3. A breach of a security system maintained by a credit bureau
+5
+6
+where fewer than one thousand (1,000) residents of this state are
+6
+7
+affected within a single breach shall be exempt from the notice
+7
+8
+requirements of paragraph 1 of this subsection.
+8
+9
+F. Any personal information submitted to the Attorney General
+9
+10
+shall be kept confidential pursuant to Section 24A.12 of Title 51 of
+10
+11
+the Oklahoma Statutes.
+11
+12
+G. The Attorney General may promulgate rules as necessary to
+12
+13
+effectuate the provisions of this section.
+13
+14
+
+Section 17:
+SECTION 3. AMENDATORY 24 O.S. 2021, Section 164, is
+14
+15
+amended to read as follows:
+15
+16
+
+Section 18:
+Section 164. A. An individual or entity that maintains its own
+16
+17
+notification procedures as part of an information privacy or
+17
+18
+security policy for the treatment of personal information and that
+18
+19
+are consistent with the timing requirements of this act the Security
+19
+20
+Breach Notification Act shall be deemed to be in compliance with the
+20
+21
+notification requirements of this act subsection A, B, or C of
+21
+22
+
+Section 19:
+Section 163 of this title if it the individual or entity notifies
+22
+23
+residents of this state in accordance with its procedures in the
+23
+24
+event of a breach of security of the system.
+24
+Req. No. 891 Page 8
+1
+B. The following entities shall be deemed to be in compliance
+1
+2
+with the notification requirements of subsection A, B, or C of
+2
+3
+
+Section 20:
+Section 163 of this title if such entities provide notice to the
+3
+4
+Attorney General as required by subsection E of Section 163 of this
+4
+5
+title:
+5
+6
+
+Section 21:
+1. A financial institution that complies with the notification
+6
+7
+requirements prescribed by the Federal Gramm-Leach-Bliley Act and
+7
+8
+the federal Interagency Guidance on Response Programs for
+8
+9
+Unauthorized Access to Customer Information and Customer Notice is
+9
+10
+deemed to be in compliance with the provisions of this act.;
+10
+11
+
+Section 22:
+2. An entity that complies with the notification requirements
+11
+12
+prescribed by the Oklahoma Hospital Cybersecurity Protection Act of
+12
+13
+2023 or the Health Insurance Portability and Accountability Act of
+13
+14
+1996 (HIPAA); and
+14
+15
+
+Section 23:
+3. An entity that complies with the notification requirements
+15
+16
+or procedures pursuant to the rules, regulation regulations,
+16
+17
+procedures, or guidelines established by the primary or functional
+17
+18
+federal regulator of the entity shall be deemed to be in compliance
+18
+19
+with the provisions of this act.
+19
+20
+
+Section 24:
+SECTION 4. AMENDATORY 24 O.S. 2021, Section 165, is
+20
+21
+amended to read as follows:
+21
+22
+
+Section 25:
+Section 165. A. A violation of this act the Security Breach
+22
+23
+Notification Act that results in injury or loss to residents of this
+23
+24
+state may be enforced by the Attorney General or a district attorney
+24
+Req. No. 891 Page 9
+1
+in the same manner as an unlawful practice under the Oklahoma
+1
+2
+Consumer Protection Act.
+2
+3
+B. Except as provided in subsection C D of this section, the
+3
+4
+Attorney General or a district attorney shall have exclusive
+4
+5
+authority to bring an action and may obtain either actual damages
+5
+6
+for a violation of this act or the Security Breach Notification Act
+6
+7
+and a civil penalty not to exceed One Hundred Fifty Thousand Dollars
+7
+8
+($150,000.00) per breach of the security of the system or series of
+8
+9
+breaches of a similar nature that are discovered determined in a
+9
+10
+single investigation. Civil penalties shall be based upon the
+10
+11
+magnitude of the breach, the extent to which the behavior of the
+11
+12
+individual or entity contributed to the breach, and any failure to
+12
+13
+provide the notice required by Section 163 of this title.
+13
+14
+C. 1. An individual or entity that uses reasonable safeguards
+14
+15
+and provides notice as required by Section 163 or 164 of this title
+15
+16
+shall not be subject to civil penalties and may use such compliance
+16
+17
+as an affirmative defense in a civil action filed under the Security
+17
+18
+Breach Notification Act.
+18
+19
+
+Section 26:
+2. An individual or entity that fails to use reasonable
+19
+20
+safeguards but provides notice as required by Section 163 or 164 of
+20
+21
+this title shall not be subject to the civil penalty set forth in
+21
+22
+subsection B of this section but shall be subject to actual damages
+22
+23
+and a civil penalty of Seventy-five Thousand Dollars ($75,000.00).
+23
+24
+24
+Req. No. 891 Page 10
+1
+C. D. A violation of this act the Security Breach Notification
+1
+2
+Act by a state-chartered or state-licensed financial institution
+2
+3
+shall be enforceable exclusively by the primary state regulator of
+3
+4
+the financial institution.
+4
+5
+
+Section 27:
+SECTION 5. AMENDATORY 24 O.S. 2021, Section 166, is
+5
+6
+amended to read as follows:
+6
+7
+
+Section 28:
+Section 166. This act The Security Breach Notification Act
+7
+8
+shall apply to the discovery determination or notification of a
+8
+9
+breach of the security of the system that occurs on or after
+9
+10
+November 1, 2008 January 1, 2026.
+10
+11
+
+Section 29:
+SECTION 6. This act shall become effective January 1, 2026.
+11
+12
+12
+13
+60-1-891 CN 1/19/2025 5:40:17 AM
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 891 Page 11
+[DELETED:  P B H]
+[DELETED:  P]
+[DELETED:  P s d f]
+[DELETED:  P u u w t e s]
+[DELETED:  P e c n f t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 626 By: Howard
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Security Breach Notification
+7
+Act; amending 24 O.S. 2021, Sections 162, 163, 164,
+8
+165, and 166, which relate to definitions, duty to
+8
+disclose breach, notice, enforcement, and
+9
+application; modifying definitions; requiring notice
+9
+of security breach of certain information; requiring
+10
+notice to Attorney General under certain
+10
+circumstances; specifying contents of required
+11
+notice; providing exemptions from certain notice
+11
+requirements; requiring confidentiality of certain
+12
+information submitted to Attorney General;
+12
+authorizing Attorney General to promulgate rules;
+13
+clarifying compliance with certain notice
+13
+requirements; modifying authorized civil penalties
+14
+for certain violations; providing exemptions from
+14
+certain liability; limiting liability for violations
+15
+under certain circumstances; modifying applicability
+15
+of act; updating statutory language; updating
+16
+statutory references; and providing an effective
+16
+date.
+17
+17
+18
+18
+19
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19
+20
+SECTION 1. AMENDATORY 24 O.S. 2021, Section 162, is
+20
+21
+amended to read as follows:
+21
+22
+Section 162. As used in the Security Breach Notification Act:
+22
+23
+1. “Breach of the security of a system” means the unauthorized
+23
+24
+access and acquisition of unencrypted and unredacted computerized
+24
+Req. No. 891 Page 1
+
+1
+data that compromises the security or confidentiality of personal
+1
+2
+information maintained by an individual or entity as part of a
+2
+3
+database of personal information regarding multiple individuals and
+3
+4
+that causes, or the individual or entity reasonably believes has
+4
+5
+caused or will cause, identity theft or other fraud to any resident
+5
+6
+of this state. Good faith acquisition of personal information by an
+6
+7
+employee or agent of an individual or entity for the purposes of the
+7
+8
+individual or the entity is not a breach of the security of the
+8
+9
+system, provided that the personal information is not used for a
+9
+10
+purpose other than a lawful purpose of the individual or entity or
+10
+11
+subject to further unauthorized disclosure;
+11
+12
+2. “Entity” includes corporations, business trusts, estates,
+12
+13
+partnerships, limited partnerships, limited liability partnerships,
+13
+14
+limited liability companies, associations, organizations, joint
+14
+15
+ventures, governments, governmental subdivisions, agencies, or
+15
+16
+instrumentalities, or any other legal entity, whether for profit or
+16
+17
+not-for-profit;
+17
+18
+3. “Encrypted” means transformation of data through the use of
+18
+19
+an algorithmic process into a form in which there is a low
+19
+20
+probability of assigning meaning without use of a confidential
+20
+21
+process or key, or securing the information by another method that
+21
+22
+renders the data elements unreadable or unusable;
+22
+23
+23
+24
+24
+Req. No. 891 Page 2
+
+1
+4. “Financial institution” means any institution the business
+1
+2
+of which is engaging in financial activities as defined by 15
+2
+3
+U.S.C., Section 6809;
+3
+4
+5. “Individual” means a natural person;
+4
+5
+6. “Personal information” means the an individual’s first name
+5
+6
+or first initial and last name in combination with and linked to any
+6
+7
+one or more of the following data elements that relate to a resident
+7
+8
+of this state, when the individual if any of the data elements are
+8
+9
+neither not encrypted, nor redacted, or otherwise altered by any
+9
+10
+method or technology in such a manner that the name or data elements
+10
+11
+are unreadable or are encrypted, redacted, or otherwise altered by
+11
+12
+any method or technology but the keys to unencrypt, unredact, or
+12
+13
+otherwise read the data elements have been obtained through the
+13
+14
+breach of security:
+14
+15
+a. social security number,
+15
+16
+b. driver license number or state other unique
+16
+17
+identification card number issued in lieu of a driver
+17
+18
+license, or created or collected by a government
+18
+19
+entity,
+19
+20
+c. financial account number, or credit card or debit card
+20
+21
+number, in combination with any required expiration
+21
+22
+date, security code, access code, or password that
+22
+23
+would permit access to the an individual’s financial
+23
+24
+accounts of a resident account,
+24
+Req. No. 891 Page 3
+
+1
+d. unique electronic identifier or routing code in
+1
+2
+combination with any required security code, access
+2
+3
+code, or password that would permit access to an
+3
+4
+individual’s financial account, or
+4
+5
+e. unique biometric data such as a fingerprint, retina or
+5
+6
+iris image, or other unique physical or digital
+6
+7
+representation of biometric data.
+7
+8
+The term does not include information that is lawfully obtained from
+8
+9
+publicly available information sources, or from federal, state or
+9
+10
+local government records lawfully made available to the general
+10
+11
+public;
+11
+12
+7. “Notice” means:
+12
+13
+a. written notice to the postal address in the records
+13
+14
+of the individual or entity,
+14
+15
+b. telephone notice,
+15
+16
+c. electronic notice, or
+16
+17
+d. substitute notice, if the individual or the entity
+17
+18
+required to provide notice demonstrates that the cost
+18
+19
+of providing notice will exceed Fifty Thousand Dollars
+19
+20
+($50,000.00), or that the affected class of residents
+20
+21
+to be notified exceeds one hundred thousand (100,000)
+21
+22
+persons, or that the individual or the entity does not
+22
+23
+have sufficient contact information or consent to
+23
+24
+provide notice as described in subparagraph a, b, or c
+24
+Req. No. 891 Page 4
+
+1
+of this paragraph. Substitute notice consists of any
+1
+2
+two of the following:
+2
+3
+(1) e-mail email notice if the individual or the
+3
+4
+entity has e-mail email addresses for the members
+4
+5
+of the affected class of residents,
+5
+6
+(2) conspicuous posting of the notice on the Internet
+6
+7
+web site website of the individual or the entity
+7
+8
+if the individual or the entity maintains a
+8
+9
+public Internet web site website, or
+9
+10
+(3) notice to major statewide media; and
+10
+11
+8. “Reasonable safeguards” means policies and practices that
+11
+12
+ensure personal information is secure, taking into consideration an
+12
+13
+entity’s size and the type and amount of personal information. The
+13
+14
+term includes, but is not limited to, conducting risk assessments,
+14
+15
+implementing technical and physical layered defenses, employee
+15
+16
+training on handling personal information, and establishing an
+16
+17
+incident response plan; and
+17
+18
+9. “Redact” means alteration or truncation of data such that no
+18
+19
+more than the following are accessible as part of the personal
+19
+20
+information:
+20
+21
+a. five digits of a social security number, or
+21
+22
+b. the last four digits of a driver license number, state
+22
+23
+unique identification card number created or collected
+23
+24
+by a government entity, or account number.
+24
+Req. No. 891 Page 5
+
+1
+SECTION 2. AMENDATORY 24 O.S. 2021, Section 163, is
+1
+2
+amended to read as follows:
+2
+3
+Section 163. A. An individual or entity that owns or licenses
+3
+4
+computerized data that includes personal information shall disclose
+4
+5
+provide notice of any breach of the security of the system following
+5
+6
+discovery determination or notification of the breach of the
+6
+7
+security of the system to any resident of this state whose
+7
+8
+unencrypted and unredacted personal information was or is reasonably
+8
+9
+believed to have been accessed and acquired by an unauthorized
+9
+10
+person and that causes, or the individual or entity reasonably
+10
+11
+believes has caused or will cause, identity theft or other fraud to
+11
+12
+any resident of this state. Except as provided in subsection D of
+12
+13
+this section or in order to take any measures necessary to determine
+13
+14
+the scope of the breach and to restore the reasonable integrity of
+14
+15
+the system, the disclosure shall be made without unreasonable delay.
+15
+16
+B. An individual or entity must disclose shall provide notice
+16
+17
+of the breach of the security of the system if encrypted or redacted
+17
+18
+information is accessed and acquired in an unencrypted or unredacted
+18
+19
+form or if the security breach involves a person with access to the
+19
+20
+encryption key and the individual or entity reasonably believes that
+20
+21
+such breach has caused or will cause identity theft or other fraud
+21
+22
+to any resident of this state.
+22
+23
+C. An individual or entity that maintains computerized data
+23
+24
+that includes personal information that the individual or entity
+24
+Req. No. 891 Page 6
+
+1
+does not own or license shall notify provide notice to the owner or
+1
+2
+licensee of the information of any breach of the security of the
+2
+3
+system as soon as practicable following discovery determination, if
+3
+4
+the personal information was or if the entity reasonably believes it
+4
+5
+was accessed and acquired by an unauthorized person.
+5
+6
+D. Notice required by this section may be delayed if a law
+6
+7
+enforcement agency determines and advises the individual or entity
+7
+8
+that the notice will impede a criminal or civil investigation or
+8
+9
+homeland or national security. Notice required by this section must
+9
+10
+be made without unreasonable delay after the law enforcement agency
+10
+11
+determines that notification will no longer impede the investigation
+11
+12
+or jeopardize national or homeland security.
+12
+13
+E. 1. An individual or entity required to provide notice in
+13
+14
+accordance with subsection A, B, or C of this section shall also
+14
+15
+provide notice to the Attorney General of such breach without
+15
+16
+unreasonable delay but in no event more than sixty (60) days after
+16
+17
+providing notice to impacted residents of this state as required by
+17
+18
+this section. The notice shall include the date of the breach, the
+18
+19
+date of its determination, the nature of the breach, the type of
+19
+20
+personal information exposed, the number of residents of this state
+20
+21
+affected, the estimated monetary impact of the breach to the extent
+21
+22
+such impact can be determined, and any reasonable safeguards the
+22
+23
+entity employs.
+23
+24
+24
+Req. No. 891 Page 7
+
+1
+2. A breach of a security system where fewer than five hundred
+1
+2
+(500) residents of this state are affected within a single breach
+2
+3
+shall be exempt from the notice requirements of paragraph 1 of this
+3
+4
+subsection.
+4
+5
+3. A breach of a security system maintained by a credit bureau
+5
+6
+where fewer than one thousand (1,000) residents of this state are
+6
+7
+affected within a single breach shall be exempt from the notice
+7
+8
+requirements of paragraph 1 of this subsection.
+8
+9
+F. Any personal information submitted to the Attorney General
+9
+10
+shall be kept confidential pursuant to Section 24A.12 of Title 51 of
+10
+11
+the Oklahoma Statutes.
+11
+12
+G. The Attorney General may promulgate rules as necessary to
+12
+13
+effectuate the provisions of this section.
+13
+14
+SECTION 3. AMENDATORY 24 O.S. 2021, Section 164, is
+14
+15
+amended to read as follows:
+15
+16
+Section 164. A. An individual or entity that maintains its own
+16
+17
+notification procedures as part of an information privacy or
+17
+18
+security policy for the treatment of personal information and that
+18
+19
+are consistent with the timing requirements of this act the Security
+19
+20
+Breach Notification Act shall be deemed to be in compliance with the
+20
+21
+notification requirements of this act subsection A, B, or C of
+21
+22
+Section 163 of this title if it the individual or entity notifies
+22
+23
+residents of this state in accordance with its procedures in the
+23
+24
+event of a breach of security of the system.
+24
+Req. No. 891 Page 8
+
+1
+B. The following entities shall be deemed to be in compliance
+1
+2
+with the notification requirements of subsection A, B, or C of
+2
+3
+Section 163 of this title if such entities provide notice to the
+3
+4
+Attorney General as required by subsection E of Section 163 of this
+4
+5
+title:
+5
+6
+1. A financial institution that complies with the notification
+6
+7
+requirements prescribed by the Federal Gramm-Leach-Bliley Act and
+7
+8
+the federal Interagency Guidance on Response Programs for
+8
+9
+Unauthorized Access to Customer Information and Customer Notice is
+9
+10
+deemed to be in compliance with the provisions of this act.;
+10
+11
+2. An entity that complies with the notification requirements
+11
+12
+prescribed by the Oklahoma Hospital Cybersecurity Protection Act of
+12
+13
+2023 or the Health Insurance Portability and Accountability Act of
+13
+14
+1996 (HIPAA); and
+14
+15
+3. An entity that complies with the notification requirements
+15
+16
+or procedures pursuant to the rules, regulation regulations,
+16
+17
+procedures, or guidelines established by the primary or functional
+17
+18
+federal regulator of the entity shall be deemed to be in compliance
+18
+19
+with the provisions of this act.
+19
+20
+SECTION 4. AMENDATORY 24 O.S. 2021, Section 165, is
+20
+21
+amended to read as follows:
+21
+22
+Section 165. A. A violation of this act the Security Breach
+22
+23
+Notification Act that results in injury or loss to residents of this
+23
+24
+state may be enforced by the Attorney General or a district attorney
+24
+Req. No. 891 Page 9
+
+1
+in the same manner as an unlawful practice under the Oklahoma
+1
+2
+Consumer Protection Act.
+2
+3
+B. Except as provided in subsection C D of this section, the
+3
+4
+Attorney General or a district attorney shall have exclusive
+4
+5
+authority to bring an action and may obtain either actual damages
+5
+6
+for a violation of this act or the Security Breach Notification Act
+6
+7
+and a civil penalty not to exceed One Hundred Fifty Thousand Dollars
+7
+8
+($150,000.00) per breach of the security of the system or series of
+8
+9
+breaches of a similar nature that are discovered determined in a
+9
+10
+single investigation. Civil penalties shall be based upon the
+10
+11
+magnitude of the breach, the extent to which the behavior of the
+11
+12
+individual or entity contributed to the breach, and any failure to
+12
+13
+provide the notice required by Section 163 of this title.
+13
+14
+C. 1. An individual or entity that uses reasonable safeguards
+14
+15
+and provides notice as required by Section 163 or 164 of this title
+15
+16
+shall not be subject to civil penalties and may use such compliance
+16
+17
+as an affirmative defense in a civil action filed under the Security
+17
+18
+Breach Notification Act.
+18
+19
+2. An individual or entity that fails to use reasonable
+19
+20
+safeguards but provides notice as required by Section 163 or 164 of
+20
+21
+this title shall not be subject to the civil penalty set forth in
+21
+22
+subsection B of this section but shall be subject to actual damages
+22
+23
+and a civil penalty of Seventy-five Thousand Dollars ($75,000.00).
+23
+24
+24
+Req. No. 891 Page 10
+
+1
+C. D. A violation of this act the Security Breach Notification
+1
+2
+Act by a state-chartered or state-licensed financial institution
+2
+3
+shall be enforceable exclusively by the primary state regulator of
+3
+4
+the financial institution.
+4
+5
+SECTION 5. AMENDATORY 24 O.S. 2021, Section 166, is
+5
+6
+amended to read as follows:
+6
+7
+Section 166. This act The Security Breach Notification Act
+7
+8
+shall apply to the discovery determination or notification of a
+8
+9
+breach of the security of the system that occurs on or after
+9
+10
+November 1, 2008 January 1, 2026.
+10
+11
+SECTION 6. This act shall become effective January 1, 2026.
+11
+12
+12
+13
+60-1-891 CN 1/19/2025 5:40:17 AM
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 891 Page 11
+
+[DELETED:  P B H]
+[DELETED:  P]
+[DELETED:  P s d f]
+[DELETED:  P u u w t e s]
+[DELETED:  P e c n f t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]

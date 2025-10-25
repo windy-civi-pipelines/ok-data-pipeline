@@ -1,0 +1,647 @@
+Title: BILL NO. 626 By: Howard of the Senate
+Official Title: BILL NO. 626 By: Howard of the Senate
+Number of Sections: 1
+Source: versions - Floor (House)
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 1st Session of the 60th Legislature (2025)
+4 ENGROSSED SENATE
+5
+and
+6
+Pfeiffer of the House
+7
+8
+9 An Act relating to the Security Breach Notification
+Act; amending 24 O.S. 2021, Sections 162, 163, 164,
+10 165, and 166, which relate to definitions, duty to
+disclose breach, notice, enforcement, and
+11 application; modifying definitions; requiring notice
+of security breach of certain information; requiring
+12 notice to Attorney General under certain
+circumstances; specifying contents of required
+13 notice; providing exemptions from certain notice
+requirements; requiring confidentiality of certain
+14 information submitted to Attorney General;
+authorizing Attorney General to promulgate rules;
+15 clarifying compliance with certain notice
+requirements; modifying authorized civil penalties
+16 for certain violations; providing exemptions from
+certain liability; limiting liability for violations
+17 under certain circumstances; modifying applicability
+of act; updating statutory language; updating
+18 statutory references; and providing an effective
+date.
+19
+20
+21 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+22 SECTION 1. AMENDATORY 24 O.S. 2021, Section 162, is
+23 amended to read as follows:
+24 Section 162. As used in the Security Breach Notification Act:
+SB626 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+1 1. “Breach of the security of a system” means the unauthorized
+2 access and acquisition of unencrypted and unredacted computerized
+3 data that compromises the security or confidentiality of personal
+4 information maintained by an individual or entity as part of a
+5 database of personal information regarding multiple individuals and
+6 that causes, or the individual or entity reasonably believes has
+7 caused or will cause, identity theft or other fraud to any resident
+8 of this state. Good faith acquisition of personal information by an
+9 employee or agent of an individual or entity for the purposes of the
+10 individual or the entity is not a breach of the security of the
+11 system, provided that the personal information is not used for a
+12 purpose other than a lawful purpose of the individual or entity or
+13 subject to further unauthorized disclosure;
+14 2. “Entity” includes corporations, business trusts, estates,
+15 partnerships, limited partnerships, limited liability partnerships,
+16 limited liability companies, associations, organizations, joint
+17 ventures, governments, governmental subdivisions, agencies, or
+18 instrumentalities, or any other legal entity, whether for profit or
+19 not-for-profit;
+20 3. “Encrypted” means transformation of data through the use of
+21 an algorithmic process into a form in which there is a low
+22 probability of assigning meaning without use of a confidential
+23 process or key, or securing the information by another method that
+24 renders the data elements unreadable or unusable;
+SB626 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+1 4. “Financial institution” means any institution the business
+2 of which is engaging in financial activities as defined by 15
+3 U.S.C., Section 6809;
+4 5. “Individual” means a natural person;
+5 6. “Personal information” means the an individual’s first name
+6 or first initial and last name in combination with and linked to any
+7 one or more of the following data elements that relate to a resident
+8 of this state, when the individual if any of the data elements are
+9 neither not encrypted, nor redacted, or otherwise altered by any
+10 method or technology in such a manner that the name or data elements
+11 are unreadable or are encrypted, redacted, or otherwise altered by
+12 any method or technology but the keys to unencrypt, unredact, or
+13 otherwise read the data elements have been obtained through the
+14 breach of security:
+15 a. social security number,
+16 b. driver license number or state other unique
+17 identification card number issued in lieu of a driver
+18 license, or created or collected by a government
+19 entity,
+20 c. financial account number, or credit card or debit card
+21 number, in combination with any required expiration
+22 date, security code, access code, or password that
+23 would permit access to the an individual’s financial
+24 accounts of a resident account,
+SB626 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+1 d. unique electronic identifier or routing code in
+2 combination with any required security code, access
+3 code, or password that would permit access to an
+4 individual’s financial account, or
+5 e. unique biometric data such as a fingerprint, retina or
+6 iris image, or other unique physical or digital
+7 representation of biometric data to authenticate a
+8 specific individual.
+9 The term does not include information that is lawfully obtained from
+10 publicly available information sources, or from federal, state or
+11 local government records lawfully made available to the general
+12 public;
+13 7. “Notice” means:
+14 a. written notice to the postal address in the records
+15 of the individual or entity,
+16 b. telephone notice,
+17 c. electronic notice, or
+18 d. substitute notice, if the individual or the entity
+19 required to provide notice demonstrates that the cost
+20 of providing notice will exceed Fifty Thousand Dollars
+21 ($50,000.00), or that the affected class of residents
+22 to be notified exceeds one hundred thousand (100,000)
+23 persons, or that the individual or the entity does not
+24 have sufficient contact information or consent to
+SB626 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+1 provide notice as described in subparagraph a, b, or c
+2 of this paragraph. Substitute notice consists of any
+3 two of the following:
+4 (1) e-mail email notice if the individual or the
+5 entity has e-mail email addresses for the members
+6 of the affected class of residents,
+7 (2) conspicuous posting of the notice on the Internet
+8 web site website of the individual or the entity
+9 if the individual or the entity maintains a
+10 public Internet web site website, or
+11 (3) notice to major statewide media; and
+12 8. “Reasonable safeguards” means policies and practices that
+13 ensure personal information is secure, taking into consideration an
+14 entity’s size and the type and amount of personal information. The
+15 term includes, but is not limited to, conducting risk assessments,
+16 implementing technical and physical layered defenses, employee
+17 training on handling personal information, and establishing an
+18 incident response plan; and
+19 9. “Redact” means alteration or truncation of data such that no
+20 more than the following are accessible as part of the personal
+21 information:
+22 a. five digits of a social security number, or
+23
+24
+SB626 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+1 b. the last four digits of a driver license number, state
+2 unique identification card number created or collected
+3 by a government entity, or account number.
+4 SECTION 2. AMENDATORY 24 O.S. 2021, Section 163, is
+5 amended to read as follows:
+6 Section 163. A. An individual or entity that owns or licenses
+7 computerized data that includes personal information shall disclose
+8 provide notice of any breach of the security of the system following
+9 discovery determination or notification of the breach of the
+10 security of the system to any resident of this state whose
+11 unencrypted and unredacted personal information was or is reasonably
+12 believed to have been accessed and acquired by an unauthorized
+13 person and that causes, or the individual or entity reasonably
+14 believes has caused or will cause, identity theft or other fraud to
+15 any resident of this state. Except as provided in subsection D of
+16 this section or in order to take any measures necessary to determine
+17 the scope of the breach and to restore the reasonable integrity of
+18 the system, the disclosure shall be made without unreasonable delay.
+19 B. An individual or entity must disclose shall provide notice
+20 of the breach of the security of the system if encrypted or redacted
+21 information is accessed and acquired in an unencrypted or unredacted
+22 form or if the security breach involves a person with access to the
+23 encryption key and the individual or entity reasonably believes that
+24
+SB626 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+1 such breach has caused or will cause identity theft or other fraud
+2 to any resident of this state.
+3 C. An individual or entity that maintains computerized data
+4 that includes personal information that the individual or entity
+5 does not own or license shall notify provide notice to the owner or
+6 licensee of the information of any breach of the security of the
+7 system as soon as practicable following discovery determination, if
+8 the personal information was or if the entity reasonably believes it
+9 was accessed and acquired by an unauthorized person.
+10 D. Notice required by this section may be delayed if a law
+11 enforcement agency determines and advises the individual or entity
+12 that the notice will impede a criminal or civil investigation or
+13 homeland or national security. Notice required by this section must
+14 be made without unreasonable delay after the law enforcement agency
+15 determines that notification will no longer impede the investigation
+16 or jeopardize national or homeland security.
+17 E. 1. An individual or entity required to provide notice in
+18 accordance with subsection A, B, or C of this section shall also
+19 provide notice to the Attorney General of such breach without
+20 unreasonable delay but in no event more than sixty (60) days after
+21 providing notice to impacted residents of this state as required by
+22 this section. The notice shall include the date of the breach, the
+23 date of its determination, the nature of the breach, the type of
+24 personal information exposed, the number of residents of this state
+SB626 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+1 affe cted, the estimated monetary impact of the breach to the extent
+2 such impact can be determined, and any reasonable safeguards the
+3 entity employs.
+4 2. A breach of a security system where fewer than five hundred
+5 (500) residents of this state are affected within a single breach
+6 shall be exempt from the notice requirements of paragraph 1 of this
+7 subsection.
+8 3. A breach of a security system maintained by a credit bureau
+9 where fewer than one thousand (1,000) residents of this state are
+10 affected within a single breach shall be exempt from the notice
+11 requirements of paragraph 1 of this subsection.
+12 F. Any personal information submitted to the Attorney General
+13 shall be kept confidential pursuant to Section 24A.12 of Title 51 of
+14 the Oklahoma Statutes.
+15 G. The Attorney General may promulgate rules as necessary to
+16 effectuate the provisions of this section.
+17 SECTION 3. AMENDATORY 24 O.S. 2021, Section 164, is
+18 amended to read as follows:
+19 Section 164. A. An individual or entity that maintains its own
+20 notification procedures as part of an information privacy or
+21 security policy for the treatment of personal information and that
+22 are consistent with the timing requirements of this act the Security
+23 Breach Notification Act shall be deemed to be in compliance with the
+24 notification requirements of this act subsection A, B, or C of
+SB626 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+1 Sect ion 163 of this title if it the individual or entity notifies
+2 residents of this state in accordance with its procedures in the
+3 event of a breach of security of the system.
+4 B. The following entities shall be deemed to be in compliance
+5 with the notification requirements of subsection A, B, or C of
+6 Section 163 of this title if such entities provide notice to the
+7 Attorney General as required by subsection E of Section 163 of this
+8 title:
+9 1. A financial institution that complies with the notification
+10 requirements prescribed by the Federal Gramm-Leach-Bliley Act and
+11 the federal Interagency Guidance on Response Programs for
+12 Unauthorized Access to Customer Information and Customer Notice is
+13 deemed to be in compliance with the provisions of this act.;
+14 2. An entity that complies with the notification requirements
+15 prescribed by the Oklahoma Hospital Cybersecurity Protection Act of
+16 2023 or the Health Insurance Portability and Accountability Act of
+17 1996 (HIPAA); and
+18 3. An entity that complies with the notification requirements
+19 or procedures pursuant to the rules, regulation regulations,
+20 procedures, or guidelines established by the primary or functional
+21 federal regulator of the entity shall be deemed to be in compliance
+22 with the provisions of this act.
+23 SECTION 4. AMENDATORY 24 O.S. 2021, Section 165, is
+24 amended to read as follows:
+SB626 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+1 Section 165. A. A violation of this act the Security Breach
+2 Notification Act that results in injury or loss to residents of this
+3 state may be enforced by the Attorney General or a district attorney
+4 in the same manner as an unlawful practice under the Oklahoma
+5 Consumer Protection Act.
+6 B. Except as provided in subsection C D of this section, the
+7 Attorney General or a district attorney shall have exclusive
+8 authority to bring an action and may obtain either actual damages
+9 for a violation of this act or the Security Breach Notification Act
+10 and a civil penalty not to exceed One Hundred Fifty Thousand Dollars
+11 ($150,000.00) per breach of the security of the system or series of
+12 breaches of a similar nature that are discovered determined in a
+13 single investigation. Civil penalties shall be based upon the
+14 magnitude of the breach, the extent to which the behavior of the
+15 individual or entity contributed to the breach, and any failure to
+16 provide the notice required by Section 163 of this title.
+17 C. 1. An individual or entity that uses reasonable safeguards
+18 and provides notice as required by Section 163 or 164 of this title
+19 shall not be subject to civil penalties and may use such compliance
+20 as an affirmative defense in a civil action filed under the Security
+21 Breach Notification Act.
+22 2. An individual or entity that fails to use reasonable
+23 safeguards but provides notice as required by Section 163 or 164 of
+24 this title shall not be subject to the civil penalty set forth in
+SB626 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+1 subs ection B of this section but shall be subject to actual damages
+2 and a civil penalty of Seventy-five Thousand Dollars ($75,000.00).
+3 C. D. A violation of this act the Security Breach Notification
+4 Act by a state-chartered or state-licensed financial institution
+5 shall be enforceable exclusively by the primary state regulator of
+6 the financial institution.
+7 SECTION 5. AMENDATORY 24 O.S. 2021, Section 166, is
+8 amended to read as follows:
+9 Section 166. This act The Security Breach Notification Act
+10 shall apply to the discovery determination or notification of a
+11 breach of the security of the system that occurs on or after
+12 November 1, 2008 January 1, 2026.
+13 SECTION 6. This act shall become effective January 1, 2026.
+14
+15 COMMITTEE REPORT BY: COMMITTEE ON APPROPRIATIONS AND BUDGET, dated
+04/17/2025 – DO PASS.
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SB626 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+[DELETED:  P B H  a P]
+[DELETED:  P]
+[DELETED:  P s d f]
+[DELETED:  P u u w t e s]
+[DELETED:  P e c n f]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 1st Session of the 60th Legislature (2025)
+4 ENGROSSED SENATE
+BILL NO. 626 By: Howard of the Senate
+5
+and
+6
+Pfeiffer of the House
+7
+8
+9 An Act relating to the Security Breach Notification
+Act; amending 24 O.S. 2021, Sections 162, 163, 164,
+10 165, and 166, which relate to definitions, duty to
+disclose breach, notice, enforcement, and
+11 application; modifying definitions; requiring notice
+of security breach of certain information; requiring
+12 notice to Attorney General under certain
+circumstances; specifying contents of required
+13 notice; providing exemptions from certain notice
+requirements; requiring confidentiality of certain
+14 information submitted to Attorney General;
+authorizing Attorney General to promulgate rules;
+15 clarifying compliance with certain notice
+requirements; modifying authorized civil penalties
+16 for certain violations; providing exemptions from
+certain liability; limiting liability for violations
+17 under certain circumstances; modifying applicability
+of act; updating statutory language; updating
+18 statutory references; and providing an effective
+date.
+19
+20
+21 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+22 SECTION 1. AMENDATORY 24 O.S. 2021, Section 162, is
+23 amended to read as follows:
+24 Section 162. As used in the Security Breach Notification Act:
+SB626 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+1 1. “Breach of the security of a system” means the unauthorized
+2 access and acquisition of unencrypted and unredacted computerized
+3 data that compromises the security or confidentiality of personal
+4 information maintained by an individual or entity as part of a
+5 database of personal information regarding multiple individuals and
+6 that causes, or the individual or entity reasonably believes has
+7 caused or will cause, identity theft or other fraud to any resident
+8 of this state. Good faith acquisition of personal information by an
+9 employee or agent of an individual or entity for the purposes of the
+10 individual or the entity is not a breach of the security of the
+11 system, provided that the personal information is not used for a
+12 purpose other than a lawful purpose of the individual or entity or
+13 subject to further unauthorized disclosure;
+14 2. “Entity” includes corporations, business trusts, estates,
+15 partnerships, limited partnerships, limited liability partnerships,
+16 limited liability companies, associations, organizations, joint
+17 ventures, governments, governmental subdivisions, agencies, or
+18 instrumentalities, or any other legal entity, whether for profit or
+19 not-for-profit;
+20 3. “Encrypted” means transformation of data through the use of
+21 an algorithmic process into a form in which there is a low
+22 probability of assigning meaning without use of a confidential
+23 process or key, or securing the information by another method that
+24 renders the data elements unreadable or unusable;
+SB626 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+1 4. “Financial institution” means any institution the business
+2 of which is engaging in financial activities as defined by 15
+3 U.S.C., Section 6809;
+4 5. “Individual” means a natural person;
+5 6. “Personal information” means the an individual’s first name
+6 or first initial and last name in combination with and linked to any
+7 one or more of the following data elements that relate to a resident
+8 of this state, when the individual if any of the data elements are
+9 neither not encrypted, nor redacted, or otherwise altered by any
+10 method or technology in such a manner that the name or data elements
+11 are unreadable or are encrypted, redacted, or otherwise altered by
+12 any method or technology but the keys to unencrypt, unredact, or
+13 otherwise read the data elements have been obtained through the
+14 breach of security:
+15 a. social security number,
+16 b. driver license number or state other unique
+17 identification card number issued in lieu of a driver
+18 license, or created or collected by a government
+19 entity,
+20 c. financial account number, or credit card or debit card
+21 number, in combination with any required expiration
+22 date, security code, access code, or password that
+23 would permit access to the an individual’s financial
+24 accounts of a resident account,
+SB626 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+1 d. unique electronic identifier or routing code in
+2 combination with any required security code, access
+3 code, or password that would permit access to an
+4 individual’s financial account, or
+5 e. unique biometric data such as a fingerprint, retina or
+6 iris image, or other unique physical or digital
+7 representation of biometric data to authenticate a
+8 specific individual.
+9 The term does not include information that is lawfully obtained from
+10 publicly available information sources, or from federal, state or
+11 local government records lawfully made available to the general
+12 public;
+13 7. “Notice” means:
+14 a. written notice to the postal address in the records
+15 of the individual or entity,
+16 b. telephone notice,
+17 c. electronic notice, or
+18 d. substitute notice, if the individual or the entity
+19 required to provide notice demonstrates that the cost
+20 of providing notice will exceed Fifty Thousand Dollars
+21 ($50,000.00), or that the affected class of residents
+22 to be notified exceeds one hundred thousand (100,000)
+23 persons, or that the individual or the entity does not
+24 have sufficient contact information or consent to
+SB626 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+1 provide notice as described in subparagraph a, b, or c
+2 of this paragraph. Substitute notice consists of any
+3 two of the following:
+4 (1) e-mail email notice if the individual or the
+5 entity has e-mail email addresses for the members
+6 of the affected class of residents,
+7 (2) conspicuous posting of the notice on the Internet
+8 web site website of the individual or the entity
+9 if the individual or the entity maintains a
+10 public Internet web site website, or
+11 (3) notice to major statewide media; and
+12 8. “Reasonable safeguards” means policies and practices that
+13 ensure personal information is secure, taking into consideration an
+14 entity’s size and the type and amount of personal information. The
+15 term includes, but is not limited to, conducting risk assessments,
+16 implementing technical and physical layered defenses, employee
+17 training on handling personal information, and establishing an
+18 incident response plan; and
+19 9. “Redact” means alteration or truncation of data such that no
+20 more than the following are accessible as part of the personal
+21 information:
+22 a. five digits of a social security number, or
+23
+24
+SB626 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+1 b. the last four digits of a driver license number, state
+2 unique identification card number created or collected
+3 by a government entity, or account number.
+4 SECTION 2. AMENDATORY 24 O.S. 2021, Section 163, is
+5 amended to read as follows:
+6 Section 163. A. An individual or entity that owns or licenses
+7 computerized data that includes personal information shall disclose
+8 provide notice of any breach of the security of the system following
+9 discovery determination or notification of the breach of the
+10 security of the system to any resident of this state whose
+11 unencrypted and unredacted personal information was or is reasonably
+12 believed to have been accessed and acquired by an unauthorized
+13 person and that causes, or the individual or entity reasonably
+14 believes has caused or will cause, identity theft or other fraud to
+15 any resident of this state. Except as provided in subsection D of
+16 this section or in order to take any measures necessary to determine
+17 the scope of the breach and to restore the reasonable integrity of
+18 the system, the disclosure shall be made without unreasonable delay.
+19 B. An individual or entity must disclose shall provide notice
+20 of the breach of the security of the system if encrypted or redacted
+21 information is accessed and acquired in an unencrypted or unredacted
+22 form or if the security breach involves a person with access to the
+23 encryption key and the individual or entity reasonably believes that
+24
+SB626 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+1 such breach has caused or will cause identity theft or other fraud
+2 to any resident of this state.
+3 C. An individual or entity that maintains computerized data
+4 that includes personal information that the individual or entity
+5 does not own or license shall notify provide notice to the owner or
+6 licensee of the information of any breach of the security of the
+7 system as soon as practicable following discovery determination, if
+8 the personal information was or if the entity reasonably believes it
+9 was accessed and acquired by an unauthorized person.
+10 D. Notice required by this section may be delayed if a law
+11 enforcement agency determines and advises the individual or entity
+12 that the notice will impede a criminal or civil investigation or
+13 homeland or national security. Notice required by this section must
+14 be made without unreasonable delay after the law enforcement agency
+15 determines that notification will no longer impede the investigation
+16 or jeopardize national or homeland security.
+17 E. 1. An individual or entity required to provide notice in
+18 accordance with subsection A, B, or C of this section shall also
+19 provide notice to the Attorney General of such breach without
+20 unreasonable delay but in no event more than sixty (60) days after
+21 providing notice to impacted residents of this state as required by
+22 this section. The notice shall include the date of the breach, the
+23 date of its determination, the nature of the breach, the type of
+24 personal information exposed, the number of residents of this state
+SB626 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+
+1 affe cted, the estimated monetary impact of the breach to the extent
+2 such impact can be determined, and any reasonable safeguards the
+3 entity employs.
+4 2. A breach of a security system where fewer than five hundred
+5 (500) residents of this state are affected within a single breach
+6 shall be exempt from the notice requirements of paragraph 1 of this
+7 subsection.
+8 3. A breach of a security system maintained by a credit bureau
+9 where fewer than one thousand (1,000) residents of this state are
+10 affected within a single breach shall be exempt from the notice
+11 requirements of paragraph 1 of this subsection.
+12 F. Any personal information submitted to the Attorney General
+13 shall be kept confidential pursuant to Section 24A.12 of Title 51 of
+14 the Oklahoma Statutes.
+15 G. The Attorney General may promulgate rules as necessary to
+16 effectuate the provisions of this section.
+17 SECTION 3. AMENDATORY 24 O.S. 2021, Section 164, is
+18 amended to read as follows:
+19 Section 164. A. An individual or entity that maintains its own
+20 notification procedures as part of an information privacy or
+21 security policy for the treatment of personal information and that
+22 are consistent with the timing requirements of this act the Security
+23 Breach Notification Act shall be deemed to be in compliance with the
+24 notification requirements of this act subsection A, B, or C of
+SB626 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+
+1 Sect ion 163 of this title if it the individual or entity notifies
+2 residents of this state in accordance with its procedures in the
+3 event of a breach of security of the system.
+4 B. The following entities shall be deemed to be in compliance
+5 with the notification requirements of subsection A, B, or C of
+6 Section 163 of this title if such entities provide notice to the
+7 Attorney General as required by subsection E of Section 163 of this
+8 title:
+9 1. A financial institution that complies with the notification
+10 requirements prescribed by the Federal Gramm-Leach-Bliley Act and
+11 the federal Interagency Guidance on Response Programs for
+12 Unauthorized Access to Customer Information and Customer Notice is
+13 deemed to be in compliance with the provisions of this act.;
+14 2. An entity that complies with the notification requirements
+15 prescribed by the Oklahoma Hospital Cybersecurity Protection Act of
+16 2023 or the Health Insurance Portability and Accountability Act of
+17 1996 (HIPAA); and
+18 3. An entity that complies with the notification requirements
+19 or procedures pursuant to the rules, regulation regulations,
+20 procedures, or guidelines established by the primary or functional
+21 federal regulator of the entity shall be deemed to be in compliance
+22 with the provisions of this act.
+23 SECTION 4. AMENDATORY 24 O.S. 2021, Section 165, is
+24 amended to read as follows:
+SB626 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+
+1 Section 165. A. A violation of this act the Security Breach
+2 Notification Act that results in injury or loss to residents of this
+3 state may be enforced by the Attorney General or a district attorney
+4 in the same manner as an unlawful practice under the Oklahoma
+5 Consumer Protection Act.
+6 B. Except as provided in subsection C D of this section, the
+7 Attorney General or a district attorney shall have exclusive
+8 authority to bring an action and may obtain either actual damages
+9 for a violation of this act or the Security Breach Notification Act
+10 and a civil penalty not to exceed One Hundred Fifty Thousand Dollars
+11 ($150,000.00) per breach of the security of the system or series of
+12 breaches of a similar nature that are discovered determined in a
+13 single investigation. Civil penalties shall be based upon the
+14 magnitude of the breach, the extent to which the behavior of the
+15 individual or entity contributed to the breach, and any failure to
+16 provide the notice required by Section 163 of this title.
+17 C. 1. An individual or entity that uses reasonable safeguards
+18 and provides notice as required by Section 163 or 164 of this title
+19 shall not be subject to civil penalties and may use such compliance
+20 as an affirmative defense in a civil action filed under the Security
+21 Breach Notification Act.
+22 2. An individual or entity that fails to use reasonable
+23 safeguards but provides notice as required by Section 163 or 164 of
+24 this title shall not be subject to the civil penalty set forth in
+SB626 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+
+1 subs ection B of this section but shall be subject to actual damages
+2 and a civil penalty of Seventy-five Thousand Dollars ($75,000.00).
+3 C. D. A violation of this act the Security Breach Notification
+4 Act by a state-chartered or state-licensed financial institution
+5 shall be enforceable exclusively by the primary state regulator of
+6 the financial institution.
+7 SECTION 5. AMENDATORY 24 O.S. 2021, Section 166, is
+8 amended to read as follows:
+9 Section 166. This act The Security Breach Notification Act
+10 shall apply to the discovery determination or notification of a
+11 breach of the security of the system that occurs on or after
+12 November 1, 2008 January 1, 2026.
+13 SECTION 6. This act shall become effective January 1, 2026.
+14
+15 COMMITTEE REPORT BY: COMMITTEE ON APPROPRIATIONS AND BUDGET, dated
+04/17/2025 – DO PASS.
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SB626 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+
+[DELETED:  P B H  a P]
+[DELETED:  P]
+[DELETED:  P s d f]
+[DELETED:  P u u w t e s]
+[DELETED:  P e c n f]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
