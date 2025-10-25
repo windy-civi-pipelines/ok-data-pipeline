@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "Veterans & Military Affairs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "0fb7f878-b156-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB2836",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hamilton",
+      "voter_id": "~{\"name\": \"Hamilton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hines",
+      "voter_id": "~{\"name\": \"Hines\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mann",
+      "voter_id": "~{\"name\": \"Mann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stanley",
+      "voter_id": "~{\"name\": \"Stanley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Woods",
+      "voter_id": "~{\"name\": \"Woods\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Wingard",
+      "voter_id": "~{\"name\": \"Wingard\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB2836_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB2836_VOTES.HTM#17"
+}

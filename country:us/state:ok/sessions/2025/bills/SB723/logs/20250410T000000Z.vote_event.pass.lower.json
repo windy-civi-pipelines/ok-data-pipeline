@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "Veterans And Military Affairs Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "4c475b40-b150-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB723",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Fugate",
+      "voter_id": "~{\"name\": \"Fugate\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hildebrant",
+      "voter_id": "~{\"name\": \"Hildebrant\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manger",
+      "voter_id": "~{\"name\": \"Manger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pogemiller",
+      "voter_id": "~{\"name\": \"Pogemiller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wolfley",
+      "voter_id": "~{\"name\": \"Wolfley\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB723_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB723_VOTES.HTM#9"
+}

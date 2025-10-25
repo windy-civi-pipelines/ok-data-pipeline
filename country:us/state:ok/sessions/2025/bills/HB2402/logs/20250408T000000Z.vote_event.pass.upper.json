@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "1496cbcc-b155-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB2402",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Coleman",
+      "voter_id": "~{\"name\": \"Coleman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Frix",
+      "voter_id": "~{\"name\": \"Frix\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gillespie",
+      "voter_id": "~{\"name\": \"Gillespie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Green",
+      "voter_id": "~{\"name\": \"Green\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thompson",
+      "voter_id": "~{\"name\": \"Thompson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Goodwin",
+      "voter_id": "~{\"name\": \"Goodwin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Guthrie",
+      "voter_id": "~{\"name\": \"Guthrie\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kirt",
+      "voter_id": "~{\"name\": \"Kirt\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Woods",
+      "voter_id": "~{\"name\": \"Woods\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "STRIKE ENACTING CLAUSE - ADOPTED",
+      "voter_id": "~{\"name\": \"STRIKE ENACTING CLAUSE - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB2402_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB2402_VOTES.HTM#30"
+}

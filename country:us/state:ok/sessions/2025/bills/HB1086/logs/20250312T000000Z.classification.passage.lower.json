@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Reading, Measure and Emergency passed:  Ayes: 82 Nays: 0",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1086"
+}

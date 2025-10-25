@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "remove as principal author Representative Dempsey and substitute with Representative Moore",
+    "date": "2025-04-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1381"
+}

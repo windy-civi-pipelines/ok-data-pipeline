@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Administrative Rules",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "8cfb750a-b14f-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB392",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bergstrom",
+      "voter_id": "~{\"name\": \"Bergstrom\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brooks",
+      "voter_id": "~{\"name\": \"Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burns",
+      "voter_id": "~{\"name\": \"Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deevers",
+      "voter_id": "~{\"name\": \"Deevers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jett",
+      "voter_id": "~{\"name\": \"Jett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nice",
+      "voter_id": "~{\"name\": \"Nice\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Prieto",
+      "voter_id": "~{\"name\": \"Prieto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sacchieri",
+      "voter_id": "~{\"name\": \"Sacchieri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB392_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB392_VOTES.HTM#7"
+}

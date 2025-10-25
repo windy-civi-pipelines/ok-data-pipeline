@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Fourth Reading, Measure and Emergency Passed:  Ayes: 60  Nays: 27; Ayes: 69 Nays: 20",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1727"
+}

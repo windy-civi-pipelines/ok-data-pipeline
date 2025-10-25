@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "Public Health Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "1f9e1e6c-b150-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB644",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Newton",
+      "voter_id": "~{\"name\": \"Newton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pogemiller",
+      "voter_id": "~{\"name\": \"Pogemiller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roe",
+      "voter_id": "~{\"name\": \"Roe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stark",
+      "voter_id": "~{\"name\": \"Stark\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sterling",
+      "voter_id": "~{\"name\": \"Sterling\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (K)",
+      "voter_id": "~{\"name\": \"West (K)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB644_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB644_VOTES.HTM#46"
+}

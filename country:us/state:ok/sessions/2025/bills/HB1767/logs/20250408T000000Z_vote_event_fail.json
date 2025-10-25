@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "90c7f466-b153-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1767",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alvord",
+      "voter_id": "~{\"name\": \"Alvord\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hamilton",
+      "voter_id": "~{\"name\": \"Hamilton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sacchieri",
+      "voter_id": "~{\"name\": \"Sacchieri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stanley",
+      "voter_id": "~{\"name\": \"Stanley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Burns",
+      "voter_id": "~{\"name\": \"Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Goodwin",
+      "voter_id": "~{\"name\": \"Goodwin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nice",
+      "voter_id": "~{\"name\": \"Nice\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Prieto",
+      "voter_id": "~{\"name\": \"Prieto\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "STRIKE THE TITLE - ADOPTED",
+      "voter_id": "~{\"name\": \"STRIKE THE TITLE - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1767_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1767_VOTES.HTM#26"
+}

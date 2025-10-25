@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Failed in Committee - Economic Development, Workforce and Tourism",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB121"
+}

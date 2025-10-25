@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Fourth Reading, Measure passed:  Ayes: 85  Nays: 4",
+    "date": "2025-05-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1563"
+}

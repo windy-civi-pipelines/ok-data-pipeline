@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Measure failed:  Ayes: 20  Nays: 24",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB91"
+}

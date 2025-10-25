@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Rules Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "2a56416a-b153-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1603",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Archer",
+      "voter_id": "~{\"name\": \"Archer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bashore",
+      "voter_id": "~{\"name\": \"Bashore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "George",
+      "voter_id": "~{\"name\": \"George\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harris",
+      "voter_id": "~{\"name\": \"Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lawson",
+      "voter_id": "~{\"name\": \"Lawson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Osburn",
+      "voter_id": "~{\"name\": \"Osburn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pfeiffer",
+      "voter_id": "~{\"name\": \"Pfeiffer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (T)",
+      "voter_id": "~{\"name\": \"West (T)\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Fugate",
+      "voter_id": "~{\"name\": \"Fugate\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hefner",
+      "voter_id": "~{\"name\": \"Hefner\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1603_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1603_VOTES.HTM#16"
+}

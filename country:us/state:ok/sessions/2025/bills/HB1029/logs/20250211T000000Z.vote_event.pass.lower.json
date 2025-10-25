@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Administrative Rules Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "b75684b4-b151-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1029",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Chapman",
+      "voter_id": "~{\"name\": \"Chapman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Duel",
+      "voter_id": "~{\"name\": \"Duel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eaves",
+      "voter_id": "~{\"name\": \"Eaves\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jenkins",
+      "voter_id": "~{\"name\": \"Jenkins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kendrix",
+      "voter_id": "~{\"name\": \"Kendrix\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maynard",
+      "voter_id": "~{\"name\": \"Maynard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCane",
+      "voter_id": "~{\"name\": \"McCane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Staires",
+      "voter_id": "~{\"name\": \"Staires\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Waldron",
+      "voter_id": "~{\"name\": \"Waldron\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (K)",
+      "voter_id": "~{\"name\": \"West (K)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1029_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1029_VOTES.HTM#3"
+}

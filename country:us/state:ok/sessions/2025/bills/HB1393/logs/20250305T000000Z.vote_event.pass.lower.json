@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Education Oversight Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "a68aa402-b152-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1393",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Caldwell (C)",
+      "voter_id": "~{\"name\": \"Caldwell (C)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hasenbeck",
+      "voter_id": "~{\"name\": \"Hasenbeck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kane",
+      "voter_id": "~{\"name\": \"Kane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kerbs",
+      "voter_id": "~{\"name\": \"Kerbs\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowe (D)",
+      "voter_id": "~{\"name\": \"Lowe (D)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (T)",
+      "voter_id": "~{\"name\": \"West (T)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wolfley",
+      "voter_id": "~{\"name\": \"Wolfley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Provenzano",
+      "voter_id": "~{\"name\": \"Provenzano\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Waldron",
+      "voter_id": "~{\"name\": \"Waldron\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1393_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1393_VOTES.HTM#34"
+}

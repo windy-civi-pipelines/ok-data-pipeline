@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Public Safety Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "910d4010-b154-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB2169",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hardin",
+      "voter_id": "~{\"name\": \"Hardin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Humphrey",
+      "voter_id": "~{\"name\": \"Humphrey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kelley",
+      "voter_id": "~{\"name\": \"Kelley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowe (J)",
+      "voter_id": "~{\"name\": \"Lowe (J)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "May",
+      "voter_id": "~{\"name\": \"May\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner",
+      "voter_id": "~{\"name\": \"Turner\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2169_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2169_VOTES.HTM#19"
+}

@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Retirement & Insurance",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "131037e4-b14f-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB178",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bergstrom",
+      "voter_id": "~{\"name\": \"Bergstrom\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boren",
+      "voter_id": "~{\"name\": \"Boren\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bullard",
+      "voter_id": "~{\"name\": \"Bullard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burns",
+      "voter_id": "~{\"name\": \"Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grellner",
+      "voter_id": "~{\"name\": \"Grellner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kirt",
+      "voter_id": "~{\"name\": \"Kirt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McIntosh",
+      "voter_id": "~{\"name\": \"McIntosh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "STRIKE THE TITLE - ADOPTED",
+      "voter_id": "~{\"name\": \"STRIKE THE TITLE - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB178_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB178_VOTES.HTM#9"
+}

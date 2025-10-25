@@ -1,0 +1,62 @@
+{
+  "identifier": "",
+  "motion_text": "Appropriations And Budget Health Subcommittee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "3c079084-b14f-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB251",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Chapman",
+      "voter_id": "~{\"name\": \"Chapman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marti",
+      "voter_id": "~{\"name\": \"Marti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roe",
+      "voter_id": "~{\"name\": \"Roe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sneed",
+      "voter_id": "~{\"name\": \"Sneed\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB251_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB251_VOTES.HTM#8"
+}

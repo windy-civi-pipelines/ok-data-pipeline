@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Ayes:  47  Nays:  39",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1003"
+}

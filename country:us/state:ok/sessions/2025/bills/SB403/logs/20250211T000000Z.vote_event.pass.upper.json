@@ -1,0 +1,104 @@
+{
+  "identifier": "",
+  "motion_text": "General Government",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "94dee356-b14f-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB403",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alvord",
+      "voter_id": "~{\"name\": \"Alvord\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burns",
+      "voter_id": "~{\"name\": \"Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Goodwin",
+      "voter_id": "~{\"name\": \"Goodwin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hamilton",
+      "voter_id": "~{\"name\": \"Hamilton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nice",
+      "voter_id": "~{\"name\": \"Nice\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Prieto",
+      "voter_id": "~{\"name\": \"Prieto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sacchieri",
+      "voter_id": "~{\"name\": \"Sacchieri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stanley",
+      "voter_id": "~{\"name\": \"Stanley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD SB403 CA1 - ADOPTED",
+      "voter_id": "~{\"name\": \"AMD SB403 CA1 - ADOPTED\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "STRIKE THE TITLE - ADOPTED",
+      "voter_id": "~{\"name\": \"STRIKE THE TITLE - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB403_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB403_VOTES.HTM#9"
+}

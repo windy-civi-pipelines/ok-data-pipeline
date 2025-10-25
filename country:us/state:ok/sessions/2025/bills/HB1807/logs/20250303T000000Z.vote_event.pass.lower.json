@@ -1,0 +1,110 @@
+{
+  "identifier": "",
+  "motion_text": "Energy And Natural Resources Oversight Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-03",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "a93d3222-b153-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1807",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Archer",
+      "voter_id": "~{\"name\": \"Archer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boles",
+      "voter_id": "~{\"name\": \"Boles\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chapman",
+      "voter_id": "~{\"name\": \"Chapman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cornwell",
+      "voter_id": "~{\"name\": \"Cornwell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deck",
+      "voter_id": "~{\"name\": \"Deck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dobrinski",
+      "voter_id": "~{\"name\": \"Dobrinski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dollens",
+      "voter_id": "~{\"name\": \"Dollens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "George",
+      "voter_id": "~{\"name\": \"George\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patzkowsky",
+      "voter_id": "~{\"name\": \"Patzkowsky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pittman",
+      "voter_id": "~{\"name\": \"Pittman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Grego",
+      "voter_id": "~{\"name\": \"Grego\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "West (R)",
+      "voter_id": "~{\"name\": \"West (R)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1807_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1807_VOTES.HTM#18"
+}

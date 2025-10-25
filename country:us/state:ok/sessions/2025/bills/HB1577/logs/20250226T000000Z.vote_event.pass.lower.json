@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Health And Human Services Oversight Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "19a5f8e2-b153-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1577",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Culver",
+      "voter_id": "~{\"name\": \"Culver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hefner",
+      "voter_id": "~{\"name\": \"Hefner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hildebrant",
+      "voter_id": "~{\"name\": \"Hildebrant\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marti",
+      "voter_id": "~{\"name\": \"Marti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Munson",
+      "voter_id": "~{\"name\": \"Munson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Newton",
+      "voter_id": "~{\"name\": \"Newton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ranson",
+      "voter_id": "~{\"name\": \"Ranson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roe",
+      "voter_id": "~{\"name\": \"Roe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stark",
+      "voter_id": "~{\"name\": \"Stark\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1577_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1577_VOTES.HTM#7"
+}

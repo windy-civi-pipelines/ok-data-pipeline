@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "1028b350-b152-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1157",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Boren",
+      "voter_id": "~{\"name\": \"Boren\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dossett",
+      "voter_id": "~{\"name\": \"Dossett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Green",
+      "voter_id": "~{\"name\": \"Green\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kern",
+      "voter_id": "~{\"name\": \"Kern\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McIntosh",
+      "voter_id": "~{\"name\": \"McIntosh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Murdock",
+      "voter_id": "~{\"name\": \"Murdock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rader",
+      "voter_id": "~{\"name\": \"Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thompson",
+      "voter_id": "~{\"name\": \"Thompson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Woods",
+      "voter_id": "~{\"name\": \"Woods\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jett",
+      "voter_id": "~{\"name\": \"Jett\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1157_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1157_VOTES.HTM#42"
+}

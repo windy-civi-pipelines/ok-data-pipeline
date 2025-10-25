@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed 06/10/2025",
+    "date": "2025-05-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1378"
+}

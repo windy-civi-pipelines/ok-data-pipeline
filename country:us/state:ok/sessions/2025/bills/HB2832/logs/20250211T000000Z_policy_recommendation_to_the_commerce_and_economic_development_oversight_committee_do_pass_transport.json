@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Commerce and Economic Development Oversight committee; Do Pass Transportation",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2832"
+}

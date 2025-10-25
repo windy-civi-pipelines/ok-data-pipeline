@@ -1,0 +1,86 @@
+{
+  "identifier": "",
+  "motion_text": "Appropriations And Budget Transportation Subcommittee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "4016e8e6-b14f-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB258",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Blair",
+      "voter_id": "~{\"name\": \"Blair\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cantrell",
+      "voter_id": "~{\"name\": \"Cantrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crosswhite",
+      "voter_id": "~{\"name\": \"Crosswhite\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dempsey",
+      "voter_id": "~{\"name\": \"Dempsey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hays",
+      "voter_id": "~{\"name\": \"Hays\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Menz",
+      "voter_id": "~{\"name\": \"Menz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller",
+      "voter_id": "~{\"name\": \"Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rosecrants",
+      "voter_id": "~{\"name\": \"Rosecrants\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB258_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB258_VOTES.HTM#12"
+}

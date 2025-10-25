@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Alcohol, Tobacco And Controlled Substances Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "0e6a491c-b151-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB1032",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cornwell",
+      "voter_id": "~{\"name\": \"Cornwell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Culver",
+      "voter_id": "~{\"name\": \"Culver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fetgatter",
+      "voter_id": "~{\"name\": \"Fetgatter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gann",
+      "voter_id": "~{\"name\": \"Gann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hays",
+      "voter_id": "~{\"name\": \"Hays\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marti",
+      "voter_id": "~{\"name\": \"Marti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rosecrants",
+      "voter_id": "~{\"name\": \"Rosecrants\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1032_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1032_VOTES.HTM#26"
+}

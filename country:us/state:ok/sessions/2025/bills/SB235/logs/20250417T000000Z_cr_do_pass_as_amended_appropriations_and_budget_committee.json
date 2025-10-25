@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "CR; Do Pass, as amended, Appropriations and Budget Committee",
+    "date": "2025-04-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB235"
+}

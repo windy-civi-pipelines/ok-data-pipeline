@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Judiciary",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "2456f1e0-b150-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB652",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Brooks",
+      "voter_id": "~{\"name\": \"Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gollihare",
+      "voter_id": "~{\"name\": \"Gollihare\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howard",
+      "voter_id": "~{\"name\": \"Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jech",
+      "voter_id": "~{\"name\": \"Jech\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jett",
+      "voter_id": "~{\"name\": \"Jett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paxton",
+      "voter_id": "~{\"name\": \"Paxton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rosino",
+      "voter_id": "~{\"name\": \"Rosino\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Standridge",
+      "voter_id": "~{\"name\": \"Standridge\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Boren",
+      "voter_id": "~{\"name\": \"Boren\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD SB652 PCS - ADOPTED (Request No: 1696)",
+      "voter_id": "~{\"name\": \"AMD SB652 PCS - ADOPTED (Request No: 1696)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB652_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB652_VOTES.HTM#3"
+}

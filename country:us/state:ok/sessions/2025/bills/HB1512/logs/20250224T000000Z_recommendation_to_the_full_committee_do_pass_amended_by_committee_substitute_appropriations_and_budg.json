@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommendation to the full committee; Do Pass, amended by committee substitute Appropriations and Budget General Government Subcommittee",
+    "date": "2025-02-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1512"
+}

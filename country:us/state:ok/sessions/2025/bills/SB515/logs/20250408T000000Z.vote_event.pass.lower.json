@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "Insurance Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "dcfe8768-b14f-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB515",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Adams",
+      "voter_id": "~{\"name\": \"Adams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bennett",
+      "voter_id": "~{\"name\": \"Bennett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hefner",
+      "voter_id": "~{\"name\": \"Hefner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sneed",
+      "voter_id": "~{\"name\": \"Sneed\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (J)",
+      "voter_id": "~{\"name\": \"West (J)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB515_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB515_VOTES.HTM#16"
+}

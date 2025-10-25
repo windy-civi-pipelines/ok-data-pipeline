@@ -1,0 +1,86 @@
+{
+  "identifier": "",
+  "motion_text": "Postsecondary Education Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "af4591c0-b151-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1017",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bashore",
+      "voter_id": "~{\"name\": \"Bashore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hasenbeck",
+      "voter_id": "~{\"name\": \"Hasenbeck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johns",
+      "voter_id": "~{\"name\": \"Johns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCane",
+      "voter_id": "~{\"name\": \"McCane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ranson",
+      "voter_id": "~{\"name\": \"Ranson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Townley",
+      "voter_id": "~{\"name\": \"Townley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wolfley",
+      "voter_id": "~{\"name\": \"Wolfley\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1017_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1017_VOTES.HTM#1"
+}

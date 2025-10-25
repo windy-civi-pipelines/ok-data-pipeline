@@ -1,0 +1,110 @@
+{
+  "identifier": "",
+  "motion_text": "Education",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "b409a966-b152-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1417",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Deevers",
+      "voter_id": "~{\"name\": \"Deevers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dossett",
+      "voter_id": "~{\"name\": \"Dossett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hicks",
+      "voter_id": "~{\"name\": \"Hicks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hines",
+      "voter_id": "~{\"name\": \"Hines\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mann",
+      "voter_id": "~{\"name\": \"Mann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pederson",
+      "voter_id": "~{\"name\": \"Pederson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pugh",
+      "voter_id": "~{\"name\": \"Pugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rader",
+      "voter_id": "~{\"name\": \"Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reinhardt",
+      "voter_id": "~{\"name\": \"Reinhardt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sacchieri",
+      "voter_id": "~{\"name\": \"Sacchieri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Seifried",
+      "voter_id": "~{\"name\": \"Seifried\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "STRIKE THE TITLE - ADOPTED",
+      "voter_id": "~{\"name\": \"STRIKE THE TITLE - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1417_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1417_VOTES.HTM#3"
+}

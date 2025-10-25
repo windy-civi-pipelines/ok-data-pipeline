@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Marti as principal House author and substitute with Representative Turner",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB697"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Stinson as principal House author and substitute with Representative Lepak",
+    "date": "2025-02-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2067"
+}

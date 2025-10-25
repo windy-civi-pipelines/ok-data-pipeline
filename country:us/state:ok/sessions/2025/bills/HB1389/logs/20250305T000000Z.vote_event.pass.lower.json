@@ -1,0 +1,110 @@
+{
+  "identifier": "",
+  "motion_text": "Health And Human Services Oversight Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "a42be40a-b152-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1389",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cantrell",
+      "voter_id": "~{\"name\": \"Cantrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Culver",
+      "voter_id": "~{\"name\": \"Culver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hefner",
+      "voter_id": "~{\"name\": \"Hefner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marti",
+      "voter_id": "~{\"name\": \"Marti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Munson",
+      "voter_id": "~{\"name\": \"Munson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Newton",
+      "voter_id": "~{\"name\": \"Newton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pae",
+      "voter_id": "~{\"name\": \"Pae\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roe",
+      "voter_id": "~{\"name\": \"Roe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stark",
+      "voter_id": "~{\"name\": \"Stark\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stinson",
+      "voter_id": "~{\"name\": \"Stinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1389_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1389_VOTES.HTM#39"
+}

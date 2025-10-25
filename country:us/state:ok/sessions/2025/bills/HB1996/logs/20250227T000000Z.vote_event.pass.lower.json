@@ -1,0 +1,116 @@
+{
+  "identifier": "",
+  "motion_text": "Judiciary And Public Safety Oversight Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-27",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "251a4538-b154-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1996",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Culver",
+      "voter_id": "~{\"name\": \"Culver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Duel",
+      "voter_id": "~{\"name\": \"Duel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ford",
+      "voter_id": "~{\"name\": \"Ford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hardin",
+      "voter_id": "~{\"name\": \"Hardin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harris",
+      "voter_id": "~{\"name\": \"Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kane",
+      "voter_id": "~{\"name\": \"Kane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kannady",
+      "voter_id": "~{\"name\": \"Kannady\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowe (J)",
+      "voter_id": "~{\"name\": \"Lowe (J)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manger",
+      "voter_id": "~{\"name\": \"Manger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rosecrants",
+      "voter_id": "~{\"name\": \"Rosecrants\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schreiber",
+      "voter_id": "~{\"name\": \"Schreiber\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sterling",
+      "voter_id": "~{\"name\": \"Sterling\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Worthen",
+      "voter_id": "~{\"name\": \"Worthen\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1996_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1996_VOTES.HTM#35"
+}

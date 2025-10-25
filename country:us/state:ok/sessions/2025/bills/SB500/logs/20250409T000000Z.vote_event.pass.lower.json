@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "State Powers Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "d1b4d308-b14f-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB500",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gann",
+      "voter_id": "~{\"name\": \"Gann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shaw",
+      "voter_id": "~{\"name\": \"Shaw\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steagall",
+      "voter_id": "~{\"name\": \"Steagall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (R)",
+      "voter_id": "~{\"name\": \"West (R)\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Waldron",
+      "voter_id": "~{\"name\": \"Waldron\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB500_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB500_VOTES.HTM#2"
+}

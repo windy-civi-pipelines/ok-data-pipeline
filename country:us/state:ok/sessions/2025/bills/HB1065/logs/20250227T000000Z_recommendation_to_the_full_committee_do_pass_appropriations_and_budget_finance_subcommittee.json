@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Recommendation to the full committee; Do Pass Appropriations and Budget Finance Subcommittee",
+    "date": "2025-02-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1065"
+}

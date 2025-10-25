@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Reading, Measure passed:  Ayes: 86 Nays: 1",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB368"
+}

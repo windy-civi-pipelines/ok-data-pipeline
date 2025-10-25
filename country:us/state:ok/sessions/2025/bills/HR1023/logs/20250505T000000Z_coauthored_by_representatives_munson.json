@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Coauthored by Representative(s) Munson",
+    "date": "2025-05-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR1023"
+}

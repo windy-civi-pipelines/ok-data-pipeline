@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Appropriations And Budget Natural Resources Subcommittee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "113afe16-b156-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB2838",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alonso-Sandoval",
+      "voter_id": "~{\"name\": \"Alonso-Sandoval\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grego",
+      "voter_id": "~{\"name\": \"Grego\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hall",
+      "voter_id": "~{\"name\": \"Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Newton",
+      "voter_id": "~{\"name\": \"Newton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patzkowsky",
+      "voter_id": "~{\"name\": \"Patzkowsky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Provenzano",
+      "voter_id": "~{\"name\": \"Provenzano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shaw",
+      "voter_id": "~{\"name\": \"Shaw\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Townley",
+      "voter_id": "~{\"name\": \"Townley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilk",
+      "voter_id": "~{\"name\": \"Wilk\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2838_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2838_VOTES.HTM#17"
+}

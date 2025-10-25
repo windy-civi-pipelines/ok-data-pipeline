@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Reading, Measure passed:  Ayes: 91 Nays: 1",
+    "date": "2025-02-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1365"
+}

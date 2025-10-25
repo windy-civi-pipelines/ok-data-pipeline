@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported Do Pass Administrative Rules committee; CR filed",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR18"
+}

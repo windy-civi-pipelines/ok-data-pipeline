@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Withdrawn from Health and Human Services committee",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB190"
+}

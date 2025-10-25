@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "fcdd2444-b155-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB2807",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alvord",
+      "voter_id": "~{\"name\": \"Alvord\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brooks",
+      "voter_id": "~{\"name\": \"Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Coleman",
+      "voter_id": "~{\"name\": \"Coleman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guthrie",
+      "voter_id": "~{\"name\": \"Guthrie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mann",
+      "voter_id": "~{\"name\": \"Mann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pugh",
+      "voter_id": "~{\"name\": \"Pugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reinhardt",
+      "voter_id": "~{\"name\": \"Reinhardt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Standridge",
+      "voter_id": "~{\"name\": \"Standridge\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weaver",
+      "voter_id": "~{\"name\": \"Weaver\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD HB2807 PCS2 - ADOPTED (Request No: 2044)",
+      "voter_id": "~{\"name\": \"AMD HB2807 PCS2 - ADOPTED (Request No: 2044)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB2807_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB2807_VOTES.HTM#17"
+}

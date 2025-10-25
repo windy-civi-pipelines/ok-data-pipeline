@@ -1,0 +1,128 @@
+{
+  "identifier": "",
+  "motion_text": "Commerce And Economic Development Oversight Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "4dcbfbb6-b154-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB2053",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Adams",
+      "voter_id": "~{\"name\": \"Adams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alonso-Sandoval",
+      "voter_id": "~{\"name\": \"Alonso-Sandoval\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Banning",
+      "voter_id": "~{\"name\": \"Banning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Blancett",
+      "voter_id": "~{\"name\": \"Blancett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burns",
+      "voter_id": "~{\"name\": \"Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gann",
+      "voter_id": "~{\"name\": \"Gann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hall",
+      "voter_id": "~{\"name\": \"Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hill",
+      "voter_id": "~{\"name\": \"Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johns",
+      "voter_id": "~{\"name\": \"Johns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Menz",
+      "voter_id": "~{\"name\": \"Menz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller",
+      "voter_id": "~{\"name\": \"Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sneed",
+      "voter_id": "~{\"name\": \"Sneed\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tedford",
+      "voter_id": "~{\"name\": \"Tedford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Townley",
+      "voter_id": "~{\"name\": \"Townley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilk",
+      "voter_id": "~{\"name\": \"Wilk\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 15
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2053_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2053_VOTES.HTM#5"
+}

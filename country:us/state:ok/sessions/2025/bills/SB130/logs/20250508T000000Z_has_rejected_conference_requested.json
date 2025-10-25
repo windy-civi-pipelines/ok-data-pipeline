@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HAs rejected, conference requested",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB130"
+}

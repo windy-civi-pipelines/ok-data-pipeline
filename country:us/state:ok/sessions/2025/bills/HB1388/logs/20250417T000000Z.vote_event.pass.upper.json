@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Duties On The State Department Of Education;",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "a3655682-b152-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1388",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bullard",
+      "voter_id": "~{\"name\": \"Bullard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gillespie",
+      "voter_id": "~{\"name\": \"Gillespie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gollihare",
+      "voter_id": "~{\"name\": \"Gollihare\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jech",
+      "voter_id": "~{\"name\": \"Jech\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rosino",
+      "voter_id": "~{\"name\": \"Rosino\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Seifried",
+      "voter_id": "~{\"name\": \"Seifried\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Boren",
+      "voter_id": "~{\"name\": \"Boren\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hicks",
+      "voter_id": "~{\"name\": \"Hicks\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD HB1388 PCS - ADOPTED (Request No: 2030)",
+      "voter_id": "~{\"name\": \"AMD HB1388 PCS - ADOPTED (Request No: 2030)\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "STRIKE THE TITLE - ADOPTED",
+      "voter_id": "~{\"name\": \"STRIKE THE TITLE - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1388_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1388_VOTES.HTM#14"
+}

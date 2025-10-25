@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Failed in Committee - Energy",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1003"
+}

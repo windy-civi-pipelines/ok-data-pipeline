@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove as author Senator Bullard; authored by Senator Grellner",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB422"
+}

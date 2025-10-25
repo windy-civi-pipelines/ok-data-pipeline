@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Actuary pursuant to the Oklahoma Pension Legislation Actuarial Analysis Act",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1237"
+}

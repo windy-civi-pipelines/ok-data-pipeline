@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Newton as principal House author and substitute with Representative Hall",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB814"
+}

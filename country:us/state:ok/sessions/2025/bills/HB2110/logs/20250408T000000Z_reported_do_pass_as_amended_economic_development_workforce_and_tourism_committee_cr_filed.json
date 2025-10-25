@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported Do Pass as amended Economic Development, Workforce and Tourism committee; CR filed",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2110"
+}

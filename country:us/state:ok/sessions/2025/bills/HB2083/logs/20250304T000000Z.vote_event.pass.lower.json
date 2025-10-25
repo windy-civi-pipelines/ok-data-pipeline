@@ -1,0 +1,116 @@
+{
+  "identifier": "",
+  "motion_text": "Government Oversight Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "62e03f08-b154-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB2083",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bennett",
+      "voter_id": "~{\"name\": \"Bennett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crosswhite",
+      "voter_id": "~{\"name\": \"Crosswhite\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dempsey",
+      "voter_id": "~{\"name\": \"Dempsey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fugate",
+      "voter_id": "~{\"name\": \"Fugate\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hays",
+      "voter_id": "~{\"name\": \"Hays\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kelley",
+      "voter_id": "~{\"name\": \"Kelley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lepak",
+      "voter_id": "~{\"name\": \"Lepak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "May",
+      "voter_id": "~{\"name\": \"May\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olsen",
+      "voter_id": "~{\"name\": \"Olsen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shaw",
+      "voter_id": "~{\"name\": \"Shaw\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steagall",
+      "voter_id": "~{\"name\": \"Steagall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (K)",
+      "voter_id": "~{\"name\": \"West (K)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Woolley",
+      "voter_id": "~{\"name\": \"Woolley\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2083_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2083_VOTES.HTM#32"
+}

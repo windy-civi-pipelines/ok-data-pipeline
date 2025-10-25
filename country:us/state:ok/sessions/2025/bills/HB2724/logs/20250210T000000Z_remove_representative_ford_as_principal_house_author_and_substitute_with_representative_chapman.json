@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Ford as principal House author and substitute with Representative Chapman",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2724"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HC's named: Conference Committee on Health and Human Services Oversight",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1224"
+}

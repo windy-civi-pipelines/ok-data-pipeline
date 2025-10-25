@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Request for conference and rejection of HAs rescinded",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB921"
+}

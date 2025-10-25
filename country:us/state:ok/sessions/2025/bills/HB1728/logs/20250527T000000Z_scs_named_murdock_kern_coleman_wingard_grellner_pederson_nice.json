@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SCs named Murdock, Kern, Coleman, Wingard, Grellner, Pederson, Nice",
+    "date": "2025-05-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1728"
+}

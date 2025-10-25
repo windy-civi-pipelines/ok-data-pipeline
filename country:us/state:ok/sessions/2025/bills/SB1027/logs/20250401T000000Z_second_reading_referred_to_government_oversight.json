@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Second Reading referred to Government Oversight",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1027"
+}

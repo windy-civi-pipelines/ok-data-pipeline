@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Rules Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "3e3ec3b4-b153-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1627",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bashore",
+      "voter_id": "~{\"name\": \"Bashore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fugate",
+      "voter_id": "~{\"name\": \"Fugate\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "George",
+      "voter_id": "~{\"name\": \"George\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harris",
+      "voter_id": "~{\"name\": \"Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hefner",
+      "voter_id": "~{\"name\": \"Hefner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lawson",
+      "voter_id": "~{\"name\": \"Lawson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Osburn",
+      "voter_id": "~{\"name\": \"Osburn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pfeiffer",
+      "voter_id": "~{\"name\": \"Pfeiffer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (T)",
+      "voter_id": "~{\"name\": \"West (T)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1627_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1627_VOTES.HTM#23"
+}

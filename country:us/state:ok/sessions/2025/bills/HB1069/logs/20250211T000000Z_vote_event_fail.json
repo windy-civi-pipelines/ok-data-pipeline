@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "General Government Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-11",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "d9f9b6c6-b151-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1069",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hildebrant",
+      "voter_id": "~{\"name\": \"Hildebrant\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Woolley",
+      "voter_id": "~{\"name\": \"Woolley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Adams",
+      "voter_id": "~{\"name\": \"Adams\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Munson",
+      "voter_id": "~{\"name\": \"Munson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pogemiller",
+      "voter_id": "~{\"name\": \"Pogemiller\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Roberts",
+      "voter_id": "~{\"name\": \"Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Strom",
+      "voter_id": "~{\"name\": \"Strom\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1069_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1069_VOTES.HTM#13"
+}

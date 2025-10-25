@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Criminal Judiciary Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "2371b5b4-b153-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1593",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hardin",
+      "voter_id": "~{\"name\": \"Hardin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harris",
+      "voter_id": "~{\"name\": \"Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manger",
+      "voter_id": "~{\"name\": \"Manger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olsen",
+      "voter_id": "~{\"name\": \"Olsen\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lowe (J)",
+      "voter_id": "~{\"name\": \"Lowe (J)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1593_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1593_VOTES.HTM#16"
+}

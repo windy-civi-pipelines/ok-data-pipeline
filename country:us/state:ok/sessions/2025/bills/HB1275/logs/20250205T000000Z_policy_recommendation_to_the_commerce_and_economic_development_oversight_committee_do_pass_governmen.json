@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Commerce and Economic Development Oversight committee; Do Pass Government Modernization and Technology",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1275"
+}

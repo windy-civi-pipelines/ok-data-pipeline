@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Ayes:  66  Nays:  25",
+    "date": "2025-01-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR1002"
+}

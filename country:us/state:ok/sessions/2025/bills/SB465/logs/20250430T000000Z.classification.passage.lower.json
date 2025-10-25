@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Reading, Measure passed and Emergency failed:  Ayes: 52 Nays: 27; Ayes: 48 Nays: 24",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB465"
+}

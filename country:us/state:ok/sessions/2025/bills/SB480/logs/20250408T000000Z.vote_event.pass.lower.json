@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Utilities Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "c1b72db6-b14f-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB480",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alonso-Sandoval",
+      "voter_id": "~{\"name\": \"Alonso-Sandoval\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chapman",
+      "voter_id": "~{\"name\": \"Chapman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dobrinski",
+      "voter_id": "~{\"name\": \"Dobrinski\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kendrix",
+      "voter_id": "~{\"name\": \"Kendrix\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lay",
+      "voter_id": "~{\"name\": \"Lay\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Menz",
+      "voter_id": "~{\"name\": \"Menz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner",
+      "voter_id": "~{\"name\": \"Turner\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB480_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB480_VOTES.HTM#9"
+}

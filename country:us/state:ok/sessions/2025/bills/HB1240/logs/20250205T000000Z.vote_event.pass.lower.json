@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "Public Safety Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "47614b52-b152-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1240",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hardin",
+      "voter_id": "~{\"name\": \"Hardin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Humphrey",
+      "voter_id": "~{\"name\": \"Humphrey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kelley",
+      "voter_id": "~{\"name\": \"Kelley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowe (J)",
+      "voter_id": "~{\"name\": \"Lowe (J)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner",
+      "voter_id": "~{\"name\": \"Turner\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1240_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1240_VOTES.HTM#7"
+}

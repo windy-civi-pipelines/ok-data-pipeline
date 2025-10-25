@@ -1,0 +1,86 @@
+{
+  "identifier": "",
+  "motion_text": "Civil Judiciary Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "7afc0054-b154-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB2131",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Culver",
+      "voter_id": "~{\"name\": \"Culver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deck",
+      "voter_id": "~{\"name\": \"Deck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Duel",
+      "voter_id": "~{\"name\": \"Duel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kannady",
+      "voter_id": "~{\"name\": \"Kannady\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Osburn",
+      "voter_id": "~{\"name\": \"Osburn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schreiber",
+      "voter_id": "~{\"name\": \"Schreiber\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stinson",
+      "voter_id": "~{\"name\": \"Stinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (T)",
+      "voter_id": "~{\"name\": \"West (T)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2131_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2131_VOTES.HTM#20"
+}

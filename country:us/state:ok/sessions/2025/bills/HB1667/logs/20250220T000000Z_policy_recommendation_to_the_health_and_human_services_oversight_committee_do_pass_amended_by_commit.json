@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass, amended by committee substitute Children, Youth and Family Services",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1667"
+}

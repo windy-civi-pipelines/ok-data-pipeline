@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported Do Pass as amended Retirement and Government Resources committee; CR filed",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB434"
+}

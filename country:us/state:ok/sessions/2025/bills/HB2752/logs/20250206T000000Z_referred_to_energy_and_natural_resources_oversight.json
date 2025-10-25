@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Energy and Natural Resources Oversight",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2752"
+}

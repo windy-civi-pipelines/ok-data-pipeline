@@ -1,0 +1,122 @@
+{
+  "identifier": "",
+  "motion_text": "Health & Human Services",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "d7045d7e-b154-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB2298",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Coleman",
+      "voter_id": "~{\"name\": \"Coleman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniels",
+      "voter_id": "~{\"name\": \"Daniels\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haste",
+      "voter_id": "~{\"name\": \"Haste\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nice",
+      "voter_id": "~{\"name\": \"Nice\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paxton",
+      "voter_id": "~{\"name\": \"Paxton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pugh",
+      "voter_id": "~{\"name\": \"Pugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reinhardt",
+      "voter_id": "~{\"name\": \"Reinhardt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rosino",
+      "voter_id": "~{\"name\": \"Rosino\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dossett",
+      "voter_id": "~{\"name\": \"Dossett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hicks",
+      "voter_id": "~{\"name\": \"Hicks\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McIntosh",
+      "voter_id": "~{\"name\": \"McIntosh\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Standridge",
+      "voter_id": "~{\"name\": \"Standridge\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD HB2298 PCS - ADOPTED (Request No: 1999)",
+      "voter_id": "~{\"name\": \"AMD HB2298 PCS - ADOPTED (Request No: 1999)\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD HB2298 CA1 - ADOPTED",
+      "voter_id": "~{\"name\": \"AMD HB2298 CA1 - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB2298_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB2298_VOTES.HTM#41"
+}

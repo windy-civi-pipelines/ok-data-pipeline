@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Appropriations And Budget Public Safety Subcommittee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "540cd394-b152-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB1261",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Adams",
+      "voter_id": "~{\"name\": \"Adams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ford",
+      "voter_id": "~{\"name\": \"Ford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hardin",
+      "voter_id": "~{\"name\": \"Hardin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olsen",
+      "voter_id": "~{\"name\": \"Olsen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schreiber",
+      "voter_id": "~{\"name\": \"Schreiber\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner",
+      "voter_id": "~{\"name\": \"Turner\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "George",
+      "voter_id": "~{\"name\": \"George\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kelley",
+      "voter_id": "~{\"name\": \"Kelley\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1261_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB1261_VOTES.HTM#3"
+}

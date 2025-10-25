@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Notice served to reconsider vote by Representative Kelley",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1104"
+}

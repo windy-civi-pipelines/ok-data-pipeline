@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Appropriations And Budget General Government Subcommittee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "239e0f00-b14f-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB209",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bashore",
+      "voter_id": "~{\"name\": \"Bashore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pfeiffer",
+      "voter_id": "~{\"name\": \"Pfeiffer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roberts",
+      "voter_id": "~{\"name\": \"Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Strom",
+      "voter_id": "~{\"name\": \"Strom\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gann",
+      "voter_id": "~{\"name\": \"Gann\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Wolfley",
+      "voter_id": "~{\"name\": \"Wolfley\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB209_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB209_VOTES.HTM#17"
+}

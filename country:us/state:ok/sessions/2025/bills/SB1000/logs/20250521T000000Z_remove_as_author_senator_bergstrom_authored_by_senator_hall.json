@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove as author Senator Bergstrom; authored by Senator Hall",
+    "date": "2025-05-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB1000"
+}

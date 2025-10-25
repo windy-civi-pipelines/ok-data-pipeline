@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove as author Senator Green; authored by Senator Woods",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1543"
+}

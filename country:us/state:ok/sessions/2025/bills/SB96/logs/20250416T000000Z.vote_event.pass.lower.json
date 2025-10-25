@@ -1,0 +1,110 @@
+{
+  "identifier": "",
+  "motion_text": "Energy And Natural Resources Oversight Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "e577bd2a-b14e-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB96",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Archer",
+      "voter_id": "~{\"name\": \"Archer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boles",
+      "voter_id": "~{\"name\": \"Boles\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Caldwell (T)",
+      "voter_id": "~{\"name\": \"Caldwell (T)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chapman",
+      "voter_id": "~{\"name\": \"Chapman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cornwell",
+      "voter_id": "~{\"name\": \"Cornwell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deck",
+      "voter_id": "~{\"name\": \"Deck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "George",
+      "voter_id": "~{\"name\": \"George\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grego",
+      "voter_id": "~{\"name\": \"Grego\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Luttrell",
+      "voter_id": "~{\"name\": \"Luttrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patzkowsky",
+      "voter_id": "~{\"name\": \"Patzkowsky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pfeiffer",
+      "voter_id": "~{\"name\": \"Pfeiffer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (R)",
+      "voter_id": "~{\"name\": \"West (R)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB96_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB96_VOTES.HTM#39"
+}

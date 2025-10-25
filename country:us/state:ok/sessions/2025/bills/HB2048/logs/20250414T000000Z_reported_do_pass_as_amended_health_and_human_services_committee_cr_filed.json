@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported Do Pass as amended Health and Human Services committee; CR filed",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2048"
+}

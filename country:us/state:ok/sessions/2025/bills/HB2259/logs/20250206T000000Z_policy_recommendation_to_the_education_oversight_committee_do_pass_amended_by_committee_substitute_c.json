@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Education Oversight committee; Do Pass, amended by committee substitute Common Education",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2259"
+}

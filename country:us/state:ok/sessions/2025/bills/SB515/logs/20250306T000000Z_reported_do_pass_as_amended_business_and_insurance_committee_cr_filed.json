@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported Do Pass as amended Business and Insurance committee; CR filed",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB515"
+}

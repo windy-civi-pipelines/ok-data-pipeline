@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "CR; Do Pass, amended by committee substitute Rules Committee",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1737"
+}

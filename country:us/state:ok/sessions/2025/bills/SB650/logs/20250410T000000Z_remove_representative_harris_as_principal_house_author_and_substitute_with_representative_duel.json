@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Remove Representative Harris as principal House author and substitute with Representative Duel",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB650"
+}

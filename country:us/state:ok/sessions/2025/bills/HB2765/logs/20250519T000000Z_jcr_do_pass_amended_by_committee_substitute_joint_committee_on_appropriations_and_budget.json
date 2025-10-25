@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "JCR; Do pass, amended by committee substitute Joint Committee on Appropriations and Budget",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2765"
+}

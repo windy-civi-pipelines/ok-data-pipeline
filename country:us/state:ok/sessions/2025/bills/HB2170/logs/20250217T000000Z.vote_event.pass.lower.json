@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "Appropriations And Budget General Government Subcommittee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "91bdb13e-b154-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "HB2170",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roberts",
+      "voter_id": "~{\"name\": \"Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steagall",
+      "voter_id": "~{\"name\": \"Steagall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Strom",
+      "voter_id": "~{\"name\": \"Strom\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wolfley",
+      "voter_id": "~{\"name\": \"Wolfley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gann",
+      "voter_id": "~{\"name\": \"Gann\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2170_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB2170_VOTES.HTM#2"
+}

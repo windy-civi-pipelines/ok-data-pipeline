@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Veto overridden:  Ayes: 76  Nays: 12",
+    "date": "2025-05-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "veto-override-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1576"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SCs named Sacchieri, Jech, Frix, Alvord, Bergstrom, Weaver, Dossett",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB20"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported Do Pass, amended by committee substitute Appropriations committee; CR filed",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1200"
+}

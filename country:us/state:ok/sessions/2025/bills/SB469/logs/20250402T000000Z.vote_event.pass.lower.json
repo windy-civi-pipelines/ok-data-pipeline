@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Energy Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "bb321e42-b14f-11f0-98dc-5ae41c099e76",
+  "bill_action": null,
+  "bill_identifier": "SB469",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bashore",
+      "voter_id": "~{\"name\": \"Bashore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deck",
+      "voter_id": "~{\"name\": \"Deck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hefner",
+      "voter_id": "~{\"name\": \"Hefner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lepak",
+      "voter_id": "~{\"name\": \"Lepak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowe (D)",
+      "voter_id": "~{\"name\": \"Lowe (D)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Luttrell",
+      "voter_id": "~{\"name\": \"Luttrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "May",
+      "voter_id": "~{\"name\": \"May\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roberts",
+      "voter_id": "~{\"name\": \"Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tedford",
+      "voter_id": "~{\"name\": \"Tedford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Waldron",
+      "voter_id": "~{\"name\": \"Waldron\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB469_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB469_VOTES.HTM#19"
+}
