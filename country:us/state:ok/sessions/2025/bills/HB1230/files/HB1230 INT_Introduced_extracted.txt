@@ -1,0 +1,1610 @@
+Title: 3 HOUSE BILL 1230 By: West (Kevin)
+Official Title: 3 HOUSE BILL 1230 By: West (Kevin)
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 30 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to civil procedure; amending 12 O.S.
+2021, Section 2004, as amended by Section 1, Chapter
+8 59, O.S.L. 2022 (12 O.S. Supp. 2024, Section 2004),
+which relates to service of process; providing
+9 service of process by electronic means; providing
+provisions for return when serving by electronic
+10 means; and providing an effective date.
+11
+12
+13 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14 SECTION 1. AMENDATORY 12 O.S. 2021, Section 2004, as
+15 amended by Section 1, Chapter 59, O.S.L. 2022 (12 O.S. Supp. 2024,
+16 Section 2004), is amended to read as follows:
+17 Section 2004.
+18 PROCESS
+19 A. SUMMONS: ISSUANCE. Upon filing of the petition, the clerk
+20 shall forthwith issue a summons. Upon request of the plaintiff
+21 separate or additional summons shall issue against any defendants.
+22 B. SUMMONS: FORM.
+23 1. The summons shall be signed by the clerk, be under the seal
+24 of the court, contain the name of the court and the names of the
+Req. No. 10563 Page 1
+1 part ies, be directed to the defendant, state the name and address of
+2 the plaintiff's attorney, if any, otherwise, the plaintiff's
+3 address, and the time within which these rules require the defendant
+4 to appear and defend, and shall notify the defendant that in case of
+5 failure to appear, judgment by default will be rendered against the
+6 defendant for the relief demanded in the petition.
+7 2. A judgment by default shall not be different in kind from or
+8 exceed in amount that prayed for in either the demand for judgment
+9 or in cases not sounding in contract in a notice which has been
+10 given the party against whom default judgment is sought. Except as
+11 to a party against whom a judgment is entered by default, every
+12 final judgment shall grant the relief to which the party in whose
+13 favor it is rendered is entitled, even if the party has not demanded
+14 such relief in his or her pleadings.
+15 C. BY WHOM SERVED: PERSON TO BE SERVED.
+16 1. SERVICE BY PERSONAL DELIVERY.
+17 a. At the election of the plaintiff, process, other than
+18 a subpoena, shall be served by a sheriff or deputy
+19 sheriff, a person licensed to make service of process
+20 in civil cases or a person specially appointed for
+21 that purpose. The court shall freely make special
+22 appointments to serve all process, other than a
+23 subpoena, under this paragraph.
+24
+Req. No. 10563 Page 2
+1 b. A summons to be served by the sheriff or deputy
+2 sheriff shall be delivered to the sheriff by the court
+3 clerk or an attorney of record for the plaintiff.
+4 When a summons, subpoena or other process is to be
+5 served by the sheriff or deputy sheriff of another
+6 county, the court clerk shall mail it, together with
+7 the voucher of the court clerk for the fees collected
+8 for the service, to the sheriff of that county. The
+9 sheriff shall deposit the voucher in the Sheriff's
+10 Service Fee Account created pursuant to Section 514.1
+11 of Title 19 of the Oklahoma Statutes. The sheriff or
+12 deputy sheriff shall serve the process in the manner
+13 that other process issued out of the court of the
+14 sheriff's own county is served. A summons to be
+15 served by a person licensed to make service of process
+16 in civil cases or by a person specially appointed for
+17 that purpose shall be delivered by an attorney of
+18 record for the plaintiff to such person.
+19 c. Service shall be made as follows:
+20 (1) upon an individual other than an infant who is
+21 less than fifteen (15) years of age or an
+22 incompetent person, by delivering a copy of the
+23 summons and of the petition personally or by
+24 leaving copies thereof at the person's dwelling
+Req. No. 10563 Page 3
+1 house or usual place of abode with some person
+2 then residing therein who is fifteen (15) years
+3 of age or older, by delivering a copy of the
+4 summons and of the petition to an agent
+5 authorized by appointment or by law to receive
+6 service of process, or by delivering a copy of
+7 the summons and of the petition personally or by
+8 leaving copies thereof at an agreed meeting place
+9 with some person then residing at the person's
+10 dwelling house or usual place of abode,
+11 (2) upon an infant who is less than fifteen (15)
+12 years of age, by serving the summons and petition
+13 personally and upon either of the infant's
+14 parents or guardian, or if they cannot be found,
+15 then upon the person having the care or control
+16 of the infant or with whom the infant lives; and
+17 upon an incompetent person by serving the summons
+18 and petition personally and upon the incompetent
+19 person's guardian,
+20 (3) upon a domestic or foreign corporation or upon a
+21 partnership or other unincorporated association
+22 which is subject to suit under a common name, by
+23 delivering a copy of the summons and of the
+24 petition to an officer, a managing or general
+Req. No. 10563 Page 4
+1 agent or to any other agent authorized by
+2 appointment or by law to receive service of
+3 process and, if the agent is one authorized by
+4 statute to receive service and the statute so
+5 requires, by also mailing a copy to the
+6 defendant,
+7 (4) upon the United States or an officer or agency
+8 thereof in the manner specified by Federal Rule
+9 of Civil Procedure 4,
+10 (5) upon a state, county, school district, public
+11 trust or municipal corporation or other
+12 governmental organization thereof subject to
+13 suit, by delivering a copy of the summons and of
+14 the petition to the officer or individual
+15 designated by specific statute; however, if there
+16 is no statute, then upon the chief executive
+17 officer or a clerk, secretary or other official
+18 whose duty it is to maintain the official records
+19 of the organization,
+20 (6) upon an inmate incarcerated in an institution
+21 under the jurisdiction and control of the
+22 Department of Corrections, by delivering a copy
+23 of the summons and of the petition to the warden
+24 or superintendent or the designee of the warden
+Req. No. 10563 Page 5
+1 or superintendent of the institution where the
+2 inmate is housed. It shall be the duty of the
+3 receiving warden or superintendent or a designee
+4 to promptly deliver the summons and petition to
+5 the inmate named therein. The warden or
+6 superintendent or his or her designee shall
+7 reject service of process for any inmate who is
+8 not actually present in the institution, and
+9 (7) upon an inmate incarcerated in a county jail or
+10 detention center under the jurisdiction and
+11 control of the county sheriff or the jail trust
+12 of the county, by delivering a copy of the
+13 summons and of the petition to the jail or
+14 detention center administrator or the designee of
+15 such administrator of the jail or detention
+16 center where the inmate is housed. It shall be
+17 the duty of the receiving jail or detention
+18 center administrator or designee to promptly
+19 deliver the summons and petition to the inmate
+20 named therein. The jail or detention center
+21 administrator or designee shall reject service of
+22 process for any inmate who is not actually
+23 present in the jail or detention center.
+24 2. SERVICE BY MAIL.
+Req. No. 10563 Page 6
+1 a. At the election of the plaintiff, a summons and
+2 petition may be served by mail by the plaintiff's
+3 attorney, any person authorized to serve process
+4 pursuant to subparagraph a of paragraph 1 of this
+5 subsection or by the court clerk upon a defendant of
+6 any class referred to in division (1), (3) or (5) of
+7 subparagraph c of paragraph 1 of this subsection.
+8 Service by mail shall be effective on the date of
+9 receipt or if refused, on the date of refusal of the
+10 summons and petition by the defendant.
+11 b. Service by mail shall be accomplished by mailing a
+12 copy of the summons and petition by certified mail,
+13 return receipt requested and delivery restricted to
+14 the addressee. When there is more than one defendant,
+15 the summons and a copy of the petition or order shall
+16 be mailed in a separate envelope to each defendant.
+17 If the summons is to be served by mail by the court
+18 clerk, the court clerk shall enclose the summons and a
+19 copy of the petition or order of the court to be
+20 served in an envelope, prepared by the plaintiff,
+21 addressed to the defendant, or to the resident service
+22 agent if one has been appointed. The court clerk
+23 shall prepay the postage and mail the envelope to the
+24 defendant, or service agent, by certified mail, return
+Req. No. 10563 Page 7
+1 receipt requested and delivery restricted to the
+2 addressee. The return receipt shall be prepared by
+3 the plaintiff. Service by mail to a garnishee shall
+4 be accomplished by mailing a copy of the summons and
+5 notice by certified mail, return receipt requested,
+6 and at the election of the judgment creditor by
+7 restricted delivery, to the addressee.
+8 c. Service by mail shall not be the basis for the entry
+9 of a default or a judgment by default unless the
+10 record contains a return receipt showing acceptance by
+11 the defendant or a returned envelope showing refusal
+12 of the process by the defendant. Acceptance or
+13 refusal of service by mail by a person who is fifteen
+14 (15) years of age or older who resides at the
+15 defendant's dwelling house or usual place of abode
+16 shall constitute acceptance or refusal by the party
+17 addressed. In the case of an entity described in
+18 division (3) of subparagraph c of paragraph 1 of this
+19 subsection, acceptance or refusal by any officer or by
+20 any employee of the registered office or principal
+21 place of business who is authorized to or who
+22 regularly receives certified mail shall constitute
+23 acceptance or refusal by the party addressed. A
+24 return receipt signed at such registered office or
+Req. No. 10563 Page 8
+1 principal place of business shall be presumed to have
+2 been signed by an employee authorized to receive
+3 certified mail. In the case of a state municipal
+4 corporation, or other governmental organization
+5 thereof subject to suit, acceptance or refusal by an
+6 employee of the office of the officials specified in
+7 division (5) of subparagraph c of paragraph 1 of this
+8 subsection who is authorized to or who regularly
+9 receives certified mail shall constitute acceptance or
+10 refusal by the party addressed. If delivery of the
+11 process is refused, upon the receipt of notice of such
+12 refusal and at least ten (10) days before applying for
+13 entry of default, the person elected by plaintiff
+14 pursuant to subparagraph a of this paragraph to serve
+15 the process shall mail to the defendant by first-class
+16 mail a copy of the summons and petition and a notice
+17 prepared by the plaintiff that despite such refusal
+18 the case will proceed and that judgment by default
+19 will be rendered against him unless he appears to
+20 defend the suit. Any default or judgment by default
+21 shall be set aside upon motion of the defendant in the
+22 manner prescribed in Section 1031.1 of this title, or
+23 upon petition of the defendant in the manner
+24 prescribed in Section 1033 of this title if the
+Req. No. 10563 Page 9
+1 defendant demonstrates to the court that the return
+2 receipt was signed or delivery was refused by an
+3 unauthorized person. A petition shall be filed within
+4 one (1) year after the defendant has notice of the
+5 default or judgment by default but in no event more
+6 than two (2) years after the filing of the judgment.
+7 3. SERVICE BY ELECTRONIC MEANS.
+8 a. Upon a judge's order or if a copy of the summons and
+9 petition cannot be personally delivered after three
+10 attempts to the named defendant, as specified in
+11 paragraph 1 of this subsection, a summons may be
+12 served by electronic means, and by thereafter mailing
+13 a copy of the summons and of the petition by certified
+14 mail, postage prepaid, to the named defendant at the
+15 last-known address. Service of a summons in this
+16 manner is deemed complete on the day of receipt of the
+17 electronic transmission and mailing. A summons and
+18 petition may be served by electronic means by the
+19 plaintiff's attorney or any person authorized to serve
+20 process pursuant to subparagraph a of paragraph 1 of
+21 this subsection upon a defendant of any class referred
+22 to in division (1), (3), or (5) of subparagraph c of
+23 paragraph 1 of this subsection. Service by electronic
+24 means shall be effective on the date of receipt or, if
+Req. No. 10563 Page 10
+1 refused, on the date of refusal of the summons and
+2 petition by the defendant.
+3 b. Service by electronic means shall be accomplished by
+4 sending an electronic notification to the named
+5 defendant via email. The electronic notification
+6 shall advise the named defendant of the nature of the
+7 communication and shall include a hyperlink to a
+8 secure application that tracks the email and provides
+9 evidence of whether the email notification was bounced
+10 back, returned, received, opened, and whether a copy
+11 of the summons was viewed or downloaded by the named
+12 defendant. The secure application shall give the
+13 named defendant the option of accepting the service by
+14 electronically signing an acknowledgement of receipt
+15 in the application or the option of declining the
+16 service. When there is more than one defendant, the
+17 summons and a copy of the petition or order shall be
+18 transmitted in a separate email notification to each
+19 defendant. Service by email to a garnishee shall be
+20 accomplished by transmitting via a secure application
+21 a copy of the summons and notice, return receipt
+22 requested, and at the election of the judgment
+23 creditor, to the addressee.
+24
+Req. No. 10563 Page 11
+1 c. Service by electronic means shall not be the basis for
+2 the entry of a default or a judgment by default unless
+3 the record contains evidence showing acceptance by the
+4 defendant or a returned email showing refusal of the
+5 process by the defendant. Acceptance or refusal of
+6 service by electronic means by a person who is fifteen
+7 (15) years of age or older who resides at the
+8 defendant's dwelling house or usual place of abode
+9 shall constitute acceptance or refusal by the party
+10 addressed. In the case of an entity described in
+11 division (3) of subparagraph c of paragraph 1 of this
+12 subsection, acceptance or refusal by any officer or by
+13 any employee of the registered office or principal
+14 place of business who is authorized to or who
+15 regularly receives emails shall constitute acceptance
+16 or refusal by the party addressed. A return receipt
+17 email sent at such registered office or principal
+18 place of business shall be presumed to have been sent
+19 by an employee authorized to email. In the case of a
+20 state municipal corporation, or other governmental
+21 organization thereof subject to suit, acceptance or
+22 refusal by an employee of the office of the officials
+23 specified in division (5) of subparagraph c of
+24 paragraph 1 of this subsection who is authorized to or
+Req. No. 10563 Page 12
+1 who regularly receives email shall constitute
+2 acceptance or refusal by the party addressed. If
+3 delivery of process is refused, upon the receipt of
+4 notice of such refusal and at least ten (10) days
+5 before applying for entry of default, the person
+6 elected by the plaintiff pursuant to subparagraph a of
+7 this paragraph to serve the process shall email to the
+8 defendant a copy of the summons and petition and a
+9 notice prepared by the plaintiff stating that, despite
+10 such refusal, the case will proceed and that judgment
+11 by default will be rendered against him or her unless
+12 he or she appears to defend the suit. Any default or
+13 judgment by default shall be set aside upon motion of
+14 the defendant in the manner prescribed in Section
+15 1031.1 of this title, or upon petition of the
+16 defendant in the manner prescribed in Section 1033 of
+17 this title if the defendant demonstrates to the court
+18 that the return receipt email was sent or delivery was
+19 refused by an unauthorized person. A petition shall
+20 be filed within one (1) year after the defendant has
+21 notice of the default or judgment by default but in no
+22 event more than two (2) years after the filing of the
+23 judgment.
+24
+Req. No. 10563 Page 13
+1 4. SERVICE BY PUBLICATION.
+2 a. Service of summons upon a named defendant may be made
+3 by publication when it is stated in the petition,
+4 verified by the plaintiff or the plaintiff's attorney
+5 or in a separate affidavit by the plaintiff or the
+6 plaintiff's attorney filed with the court, that with
+7 due diligence service cannot be made upon the
+8 defendant by any other method.
+9 b. Service of summons upon the unknown successors of a
+10 named defendant, a named decedent or a dissolved
+11 partnership, corporation or other association may be
+12 made by publication when it is stated in a petition,
+13 verified by the plaintiff or the plaintiff's attorney
+14 or in a separate affidavit by the plaintiff or the
+15 plaintiff's attorney filed with the court, that the
+16 person who verified the petition or the affidavit does
+17 not know and with due diligence cannot ascertain the
+18 following:
+19 (1) whether a person named as defendant is living or
+20 dead, and, if dead, the names or whereabouts of
+21 the person's successors, if any,
+22 (2) the names or whereabouts of the unknown
+23 successors, if any, of a named decedent,
+24
+Req. No. 10563 Page 14
+1 (3) whether a partnership, corporation or other
+2 association named as a defendant continues to
+3 have legal existence or not; or the names or
+4 whereabouts of its officers or successors,
+5 (4) whether any person designated in a record as a
+6 trustee continues to be the trustee; or the names
+7 or whereabouts of the successors of the trustee,
+8 or
+9 (5) the names or whereabouts of the owners or holders
+10 of special assessment or improvement bonds, or
+11 any other bonds, sewer warrants or tax bills.
+12 c. Service pursuant to this paragraph shall be made by
+13 publication of a notice, signed by the court clerk,
+14 one (1) day a week for three (3) consecutive weeks in
+15 a newspaper authorized by law to publish legal notices
+16 which is published in the county where the petition is
+17 filed. If no newspaper authorized by law to publish
+18 legal notices is published in such county, the notice
+19 shall be published in some such newspaper of general
+20 circulation which is published in an adjoining county.
+21 All named parties and their unknown successors who may
+22 be served by publication may be included in one
+23 notice. The notice shall state the court in which the
+24 petition is filed and the names of the plaintiff and
+Req. No. 10563 Page 15
+1 the parties served by publication, and shall designate
+2 the parties whose unknown successors are being served.
+3 The notice shall also state that the named defendants
+4 and their unknown successors have been sued and must
+5 answer the petition on or before a time to be stated
+6 (which shall not be less than forty-one (41) days from
+7 the date of the first publication), or judgment, the
+8 nature of which shall be stated, will be rendered
+9 accordingly. If jurisdiction of the court is based on
+10 property, any real property subject to the
+11 jurisdiction of the court and any property or debts to
+12 be attached or garnished must be described in the
+13 notice.
+14 (1) When the recovery of money is sought, it is not
+15 necessary for the publication notice to state the
+16 separate items involved, but the total amount
+17 that is claimed must be stated. When interest is
+18 claimed, it is not necessary to state the rate of
+19 interest, the date from which interest is claimed
+20 or that interest is claimed until the obligation
+21 is paid.
+22 (2) It is not necessary for the publication notice to
+23 state that the judgment will include recovery of
+24
+Req. No. 10563 Page 16
+1 costs in order for a judgment following the
+2 publication notice to include costs of suit.
+3 (3) In an action to quiet title to real property, it
+4 is not necessary for the publication notice to
+5 state the nature of the claim or interest of
+6 either party, and in describing the nature of the
+7 judgment that will be rendered should the
+8 defendant fail to answer, it is sufficient to
+9 state that a decree quieting plaintiff's title to
+10 the described property will be entered. It is
+11 not necessary to state that a decree forever
+12 barring the defendant from asserting any interest
+13 in or to the property is sought or will be
+14 entered if the defendant does not answer.
+15 (4) In an action to foreclose a mortgage, it is
+16 sufficient that the publication notice state that
+17 if the defendant does not answer, the defendant's
+18 interest in the property will be foreclosed. It
+19 is not necessary to state that a judgment forever
+20 barring the defendant from all right, title,
+21 interest, estate, property and equity of
+22 redemption in or to the property or any part
+23 thereof is requested or will be entered if the
+24 defendant does not answer.
+Req. No. 10563 Page 17
+1 d. Service by publication is complete when made in the
+2 manner and for the time prescribed in subparagraph c
+3 of this paragraph. Service by publication shall be
+4 proved by the affidavit of any person having knowledge
+5 of the publication. No default judgment may be
+6 entered on such service until proof of service by
+7 publication is filed with and approved by the court.
+8 e. Before entry of a default judgment or order against a
+9 party who has been served solely by publication under
+10 this paragraph, the court shall conduct an inquiry to
+11 determine whether the plaintiff, or someone acting in
+12 behalf of the plaintiff, made a distinct and
+13 meaningful search of all reasonably available sources
+14 to ascertain the whereabouts of any named parties who
+15 have been served solely by publication under this
+16 paragraph. Before entry of a default judgment or
+17 order against the unknown successors of a named
+18 defendant, a named decedent or a dissolved
+19 partnership, corporation or association, the court
+20 shall conduct an inquiry to ascertain whether the
+21 requirements described in subparagraph b of this
+22 paragraph have been satisfied.
+23 f. A party against whom a default judgment or order has
+24 been rendered, without other service than by
+Req. No. 10563 Page 18
+1 publication in a newspaper, may, at any time within
+2 three (3) years after the filing of the judgment or
+3 order, have the judgment or order set aside in the
+4 manner prescribed in Sections 1031.1 and 1033 of this
+5 title. Before the judgment or order is set aside, the
+6 applicant shall notify the adverse party of the
+7 intention to make an application and shall file a full
+8 answer to the petition, pay all costs if the court
+9 requires them to be paid and satisfy the court by
+10 affidavit or other evidence that during the pendency
+11 of the action the applicant had no actual notice
+12 thereof in time to appear in court and make a defense.
+13 The title to any property which is the subject of and
+14 which passes to a purchaser in good faith by or in
+15 consequence of the judgment or order to be opened
+16 shall not be affected by any proceedings under this
+17 subparagraph. Nor shall proceedings under this
+18 subparagraph affect the title of any property sold
+19 before judgment under an attachment. The adverse
+20 party, on the hearing of an application to open a
+21 judgment or order as provided by this subparagraph,
+22 shall be allowed to present evidence to show that
+23 during the pendency of the action the applicant had
+24
+Req. No. 10563 Page 19
+1 notice thereof in time to appear in court and make a
+2 defense.
+3 g. The term "successors" includes all heirs, executors,
+4 administrators, devisees, trustees and assigns,
+5 immediate and remote, of a named individual,
+6 partnership, corporation or association.
+7 h. Service outside of the state does not give the court
+8 in personal jurisdiction over a defendant who is not
+9 subject to the jurisdiction of the courts of this
+10 state or who has not, either in person or through an
+11 agent, submitted to the jurisdiction of the courts of
+12 this state.
+13 4.
+14 5. SERVICE ON THE SECRETARY OF STATE.
+15 a. Service of process on a domestic or foreign
+16 corporation may be made by serving the Secretary of
+17 State as the corporation's agent, if:
+18 (1) there is no registered agent for the corporation
+19 listed in the records of the Secretary of State,
+20 or
+21 (2) neither the registered agent nor an officer of
+22 the corporation could be found at the registered
+23 office of the corporation, when service of
+24 process was attempted.
+Req. No. 10563 Page 20
+1 b. Before resorting to service on the Secretary of State
+2 the plaintiff must have attempted service either in
+3 person or by mail on the corporation at:
+4 (1) the corporation's last-known address shown on the
+5 records of the Franchise Tax Division of the
+6 Oklahoma Tax Commission, if any is listed there,
+7 and
+8 (2) the corporation's last-known address shown on the
+9 records of the Secretary of State, if any is
+10 listed there, and
+11 (3) the corporation's last address known to the
+12 plaintiff.
+13 If any of these addresses are the same, the plaintiff
+14 is not required to attempt service more than once at
+15 any address. The plaintiff shall furnish the
+16 Secretary of State with a certified copy of the return
+17 or returns showing the attempted service.
+18 c. Service on the Secretary of State shall be made by
+19 filing two (2) copies of the summons and petition with
+20 the Secretary of State, notifying the Secretary of
+21 State that service is being made pursuant to the
+22 provisions of this paragraph, and paying the Secretary
+23 of State the fee prescribed in paragraph 7 of
+24 subsection A of Section 1142 of Title 18 of the
+Req. No. 10563 Page 21
+1 Oklahoma Statutes, which fee shall be taxed as part of
+2 the costs of the action, suit or proceeding if the
+3 plaintiff shall prevail therein. If a registered
+4 agent for the corporation is listed in the records of
+5 the Secretary of State, the plaintiff must also
+6 furnish a certified copy of the return showing that
+7 service on the registered agent has been attempted
+8 either in person or by mail, and that neither the
+9 registered agent nor an officer of the corporation
+10 could be found at the registered office of the
+11 corporation.
+12 d. Within three (3) working days after receiving the
+13 summons and petition, the Secretary of State shall
+14 send notice by letter, certified mail, return receipt
+15 requested, directed to the corporation at its
+16 registered office or the last-known address found in
+17 the office of the Secretary of State, or if no address
+18 is found there, to the corporation's last-known
+19 address provided by the plaintiff. The notice shall
+20 enclose a copy of the summons and petition and any
+21 other papers served upon the Secretary of State. The
+22 corporation shall not be required to serve its answer
+23 until forty (40) days after service of the summons and
+24 petition on the Secretary of State.
+Req. No. 10563 Page 22
+1 e. Before entry of a default judgment or order against a
+2 corporation that has been served by serving the
+3 Secretary of State as its agent under this paragraph,
+4 the court shall determine whether the requirements of
+5 this paragraph have been satisfied. A default
+6 judgment or order against a corporation that has been
+7 served only by service on the Secretary of State may
+8 be set aside upon motion of the corporation in the
+9 manner prescribed in Section 1031.1 of this title, or
+10 upon petition of the corporation in the manner
+11 prescribed in Section 1033 of this title, if the
+12 corporation demonstrates to the court that it had no
+13 actual notice of the action in time to appear and make
+14 its defense. A petition shall be filed within one (1)
+15 year after the corporation has notice of the default
+16 judgment or order but in no event more than two (2)
+17 years after the filing of the default judgment or
+18 order.
+19 f. The Secretary of State shall maintain an alphabetical
+20 record of service setting forth the name of the
+21 plaintiff and defendant, the title, docket number and
+22 nature of the proceeding in which the process has been
+23 served upon the defendant, the fact that service has
+24 been effected pursuant to the provisions of this
+Req. No. 10563 Page 23
+1 paragraph, the return date thereof and the date when
+2 the service was made. The Secretary of State shall
+3 not be required to retain this information for a
+4 period longer than five (5) years from receipt of the
+5 service of process.
+6 g. The provisions of this paragraph shall not apply to a
+7 foreign insurance company doing business in this
+8 state.
+9 5. 6. SERVICE BY ACKNOWLEDGMENT. An acknowledgment on the back
+10 of the summons or the voluntary appearance of a defendant is
+11 equivalent to service.
+12 6. 7. SERVICE BY OTHER METHODS. If service cannot be made by
+13 personal delivery or, by mail, or by secured electronic means, a
+14 defendant of any class referred to in division (1) or (3) of
+15 subparagraph c of paragraph 1 of this subsection may be served as
+16 provided by court order in a manner which is reasonably calculated
+17 to give the defendant actual notice of the proceedings and an
+18 opportunity to be heard and upon filing an affidavit by the
+19 plaintiff or plaintiff's attorney that with due diligence service
+20 cannot otherwise be made upon the defendant.
+21 7. 8. NO SERVICE BY PRISONER. No prisoner in any jail,
+22 Department of Corrections facility, private prison, or parolee or
+23 probationer under supervision of the Department of Corrections shall
+24
+Req. No. 10563 Page 24
+1 be a ppointed by any court to serve process on any defendant, party
+2 or witness.
+3 D. SUMMONS AND PETITION. The summons and petition shall be
+4 served together. The plaintiff shall furnish the person making
+5 service with such copies as are necessary. The failure to serve a
+6 copy of the petition with the summons is not a ground for dismissal
+7 for insufficiency of service of process, but on motion of the party
+8 served, the court may extend the time to answer or otherwise plead.
+9 If a summons and petition are served by personal delivery, the
+10 person serving the summons shall state on the copy that is left with
+11 the person served the date that service is made. This provision is
+12 not jurisdictional, but if the failure to comply with it prejudices
+13 the party served, the court, on motion of the party served, may
+14 extend the time to answer or otherwise plead.
+15 E. SUMMONS: TERRITORIAL LIMITS OF EFFECTIVE SERVICE.
+16 1. Service of the summons and petition may be made anywhere
+17 within this state in the manner provided by subsection C of this
+18 section.
+19 2. When the exercise of jurisdiction is authorized by
+20 subsection F of this section, service of the summons and petition
+21 may be made outside this state:
+22 a. by personal delivery in the manner prescribed for
+23 service within this state,
+24
+Req. No. 10563 Page 25
+1 b. in the manner prescribed by the law of the place in
+2 which the service is made for service in that place in
+3 an action in any of its courts of general
+4 jurisdiction,
+5 c. in the manner prescribed by paragraph 2 of subsection
+6 C of this section,
+7 d. as directed by the foreign authority in response to a
+8 letter rogatory,
+9 e. in the manner prescribed by paragraph 3 4 of
+10 subsection C of this section only when permitted by
+11 subparagraphs a and b of paragraph 3 4 of subsection C
+12 of this section, or
+13 f. as directed by the court.
+14 3. Proof of service outside this state may be made in the
+15 manner prescribed by subsection G of this section, the order
+16 pursuant to which the service is made, or the law of the place in
+17 which the service is made for proof of service in an action in any
+18 of its courts of general jurisdiction.
+19 4. Service outside this state may be made by an individual
+20 permitted to make service of process under the law of this state or
+21 under the law of the place in which the service is made or who is
+22 designated to make service by a court of this state.
+23 5. When subsection C of this section requires that in order to
+24 effect service one or more designated individuals be served, service
+Req. No. 10563 Page 26
+1 outs ide this state under this section must be made upon the
+2 designated individual or individuals.
+3 6. a. A court of this state may order service upon any
+4 person who is domiciled or can be found within this
+5 state of any document issued in connection with a
+6 proceeding in a tribunal outside this state. The
+7 order may be made upon application of any interested
+8 person or in response to a letter rogatory issued by a
+9 tribunal outside this state and shall direct the
+10 manner of service.
+11 b. Service in connection with a proceeding in a tribunal
+12 outside this state may be made within this state
+13 without an order of court.
+14 c. Service under this paragraph does not, of itself,
+15 require the recognition or enforcement of an order,
+16 judgment or decree rendered outside this state.
+17 F. ASSERTION OF JURISDICTION. A court of this state may
+18 exercise jurisdiction on any basis consistent with the Constitution
+19 of this state and the Constitution of the United States.
+20 G. RETURN.
+21 1. The person serving the process shall make proof of service
+22 thereof to the court promptly and in any event within the time
+23 during which the person served must respond to the process, but the
+24
+Req. No. 10563 Page 27
+1 fail ure to make proof of service does not affect the validity of the
+2 service.
+3 2. When process has been served by a sheriff or deputy sheriff
+4 and return thereof is filed in the office of the court clerk, a copy
+5 of the return shall be sent by the court clerk to the plaintiff's
+6 attorney within three (3) days after the return is filed. If
+7 service is made by a person other than a sheriff or deputy sheriff,
+8 the licensed process server shall make affidavit thereof. The
+9 return shall set forth the county of issuance, the name of the
+10 person served and the date, place and method of service.
+11 3. If service was by mail, the person mailing the summons and
+12 petition shall endorse on the copy of the summons or order of the
+13 court that is filed in the action the date and place of mailing and
+14 the date when service was receipted or service was rejected, and
+15 shall attach to the copy of the summons or order a copy of the
+16 return receipt or returned envelope, if and when received, showing
+17 whether the mailing was accepted, refused or otherwise returned. If
+18 the mailing was refused, the return shall also show the date and
+19 place of any subsequent mailing pursuant to paragraph 2 of
+20 subsection C of this section. When the summons and petition are
+21 mailed by the court clerk, the court clerk shall notify the
+22 plaintiff's attorney within three (3) days after receipt of the
+23 returned card or envelope showing that the card or envelope has been
+24 received.
+Req. No. 10563 Page 28
+1 4. If service was by secured electronic means, the person
+2 emailing the summons and petition shall endorse on the copy of the
+3 summons or order of the court that is filed in the action the date
+4 and place of mailing and the date when service was receipted or
+5 service was rejected, and shall attach to the copy of the summons or
+6 order a copy of the return receipt email, if and when received,
+7 showing whether the email was accepted, refused, or otherwise
+8 returned. If the email was refused, the return shall also show the
+9 date and place of any subsequent emailing pursuant to paragraph 3 of
+10 subsection C of this section. When the summons and petition are
+11 emailed by the court clerk, the court clerk shall notify the
+12 plaintiff's attorney within three (3) days after receipt of the
+13 returned email.
+14 H. AMENDMENT. At any time in its discretion and upon such
+15 terms as it deems just, the court may allow any process or proof of
+16 service thereof to be amended, unless it clearly appears that
+17 material prejudice would result to the substantial rights of the
+18 party against whom the process issued.
+19 I. SUMMONS: TIME LIMIT FOR SERVICE. If service of process is
+20 not made upon a defendant within one hundred eighty (180) days after
+21 the filing of the petition and the plaintiff has not shown good
+22 cause why such service was not made within that period, the action
+23 shall be deemed dismissed as to that defendant without prejudice and
+24 Section 100 of this title shall be applicable to any refiling of the
+Req. No. 10563 Page 29
+1 acti on. Upon application of a defendant not timely served, the
+2 court shall enter an order dismissing the action as to that
+3 defendant. The court shall enter a dismissal order of an action
+4 within two hundred (200) days after the filing of the action in
+5 which no service has been made on any defendant as required pursuant
+6 to this section and such order shall be mailed to the address of the
+7 party or the party's attorney of record. The action shall not be
+8 dismissed if a summons was served on the defendant within one
+9 hundred eighty (180) days after the filing of the petition and a
+10 court later holds that the summons or its service was invalid.
+11 After a court quashes a summons or its service, a new summons may be
+12 served on the defendant within a time specified by the judge. If
+13 the new summons is not served within the specified time, the action
+14 shall be deemed to have been dismissed without prejudice as to that
+15 defendant. This subsection shall not apply with respect to a
+16 defendant who has been outside of this state for one hundred eighty
+17 (180) days following the filing of the petition.
+18 SECTION 2. This act shall become effective November 1, 2025.
+19
+20 60-1-10563 AQH 01/15/25
+21
+22
+23
+24
+Req. No. 10563 Page 30
+[DELETED:  P B]
+[DELETED:  P A]
+[DELETED:  P A S u]
+[DELETED:  P u u]
+[DELETED:  P u u u]
+[DELETED:  P u]
+[DELETED:  P A S]
+[DELETED:  P S]
+[DELETED:  P]
+[DELETED:  P U]
+[DELETED:  P S]
+[DELETED:  P S]
+[DELETED:  P]
+[DELETED:  P S S w t]
+[DELETED:  P w w t S]
+[DELETED:  P W I]
+[DELETED:  P I I]
+[DELETED:  P S B A]
+[DELETED:  P]
+[DELETED:  P T S S t n]
+[DELETED:  P B t t t S]
+[DELETED:  P W]
+[DELETED:  P B T]
+[DELETED:  P T]
+[DELETED:  P b]
+[DELETED:  P i i a i a]
+[DELETED:  P a A S S]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P A 0]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 HOUSE BILL 1230 By: West (Kevin)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to civil procedure; amending 12 O.S.
+2021, Section 2004, as amended by Section 1, Chapter
+8 59, O.S.L. 2022 (12 O.S. Supp. 2024, Section 2004),
+which relates to service of process; providing
+9 service of process by electronic means; providing
+provisions for return when serving by electronic
+10 means; and providing an effective date.
+11
+12
+13 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14 SECTION 1. AMENDATORY 12 O.S. 2021, Section 2004, as
+15 amended by Section 1, Chapter 59, O.S.L. 2022 (12 O.S. Supp. 2024,
+16 Section 2004), is amended to read as follows:
+17 Section 2004.
+18 PROCESS
+19 A. SUMMONS: ISSUANCE. Upon filing of the petition, the clerk
+20 shall forthwith issue a summons. Upon request of the plaintiff
+21 separate or additional summons shall issue against any defendants.
+22 B. SUMMONS: FORM.
+23 1. The summons shall be signed by the clerk, be under the seal
+24 of the court, contain the name of the court and the names of the
+Req. No. 10563 Page 1
+
+1 part ies, be directed to the defendant, state the name and address of
+2 the plaintiff's attorney, if any, otherwise, the plaintiff's
+3 address, and the time within which these rules require the defendant
+4 to appear and defend, and shall notify the defendant that in case of
+5 failure to appear, judgment by default will be rendered against the
+6 defendant for the relief demanded in the petition.
+7 2. A judgment by default shall not be different in kind from or
+8 exceed in amount that prayed for in either the demand for judgment
+9 or in cases not sounding in contract in a notice which has been
+10 given the party against whom default judgment is sought. Except as
+11 to a party against whom a judgment is entered by default, every
+12 final judgment shall grant the relief to which the party in whose
+13 favor it is rendered is entitled, even if the party has not demanded
+14 such relief in his or her pleadings.
+15 C. BY WHOM SERVED: PERSON TO BE SERVED.
+16 1. SERVICE BY PERSONAL DELIVERY.
+17 a. At the election of the plaintiff, process, other than
+18 a subpoena, shall be served by a sheriff or deputy
+19 sheriff, a person licensed to make service of process
+20 in civil cases or a person specially appointed for
+21 that purpose. The court shall freely make special
+22 appointments to serve all process, other than a
+23 subpoena, under this paragraph.
+24
+Req. No. 10563 Page 2
+
+1 b. A summons to be served by the sheriff or deputy
+2 sheriff shall be delivered to the sheriff by the court
+3 clerk or an attorney of record for the plaintiff.
+4 When a summons, subpoena or other process is to be
+5 served by the sheriff or deputy sheriff of another
+6 county, the court clerk shall mail it, together with
+7 the voucher of the court clerk for the fees collected
+8 for the service, to the sheriff of that county. The
+9 sheriff shall deposit the voucher in the Sheriff's
+10 Service Fee Account created pursuant to Section 514.1
+11 of Title 19 of the Oklahoma Statutes. The sheriff or
+12 deputy sheriff shall serve the process in the manner
+13 that other process issued out of the court of the
+14 sheriff's own county is served. A summons to be
+15 served by a person licensed to make service of process
+16 in civil cases or by a person specially appointed for
+17 that purpose shall be delivered by an attorney of
+18 record for the plaintiff to such person.
+19 c. Service shall be made as follows:
+20 (1) upon an individual other than an infant who is
+21 less than fifteen (15) years of age or an
+22 incompetent person, by delivering a copy of the
+23 summons and of the petition personally or by
+24 leaving copies thereof at the person's dwelling
+Req. No. 10563 Page 3
+
+1 house or usual place of abode with some person
+2 then residing therein who is fifteen (15) years
+3 of age or older, by delivering a copy of the
+4 summons and of the petition to an agent
+5 authorized by appointment or by law to receive
+6 service of process, or by delivering a copy of
+7 the summons and of the petition personally or by
+8 leaving copies thereof at an agreed meeting place
+9 with some person then residing at the person's
+10 dwelling house or usual place of abode,
+11 (2) upon an infant who is less than fifteen (15)
+12 years of age, by serving the summons and petition
+13 personally and upon either of the infant's
+14 parents or guardian, or if they cannot be found,
+15 then upon the person having the care or control
+16 of the infant or with whom the infant lives; and
+17 upon an incompetent person by serving the summons
+18 and petition personally and upon the incompetent
+19 person's guardian,
+20 (3) upon a domestic or foreign corporation or upon a
+21 partnership or other unincorporated association
+22 which is subject to suit under a common name, by
+23 delivering a copy of the summons and of the
+24 petition to an officer, a managing or general
+Req. No. 10563 Page 4
+
+1 agent or to any other agent authorized by
+2 appointment or by law to receive service of
+3 process and, if the agent is one authorized by
+4 statute to receive service and the statute so
+5 requires, by also mailing a copy to the
+6 defendant,
+7 (4) upon the United States or an officer or agency
+8 thereof in the manner specified by Federal Rule
+9 of Civil Procedure 4,
+10 (5) upon a state, county, school district, public
+11 trust or municipal corporation or other
+12 governmental organization thereof subject to
+13 suit, by delivering a copy of the summons and of
+14 the petition to the officer or individual
+15 designated by specific statute; however, if there
+16 is no statute, then upon the chief executive
+17 officer or a clerk, secretary or other official
+18 whose duty it is to maintain the official records
+19 of the organization,
+20 (6) upon an inmate incarcerated in an institution
+21 under the jurisdiction and control of the
+22 Department of Corrections, by delivering a copy
+23 of the summons and of the petition to the warden
+24 or superintendent or the designee of the warden
+Req. No. 10563 Page 5
+
+1 or superintendent of the institution where the
+2 inmate is housed. It shall be the duty of the
+3 receiving warden or superintendent or a designee
+4 to promptly deliver the summons and petition to
+5 the inmate named therein. The warden or
+6 superintendent or his or her designee shall
+7 reject service of process for any inmate who is
+8 not actually present in the institution, and
+9 (7) upon an inmate incarcerated in a county jail or
+10 detention center under the jurisdiction and
+11 control of the county sheriff or the jail trust
+12 of the county, by delivering a copy of the
+13 summons and of the petition to the jail or
+14 detention center administrator or the designee of
+15 such administrator of the jail or detention
+16 center where the inmate is housed. It shall be
+17 the duty of the receiving jail or detention
+18 center administrator or designee to promptly
+19 deliver the summons and petition to the inmate
+20 named therein. The jail or detention center
+21 administrator or designee shall reject service of
+22 process for any inmate who is not actually
+23 present in the jail or detention center.
+24 2. SERVICE BY MAIL.
+Req. No. 10563 Page 6
+
+1 a. At the election of the plaintiff, a summons and
+2 petition may be served by mail by the plaintiff's
+3 attorney, any person authorized to serve process
+4 pursuant to subparagraph a of paragraph 1 of this
+5 subsection or by the court clerk upon a defendant of
+6 any class referred to in division (1), (3) or (5) of
+7 subparagraph c of paragraph 1 of this subsection.
+8 Service by mail shall be effective on the date of
+9 receipt or if refused, on the date of refusal of the
+10 summons and petition by the defendant.
+11 b. Service by mail shall be accomplished by mailing a
+12 copy of the summons and petition by certified mail,
+13 return receipt requested and delivery restricted to
+14 the addressee. When there is more than one defendant,
+15 the summons and a copy of the petition or order shall
+16 be mailed in a separate envelope to each defendant.
+17 If the summons is to be served by mail by the court
+18 clerk, the court clerk shall enclose the summons and a
+19 copy of the petition or order of the court to be
+20 served in an envelope, prepared by the plaintiff,
+21 addressed to the defendant, or to the resident service
+22 agent if one has been appointed. The court clerk
+23 shall prepay the postage and mail the envelope to the
+24 defendant, or service agent, by certified mail, return
+Req. No. 10563 Page 7
+
+1 receipt requested and delivery restricted to the
+2 addressee. The return receipt shall be prepared by
+3 the plaintiff. Service by mail to a garnishee shall
+4 be accomplished by mailing a copy of the summons and
+5 notice by certified mail, return receipt requested,
+6 and at the election of the judgment creditor by
+7 restricted delivery, to the addressee.
+8 c. Service by mail shall not be the basis for the entry
+9 of a default or a judgment by default unless the
+10 record contains a return receipt showing acceptance by
+11 the defendant or a returned envelope showing refusal
+12 of the process by the defendant. Acceptance or
+13 refusal of service by mail by a person who is fifteen
+14 (15) years of age or older who resides at the
+15 defendant's dwelling house or usual place of abode
+16 shall constitute acceptance or refusal by the party
+17 addressed. In the case of an entity described in
+18 division (3) of subparagraph c of paragraph 1 of this
+19 subsection, acceptance or refusal by any officer or by
+20 any employee of the registered office or principal
+21 place of business who is authorized to or who
+22 regularly receives certified mail shall constitute
+23 acceptance or refusal by the party addressed. A
+24 return receipt signed at such registered office or
+Req. No. 10563 Page 8
+
+1 principal place of business shall be presumed to have
+2 been signed by an employee authorized to receive
+3 certified mail. In the case of a state municipal
+4 corporation, or other governmental organization
+5 thereof subject to suit, acceptance or refusal by an
+6 employee of the office of the officials specified in
+7 division (5) of subparagraph c of paragraph 1 of this
+8 subsection who is authorized to or who regularly
+9 receives certified mail shall constitute acceptance or
+10 refusal by the party addressed. If delivery of the
+11 process is refused, upon the receipt of notice of such
+12 refusal and at least ten (10) days before applying for
+13 entry of default, the person elected by plaintiff
+14 pursuant to subparagraph a of this paragraph to serve
+15 the process shall mail to the defendant by first-class
+16 mail a copy of the summons and petition and a notice
+17 prepared by the plaintiff that despite such refusal
+18 the case will proceed and that judgment by default
+19 will be rendered against him unless he appears to
+20 defend the suit. Any default or judgment by default
+21 shall be set aside upon motion of the defendant in the
+22 manner prescribed in Section 1031.1 of this title, or
+23 upon petition of the defendant in the manner
+24 prescribed in Section 1033 of this title if the
+Req. No. 10563 Page 9
+
+1 defendant demonstrates to the court that the return
+2 receipt was signed or delivery was refused by an
+3 unauthorized person. A petition shall be filed within
+4 one (1) year after the defendant has notice of the
+5 default or judgment by default but in no event more
+6 than two (2) years after the filing of the judgment.
+7 3. SERVICE BY ELECTRONIC MEANS.
+8 a. Upon a judge's order or if a copy of the summons and
+9 petition cannot be personally delivered after three
+10 attempts to the named defendant, as specified in
+11 paragraph 1 of this subsection, a summons may be
+12 served by electronic means, and by thereafter mailing
+13 a copy of the summons and of the petition by certified
+14 mail, postage prepaid, to the named defendant at the
+15 last-known address. Service of a summons in this
+16 manner is deemed complete on the day of receipt of the
+17 electronic transmission and mailing. A summons and
+18 petition may be served by electronic means by the
+19 plaintiff's attorney or any person authorized to serve
+20 process pursuant to subparagraph a of paragraph 1 of
+21 this subsection upon a defendant of any class referred
+22 to in division (1), (3), or (5) of subparagraph c of
+23 paragraph 1 of this subsection. Service by electronic
+24 means shall be effective on the date of receipt or, if
+Req. No. 10563 Page 10
+
+1 refused, on the date of refusal of the summons and
+2 petition by the defendant.
+3 b. Service by electronic means shall be accomplished by
+4 sending an electronic notification to the named
+5 defendant via email. The electronic notification
+6 shall advise the named defendant of the nature of the
+7 communication and shall include a hyperlink to a
+8 secure application that tracks the email and provides
+9 evidence of whether the email notification was bounced
+10 back, returned, received, opened, and whether a copy
+11 of the summons was viewed or downloaded by the named
+12 defendant. The secure application shall give the
+13 named defendant the option of accepting the service by
+14 electronically signing an acknowledgement of receipt
+15 in the application or the option of declining the
+16 service. When there is more than one defendant, the
+17 summons and a copy of the petition or order shall be
+18 transmitted in a separate email notification to each
+19 defendant. Service by email to a garnishee shall be
+20 accomplished by transmitting via a secure application
+21 a copy of the summons and notice, return receipt
+22 requested, and at the election of the judgment
+23 creditor, to the addressee.
+24
+Req. No. 10563 Page 11
+
+1 c. Service by electronic means shall not be the basis for
+2 the entry of a default or a judgment by default unless
+3 the record contains evidence showing acceptance by the
+4 defendant or a returned email showing refusal of the
+5 process by the defendant. Acceptance or refusal of
+6 service by electronic means by a person who is fifteen
+7 (15) years of age or older who resides at the
+8 defendant's dwelling house or usual place of abode
+9 shall constitute acceptance or refusal by the party
+10 addressed. In the case of an entity described in
+11 division (3) of subparagraph c of paragraph 1 of this
+12 subsection, acceptance or refusal by any officer or by
+13 any employee of the registered office or principal
+14 place of business who is authorized to or who
+15 regularly receives emails shall constitute acceptance
+16 or refusal by the party addressed. A return receipt
+17 email sent at such registered office or principal
+18 place of business shall be presumed to have been sent
+19 by an employee authorized to email. In the case of a
+20 state municipal corporation, or other governmental
+21 organization thereof subject to suit, acceptance or
+22 refusal by an employee of the office of the officials
+23 specified in division (5) of subparagraph c of
+24 paragraph 1 of this subsection who is authorized to or
+Req. No. 10563 Page 12
+
+1 who regularly receives email shall constitute
+2 acceptance or refusal by the party addressed. If
+3 delivery of process is refused, upon the receipt of
+4 notice of such refusal and at least ten (10) days
+5 before applying for entry of default, the person
+6 elected by the plaintiff pursuant to subparagraph a of
+7 this paragraph to serve the process shall email to the
+8 defendant a copy of the summons and petition and a
+9 notice prepared by the plaintiff stating that, despite
+10 such refusal, the case will proceed and that judgment
+11 by default will be rendered against him or her unless
+12 he or she appears to defend the suit. Any default or
+13 judgment by default shall be set aside upon motion of
+14 the defendant in the manner prescribed in Section
+15 1031.1 of this title, or upon petition of the
+16 defendant in the manner prescribed in Section 1033 of
+17 this title if the defendant demonstrates to the court
+18 that the return receipt email was sent or delivery was
+19 refused by an unauthorized person. A petition shall
+20 be filed within one (1) year after the defendant has
+21 notice of the default or judgment by default but in no
+22 event more than two (2) years after the filing of the
+23 judgment.
+24
+Req. No. 10563 Page 13
+
+1 4. SERVICE BY PUBLICATION.
+2 a. Service of summons upon a named defendant may be made
+3 by publication when it is stated in the petition,
+4 verified by the plaintiff or the plaintiff's attorney
+5 or in a separate affidavit by the plaintiff or the
+6 plaintiff's attorney filed with the court, that with
+7 due diligence service cannot be made upon the
+8 defendant by any other method.
+9 b. Service of summons upon the unknown successors of a
+10 named defendant, a named decedent or a dissolved
+11 partnership, corporation or other association may be
+12 made by publication when it is stated in a petition,
+13 verified by the plaintiff or the plaintiff's attorney
+14 or in a separate affidavit by the plaintiff or the
+15 plaintiff's attorney filed with the court, that the
+16 person who verified the petition or the affidavit does
+17 not know and with due diligence cannot ascertain the
+18 following:
+19 (1) whether a person named as defendant is living or
+20 dead, and, if dead, the names or whereabouts of
+21 the person's successors, if any,
+22 (2) the names or whereabouts of the unknown
+23 successors, if any, of a named decedent,
+24
+Req. No. 10563 Page 14
+
+1 (3) whether a partnership, corporation or other
+2 association named as a defendant continues to
+3 have legal existence or not; or the names or
+4 whereabouts of its officers or successors,
+5 (4) whether any person designated in a record as a
+6 trustee continues to be the trustee; or the names
+7 or whereabouts of the successors of the trustee,
+8 or
+9 (5) the names or whereabouts of the owners or holders
+10 of special assessment or improvement bonds, or
+11 any other bonds, sewer warrants or tax bills.
+12 c. Service pursuant to this paragraph shall be made by
+13 publication of a notice, signed by the court clerk,
+14 one (1) day a week for three (3) consecutive weeks in
+15 a newspaper authorized by law to publish legal notices
+16 which is published in the county where the petition is
+17 filed. If no newspaper authorized by law to publish
+18 legal notices is published in such county, the notice
+19 shall be published in some such newspaper of general
+20 circulation which is published in an adjoining county.
+21 All named parties and their unknown successors who may
+22 be served by publication may be included in one
+23 notice. The notice shall state the court in which the
+24 petition is filed and the names of the plaintiff and
+Req. No. 10563 Page 15
+
+1 the parties served by publication, and shall designate
+2 the parties whose unknown successors are being served.
+3 The notice shall also state that the named defendants
+4 and their unknown successors have been sued and must
+5 answer the petition on or before a time to be stated
+6 (which shall not be less than forty-one (41) days from
+7 the date of the first publication), or judgment, the
+8 nature of which shall be stated, will be rendered
+9 accordingly. If jurisdiction of the court is based on
+10 property, any real property subject to the
+11 jurisdiction of the court and any property or debts to
+12 be attached or garnished must be described in the
+13 notice.
+14 (1) When the recovery of money is sought, it is not
+15 necessary for the publication notice to state the
+16 separate items involved, but the total amount
+17 that is claimed must be stated. When interest is
+18 claimed, it is not necessary to state the rate of
+19 interest, the date from which interest is claimed
+20 or that interest is claimed until the obligation
+21 is paid.
+22 (2) It is not necessary for the publication notice to
+23 state that the judgment will include recovery of
+24
+Req. No. 10563 Page 16
+
+1 costs in order for a judgment following the
+2 publication notice to include costs of suit.
+3 (3) In an action to quiet title to real property, it
+4 is not necessary for the publication notice to
+5 state the nature of the claim or interest of
+6 either party, and in describing the nature of the
+7 judgment that will be rendered should the
+8 defendant fail to answer, it is sufficient to
+9 state that a decree quieting plaintiff's title to
+10 the described property will be entered. It is
+11 not necessary to state that a decree forever
+12 barring the defendant from asserting any interest
+13 in or to the property is sought or will be
+14 entered if the defendant does not answer.
+15 (4) In an action to foreclose a mortgage, it is
+16 sufficient that the publication notice state that
+17 if the defendant does not answer, the defendant's
+18 interest in the property will be foreclosed. It
+19 is not necessary to state that a judgment forever
+20 barring the defendant from all right, title,
+21 interest, estate, property and equity of
+22 redemption in or to the property or any part
+23 thereof is requested or will be entered if the
+24 defendant does not answer.
+Req. No. 10563 Page 17
+
+1 d. Service by publication is complete when made in the
+2 manner and for the time prescribed in subparagraph c
+3 of this paragraph. Service by publication shall be
+4 proved by the affidavit of any person having knowledge
+5 of the publication. No default judgment may be
+6 entered on such service until proof of service by
+7 publication is filed with and approved by the court.
+8 e. Before entry of a default judgment or order against a
+9 party who has been served solely by publication under
+10 this paragraph, the court shall conduct an inquiry to
+11 determine whether the plaintiff, or someone acting in
+12 behalf of the plaintiff, made a distinct and
+13 meaningful search of all reasonably available sources
+14 to ascertain the whereabouts of any named parties who
+15 have been served solely by publication under this
+16 paragraph. Before entry of a default judgment or
+17 order against the unknown successors of a named
+18 defendant, a named decedent or a dissolved
+19 partnership, corporation or association, the court
+20 shall conduct an inquiry to ascertain whether the
+21 requirements described in subparagraph b of this
+22 paragraph have been satisfied.
+23 f. A party against whom a default judgment or order has
+24 been rendered, without other service than by
+Req. No. 10563 Page 18
+
+1 publication in a newspaper, may, at any time within
+2 three (3) years after the filing of the judgment or
+3 order, have the judgment or order set aside in the
+4 manner prescribed in Sections 1031.1 and 1033 of this
+5 title. Before the judgment or order is set aside, the
+6 applicant shall notify the adverse party of the
+7 intention to make an application and shall file a full
+8 answer to the petition, pay all costs if the court
+9 requires them to be paid and satisfy the court by
+10 affidavit or other evidence that during the pendency
+11 of the action the applicant had no actual notice
+12 thereof in time to appear in court and make a defense.
+13 The title to any property which is the subject of and
+14 which passes to a purchaser in good faith by or in
+15 consequence of the judgment or order to be opened
+16 shall not be affected by any proceedings under this
+17 subparagraph. Nor shall proceedings under this
+18 subparagraph affect the title of any property sold
+19 before judgment under an attachment. The adverse
+20 party, on the hearing of an application to open a
+21 judgment or order as provided by this subparagraph,
+22 shall be allowed to present evidence to show that
+23 during the pendency of the action the applicant had
+24
+Req. No. 10563 Page 19
+
+1 notice thereof in time to appear in court and make a
+2 defense.
+3 g. The term "successors" includes all heirs, executors,
+4 administrators, devisees, trustees and assigns,
+5 immediate and remote, of a named individual,
+6 partnership, corporation or association.
+7 h. Service outside of the state does not give the court
+8 in personal jurisdiction over a defendant who is not
+9 subject to the jurisdiction of the courts of this
+10 state or who has not, either in person or through an
+11 agent, submitted to the jurisdiction of the courts of
+12 this state.
+13 4.
+14 5. SERVICE ON THE SECRETARY OF STATE.
+15 a. Service of process on a domestic or foreign
+16 corporation may be made by serving the Secretary of
+17 State as the corporation's agent, if:
+18 (1) there is no registered agent for the corporation
+19 listed in the records of the Secretary of State,
+20 or
+21 (2) neither the registered agent nor an officer of
+22 the corporation could be found at the registered
+23 office of the corporation, when service of
+24 process was attempted.
+Req. No. 10563 Page 20
+
+1 b. Before resorting to service on the Secretary of State
+2 the plaintiff must have attempted service either in
+3 person or by mail on the corporation at:
+4 (1) the corporation's last-known address shown on the
+5 records of the Franchise Tax Division of the
+6 Oklahoma Tax Commission, if any is listed there,
+7 and
+8 (2) the corporation's last-known address shown on the
+9 records of the Secretary of State, if any is
+10 listed there, and
+11 (3) the corporation's last address known to the
+12 plaintiff.
+13 If any of these addresses are the same, the plaintiff
+14 is not required to attempt service more than once at
+15 any address. The plaintiff shall furnish the
+16 Secretary of State with a certified copy of the return
+17 or returns showing the attempted service.
+18 c. Service on the Secretary of State shall be made by
+19 filing two (2) copies of the summons and petition with
+20 the Secretary of State, notifying the Secretary of
+21 State that service is being made pursuant to the
+22 provisions of this paragraph, and paying the Secretary
+23 of State the fee prescribed in paragraph 7 of
+24 subsection A of Section 1142 of Title 18 of the
+Req. No. 10563 Page 21
+
+1 Oklahoma Statutes, which fee shall be taxed as part of
+2 the costs of the action, suit or proceeding if the
+3 plaintiff shall prevail therein. If a registered
+4 agent for the corporation is listed in the records of
+5 the Secretary of State, the plaintiff must also
+6 furnish a certified copy of the return showing that
+7 service on the registered agent has been attempted
+8 either in person or by mail, and that neither the
+9 registered agent nor an officer of the corporation
+10 could be found at the registered office of the
+11 corporation.
+12 d. Within three (3) working days after receiving the
+13 summons and petition, the Secretary of State shall
+14 send notice by letter, certified mail, return receipt
+15 requested, directed to the corporation at its
+16 registered office or the last-known address found in
+17 the office of the Secretary of State, or if no address
+18 is found there, to the corporation's last-known
+19 address provided by the plaintiff. The notice shall
+20 enclose a copy of the summons and petition and any
+21 other papers served upon the Secretary of State. The
+22 corporation shall not be required to serve its answer
+23 until forty (40) days after service of the summons and
+24 petition on the Secretary of State.
+Req. No. 10563 Page 22
+
+1 e. Before entry of a default judgment or order against a
+2 corporation that has been served by serving the
+3 Secretary of State as its agent under this paragraph,
+4 the court shall determine whether the requirements of
+5 this paragraph have been satisfied. A default
+6 judgment or order against a corporation that has been
+7 served only by service on the Secretary of State may
+8 be set aside upon motion of the corporation in the
+9 manner prescribed in Section 1031.1 of this title, or
+10 upon petition of the corporation in the manner
+11 prescribed in Section 1033 of this title, if the
+12 corporation demonstrates to the court that it had no
+13 actual notice of the action in time to appear and make
+14 its defense. A petition shall be filed within one (1)
+15 year after the corporation has notice of the default
+16 judgment or order but in no event more than two (2)
+17 years after the filing of the default judgment or
+18 order.
+19 f. The Secretary of State shall maintain an alphabetical
+20 record of service setting forth the name of the
+21 plaintiff and defendant, the title, docket number and
+22 nature of the proceeding in which the process has been
+23 served upon the defendant, the fact that service has
+24 been effected pursuant to the provisions of this
+Req. No. 10563 Page 23
+
+1 paragraph, the return date thereof and the date when
+2 the service was made. The Secretary of State shall
+3 not be required to retain this information for a
+4 period longer than five (5) years from receipt of the
+5 service of process.
+6 g. The provisions of this paragraph shall not apply to a
+7 foreign insurance company doing business in this
+8 state.
+9 5. 6. SERVICE BY ACKNOWLEDGMENT. An acknowledgment on the back
+10 of the summons or the voluntary appearance of a defendant is
+11 equivalent to service.
+12 6. 7. SERVICE BY OTHER METHODS. If service cannot be made by
+13 personal delivery or, by mail, or by secured electronic means, a
+14 defendant of any class referred to in division (1) or (3) of
+15 subparagraph c of paragraph 1 of this subsection may be served as
+16 provided by court order in a manner which is reasonably calculated
+17 to give the defendant actual notice of the proceedings and an
+18 opportunity to be heard and upon filing an affidavit by the
+19 plaintiff or plaintiff's attorney that with due diligence service
+20 cannot otherwise be made upon the defendant.
+21 7. 8. NO SERVICE BY PRISONER. No prisoner in any jail,
+22 Department of Corrections facility, private prison, or parolee or
+23 probationer under supervision of the Department of Corrections shall
+24
+Req. No. 10563 Page 24
+
+1 be a ppointed by any court to serve process on any defendant, party
+2 or witness.
+3 D. SUMMONS AND PETITION. The summons and petition shall be
+4 served together. The plaintiff shall furnish the person making
+5 service with such copies as are necessary. The failure to serve a
+6 copy of the petition with the summons is not a ground for dismissal
+7 for insufficiency of service of process, but on motion of the party
+8 served, the court may extend the time to answer or otherwise plead.
+9 If a summons and petition are served by personal delivery, the
+10 person serving the summons shall state on the copy that is left with
+11 the person served the date that service is made. This provision is
+12 not jurisdictional, but if the failure to comply with it prejudices
+13 the party served, the court, on motion of the party served, may
+14 extend the time to answer or otherwise plead.
+15 E. SUMMONS: TERRITORIAL LIMITS OF EFFECTIVE SERVICE.
+16 1. Service of the summons and petition may be made anywhere
+17 within this state in the manner provided by subsection C of this
+18 section.
+19 2. When the exercise of jurisdiction is authorized by
+20 subsection F of this section, service of the summons and petition
+21 may be made outside this state:
+22 a. by personal delivery in the manner prescribed for
+23 service within this state,
+24
+Req. No. 10563 Page 25
+
+1 b. in the manner prescribed by the law of the place in
+2 which the service is made for service in that place in
+3 an action in any of its courts of general
+4 jurisdiction,
+5 c. in the manner prescribed by paragraph 2 of subsection
+6 C of this section,
+7 d. as directed by the foreign authority in response to a
+8 letter rogatory,
+9 e. in the manner prescribed by paragraph 3 4 of
+10 subsection C of this section only when permitted by
+11 subparagraphs a and b of paragraph 3 4 of subsection C
+12 of this section, or
+13 f. as directed by the court.
+14 3. Proof of service outside this state may be made in the
+15 manner prescribed by subsection G of this section, the order
+16 pursuant to which the service is made, or the law of the place in
+17 which the service is made for proof of service in an action in any
+18 of its courts of general jurisdiction.
+19 4. Service outside this state may be made by an individual
+20 permitted to make service of process under the law of this state or
+21 under the law of the place in which the service is made or who is
+22 designated to make service by a court of this state.
+23 5. When subsection C of this section requires that in order to
+24 effect service one or more designated individuals be served, service
+Req. No. 10563 Page 26
+
+1 outs ide this state under this section must be made upon the
+2 designated individual or individuals.
+3 6. a. A court of this state may order service upon any
+4 person who is domiciled or can be found within this
+5 state of any document issued in connection with a
+6 proceeding in a tribunal outside this state. The
+7 order may be made upon application of any interested
+8 person or in response to a letter rogatory issued by a
+9 tribunal outside this state and shall direct the
+10 manner of service.
+11 b. Service in connection with a proceeding in a tribunal
+12 outside this state may be made within this state
+13 without an order of court.
+14 c. Service under this paragraph does not, of itself,
+15 require the recognition or enforcement of an order,
+16 judgment or decree rendered outside this state.
+17 F. ASSERTION OF JURISDICTION. A court of this state may
+18 exercise jurisdiction on any basis consistent with the Constitution
+19 of this state and the Constitution of the United States.
+20 G. RETURN.
+21 1. The person serving the process shall make proof of service
+22 thereof to the court promptly and in any event within the time
+23 during which the person served must respond to the process, but the
+24
+Req. No. 10563 Page 27
+
+1 fail ure to make proof of service does not affect the validity of the
+2 service.
+3 2. When process has been served by a sheriff or deputy sheriff
+4 and return thereof is filed in the office of the court clerk, a copy
+5 of the return shall be sent by the court clerk to the plaintiff's
+6 attorney within three (3) days after the return is filed. If
+7 service is made by a person other than a sheriff or deputy sheriff,
+8 the licensed process server shall make affidavit thereof. The
+9 return shall set forth the county of issuance, the name of the
+10 person served and the date, place and method of service.
+11 3. If service was by mail, the person mailing the summons and
+12 petition shall endorse on the copy of the summons or order of the
+13 court that is filed in the action the date and place of mailing and
+14 the date when service was receipted or service was rejected, and
+15 shall attach to the copy of the summons or order a copy of the
+16 return receipt or returned envelope, if and when received, showing
+17 whether the mailing was accepted, refused or otherwise returned. If
+18 the mailing was refused, the return shall also show the date and
+19 place of any subsequent mailing pursuant to paragraph 2 of
+20 subsection C of this section. When the summons and petition are
+21 mailed by the court clerk, the court clerk shall notify the
+22 plaintiff's attorney within three (3) days after receipt of the
+23 returned card or envelope showing that the card or envelope has been
+24 received.
+Req. No. 10563 Page 28
+
+1 4. If service was by secured electronic means, the person
+2 emailing the summons and petition shall endorse on the copy of the
+3 summons or order of the court that is filed in the action the date
+4 and place of mailing and the date when service was receipted or
+5 service was rejected, and shall attach to the copy of the summons or
+6 order a copy of the return receipt email, if and when received,
+7 showing whether the email was accepted, refused, or otherwise
+8 returned. If the email was refused, the return shall also show the
+9 date and place of any subsequent emailing pursuant to paragraph 3 of
+10 subsection C of this section. When the summons and petition are
+11 emailed by the court clerk, the court clerk shall notify the
+12 plaintiff's attorney within three (3) days after receipt of the
+13 returned email.
+14 H. AMENDMENT. At any time in its discretion and upon such
+15 terms as it deems just, the court may allow any process or proof of
+16 service thereof to be amended, unless it clearly appears that
+17 material prejudice would result to the substantial rights of the
+18 party against whom the process issued.
+19 I. SUMMONS: TIME LIMIT FOR SERVICE. If service of process is
+20 not made upon a defendant within one hundred eighty (180) days after
+21 the filing of the petition and the plaintiff has not shown good
+22 cause why such service was not made within that period, the action
+23 shall be deemed dismissed as to that defendant without prejudice and
+24 Section 100 of this title shall be applicable to any refiling of the
+Req. No. 10563 Page 29
+
+1 acti on. Upon application of a defendant not timely served, the
+2 court shall enter an order dismissing the action as to that
+3 defendant. The court shall enter a dismissal order of an action
+4 within two hundred (200) days after the filing of the action in
+5 which no service has been made on any defendant as required pursuant
+6 to this section and such order shall be mailed to the address of the
+7 party or the party's attorney of record. The action shall not be
+8 dismissed if a summons was served on the defendant within one
+9 hundred eighty (180) days after the filing of the petition and a
+10 court later holds that the summons or its service was invalid.
+11 After a court quashes a summons or its service, a new summons may be
+12 served on the defendant within a time specified by the judge. If
+13 the new summons is not served within the specified time, the action
+14 shall be deemed to have been dismissed without prejudice as to that
+15 defendant. This subsection shall not apply with respect to a
+16 defendant who has been outside of this state for one hundred eighty
+17 (180) days following the filing of the petition.
+18 SECTION 2. This act shall become effective November 1, 2025.
+19
+20 60-1-10563 AQH 01/15/25
+21
+22
+23
+24
+Req. No. 10563 Page 30
+
+[DELETED:  P B]
+[DELETED:  P A]
+[DELETED:  P A S u]
+[DELETED:  P u u]
+[DELETED:  P u u u]
+[DELETED:  P u]
+[DELETED:  P A S]
+[DELETED:  P S]
+[DELETED:  P]
+[DELETED:  P U]
+[DELETED:  P S]
+[DELETED:  P S]
+[DELETED:  P]
+[DELETED:  P S S w t]
+[DELETED:  P w w t S]
+[DELETED:  P W I]
+[DELETED:  P I I]
+[DELETED:  P S B A]
+[DELETED:  P]
+[DELETED:  P T S S t n]
+[DELETED:  P B t t t S]
+[DELETED:  P W]
+[DELETED:  P B T]
+[DELETED:  P T]
+[DELETED:  P b]
+[DELETED:  P i i a i a]
+[DELETED:  P a A S S]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P A 0]

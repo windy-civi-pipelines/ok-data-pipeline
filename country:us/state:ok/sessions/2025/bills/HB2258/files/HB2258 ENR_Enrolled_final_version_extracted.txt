@@ -1,0 +1,509 @@
+Title: An Act
+Official Title: An Act
+Number of Sections: 30
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED HOUSE
+BILL NO. 2258 By: Miller of the House
+and
+Daniels of the Senate
+An Act relating to statutes and reports; enacting the
+Uniform Electronic Legal Material Act; defining
+terms; providing for applicability of act; imposing
+duties on publishers of certain materials;
+authorizing certain designation; providing for
+authentication of legal materials; providing for
+presumption; specifying burden of proof; prescribing
+requirements for preservation of materials; providing
+for reasonable public access; prescribing
+considerations; providing for uniformity; designating
+effect of act upon certain enactments; providing for
+codification; and providing an effective date.
+SUBJECT: Statutes and reports
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.1 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+This act shall be known and may be cited as the "Uniform
+Electronic Legal Material Act".
+
+Section 3:
+SECTION 2. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.2 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+As used in this act:
+
+Section 4:
+1. "Electronic" means relating to technology having electrical,
+digital, magnetic, wireless, optical, electromagnetic, or similar
+capabilities;
+
+Section 5:
+2. "Legal material" means, whether or not in effect:
+a. the Constitution of the State of Oklahoma,
+b. the Oklahoma Session Laws,
+c. the Oklahoma Statutes,
+d. the Oklahoma Administrative Code,
+e. the Oklahoma Register,
+f. a state agency rule that has or had the effect of law,
+or
+g. the following categories of state administrative
+agency decisions:
+(1) precedential decisions of the Oklahoma Tax
+Commission,
+(2) precedential decisions of the Oklahoma
+Corporation Commission,
+(3) precedential decisions of any other agency,
+board, commission, department or other entity of
+state government, or
+h. official opinions of the Attorney General;
+
+Section 6:
+3. "Official publisher" means:
+a. for the Constitution of the State of Oklahoma, the
+Oklahoma Secretary of State,
+b. for the Oklahoma Session Laws, the Oklahoma Secretary
+of State,
+c. for the Oklahoma Statutes, the Oklahoma Secretary of
+State,
+d. for the Oklahoma Administrative Code, the Office of
+Administrative Rules within the Office of the Oklahoma
+Secretary of State,
+ENR. H. B. NO. 2258 Page 2
+e. for the Oklahoma Register, the Office of
+Administrative Rules within the Office of the Oklahoma
+Secretary of State,
+f. for state agency rule that has or had the effect of
+law, unless published in the Oklahoma Administrative
+Code by the Office of Administrative Rules within the
+Office of the Oklahoma Secretary of State, then that
+specific state agency that promulgates such rule,
+g. for the precedential decisions of the Oklahoma Tax
+Commission, the Oklahoma Tax Commission,
+h. for the precedential decisions of the Oklahoma
+Corporation Commission, the Oklahoma Corporation
+Commission,
+i. for the precedential decisions of any other agency,
+board, commission, department or other entity of state
+government, then that specific agency, board,
+commission, department or other entity of state
+government that issues such precedential decision,
+j. for the official opinions of the Attorney General, the
+Office of the Attorney General;
+
+Section 7:
+4. "Publish" means to display, present, or release to the
+public, or cause to be displayed, presented, or released to the
+public, by the official publisher;
+
+Section 8:
+5. "Record" means information that is inscribed on a tangible
+medium or that is stored in an electronic or other medium and is
+retrievable in perceivable form; and
+
+Section 9:
+6. "State" means a state of the United States, the District of
+Columbia, Puerto Rico, the United States Virgin Islands, or any
+territory or insular possession subject to the jurisdiction of the
+United States.
+
+Section 10:
+SECTION 3. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.3 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+ENR. H. B. NO. 2258 Page 3
+This act applies to all legal material in an electronic record
+that is designated as official under Section 4 of this act and first
+published electronically on or after the effective date of this act.
+
+Section 11:
+SECTION 4. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.4 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+A. If an official publisher publishes legal material only in an
+electronic record, the publisher shall:
+
+Section 12:
+1. Designate the electronic record as official; and
+
+Section 13:
+2. Comply with Sections 5, 7, and 8 of this act.
+B. An official publisher that publishes legal material in an
+electronic record and also publishes the material in a record other
+than an electronic record may designate the electronic record as
+official if the publisher complies with Sections 5, 7, and 8 of this
+act.
+
+Section 14:
+SECTION 5. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.5 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+An official publisher of legal material in an electronic record
+that is designated as official under Section 4 of this act shall
+authenticate the record. To authenticate an electronic record, the
+publisher shall provide a method for a user to determine that the
+record received by the user from the publisher is unaltered from the
+official record published by the publisher.
+
+Section 15:
+SECTION 6. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.6 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+A. Legal material in an electronic record that is authenticated
+under Section 5 of this act is presumed to be an accurate copy of
+the legal material.
+B. If another state has adopted a law substantially similar to
+this act, legal material in an electronic record that is designated
+as official and authenticated by the official publisher in that
+state is presumed to be an accurate copy of the legal material.
+ENR. H. B. NO. 2258 Page 4
+C. A party contesting the authentication of legal material in
+an electronic record authenticated under Section 5 of this act has
+the burden of proving by a preponderance of the evidence that the
+record is not authentic.
+
+Section 16:
+SECTION 7. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.7 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+A. An official publisher of legal material in an electronic
+record that is or was designated as official under Section 4 of this
+act shall provide for the preservation and security of the record in
+an electronic form or a form that is not electronic.
+B. If legal material is preserved under subsection A of this
+
+Section 17:
+section in an electronic record, the official publisher shall:
+
+Section 18:
+1. Ensure the integrity of the record;
+
+Section 19:
+2. Provide for backup and disaster recovery of the record; and
+
+Section 20:
+3. Ensure the continuing usability of the material.
+
+Section 21:
+SECTION 8. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.8 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+An official publisher of legal material in an electronic record
+that is required to be preserved under Section 7 of this act shall
+ensure that the material is reasonably available for use by the
+public on a permanent basis.
+
+Section 22:
+SECTION 9. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.9 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+In implementing this act, an official publisher of legal
+material in an electronic record shall consider:
+
+Section 23:
+1. Standards and practices of other jurisdictions;
+
+Section 24:
+2. The most recent standards regarding authentication of,
+preservation and security of, and public access to, legal material
+in an electronic record and other electronic records, as promulgated
+by national standard-setting bodies;
+ENR. H. B. NO. 2258 Page 5
+
+Section 25:
+3. The needs of users of legal material in an electronic
+record;
+
+Section 26:
+4. The views of governmental officials and entities and other
+interested persons; and
+
+Section 27:
+5. To the extent practicable, methods and technologies for the
+authentication of, preservation and security of, and public access
+to, legal material which are compatible with the methods and
+technologies used by other official publishers in this state and in
+other states that have adopted a law substantially similar to this
+act.
+
+Section 28:
+SECTION 10. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.10 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+In applying and construing this uniform act, consideration must
+be given to the need to promote uniformity of the law with respect
+to its subject matter among states that enact it.
+
+Section 29:
+SECTION 11. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.11 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+This act modifies, limits, and supersedes the Electronic
+Signatures in Global and National Commerce Act, 15 U.S.C., Section
+7001 et seq., but does not modify, limit, or supersede Section
+101(c) of that act, 15 U.S.C., Section 7001(c), or authorize
+electronic delivery of any of the notices described in Section
+103(b) of that act, 15 U.S.C., Section 7003(b).
+
+Section 30:
+SECTION 12. This act shall become effective January 1, 2026.
+ENR. H. B. NO. 2258 Page 6
+Passed the House of Representatives the 22nd day of May, 2025.
+Presiding Officer of the House
+of Representatives
+Passed the Senate the 22nd day of May, 2025.
+Presiding Officer of the Senate
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. H. B. NO. 2258 Page 7
+[DELETED:  B M   a D]
+[DELETED:  P t t t t t a t p p p o f f f f]
+[DELETED:  P f f f f f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPoP_G]
+
+
+================================================================================
+
+Raw Text:
+An Act
+ENROLLED HOUSE
+BILL NO. 2258 By: Miller of the House
+and
+Daniels of the Senate
+An Act relating to statutes and reports; enacting the
+Uniform Electronic Legal Material Act; defining
+terms; providing for applicability of act; imposing
+duties on publishers of certain materials;
+authorizing certain designation; providing for
+authentication of legal materials; providing for
+presumption; specifying burden of proof; prescribing
+requirements for preservation of materials; providing
+for reasonable public access; prescribing
+considerations; providing for uniformity; designating
+effect of act upon certain enactments; providing for
+codification; and providing an effective date.
+SUBJECT: Statutes and reports
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.1 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+This act shall be known and may be cited as the "Uniform
+Electronic Legal Material Act".
+SECTION 2. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.2 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+As used in this act:
+1. "Electronic" means relating to technology having electrical,
+digital, magnetic, wireless, optical, electromagnetic, or similar
+capabilities;
+
+2. "Legal material" means, whether or not in effect:
+a. the Constitution of the State of Oklahoma,
+b. the Oklahoma Session Laws,
+c. the Oklahoma Statutes,
+d. the Oklahoma Administrative Code,
+e. the Oklahoma Register,
+f. a state agency rule that has or had the effect of law,
+or
+g. the following categories of state administrative
+agency decisions:
+(1) precedential decisions of the Oklahoma Tax
+Commission,
+(2) precedential decisions of the Oklahoma
+Corporation Commission,
+(3) precedential decisions of any other agency,
+board, commission, department or other entity of
+state government, or
+h. official opinions of the Attorney General;
+3. "Official publisher" means:
+a. for the Constitution of the State of Oklahoma, the
+Oklahoma Secretary of State,
+b. for the Oklahoma Session Laws, the Oklahoma Secretary
+of State,
+c. for the Oklahoma Statutes, the Oklahoma Secretary of
+State,
+d. for the Oklahoma Administrative Code, the Office of
+Administrative Rules within the Office of the Oklahoma
+Secretary of State,
+ENR. H. B. NO. 2258 Page 2
+
+e. for the Oklahoma Register, the Office of
+Administrative Rules within the Office of the Oklahoma
+Secretary of State,
+f. for state agency rule that has or had the effect of
+law, unless published in the Oklahoma Administrative
+Code by the Office of Administrative Rules within the
+Office of the Oklahoma Secretary of State, then that
+specific state agency that promulgates such rule,
+g. for the precedential decisions of the Oklahoma Tax
+Commission, the Oklahoma Tax Commission,
+h. for the precedential decisions of the Oklahoma
+Corporation Commission, the Oklahoma Corporation
+Commission,
+i. for the precedential decisions of any other agency,
+board, commission, department or other entity of state
+government, then that specific agency, board,
+commission, department or other entity of state
+government that issues such precedential decision,
+j. for the official opinions of the Attorney General, the
+Office of the Attorney General;
+4. "Publish" means to display, present, or release to the
+public, or cause to be displayed, presented, or released to the
+public, by the official publisher;
+5. "Record" means information that is inscribed on a tangible
+medium or that is stored in an electronic or other medium and is
+retrievable in perceivable form; and
+6. "State" means a state of the United States, the District of
+Columbia, Puerto Rico, the United States Virgin Islands, or any
+territory or insular possession subject to the jurisdiction of the
+United States.
+SECTION 3. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.3 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+ENR. H. B. NO. 2258 Page 3
+
+This act applies to all legal material in an electronic record
+that is designated as official under Section 4 of this act and first
+published electronically on or after the effective date of this act.
+SECTION 4. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.4 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+A. If an official publisher publishes legal material only in an
+electronic record, the publisher shall:
+1. Designate the electronic record as official; and
+2. Comply with Sections 5, 7, and 8 of this act.
+B. An official publisher that publishes legal material in an
+electronic record and also publishes the material in a record other
+than an electronic record may designate the electronic record as
+official if the publisher complies with Sections 5, 7, and 8 of this
+act.
+SECTION 5. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.5 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+An official publisher of legal material in an electronic record
+that is designated as official under Section 4 of this act shall
+authenticate the record. To authenticate an electronic record, the
+publisher shall provide a method for a user to determine that the
+record received by the user from the publisher is unaltered from the
+official record published by the publisher.
+SECTION 6. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.6 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+A. Legal material in an electronic record that is authenticated
+under Section 5 of this act is presumed to be an accurate copy of
+the legal material.
+B. If another state has adopted a law substantially similar to
+this act, legal material in an electronic record that is designated
+as official and authenticated by the official publisher in that
+state is presumed to be an accurate copy of the legal material.
+ENR. H. B. NO. 2258 Page 4
+
+C. A party contesting the authentication of legal material in
+an electronic record authenticated under Section 5 of this act has
+the burden of proving by a preponderance of the evidence that the
+record is not authentic.
+SECTION 7. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.7 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+A. An official publisher of legal material in an electronic
+record that is or was designated as official under Section 4 of this
+act shall provide for the preservation and security of the record in
+an electronic form or a form that is not electronic.
+B. If legal material is preserved under subsection A of this
+section in an electronic record, the official publisher shall:
+1. Ensure the integrity of the record;
+2. Provide for backup and disaster recovery of the record; and
+3. Ensure the continuing usability of the material.
+SECTION 8. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.8 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+An official publisher of legal material in an electronic record
+that is required to be preserved under Section 7 of this act shall
+ensure that the material is reasonably available for use by the
+public on a permanent basis.
+SECTION 9. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.9 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+In implementing this act, an official publisher of legal
+material in an electronic record shall consider:
+1. Standards and practices of other jurisdictions;
+2. The most recent standards regarding authentication of,
+preservation and security of, and public access to, legal material
+in an electronic record and other electronic records, as promulgated
+by national standard-setting bodies;
+ENR. H. B. NO. 2258 Page 5
+
+3. The needs of users of legal material in an electronic
+record;
+4. The views of governmental officials and entities and other
+interested persons; and
+5. To the extent practicable, methods and technologies for the
+authentication of, preservation and security of, and public access
+to, legal material which are compatible with the methods and
+technologies used by other official publishers in this state and in
+other states that have adopted a law substantially similar to this
+act.
+SECTION 10. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.10 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+In applying and construing this uniform act, consideration must
+be given to the need to promote uniformity of the law with respect
+to its subject matter among states that enact it.
+SECTION 11. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 31.11 of Title 75, unless there
+is created a duplication in numbering, reads as follows:
+This act modifies, limits, and supersedes the Electronic
+Signatures in Global and National Commerce Act, 15 U.S.C., Section
+7001 et seq., but does not modify, limit, or supersede Section
+101(c) of that act, 15 U.S.C., Section 7001(c), or authorize
+electronic delivery of any of the notices described in Section
+103(b) of that act, 15 U.S.C., Section 7003(b).
+SECTION 12. This act shall become effective January 1, 2026.
+ENR. H. B. NO. 2258 Page 6
+
+Passed the House of Representatives the 22nd day of May, 2025.
+Presiding Officer of the House
+of Representatives
+Passed the Senate the 22nd day of May, 2025.
+Presiding Officer of the Senate
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. H. B. NO. 2258 Page 7
+
+[DELETED:  B M   a D]
+[DELETED:  P t t t t t a t p p p o f f f f]
+[DELETED:  P f f f f f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPoP_G]

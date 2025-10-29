@@ -1,0 +1,1671 @@
+Title: SENATE BILL 1060 By: Thompson
+Official Title: SENATE BILL 1060 By: Thompson
+Number of Sections: 25
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to dental benefit plans; defining
+7
+terms; establishing formula for medical loss ratio;
+8
+requiring annual reporting to the Insurance
+8
+Department; establishing process for certain data
+9
+verification; exempting certain dental plans from
+9
+provisions of act; requiring annual rebate for
+10
+certain plan years by certain plans; providing for
+10
+rebate calculation; prohibiting certain rate
+11
+establishment; directing rule promulgation;
+11
+establishing provisions for rate determination by
+12
+Insurance Commissioner; requiring certain rate
+12
+increase notice; amending 36 O.S. 2021, Section 7301,
+13
+which relates to dental plan fee regulation;
+13
+modifying definitions; providing for codification;
+14
+and providing an effective date.
+14
+15
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 7011 of Title 36, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+A. As used in this act:
+21
+22
+
+Section 3:
+1. “Earned premium” means all monies paid by a policyholder or
+22
+23
+subscriber as a condition of receiving coverage from the insurer,
+23
+24
+24
+Req. No. 367 Page 1
+1
+including any fees or other contributions associated with the dental
+1
+2
+plan;
+2
+3
+
+Section 4:
+2. “Medical loss ratio” (MLR) means the minimum percentage of
+3
+4
+all premium funds collected by an insurer each year that shall be
+4
+5
+spent on actual patient care rather than overhead costs. The funds
+5
+6
+to be spent on actual patient care under this subsection shall be
+6
+7
+refunded to individuals and groups in the form of a rebate; and
+7
+8
+
+Section 5:
+3. “Unpaid claim reserves” means reserves and liabilities
+8
+9
+established to account for claims that were incurred during the MLR
+9
+10
+reporting year but were not paid within three (3) months of the end
+10
+11
+of the MLR reporting year.
+11
+12
+B. The medical loss ratio for a dental plan or the dental
+12
+13
+coverage portion of a health benefit plan shall be determined by
+13
+14
+dividing the numerator by the denominator as defined in this
+14
+15
+
+Section 6:
+section.
+15
+16
+C. 1. The numerator shall be the amount spent on care. The
+16
+17
+amount spent on care shall include:
+17
+18
+a. the amount expended for clinical dental services,
+18
+19
+which are services within the code on dental
+19
+20
+procedures and nomenclature, provided to enrollees
+20
+21
+which includes payments under capitation contracts
+21
+22
+with dental providers, whose services are covered by
+22
+23
+the contract for dental clinical services or supplies
+23
+24
+covered by the contract; provided, any overpayment
+24
+Req. No. 367 Page 2
+1
+that has already been received from providers shall
+1
+2
+not be reported as a paid claim. Overpayment
+2
+3
+recoveries received from providers shall be deducted
+3
+4
+from incurred claim amounts,
+4
+5
+b. unpaid claim reserves, and
+5
+6
+c. claim payments recovered by insurers from providers or
+6
+7
+enrollees using utilization management efforts,
+7
+8
+deducted from claim amounts.
+8
+9
+
+Section 7:
+2. Calculation of the numerator shall not include:
+9
+10
+a. all administrative costs, including, but not limited
+10
+11
+to, infrastructure, personnel costs, or broker
+11
+12
+payments,
+12
+13
+b. amounts paid to third-party vendors for secondary
+13
+14
+network savings,
+14
+15
+c. amounts paid to third-party vendors for network
+15
+16
+development, administrative fees, claims processing,
+16
+17
+and utilization management, and
+17
+18
+d. amounts paid to a provider for professional or
+18
+19
+administrative services that do not represent
+19
+20
+compensation or reimbursement for covered services to
+20
+21
+an enrollee, including, but not limited to, dental
+21
+22
+record copying costs, attorney fees, subrogation
+22
+23
+vendor fees, and compensation to paraprofessionals,
+23
+24
+janitors, quality assurance analysts, administrative
+24
+Req. No. 367 Page 3
+1
+supervisors, secretaries to dental personnel, and
+1
+2
+dental record clerks.
+2
+3
+D. The denominator shall include the total amount of the earned
+3
+4
+premium revenues, excluding federal and state taxes and licensing
+4
+5
+and regulatory fees paid after accounting for any payments pursuant
+5
+6
+to federal law.
+6
+7
+E. 1. A dental benefit plan or the dental portion of a health
+7
+8
+benefit plan that issues, sells, renews, or offers a specialized
+8
+9
+health benefit plan contract covering dental services on or after
+9
+10
+the effective date of this act shall file a medical loss ratio (MLR)
+10
+11
+with the Insurance Department that is organized by market and
+11
+12
+product type and, where appropriate, contains the same information
+12
+13
+required in the 2013 federal Medical Loss Ratio Annual Reporting
+13
+14
+Form (CMS-10418).
+14
+15
+
+Section 8:
+2. The MLR reporting year shall be for the calendar year during
+15
+16
+which dental coverage is provided by the plan. All terms used in
+16
+17
+the MLR annual report shall have the same meaning as used in the
+17
+18
+federal Public Health Service Act, 42 U.S.C., Section 300gg-18, and
+18
+19
+Part 158 of Title 45 of the Code of Federal Regulations.
+19
+20
+F. 1. If data verification of the dental benefit plan’s or the
+20
+21
+dental portion of a health benefit plan’s representations in the MLR
+21
+22
+annual report is deemed necessary, the Department shall notify the
+22
+23
+benefit plan thirty (30) days before the commencement of the
+23
+24
+financial examination.
+24
+Req. No. 367 Page 4
+1
+
+Section 9:
+2. The dental benefit plan or the dental portion of a health
+1
+2
+benefit plan shall have thirty (30) days from the date of
+2
+3
+notification to submit to the Department all requested data. The
+3
+4
+Insurance Commissioner may extend the time period for a health
+4
+5
+benefit plan to comply with this subsection upon a finding of good
+5
+6
+cause.
+6
+7
+G. The Department shall make available to the public all of the
+7
+8
+data provided to the Department pursuant to this section.
+8
+9
+H. The provisions of this act shall not apply to health benefit
+9
+10
+plans under the state Medicaid program or plans offered to the
+10
+11
+state-sponsored health benefit plans.
+11
+12
+
+Section 10:
+SECTION 2. NEW LAW A new section of law to be codified
+12
+13
+in the Oklahoma Statutes as Section 7012 of Title 36, unless there
+13
+14
+is created a duplication in numbering, reads as follows:
+14
+15
+A. 1. A dental benefit plan or the dental portion of a health
+15
+16
+benefit plan that issues, sells, renews, or offers a specialized
+16
+17
+health care service plan contract covering dental services on or
+17
+18
+after the effective date of this act shall provide an annual rebate
+18
+19
+to each enrollee under that coverage, on a pro rata basis, if the
+19
+20
+ratio of the amount of premium revenue expended by the dental
+20
+21
+benefit plan or the dental portion of a health benefit plan on the
+21
+22
+costs for reimbursement for services provided to enrollees under
+22
+23
+that coverage and for activities that improve dental care quality to
+23
+24
+the total amount of premium revenue, excluding federal and state
+24
+Req. No. 367 Page 5
+1
+taxes and licensing or regulatory fees, and after accounting for
+1
+2
+payments or receipts for risk adjustment, risk corridors, and
+2
+3
+reinsurance, subsections C and D Section 1 of this act, is less
+3
+4
+than, at minimum:
+4
+5
+a. eighty percent (80%) for large group plans as defined
+5
+6
+in 42 U.S.C., Section 18024(b)(1), and
+6
+7
+b. seventy-five percent (75%) for individual and small
+7
+8
+group plans as defined in 42 U.S.C., Section
+8
+9
+18024(b)(2).
+9
+10
+
+Section 11:
+2. Dental benefit plans shall implement the provisions of
+10
+11
+paragraph 1 of this subsection not later than January 1, 2028.
+11
+12
+B. The total amount of an annual rebate required under this
+12
+13
+
+Section 12:
+section shall be calculated in an amount equal to the product of the
+13
+14
+amount by which the percentage described in subsection A of this
+14
+15
+
+Section 13:
+section exceeds the insurer’s reported ratio described in
+15
+16
+subsections C and D of Section 1 of this act multiplied by the total
+16
+17
+amount of premium revenue, excluding federal and state taxes and
+17
+18
+licensing or regulatory fees and after accounting for payments or
+18
+19
+receipts for risk adjustment, risk corridors, and reinsurance.
+19
+20
+C. A dental benefit plan or the dental portion of a health
+20
+21
+benefit plan shall provide any rebate owed to an enrollee no later
+21
+22
+than August 1 of the calendar year following the year for which the
+22
+23
+ratio described in subsection A of this section was calculated.
+23
+24
+24
+Req. No. 367 Page 6
+1
+
+Section 14:
+SECTION 3. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 7013 of Title 36, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. On or before July 1 of the preceding year, all carriers
+4
+5
+offering dental benefit plans shall file group product base rates
+5
+6
+and any changes to group rating factors that are to be effective on
+6
+7
+January 1 of each year.
+7
+8
+B. A dental benefit plan or the dental portion of a health
+8
+9
+benefit plan that issues, sells, renews, or offers a specialized
+9
+10
+health benefit plan contract covering dental services shall not
+10
+11
+establish rates for any dental coverage plan issued to any
+11
+12
+policyholder that are excessive, inadequate, or unfairly
+12
+13
+discriminatory. To assure compliance with the requirements of this
+13
+14
+
+Section 15:
+section that rates are not excessive in relation to benefits, the
+14
+15
+Insurance Commissioner shall promulgate rules to require rate
+15
+16
+filings and shall require the submission of adequate documentation
+16
+17
+and supporting information, including actuarial opinions or
+17
+18
+certifications that the rates proposed by dental plans do not result
+18
+19
+in the MLR exceeding the ratios described in subsection A of Section
+19
+20
+2 of this act.
+20
+21
+C. 1. If a carrier files a base rate change and the
+21
+22
+administrative expense loading component, not including taxes and
+22
+23
+assessments, increases by more than the most recent calendar year’s
+23
+24
+percentage increase in the dental services Consumer Price Index for
+24
+Req. No. 367 Page 7
+1
+All Urban Consumers, U.S. city average, not seasonally adjusted, the
+1
+2
+base rate shall be deemed excessive and presumptively disapproved.
+2
+3
+
+Section 16:
+2. If the carrier’s base rate is presumptively disapproved:
+3
+4
+a. the carrier shall communicate to all employers and
+4
+5
+individuals covered under a group product that the
+5
+6
+proposed increase has been presumptively disapproved
+6
+7
+and is subject to a hearing by the Insurance
+7
+8
+Department, and
+8
+9
+b. the Department shall conduct a public hearing and
+9
+10
+shall properly advertise the hearing in compliance
+10
+11
+with public hearing requirements.
+11
+12
+D. The carrier shall submit expected rate increases to the
+12
+13
+Commissioner at least sixty (60) days prior to the proposed
+13
+14
+implementation of the rates. If the Commissioner does not approve
+14
+15
+or disapprove the rate filings within a sixty-day period, the
+15
+16
+carrier may implement and reasonably rely upon the rates provided.
+16
+17
+The Commissioner may require correction of any deficiencies in the
+17
+18
+rate filing upon later review if the rate the carrier charged is
+18
+19
+excessive, inadequate, or unfairly discriminatory. A prospective
+19
+20
+rate adjustment or rebate as described in Section 2 of this act is
+20
+21
+the sole remedy for rate deficiencies. If the Commissioner finds
+21
+22
+deficiencies in the rate filing after a sixty-day period, the
+22
+23
+Commissioner shall provide notice to the carrier, and the carrier
+23
+24
+shall correct the rate on a prospective basis.
+24
+Req. No. 367 Page 8
+1
+
+Section 17:
+SECTION 4. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 7014 of Title 36, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. Beginning July 1, 2026, and on or before July 1 of each year
+4
+5
+thereafter, each dental insurer doing business in this state shall
+5
+6
+file with the Insurance Department, in the form and manner
+6
+7
+prescribed by the Department, an annual report on the dental loss
+7
+8
+ratio for the preceding calendar year. The dental loss ratio annual
+8
+9
+report shall include the following:
+9
+10
+
+Section 18:
+1. A combined dental loss ratio percentage for all individual
+10
+11
+dental policies; and
+11
+12
+
+Section 19:
+2. A combined dental loss ratio percentage for all group dental
+12
+13
+policies issued to fully insured groups.
+13
+14
+B. Not later than August 1 of each year, the Department shall
+14
+15
+post the reported dental loss ratios for each dental insurer on a
+15
+16
+publicly available website in a manner that is easily located and
+16
+17
+identifiable to the public. The Department may not post the
+17
+18
+underlying claims, premiums, and other data used to calculate the
+18
+19
+dental loss ratios and shall treat all claims, premiums, and other
+19
+20
+data as confidential.
+20
+21
+
+Section 20:
+SECTION 5. AMENDATORY 36 O.S. 2021, Section 7301, is
+21
+22
+amended to read as follows:
+22
+23
+
+Section 21:
+Section 7301. A. No contract between a dental plan of a health
+23
+24
+benefit plan and a dentist for the provision of services to patients
+24
+Req. No. 367 Page 9
+1
+may require that a dentist provide services to its subscribers at a
+1
+2
+fee set by the health benefit plan unless the services are covered
+2
+3
+services under the applicable subscriber agreement.
+3
+4
+B. As used in this section:
+4
+5
+
+Section 22:
+1. “Covered services” means services reimbursable reimbursed
+5
+6
+under the applicable subscriber agreement, subject notwithstanding
+6
+7
+and without regard to the contractual limitations on subscriber
+7
+8
+benefits as may apply, including, for example, deductibles, waiting
+8
+9
+period or frequency limitations;
+9
+10
+
+Section 23:
+2. “Dental plan” means and shall include any policy of
+10
+11
+insurance which is issued by a health benefit plan which provides
+11
+12
+for coverage of dental services not in connection with a medical
+12
+13
+plan; and
+13
+14
+
+Section 24:
+3. “Health benefit plan” means any plan or arrangement as
+14
+15
+defined in subsection C of Section 6060.4 of this title or any
+15
+16
+dental service corporation authorized pursuant to Section 2671 of
+16
+17
+this title.
+17
+18
+C. A health benefit plan or dental plan shall establish and
+18
+19
+maintain appeal procedures for any claim by a dentist or a
+19
+20
+subscriber that is denied based on lack of medical necessity. Any
+20
+21
+such denial shall be based upon a determination by a dentist who
+21
+22
+holds a nonrestricted license in the United States. Any written
+22
+23
+communication to a dentist that includes or pertains to a denial of
+23
+24
+benefits for all or part of a claim on the basis of a lack of
+24
+Req. No. 367 Page 10
+1
+medical necessity shall include the identifier and license number
+1
+2
+together with state of issuance, and a contact telephone number of
+2
+3
+the licensed dentist making the adverse determination. The dentist
+3
+4
+who reviewed the claim shall only be contacted at the telephone
+4
+5
+number provided in the written communication about the denial during
+5
+6
+business hours.
+6
+7
+
+Section 25:
+SECTION 6. This act shall become effective November 1, 2025.
+7
+8
+8
+9
+60-1-367 CAD 1/16/2025 2:58:35 PM
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 367 Page 11
+[DELETED:  P B T]
+[DELETED:  P t]
+[DELETED:  P u c a a a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P e s]
+[DELETED:  P]
+[DELETED:  P t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 1060 By: Thompson
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to dental benefit plans; defining
+7
+terms; establishing formula for medical loss ratio;
+8
+requiring annual reporting to the Insurance
+8
+Department; establishing process for certain data
+9
+verification; exempting certain dental plans from
+9
+provisions of act; requiring annual rebate for
+10
+certain plan years by certain plans; providing for
+10
+rebate calculation; prohibiting certain rate
+11
+establishment; directing rule promulgation;
+11
+establishing provisions for rate determination by
+12
+Insurance Commissioner; requiring certain rate
+12
+increase notice; amending 36 O.S. 2021, Section 7301,
+13
+which relates to dental plan fee regulation;
+13
+modifying definitions; providing for codification;
+14
+and providing an effective date.
+14
+15
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+SECTION 1. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 7011 of Title 36, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+A. As used in this act:
+21
+22
+1. “Earned premium” means all monies paid by a policyholder or
+22
+23
+subscriber as a condition of receiving coverage from the insurer,
+23
+24
+24
+Req. No. 367 Page 1
+
+1
+including any fees or other contributions associated with the dental
+1
+2
+plan;
+2
+3
+2. “Medical loss ratio” (MLR) means the minimum percentage of
+3
+4
+all premium funds collected by an insurer each year that shall be
+4
+5
+spent on actual patient care rather than overhead costs. The funds
+5
+6
+to be spent on actual patient care under this subsection shall be
+6
+7
+refunded to individuals and groups in the form of a rebate; and
+7
+8
+3. “Unpaid claim reserves” means reserves and liabilities
+8
+9
+established to account for claims that were incurred during the MLR
+9
+10
+reporting year but were not paid within three (3) months of the end
+10
+11
+of the MLR reporting year.
+11
+12
+B. The medical loss ratio for a dental plan or the dental
+12
+13
+coverage portion of a health benefit plan shall be determined by
+13
+14
+dividing the numerator by the denominator as defined in this
+14
+15
+section.
+15
+16
+C. 1. The numerator shall be the amount spent on care. The
+16
+17
+amount spent on care shall include:
+17
+18
+a. the amount expended for clinical dental services,
+18
+19
+which are services within the code on dental
+19
+20
+procedures and nomenclature, provided to enrollees
+20
+21
+which includes payments under capitation contracts
+21
+22
+with dental providers, whose services are covered by
+22
+23
+the contract for dental clinical services or supplies
+23
+24
+covered by the contract; provided, any overpayment
+24
+Req. No. 367 Page 2
+
+1
+that has already been received from providers shall
+1
+2
+not be reported as a paid claim. Overpayment
+2
+3
+recoveries received from providers shall be deducted
+3
+4
+from incurred claim amounts,
+4
+5
+b. unpaid claim reserves, and
+5
+6
+c. claim payments recovered by insurers from providers or
+6
+7
+enrollees using utilization management efforts,
+7
+8
+deducted from claim amounts.
+8
+9
+2. Calculation of the numerator shall not include:
+9
+10
+a. all administrative costs, including, but not limited
+10
+11
+to, infrastructure, personnel costs, or broker
+11
+12
+payments,
+12
+13
+b. amounts paid to third-party vendors for secondary
+13
+14
+network savings,
+14
+15
+c. amounts paid to third-party vendors for network
+15
+16
+development, administrative fees, claims processing,
+16
+17
+and utilization management, and
+17
+18
+d. amounts paid to a provider for professional or
+18
+19
+administrative services that do not represent
+19
+20
+compensation or reimbursement for covered services to
+20
+21
+an enrollee, including, but not limited to, dental
+21
+22
+record copying costs, attorney fees, subrogation
+22
+23
+vendor fees, and compensation to paraprofessionals,
+23
+24
+janitors, quality assurance analysts, administrative
+24
+Req. No. 367 Page 3
+
+1
+supervisors, secretaries to dental personnel, and
+1
+2
+dental record clerks.
+2
+3
+D. The denominator shall include the total amount of the earned
+3
+4
+premium revenues, excluding federal and state taxes and licensing
+4
+5
+and regulatory fees paid after accounting for any payments pursuant
+5
+6
+to federal law.
+6
+7
+E. 1. A dental benefit plan or the dental portion of a health
+7
+8
+benefit plan that issues, sells, renews, or offers a specialized
+8
+9
+health benefit plan contract covering dental services on or after
+9
+10
+the effective date of this act shall file a medical loss ratio (MLR)
+10
+11
+with the Insurance Department that is organized by market and
+11
+12
+product type and, where appropriate, contains the same information
+12
+13
+required in the 2013 federal Medical Loss Ratio Annual Reporting
+13
+14
+Form (CMS-10418).
+14
+15
+2. The MLR reporting year shall be for the calendar year during
+15
+16
+which dental coverage is provided by the plan. All terms used in
+16
+17
+the MLR annual report shall have the same meaning as used in the
+17
+18
+federal Public Health Service Act, 42 U.S.C., Section 300gg-18, and
+18
+19
+Part 158 of Title 45 of the Code of Federal Regulations.
+19
+20
+F. 1. If data verification of the dental benefit plan’s or the
+20
+21
+dental portion of a health benefit plan’s representations in the MLR
+21
+22
+annual report is deemed necessary, the Department shall notify the
+22
+23
+benefit plan thirty (30) days before the commencement of the
+23
+24
+financial examination.
+24
+Req. No. 367 Page 4
+
+1
+2. The dental benefit plan or the dental portion of a health
+1
+2
+benefit plan shall have thirty (30) days from the date of
+2
+3
+notification to submit to the Department all requested data. The
+3
+4
+Insurance Commissioner may extend the time period for a health
+4
+5
+benefit plan to comply with this subsection upon a finding of good
+5
+6
+cause.
+6
+7
+G. The Department shall make available to the public all of the
+7
+8
+data provided to the Department pursuant to this section.
+8
+9
+H. The provisions of this act shall not apply to health benefit
+9
+10
+plans under the state Medicaid program or plans offered to the
+10
+11
+state-sponsored health benefit plans.
+11
+12
+SECTION 2. NEW LAW A new section of law to be codified
+12
+13
+in the Oklahoma Statutes as Section 7012 of Title 36, unless there
+13
+14
+is created a duplication in numbering, reads as follows:
+14
+15
+A. 1. A dental benefit plan or the dental portion of a health
+15
+16
+benefit plan that issues, sells, renews, or offers a specialized
+16
+17
+health care service plan contract covering dental services on or
+17
+18
+after the effective date of this act shall provide an annual rebate
+18
+19
+to each enrollee under that coverage, on a pro rata basis, if the
+19
+20
+ratio of the amount of premium revenue expended by the dental
+20
+21
+benefit plan or the dental portion of a health benefit plan on the
+21
+22
+costs for reimbursement for services provided to enrollees under
+22
+23
+that coverage and for activities that improve dental care quality to
+23
+24
+the total amount of premium revenue, excluding federal and state
+24
+Req. No. 367 Page 5
+
+1
+taxes and licensing or regulatory fees, and after accounting for
+1
+2
+payments or receipts for risk adjustment, risk corridors, and
+2
+3
+reinsurance, subsections C and D Section 1 of this act, is less
+3
+4
+than, at minimum:
+4
+5
+a. eighty percent (80%) for large group plans as defined
+5
+6
+in 42 U.S.C., Section 18024(b)(1), and
+6
+7
+b. seventy-five percent (75%) for individual and small
+7
+8
+group plans as defined in 42 U.S.C., Section
+8
+9
+18024(b)(2).
+9
+10
+2. Dental benefit plans shall implement the provisions of
+10
+11
+paragraph 1 of this subsection not later than January 1, 2028.
+11
+12
+B. The total amount of an annual rebate required under this
+12
+13
+section shall be calculated in an amount equal to the product of the
+13
+14
+amount by which the percentage described in subsection A of this
+14
+15
+section exceeds the insurer’s reported ratio described in
+15
+16
+subsections C and D of Section 1 of this act multiplied by the total
+16
+17
+amount of premium revenue, excluding federal and state taxes and
+17
+18
+licensing or regulatory fees and after accounting for payments or
+18
+19
+receipts for risk adjustment, risk corridors, and reinsurance.
+19
+20
+C. A dental benefit plan or the dental portion of a health
+20
+21
+benefit plan shall provide any rebate owed to an enrollee no later
+21
+22
+than August 1 of the calendar year following the year for which the
+22
+23
+ratio described in subsection A of this section was calculated.
+23
+24
+24
+Req. No. 367 Page 6
+
+1
+SECTION 3. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 7013 of Title 36, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. On or before July 1 of the preceding year, all carriers
+4
+5
+offering dental benefit plans shall file group product base rates
+5
+6
+and any changes to group rating factors that are to be effective on
+6
+7
+January 1 of each year.
+7
+8
+B. A dental benefit plan or the dental portion of a health
+8
+9
+benefit plan that issues, sells, renews, or offers a specialized
+9
+10
+health benefit plan contract covering dental services shall not
+10
+11
+establish rates for any dental coverage plan issued to any
+11
+12
+policyholder that are excessive, inadequate, or unfairly
+12
+13
+discriminatory. To assure compliance with the requirements of this
+13
+14
+section that rates are not excessive in relation to benefits, the
+14
+15
+Insurance Commissioner shall promulgate rules to require rate
+15
+16
+filings and shall require the submission of adequate documentation
+16
+17
+and supporting information, including actuarial opinions or
+17
+18
+certifications that the rates proposed by dental plans do not result
+18
+19
+in the MLR exceeding the ratios described in subsection A of Section
+19
+20
+2 of this act.
+20
+21
+C. 1. If a carrier files a base rate change and the
+21
+22
+administrative expense loading component, not including taxes and
+22
+23
+assessments, increases by more than the most recent calendar year’s
+23
+24
+percentage increase in the dental services Consumer Price Index for
+24
+Req. No. 367 Page 7
+
+1
+All Urban Consumers, U.S. city average, not seasonally adjusted, the
+1
+2
+base rate shall be deemed excessive and presumptively disapproved.
+2
+3
+2. If the carrier’s base rate is presumptively disapproved:
+3
+4
+a. the carrier shall communicate to all employers and
+4
+5
+individuals covered under a group product that the
+5
+6
+proposed increase has been presumptively disapproved
+6
+7
+and is subject to a hearing by the Insurance
+7
+8
+Department, and
+8
+9
+b. the Department shall conduct a public hearing and
+9
+10
+shall properly advertise the hearing in compliance
+10
+11
+with public hearing requirements.
+11
+12
+D. The carrier shall submit expected rate increases to the
+12
+13
+Commissioner at least sixty (60) days prior to the proposed
+13
+14
+implementation of the rates. If the Commissioner does not approve
+14
+15
+or disapprove the rate filings within a sixty-day period, the
+15
+16
+carrier may implement and reasonably rely upon the rates provided.
+16
+17
+The Commissioner may require correction of any deficiencies in the
+17
+18
+rate filing upon later review if the rate the carrier charged is
+18
+19
+excessive, inadequate, or unfairly discriminatory. A prospective
+19
+20
+rate adjustment or rebate as described in Section 2 of this act is
+20
+21
+the sole remedy for rate deficiencies. If the Commissioner finds
+21
+22
+deficiencies in the rate filing after a sixty-day period, the
+22
+23
+Commissioner shall provide notice to the carrier, and the carrier
+23
+24
+shall correct the rate on a prospective basis.
+24
+Req. No. 367 Page 8
+
+1
+SECTION 4. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 7014 of Title 36, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. Beginning July 1, 2026, and on or before July 1 of each year
+4
+5
+thereafter, each dental insurer doing business in this state shall
+5
+6
+file with the Insurance Department, in the form and manner
+6
+7
+prescribed by the Department, an annual report on the dental loss
+7
+8
+ratio for the preceding calendar year. The dental loss ratio annual
+8
+9
+report shall include the following:
+9
+10
+1. A combined dental loss ratio percentage for all individual
+10
+11
+dental policies; and
+11
+12
+2. A combined dental loss ratio percentage for all group dental
+12
+13
+policies issued to fully insured groups.
+13
+14
+B. Not later than August 1 of each year, the Department shall
+14
+15
+post the reported dental loss ratios for each dental insurer on a
+15
+16
+publicly available website in a manner that is easily located and
+16
+17
+identifiable to the public. The Department may not post the
+17
+18
+underlying claims, premiums, and other data used to calculate the
+18
+19
+dental loss ratios and shall treat all claims, premiums, and other
+19
+20
+data as confidential.
+20
+21
+SECTION 5. AMENDATORY 36 O.S. 2021, Section 7301, is
+21
+22
+amended to read as follows:
+22
+23
+Section 7301. A. No contract between a dental plan of a health
+23
+24
+benefit plan and a dentist for the provision of services to patients
+24
+Req. No. 367 Page 9
+
+1
+may require that a dentist provide services to its subscribers at a
+1
+2
+fee set by the health benefit plan unless the services are covered
+2
+3
+services under the applicable subscriber agreement.
+3
+4
+B. As used in this section:
+4
+5
+1. “Covered services” means services reimbursable reimbursed
+5
+6
+under the applicable subscriber agreement, subject notwithstanding
+6
+7
+and without regard to the contractual limitations on subscriber
+7
+8
+benefits as may apply, including, for example, deductibles, waiting
+8
+9
+period or frequency limitations;
+9
+10
+2. “Dental plan” means and shall include any policy of
+10
+11
+insurance which is issued by a health benefit plan which provides
+11
+12
+for coverage of dental services not in connection with a medical
+12
+13
+plan; and
+13
+14
+3. “Health benefit plan” means any plan or arrangement as
+14
+15
+defined in subsection C of Section 6060.4 of this title or any
+15
+16
+dental service corporation authorized pursuant to Section 2671 of
+16
+17
+this title.
+17
+18
+C. A health benefit plan or dental plan shall establish and
+18
+19
+maintain appeal procedures for any claim by a dentist or a
+19
+20
+subscriber that is denied based on lack of medical necessity. Any
+20
+21
+such denial shall be based upon a determination by a dentist who
+21
+22
+holds a nonrestricted license in the United States. Any written
+22
+23
+communication to a dentist that includes or pertains to a denial of
+23
+24
+benefits for all or part of a claim on the basis of a lack of
+24
+Req. No. 367 Page 10
+
+1
+medical necessity shall include the identifier and license number
+1
+2
+together with state of issuance, and a contact telephone number of
+2
+3
+the licensed dentist making the adverse determination. The dentist
+3
+4
+who reviewed the claim shall only be contacted at the telephone
+4
+5
+number provided in the written communication about the denial during
+5
+6
+business hours.
+6
+7
+SECTION 6. This act shall become effective November 1, 2025.
+7
+8
+8
+9
+60-1-367 CAD 1/16/2025 2:58:35 PM
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 367 Page 11
+
+[DELETED:  P B T]
+[DELETED:  P t]
+[DELETED:  P u c a a a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P e s]
+[DELETED:  P]
+[DELETED:  P t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]
