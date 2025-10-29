@@ -1,0 +1,1078 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 1
+Source: versions - 1 Floor Amendment by KANNADY (UNTIMELY FILED)
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+HB2140 FA1 KannadyCh-MAH(Untimely Filed)
+3/24/2025 1:04:51 pm
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB2140
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Chris Kannady
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+11 STATE OF OKLAHOMA
+22 1st Session of the 60th Legislature (2025)
+33 FLOOR SUBSTITUTE
+FOR
+44 HOUSE BILL NO. 2140 Kannady and Schreiber of
+the House
+55
+and
+66
+Thompson of the Senate
+77
+88
+99 FLOOR SUBSTITUTE
+1100 An Act relating to revenue and taxation; amending 68
+O.S. 2021, Sections 2802, 2803, and 2817, as amended
+1111 by Section 1, Chapter 374, O.S.L. 2022 (68 O.S. Supp.
+2024, Section 2817), which relate to the Ad Valorem
+1122 Tax Code; defining terms; expanding classifications
+of property for purposes of ad valorem taxation;
+1133 modifying the valuation procedure of certain real
+property for assessment; updating statutory
+1144 references; updating statutory language; and
+providing an effective date.
+1155
+1166
+1177 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+1188 SECTION 1. AMENDATORY 68 O.S. 2021, Section 2802, is
+1199 amended to read as follows:
+2200 Section 2802. As used in Section 2801 et seq. of this title:
+2211 1. “Accepted standards for mass appraisal practice” means those
+2222 standards for the collection and analysis of information about
+2233 taxable properties within a taxing jurisdiction permitting the
+2244 accurate estimate of fair cash value for similar properties in the
+Req. No. 13367 Page 1
+11 juri sdiction either without direct observation of such similar
+22 properties or without direct sales price information for such
+33 similar properties using a reliable statistical or other method to
+44 estimate the values of such properties;
+55 2. “Additional homestead exemption” means the exemption
+66 provided by Section 2890 of this title;
+77 3. “Assessor” means the county assessor and, unless the context
+88 clearly requires otherwise, deputy assessors and persons employed by
+99 the county assessor in performance of duties imposed by law;
+1100 4. “Assess and value” means to establish the fair cash value
+1111 and taxable fair cash value of taxable real and personal property
+1122 pursuant to requirements of law;
+1133 5. “Assessed valuation” or “assessed value” means the
+1144 percentage of the fair cash value of personal property, or the
+1155 percentage of the taxable fair cash value of real property, pursuant
+1166 to the provisions of Sections 8 and 8B of Article X of the Oklahoma
+1177 Constitution, either of individual items of personal property,
+1188 parcels of real property or the aggregate total of such individual
+1199 taxable items or parcels within a jurisdiction;
+2200 6. “Assessment percentage” means the percentage applied to
+2211 personal property and real property pursuant to Section 8 of Article
+2222 X of the Oklahoma Constitution;
+2233 7. “Assessment ratio” means the relationship between assessed
+2244 value and taxable fair cash value for a county or for use categories
+Req. No. 13367 Page 2
+11 with in a county expressed as a percentage determined in the annual
+22 equalization ratio study;
+33 8. “Assessment roll” means a computerized or noncomputerized
+44 record required by law to be kept by the county assessor and
+55 containing information about property within a taxing jurisdiction;
+66 9. “Assessment year” means the year beginning January 1 of each
+77 calendar year and ending on December 31 preceding the following
+88 January 1 assessment date;
+99 10. “Circuit breaker” means the form of property tax relief
+1100 provided by Sections 2904 through 2911 of this title;
+1111 11. “Class of subjects” means a category of property
+1122 specifically designated pursuant to provisions of the Oklahoma
+1133 Constitution for purposes of ad valorem taxation;
+1144 12. “Code” means the Ad Valorem Tax Code, Section 2801 et seq.
+1155 of this title;
+1166 13. “Coefficient of dispersion” means a statistical measure of
+1177 assessment uniformity for a category of property or for all property
+1188 within a taxing jurisdiction;
+1199 14. “Confidence level” means a statistical procedure for
+2200 determining the degree of reliability for use in reporting the
+2211 assessment ratio for a taxing jurisdiction;
+2222 15. “Cost approach” means a method used to establish the fair
+2233 cash value of property involving an estimate of current construction
+2244 cost of improvements, subtracting accrued depreciation including any
+Req. No. 13367 Page 3
+11 loss in value that may be caused by physical deterioration,
+22 functional obsolescence or economic obsolescence and adding the
+33 value of the land.
+44 a. Physical deterioration is a cause of depreciation that
+55 is a loss in value due to ordinary wear and tear and
+66 the forces of nature.
+77 b. Functional or internal obsolescence is the loss in
+88 value of a property resulting from changes in tastes,
+99 preferences, technical innovations or market
+1100 standards.
+1111 c. Economic or external obsolescence is a cause of
+1122 depreciation that is a loss in value as a result of
+1133 impairment in utility and desirability caused by
+1144 factors outside the boundaries of the property or loss
+1155 of value in a property (relative to the cost of
+1166 replacing it with a property of equal utility) that
+1177 stems from factors external to the property;
+1188 16. “County board of equalization” means the board which, upon
+1199 hearing competent evidence, has the authority to correct and adjust
+2200 the assessment rolls in its respective county to conform to fair
+2211 cash value and such other responsibilities as prescribed in Section
+2222 2801 et seq. of this title;
+2233 17. “Equalization” means the process for making adjustments to
+2244 taxable property values within a county by analyzing the
+Req. No. 13367 Page 4
+11 rela tionships between assessed values and fair cash values in one or
+22 more use categories within the county or between counties by
+33 analyzing the relationship between assessed value and fair cash
+44 value in each county;
+55 18. “Equalization ratio study” means the analysis of the
+66 relationships between assessed values and fair cash values in the
+77 manner provided by law;
+88 19. “Fair cash value” or “market value” means the value or
+99 price at which a willing buyer would purchase property and a willing
+1100 seller would sell property if both parties are knowledgeable about
+1111 the property and its uses and if neither party is under any undue
+1122 pressure to buy or sell and for real property shall mean the value
+1133 for the highest and best use for which such property was actually
+1144 used, or was previously classified for use, during the calendar year
+1155 next preceding the applicable January 1 assessment date;
+1166 20. “Homestead exemption” means the reduction in the taxable
+1177 value of a homestead as authorized by law;
+1188 21. “Income and expense approach” means a method to estimate
+1199 fair cash value of a property by determining the present value of
+2200 the projected income stream;
+2211 22. “List and assess” means the process by which taxable
+2222 property is discovered, its description recorded for purposes of ad
+2233 valorem taxation and its fair cash value and taxable fair cash value
+2244 are established;
+Req. No. 13367 Page 5
+11 23. “Mill” or “millage” means the rate of tax imposed upon
+22 taxable value. One (1) mill equals One Dollar ($1.00) of tax for
+33 each One Thousand Dollars ($1,000.00) of taxable value;
+44 24. “Multiple regression analysis” means a statistical
+55 technique for estimating unknown data on the basis of known and
+66 available data;
+77 25. “Parcel” means a contiguous area of land described in a
+88 single description by a deed or other instrument or as one of a
+99 number of lots on a plat or plan, separately owned and capable of
+1100 being separately conveyed;
+1111 26. “Residential rental housing” means any single tax parcel
+1122 development or redevelopment that contains a building or buildings
+1133 with at least sixty (60) individual rental units that are
+1144 constructed and used for multifamily housing or contains at least
+1155 sixty (60) housing structures that are constructed for rental
+1166 purposes. For the purposes of this paragraph, “multifamily housing”
+1177 shall mean residential buildings or complexes that contain multiple
+1188 separate units or dwellings intended for occupancy by multiple
+1199 families or households;
+2200 27. “Sales comparison approach” means the collection,
+2211 verification, and screening of sales data, stratification of sales
+2222 information for purposes of comparison and use of such information
+2233 to establish the fair cash value of taxable property;
+2244
+Req. No. 13367 Page 6
+11 27. 28. “State Board of Equalization” means the Board
+22 responsible for valuation of railroad, airline and public service
+33 corporation property and the adjustment and equalization of all
+44 property values both centrally and locally assessed;
+55 28. 29. “Taxable value” means the percentage of the fair cash
+66 value of personal property or the taxable fair cash value of real
+77 property, less applicable exemptions, upon which an ad valorem tax
+88 rate is levied pursuant to the provisions of Section 8 and Section
+99 8B of Article X of the Oklahoma Constitution;
+1100 29. 30. “Taxable fair cash value” means the fair cash value of
+1111 locally assessed real property as capped pursuant to Section 8B of
+1122 Article X of the Oklahoma Constitution;
+1133 30. 31. “Use category” means a subcategory of real property,
+1144 that is either agricultural use, residential use or
+1155 commercial/industrial use but does not and shall not constitute a
+1166 class of subjects within the meaning of the Oklahoma Constitution
+1177 for purposes of ad valorem taxation;
+1188 31. 32. “Use value” means the basis for establishing fair cash
+1199 value of real property pursuant to the requirement of Section 8 of
+2200 Article X of the Oklahoma Constitution; and
+2211 32. 33. “Visual inspection program” means the program required
+2222 in order to gather data about real property from physical
+2233 examination of the property and improvements in order to establish
+2244 the fair cash values of properties so inspected at least once each
+Req. No. 13367 Page 7
+11 four (4) years and the fair cash values of similar properties on an
+22 annual basis.
+33 SECTION 2. AMENDATORY 68 O.S. 2021, Section 2803, is
+44 amended to read as follows:
+55 Section 2803. A. The Legislature, pursuant to authority of
+66 Article X, Section 22 of Article X of the Oklahoma Constitution,
+77 hereby classifies the following types of property for purposes of ad
+88 valorem taxation:
+99 1. Real property, except as provided by paragraph 6 of this
+1100 subsection;
+1111 2. Personal property, except as provided in paragraph 3 of this
+1122 subsection;
+1133 3. Personal property which is household goods of the head of
+1144 families and livestock employed in support of the family in those
+1155 counties which have exempted such property pursuant to subsection
+1166 (b) B of Section 6 of Article X of the Oklahoma Constitution;
+1177 4. Public service corporation property; and
+1188 5. Railroad and air carrier property; and
+1199 6. Real property containing improvements constructed for the
+2200 purposes of providing residential rental housing.
+2211 B. Valuation of each class of subjects shall be made by a
+2222 method appropriate for each class or any subclass thereof, as
+2233 established by the Ad Valorem Division of the Oklahoma Tax
+2244 Commission.
+Req. No. 13367 Page 8
+11 C. Classification as provided by this section shall require
+22 uniform treatment of each item within a class or any subclass as
+33 provided in Article X, Section 5 of Article X of the Oklahoma
+44 Constitution.
+55 SECTION 3. AMENDATORY 68 O.S. 2021, Section 2817, as
+66 amended by Section 1, Chapter 374, O.S.L. 2022 (68 O.S. Supp. 2024,
+77 Section 2817), is amended to read as follows:
+88 Section 2817. A. All taxable personal property, except
+99 intangible personal property, personal property exempt from ad
+1100 valorem taxation, or household personal property, shall be listed
+1111 and assessed each year at its fair cash value, estimated at the
+1122 price it would bring at a fair voluntary sale, as of January 1.
+1133 The fair cash value of household personal property shall be
+1144 valued at ten percent (10%) of the appraised value of the
+1155 improvement to the residential real property within which such
+1166 personal property is located as of January 1 each year. The
+1177 assessment of household personal property as provided by this
+1188 section may be altered by the taxpayer listing such property at its
+1199 actual fair cash value. For purposes of establishing the value of
+2200 household personal property, pursuant to the requirement of Section
+2211 8 of Article X of the Oklahoma Constitution, the percentage of value
+2222 prescribed by this section for the household personal property shall
+2233 be presumed to constitute the fair cash value of the personal
+2244 property.
+Req. No. 13367 Page 9
+11 Stocks of goods, wares, and merchandise shall be assessed at the
+22 value of the average amount on hand during the preceding year, or
+33 the average amount on hand during the part of the preceding year the
+44 stock of goods, wares, or merchandise was at its January 1 location.
+55 Provided, persons primarily engaged in selling lumber and other
+66 building materials including cement and concrete, except for home
+77 centers classified under Industry No. 444110 of the North American
+88 Industrial Classification Systems (NAICS) Manual, shall be assessed
+99 at the average value of the inventory on hand as of January 1 of
+1100 each year and the value of the inventory on hand as of December 31
+1111 of the same year.
+1122 B. All taxable real property shall be assessed annually as of
+1133 January 1, at its fair cash value, estimated at the price it would
+1144 bring at a fair voluntary sale for:
+1155 1. The highest and best use for which the property was actually
+1166 used during the preceding calendar year; or
+1177 2. The highest and best use for which the property was last
+1188 classified for use if not actually used during the preceding
+1199 calendar year.
+2200 When improvements upon residential real property are divided by
+2211 a taxing jurisdiction line, those improvements shall be valued and
+2222 assessed in the taxing jurisdiction in which the physical majority
+2233 of those improvements are located.
+2244
+Req. No. 13367 Page 10
+11 The Ad Valorem Division of the Oklahoma Tax Commission shall be
+22 responsible for the promulgation of rules which shall be followed by
+33 each county assessor of the state, for the purposes of providing for
+44 the equitable use valuation of locally assessed real property in
+55 this state. Agricultural land and nonresidential improvements
+66 necessary or convenient for agricultural purposes shall be assessed
+77 for ad valorem taxation based upon the highest and best use for
+88 which the property was actually used, or was previously classified
+99 for use, during the calendar year next preceding January 1 on which
+1100 the assessment is made.
+1111 C. The use value of agricultural land shall be based on the
+1122 income capitalization approach using cash rent. The rental income
+1133 shall be calculated using the direct capitalization method based
+1144 upon factors including, but not limited to:
+1155 1. Soil types, as depicted on soil maps published by the
+1166 Natural Resources Conservation Service of the United States
+1177 Department of Agriculture;
+1188 2. Soil productivity indices approved by the Ad Valorem
+1199 Division of the Tax Commission;
+2200 3. The specific agricultural purpose of the soil based on use
+2211 categories approved by the Ad Valorem Division of the Tax
+2222 Commission; and
+2233 4. A capitalization rate to be determined annually by the Ad
+2244 Valorem Division of the Tax Commission based on the sum of the
+Req. No. 13367 Page 11
+11 aver age first mortgage interest rate charged by the Federal Land
+22 Bank for the immediately preceding five (5) years, weighted with the
+33 prevailing rate or rates for additional loans or equity, and the
+44 effective tax rate.
+55 The final use value will be calculated using the soil
+66 productivity indices and the agricultural use classification as
+77 defined by rules promulgated by the State Board of Equalization.
+88 This subsection shall not be construed in a manner which is
+99 inconsistent with the duties, powers, and authority of the Board as
+1100 to valuation of the counties as fixed and defined by Section 21 of
+1111 Article X of the Oklahoma Constitution.
+1122 However, in calculating the use value of buffer strips as
+1133 defined in Section 2817.2 of this title, exclusive consideration
+1144 shall be based only on income from production agriculture from such
+1155 buffer strips, not including federal or state subsidies, when valued
+1166 as required by subsection C of Section 2817.2 of this title.
+1177 D. The use value of nonresidential improvements on agricultural
+1188 land shall be based on the cost approach to value estimation using
+1199 currently updated cost manuals published by the Marshall and Swift
+2200 Company or similar cost manuals approved by the Ad Valorem Division
+2211 of the Tax Commission. The use value estimates for the
+2222 nonresidential improvements shall take obsolescence and depreciation
+2233 into consideration in addition to necessary adjustments for local
+2244 variations in the cost of labor and materials. This section shall
+Req. No. 13367 Page 12
+11 not be construed in a manner which is inconsistent with the duties,
+22 powers, and authority of the Board as to equalization of valuation
+33 of the counties as determined and defined by Section 21 of Article X
+44 of the Oklahoma Constitution.
+55 The use value of facilities used for poultry production shall be
+66 determined according to the following procedures:
+77 1. The Ad Valorem Division of the Tax Commission is hereby
+88 directed to develop a standard system of valuation of both real and
+99 personal property of such facilities, which shall be used by all
+1100 county assessors in this state, under which valuation based on the
+1111 following shall be presumed to be the fair cash value of the
+1122 property:
+1133 a. for real property, a ten-year depreciation schedule,
+1144 at the end of which the residual value is twenty
+1155 percent (20%) of the value of the facility during its
+1166 first year of operation, and
+1177 b. for personal property, a five-year depreciation
+1188 schedule, at the end of which the residual value is
+1199 zero;
+2200 2. Such facilities shall be valued only in comparison to other
+2211 facilities used exclusively for poultry production. Such a facility
+2222 which is no longer used for poultry production shall be deemed to
+2233 have no productive use;
+2244
+Req. No. 13367 Page 13
+11 3. During the first year such a facility is placed on the tax
+22 rolls, its fair cash value shall be presumed to be the lesser of the
+33 actual purchase price or the actual documented cost of construction;
+44 and
+55 4. For the purpose of determining the valuation of
+66 nonresidential improvements used for poultry production, the
+77 provisions of this subsection shall be applicable and such
+88 improvements shall not be considered to be commercial property.
+99 E. The value of investment in property used exclusively by an
+1100 oil refinery that is used wholly as a facility, device, or method
+1111 for the desulphurization of gasoline or diesel fuel as defined in
+1122 Section 2817.3 of this title shall not be included in the
+1133 capitalization used in the determination of fair market value of
+1144 such oil refinery if such property would qualify as exempt property
+1155 pursuant to Section 2902 of this title, whether or not an
+1166 application for such exemption is made by an otherwise qualifying
+1177 manufacturing concern owning the property described by Section
+1188 2817.3 of this title.
+1199 F. The use value of a lot in any platted addition or a
+2200 subdivision in a city, town, or county zoned for residential,
+2211 commercial, industrial, or other use shall be deemed to be the fair
+2222 cash value of the underlying tract of land platted, divided by the
+2233 number of lots contained in the platted addition or subdivision
+2244 until the lot shall have been conveyed to a bona fide purchaser or
+Req. No. 13367 Page 14
+11 the lot with building or buildings located thereon shall have been
+22 occupied other than as a sales office by the owner thereof, or shall
+33 have been leased, whichever event shall first occur. One who
+44 purchases a lot for the purposes of constructing and selling a
+55 building on such lot shall not be deemed to be a bona fide purchaser
+66 for purposes of this section. However, if the lot is held for a
+77 period longer than two (2) years before construction, then the
+88 assessor may consider the lot to have been conveyed to a bona fide
+99 purchaser. The cost of any land or improvements to any real
+1100 property required to be dedicated to public use including, but not
+1111 limited to, streets, curbs, gutters, sidewalks, storm or sanitary
+1122 sewers, utilities, detention or retention ponds, easements, parks,
+1133 or reserves shall not be utilized by the county assessor in the
+1144 valuation of any real property for assessment purposes.
+1155 G. The transfer of real property without a change in its use
+1166 classification shall not require a reassessment thereof based
+1177 exclusively upon the sale value of the property. However, if the
+1188 county assessor determines:
+1199 1. That by reason of the transfer of a property there is a
+2200 change in the actual use or classification of the property; or
+2211 2. That by reason of the amount of the sales consideration it
+2222 is obvious that the use classification prior to the transfer of the
+2233 property is not commensurate with and would not justify the amount
+2244 of the sales consideration of the property;
+Req. No. 13367 Page 15
+11 then the assessor shall, in either event, reassess the property for
+22 the new use classification for which the property is being used, or,
+33 the highest and best use classification for which the property may,
+44 by reason of the transfer, be classified for use.
+55 H. When the term “fair cash value” or the language “fair cash
+66 value, estimated at the price it would bring at a fair voluntary
+77 sale” is used in the Ad Valorem Tax Code, in connection with and in
+88 relation to the assessment of real property, it is defined to mean
+99 and shall be given the meaning ascribed and assigned to it in this
+1100 section and when the term or language is used in the Code in
+1111 connection with the assessment of personal property, it shall be
+1122 given its ordinary or literal meaning.
+1133 I. Where any real property is zoned for a use by a proper
+1144 zoning authority, and the use of the property has not been changed,
+1155 the use and not zoning shall determine assessment. Any reassessment
+1166 required shall be effective January 1 following the change in use.
+1177 Taxable real property need not be listed annually with the county
+1188 assessor.
+1199 J. If any real property shall become taxable after January 1 of
+2200 any year, the county assessor shall assess the same and place it
+2211 upon the tax rolls for the next ensuing year. When any building is
+2222 constructed upon land after January 1 of any year, the value of the
+2233 building shall be added by the county assessor to the assessed
+2244 valuation of the land upon which the building is constructed at the
+Req. No. 13367 Page 16
+11 fair cash value thereof for the next ensuing year. However, after
+22 the building has been completed it shall be deemed to have a value
+33 for assessment purposes of the fair cash value of the materials used
+44 in such building only, until the building and the land on which the
+55 building is located shall have been conveyed to a bona fide
+66 purchaser or shall have been occupied or used for any purpose other
+77 than as a sales office by the owner thereof, or shall have been
+88 leased, whichever event shall first occur. The county assessor
+99 shall continue to assess the building based upon the fair market
+1100 value of the materials used therein until the building and land upon
+1111 which the building is located shall have been conveyed to a bona
+1122 fide purchaser or is occupied or used for any purpose other than as
+1133 a sales office by the owner thereof, or is leased, whichever event
+1144 shall first occur. In the event a building or buildings described
+1155 by this subsection are intended to serve primarily as residential
+1166 rental housing, after the building or buildings have been completed
+1177 they shall be deemed to have an initial value for assessment
+1188 purposes not to exceed the fair cash value of the land and the
+1199 actual documented cost of any improvements made to the building or
+2200 buildings. The county assessor shall continue to assess such
+2211 building or buildings at a value not to exceed the fair cash value
+2222 of the land and actual documented cost of any improvements made
+2233 until either one (1) year has passed since the date on which the
+2244 building or buildings were first reflected on the tax rolls, or the
+Req. No. 13367 Page 17
+11 buil ding or buildings and the land on which the building or
+22 buildings are located shall have been conveyed to a bona fide
+33 purchaser, whichever event shall first occur.
+44 K. In the event improvements on land or personal property
+55 located therein or thereon are destroyed or partially destroyed, or
+66 the land itself is impaired or partially impaired by fire,
+77 lightning, storm, winds, floodwaters, overflow of streams, or other
+88 cause (all such destruction or impairments being referred to herein
+99 as “damage”) during any year, the county assessor shall determine
+1100 the amount of damage and shall reassess the property for that year
+1111 at the fair cash value of the property, taking into account the
+1122 actual loss of functional use of the property occasioned by such
+1133 damage. The assessor shall make the appropriate value adjustments
+1144 to the property for that tax year up to the time at which the
+1155 assessor publishes the “Assessor’s assessor’s Report to the Excise
+1166 Board” Board as required by subsection D of Section 2867 of this
+1177 title. After such time, adjustments can be made only by the county
+1188 board of tax roll corrections and only after the assessor has
+1199 certified the tax roll for that year. The board secretary shall
+2200 notify property owners in advance of the time and place at which the
+2211 value adjustment to their property will be heard by the board. The
+2222 board of tax roll corrections is authorized only to approve or
+2233 reject the value adjustment submitted by the county assessor.
+2244
+Req. No. 13367 Page 18
+11 L. All taxable personal property used in the exploration of
+22 oil, natural gas, or other minerals including drilling equipment and
+33 rigs, shall be assessed annually at the value set forth in the first
+44 Hadco International monthly bulletin published for the tax year,
+55 using the appropriate depth rating assigned to the drawworks by its
+66 manufacturer and the actual condition of the rig.
+77 M. The value of taxable tangible personal property used in
+88 commercial disposal systems of waste materials from the production
+99 of oil and gas shall not include any contract rights or leases for
+1100 the use of such systems nor any value associated with the wellbore
+1111 or non-recoverable down-hole material including casing.
+1122 SECTION 4. This act shall become effective November 1, 2025.
+1133
+1144 60-1-13367 MAH 03/24/25
+1155
+1166
+1177
+1188
+1199
+2200
+2211
+2222
+2233
+2244
+Req. No. 13367 Page 19
+[DELETED: 3 AS C           O S L           ]
+[DELETED:  P S  K   a T]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P P F E]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 0]
+
+
+================================================================================
+
+Raw Text:
+HB2140 FA1 KannadyCh-MAH(Untimely Filed)
+3/24/2025 1:04:51 pm
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB2140
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Chris Kannady
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+11 STATE OF OKLAHOMA
+22 1st Session of the 60th Legislature (2025)
+33 FLOOR SUBSTITUTE
+FOR
+44 HOUSE BILL NO. 2140 Kannady and Schreiber of
+the House
+55
+and
+66
+Thompson of the Senate
+77
+88
+99 FLOOR SUBSTITUTE
+1100 An Act relating to revenue and taxation; amending 68
+O.S. 2021, Sections 2802, 2803, and 2817, as amended
+1111 by Section 1, Chapter 374, O.S.L. 2022 (68 O.S. Supp.
+2024, Section 2817), which relate to the Ad Valorem
+1122 Tax Code; defining terms; expanding classifications
+of property for purposes of ad valorem taxation;
+1133 modifying the valuation procedure of certain real
+property for assessment; updating statutory
+1144 references; updating statutory language; and
+providing an effective date.
+1155
+1166
+1177 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+1188 SECTION 1. AMENDATORY 68 O.S. 2021, Section 2802, is
+1199 amended to read as follows:
+2200 Section 2802. As used in Section 2801 et seq. of this title:
+2211 1. “Accepted standards for mass appraisal practice” means those
+2222 standards for the collection and analysis of information about
+2233 taxable properties within a taxing jurisdiction permitting the
+2244 accurate estimate of fair cash value for similar properties in the
+Req. No. 13367 Page 1
+
+11 juri sdiction either without direct observation of such similar
+22 properties or without direct sales price information for such
+33 similar properties using a reliable statistical or other method to
+44 estimate the values of such properties;
+55 2. “Additional homestead exemption” means the exemption
+66 provided by Section 2890 of this title;
+77 3. “Assessor” means the county assessor and, unless the context
+88 clearly requires otherwise, deputy assessors and persons employed by
+99 the county assessor in performance of duties imposed by law;
+1100 4. “Assess and value” means to establish the fair cash value
+1111 and taxable fair cash value of taxable real and personal property
+1122 pursuant to requirements of law;
+1133 5. “Assessed valuation” or “assessed value” means the
+1144 percentage of the fair cash value of personal property, or the
+1155 percentage of the taxable fair cash value of real property, pursuant
+1166 to the provisions of Sections 8 and 8B of Article X of the Oklahoma
+1177 Constitution, either of individual items of personal property,
+1188 parcels of real property or the aggregate total of such individual
+1199 taxable items or parcels within a jurisdiction;
+2200 6. “Assessment percentage” means the percentage applied to
+2211 personal property and real property pursuant to Section 8 of Article
+2222 X of the Oklahoma Constitution;
+2233 7. “Assessment ratio” means the relationship between assessed
+2244 value and taxable fair cash value for a county or for use categories
+Req. No. 13367 Page 2
+
+11 with in a county expressed as a percentage determined in the annual
+22 equalization ratio study;
+33 8. “Assessment roll” means a computerized or noncomputerized
+44 record required by law to be kept by the county assessor and
+55 containing information about property within a taxing jurisdiction;
+66 9. “Assessment year” means the year beginning January 1 of each
+77 calendar year and ending on December 31 preceding the following
+88 January 1 assessment date;
+99 10. “Circuit breaker” means the form of property tax relief
+1100 provided by Sections 2904 through 2911 of this title;
+1111 11. “Class of subjects” means a category of property
+1122 specifically designated pursuant to provisions of the Oklahoma
+1133 Constitution for purposes of ad valorem taxation;
+1144 12. “Code” means the Ad Valorem Tax Code, Section 2801 et seq.
+1155 of this title;
+1166 13. “Coefficient of dispersion” means a statistical measure of
+1177 assessment uniformity for a category of property or for all property
+1188 within a taxing jurisdiction;
+1199 14. “Confidence level” means a statistical procedure for
+2200 determining the degree of reliability for use in reporting the
+2211 assessment ratio for a taxing jurisdiction;
+2222 15. “Cost approach” means a method used to establish the fair
+2233 cash value of property involving an estimate of current construction
+2244 cost of improvements, subtracting accrued depreciation including any
+Req. No. 13367 Page 3
+
+11 loss in value that may be caused by physical deterioration,
+22 functional obsolescence or economic obsolescence and adding the
+33 value of the land.
+44 a. Physical deterioration is a cause of depreciation that
+55 is a loss in value due to ordinary wear and tear and
+66 the forces of nature.
+77 b. Functional or internal obsolescence is the loss in
+88 value of a property resulting from changes in tastes,
+99 preferences, technical innovations or market
+1100 standards.
+1111 c. Economic or external obsolescence is a cause of
+1122 depreciation that is a loss in value as a result of
+1133 impairment in utility and desirability caused by
+1144 factors outside the boundaries of the property or loss
+1155 of value in a property (relative to the cost of
+1166 replacing it with a property of equal utility) that
+1177 stems from factors external to the property;
+1188 16. “County board of equalization” means the board which, upon
+1199 hearing competent evidence, has the authority to correct and adjust
+2200 the assessment rolls in its respective county to conform to fair
+2211 cash value and such other responsibilities as prescribed in Section
+2222 2801 et seq. of this title;
+2233 17. “Equalization” means the process for making adjustments to
+2244 taxable property values within a county by analyzing the
+Req. No. 13367 Page 4
+
+11 rela tionships between assessed values and fair cash values in one or
+22 more use categories within the county or between counties by
+33 analyzing the relationship between assessed value and fair cash
+44 value in each county;
+55 18. “Equalization ratio study” means the analysis of the
+66 relationships between assessed values and fair cash values in the
+77 manner provided by law;
+88 19. “Fair cash value” or “market value” means the value or
+99 price at which a willing buyer would purchase property and a willing
+1100 seller would sell property if both parties are knowledgeable about
+1111 the property and its uses and if neither party is under any undue
+1122 pressure to buy or sell and for real property shall mean the value
+1133 for the highest and best use for which such property was actually
+1144 used, or was previously classified for use, during the calendar year
+1155 next preceding the applicable January 1 assessment date;
+1166 20. “Homestead exemption” means the reduction in the taxable
+1177 value of a homestead as authorized by law;
+1188 21. “Income and expense approach” means a method to estimate
+1199 fair cash value of a property by determining the present value of
+2200 the projected income stream;
+2211 22. “List and assess” means the process by which taxable
+2222 property is discovered, its description recorded for purposes of ad
+2233 valorem taxation and its fair cash value and taxable fair cash value
+2244 are established;
+Req. No. 13367 Page 5
+
+11 23. “Mill” or “millage” means the rate of tax imposed upon
+22 taxable value. One (1) mill equals One Dollar ($1.00) of tax for
+33 each One Thousand Dollars ($1,000.00) of taxable value;
+44 24. “Multiple regression analysis” means a statistical
+55 technique for estimating unknown data on the basis of known and
+66 available data;
+77 25. “Parcel” means a contiguous area of land described in a
+88 single description by a deed or other instrument or as one of a
+99 number of lots on a plat or plan, separately owned and capable of
+1100 being separately conveyed;
+1111 26. “Residential rental housing” means any single tax parcel
+1122 development or redevelopment that contains a building or buildings
+1133 with at least sixty (60) individual rental units that are
+1144 constructed and used for multifamily housing or contains at least
+1155 sixty (60) housing structures that are constructed for rental
+1166 purposes. For the purposes of this paragraph, “multifamily housing”
+1177 shall mean residential buildings or complexes that contain multiple
+1188 separate units or dwellings intended for occupancy by multiple
+1199 families or households;
+2200 27. “Sales comparison approach” means the collection,
+2211 verification, and screening of sales data, stratification of sales
+2222 information for purposes of comparison and use of such information
+2233 to establish the fair cash value of taxable property;
+2244
+Req. No. 13367 Page 6
+
+11 27. 28. “State Board of Equalization” means the Board
+22 responsible for valuation of railroad, airline and public service
+33 corporation property and the adjustment and equalization of all
+44 property values both centrally and locally assessed;
+55 28. 29. “Taxable value” means the percentage of the fair cash
+66 value of personal property or the taxable fair cash value of real
+77 property, less applicable exemptions, upon which an ad valorem tax
+88 rate is levied pursuant to the provisions of Section 8 and Section
+99 8B of Article X of the Oklahoma Constitution;
+1100 29. 30. “Taxable fair cash value” means the fair cash value of
+1111 locally assessed real property as capped pursuant to Section 8B of
+1122 Article X of the Oklahoma Constitution;
+1133 30. 31. “Use category” means a subcategory of real property,
+1144 that is either agricultural use, residential use or
+1155 commercial/industrial use but does not and shall not constitute a
+1166 class of subjects within the meaning of the Oklahoma Constitution
+1177 for purposes of ad valorem taxation;
+1188 31. 32. “Use value” means the basis for establishing fair cash
+1199 value of real property pursuant to the requirement of Section 8 of
+2200 Article X of the Oklahoma Constitution; and
+2211 32. 33. “Visual inspection program” means the program required
+2222 in order to gather data about real property from physical
+2233 examination of the property and improvements in order to establish
+2244 the fair cash values of properties so inspected at least once each
+Req. No. 13367 Page 7
+
+11 four (4) years and the fair cash values of similar properties on an
+22 annual basis.
+33 SECTION 2. AMENDATORY 68 O.S. 2021, Section 2803, is
+44 amended to read as follows:
+55 Section 2803. A. The Legislature, pursuant to authority of
+66 Article X, Section 22 of Article X of the Oklahoma Constitution,
+77 hereby classifies the following types of property for purposes of ad
+88 valorem taxation:
+99 1. Real property, except as provided by paragraph 6 of this
+1100 subsection;
+1111 2. Personal property, except as provided in paragraph 3 of this
+1122 subsection;
+1133 3. Personal property which is household goods of the head of
+1144 families and livestock employed in support of the family in those
+1155 counties which have exempted such property pursuant to subsection
+1166 (b) B of Section 6 of Article X of the Oklahoma Constitution;
+1177 4. Public service corporation property; and
+1188 5. Railroad and air carrier property; and
+1199 6. Real property containing improvements constructed for the
+2200 purposes of providing residential rental housing.
+2211 B. Valuation of each class of subjects shall be made by a
+2222 method appropriate for each class or any subclass thereof, as
+2233 established by the Ad Valorem Division of the Oklahoma Tax
+2244 Commission.
+Req. No. 13367 Page 8
+
+11 C. Classification as provided by this section shall require
+22 uniform treatment of each item within a class or any subclass as
+33 provided in Article X, Section 5 of Article X of the Oklahoma
+44 Constitution.
+55 SECTION 3. AMENDATORY 68 O.S. 2021, Section 2817, as
+66 amended by Section 1, Chapter 374, O.S.L. 2022 (68 O.S. Supp. 2024,
+77 Section 2817), is amended to read as follows:
+88 Section 2817. A. All taxable personal property, except
+99 intangible personal property, personal property exempt from ad
+1100 valorem taxation, or household personal property, shall be listed
+1111 and assessed each year at its fair cash value, estimated at the
+1122 price it would bring at a fair voluntary sale, as of January 1.
+1133 The fair cash value of household personal property shall be
+1144 valued at ten percent (10%) of the appraised value of the
+1155 improvement to the residential real property within which such
+1166 personal property is located as of January 1 each year. The
+1177 assessment of household personal property as provided by this
+1188 section may be altered by the taxpayer listing such property at its
+1199 actual fair cash value. For purposes of establishing the value of
+2200 household personal property, pursuant to the requirement of Section
+2211 8 of Article X of the Oklahoma Constitution, the percentage of value
+2222 prescribed by this section for the household personal property shall
+2233 be presumed to constitute the fair cash value of the personal
+2244 property.
+Req. No. 13367 Page 9
+
+11 Stocks of goods, wares, and merchandise shall be assessed at the
+22 value of the average amount on hand during the preceding year, or
+33 the average amount on hand during the part of the preceding year the
+44 stock of goods, wares, or merchandise was at its January 1 location.
+55 Provided, persons primarily engaged in selling lumber and other
+66 building materials including cement and concrete, except for home
+77 centers classified under Industry No. 444110 of the North American
+88 Industrial Classification Systems (NAICS) Manual, shall be assessed
+99 at the average value of the inventory on hand as of January 1 of
+1100 each year and the value of the inventory on hand as of December 31
+1111 of the same year.
+1122 B. All taxable real property shall be assessed annually as of
+1133 January 1, at its fair cash value, estimated at the price it would
+1144 bring at a fair voluntary sale for:
+1155 1. The highest and best use for which the property was actually
+1166 used during the preceding calendar year; or
+1177 2. The highest and best use for which the property was last
+1188 classified for use if not actually used during the preceding
+1199 calendar year.
+2200 When improvements upon residential real property are divided by
+2211 a taxing jurisdiction line, those improvements shall be valued and
+2222 assessed in the taxing jurisdiction in which the physical majority
+2233 of those improvements are located.
+2244
+Req. No. 13367 Page 10
+
+11 The Ad Valorem Division of the Oklahoma Tax Commission shall be
+22 responsible for the promulgation of rules which shall be followed by
+33 each county assessor of the state, for the purposes of providing for
+44 the equitable use valuation of locally assessed real property in
+55 this state. Agricultural land and nonresidential improvements
+66 necessary or convenient for agricultural purposes shall be assessed
+77 for ad valorem taxation based upon the highest and best use for
+88 which the property was actually used, or was previously classified
+99 for use, during the calendar year next preceding January 1 on which
+1100 the assessment is made.
+1111 C. The use value of agricultural land shall be based on the
+1122 income capitalization approach using cash rent. The rental income
+1133 shall be calculated using the direct capitalization method based
+1144 upon factors including, but not limited to:
+1155 1. Soil types, as depicted on soil maps published by the
+1166 Natural Resources Conservation Service of the United States
+1177 Department of Agriculture;
+1188 2. Soil productivity indices approved by the Ad Valorem
+1199 Division of the Tax Commission;
+2200 3. The specific agricultural purpose of the soil based on use
+2211 categories approved by the Ad Valorem Division of the Tax
+2222 Commission; and
+2233 4. A capitalization rate to be determined annually by the Ad
+2244 Valorem Division of the Tax Commission based on the sum of the
+Req. No. 13367 Page 11
+
+11 aver age first mortgage interest rate charged by the Federal Land
+22 Bank for the immediately preceding five (5) years, weighted with the
+33 prevailing rate or rates for additional loans or equity, and the
+44 effective tax rate.
+55 The final use value will be calculated using the soil
+66 productivity indices and the agricultural use classification as
+77 defined by rules promulgated by the State Board of Equalization.
+88 This subsection shall not be construed in a manner which is
+99 inconsistent with the duties, powers, and authority of the Board as
+1100 to valuation of the counties as fixed and defined by Section 21 of
+1111 Article X of the Oklahoma Constitution.
+1122 However, in calculating the use value of buffer strips as
+1133 defined in Section 2817.2 of this title, exclusive consideration
+1144 shall be based only on income from production agriculture from such
+1155 buffer strips, not including federal or state subsidies, when valued
+1166 as required by subsection C of Section 2817.2 of this title.
+1177 D. The use value of nonresidential improvements on agricultural
+1188 land shall be based on the cost approach to value estimation using
+1199 currently updated cost manuals published by the Marshall and Swift
+2200 Company or similar cost manuals approved by the Ad Valorem Division
+2211 of the Tax Commission. The use value estimates for the
+2222 nonresidential improvements shall take obsolescence and depreciation
+2233 into consideration in addition to necessary adjustments for local
+2244 variations in the cost of labor and materials. This section shall
+Req. No. 13367 Page 12
+
+11 not be construed in a manner which is inconsistent with the duties,
+22 powers, and authority of the Board as to equalization of valuation
+33 of the counties as determined and defined by Section 21 of Article X
+44 of the Oklahoma Constitution.
+55 The use value of facilities used for poultry production shall be
+66 determined according to the following procedures:
+77 1. The Ad Valorem Division of the Tax Commission is hereby
+88 directed to develop a standard system of valuation of both real and
+99 personal property of such facilities, which shall be used by all
+1100 county assessors in this state, under which valuation based on the
+1111 following shall be presumed to be the fair cash value of the
+1122 property:
+1133 a. for real property, a ten-year depreciation schedule,
+1144 at the end of which the residual value is twenty
+1155 percent (20%) of the value of the facility during its
+1166 first year of operation, and
+1177 b. for personal property, a five-year depreciation
+1188 schedule, at the end of which the residual value is
+1199 zero;
+2200 2. Such facilities shall be valued only in comparison to other
+2211 facilities used exclusively for poultry production. Such a facility
+2222 which is no longer used for poultry production shall be deemed to
+2233 have no productive use;
+2244
+Req. No. 13367 Page 13
+
+11 3. During the first year such a facility is placed on the tax
+22 rolls, its fair cash value shall be presumed to be the lesser of the
+33 actual purchase price or the actual documented cost of construction;
+44 and
+55 4. For the purpose of determining the valuation of
+66 nonresidential improvements used for poultry production, the
+77 provisions of this subsection shall be applicable and such
+88 improvements shall not be considered to be commercial property.
+99 E. The value of investment in property used exclusively by an
+1100 oil refinery that is used wholly as a facility, device, or method
+1111 for the desulphurization of gasoline or diesel fuel as defined in
+1122 Section 2817.3 of this title shall not be included in the
+1133 capitalization used in the determination of fair market value of
+1144 such oil refinery if such property would qualify as exempt property
+1155 pursuant to Section 2902 of this title, whether or not an
+1166 application for such exemption is made by an otherwise qualifying
+1177 manufacturing concern owning the property described by Section
+1188 2817.3 of this title.
+1199 F. The use value of a lot in any platted addition or a
+2200 subdivision in a city, town, or county zoned for residential,
+2211 commercial, industrial, or other use shall be deemed to be the fair
+2222 cash value of the underlying tract of land platted, divided by the
+2233 number of lots contained in the platted addition or subdivision
+2244 until the lot shall have been conveyed to a bona fide purchaser or
+Req. No. 13367 Page 14
+
+11 the lot with building or buildings located thereon shall have been
+22 occupied other than as a sales office by the owner thereof, or shall
+33 have been leased, whichever event shall first occur. One who
+44 purchases a lot for the purposes of constructing and selling a
+55 building on such lot shall not be deemed to be a bona fide purchaser
+66 for purposes of this section. However, if the lot is held for a
+77 period longer than two (2) years before construction, then the
+88 assessor may consider the lot to have been conveyed to a bona fide
+99 purchaser. The cost of any land or improvements to any real
+1100 property required to be dedicated to public use including, but not
+1111 limited to, streets, curbs, gutters, sidewalks, storm or sanitary
+1122 sewers, utilities, detention or retention ponds, easements, parks,
+1133 or reserves shall not be utilized by the county assessor in the
+1144 valuation of any real property for assessment purposes.
+1155 G. The transfer of real property without a change in its use
+1166 classification shall not require a reassessment thereof based
+1177 exclusively upon the sale value of the property. However, if the
+1188 county assessor determines:
+1199 1. That by reason of the transfer of a property there is a
+2200 change in the actual use or classification of the property; or
+2211 2. That by reason of the amount of the sales consideration it
+2222 is obvious that the use classification prior to the transfer of the
+2233 property is not commensurate with and would not justify the amount
+2244 of the sales consideration of the property;
+Req. No. 13367 Page 15
+
+11 then the assessor shall, in either event, reassess the property for
+22 the new use classification for which the property is being used, or,
+33 the highest and best use classification for which the property may,
+44 by reason of the transfer, be classified for use.
+55 H. When the term “fair cash value” or the language “fair cash
+66 value, estimated at the price it would bring at a fair voluntary
+77 sale” is used in the Ad Valorem Tax Code, in connection with and in
+88 relation to the assessment of real property, it is defined to mean
+99 and shall be given the meaning ascribed and assigned to it in this
+1100 section and when the term or language is used in the Code in
+1111 connection with the assessment of personal property, it shall be
+1122 given its ordinary or literal meaning.
+1133 I. Where any real property is zoned for a use by a proper
+1144 zoning authority, and the use of the property has not been changed,
+1155 the use and not zoning shall determine assessment. Any reassessment
+1166 required shall be effective January 1 following the change in use.
+1177 Taxable real property need not be listed annually with the county
+1188 assessor.
+1199 J. If any real property shall become taxable after January 1 of
+2200 any year, the county assessor shall assess the same and place it
+2211 upon the tax rolls for the next ensuing year. When any building is
+2222 constructed upon land after January 1 of any year, the value of the
+2233 building shall be added by the county assessor to the assessed
+2244 valuation of the land upon which the building is constructed at the
+Req. No. 13367 Page 16
+
+11 fair cash value thereof for the next ensuing year. However, after
+22 the building has been completed it shall be deemed to have a value
+33 for assessment purposes of the fair cash value of the materials used
+44 in such building only, until the building and the land on which the
+55 building is located shall have been conveyed to a bona fide
+66 purchaser or shall have been occupied or used for any purpose other
+77 than as a sales office by the owner thereof, or shall have been
+88 leased, whichever event shall first occur. The county assessor
+99 shall continue to assess the building based upon the fair market
+1100 value of the materials used therein until the building and land upon
+1111 which the building is located shall have been conveyed to a bona
+1122 fide purchaser or is occupied or used for any purpose other than as
+1133 a sales office by the owner thereof, or is leased, whichever event
+1144 shall first occur. In the event a building or buildings described
+1155 by this subsection are intended to serve primarily as residential
+1166 rental housing, after the building or buildings have been completed
+1177 they shall be deemed to have an initial value for assessment
+1188 purposes not to exceed the fair cash value of the land and the
+1199 actual documented cost of any improvements made to the building or
+2200 buildings. The county assessor shall continue to assess such
+2211 building or buildings at a value not to exceed the fair cash value
+2222 of the land and actual documented cost of any improvements made
+2233 until either one (1) year has passed since the date on which the
+2244 building or buildings were first reflected on the tax rolls, or the
+Req. No. 13367 Page 17
+
+11 buil ding or buildings and the land on which the building or
+22 buildings are located shall have been conveyed to a bona fide
+33 purchaser, whichever event shall first occur.
+44 K. In the event improvements on land or personal property
+55 located therein or thereon are destroyed or partially destroyed, or
+66 the land itself is impaired or partially impaired by fire,
+77 lightning, storm, winds, floodwaters, overflow of streams, or other
+88 cause (all such destruction or impairments being referred to herein
+99 as “damage”) during any year, the county assessor shall determine
+1100 the amount of damage and shall reassess the property for that year
+1111 at the fair cash value of the property, taking into account the
+1122 actual loss of functional use of the property occasioned by such
+1133 damage. The assessor shall make the appropriate value adjustments
+1144 to the property for that tax year up to the time at which the
+1155 assessor publishes the “Assessor’s assessor’s Report to the Excise
+1166 Board” Board as required by subsection D of Section 2867 of this
+1177 title. After such time, adjustments can be made only by the county
+1188 board of tax roll corrections and only after the assessor has
+1199 certified the tax roll for that year. The board secretary shall
+2200 notify property owners in advance of the time and place at which the
+2211 value adjustment to their property will be heard by the board. The
+2222 board of tax roll corrections is authorized only to approve or
+2233 reject the value adjustment submitted by the county assessor.
+2244
+Req. No. 13367 Page 18
+
+11 L. All taxable personal property used in the exploration of
+22 oil, natural gas, or other minerals including drilling equipment and
+33 rigs, shall be assessed annually at the value set forth in the first
+44 Hadco International monthly bulletin published for the tax year,
+55 using the appropriate depth rating assigned to the drawworks by its
+66 manufacturer and the actual condition of the rig.
+77 M. The value of taxable tangible personal property used in
+88 commercial disposal systems of waste materials from the production
+99 of oil and gas shall not include any contract rights or leases for
+1100 the use of such systems nor any value associated with the wellbore
+1111 or non-recoverable down-hole material including casing.
+1122 SECTION 4. This act shall become effective November 1, 2025.
+1133
+1144 60-1-13367 MAH 03/24/25
+1155
+1166
+1177
+1188
+1199
+2200
+2211
+2222
+2233
+2244
+Req. No. 13367 Page 19
+
+[DELETED: 3 AS C           O S L           ]
+[DELETED:  P S  K   a T]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P P F E]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 0]

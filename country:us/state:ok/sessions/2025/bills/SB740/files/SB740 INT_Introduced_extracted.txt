@@ -1,0 +1,1951 @@
+Title: SENATE BILL 740 By: Daniels
+Official Title: SENATE BILL 740 By: Daniels
+Number of Sections: 28
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to mental health; amending 43A O.S.
+7
+2021, Section 1-103, as last amended by Section 1,
+8
+Chapter 96, O.S.L. 2024 (43A O.S. Supp. 2024, Section
+8
+1-103), which relates to definitions; modifying
+9
+certain definitions; and providing an effective date.
+9
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+
+Section 2:
+SECTION 1. AMENDATORY 43A O.S. 2021, Section 1-103, as
+13
+14
+last amended by Section 1, Chapter 96, O.S.L. 2024 (43A O.S. Supp.
+14
+15
+2024, Section 1-103), is amended to read as follows:
+15
+16
+
+Section 3:
+Section 1-103. When used in this title, unless otherwise
+16
+17
+expressly stated, or unless the context or subject matter otherwise
+17
+18
+requires:
+18
+19
+
+Section 4:
+1. “Department” means the Department of Mental Health and
+19
+20
+Substance Abuse Services;
+20
+21
+
+Section 5:
+2. “Chair” means the chair of the Board of Mental Health and
+21
+22
+Substance Abuse Services;
+22
+23
+
+Section 6:
+3. “Mental illness” means a substantial disorder of thought,
+23
+24
+mood, perception, psychological orientation or memory that
+24
+Req. No. 208 Page 1
+1
+significantly impairs judgment, behavior, capacity to recognize
+1
+2
+reality or ability to meet the ordinary demands of life;
+2
+3
+
+Section 7:
+4. “Board” means the Board of Mental Health and Substance Abuse
+3
+4
+Services as established by the Mental Health Law;
+4
+5
+
+Section 8:
+5. “Commissioner” means the Commissioner of Mental Health and
+5
+6
+Substance Abuse Services;
+6
+7
+
+Section 9:
+6. “Indigent person” means a person who does not have
+7
+8
+sufficient assets or resources to support the person and to support
+8
+9
+members of the family of the person lawfully dependent on the person
+9
+10
+for support;
+10
+11
+
+Section 10:
+7. “Facility” means any hospital, school, building, house or
+11
+12
+retreat, authorized by law to have the care, treatment or custody of
+12
+13
+an individual with mental illness, drug or alcohol dependency,
+13
+14
+gambling addiction, or an eating disorder including, but not limited
+14
+15
+to, public or private hospitals, community mental health centers,
+15
+16
+clinics, satellites, and community-based structured crisis centers;
+16
+17
+provided, that facility shall not mean a child guidance center
+17
+18
+operated by the State Department of Health;
+18
+19
+
+Section 11:
+8. “Consumer” means a person under care or treatment in a
+19
+20
+facility pursuant to the Mental Health Law, or in an outpatient
+20
+21
+status;
+21
+22
+
+Section 12:
+9. “Care and treatment” means medical care and behavioral
+22
+23
+health services, as well as food, clothing and maintenance,
+23
+24
+furnished to a person;
+24
+Req. No. 208 Page 2
+1
+
+Section 13:
+10. Whenever in this law or in any other law, or in any rule or
+1
+2
+order made or promulgated pursuant to this law or to any other law,
+2
+3
+or in the printed forms prepared for the admission of consumers or
+3
+4
+for statistical reports, the words “insane”, “insanity”, “lunacy”,
+4
+5
+“mentally sick”, “mental disease” or “mental disorder” are used,
+5
+6
+such terms shall have equal significance to the words “mental
+6
+7
+illness”;
+7
+8
+
+Section 14:
+11. “Licensed mental health professional” means:
+8
+9
+a. a psychiatrist who is a diplomate of the American
+9
+10
+Board of Psychiatry and Neurology,
+10
+11
+b. a psychiatrist who is a diplomate of the American
+11
+12
+Osteopathic Board of Neurology and Psychiatry,
+12
+13
+c. a physician licensed pursuant to the Oklahoma
+13
+14
+Allopathic Medical and Surgical Licensure and
+14
+15
+Supervision Act or the Oklahoma Osteopathic Medicine
+15
+16
+Act,
+16
+17
+d. a clinical psychologist who is duly licensed to
+17
+18
+practice by the State Board of Examiners of
+18
+19
+Psychologists,
+19
+20
+e. a professional counselor licensed pursuant to the
+20
+21
+Licensed Professional Counselors Act,
+21
+22
+f. a person licensed as a clinical social worker pursuant
+22
+23
+to the provisions of the Social Worker’s Licensing
+23
+24
+Act,
+24
+Req. No. 208 Page 3
+1
+g. a licensed marital and family therapist as defined in
+1
+2
+the Marital and Family Therapist Licensure Act,
+2
+3
+h. a licensed behavioral practitioner as defined in the
+3
+4
+Licensed Behavioral Practitioner Act,
+4
+5
+i. an advanced practice nurse as defined in the Oklahoma
+5
+6
+Nursing Practice Act,
+6
+7
+j. a physician’s assistant who is licensed in good
+7
+8
+standing in this state, or
+8
+9
+k. a licensed alcohol and drug counselor/mental health
+9
+10
+(LADC/MH) as defined in the Licensed Alcohol and Drug
+10
+11
+Counselors Act;
+11
+12
+
+Section 15:
+12. “Mentally incompetent person” means any person who has been
+12
+13
+adjudicated mentally or legally incompetent by an appropriate
+13
+14
+district court;
+14
+15
+
+Section 16:
+13. a. “Person requiring treatment” means a person who
+15
+16
+because of his or her mental illness or drug or
+16
+17
+alcohol dependency meets at least one of the
+17
+18
+following:
+18
+19
+(1) poses a substantial risk of immediate physical
+19
+20
+harm to self as manifested by evidence or serious
+20
+21
+threats of or attempts at suicide or other
+21
+22
+significant self-inflicted bodily harm,
+22
+23
+(2) poses a substantial risk of immediate physical
+23
+24
+harm to another person or persons as manifested
+24
+Req. No. 208 Page 4
+1
+by evidence of violent behavior directed toward
+1
+2
+another person or persons,
+2
+3
+(3) has placed another person or persons in a
+3
+4
+reasonable fear of violent behavior directed
+4
+5
+towards such person or persons or serious
+5
+6
+physical harm to them as manifested by serious
+6
+7
+and immediate threats,
+7
+8
+(4) is in a condition of severe deterioration that is
+8
+9
+continuing, as has been observed within the
+9
+10
+previous seventy-two (72) hour period such that,
+10
+11
+without immediate intervention, there exists a
+11
+12
+substantial risk that severe impairment or injury
+12
+13
+will result to the person, or
+13
+14
+(5) poses a substantial risk of immediate serious
+14
+15
+physical injury harm to self or death as
+15
+16
+manifested by evidence that the person is unable
+16
+17
+to provide for and is not providing for his or
+17
+18
+her basic physical needs.
+18
+19
+b. To the extent it is reasonably available, the relevant
+19
+20
+mental health or substance abuse history of the person
+20
+21
+shall be considered and may be proffered as part of
+21
+22
+the evidence to determine whether the person is a
+22
+23
+person requiring treatment or an assisted outpatient.
+23
+24
+The mental health or substance abuse history of the
+24
+Req. No. 208 Page 5
+1
+person shall not be the sole basis for this
+1
+2
+determination.
+2
+3
+c. Unless a person also meets the criteria established in
+3
+4
+subparagraph a or b of this paragraph, “person
+4
+5
+requiring treatment” or an “assisted outpatient” shall
+5
+6
+not mean:
+6
+7
+(1) a person whose mental processes have been
+7
+8
+weakened or impaired by reason of advanced years,
+8
+9
+dementia, or Alzheimer’s disease,
+9
+10
+(2) a person with intellectual or developmental
+10
+11
+disability as defined in Title 10 of the Oklahoma
+11
+12
+Statutes,
+12
+13
+(3) a person with seizure disorder, or
+13
+14
+(4) a person with a traumatic brain injury, or
+14
+15
+(5) a person who is homeless.
+15
+16
+d. (1) A person who meets the criteria established in
+16
+17
+this paragraph but who is medically unstable may
+17
+18
+be discharged and transported in accordance with
+18
+19
+
+Section 17:
+Section 1-110 of this title. Alternatively, if
+19
+20
+the facility holding the person is able to treat
+20
+21
+the additional medical conditions of that person,
+21
+22
+the facility may treat the additional medical
+22
+23
+conditions in an effort to medically stabilize
+23
+24
+the patient.
+24
+Req. No. 208 Page 6
+1
+(2) If the facility holding the person is unable to
+1
+2
+treat the additional medical conditions of a
+2
+3
+person who meets the criteria established in this
+3
+4
+paragraph, the patient shall be discharged and
+4
+5
+transported in accordance with Section 1-110 of
+5
+6
+this title.
+6
+7
+(3) All time elapsed during medical stabilization
+7
+8
+tolls the twelve (12) hour time for an initial
+8
+9
+assessment pursuant to paragraph 1 of subsection
+9
+10
+A of Section 5-208 of this title, and the one-
+10
+11
+hundred-twenty-hour emergency detention time
+11
+12
+pursuant to paragraph 3 of subsection A of
+12
+13
+
+Section 18:
+Section 5-208 of this title;
+13
+14
+
+Section 19:
+14. “Petitioner” means a person who files a petition alleging
+14
+15
+that an individual is a person requiring treatment or an assisted
+15
+16
+outpatient;
+16
+17
+
+Section 20:
+15. “Executive director” means the person in charge of a
+17
+18
+facility as defined in this section;
+18
+19
+
+Section 21:
+16. “Private hospital or facility” means any general hospital
+19
+20
+maintaining a neuro-psychiatric unit or ward, or any private
+20
+21
+hospital or facility for care and treatment of a person having a
+21
+22
+mental illness, which is not supported by the state or federal
+22
+23
+government. The term “private hospital” or “facility” shall not
+23
+24
+24
+Req. No. 208 Page 7
+1
+include nursing homes or other facilities maintained primarily for
+1
+2
+the care of elderly and disabled persons;
+2
+3
+
+Section 22:
+17. “Individualized treatment plan” means a proposal developed
+3
+4
+during the stay of an individual in a facility, under the provisions
+4
+5
+of this title, which is specifically tailored to the treatment needs
+5
+6
+of the individual. Each plan shall clearly include the following:
+6
+7
+a. a statement of treatment goals or objectives, based
+7
+8
+upon and related to a clinical evaluation, which can
+8
+9
+be reasonably achieved within a designated time
+9
+10
+interval,
+10
+11
+b. treatment methods and procedures to be used to obtain
+11
+12
+these goals, which methods and procedures are related
+12
+13
+to each of these goals and which include specific
+13
+14
+prognosis for achieving each of these goals,
+14
+15
+c. identification of the types of professional personnel
+15
+16
+who will carry out the treatment procedures including
+16
+17
+appropriate medical or other professional involvement
+17
+18
+by a physician or other health professional properly
+18
+19
+qualified to fulfill legal requirements mandated under
+19
+20
+state and federal law,
+20
+21
+d. documentation of involvement by the individual
+21
+22
+receiving treatment and, if applicable, the accordance
+22
+23
+of the individual with the treatment plan, and
+23
+24
+24
+Req. No. 208 Page 8
+1
+e. a statement attesting that the executive director of
+1
+2
+the facility or clinical director has made a
+2
+3
+reasonable effort to meet the plan’s individualized
+3
+4
+treatment goals in the least restrictive environment
+4
+5
+possible closest to the home community of the
+5
+6
+individual;
+6
+7
+
+Section 23:
+18. “Telemedicine” means technology-enabled health and care
+7
+8
+management and delivery systems that extend capacity and access,
+8
+9
+which includes:
+9
+10
+a. synchronous mechanisms, which may include live
+10
+11
+audiovisual interaction between a patient and a health
+11
+12
+care professional or real-time provider to provider
+12
+13
+consultation through live interactive audiovisual
+13
+14
+means,
+14
+15
+b. asynchronous mechanisms, which include store and
+15
+16
+forward transfers, online exchange of health
+16
+17
+information between a patient and a health care
+17
+18
+professional and online exchange of health information
+18
+19
+between health care professionals, but shall not
+19
+20
+include the use of automated text messages or
+20
+21
+automated mobile applications that serve as the sole
+21
+22
+interaction between a patient and a health care
+22
+23
+professional,
+23
+24
+c. remote patient monitoring, and
+24
+Req. No. 208 Page 9
+1
+d. other electronic means that support clinical health
+1
+2
+care, professional consultation, patient and
+2
+3
+professional health-related education, public health
+3
+4
+and health administration;
+4
+5
+
+Section 24:
+19. “Recovery and recovery support” means nonclinical services
+5
+6
+that assist individuals and families to recover from alcohol or drug
+6
+7
+problems. They include social support, linkage to and coordination
+7
+8
+among allied service providers including but not limited to
+8
+9
+transportation to and from treatment or employment, employment
+9
+10
+services and job training, case management and individual services
+10
+11
+coordination, life skills education, relapse prevention, housing
+11
+12
+assistance, child care, and substance abuse education;
+12
+13
+
+Section 25:
+20. “Assisted outpatient” means a person who:
+13
+14
+a. is either currently under the care of a facility
+14
+15
+certified by the Department of Mental Health and
+15
+16
+Substance Abuse Services as a Community Mental Health
+16
+17
+Center, or is being discharged from the custody of the
+17
+18
+Oklahoma Department of Corrections, or is being
+18
+19
+discharged from a residential placement by the Office
+19
+20
+of Juvenile Affairs,
+20
+21
+b. is suffering from a mental illness,
+21
+22
+c. is unlikely to survive safely in the community without
+22
+23
+supervision, based on a clinical determination,
+23
+24
+24
+Req. No. 208 Page 10
+1
+d. has a history of lack of compliance with treatment for
+1
+2
+mental illness that has:
+2
+3
+(1) prior to the filing of a petition, at least twice
+3
+4
+within the last thirty-six (36) months been a
+4
+5
+significant factor in necessitating
+5
+6
+hospitalization or treatment in a hospital or
+6
+7
+residential facility including admission to a
+7
+8
+community-based structured crisis center as
+8
+9
+certified by the Oklahoma Department of Mental
+9
+10
+Health and Substance Abuse Services, or receipt
+10
+11
+of services in a forensic or other mental health
+11
+12
+unit of a correctional facility, or a specialized
+12
+13
+treatment plan for treatment of mental illness in
+13
+14
+a secure juvenile facility or placement in a
+14
+15
+specialized residential program for juveniles, or
+15
+16
+(2) prior to the filing of the petition, resulted in
+16
+17
+one or more acts of serious violent behavior
+17
+18
+toward self or others or threats of, or attempts
+18
+19
+at, serious physical harm to self or others
+19
+20
+within the last twenty-four (24) thirty-six (36)
+20
+21
+months,
+21
+22
+e. is, as a result of his or her mental illness, unlikely
+22
+23
+to voluntarily participate in outpatient treatment
+23
+24
+24
+Req. No. 208 Page 11
+1
+that would enable him or her to live safely in the
+1
+2
+community,
+2
+3
+f. in view of his or her treatment history and current
+3
+4
+behavior, is in need of assisted outpatient treatment
+4
+5
+in order to prevent a relapse or deterioration which
+5
+6
+would be likely to result in serious harm to the
+6
+7
+person or persons as defined in this section, and
+7
+8
+g. is likely to benefit from assisted outpatient
+8
+9
+treatment;
+9
+10
+
+Section 26:
+21. “Assisted outpatient treatment” means outpatient services
+10
+11
+which have been ordered by the court pursuant to a treatment plan
+11
+12
+approved by the court to treat an assisted outpatient’s mental
+12
+13
+illness and to assist the person in living and functioning in the
+13
+14
+community, or to attempt to prevent a relapse or deterioration that
+14
+15
+may reasonably be predicted to result in suicide or the need for
+15
+16
+hospitalization; and
+16
+17
+
+Section 27:
+22. “Urgent recovery clinic” means a clinic that offers
+17
+18
+voluntary services aimed at the assessment and immediate
+18
+19
+stabilization of acute symptoms of mental illness, alcohol and other
+19
+20
+drug abuse, and emotional distress. Unless the person receiving
+20
+21
+treatment consents to a longer duration or unless the person is
+21
+22
+placed into emergency detention under Sections 5-206 through 5-209
+22
+23
+of this title, no more than twenty-three (23) hours and fifty-nine
+23
+24
+24
+Req. No. 208 Page 12
+1
+(59) minutes of services may be provided to a consumer during one
+1
+2
+episode of care at an urgent recovery clinic.
+2
+3
+
+Section 28:
+SECTION 2. This act shall become effective November 1, 2025.
+3
+4
+4
+5
+60-1-208 DC 1/19/2025 5:42:20 AM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 208 Page 13
+[DELETED:  P B D]
+[DELETED:  P]
+[DELETED:  P a a a a a a]
+[DELETED:  P a a a a a a “ p p]
+[DELETED:  P h i p T]
+[DELETED:  P U a a a a a ( A]
+[DELETED:  P I A]
+[DELETED:  P a t i d]
+[DELETED:  P a s a r]
+[DELETED:  P o i i i]
+[DELETED:  P h p p i]
+[DELETED:  P i i]
+[DELETED:  P D 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 740 By: Daniels
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to mental health; amending 43A O.S.
+7
+2021, Section 1-103, as last amended by Section 1,
+8
+Chapter 96, O.S.L. 2024 (43A O.S. Supp. 2024, Section
+8
+1-103), which relates to definitions; modifying
+9
+certain definitions; and providing an effective date.
+9
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+SECTION 1. AMENDATORY 43A O.S. 2021, Section 1-103, as
+13
+14
+last amended by Section 1, Chapter 96, O.S.L. 2024 (43A O.S. Supp.
+14
+15
+2024, Section 1-103), is amended to read as follows:
+15
+16
+Section 1-103. When used in this title, unless otherwise
+16
+17
+expressly stated, or unless the context or subject matter otherwise
+17
+18
+requires:
+18
+19
+1. “Department” means the Department of Mental Health and
+19
+20
+Substance Abuse Services;
+20
+21
+2. “Chair” means the chair of the Board of Mental Health and
+21
+22
+Substance Abuse Services;
+22
+23
+3. “Mental illness” means a substantial disorder of thought,
+23
+24
+mood, perception, psychological orientation or memory that
+24
+Req. No. 208 Page 1
+
+1
+significantly impairs judgment, behavior, capacity to recognize
+1
+2
+reality or ability to meet the ordinary demands of life;
+2
+3
+4. “Board” means the Board of Mental Health and Substance Abuse
+3
+4
+Services as established by the Mental Health Law;
+4
+5
+5. “Commissioner” means the Commissioner of Mental Health and
+5
+6
+Substance Abuse Services;
+6
+7
+6. “Indigent person” means a person who does not have
+7
+8
+sufficient assets or resources to support the person and to support
+8
+9
+members of the family of the person lawfully dependent on the person
+9
+10
+for support;
+10
+11
+7. “Facility” means any hospital, school, building, house or
+11
+12
+retreat, authorized by law to have the care, treatment or custody of
+12
+13
+an individual with mental illness, drug or alcohol dependency,
+13
+14
+gambling addiction, or an eating disorder including, but not limited
+14
+15
+to, public or private hospitals, community mental health centers,
+15
+16
+clinics, satellites, and community-based structured crisis centers;
+16
+17
+provided, that facility shall not mean a child guidance center
+17
+18
+operated by the State Department of Health;
+18
+19
+8. “Consumer” means a person under care or treatment in a
+19
+20
+facility pursuant to the Mental Health Law, or in an outpatient
+20
+21
+status;
+21
+22
+9. “Care and treatment” means medical care and behavioral
+22
+23
+health services, as well as food, clothing and maintenance,
+23
+24
+furnished to a person;
+24
+Req. No. 208 Page 2
+
+1
+10. Whenever in this law or in any other law, or in any rule or
+1
+2
+order made or promulgated pursuant to this law or to any other law,
+2
+3
+or in the printed forms prepared for the admission of consumers or
+3
+4
+for statistical reports, the words “insane”, “insanity”, “lunacy”,
+4
+5
+“mentally sick”, “mental disease” or “mental disorder” are used,
+5
+6
+such terms shall have equal significance to the words “mental
+6
+7
+illness”;
+7
+8
+11. “Licensed mental health professional” means:
+8
+9
+a. a psychiatrist who is a diplomate of the American
+9
+10
+Board of Psychiatry and Neurology,
+10
+11
+b. a psychiatrist who is a diplomate of the American
+11
+12
+Osteopathic Board of Neurology and Psychiatry,
+12
+13
+c. a physician licensed pursuant to the Oklahoma
+13
+14
+Allopathic Medical and Surgical Licensure and
+14
+15
+Supervision Act or the Oklahoma Osteopathic Medicine
+15
+16
+Act,
+16
+17
+d. a clinical psychologist who is duly licensed to
+17
+18
+practice by the State Board of Examiners of
+18
+19
+Psychologists,
+19
+20
+e. a professional counselor licensed pursuant to the
+20
+21
+Licensed Professional Counselors Act,
+21
+22
+f. a person licensed as a clinical social worker pursuant
+22
+23
+to the provisions of the Social Worker’s Licensing
+23
+24
+Act,
+24
+Req. No. 208 Page 3
+
+1
+g. a licensed marital and family therapist as defined in
+1
+2
+the Marital and Family Therapist Licensure Act,
+2
+3
+h. a licensed behavioral practitioner as defined in the
+3
+4
+Licensed Behavioral Practitioner Act,
+4
+5
+i. an advanced practice nurse as defined in the Oklahoma
+5
+6
+Nursing Practice Act,
+6
+7
+j. a physician’s assistant who is licensed in good
+7
+8
+standing in this state, or
+8
+9
+k. a licensed alcohol and drug counselor/mental health
+9
+10
+(LADC/MH) as defined in the Licensed Alcohol and Drug
+10
+11
+Counselors Act;
+11
+12
+12. “Mentally incompetent person” means any person who has been
+12
+13
+adjudicated mentally or legally incompetent by an appropriate
+13
+14
+district court;
+14
+15
+13. a. “Person requiring treatment” means a person who
+15
+16
+because of his or her mental illness or drug or
+16
+17
+alcohol dependency meets at least one of the
+17
+18
+following:
+18
+19
+(1) poses a substantial risk of immediate physical
+19
+20
+harm to self as manifested by evidence or serious
+20
+21
+threats of or attempts at suicide or other
+21
+22
+significant self-inflicted bodily harm,
+22
+23
+(2) poses a substantial risk of immediate physical
+23
+24
+harm to another person or persons as manifested
+24
+Req. No. 208 Page 4
+
+1
+by evidence of violent behavior directed toward
+1
+2
+another person or persons,
+2
+3
+(3) has placed another person or persons in a
+3
+4
+reasonable fear of violent behavior directed
+4
+5
+towards such person or persons or serious
+5
+6
+physical harm to them as manifested by serious
+6
+7
+and immediate threats,
+7
+8
+(4) is in a condition of severe deterioration that is
+8
+9
+continuing, as has been observed within the
+9
+10
+previous seventy-two (72) hour period such that,
+10
+11
+without immediate intervention, there exists a
+11
+12
+substantial risk that severe impairment or injury
+12
+13
+will result to the person, or
+13
+14
+(5) poses a substantial risk of immediate serious
+14
+15
+physical injury harm to self or death as
+15
+16
+manifested by evidence that the person is unable
+16
+17
+to provide for and is not providing for his or
+17
+18
+her basic physical needs.
+18
+19
+b. To the extent it is reasonably available, the relevant
+19
+20
+mental health or substance abuse history of the person
+20
+21
+shall be considered and may be proffered as part of
+21
+22
+the evidence to determine whether the person is a
+22
+23
+person requiring treatment or an assisted outpatient.
+23
+24
+The mental health or substance abuse history of the
+24
+Req. No. 208 Page 5
+
+1
+person shall not be the sole basis for this
+1
+2
+determination.
+2
+3
+c. Unless a person also meets the criteria established in
+3
+4
+subparagraph a or b of this paragraph, “person
+4
+5
+requiring treatment” or an “assisted outpatient” shall
+5
+6
+not mean:
+6
+7
+(1) a person whose mental processes have been
+7
+8
+weakened or impaired by reason of advanced years,
+8
+9
+dementia, or Alzheimer’s disease,
+9
+10
+(2) a person with intellectual or developmental
+10
+11
+disability as defined in Title 10 of the Oklahoma
+11
+12
+Statutes,
+12
+13
+(3) a person with seizure disorder, or
+13
+14
+(4) a person with a traumatic brain injury, or
+14
+15
+(5) a person who is homeless.
+15
+16
+d. (1) A person who meets the criteria established in
+16
+17
+this paragraph but who is medically unstable may
+17
+18
+be discharged and transported in accordance with
+18
+19
+Section 1-110 of this title. Alternatively, if
+19
+20
+the facility holding the person is able to treat
+20
+21
+the additional medical conditions of that person,
+21
+22
+the facility may treat the additional medical
+22
+23
+conditions in an effort to medically stabilize
+23
+24
+the patient.
+24
+Req. No. 208 Page 6
+
+1
+(2) If the facility holding the person is unable to
+1
+2
+treat the additional medical conditions of a
+2
+3
+person who meets the criteria established in this
+3
+4
+paragraph, the patient shall be discharged and
+4
+5
+transported in accordance with Section 1-110 of
+5
+6
+this title.
+6
+7
+(3) All time elapsed during medical stabilization
+7
+8
+tolls the twelve (12) hour time for an initial
+8
+9
+assessment pursuant to paragraph 1 of subsection
+9
+10
+A of Section 5-208 of this title, and the one-
+10
+11
+hundred-twenty-hour emergency detention time
+11
+12
+pursuant to paragraph 3 of subsection A of
+12
+13
+Section 5-208 of this title;
+13
+14
+14. “Petitioner” means a person who files a petition alleging
+14
+15
+that an individual is a person requiring treatment or an assisted
+15
+16
+outpatient;
+16
+17
+15. “Executive director” means the person in charge of a
+17
+18
+facility as defined in this section;
+18
+19
+16. “Private hospital or facility” means any general hospital
+19
+20
+maintaining a neuro-psychiatric unit or ward, or any private
+20
+21
+hospital or facility for care and treatment of a person having a
+21
+22
+mental illness, which is not supported by the state or federal
+22
+23
+government. The term “private hospital” or “facility” shall not
+23
+24
+24
+Req. No. 208 Page 7
+
+1
+include nursing homes or other facilities maintained primarily for
+1
+2
+the care of elderly and disabled persons;
+2
+3
+17. “Individualized treatment plan” means a proposal developed
+3
+4
+during the stay of an individual in a facility, under the provisions
+4
+5
+of this title, which is specifically tailored to the treatment needs
+5
+6
+of the individual. Each plan shall clearly include the following:
+6
+7
+a. a statement of treatment goals or objectives, based
+7
+8
+upon and related to a clinical evaluation, which can
+8
+9
+be reasonably achieved within a designated time
+9
+10
+interval,
+10
+11
+b. treatment methods and procedures to be used to obtain
+11
+12
+these goals, which methods and procedures are related
+12
+13
+to each of these goals and which include specific
+13
+14
+prognosis for achieving each of these goals,
+14
+15
+c. identification of the types of professional personnel
+15
+16
+who will carry out the treatment procedures including
+16
+17
+appropriate medical or other professional involvement
+17
+18
+by a physician or other health professional properly
+18
+19
+qualified to fulfill legal requirements mandated under
+19
+20
+state and federal law,
+20
+21
+d. documentation of involvement by the individual
+21
+22
+receiving treatment and, if applicable, the accordance
+22
+23
+of the individual with the treatment plan, and
+23
+24
+24
+Req. No. 208 Page 8
+
+1
+e. a statement attesting that the executive director of
+1
+2
+the facility or clinical director has made a
+2
+3
+reasonable effort to meet the plan’s individualized
+3
+4
+treatment goals in the least restrictive environment
+4
+5
+possible closest to the home community of the
+5
+6
+individual;
+6
+7
+18. “Telemedicine” means technology-enabled health and care
+7
+8
+management and delivery systems that extend capacity and access,
+8
+9
+which includes:
+9
+10
+a. synchronous mechanisms, which may include live
+10
+11
+audiovisual interaction between a patient and a health
+11
+12
+care professional or real-time provider to provider
+12
+13
+consultation through live interactive audiovisual
+13
+14
+means,
+14
+15
+b. asynchronous mechanisms, which include store and
+15
+16
+forward transfers, online exchange of health
+16
+17
+information between a patient and a health care
+17
+18
+professional and online exchange of health information
+18
+19
+between health care professionals, but shall not
+19
+20
+include the use of automated text messages or
+20
+21
+automated mobile applications that serve as the sole
+21
+22
+interaction between a patient and a health care
+22
+23
+professional,
+23
+24
+c. remote patient monitoring, and
+24
+Req. No. 208 Page 9
+
+1
+d. other electronic means that support clinical health
+1
+2
+care, professional consultation, patient and
+2
+3
+professional health-related education, public health
+3
+4
+and health administration;
+4
+5
+19. “Recovery and recovery support” means nonclinical services
+5
+6
+that assist individuals and families to recover from alcohol or drug
+6
+7
+problems. They include social support, linkage to and coordination
+7
+8
+among allied service providers including but not limited to
+8
+9
+transportation to and from treatment or employment, employment
+9
+10
+services and job training, case management and individual services
+10
+11
+coordination, life skills education, relapse prevention, housing
+11
+12
+assistance, child care, and substance abuse education;
+12
+13
+20. “Assisted outpatient” means a person who:
+13
+14
+a. is either currently under the care of a facility
+14
+15
+certified by the Department of Mental Health and
+15
+16
+Substance Abuse Services as a Community Mental Health
+16
+17
+Center, or is being discharged from the custody of the
+17
+18
+Oklahoma Department of Corrections, or is being
+18
+19
+discharged from a residential placement by the Office
+19
+20
+of Juvenile Affairs,
+20
+21
+b. is suffering from a mental illness,
+21
+22
+c. is unlikely to survive safely in the community without
+22
+23
+supervision, based on a clinical determination,
+23
+24
+24
+Req. No. 208 Page 10
+
+1
+d. has a history of lack of compliance with treatment for
+1
+2
+mental illness that has:
+2
+3
+(1) prior to the filing of a petition, at least twice
+3
+4
+within the last thirty-six (36) months been a
+4
+5
+significant factor in necessitating
+5
+6
+hospitalization or treatment in a hospital or
+6
+7
+residential facility including admission to a
+7
+8
+community-based structured crisis center as
+8
+9
+certified by the Oklahoma Department of Mental
+9
+10
+Health and Substance Abuse Services, or receipt
+10
+11
+of services in a forensic or other mental health
+11
+12
+unit of a correctional facility, or a specialized
+12
+13
+treatment plan for treatment of mental illness in
+13
+14
+a secure juvenile facility or placement in a
+14
+15
+specialized residential program for juveniles, or
+15
+16
+(2) prior to the filing of the petition, resulted in
+16
+17
+one or more acts of serious violent behavior
+17
+18
+toward self or others or threats of, or attempts
+18
+19
+at, serious physical harm to self or others
+19
+20
+within the last twenty-four (24) thirty-six (36)
+20
+21
+months,
+21
+22
+e. is, as a result of his or her mental illness, unlikely
+22
+23
+to voluntarily participate in outpatient treatment
+23
+24
+24
+Req. No. 208 Page 11
+
+1
+that would enable him or her to live safely in the
+1
+2
+community,
+2
+3
+f. in view of his or her treatment history and current
+3
+4
+behavior, is in need of assisted outpatient treatment
+4
+5
+in order to prevent a relapse or deterioration which
+5
+6
+would be likely to result in serious harm to the
+6
+7
+person or persons as defined in this section, and
+7
+8
+g. is likely to benefit from assisted outpatient
+8
+9
+treatment;
+9
+10
+21. “Assisted outpatient treatment” means outpatient services
+10
+11
+which have been ordered by the court pursuant to a treatment plan
+11
+12
+approved by the court to treat an assisted outpatient’s mental
+12
+13
+illness and to assist the person in living and functioning in the
+13
+14
+community, or to attempt to prevent a relapse or deterioration that
+14
+15
+may reasonably be predicted to result in suicide or the need for
+15
+16
+hospitalization; and
+16
+17
+22. “Urgent recovery clinic” means a clinic that offers
+17
+18
+voluntary services aimed at the assessment and immediate
+18
+19
+stabilization of acute symptoms of mental illness, alcohol and other
+19
+20
+drug abuse, and emotional distress. Unless the person receiving
+20
+21
+treatment consents to a longer duration or unless the person is
+21
+22
+placed into emergency detention under Sections 5-206 through 5-209
+22
+23
+of this title, no more than twenty-three (23) hours and fifty-nine
+23
+24
+24
+Req. No. 208 Page 12
+
+1
+(59) minutes of services may be provided to a consumer during one
+1
+2
+episode of care at an urgent recovery clinic.
+2
+3
+SECTION 2. This act shall become effective November 1, 2025.
+3
+4
+4
+5
+60-1-208 DC 1/19/2025 5:42:20 AM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 208 Page 13
+
+[DELETED:  P B D]
+[DELETED:  P]
+[DELETED:  P a a a a a a]
+[DELETED:  P a a a a a a “ p p]
+[DELETED:  P h i p T]
+[DELETED:  P U a a a a a ( A]
+[DELETED:  P I A]
+[DELETED:  P a t i d]
+[DELETED:  P a s a r]
+[DELETED:  P o i i i]
+[DELETED:  P h p p i]
+[DELETED:  P i i]
+[DELETED:  P D 1]

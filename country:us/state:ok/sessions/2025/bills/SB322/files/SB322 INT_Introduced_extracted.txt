@@ -1,0 +1,2245 @@
+Title: SENATE BILL 322 By: Deevers
+Official Title: SENATE BILL 322 By: Deevers
+Number of Sections: 19
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to tax; amending 68 O.S. 2021,
+7
+
+Section 2:
+Section 2355, as last amended by Section 1, Chapter
+8
+27, 1st Extraordinary Session, O.S.L. 2023 (68 O.S.
+8
+Supp. 2024, Section 2355), which relates to income
+9
+tax; modifying certain income tax rate for certain
+9
+tax years; modifying certain withholding requirement
+10
+for certain tax years; amending 68 O.S. 2021, Section
+10
+2370, which relates to the banking privilege tax;
+11
+limiting tax to certain tax years; updating statutory
+11
+references; updating statutory language; and
+12
+providing an effective date.
+12
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+
+Section 3:
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2355, as
+16
+17
+last amended by Section 1, Chapter 27, 1st Extraordinary Session,
+17
+18
+O.S.L. 2023 (68 O.S. Supp. 2024, Section 2355), is amended to read
+18
+19
+as follows:
+19
+20
+
+Section 4:
+Section 2355. A. Individuals. For all taxable years beginning
+20
+21
+after December 31, 1998, and before January 1, 2006, a tax is hereby
+21
+22
+imposed upon the Oklahoma taxable income of every resident or
+22
+23
+nonresident individual, which tax shall be computed at the option of
+23
+24
+the taxpayer under one of the two following methods:
+24
+Req. No. 1408 Page 1
+1
+
+Section 5:
+1. METHOD 1.
+1
+2
+a. Single individuals and married individuals filing
+2
+3
+separately not deducting federal income tax:
+3
+4
+(1) 1/2% tax on first $1,000.00 or part thereof,
+4
+5
+(2) 1% tax on next $1,500.00 or part thereof,
+5
+6
+(3) 2% tax on next $1,250.00 or part thereof,
+6
+7
+(4) 3% tax on next $1,150.00 or part thereof,
+7
+8
+(5) 4% tax on next $1,300.00 or part thereof,
+8
+9
+(6) 5% tax on next $1,500.00 or part thereof,
+9
+10
+(7) 6% tax on next $2,300.00 or part thereof, and
+10
+11
+(8) (a) for taxable years beginning after December
+11
+12
+31, 1998, and before January 1, 2002, 6.75%
+12
+13
+tax on the remainder,
+13
+14
+(b) for taxable years beginning on or after
+14
+15
+January 1, 2002, and before January 1, 2004,
+15
+16
+7% tax on the remainder, and
+16
+17
+(c) for taxable years beginning on or after
+17
+18
+January 1, 2004, 6.65% tax on the remainder.
+18
+19
+b. Married individuals filing jointly and surviving
+19
+20
+spouse to the extent and in the manner that a
+20
+21
+surviving spouse is permitted to file a joint return
+21
+22
+under the provisions of the Internal Revenue Code of
+22
+23
+1986, as amended, and heads of households as defined
+23
+24
+24
+Req. No. 1408 Page 2
+1
+in the Internal Revenue Code of 1986, as amended, not
+1
+2
+deducting federal income tax:
+2
+3
+(1) 1/2% tax on first $2,000.00 or part thereof,
+3
+4
+(2) 1% tax on next $3,000.00 or part thereof,
+4
+5
+(3) 2% tax on next $2,500.00 or part thereof,
+5
+6
+(4) 3% tax on next $2,300.00 or part thereof,
+6
+7
+(5) 4% tax on next $2,400.00 or part thereof,
+7
+8
+(6) 5% tax on next $2,800.00 or part thereof,
+8
+9
+(7) 6% tax on next $6,000.00 or part thereof, and
+9
+10
+(8) (a) for taxable years beginning after December
+10
+11
+31, 1998, and before January 1, 2002, 6.75%
+11
+12
+tax on the remainder,
+12
+13
+(b) for taxable years beginning on or after
+13
+14
+January 1, 2002, and before January 1, 2004,
+14
+15
+7% tax on the remainder, and
+15
+16
+(c) for taxable years beginning on or after
+16
+17
+January 1, 2004, 6.65% tax on the remainder.
+17
+18
+
+Section 6:
+2. METHOD 2.
+18
+19
+a. Single individuals and married individuals filing
+19
+20
+separately deducting federal income tax:
+20
+21
+(1) 1/2% tax on first $1,000.00 or part thereof,
+21
+22
+(2) 1% tax on next $1,500.00 or part thereof,
+22
+23
+(3) 2% tax on next $1,250.00 or part thereof,
+23
+24
+(4) 3% tax on next $1,150.00 or part thereof,
+24
+Req. No. 1408 Page 3
+1
+(5) 4% tax on next $1,200.00 or part thereof,
+1
+2
+(6) 5% tax on next $1,400.00 or part thereof,
+2
+3
+(7) 6% tax on next $1,500.00 or part thereof,
+3
+4
+(8) 7% tax on next $1,500.00 or part thereof,
+4
+5
+(9) 8% tax on next $2,000.00 or part thereof,
+5
+6
+(10) 9% tax on next $3,500.00 or part thereof, and
+6
+7
+(11) 10% tax on the remainder.
+7
+8
+b. Married individuals filing jointly and surviving
+8
+9
+spouse to the extent and in the manner that a
+9
+10
+surviving spouse is permitted to file a joint return
+10
+11
+under the provisions of the Internal Revenue Code of
+11
+12
+1986, as amended, and heads of households as defined
+12
+13
+in the Internal Revenue Code of 1986, as amended,
+13
+14
+deducting federal income tax:
+14
+15
+(1) 1/2% tax on the first $2,000.00 or part thereof,
+15
+16
+(2) 1% tax on the next $3,000.00 or part thereof,
+16
+17
+(3) 2% tax on the next $2,500.00 or part thereof,
+17
+18
+(4) 3% tax on the next $1,400.00 or part thereof,
+18
+19
+(5) 4% tax on the next $1,500.00 or part thereof,
+19
+20
+(6) 5% tax on the next $1,600.00 or part thereof,
+20
+21
+(7) 6% tax on the next $1,250.00 or part thereof,
+21
+22
+(8) 7% tax on the next $1,750.00 or part thereof,
+22
+23
+(9) 8% tax on the next $3,000.00 or part thereof,
+23
+24
+(10) 9% tax on the next $6,000.00 or part thereof, and
+24
+Req. No. 1408 Page 4
+1
+(11) 10% tax on the remainder.
+1
+2
+B. Individuals. For all taxable years beginning on or after
+2
+3
+January 1, 2008, and ending any tax year which begins after December
+3
+4
+31, 2015, for which the determination required pursuant to Sections
+4
+5
+4 2355.1F and 5 2355.1G of this act title is made by the State Board
+5
+6
+of Equalization, a tax is hereby imposed upon the Oklahoma taxable
+6
+7
+income of every resident or nonresident individual, which tax shall
+7
+8
+be computed as follows:
+8
+9
+
+Section 7:
+1. Single individuals and married individuals filing
+9
+10
+separately:
+10
+11
+(a) 1/2% tax on first $1,000.00 or part thereof,
+11
+12
+(b) 1% tax on next $1,500.00 or part thereof,
+12
+13
+(c) 2% tax on next $1,250.00 or part thereof,
+13
+14
+(d) 3% tax on next $1,150.00 or part thereof,
+14
+15
+(e) 4% tax on next $2,300.00 or part thereof,
+15
+16
+(f) 5% tax on next $1,500.00 or part thereof,
+16
+17
+(g) 5.50% tax on the remainder for the 2008 tax year and
+17
+18
+any subsequent tax year unless the rate prescribed by
+18
+19
+subparagraph (h) of this paragraph is in effect, and
+19
+20
+(h) 5.25% tax on the remainder for the 2009 and subsequent
+20
+21
+tax years. The decrease in the top marginal
+21
+22
+individual income tax rate otherwise authorized by
+22
+23
+this subparagraph shall be contingent upon the
+23
+24
+determination required to be made by the State Board
+24
+Req. No. 1408 Page 5
+1
+of Equalization pursuant to Section 2355.1A of this
+1
+2
+title.
+2
+3
+
+Section 8:
+2. Married individuals filing jointly and surviving spouse to
+3
+4
+the extent and in the manner that a surviving spouse is permitted to
+4
+5
+file a joint return under the provisions of the Internal Revenue
+5
+6
+Code of 1986, as amended, and heads of households as defined in the
+6
+7
+Internal Revenue Code of 1986, as amended:
+7
+8
+(a) 1/2% tax on first $2,000.00 or part thereof,
+8
+9
+(b) 1% tax on next $3,000.00 or part thereof,
+9
+10
+(c) 2% tax on next $2,500.00 or part thereof,
+10
+11
+(d) 3% tax on next $2,300.00 or part thereof,
+11
+12
+(e) 4% tax on next $2,400.00 or part thereof,
+12
+13
+(f) 5% tax on next $2,800.00 or part thereof,
+13
+14
+(g) 5.50% tax on the remainder for the 2008 tax year and
+14
+15
+any subsequent tax year unless the rate prescribed by
+15
+16
+subparagraph (h) of this paragraph is in effect, and
+16
+17
+(h) 5.25% tax on the remainder for the 2009 and subsequent
+17
+18
+tax years. The decrease in the top marginal
+18
+19
+individual income tax rate otherwise authorized by
+19
+20
+this subparagraph shall be contingent upon the
+20
+21
+determination required to be made by the State Board
+21
+22
+of Equalization pursuant to Section 2355.1A of this
+22
+23
+title.
+23
+24
+24
+Req. No. 1408 Page 6
+1
+C. Individuals. For all taxable years beginning on or after
+1
+2
+January 1, 2024, a tax is hereby imposed upon the Oklahoma taxable
+2
+3
+income of every resident or nonresident individual, which tax shall
+3
+4
+be computed as follows:
+4
+5
+
+Section 9:
+1. Single individuals and married individuals filing
+5
+6
+separately:
+6
+7
+(a) 0.25% tax on first $1,000.00 or part thereof,
+7
+8
+(b) 0.75% tax on next $1,500.00 or part thereof,
+8
+9
+(c) 1.75% tax on next $1,250.00 or part thereof,
+9
+10
+(d) 2.75% tax on next $1,150.00 or part thereof,
+10
+11
+(e) 3.75% tax on next $2,300.00 or part thereof, and
+11
+12
+(f) 4.75% tax on the remainder.
+12
+13
+
+Section 10:
+2. Married individuals filing jointly and surviving spouse to
+13
+14
+the extent and in the manner that a surviving spouse is permitted to
+14
+15
+file a joint return under the provisions of the Internal Revenue
+15
+16
+Code of 1986, as amended, and heads of households as defined in the
+16
+17
+Internal Revenue Code of 1986, as amended:
+17
+18
+(a) 0.25% tax on first $2,000.00 or part thereof,
+18
+19
+(b) 0.75% tax on next $3,000.00 or part thereof,
+19
+20
+(c) 1.75% tax on next $2,500.00 or part thereof,
+20
+21
+(d) 2.75% tax on next $2,300.00 or part thereof,
+21
+22
+(e) 3.75% tax on next $4,600.00 or part thereof, and
+22
+23
+(f) 4.75% tax on the remainder.
+23
+24
+24
+Req. No. 1408 Page 7
+1
+No deduction for federal income taxes paid shall be allowed to
+1
+2
+any taxpayer to arrive at taxable income.
+2
+3
+D. Nonresident aliens. In lieu of the rates set forth in
+3
+4
+subsection A above, there shall be imposed on nonresident aliens, as
+4
+5
+defined in the Internal Revenue Code of 1986, as amended, a tax of
+5
+6
+eight percent (8%) instead of thirty percent (30%) as used in the
+6
+7
+Internal Revenue Code of 1986, as amended, with respect to the
+7
+8
+Oklahoma taxable income of such nonresident aliens as determined
+8
+9
+under the provision of the Oklahoma Income Tax Act.
+9
+10
+Every payer of amounts covered by this subsection shall deduct
+10
+11
+and withhold from such amounts paid each payee an amount equal to
+11
+12
+eight percent (8%) thereof. Every payer required to deduct and
+12
+13
+withhold taxes under this subsection shall for each quarterly period
+13
+14
+on or before the last day of the month following the close of each
+14
+15
+such quarterly period, pay over the amount so withheld as taxes to
+15
+16
+the Oklahoma Tax Commission, and shall file a return with each such
+16
+17
+payment. Such return shall be in such form as the Tax Commission
+17
+18
+shall prescribe. Every payer required under this subsection to
+18
+19
+deduct and withhold a tax from a payee shall, as to the total
+19
+20
+amounts paid to each payee during the calendar year, furnish to such
+20
+21
+payee, on or before January 31, of the succeeding year, a written
+21
+22
+statement showing the name of the payer, the name of the payee and
+22
+23
+the payee’s Social Security account number, if any, the total amount
+23
+24
+paid subject to taxation, and the total amount deducted and withheld
+24
+Req. No. 1408 Page 8
+1
+as tax and such other information as the Tax Commission may require.
+1
+2
+Any payer who fails to withhold or pay to the Tax Commission any
+2
+3
+sums herein required to be withheld or paid shall be personally and
+3
+4
+individually liable therefor to the State of Oklahoma.
+4
+5
+E. Corporations. For all taxable years beginning after
+5
+6
+December 31, 2021 tax years 2022 through 2024, a tax is hereby
+6
+7
+imposed upon the Oklahoma taxable income of every corporation doing
+7
+8
+business within this state or deriving income from sources within
+8
+9
+this state in an amount equal to four percent (4%) thereof. For tax
+9
+10
+year 2025 and subsequent tax years, there shall be no income tax
+10
+11
+imposed upon the Oklahoma taxable income of every corporation doing
+11
+12
+business within this state or deriving income from sources within
+12
+13
+this state.
+13
+14
+There shall be no additional Oklahoma income tax imposed on
+14
+15
+accumulated taxable income or on undistributed personal holding
+15
+16
+company income as those terms are defined in the Internal Revenue
+16
+17
+Code of 1986, as amended.
+17
+18
+F. Certain foreign corporations. In lieu of the tax imposed in
+18
+19
+the first paragraph of subsection D of this section, for all taxable
+19
+20
+years beginning after December 31, 2021, there shall be imposed on
+20
+21
+foreign corporations, as defined in the Internal Revenue Code of
+21
+22
+1986, as amended, a tax of four percent (4%) instead of thirty
+22
+23
+percent (30%) as used in the Internal Revenue Code of 1986, as
+23
+24
+amended, where such income is received from sources within Oklahoma
+24
+Req. No. 1408 Page 9
+1
+this state, in accordance with the provisions of the Internal
+1
+2
+Revenue Code of 1986, as amended, and the Oklahoma Income Tax Act.
+2
+3
+Every payer of amounts covered by this subsection shall deduct
+3
+4
+and withhold from such amounts paid each payee an amount equal to
+4
+5
+four percent (4%) thereof. Every payer required to deduct and
+5
+6
+withhold taxes under this subsection shall for each quarterly period
+6
+7
+on or before the last day of the month following the close of each
+7
+8
+such quarterly period, pay over the amount so withheld as taxes to
+8
+9
+the Tax Commission, and shall file a return with each such payment.
+9
+10
+Such return shall be in such form as the Tax Commission shall
+10
+11
+prescribe. Every payer required under this subsection to deduct and
+11
+12
+withhold a tax from a payee shall, as to the total amounts paid to
+12
+13
+each payee during the calendar year, furnish to such payee, on or
+13
+14
+before January 31, of the succeeding year, a written statement
+14
+15
+showing the name of the payer, the name of the payee and the payee’s
+15
+16
+Social Security account number, if any, the total amounts paid
+16
+17
+subject to taxation, the total amount deducted and withheld as tax,
+17
+18
+and such other information as the Tax Commission may require. Any
+18
+19
+payer who fails to withhold or pay to the Tax Commission any sums
+19
+20
+herein required to be withheld or paid shall be personally and
+20
+21
+individually liable therefor to the State of Oklahoma.
+21
+22
+G. Fiduciaries. A tax is hereby imposed upon the Oklahoma
+22
+23
+taxable income of every trust and estate at the same rates as are
+23
+24
+provided in subsection B or C of this section for single
+24
+Req. No. 1408 Page 10
+1
+individuals. Fiduciaries are not allowed a deduction for any
+1
+2
+federal income tax paid.
+2
+3
+H. Tax rate tables. For all taxable years beginning after
+3
+4
+December 31, 1991, in lieu of the tax imposed by subsection A, B or
+4
+5
+C of this section, as applicable there is hereby imposed for each
+5
+6
+taxable year on the taxable income of every individual, whose
+6
+7
+taxable income for such taxable year does not exceed the ceiling
+7
+8
+amount, a tax determined under tables, applicable to such taxable
+8
+9
+year which shall be prescribed by the Tax Commission and which shall
+9
+10
+be in such form as it determines appropriate. In the table so
+10
+11
+prescribed, the amounts of the tax shall be computed on the basis of
+11
+12
+the rates prescribed by subsection A, B or C of this section. For
+12
+13
+purposes of this subsection, the term “ceiling amount” means, with
+13
+14
+respect to any taxpayer, the amount determined by the Tax Commission
+14
+15
+for the tax rate category in which such taxpayer falls.
+15
+16
+
+Section 11:
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 2370, is
+16
+17
+amended to read as follows:
+17
+18
+
+Section 12:
+Section 2370. A. For taxable years beginning after December
+18
+19
+31, 2021 tax years 2022 through 2024, for the privilege of doing
+19
+20
+business within this state, every state banking association,
+20
+21
+national banking association and credit union organized under the
+21
+22
+laws of this state, located or doing business within the limits of
+22
+23
+the State of Oklahoma this state shall annually pay to this state a
+23
+24
+24
+Req. No. 1408 Page 11
+1
+privilege tax at the rate of four percent (4%) of the amount of the
+1
+2
+taxable income as provided in this section.
+2
+3
+B. 1. The privilege tax levied by this section shall be in
+3
+4
+addition to the Business Activity Tax levied in Section 1218 of this
+4
+5
+title and the franchise tax levied in Article 12 of this title and
+5
+6
+in lieu of the tax levied by Section 2355 of this title and in lieu
+6
+7
+of all taxes levied by the State of Oklahoma this state, or any
+7
+8
+subdivision thereof, upon the shares of stock or personal property
+8
+9
+of any banking association or credit union subject to taxation under
+9
+10
+this section.
+10
+11
+
+Section 13:
+2. Nothing in this section shall be construed to exempt the
+11
+12
+real property of any banking associations or credit unions from
+12
+13
+taxation to the same extent, according to its value, as other real
+13
+14
+property is taxed. Nothing herein shall be construed to exempt an
+14
+15
+association from payment of any fee or tax authorized or levied
+15
+16
+pursuant to the banking laws.
+16
+17
+
+Section 14:
+3. Personal property which is subject to a lease agreement
+17
+18
+between a bank or credit union, as lessor, and a nonbanking business
+18
+19
+entity or individual, as lessee, is not exempt from personal
+19
+20
+property ad valorem taxation. Provided further, that it shall be
+20
+21
+the duty of the lessee of such personal property to return sworn
+21
+22
+lists or schedules of their taxable property within each county to
+22
+23
+the county assessor of such county as provided in Sections 2433 and
+23
+24
+2434 of this title.
+24
+Req. No. 1408 Page 12
+1
+C. Any tax levied under this section shall accrue on the last
+1
+2
+day of the taxable year and be payable as provided in Section 2375
+2
+3
+of this title. The accrual of such tax for the first taxable year
+3
+4
+to which this act the Oklahoma Income Tax Act applies, shall apply
+4
+5
+notwithstanding the prior accrual of a tax in the same taxable year
+5
+6
+based upon the net income of the next preceding taxable year;
+6
+7
+provided, however, any additional deduction enuring to the benefit
+7
+8
+of the taxpayer shall be deducted in accordance with the optional
+8
+9
+transitional deduction procedures in Section 2354 of this title.
+9
+10
+D. The basis of the tax shall be United States taxable income
+10
+11
+as defined in paragraph 10 of Section 2353 of this title and any
+11
+12
+adjustments thereto under the provisions of Section 2358 of this
+12
+13
+title with the following adjustments:
+13
+14
+
+Section 15:
+1. There shall be deducted all interest income on obligations
+14
+15
+of the United States government and agencies thereof not otherwise
+15
+16
+exempted and all interest income on obligations of the State of
+16
+17
+Oklahoma this state or political subdivisions thereof, including
+17
+18
+public trust authorities, not otherwise exempted under the laws of
+18
+19
+this state; and
+19
+20
+
+Section 16:
+2. Expense deductions claimed in arriving at taxable income
+20
+21
+under paragraph 10 of Section 2353 of this title shall be reduced by
+21
+22
+an amount equal to fifty percent (50%) of excluded interest income
+22
+23
+on obligations of the United States government or agencies thereof
+23
+24
+24
+Req. No. 1408 Page 13
+1
+and obligations of the State of Oklahoma this state or political
+1
+2
+subdivisions thereof.
+2
+3
+E. 1. Except as otherwise provided in paragraph 2 of this
+3
+4
+subsection, before January 1, 2017, there shall be allowed a credit
+4
+5
+against the tax levied in subsection A of this section in an amount
+5
+6
+equal to the amount of taxable income received by a participating
+6
+7
+financial institution as defined in Section 90.2 of Title 62 of the
+7
+8
+Oklahoma Statutes pursuant to a loan made under the Rural Economic
+8
+9
+Development Loan Act. Such credit shall be limited each year to
+9
+10
+five percent (5%) of the amount of annual payroll certified by the
+10
+11
+Oklahoma Rural Economic Development Loan Program Review Board
+11
+12
+pursuant to the provisions of paragraph 3 of subsection B of Section
+12
+13
+
+Section 17:
+90.4 of Title 62 of the Oklahoma Statutes with respect to the loan
+13
+14
+made by the participating financial institution and may be claimed
+14
+15
+for any number of years necessary until the amount of total credits
+15
+16
+claimed is equal to the total amount of taxable income received by
+16
+17
+the participating financial institution pursuant to the loan. Any
+17
+18
+credit allowed but not used in a taxable year may be carried forward
+18
+19
+for a period not to exceed five (5) taxable years. In no event
+19
+20
+shall a credit allowed pursuant to the provisions of this subsection
+20
+21
+be transferable or refundable.
+21
+22
+
+Section 18:
+2. No credit otherwise authorized by the provisions of this
+22
+23
+subsection may be claimed for any event, transaction, investment,
+23
+24
+expenditure or other act occurring on or after July 1, 2010, for
+24
+Req. No. 1408 Page 14
+1
+which the credit would otherwise be allowable. The provisions of
+1
+2
+this paragraph shall cease to be operative on July 1, 2012.
+2
+3
+Beginning July 1, 2012, the credit authorized by this subsection may
+3
+4
+be claimed for any event, transaction, investment, expenditure or
+4
+5
+other act occurring on or after July 1, 2012, according to the
+5
+6
+provisions of this subsection.
+6
+7
+
+Section 19:
+SECTION 3. This act shall become effective November 1, 2025.
+7
+8
+8
+9
+60-1-1408 QD 12/31/2024 12:15:39 PM
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1408 Page 15
+[DELETED:  P B D]
+[DELETED:  P S 1 1 2 3 4 5 6 ( f f f M]
+[DELETED:  P 1 1 2 3 4 5 6 ( f f f S 1 1 2 3]
+[DELETED:  P 4 5 6 7 8 9 1 M 1 1 2 3 4 5 6 7 8 9]
+[DELETED:  P 1 1 1 2 3 4 5 5 5]
+[DELETED:  P 1 1 2 3 4 5 5 5]
+[DELETED:  P 0 0 1 2 3 4 0 0 1 2 3 4]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 322 By: Deevers
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to tax; amending 68 O.S. 2021,
+7
+Section 2355, as last amended by Section 1, Chapter
+8
+27, 1st Extraordinary Session, O.S.L. 2023 (68 O.S.
+8
+Supp. 2024, Section 2355), which relates to income
+9
+tax; modifying certain income tax rate for certain
+9
+tax years; modifying certain withholding requirement
+10
+for certain tax years; amending 68 O.S. 2021, Section
+10
+2370, which relates to the banking privilege tax;
+11
+limiting tax to certain tax years; updating statutory
+11
+references; updating statutory language; and
+12
+providing an effective date.
+12
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2355, as
+16
+17
+last amended by Section 1, Chapter 27, 1st Extraordinary Session,
+17
+18
+O.S.L. 2023 (68 O.S. Supp. 2024, Section 2355), is amended to read
+18
+19
+as follows:
+19
+20
+Section 2355. A. Individuals. For all taxable years beginning
+20
+21
+after December 31, 1998, and before January 1, 2006, a tax is hereby
+21
+22
+imposed upon the Oklahoma taxable income of every resident or
+22
+23
+nonresident individual, which tax shall be computed at the option of
+23
+24
+the taxpayer under one of the two following methods:
+24
+Req. No. 1408 Page 1
+
+1
+1. METHOD 1.
+1
+2
+a. Single individuals and married individuals filing
+2
+3
+separately not deducting federal income tax:
+3
+4
+(1) 1/2% tax on first $1,000.00 or part thereof,
+4
+5
+(2) 1% tax on next $1,500.00 or part thereof,
+5
+6
+(3) 2% tax on next $1,250.00 or part thereof,
+6
+7
+(4) 3% tax on next $1,150.00 or part thereof,
+7
+8
+(5) 4% tax on next $1,300.00 or part thereof,
+8
+9
+(6) 5% tax on next $1,500.00 or part thereof,
+9
+10
+(7) 6% tax on next $2,300.00 or part thereof, and
+10
+11
+(8) (a) for taxable years beginning after December
+11
+12
+31, 1998, and before January 1, 2002, 6.75%
+12
+13
+tax on the remainder,
+13
+14
+(b) for taxable years beginning on or after
+14
+15
+January 1, 2002, and before January 1, 2004,
+15
+16
+7% tax on the remainder, and
+16
+17
+(c) for taxable years beginning on or after
+17
+18
+January 1, 2004, 6.65% tax on the remainder.
+18
+19
+b. Married individuals filing jointly and surviving
+19
+20
+spouse to the extent and in the manner that a
+20
+21
+surviving spouse is permitted to file a joint return
+21
+22
+under the provisions of the Internal Revenue Code of
+22
+23
+1986, as amended, and heads of households as defined
+23
+24
+24
+Req. No. 1408 Page 2
+
+1
+in the Internal Revenue Code of 1986, as amended, not
+1
+2
+deducting federal income tax:
+2
+3
+(1) 1/2% tax on first $2,000.00 or part thereof,
+3
+4
+(2) 1% tax on next $3,000.00 or part thereof,
+4
+5
+(3) 2% tax on next $2,500.00 or part thereof,
+5
+6
+(4) 3% tax on next $2,300.00 or part thereof,
+6
+7
+(5) 4% tax on next $2,400.00 or part thereof,
+7
+8
+(6) 5% tax on next $2,800.00 or part thereof,
+8
+9
+(7) 6% tax on next $6,000.00 or part thereof, and
+9
+10
+(8) (a) for taxable years beginning after December
+10
+11
+31, 1998, and before January 1, 2002, 6.75%
+11
+12
+tax on the remainder,
+12
+13
+(b) for taxable years beginning on or after
+13
+14
+January 1, 2002, and before January 1, 2004,
+14
+15
+7% tax on the remainder, and
+15
+16
+(c) for taxable years beginning on or after
+16
+17
+January 1, 2004, 6.65% tax on the remainder.
+17
+18
+2. METHOD 2.
+18
+19
+a. Single individuals and married individuals filing
+19
+20
+separately deducting federal income tax:
+20
+21
+(1) 1/2% tax on first $1,000.00 or part thereof,
+21
+22
+(2) 1% tax on next $1,500.00 or part thereof,
+22
+23
+(3) 2% tax on next $1,250.00 or part thereof,
+23
+24
+(4) 3% tax on next $1,150.00 or part thereof,
+24
+Req. No. 1408 Page 3
+
+1
+(5) 4% tax on next $1,200.00 or part thereof,
+1
+2
+(6) 5% tax on next $1,400.00 or part thereof,
+2
+3
+(7) 6% tax on next $1,500.00 or part thereof,
+3
+4
+(8) 7% tax on next $1,500.00 or part thereof,
+4
+5
+(9) 8% tax on next $2,000.00 or part thereof,
+5
+6
+(10) 9% tax on next $3,500.00 or part thereof, and
+6
+7
+(11) 10% tax on the remainder.
+7
+8
+b. Married individuals filing jointly and surviving
+8
+9
+spouse to the extent and in the manner that a
+9
+10
+surviving spouse is permitted to file a joint return
+10
+11
+under the provisions of the Internal Revenue Code of
+11
+12
+1986, as amended, and heads of households as defined
+12
+13
+in the Internal Revenue Code of 1986, as amended,
+13
+14
+deducting federal income tax:
+14
+15
+(1) 1/2% tax on the first $2,000.00 or part thereof,
+15
+16
+(2) 1% tax on the next $3,000.00 or part thereof,
+16
+17
+(3) 2% tax on the next $2,500.00 or part thereof,
+17
+18
+(4) 3% tax on the next $1,400.00 or part thereof,
+18
+19
+(5) 4% tax on the next $1,500.00 or part thereof,
+19
+20
+(6) 5% tax on the next $1,600.00 or part thereof,
+20
+21
+(7) 6% tax on the next $1,250.00 or part thereof,
+21
+22
+(8) 7% tax on the next $1,750.00 or part thereof,
+22
+23
+(9) 8% tax on the next $3,000.00 or part thereof,
+23
+24
+(10) 9% tax on the next $6,000.00 or part thereof, and
+24
+Req. No. 1408 Page 4
+
+1
+(11) 10% tax on the remainder.
+1
+2
+B. Individuals. For all taxable years beginning on or after
+2
+3
+January 1, 2008, and ending any tax year which begins after December
+3
+4
+31, 2015, for which the determination required pursuant to Sections
+4
+5
+4 2355.1F and 5 2355.1G of this act title is made by the State Board
+5
+6
+of Equalization, a tax is hereby imposed upon the Oklahoma taxable
+6
+7
+income of every resident or nonresident individual, which tax shall
+7
+8
+be computed as follows:
+8
+9
+1. Single individuals and married individuals filing
+9
+10
+separately:
+10
+11
+(a) 1/2% tax on first $1,000.00 or part thereof,
+11
+12
+(b) 1% tax on next $1,500.00 or part thereof,
+12
+13
+(c) 2% tax on next $1,250.00 or part thereof,
+13
+14
+(d) 3% tax on next $1,150.00 or part thereof,
+14
+15
+(e) 4% tax on next $2,300.00 or part thereof,
+15
+16
+(f) 5% tax on next $1,500.00 or part thereof,
+16
+17
+(g) 5.50% tax on the remainder for the 2008 tax year and
+17
+18
+any subsequent tax year unless the rate prescribed by
+18
+19
+subparagraph (h) of this paragraph is in effect, and
+19
+20
+(h) 5.25% tax on the remainder for the 2009 and subsequent
+20
+21
+tax years. The decrease in the top marginal
+21
+22
+individual income tax rate otherwise authorized by
+22
+23
+this subparagraph shall be contingent upon the
+23
+24
+determination required to be made by the State Board
+24
+Req. No. 1408 Page 5
+
+1
+of Equalization pursuant to Section 2355.1A of this
+1
+2
+title.
+2
+3
+2. Married individuals filing jointly and surviving spouse to
+3
+4
+the extent and in the manner that a surviving spouse is permitted to
+4
+5
+file a joint return under the provisions of the Internal Revenue
+5
+6
+Code of 1986, as amended, and heads of households as defined in the
+6
+7
+Internal Revenue Code of 1986, as amended:
+7
+8
+(a) 1/2% tax on first $2,000.00 or part thereof,
+8
+9
+(b) 1% tax on next $3,000.00 or part thereof,
+9
+10
+(c) 2% tax on next $2,500.00 or part thereof,
+10
+11
+(d) 3% tax on next $2,300.00 or part thereof,
+11
+12
+(e) 4% tax on next $2,400.00 or part thereof,
+12
+13
+(f) 5% tax on next $2,800.00 or part thereof,
+13
+14
+(g) 5.50% tax on the remainder for the 2008 tax year and
+14
+15
+any subsequent tax year unless the rate prescribed by
+15
+16
+subparagraph (h) of this paragraph is in effect, and
+16
+17
+(h) 5.25% tax on the remainder for the 2009 and subsequent
+17
+18
+tax years. The decrease in the top marginal
+18
+19
+individual income tax rate otherwise authorized by
+19
+20
+this subparagraph shall be contingent upon the
+20
+21
+determination required to be made by the State Board
+21
+22
+of Equalization pursuant to Section 2355.1A of this
+22
+23
+title.
+23
+24
+24
+Req. No. 1408 Page 6
+
+1
+C. Individuals. For all taxable years beginning on or after
+1
+2
+January 1, 2024, a tax is hereby imposed upon the Oklahoma taxable
+2
+3
+income of every resident or nonresident individual, which tax shall
+3
+4
+be computed as follows:
+4
+5
+1. Single individuals and married individuals filing
+5
+6
+separately:
+6
+7
+(a) 0.25% tax on first $1,000.00 or part thereof,
+7
+8
+(b) 0.75% tax on next $1,500.00 or part thereof,
+8
+9
+(c) 1.75% tax on next $1,250.00 or part thereof,
+9
+10
+(d) 2.75% tax on next $1,150.00 or part thereof,
+10
+11
+(e) 3.75% tax on next $2,300.00 or part thereof, and
+11
+12
+(f) 4.75% tax on the remainder.
+12
+13
+2. Married individuals filing jointly and surviving spouse to
+13
+14
+the extent and in the manner that a surviving spouse is permitted to
+14
+15
+file a joint return under the provisions of the Internal Revenue
+15
+16
+Code of 1986, as amended, and heads of households as defined in the
+16
+17
+Internal Revenue Code of 1986, as amended:
+17
+18
+(a) 0.25% tax on first $2,000.00 or part thereof,
+18
+19
+(b) 0.75% tax on next $3,000.00 or part thereof,
+19
+20
+(c) 1.75% tax on next $2,500.00 or part thereof,
+20
+21
+(d) 2.75% tax on next $2,300.00 or part thereof,
+21
+22
+(e) 3.75% tax on next $4,600.00 or part thereof, and
+22
+23
+(f) 4.75% tax on the remainder.
+23
+24
+24
+Req. No. 1408 Page 7
+
+1
+No deduction for federal income taxes paid shall be allowed to
+1
+2
+any taxpayer to arrive at taxable income.
+2
+3
+D. Nonresident aliens. In lieu of the rates set forth in
+3
+4
+subsection A above, there shall be imposed on nonresident aliens, as
+4
+5
+defined in the Internal Revenue Code of 1986, as amended, a tax of
+5
+6
+eight percent (8%) instead of thirty percent (30%) as used in the
+6
+7
+Internal Revenue Code of 1986, as amended, with respect to the
+7
+8
+Oklahoma taxable income of such nonresident aliens as determined
+8
+9
+under the provision of the Oklahoma Income Tax Act.
+9
+10
+Every payer of amounts covered by this subsection shall deduct
+10
+11
+and withhold from such amounts paid each payee an amount equal to
+11
+12
+eight percent (8%) thereof. Every payer required to deduct and
+12
+13
+withhold taxes under this subsection shall for each quarterly period
+13
+14
+on or before the last day of the month following the close of each
+14
+15
+such quarterly period, pay over the amount so withheld as taxes to
+15
+16
+the Oklahoma Tax Commission, and shall file a return with each such
+16
+17
+payment. Such return shall be in such form as the Tax Commission
+17
+18
+shall prescribe. Every payer required under this subsection to
+18
+19
+deduct and withhold a tax from a payee shall, as to the total
+19
+20
+amounts paid to each payee during the calendar year, furnish to such
+20
+21
+payee, on or before January 31, of the succeeding year, a written
+21
+22
+statement showing the name of the payer, the name of the payee and
+22
+23
+the payee’s Social Security account number, if any, the total amount
+23
+24
+paid subject to taxation, and the total amount deducted and withheld
+24
+Req. No. 1408 Page 8
+
+1
+as tax and such other information as the Tax Commission may require.
+1
+2
+Any payer who fails to withhold or pay to the Tax Commission any
+2
+3
+sums herein required to be withheld or paid shall be personally and
+3
+4
+individually liable therefor to the State of Oklahoma.
+4
+5
+E. Corporations. For all taxable years beginning after
+5
+6
+December 31, 2021 tax years 2022 through 2024, a tax is hereby
+6
+7
+imposed upon the Oklahoma taxable income of every corporation doing
+7
+8
+business within this state or deriving income from sources within
+8
+9
+this state in an amount equal to four percent (4%) thereof. For tax
+9
+10
+year 2025 and subsequent tax years, there shall be no income tax
+10
+11
+imposed upon the Oklahoma taxable income of every corporation doing
+11
+12
+business within this state or deriving income from sources within
+12
+13
+this state.
+13
+14
+There shall be no additional Oklahoma income tax imposed on
+14
+15
+accumulated taxable income or on undistributed personal holding
+15
+16
+company income as those terms are defined in the Internal Revenue
+16
+17
+Code of 1986, as amended.
+17
+18
+F. Certain foreign corporations. In lieu of the tax imposed in
+18
+19
+the first paragraph of subsection D of this section, for all taxable
+19
+20
+years beginning after December 31, 2021, there shall be imposed on
+20
+21
+foreign corporations, as defined in the Internal Revenue Code of
+21
+22
+1986, as amended, a tax of four percent (4%) instead of thirty
+22
+23
+percent (30%) as used in the Internal Revenue Code of 1986, as
+23
+24
+amended, where such income is received from sources within Oklahoma
+24
+Req. No. 1408 Page 9
+
+1
+this state, in accordance with the provisions of the Internal
+1
+2
+Revenue Code of 1986, as amended, and the Oklahoma Income Tax Act.
+2
+3
+Every payer of amounts covered by this subsection shall deduct
+3
+4
+and withhold from such amounts paid each payee an amount equal to
+4
+5
+four percent (4%) thereof. Every payer required to deduct and
+5
+6
+withhold taxes under this subsection shall for each quarterly period
+6
+7
+on or before the last day of the month following the close of each
+7
+8
+such quarterly period, pay over the amount so withheld as taxes to
+8
+9
+the Tax Commission, and shall file a return with each such payment.
+9
+10
+Such return shall be in such form as the Tax Commission shall
+10
+11
+prescribe. Every payer required under this subsection to deduct and
+11
+12
+withhold a tax from a payee shall, as to the total amounts paid to
+12
+13
+each payee during the calendar year, furnish to such payee, on or
+13
+14
+before January 31, of the succeeding year, a written statement
+14
+15
+showing the name of the payer, the name of the payee and the payee’s
+15
+16
+Social Security account number, if any, the total amounts paid
+16
+17
+subject to taxation, the total amount deducted and withheld as tax,
+17
+18
+and such other information as the Tax Commission may require. Any
+18
+19
+payer who fails to withhold or pay to the Tax Commission any sums
+19
+20
+herein required to be withheld or paid shall be personally and
+20
+21
+individually liable therefor to the State of Oklahoma.
+21
+22
+G. Fiduciaries. A tax is hereby imposed upon the Oklahoma
+22
+23
+taxable income of every trust and estate at the same rates as are
+23
+24
+provided in subsection B or C of this section for single
+24
+Req. No. 1408 Page 10
+
+1
+individuals. Fiduciaries are not allowed a deduction for any
+1
+2
+federal income tax paid.
+2
+3
+H. Tax rate tables. For all taxable years beginning after
+3
+4
+December 31, 1991, in lieu of the tax imposed by subsection A, B or
+4
+5
+C of this section, as applicable there is hereby imposed for each
+5
+6
+taxable year on the taxable income of every individual, whose
+6
+7
+taxable income for such taxable year does not exceed the ceiling
+7
+8
+amount, a tax determined under tables, applicable to such taxable
+8
+9
+year which shall be prescribed by the Tax Commission and which shall
+9
+10
+be in such form as it determines appropriate. In the table so
+10
+11
+prescribed, the amounts of the tax shall be computed on the basis of
+11
+12
+the rates prescribed by subsection A, B or C of this section. For
+12
+13
+purposes of this subsection, the term “ceiling amount” means, with
+13
+14
+respect to any taxpayer, the amount determined by the Tax Commission
+14
+15
+for the tax rate category in which such taxpayer falls.
+15
+16
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 2370, is
+16
+17
+amended to read as follows:
+17
+18
+Section 2370. A. For taxable years beginning after December
+18
+19
+31, 2021 tax years 2022 through 2024, for the privilege of doing
+19
+20
+business within this state, every state banking association,
+20
+21
+national banking association and credit union organized under the
+21
+22
+laws of this state, located or doing business within the limits of
+22
+23
+the State of Oklahoma this state shall annually pay to this state a
+23
+24
+24
+Req. No. 1408 Page 11
+
+1
+privilege tax at the rate of four percent (4%) of the amount of the
+1
+2
+taxable income as provided in this section.
+2
+3
+B. 1. The privilege tax levied by this section shall be in
+3
+4
+addition to the Business Activity Tax levied in Section 1218 of this
+4
+5
+title and the franchise tax levied in Article 12 of this title and
+5
+6
+in lieu of the tax levied by Section 2355 of this title and in lieu
+6
+7
+of all taxes levied by the State of Oklahoma this state, or any
+7
+8
+subdivision thereof, upon the shares of stock or personal property
+8
+9
+of any banking association or credit union subject to taxation under
+9
+10
+this section.
+10
+11
+2. Nothing in this section shall be construed to exempt the
+11
+12
+real property of any banking associations or credit unions from
+12
+13
+taxation to the same extent, according to its value, as other real
+13
+14
+property is taxed. Nothing herein shall be construed to exempt an
+14
+15
+association from payment of any fee or tax authorized or levied
+15
+16
+pursuant to the banking laws.
+16
+17
+3. Personal property which is subject to a lease agreement
+17
+18
+between a bank or credit union, as lessor, and a nonbanking business
+18
+19
+entity or individual, as lessee, is not exempt from personal
+19
+20
+property ad valorem taxation. Provided further, that it shall be
+20
+21
+the duty of the lessee of such personal property to return sworn
+21
+22
+lists or schedules of their taxable property within each county to
+22
+23
+the county assessor of such county as provided in Sections 2433 and
+23
+24
+2434 of this title.
+24
+Req. No. 1408 Page 12
+
+1
+C. Any tax levied under this section shall accrue on the last
+1
+2
+day of the taxable year and be payable as provided in Section 2375
+2
+3
+of this title. The accrual of such tax for the first taxable year
+3
+4
+to which this act the Oklahoma Income Tax Act applies, shall apply
+4
+5
+notwithstanding the prior accrual of a tax in the same taxable year
+5
+6
+based upon the net income of the next preceding taxable year;
+6
+7
+provided, however, any additional deduction enuring to the benefit
+7
+8
+of the taxpayer shall be deducted in accordance with the optional
+8
+9
+transitional deduction procedures in Section 2354 of this title.
+9
+10
+D. The basis of the tax shall be United States taxable income
+10
+11
+as defined in paragraph 10 of Section 2353 of this title and any
+11
+12
+adjustments thereto under the provisions of Section 2358 of this
+12
+13
+title with the following adjustments:
+13
+14
+1. There shall be deducted all interest income on obligations
+14
+15
+of the United States government and agencies thereof not otherwise
+15
+16
+exempted and all interest income on obligations of the State of
+16
+17
+Oklahoma this state or political subdivisions thereof, including
+17
+18
+public trust authorities, not otherwise exempted under the laws of
+18
+19
+this state; and
+19
+20
+2. Expense deductions claimed in arriving at taxable income
+20
+21
+under paragraph 10 of Section 2353 of this title shall be reduced by
+21
+22
+an amount equal to fifty percent (50%) of excluded interest income
+22
+23
+on obligations of the United States government or agencies thereof
+23
+24
+24
+Req. No. 1408 Page 13
+
+1
+and obligations of the State of Oklahoma this state or political
+1
+2
+subdivisions thereof.
+2
+3
+E. 1. Except as otherwise provided in paragraph 2 of this
+3
+4
+subsection, before January 1, 2017, there shall be allowed a credit
+4
+5
+against the tax levied in subsection A of this section in an amount
+5
+6
+equal to the amount of taxable income received by a participating
+6
+7
+financial institution as defined in Section 90.2 of Title 62 of the
+7
+8
+Oklahoma Statutes pursuant to a loan made under the Rural Economic
+8
+9
+Development Loan Act. Such credit shall be limited each year to
+9
+10
+five percent (5%) of the amount of annual payroll certified by the
+10
+11
+Oklahoma Rural Economic Development Loan Program Review Board
+11
+12
+pursuant to the provisions of paragraph 3 of subsection B of Section
+12
+13
+90.4 of Title 62 of the Oklahoma Statutes with respect to the loan
+13
+14
+made by the participating financial institution and may be claimed
+14
+15
+for any number of years necessary until the amount of total credits
+15
+16
+claimed is equal to the total amount of taxable income received by
+16
+17
+the participating financial institution pursuant to the loan. Any
+17
+18
+credit allowed but not used in a taxable year may be carried forward
+18
+19
+for a period not to exceed five (5) taxable years. In no event
+19
+20
+shall a credit allowed pursuant to the provisions of this subsection
+20
+21
+be transferable or refundable.
+21
+22
+2. No credit otherwise authorized by the provisions of this
+22
+23
+subsection may be claimed for any event, transaction, investment,
+23
+24
+expenditure or other act occurring on or after July 1, 2010, for
+24
+Req. No. 1408 Page 14
+
+1
+which the credit would otherwise be allowable. The provisions of
+1
+2
+this paragraph shall cease to be operative on July 1, 2012.
+2
+3
+Beginning July 1, 2012, the credit authorized by this subsection may
+3
+4
+be claimed for any event, transaction, investment, expenditure or
+4
+5
+other act occurring on or after July 1, 2012, according to the
+5
+6
+provisions of this subsection.
+6
+7
+SECTION 3. This act shall become effective November 1, 2025.
+7
+8
+8
+9
+60-1-1408 QD 12/31/2024 12:15:39 PM
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1408 Page 15
+
+[DELETED:  P B D]
+[DELETED:  P S 1 1 2 3 4 5 6 ( f f f M]
+[DELETED:  P 1 1 2 3 4 5 6 ( f f f S 1 1 2 3]
+[DELETED:  P 4 5 6 7 8 9 1 M 1 1 2 3 4 5 6 7 8 9]
+[DELETED:  P 1 1 1 2 3 4 5 5 5]
+[DELETED:  P 1 1 2 3 4 5 5 5]
+[DELETED:  P 0 0 1 2 3 4 0 0 1 2 3 4]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P Q 1]

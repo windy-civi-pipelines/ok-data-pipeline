@@ -1,0 +1,1113 @@
+Title: SENATE BILL 679 By: Deevers
+Official Title: SENATE BILL 679 By: Deevers
+Number of Sections: 33
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to ad valorem taxation; creating the
+7
+Property Tax Transparency Act; providing short title;
+8
+stating purpose; defining terms; prescribing annual
+8
+assessment statement; prescribing information
+9
+included on property tax bill; requiring certain
+9
+entities to provide certain report; requiring the
+10
+mailing of bill; authorizing property owners to
+10
+access certain information; authorizing protest of
+11
+valuation; requiring assessors to maintain online
+11
+platform; requiring annual audit; requiring the State
+12
+Auditor and Inspector to enforce the provisions of
+12
+act; providing fine for certain violation; allocating
+13
+fine collections; providing for misdemeanor for
+13
+certain violation; requiring State Auditor and
+14
+Inspector to prepare annual report; providing for
+14
+noncodification; providing for codification;
+15
+providing an effective date; and declaring an
+15
+emergency.
+16
+16
+17
+17
+18
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18
+19
+
+Section 2:
+SECTION 1. NEW LAW A new section of law not to be
+19
+20
+codified in the Oklahoma Statutes reads as follows:
+20
+21
+This act shall be known and may be cited as the “Property Tax
+21
+22
+Transparency Act”.
+22
+23
+
+Section 3:
+SECTION 2. NEW LAW A new section of law not to be
+23
+24
+codified in the Oklahoma Statutes reads as follows:
+24
+Req. No. 1354 Page 1
+1
+The purpose of this act is to ensure full transparency in
+1
+2
+property tax assessments and billing by mandating detailed reporting
+2
+3
+of:
+3
+4
+
+Section 4:
+1. Fair cash value with the methodology used for determination;
+4
+5
+
+Section 5:
+2. Assessment ratios;
+5
+6
+
+Section 6:
+3. Exemptions;
+6
+7
+
+Section 7:
+4. Property taxes; and
+7
+8
+
+Section 8:
+5. A breakdown of how property tax revenues are allocated and
+8
+9
+spent.
+9
+10
+The act further requires that a copy of the property tax bill is
+10
+11
+sent directly to property owners, even if the property is in escrow
+11
+12
+and the bank is responsible for payment.
+12
+13
+
+Section 9:
+SECTION 3. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 2802.3 of Title 68, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+A. As used in this act:
+16
+17
+
+Section 10:
+1. “Fair cash value” means the estimated market value of a
+17
+18
+property as determined by the county tax assessor using standardized
+18
+19
+methodologies pursuant to Section 2817 of Title 68 of the Oklahoma
+19
+20
+Statutes;
+20
+21
+
+Section 11:
+2. “Assessment ratio” means the percentage of the fair cash
+21
+22
+value that is subject to taxation, as established by state law or
+22
+23
+local regulations pursuant to Section 8 of Article X of the Oklahoma
+23
+24
+Constitution;
+24
+Req. No. 1354 Page 2
+1
+
+Section 12:
+3. “Exemptions” means reductions in taxable value granted based
+1
+2
+on eligibility criteria including, but not limited to, age, income,
+2
+3
+and property use;
+3
+4
+
+Section 13:
+4. “Property tax bill” means a document detailing the property
+4
+5
+taxes owed, including how the total was calculated, and sent to the
+5
+6
+property owner; and
+6
+7
+
+Section 14:
+5. “Escrow” means a financial arrangement where a third party
+7
+8
+holds funds on behalf of property owners to pay property taxes and
+8
+9
+other obligations.
+9
+10
+B. County tax assessors shall include in the annual assessment
+10
+11
+statement:
+11
+12
+
+Section 15:
+1. The fair cash value of the property; and
+12
+13
+
+Section 16:
+2. A detailed explanation of the methodology used to determine
+13
+14
+the fair cash value, including:
+14
+15
+a. comparable sales data, including addresses and sale
+15
+16
+prices of similar properties,
+16
+17
+b. adjustments made for property-specific factors such as
+17
+18
+size, age, condition, and location, and
+18
+19
+c. any other considerations affecting valuation, such as
+19
+20
+zoning changes, recent improvements, or market trends.
+20
+21
+C. The assessment ratio applied to calculate the taxable value
+21
+22
+of the property shall be clearly stated, along with a citation to
+22
+23
+the legal authority setting the ratio.
+23
+24
+24
+Req. No. 1354 Page 3
+1
+D. A detailed list of all exemptions or abatements applied must
+1
+2
+be provided, including:
+2
+3
+a. the type of exemption,
+3
+4
+b. the dollar value of each exemption, and
+4
+5
+c. the basis or criteria for eligibility.
+5
+6
+E. The total property taxes owed shall be calculated and
+6
+7
+presented, with a clear breakdown showing:
+7
+8
+
+Section 17:
+1. The taxable value of the property after applying the
+8
+9
+assessment ratio and exemptions;
+9
+10
+
+Section 18:
+2. The tax rates for each taxing entity including, but not
+10
+11
+limited to, schools, municipalities, special districts; and
+11
+12
+
+Section 19:
+3. The dollar amount allocated to each taxing entity.
+12
+13
+F. Each property tax bill shall include a breakdown of how the
+13
+14
+tax contributions of the owner are spent, expressed as a percentage
+14
+15
+of the total taxes collected. The breakdown shall include
+15
+16
+categories such as:
+16
+17
+
+Section 20:
+1. Public education;
+17
+18
+
+Section 21:
+2. Public safety, including, but not limited to, police
+18
+19
+departments, fire departments, and emergency services;
+19
+20
+
+Section 22:
+3. Infrastructure and transportation;
+20
+21
+
+Section 23:
+4. Administrative and operational costs;
+21
+22
+
+Section 24:
+5. Debt servicing; and
+22
+23
+
+Section 25:
+6. Any other significant expenditure categories specific to the
+23
+24
+taxing entities.
+24
+Req. No. 1354 Page 4
+1
+G. Taxing entities receiving property tax revenues shall
+1
+2
+provide detailed annual expenditure reports to the county tax
+2
+3
+assessor, ensuring accurate and up-to-date allocation data for
+3
+4
+inclusion in property tax bills.
+4
+5
+H. A copy of the property tax bill shall be sent directly to
+5
+6
+the mailing address of the property owner, regardless of whether the
+6
+7
+property is in escrow or the bank is responsible for payment with
+7
+8
+designation if the property tax is paid via escrow or not. If a
+8
+9
+property tax bill is sent to an escrow holder, it shall include a
+9
+10
+statement that a copy of the bill has also been sent to the property
+10
+11
+owner.
+11
+12
+I. Property owners shall have the right to access and review
+12
+13
+all records and data used in determining the fair cash value of
+13
+14
+their property.
+14
+15
+J. Property owners may formally contest the fair cash value of
+15
+16
+their property by requesting a review, during which the county tax
+16
+17
+assessor must provide justification and supporting documentation for
+17
+18
+the valuation.
+18
+19
+K. County tax assessors shall maintain an online platform where
+19
+20
+property owners can access their assessment, fair cash value
+20
+21
+determination, assessment ratio, exemptions, and tax liability. The
+21
+22
+platform shall include a searchable database allowing property
+22
+23
+owners to locate detailed information about their property and
+23
+24
+download relevant reports.
+24
+Req. No. 1354 Page 5
+1
+L. Independent third-party audits shall be conducted annually
+1
+2
+to verify the accuracy and fairness of property tax assessments and
+2
+3
+billing processes. Audit findings must be published on the online
+3
+4
+platform of the county within thirty (30) days of completion.
+4
+5
+M. The enforcement of this act shall be the responsibility of
+5
+6
+the State Auditor and Inspector, in collaboration with the relevant
+6
+7
+county authorities. The State Auditor and Inspector shall oversee
+7
+8
+compliance with the reporting and transparency requirements. County
+8
+9
+governments shall assist by identifying and reporting violations at
+9
+10
+the local level.
+10
+11
+N. Failure to provide a copy of the property tax bill to
+11
+12
+property owners shall result in a fine not to exceed One Thousand
+12
+13
+Dollars ($1,000.00) per violation. Fines shall be collected by the
+13
+14
+State Treasurer and shall be allocated as follows:
+14
+15
+
+Section 26:
+1. Fifty percent (50%) to the State Auditor and Inspector;
+15
+16
+
+Section 27:
+2. Twenty-five percent (25%) to the county fund of the county
+16
+17
+where the violation occurred; and
+17
+18
+
+Section 28:
+3. Twenty-five percent (25%) to the municipality where the
+18
+19
+violation occurred. If the violation did not occur in a
+19
+20
+municipality, then the portion provided by this paragraph shall be
+20
+21
+allocated to the county fund of the county where the violation
+21
+22
+occurred.
+22
+23
+O. Knowingly providing inaccurate information in property
+23
+24
+assessments, tax bills, or expenditure breakdowns shall be treated
+24
+Req. No. 1354 Page 6
+1
+as a misdemeanor punishable under applicable state laws. Fines for
+1
+2
+false or misleading reporting shall be collected by the State
+2
+3
+Treasurer and distributed using the same allocation percentages
+3
+4
+provided in subsection N of this section.
+4
+5
+P. The State Auditor and Inspector shall prepare an annual
+5
+6
+report detailing:
+6
+7
+
+Section 29:
+1. The number and nature of violations;
+7
+8
+
+Section 30:
+2. Total fines collected and their allocation; and
+8
+9
+
+Section 31:
+3. Recommendations for improving enforcement and compliance
+9
+10
+with this act.
+10
+11
+
+Section 32:
+SECTION 4. This act shall become effective July 1, 2025.
+11
+12
+
+Section 33:
+SECTION 5. It being immediately necessary for the preservation
+12
+13
+of the public peace, health or safety, an emergency is hereby
+13
+14
+declared to exist, by reason whereof this act shall take effect and
+14
+15
+be in full force from and after its passage and approval.
+15
+16
+16
+17
+60-1-1354 QD 1/19/2025 5:41:13 AM
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1354 Page 7
+[DELETED:  P B D]
+[DELETED:  P]
+[DELETED:  P c a a]
+[DELETED:  P t t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 679 By: Deevers
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to ad valorem taxation; creating the
+7
+Property Tax Transparency Act; providing short title;
+8
+stating purpose; defining terms; prescribing annual
+8
+assessment statement; prescribing information
+9
+included on property tax bill; requiring certain
+9
+entities to provide certain report; requiring the
+10
+mailing of bill; authorizing property owners to
+10
+access certain information; authorizing protest of
+11
+valuation; requiring assessors to maintain online
+11
+platform; requiring annual audit; requiring the State
+12
+Auditor and Inspector to enforce the provisions of
+12
+act; providing fine for certain violation; allocating
+13
+fine collections; providing for misdemeanor for
+13
+certain violation; requiring State Auditor and
+14
+Inspector to prepare annual report; providing for
+14
+noncodification; providing for codification;
+15
+providing an effective date; and declaring an
+15
+emergency.
+16
+16
+17
+17
+18
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18
+19
+SECTION 1. NEW LAW A new section of law not to be
+19
+20
+codified in the Oklahoma Statutes reads as follows:
+20
+21
+This act shall be known and may be cited as the “Property Tax
+21
+22
+Transparency Act”.
+22
+23
+SECTION 2. NEW LAW A new section of law not to be
+23
+24
+codified in the Oklahoma Statutes reads as follows:
+24
+Req. No. 1354 Page 1
+
+1
+The purpose of this act is to ensure full transparency in
+1
+2
+property tax assessments and billing by mandating detailed reporting
+2
+3
+of:
+3
+4
+1. Fair cash value with the methodology used for determination;
+4
+5
+2. Assessment ratios;
+5
+6
+3. Exemptions;
+6
+7
+4. Property taxes; and
+7
+8
+5. A breakdown of how property tax revenues are allocated and
+8
+9
+spent.
+9
+10
+The act further requires that a copy of the property tax bill is
+10
+11
+sent directly to property owners, even if the property is in escrow
+11
+12
+and the bank is responsible for payment.
+12
+13
+SECTION 3. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 2802.3 of Title 68, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+A. As used in this act:
+16
+17
+1. “Fair cash value” means the estimated market value of a
+17
+18
+property as determined by the county tax assessor using standardized
+18
+19
+methodologies pursuant to Section 2817 of Title 68 of the Oklahoma
+19
+20
+Statutes;
+20
+21
+2. “Assessment ratio” means the percentage of the fair cash
+21
+22
+value that is subject to taxation, as established by state law or
+22
+23
+local regulations pursuant to Section 8 of Article X of the Oklahoma
+23
+24
+Constitution;
+24
+Req. No. 1354 Page 2
+
+1
+3. “Exemptions” means reductions in taxable value granted based
+1
+2
+on eligibility criteria including, but not limited to, age, income,
+2
+3
+and property use;
+3
+4
+4. “Property tax bill” means a document detailing the property
+4
+5
+taxes owed, including how the total was calculated, and sent to the
+5
+6
+property owner; and
+6
+7
+5. “Escrow” means a financial arrangement where a third party
+7
+8
+holds funds on behalf of property owners to pay property taxes and
+8
+9
+other obligations.
+9
+10
+B. County tax assessors shall include in the annual assessment
+10
+11
+statement:
+11
+12
+1. The fair cash value of the property; and
+12
+13
+2. A detailed explanation of the methodology used to determine
+13
+14
+the fair cash value, including:
+14
+15
+a. comparable sales data, including addresses and sale
+15
+16
+prices of similar properties,
+16
+17
+b. adjustments made for property-specific factors such as
+17
+18
+size, age, condition, and location, and
+18
+19
+c. any other considerations affecting valuation, such as
+19
+20
+zoning changes, recent improvements, or market trends.
+20
+21
+C. The assessment ratio applied to calculate the taxable value
+21
+22
+of the property shall be clearly stated, along with a citation to
+22
+23
+the legal authority setting the ratio.
+23
+24
+24
+Req. No. 1354 Page 3
+
+1
+D. A detailed list of all exemptions or abatements applied must
+1
+2
+be provided, including:
+2
+3
+a. the type of exemption,
+3
+4
+b. the dollar value of each exemption, and
+4
+5
+c. the basis or criteria for eligibility.
+5
+6
+E. The total property taxes owed shall be calculated and
+6
+7
+presented, with a clear breakdown showing:
+7
+8
+1. The taxable value of the property after applying the
+8
+9
+assessment ratio and exemptions;
+9
+10
+2. The tax rates for each taxing entity including, but not
+10
+11
+limited to, schools, municipalities, special districts; and
+11
+12
+3. The dollar amount allocated to each taxing entity.
+12
+13
+F. Each property tax bill shall include a breakdown of how the
+13
+14
+tax contributions of the owner are spent, expressed as a percentage
+14
+15
+of the total taxes collected. The breakdown shall include
+15
+16
+categories such as:
+16
+17
+1. Public education;
+17
+18
+2. Public safety, including, but not limited to, police
+18
+19
+departments, fire departments, and emergency services;
+19
+20
+3. Infrastructure and transportation;
+20
+21
+4. Administrative and operational costs;
+21
+22
+5. Debt servicing; and
+22
+23
+6. Any other significant expenditure categories specific to the
+23
+24
+taxing entities.
+24
+Req. No. 1354 Page 4
+
+1
+G. Taxing entities receiving property tax revenues shall
+1
+2
+provide detailed annual expenditure reports to the county tax
+2
+3
+assessor, ensuring accurate and up-to-date allocation data for
+3
+4
+inclusion in property tax bills.
+4
+5
+H. A copy of the property tax bill shall be sent directly to
+5
+6
+the mailing address of the property owner, regardless of whether the
+6
+7
+property is in escrow or the bank is responsible for payment with
+7
+8
+designation if the property tax is paid via escrow or not. If a
+8
+9
+property tax bill is sent to an escrow holder, it shall include a
+9
+10
+statement that a copy of the bill has also been sent to the property
+10
+11
+owner.
+11
+12
+I. Property owners shall have the right to access and review
+12
+13
+all records and data used in determining the fair cash value of
+13
+14
+their property.
+14
+15
+J. Property owners may formally contest the fair cash value of
+15
+16
+their property by requesting a review, during which the county tax
+16
+17
+assessor must provide justification and supporting documentation for
+17
+18
+the valuation.
+18
+19
+K. County tax assessors shall maintain an online platform where
+19
+20
+property owners can access their assessment, fair cash value
+20
+21
+determination, assessment ratio, exemptions, and tax liability. The
+21
+22
+platform shall include a searchable database allowing property
+22
+23
+owners to locate detailed information about their property and
+23
+24
+download relevant reports.
+24
+Req. No. 1354 Page 5
+
+1
+L. Independent third-party audits shall be conducted annually
+1
+2
+to verify the accuracy and fairness of property tax assessments and
+2
+3
+billing processes. Audit findings must be published on the online
+3
+4
+platform of the county within thirty (30) days of completion.
+4
+5
+M. The enforcement of this act shall be the responsibility of
+5
+6
+the State Auditor and Inspector, in collaboration with the relevant
+6
+7
+county authorities. The State Auditor and Inspector shall oversee
+7
+8
+compliance with the reporting and transparency requirements. County
+8
+9
+governments shall assist by identifying and reporting violations at
+9
+10
+the local level.
+10
+11
+N. Failure to provide a copy of the property tax bill to
+11
+12
+property owners shall result in a fine not to exceed One Thousand
+12
+13
+Dollars ($1,000.00) per violation. Fines shall be collected by the
+13
+14
+State Treasurer and shall be allocated as follows:
+14
+15
+1. Fifty percent (50%) to the State Auditor and Inspector;
+15
+16
+2. Twenty-five percent (25%) to the county fund of the county
+16
+17
+where the violation occurred; and
+17
+18
+3. Twenty-five percent (25%) to the municipality where the
+18
+19
+violation occurred. If the violation did not occur in a
+19
+20
+municipality, then the portion provided by this paragraph shall be
+20
+21
+allocated to the county fund of the county where the violation
+21
+22
+occurred.
+22
+23
+O. Knowingly providing inaccurate information in property
+23
+24
+assessments, tax bills, or expenditure breakdowns shall be treated
+24
+Req. No. 1354 Page 6
+
+1
+as a misdemeanor punishable under applicable state laws. Fines for
+1
+2
+false or misleading reporting shall be collected by the State
+2
+3
+Treasurer and distributed using the same allocation percentages
+3
+4
+provided in subsection N of this section.
+4
+5
+P. The State Auditor and Inspector shall prepare an annual
+5
+6
+report detailing:
+6
+7
+1. The number and nature of violations;
+7
+8
+2. Total fines collected and their allocation; and
+8
+9
+3. Recommendations for improving enforcement and compliance
+9
+10
+with this act.
+10
+11
+SECTION 4. This act shall become effective July 1, 2025.
+11
+12
+SECTION 5. It being immediately necessary for the preservation
+12
+13
+of the public peace, health or safety, an emergency is hereby
+13
+14
+declared to exist, by reason whereof this act shall take effect and
+14
+15
+be in full force from and after its passage and approval.
+15
+16
+16
+17
+60-1-1354 QD 1/19/2025 5:41:13 AM
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1354 Page 7
+
+[DELETED:  P B D]
+[DELETED:  P]
+[DELETED:  P c a a]
+[DELETED:  P t t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P Q 1]
