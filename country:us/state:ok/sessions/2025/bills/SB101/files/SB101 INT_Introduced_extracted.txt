@@ -1,0 +1,471 @@
+Title: SENATE BILL 101 By: Boren
+Official Title: SENATE BILL 101 By: Boren
+Number of Sections: 13
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to income tax; defining terms;
+7
+providing credit for certain housing expenses;
+8
+stipulating credit amount; limiting credits claimed
+8
+for each residence; making credit refundable;
+9
+providing for codification; and providing an
+9
+effective date.
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 2357.901 of Title 68, unless
+14
+15
+there is created a duplication in numbering, reads as follows:
+15
+16
+A. As used in this section:
+16
+17
+
+Section 3:
+1. “State median income” means the amount determined by the
+17
+18
+United States Department of Housing and Urban Development to be the
+18
+19
+estimated median income of this state for the year preceding the
+19
+20
+corresponding tax year; and
+20
+21
+
+Section 4:
+2. “Taxpayer” means an individual taxpayer or married taxpayers
+21
+22
+filing jointly that are residents of this state.
+22
+23
+B. For tax year 2026 and subsequent tax years, there shall be
+23
+24
+allowed a credit against the tax imposed by Section 2355 of Title 68
+24
+Req. No. 1122 Page 1
+1
+of the Oklahoma Statutes equal to the rent paid or the mortgage
+1
+2
+principal and interest paid on the primary residence, located within
+2
+3
+this state, of an individual taxpayer whose gross household income
+3
+4
+does not exceed the limits provided in paragraphs 7 and 8 of
+4
+5
+subsection C of this section.
+5
+6
+C. The credit allowed pursuant to this section shall not exceed
+6
+7
+the following amounts:
+7
+8
+
+Section 5:
+1. Seven Thousand Dollars ($7,000.00) for a taxpayer claiming
+8
+9
+two or more dependents whose gross household income from all sources
+9
+10
+does not exceed twenty percent (20%) of the state median income;
+10
+11
+
+Section 6:
+2. Seven Thousand Dollars ($7,000.00) for a taxpayer claiming
+11
+12
+less than two dependents whose gross household income from all
+12
+13
+sources does not exceed ten percent (10%) of the state median
+13
+14
+income;
+14
+15
+
+Section 7:
+3. Five Thousand Dollars ($5,000.00) for a taxpayer claiming
+15
+16
+two or more dependents whose gross household income from all sources
+16
+17
+does not exceed forty percent (40%) of the state median income;
+17
+18
+
+Section 8:
+4. Five Thousand Dollars ($5,000.00) for a taxpayer claiming
+18
+19
+less than two dependents whose gross household income from all
+19
+20
+sources does not exceed twenty percent (20%) of the state median
+20
+21
+income;
+21
+22
+
+Section 9:
+5. Three Thousand Dollars ($3,000.00) for a taxpayer claiming
+22
+23
+two or more dependents whose gross household income from all sources
+23
+24
+does not exceed sixty percent (60%) of the state median income;
+24
+Req. No. 1122 Page 2
+1
+
+Section 10:
+6. Three Thousand Dollars ($3,000.00) for a taxpayer claiming
+1
+2
+less than two dependents whose gross household income from all
+2
+3
+sources does not exceed forty percent (40%) of the state median
+3
+4
+income;
+4
+5
+
+Section 11:
+7. One Thousand Dollars ($1,000.00) for a taxpayer claiming two
+5
+6
+or more dependents whose gross household income from all sources
+6
+7
+does not exceed eighty percent (80%) of the state median income; and
+7
+8
+
+Section 12:
+8. One Thousand Dollars ($1,000.00) for a taxpayer claiming
+8
+9
+less than two dependents whose gross household income from all
+9
+10
+sources does not exceed sixty percent (60%) of the state median
+10
+11
+income.
+11
+12
+D. No more than one credit shall be claimed per residence in
+12
+13
+any tax year.
+13
+14
+E. If the credit exceeds the tax imposed by Section 2355 of
+14
+15
+Title 68 of the Oklahoma Statutes, the excess amount shall be
+15
+16
+refunded to the taxpayer.
+16
+17
+
+Section 13:
+SECTION 2. This act shall become effective November 1, 2025.
+17
+18
+18
+19
+60-1-1122 QD 12/20/2024 6:54:28 PM
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1122 Page 3
+[DELETED:  P B B]
+[DELETED:  P]
+[DELETED:  P Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 101 By: Boren
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to income tax; defining terms;
+7
+providing credit for certain housing expenses;
+8
+stipulating credit amount; limiting credits claimed
+8
+for each residence; making credit refundable;
+9
+providing for codification; and providing an
+9
+effective date.
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+SECTION 1. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 2357.901 of Title 68, unless
+14
+15
+there is created a duplication in numbering, reads as follows:
+15
+16
+A. As used in this section:
+16
+17
+1. “State median income” means the amount determined by the
+17
+18
+United States Department of Housing and Urban Development to be the
+18
+19
+estimated median income of this state for the year preceding the
+19
+20
+corresponding tax year; and
+20
+21
+2. “Taxpayer” means an individual taxpayer or married taxpayers
+21
+22
+filing jointly that are residents of this state.
+22
+23
+B. For tax year 2026 and subsequent tax years, there shall be
+23
+24
+allowed a credit against the tax imposed by Section 2355 of Title 68
+24
+Req. No. 1122 Page 1
+
+1
+of the Oklahoma Statutes equal to the rent paid or the mortgage
+1
+2
+principal and interest paid on the primary residence, located within
+2
+3
+this state, of an individual taxpayer whose gross household income
+3
+4
+does not exceed the limits provided in paragraphs 7 and 8 of
+4
+5
+subsection C of this section.
+5
+6
+C. The credit allowed pursuant to this section shall not exceed
+6
+7
+the following amounts:
+7
+8
+1. Seven Thousand Dollars ($7,000.00) for a taxpayer claiming
+8
+9
+two or more dependents whose gross household income from all sources
+9
+10
+does not exceed twenty percent (20%) of the state median income;
+10
+11
+2. Seven Thousand Dollars ($7,000.00) for a taxpayer claiming
+11
+12
+less than two dependents whose gross household income from all
+12
+13
+sources does not exceed ten percent (10%) of the state median
+13
+14
+income;
+14
+15
+3. Five Thousand Dollars ($5,000.00) for a taxpayer claiming
+15
+16
+two or more dependents whose gross household income from all sources
+16
+17
+does not exceed forty percent (40%) of the state median income;
+17
+18
+4. Five Thousand Dollars ($5,000.00) for a taxpayer claiming
+18
+19
+less than two dependents whose gross household income from all
+19
+20
+sources does not exceed twenty percent (20%) of the state median
+20
+21
+income;
+21
+22
+5. Three Thousand Dollars ($3,000.00) for a taxpayer claiming
+22
+23
+two or more dependents whose gross household income from all sources
+23
+24
+does not exceed sixty percent (60%) of the state median income;
+24
+Req. No. 1122 Page 2
+
+1
+6. Three Thousand Dollars ($3,000.00) for a taxpayer claiming
+1
+2
+less than two dependents whose gross household income from all
+2
+3
+sources does not exceed forty percent (40%) of the state median
+3
+4
+income;
+4
+5
+7. One Thousand Dollars ($1,000.00) for a taxpayer claiming two
+5
+6
+or more dependents whose gross household income from all sources
+6
+7
+does not exceed eighty percent (80%) of the state median income; and
+7
+8
+8. One Thousand Dollars ($1,000.00) for a taxpayer claiming
+8
+9
+less than two dependents whose gross household income from all
+9
+10
+sources does not exceed sixty percent (60%) of the state median
+10
+11
+income.
+11
+12
+D. No more than one credit shall be claimed per residence in
+12
+13
+any tax year.
+13
+14
+E. If the credit exceeds the tax imposed by Section 2355 of
+14
+15
+Title 68 of the Oklahoma Statutes, the excess amount shall be
+15
+16
+refunded to the taxpayer.
+16
+17
+SECTION 2. This act shall become effective November 1, 2025.
+17
+18
+18
+19
+60-1-1122 QD 12/20/2024 6:54:28 PM
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1122 Page 3
+
+[DELETED:  P B B]
+[DELETED:  P]
+[DELETED:  P Q 1]

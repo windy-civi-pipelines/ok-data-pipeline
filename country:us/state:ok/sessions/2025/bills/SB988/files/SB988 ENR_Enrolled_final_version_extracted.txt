@@ -1,0 +1,1440 @@
+Title: An Act
+Official Title: An Act
+Number of Sections: 40
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED SENATE
+BILL NO. 988 By: Reinhardt and Hall of the
+Senate
+and
+Pfeiffer of the House
+An Act relating to the Uniform Commercial Code;
+amending 12A O.S. 2021, Sections 1-9-320.2, 1-9-
+
+Section 2:
+320.3, 1-9-320.4, 1-9-320.6, as amended by Section 1,
+Chapter 109, O.S.L. 2022, and 1-9-525 (12A O.S. Supp.
+2024, Section 1-9-320.6), which relate to secured
+transactions; transferring certain authority from
+Secretary of State to Oklahoma County Clerk;
+directing Oklahoma County Clerk to take certain
+actions; modifying certain filing procedures;
+amending 28 O.S. 2021, Section 111, as amended by
+
+Section 3:
+Section 2, Chapter 109, O.S.L. 2022 (28 O.S. Supp.
+2024, Section 111), which relates to fees to be
+charged by Secretary of State; transferring certain
+fees from Secretary of State to Oklahoma County
+Clerk; updating statutory language; and providing a
+conditional effective date.
+SUBJECT: Uniform Commercial Code
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+Section 4:
+SECTION 1. AMENDATORY 12A O.S. 2021, Section 1-9-320.2,
+is amended to read as follows:
+
+Section 5:
+Section 1-9-320.2.
+DEFINITIONS; REQUISITES OF AN
+EFFECTIVE FINANCING STATEMENT
+As used in this section and Sections 1-9-320.1 through 1-9-320.7
+of this title:
+(a) “Buyer in the ordinary course of business” means a
+person who, in the ordinary course of business, buys
+farm products from a person engaged in farming
+operations who is in the business of selling farm
+products.
+(b) “Central filing system” means a system for filing
+effective financing statements on a statewide basis
+and which has been certified by the Secretary of the
+United States Department of Agriculture.
+(c) “Commission merchant” means any person engaged in the
+business of receiving any farm product for sale, on
+commission, or for or on behalf of another person.
+(d) “Effective financing statement” means a statement
+that:
+(i) is an original or reproduced form consistent with
+the provisions of this act and approved by the
+Secretary of State Oklahoma County Clerk;
+(ii) is signed and filed with the Secretary of State
+Oklahoma County Clerk by the secured party;
+(iii) is signed by the debtor;
+(iv) contains:
+(A) the name and address of the secured party,
+(B) the name and address of the person indebted
+to the secured party,
+(C) the social security number of the debtor or,
+in the case of a debtor doing business other
+than as an individual, the Internal Revenue
+Service taxpayer identification number of
+such debtor,
+ENR. S. B. NO. 988 Page 2
+(D) the farm product name,
+(E) each county in this state where the farm
+product is produced or to be produced or a
+blanket code covering all 77 Oklahoma
+counties,
+(F) a description of the farm products subject
+to the security interest only if needed to
+distinguish it from other such farm products
+owned by the same person or persons but not
+subject to the particular interest; and
+(G) the crop year, unless every crop of the farm
+product in question, for the duration of the
+effective financing statement, is to be
+subject to the particular security
+interest.;
+(v) (iv) must be amended in writing, within three
+(3) months, similarly signed and filed, to
+reflect material changes;
+(vi) (v) remains effective for a period of five (5)
+years from the date of filing, subject to
+extensions for additional periods of five (5)
+years each by refiling or filing a continuation
+statement within six (6) months before the
+expiration of the initial five-year period;
+(vii) (vi) is not removed from the public database but
+is not reported as an active files file when the
+statement lapses on the expiration of the
+effective period of the statement or when a
+termination statement from the secured party is
+accepted, whichever occurs first;
+(viii) (vii) is accompanied by the requisite filing fee
+provided for in Section 111 of Title 28 of the
+Oklahoma Statutes; and
+ENR. S. B. NO. 988 Page 3
+(ix) (viii) substantially complies with the
+requirements of this paragraph even though it
+contains minor errors that are not seriously
+misleading.; and
+(x) (ix) may reflect multiple products or products
+in multiple counties.
+(e) “Farm product” means an agricultural commodity such as
+wheat, corn, soybeans, or a species of livestock such
+as cattle, hogs, sheep, horses, or poultry used or
+produced in farming operations, or a product of such
+crop or livestock in its unmanufactured state (such as
+ginned cotton, wool-clip, maple syrup, milk, and
+eggs), that is in the possession of a person engaged
+in farming operations.
+(f) “Knows” or “knowledge” means actual knowledge.
+(g) “Person” means any individual, partnership,
+corporation, limited liability company, trust, or any
+other business entity.
+(h) “Security interest” means an interest in farm products
+that secures payment or performance of an obligation.
+(i) “Selling agent” means any person, other than a
+commission merchant, who is engaged in the business of
+negotiating the sale and purchase of any farm product
+on behalf of a person engaged in farming operations.
+(2) Unless otherwise provided for in this act, for purposes of
+this section and Sections 4 and 6 of this act, receipt of notice
+shall be presumed if notice is sent by first-class mail, postage
+prepaid.
+
+Section 6:
+SECTION 2. AMENDATORY 12A O.S. 2021, Section 1-9-320.3,
+is amended to read as follows:
+
+Section 7:
+Section 1-9-320.3.
+FORMS; DUTY OF SECRETARY OF STATE OKLAHOMA COUNTY CLERK
+ENR. S. B. NO. 988 Page 4
+The Secretary of State Oklahoma County Clerk shall develop and
+maintain a standard form for an effective financing statement and
+for a statement of continuation, partial release, amendment, or
+assignment thereof, which shall be consistent with the provisions of
+
+Section 8:
+Sections 1-9-320.1 through 1-9-320.7 of this title.
+
+Section 9:
+SECTION 3. AMENDATORY 12A O.S. 2021, Section 1-9-320.4,
+is amended to read as follows:
+
+Section 10:
+Section 1-9-320.4.
+PROTECTION OF BUYERS OF FARM PRODUCTS,
+COMMISSION MERCHANTS AND SELLING AGENTS
+A buyer of farm products, commission merchant, or selling agent
+who purchases or sells farm products in the ordinary course of
+business from or for a person engaged in farming operations takes
+subject to a security interest in the farm products if:
+(a) (i) the buyer of the farm products, commission merchant,
+or selling agent has failed to register with the
+Secretary of State Oklahoma County Clerk prior to the
+purchase of the farm products and the secured party
+has filed an effective financing statement that covers
+the farm products being sold; or
+(ii) the buyer of farm products, commission merchant or
+selling agent receives from the Secretary of State
+Oklahoma County Clerk written notice as provided in
+paragraph (d) or (f) of subsection (4) of Section 1-9-
+
+Section 11:
+320.6 of this title, and the buyer of farm products,
+commission merchant or selling agent does not secure a
+waiver or release of the security interest specified
+in an effective financing statement from the secured
+party by performing any payment obligation or
+otherwise; or
+(b) the secured party or the seller provides written notice of
+the security interest pursuant to the provisions of Section
+1-9-320.7 of this title.
+ENR. S. B. NO. 988 Page 5
+
+Section 12:
+SECTION 4. AMENDATORY 12A O.S. 2021, Section 1-9-320.6,
+as amended by Section 1, Chapter 109, O.S.L. 2022 (12A O.S. Supp.
+2024, Section 1-9-320.6), is amended to read as follows:
+
+Section 13:
+Section 1-9-320.6.
+CENTRAL FILING SYSTEM RELATING TO FARM PRODUCTS
+(1) The Secretary of State Oklahoma County Clerk shall be
+responsible for developing and implementing maintaining the central
+filing system. This responsibility shall include obtaining the
+necessary certification for the system from the United States
+Department of Agriculture (“USDA”) (USDA). The effective date for
+the implementation of the central filing system was October 24, 1988
+shall be one hundred eighty (180) days from the certification of the
+central filing system by the USDA.
+(2) The Secretary of State Oklahoma County Clerk may
+promulgate, in accordance with the applicable provisions of the
+Administrative Procedures Act, laws governing business within its
+office, appropriate rules and practices of the filing office in
+harmony with the rules and practices of filing offices in other
+jurisdictions that enact substantially this part and to keep the
+technology used by the filing office compatible with the technology
+used by filing offices in other jurisdictions that enact
+substantially this part. The Oklahoma County Clerk, so far as is
+consistent with the purposes, policies, and provisions of this
+article in adopting, amending, and repealing filing office rules,
+shall:
+(a) consult with filing offices in other jurisdictions
+that enact substantially this part,
+(b) consult the International Association of Commercial
+Administrators or any successor organization, and
+(c) take into consideration the rules and practices of,
+and the technology used by, filing offices in other
+jurisdictions that enact substantially this part, for
+the implementation and operation of the central filing
+system.
+ENR. S. B. NO. 988 Page 6
+(3) The Office of Management and Enterprise Services shall
+assist the Secretary of State in developing and implementing the
+central filing system.
+(4) The central filing system shall conform to the following
+requirements:
+(a) The Secretary of State Oklahoma County Clerk shall
+record the date and, hour, minute, and second of the
+filing of each effective financing statement;
+(b) The Secretary of State Oklahoma County Clerk shall
+compile all effective financing statements into a
+master list:
+(i) organized according to farm products;
+(ii) arranged within each such product:
+(A) in alphabetical order according to the last
+name of the individual debtors or, in the
+case of debtors doing business other than as
+individuals, the first word in the name of
+the debtors;
+(B) in numerical order according to the Social
+Security number of the individual debtors
+or, in the case of debtors doing business
+other than as individuals, the Internal
+Revenue Service taxpayer identification
+number of the debtors;
+(C) geographically by county produced; and
+(D) by crop year; and
+(iii) containing the information provided for in
+subparagraph (iv) of paragraph (d) of Section 1-
+9-320.2 of this title;
+(iv) portions of the master list shall be available in
+hard copy, electronic formats, or via Internet
+ENR. S. B. NO. 988 Page 7
+download, and may be organized by other sorting
+methods in addition to the methods listed above.
+(c) The Secretary of State Oklahoma County Clerk shall
+maintain records of all buyers of farm products,
+commission merchants, selling agents and others who
+register with the Secretary of State Oklahoma County
+Clerk, on a form containing:
+(i) the name and address of each registrant;
+(ii) the information on the farm product or products
+that the registrant is requesting;
+(iii) the name of each county where the product is
+produced or to be produced, or a blanket code
+covering all seventy-seven (77) counties of this
+state; and
+(iv) an authorized signature.
+(d) (i) A copy of those portions of the master list
+covering the information requested by a
+registrant shall be distributed to such
+registrants by the Secretary of State Oklahoma
+County Clerk on or before the last business day
+of each month and shall be presumed to have been
+received by the third business day of the
+following month.
+(ii) Registrants shall be deemed to be registered only
+as to those portions of the master list for which
+they register, and shall be deemed to have failed
+to register and shall not be considered to be
+registrants as to those portions for which they
+do not register.
+(iii) Registrants are subject only to security
+interests shown on the portions of the master
+list which they receive as a consequence of
+registration with the Secretary of State Oklahoma
+County Clerk.
+ENR. S. B. NO. 988 Page 8
+(iv) If a particular security interest is shown on the
+master list, but was included since the last
+regular distribution of portions of the master
+list to registrants, registrants shall not be
+subject to that security interest;
+(e) The duration of the registration with the Secretary of
+State Oklahoma County Clerk of a buyer of farm
+products, commission merchant, selling agent or other
+registrant shall be one (1) year from the effective
+date of the registration with the Secretary of State
+Oklahoma County Clerk.
+(f) (i) Upon request, within twenty-four (24) hours of
+any inquiry, for information, the Secretary of
+State Oklahoma County Clerk shall provide verbal
+confirmation of the existence or nonexistence of
+any effective financing statement on file. By
+the close of the business day following the day
+on which the request was received, written
+confirmation of the existence of an effective
+financing statement will be provided to buyers of
+farm products, commission merchants, and selling
+agents who have not registered, and others who
+request it.
+(ii) The state or political subdivision shall not be
+liable if a loss or claim results from any
+confirmation of the existence or nonexistence of
+any effective financing statement on file in the
+Office of the Secretary of State Oklahoma County
+Clerk’s office made in good faith by an employee
+of the Office of the Secretary of State Oklahoma
+County Clerk’s office as required by the
+provisions of this section.
+(5) (4) The filing in the office of the Secretary of State
+Oklahoma County Clerk under this section shall be in addition to the
+filing requirements provided for in this article.
+ENR. S. B. NO. 988 Page 9
+(6) (5) A financing or continuation statement covering farm
+products that has not lapsed and which was filed pursuant to this
+title between December 23, 1986, and October 24, 1988, inclusive,
+and for which no written notice was furnished as provided in Section
+1-9-320.7 of this title, shall become ineffective as to a buyer of
+farm products, commission merchant or selling agent, unless the
+secured party files an effective financing statement in the office
+of the Secretary of State Oklahoma County Clerk.
+(7) (6) An effective financing statement shall not be deemed
+filed in accordance with the provisions of this section until all
+fees authorized by Section 111 of Title 28 of the Oklahoma Statutes
+relating to the filing of the statement are tendered to the
+Secretary of State Oklahoma County Clerk.
+(8) (7) The secured party shall file a termination statement
+within twenty (20) days after there is no outstanding secured
+obligation or commitment to make advances, incur obligations or
+otherwise give value. The termination statement shall refer to the
+unique document ID number. The secured party shall not be required
+to file a termination statement if the debtor, in writing, addressed
+to the secured party, requests that a termination not be filed. The
+request shall be signed by the debtor or an authorized
+representative and the request may be made at any time prior to the
+expiration date of an effective financing statement set forth
+herein. If the affected secured party fails to file a termination
+statement as required by this subsection, the party shall be liable
+to the Secretary of State Oklahoma County Clerk for Five Hundred
+Dollars ($500.00). In addition the affected secured party shall be
+liable to the debtor for any loss caused to the debtor by the
+failure to terminate the effective financing statement.
+(9) (8) The Attorney General Oklahoma County District Attorney
+shall be responsible for enforcing the provisions of subsection (8)
+(7) of this section on behalf of the Secretary of State Oklahoma
+County Clerk and is authorized to take appropriate actions to
+collect any penalties owed to the Secretary of State Oklahoma County
+Clerk pursuant to subsection (8) (7) of this section. When
+collected, the Oklahoma County District Attorney General shall cause
+the penalty to be deposited into the Central Filing System Revolving
+Fund Oklahoma County Clerk’s Uniform Commercial Code Central Filing
+ENR. S. B. NO. 988 Page 10
+Fund created pursuant to Section 276.3 of Title 62 of the Oklahoma
+Statutes Section 1-9-525.1 of Title 12A of the Oklahoma Statutes.
+(9) As the purpose of an effective financing statement filing
+is to ensure that a joint check is made payable to the debtor and
+all applicable secured parties, there shall be no priority among
+filings. Filings shall be processed according to the order in which
+they were filed, as recorded in a timestamp within the filing.
+(10) All active filings on the effective date of this act, as
+provided in paragraph (1) of this section, shall be filed with the
+Oklahoma County Clerk’s office. Each active filing that is filed
+pursuant to the requirements of this paragraph shall be accompanied
+with a transition document that shall be provided by the Oklahoma
+County Clerk’s office. The Oklahoma County Clerk’s office shall
+charge no fee for active filings that are migrated to the system
+maintained by the Oklahoma County Clerk.
+
+Section 14:
+SECTION 5. AMENDATORY 12A O.S. 2021, Section 1-9-525, is
+amended to read as follows:
+
+Section 15:
+Section 1-9-525.
+FEES
+(a) Except as otherwise provided in subsection (e) of this
+
+Section 16:
+section, the fee for filing and indexing a record under this part,
+other than an initial financing statement of the kind described in
+subsection (c) of Section 1-9-502 of this title, is:
+(1) Ten Dollars ($10.00) if the record is communicated in
+writing and consists of one to five pages, and an additional One
+Dollar ($1.00) per page for each page exceeding five; and
+(2) Ten Dollars ($10.00) if the record is communicated by an
+electronic medium authorized by filing-office rule.
+(b) The number of names required to be indexed does not affect
+the amount of the fee in subsection (a) of this section.
+(c) The fee for responding to a request for information from
+the filing office in any medium designated by the filing office,
+ENR. S. B. NO. 988 Page 11
+including issuing a certificate showing whether there is on file any
+financing statement naming a particular debtor, is Ten Dollars
+($10.00) for each debtor.
+(d) The fee for a copy of a record is One Dollar ($1.00) per
+page regardless of the medium used.
+(e) This section does not require a fee with respect to a
+record of a mortgage which is effective as a financing statement
+filed as a fixture filing or as a financing statement covering as-
+extracted collateral or timber to be cut under subsection (c) of
+
+Section 17:
+Section 1-9-502 of this title. However, the recording and
+satisfaction fees that otherwise would be applicable to the record
+of the mortgage apply pursuant to paragraphs 1, 2, 4, 7, 11, 15 and
+16 of subsection A of Section 32 of Title 28 of the Oklahoma
+Statutes.
+(f) The fee for providing certified copies shall be One Dollar
+($1.00) per page regardless of medium.
+(g) The fee for providing bulk data of indexed records as
+described in subsection (f) of Section 1-9-523 of this title is as
+follows:
+(1) Five Hundred Dollars ($500.00) for the initial database
+history.
+(2) Fifty Dollars ($50.00) for weekly updates to the database.
+(3) Four cents ($0.04) per page for images of filed records.
+(h) The filing office may accept payment for fees by automated
+clearing house or by a nationally recognized debit or credit card.
+If payment is made by a credit or debit card, the filing office may
+add an amount equal to the amount of the service charge incurred for
+the acceptance of the payment. The filing office may enter into
+contracts for credit card processing services according to
+applicable county purchasing laws or may enter into agreements with
+the State Treasurer to participate in any credit card processing
+agreements entered into by the State Treasurer.
+ENR. S. B. NO. 988 Page 12
+(i) In addition to the other fees provided by law, the Oklahoma
+County Clerk shall, upon the effective date of the central filing
+system provided for in Section 1-9-320.6 of this title, collect the
+following fees:
+(1) For filing an effective financing statement in the Oklahoma
+County Clerk’s office pursuant to Section 1-9-320.6 of this title,
+Ten Dollars ($10.00);
+(2) For filing a continuation statement, partial release, or
+assignment of or amendment to an effective financing statement filed
+in the Oklahoma County Clerk’s office pursuant to Section 1-9-320.6
+of this title, Ten Dollars ($10.00);
+(3) For filing a termination statement for an effective
+financing statement filed in the Oklahoma County Clerk’s office
+pursuant to Section 1-9-320.6 of this title, Ten Dollars ($10.00);
+(4) For registering a buyer of farm products, commission
+merchant, selling agent, or other interested party as provided for
+in Section 1-9-320.6 of this title, Fifty Dollars ($50.00) per year.
+The registration fee provided for in this paragraph shall not apply
+if the buyer of farm products, commission merchant, selling agent,
+or other interested party as provided for in Section 1-9-320.6 of
+this title accesses the master list through Internet download;
+(5) For distributing a copy of the master list or portions
+thereof to registrants, as provided for in Section 1-9-320.6 of this
+title, in accordance with the following fee schedule. Such fees may
+be paid annually or semiannually:
+(A) For information requested for five or fewer counties:
+Number of Farm
+Products Paper
+(i) 1 to 5 products ............$150 per year
+(ii) 6 to 10 products ...........$200 per year
+(iii) 11 to 20 products ..........$250 per year
+ENR. S. B. NO. 988 Page 13
+(iv) over 20 products ...........$300 per year
+(B) For information requested for six to twenty-five
+counties:
+Number of Farm
+Products Paper
+(i) 1 to 10 products ...........$200 per year
+(ii) 11 to 20 products ..........$250 per year
+(iii) over 20 products ...........$300 per year
+(C) For information requested for twenty-six to fifty
+counties:
+Number of Farm
+Products Paper
+(i) 1 to 10 products ...........$250 per year
+(ii) 11 to 20 products ..........$300 per year
+(iii) over 20 products ...........$350 per year
+(D) For information requested for over fifty counties:
+Number of Farm
+Products Paper
+(i) 1 to 10 products ...........$300 per year
+(ii) 11 to 20 products ..........$350 per year
+(iii) over 20 products ..........$400 per year;
+(6) (A) The Oklahoma County Clerk is authorized to provide for
+the distribution of the master list or portions
+thereof to those persons specified in paragraph 5 of
+this subsection through Internet download, electronic
+data equipment, or other communication media in such
+ENR. S. B. NO. 988 Page 14
+form and manner as is specified by the Oklahoma County
+Clerk. The Oklahoma County Clerk shall not collect a
+fee for distribution of the master list or portions
+thereof through Internet download.
+(B) The Oklahoma County Clerk is authorized to establish a
+fee system for such transfer of information pursuant
+to this paragraph. Such fee shall not exceed the
+amount necessary to cover the costs of the Oklahoma
+County Clerk in providing such transfer of
+information.
+(C) In providing for the transfer of the information
+specified by this paragraph, the Oklahoma County Clerk
+shall ensure the integrity of confidential information
+through data security measures, internal controls, and
+appropriate database management; and
+(7) For issuing a written confirmation of the existence or
+nonexistence of active effective financing statements on file for a
+debtor in the Oklahoma County Clerk’s office, Six Dollars ($6.00).
+(j) All fees shall be properly accounted for and shall be paid
+to the Oklahoma County Clerk monthly. The fees generated by
+subsection (i) of this section shall be deposited to the credit of
+the Oklahoma County Clerk’s Uniform Commercial Code Central Filing
+Fund created pursuant to Section 1-9-525.1 of this title.
+
+Section 18:
+SECTION 6. AMENDATORY 28 O.S. 2021, Section 111, as
+amended by Section 2, Chapter 109, O.S.L. 2022 (28 O.S. Supp. 2024,
+
+Section 19:
+Section 111), is amended to read as follows:
+
+Section 20:
+Section 111. A. In addition to other fees provided for by law,
+the Secretary of State shall collect the following fees:
+
+Section 21:
+1. For affixing the certificate of the Secretary of State and
+the seal of the State of Oklahoma, Ten Dollars ($10.00);
+
+Section 22:
+2. For copying any paper or document, One Dollar ($1.00) per
+page, provided the minimum charge shall not be less than Two Dollars
+($2.00);
+ENR. S. B. NO. 988 Page 15
+
+Section 23:
+3. For filing an effective financing statement in the Office of
+the Secretary of State pursuant to Section 1-9-320.6 of Title 12A of
+the Oklahoma Statutes, prior to the effective date of the central
+filing system provided in Section 1-9-320.6 of Title 12A of the
+Oklahoma Statutes, Ten Dollars ($10.00);
+
+Section 24:
+4. For filing a continuation statement, partial release,
+assignment of or amendment to an effective financing statement filed
+in the Office of the Secretary of State pursuant to Section 1-9-
+
+Section 25:
+320.6 of Title 12A of the Oklahoma Statutes, prior to the effective
+date of the central filing system provided in Section 1-9-320.6 of
+Title 12A of the Oklahoma Statutes, Ten Dollars ($10.00);
+
+Section 26:
+5. For filing a termination statement for an effective
+financing statement filed in the Office of the Secretary of State
+pursuant to Section 1-9-320.6 of Title 12A of the Oklahoma Statutes,
+prior to the effective date of the central filing system provided in
+
+Section 27:
+Section 1-9-320.6 of Title 12A of the Oklahoma Statutes, Ten Dollars
+($10.00);
+
+Section 28:
+6. For registering a buyer of farm products, commission
+merchant, selling agent or other interested party as provided for in
+
+Section 29:
+Section 1-9-320.6 of Title 12A of the Oklahoma Statutes, prior to
+the effective date of the central filing system provided in Section
+1-9-320.6 of Title 12A of the Oklahoma Statutes, Fifty Dollars
+($50.00) per year. The registration fee provided for in this
+paragraph shall not apply if the buyer of farm products, commission
+merchant, selling agent, or other interested party as provided for
+in Section 1-9-320.6 of Title 12A of the Oklahoma Statutes accesses
+the master list through Internet download;
+
+Section 30:
+7. For distributing a copy of the master list or portions
+thereof to registrants, as provided for in Section 1-9-320.6 of
+Title 12A of the Oklahoma Statutes, prior to the effective date of
+the central filing system provided in Section 1-9-320.6 of Title 12A
+of the Oklahoma Statutes, in accordance with the following fee
+schedule. Such fees may be paid annually or semiannually:
+a. For information requested for five or less counties:
+Number of Farm
+Products Paper
+ENR. S. B. NO. 988 Page 16
+(1) 1 to 5 products ............$150 per year
+(2) 6 to 10 products ...........$200 per year
+(3) 11 to 20 products ..........$250 per year
+(4) over 20 products ...........$300 per year
+b. For information requested for six to twenty-five
+counties:
+Number of Farm
+Products Paper
+(1) 1 to 10 products ...........$200 per year
+(2) 11 to 20 products ..........$250 per year
+(3) over 20 products ...........$300 per year
+c. For information requested for twenty-six to fifty
+counties:
+Number of Farm
+Products Paper
+(1) 1 to 10 products ...........$250 per year
+(2) 11 to 20 products ..........$300 per year
+(3) over 20 products ...........$350 per year
+d. For information requested for over fifty counties:
+Number of Farm
+Products Paper
+(1) 1 to 10 products ...........$300 per year
+(2) 11 to 20 products ..........$350 per year
+ENR. S. B. NO. 988 Page 17
+(3) over 20 products ..........$400 per year;
+
+Section 31:
+8. a. The Secretary of State, prior to the effective date of
+the central filing system provided in Section 1-9-
+
+Section 32:
+320.6 of Title 12A of the Oklahoma Statutes, is
+authorized to provide for the distribution of the
+master list or portions thereof to those persons
+specified in paragraph 7 of this subsection through
+Internet download, electronic data equipment, or other
+communication media in such form and manner as is
+specified by the Secretary of State. The Secretary of
+State shall not collect a fee for distribution of the
+master list or portions thereof through Internet
+download.
+b. The Secretary of State, prior to the effective date of
+the central filing system provided in Section 1-9-
+
+Section 33:
+320.6 of Title 12A of the Oklahoma Statutes, is
+authorized to establish a fee system for such transfer
+of information pursuant to this paragraph. Such fee
+shall not exceed the amount necessary to cover the
+costs of the Secretary of State in providing such
+transfer of information.
+c. In providing for the transfer of the information
+specified by this paragraph, the Secretary of State
+shall ensure the integrity of confidential information
+within the Office of the Secretary of State through
+data security measures, internal controls and
+appropriate data base management;
+
+Section 34:
+9. For issuing a written confirmation of the existence or
+nonexistence of active effective financing statements on file for a
+debtor in the Office of the Secretary of State, prior to the
+effective date of the central filing system provided in Section 1-9-
+
+Section 35:
+320.6 of Title 12A of the Oklahoma Statutes, Six Dollars ($6.00);
+
+Section 36:
+10. The Secretary of State shall collect a fee of Twenty-five
+Dollars ($25.00) for every apostille issued. For the purposes of
+this paragraph, an apostille is a special certificate attached to a
+public record, as required by the 1961 Hague Convention, Fed. R.
+Civ. P. 44 (28 U.S.C.A.), to certify the authenticity of the
+ENR. S. B. NO. 988 Page 18
+signature, the capacity in which the person signing the document has
+acted and, where appropriate, the identity of the seal or stamp
+which it bears; provided, however, a fee of Ten Dollars ($10.00)
+shall be collected for any apostille requested for an international
+adoption not to exceed One Hundred Dollars ($100.00) for the
+adoption of each child; and
+
+Section 37:
+11. For each service rendered and not specified in this
+
+Section 38:
+section, such fees as are allowed for similar services in other
+cases.
+B. All fees shall be properly accounted for and shall be paid
+into the State Treasury monthly. The fees generated by paragraphs
+1, 2, 10 and 11 of subsection A of this section shall be deposited
+to the credit of the Revolving Fund for the Office of the Secretary
+of State created pursuant to Section 276.1 of Title 62 of the
+Oklahoma Statutes. The fees generated by paragraphs 3 through 9 of
+subsection A of this section and other fees collected by the central
+filing system shall be deposited to the credit of the Central Filing
+System Revolving Fund created pursuant to Section 276.3 of Title 62
+of the Oklahoma Statutes.
+
+Section 39:
+SECTION 7. This act shall become effective one hundred eighty
+(180) days from the certification of the central filing system by
+the USDA, pursuant to the implementation effective date set forth in
+
+Section 40:
+Section 1-9-320.6 of Title 12A of the Oklahoma Statutes. Upon the
+occurrence of such implementation, the Oklahoma County Clerk shall
+issue a formal notification to the President Pro Tempore of the
+Senate, the Speaker of the House of Representatives, the Governor,
+and the Secretary of State indicating that the contingency has been
+met and the amendments shall take effect.
+ENR. S. B. NO. 988 Page 19
+Passed the Senate the 20th day of May, 2025.
+Presiding Officer of the Senate
+Passed the House of Representatives the 30th day of April, 2025.
+Presiding Officer of the House
+of Representatives
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of __________________, 20 _______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. S. B. NO. 988 Page 20
+[DELETED:  B R  a P]
+[DELETED:  P “ “ “ “ i i i c t t t]
+[DELETED:  P t e a t m r i i]
+[DELETED:  P m “ “ “ “ “]
+[DELETED:  P ( t t t]
+[DELETED:  P c c t]
+[DELETED:  P T T o a i i g b c p]
+[DELETED:  P T t t t a ( A R R]
+[DELETED:  P I T ( U T]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P FNP P 1 6]
+[DELETED:  P o FNP P 1 1 FNP P 1 1 FNP P 1 1 ( T]
+[DELETED:  P T I]
+[DELETED:  P FNP P]
+[DELETED:  P 1 6 1 o FNP P 1 1 o FNP P 1 1 o FNP P 1 1]
+[DELETED:  P o a T T I]
+[DELETED:  P]
+[DELETED:  PPPo_G]
+
+
+================================================================================
+
+Raw Text:
+An Act
+ENROLLED SENATE
+BILL NO. 988 By: Reinhardt and Hall of the
+Senate
+and
+Pfeiffer of the House
+An Act relating to the Uniform Commercial Code;
+amending 12A O.S. 2021, Sections 1-9-320.2, 1-9-
+320.3, 1-9-320.4, 1-9-320.6, as amended by Section 1,
+Chapter 109, O.S.L. 2022, and 1-9-525 (12A O.S. Supp.
+2024, Section 1-9-320.6), which relate to secured
+transactions; transferring certain authority from
+Secretary of State to Oklahoma County Clerk;
+directing Oklahoma County Clerk to take certain
+actions; modifying certain filing procedures;
+amending 28 O.S. 2021, Section 111, as amended by
+Section 2, Chapter 109, O.S.L. 2022 (28 O.S. Supp.
+2024, Section 111), which relates to fees to be
+charged by Secretary of State; transferring certain
+fees from Secretary of State to Oklahoma County
+Clerk; updating statutory language; and providing a
+conditional effective date.
+SUBJECT: Uniform Commercial Code
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1. AMENDATORY 12A O.S. 2021, Section 1-9-320.2,
+is amended to read as follows:
+Section 1-9-320.2.
+DEFINITIONS; REQUISITES OF AN
+EFFECTIVE FINANCING STATEMENT
+
+As used in this section and Sections 1-9-320.1 through 1-9-320.7
+of this title:
+(a) “Buyer in the ordinary course of business” means a
+person who, in the ordinary course of business, buys
+farm products from a person engaged in farming
+operations who is in the business of selling farm
+products.
+(b) “Central filing system” means a system for filing
+effective financing statements on a statewide basis
+and which has been certified by the Secretary of the
+United States Department of Agriculture.
+(c) “Commission merchant” means any person engaged in the
+business of receiving any farm product for sale, on
+commission, or for or on behalf of another person.
+(d) “Effective financing statement” means a statement
+that:
+(i) is an original or reproduced form consistent with
+the provisions of this act and approved by the
+Secretary of State Oklahoma County Clerk;
+(ii) is signed and filed with the Secretary of State
+Oklahoma County Clerk by the secured party;
+(iii) is signed by the debtor;
+(iv) contains:
+(A) the name and address of the secured party,
+(B) the name and address of the person indebted
+to the secured party,
+(C) the social security number of the debtor or,
+in the case of a debtor doing business other
+than as an individual, the Internal Revenue
+Service taxpayer identification number of
+such debtor,
+ENR. S. B. NO. 988 Page 2
+
+(D) the farm product name,
+(E) each county in this state where the farm
+product is produced or to be produced or a
+blanket code covering all 77 Oklahoma
+counties,
+(F) a description of the farm products subject
+to the security interest only if needed to
+distinguish it from other such farm products
+owned by the same person or persons but not
+subject to the particular interest; and
+(G) the crop year, unless every crop of the farm
+product in question, for the duration of the
+effective financing statement, is to be
+subject to the particular security
+interest.;
+(v) (iv) must be amended in writing, within three
+(3) months, similarly signed and filed, to
+reflect material changes;
+(vi) (v) remains effective for a period of five (5)
+years from the date of filing, subject to
+extensions for additional periods of five (5)
+years each by refiling or filing a continuation
+statement within six (6) months before the
+expiration of the initial five-year period;
+(vii) (vi) is not removed from the public database but
+is not reported as an active files file when the
+statement lapses on the expiration of the
+effective period of the statement or when a
+termination statement from the secured party is
+accepted, whichever occurs first;
+(viii) (vii) is accompanied by the requisite filing fee
+provided for in Section 111 of Title 28 of the
+Oklahoma Statutes; and
+ENR. S. B. NO. 988 Page 3
+
+(ix) (viii) substantially complies with the
+requirements of this paragraph even though it
+contains minor errors that are not seriously
+misleading.; and
+(x) (ix) may reflect multiple products or products
+in multiple counties.
+(e) “Farm product” means an agricultural commodity such as
+wheat, corn, soybeans, or a species of livestock such
+as cattle, hogs, sheep, horses, or poultry used or
+produced in farming operations, or a product of such
+crop or livestock in its unmanufactured state (such as
+ginned cotton, wool-clip, maple syrup, milk, and
+eggs), that is in the possession of a person engaged
+in farming operations.
+(f) “Knows” or “knowledge” means actual knowledge.
+(g) “Person” means any individual, partnership,
+corporation, limited liability company, trust, or any
+other business entity.
+(h) “Security interest” means an interest in farm products
+that secures payment or performance of an obligation.
+(i) “Selling agent” means any person, other than a
+commission merchant, who is engaged in the business of
+negotiating the sale and purchase of any farm product
+on behalf of a person engaged in farming operations.
+(2) Unless otherwise provided for in this act, for purposes of
+this section and Sections 4 and 6 of this act, receipt of notice
+shall be presumed if notice is sent by first-class mail, postage
+prepaid.
+SECTION 2. AMENDATORY 12A O.S. 2021, Section 1-9-320.3,
+is amended to read as follows:
+Section 1-9-320.3.
+FORMS; DUTY OF SECRETARY OF STATE OKLAHOMA COUNTY CLERK
+ENR. S. B. NO. 988 Page 4
+
+The Secretary of State Oklahoma County Clerk shall develop and
+maintain a standard form for an effective financing statement and
+for a statement of continuation, partial release, amendment, or
+assignment thereof, which shall be consistent with the provisions of
+Sections 1-9-320.1 through 1-9-320.7 of this title.
+SECTION 3. AMENDATORY 12A O.S. 2021, Section 1-9-320.4,
+is amended to read as follows:
+Section 1-9-320.4.
+PROTECTION OF BUYERS OF FARM PRODUCTS,
+COMMISSION MERCHANTS AND SELLING AGENTS
+A buyer of farm products, commission merchant, or selling agent
+who purchases or sells farm products in the ordinary course of
+business from or for a person engaged in farming operations takes
+subject to a security interest in the farm products if:
+(a) (i) the buyer of the farm products, commission merchant,
+or selling agent has failed to register with the
+Secretary of State Oklahoma County Clerk prior to the
+purchase of the farm products and the secured party
+has filed an effective financing statement that covers
+the farm products being sold; or
+(ii) the buyer of farm products, commission merchant or
+selling agent receives from the Secretary of State
+Oklahoma County Clerk written notice as provided in
+paragraph (d) or (f) of subsection (4) of Section 1-9-
+320.6 of this title, and the buyer of farm products,
+commission merchant or selling agent does not secure a
+waiver or release of the security interest specified
+in an effective financing statement from the secured
+party by performing any payment obligation or
+otherwise; or
+(b) the secured party or the seller provides written notice of
+the security interest pursuant to the provisions of Section
+1-9-320.7 of this title.
+ENR. S. B. NO. 988 Page 5
+
+SECTION 4. AMENDATORY 12A O.S. 2021, Section 1-9-320.6,
+as amended by Section 1, Chapter 109, O.S.L. 2022 (12A O.S. Supp.
+2024, Section 1-9-320.6), is amended to read as follows:
+Section 1-9-320.6.
+CENTRAL FILING SYSTEM RELATING TO FARM PRODUCTS
+(1) The Secretary of State Oklahoma County Clerk shall be
+responsible for developing and implementing maintaining the central
+filing system. This responsibility shall include obtaining the
+necessary certification for the system from the United States
+Department of Agriculture (“USDA”) (USDA). The effective date for
+the implementation of the central filing system was October 24, 1988
+shall be one hundred eighty (180) days from the certification of the
+central filing system by the USDA.
+(2) The Secretary of State Oklahoma County Clerk may
+promulgate, in accordance with the applicable provisions of the
+Administrative Procedures Act, laws governing business within its
+office, appropriate rules and practices of the filing office in
+harmony with the rules and practices of filing offices in other
+jurisdictions that enact substantially this part and to keep the
+technology used by the filing office compatible with the technology
+used by filing offices in other jurisdictions that enact
+substantially this part. The Oklahoma County Clerk, so far as is
+consistent with the purposes, policies, and provisions of this
+article in adopting, amending, and repealing filing office rules,
+shall:
+(a) consult with filing offices in other jurisdictions
+that enact substantially this part,
+(b) consult the International Association of Commercial
+Administrators or any successor organization, and
+(c) take into consideration the rules and practices of,
+and the technology used by, filing offices in other
+jurisdictions that enact substantially this part, for
+the implementation and operation of the central filing
+system.
+ENR. S. B. NO. 988 Page 6
+
+(3) The Office of Management and Enterprise Services shall
+assist the Secretary of State in developing and implementing the
+central filing system.
+(4) The central filing system shall conform to the following
+requirements:
+(a) The Secretary of State Oklahoma County Clerk shall
+record the date and, hour, minute, and second of the
+filing of each effective financing statement;
+(b) The Secretary of State Oklahoma County Clerk shall
+compile all effective financing statements into a
+master list:
+(i) organized according to farm products;
+(ii) arranged within each such product:
+(A) in alphabetical order according to the last
+name of the individual debtors or, in the
+case of debtors doing business other than as
+individuals, the first word in the name of
+the debtors;
+(B) in numerical order according to the Social
+Security number of the individual debtors
+or, in the case of debtors doing business
+other than as individuals, the Internal
+Revenue Service taxpayer identification
+number of the debtors;
+(C) geographically by county produced; and
+(D) by crop year; and
+(iii) containing the information provided for in
+subparagraph (iv) of paragraph (d) of Section 1-
+9-320.2 of this title;
+(iv) portions of the master list shall be available in
+hard copy, electronic formats, or via Internet
+ENR. S. B. NO. 988 Page 7
+
+download, and may be organized by other sorting
+methods in addition to the methods listed above.
+(c) The Secretary of State Oklahoma County Clerk shall
+maintain records of all buyers of farm products,
+commission merchants, selling agents and others who
+register with the Secretary of State Oklahoma County
+Clerk, on a form containing:
+(i) the name and address of each registrant;
+(ii) the information on the farm product or products
+that the registrant is requesting;
+(iii) the name of each county where the product is
+produced or to be produced, or a blanket code
+covering all seventy-seven (77) counties of this
+state; and
+(iv) an authorized signature.
+(d) (i) A copy of those portions of the master list
+covering the information requested by a
+registrant shall be distributed to such
+registrants by the Secretary of State Oklahoma
+County Clerk on or before the last business day
+of each month and shall be presumed to have been
+received by the third business day of the
+following month.
+(ii) Registrants shall be deemed to be registered only
+as to those portions of the master list for which
+they register, and shall be deemed to have failed
+to register and shall not be considered to be
+registrants as to those portions for which they
+do not register.
+(iii) Registrants are subject only to security
+interests shown on the portions of the master
+list which they receive as a consequence of
+registration with the Secretary of State Oklahoma
+County Clerk.
+ENR. S. B. NO. 988 Page 8
+
+(iv) If a particular security interest is shown on the
+master list, but was included since the last
+regular distribution of portions of the master
+list to registrants, registrants shall not be
+subject to that security interest;
+(e) The duration of the registration with the Secretary of
+State Oklahoma County Clerk of a buyer of farm
+products, commission merchant, selling agent or other
+registrant shall be one (1) year from the effective
+date of the registration with the Secretary of State
+Oklahoma County Clerk.
+(f) (i) Upon request, within twenty-four (24) hours of
+any inquiry, for information, the Secretary of
+State Oklahoma County Clerk shall provide verbal
+confirmation of the existence or nonexistence of
+any effective financing statement on file. By
+the close of the business day following the day
+on which the request was received, written
+confirmation of the existence of an effective
+financing statement will be provided to buyers of
+farm products, commission merchants, and selling
+agents who have not registered, and others who
+request it.
+(ii) The state or political subdivision shall not be
+liable if a loss or claim results from any
+confirmation of the existence or nonexistence of
+any effective financing statement on file in the
+Office of the Secretary of State Oklahoma County
+Clerk’s office made in good faith by an employee
+of the Office of the Secretary of State Oklahoma
+County Clerk’s office as required by the
+provisions of this section.
+(5) (4) The filing in the office of the Secretary of State
+Oklahoma County Clerk under this section shall be in addition to the
+filing requirements provided for in this article.
+ENR. S. B. NO. 988 Page 9
+
+(6) (5) A financing or continuation statement covering farm
+products that has not lapsed and which was filed pursuant to this
+title between December 23, 1986, and October 24, 1988, inclusive,
+and for which no written notice was furnished as provided in Section
+1-9-320.7 of this title, shall become ineffective as to a buyer of
+farm products, commission merchant or selling agent, unless the
+secured party files an effective financing statement in the office
+of the Secretary of State Oklahoma County Clerk.
+(7) (6) An effective financing statement shall not be deemed
+filed in accordance with the provisions of this section until all
+fees authorized by Section 111 of Title 28 of the Oklahoma Statutes
+relating to the filing of the statement are tendered to the
+Secretary of State Oklahoma County Clerk.
+(8) (7) The secured party shall file a termination statement
+within twenty (20) days after there is no outstanding secured
+obligation or commitment to make advances, incur obligations or
+otherwise give value. The termination statement shall refer to the
+unique document ID number. The secured party shall not be required
+to file a termination statement if the debtor, in writing, addressed
+to the secured party, requests that a termination not be filed. The
+request shall be signed by the debtor or an authorized
+representative and the request may be made at any time prior to the
+expiration date of an effective financing statement set forth
+herein. If the affected secured party fails to file a termination
+statement as required by this subsection, the party shall be liable
+to the Secretary of State Oklahoma County Clerk for Five Hundred
+Dollars ($500.00). In addition the affected secured party shall be
+liable to the debtor for any loss caused to the debtor by the
+failure to terminate the effective financing statement.
+(9) (8) The Attorney General Oklahoma County District Attorney
+shall be responsible for enforcing the provisions of subsection (8)
+(7) of this section on behalf of the Secretary of State Oklahoma
+County Clerk and is authorized to take appropriate actions to
+collect any penalties owed to the Secretary of State Oklahoma County
+Clerk pursuant to subsection (8) (7) of this section. When
+collected, the Oklahoma County District Attorney General shall cause
+the penalty to be deposited into the Central Filing System Revolving
+Fund Oklahoma County Clerk’s Uniform Commercial Code Central Filing
+ENR. S. B. NO. 988 Page 10
+
+Fund created pursuant to Section 276.3 of Title 62 of the Oklahoma
+Statutes Section 1-9-525.1 of Title 12A of the Oklahoma Statutes.
+(9) As the purpose of an effective financing statement filing
+is to ensure that a joint check is made payable to the debtor and
+all applicable secured parties, there shall be no priority among
+filings. Filings shall be processed according to the order in which
+they were filed, as recorded in a timestamp within the filing.
+(10) All active filings on the effective date of this act, as
+provided in paragraph (1) of this section, shall be filed with the
+Oklahoma County Clerk’s office. Each active filing that is filed
+pursuant to the requirements of this paragraph shall be accompanied
+with a transition document that shall be provided by the Oklahoma
+County Clerk’s office. The Oklahoma County Clerk’s office shall
+charge no fee for active filings that are migrated to the system
+maintained by the Oklahoma County Clerk.
+SECTION 5. AMENDATORY 12A O.S. 2021, Section 1-9-525, is
+amended to read as follows:
+Section 1-9-525.
+FEES
+(a) Except as otherwise provided in subsection (e) of this
+section, the fee for filing and indexing a record under this part,
+other than an initial financing statement of the kind described in
+subsection (c) of Section 1-9-502 of this title, is:
+(1) Ten Dollars ($10.00) if the record is communicated in
+writing and consists of one to five pages, and an additional One
+Dollar ($1.00) per page for each page exceeding five; and
+(2) Ten Dollars ($10.00) if the record is communicated by an
+electronic medium authorized by filing-office rule.
+(b) The number of names required to be indexed does not affect
+the amount of the fee in subsection (a) of this section.
+(c) The fee for responding to a request for information from
+the filing office in any medium designated by the filing office,
+ENR. S. B. NO. 988 Page 11
+
+including issuing a certificate showing whether there is on file any
+financing statement naming a particular debtor, is Ten Dollars
+($10.00) for each debtor.
+(d) The fee for a copy of a record is One Dollar ($1.00) per
+page regardless of the medium used.
+(e) This section does not require a fee with respect to a
+record of a mortgage which is effective as a financing statement
+filed as a fixture filing or as a financing statement covering as-
+extracted collateral or timber to be cut under subsection (c) of
+Section 1-9-502 of this title. However, the recording and
+satisfaction fees that otherwise would be applicable to the record
+of the mortgage apply pursuant to paragraphs 1, 2, 4, 7, 11, 15 and
+16 of subsection A of Section 32 of Title 28 of the Oklahoma
+Statutes.
+(f) The fee for providing certified copies shall be One Dollar
+($1.00) per page regardless of medium.
+(g) The fee for providing bulk data of indexed records as
+described in subsection (f) of Section 1-9-523 of this title is as
+follows:
+(1) Five Hundred Dollars ($500.00) for the initial database
+history.
+(2) Fifty Dollars ($50.00) for weekly updates to the database.
+(3) Four cents ($0.04) per page for images of filed records.
+(h) The filing office may accept payment for fees by automated
+clearing house or by a nationally recognized debit or credit card.
+If payment is made by a credit or debit card, the filing office may
+add an amount equal to the amount of the service charge incurred for
+the acceptance of the payment. The filing office may enter into
+contracts for credit card processing services according to
+applicable county purchasing laws or may enter into agreements with
+the State Treasurer to participate in any credit card processing
+agreements entered into by the State Treasurer.
+ENR. S. B. NO. 988 Page 12
+
+(i) In addition to the other fees provided by law, the Oklahoma
+County Clerk shall, upon the effective date of the central filing
+system provided for in Section 1-9-320.6 of this title, collect the
+following fees:
+(1) For filing an effective financing statement in the Oklahoma
+County Clerk’s office pursuant to Section 1-9-320.6 of this title,
+Ten Dollars ($10.00);
+(2) For filing a continuation statement, partial release, or
+assignment of or amendment to an effective financing statement filed
+in the Oklahoma County Clerk’s office pursuant to Section 1-9-320.6
+of this title, Ten Dollars ($10.00);
+(3) For filing a termination statement for an effective
+financing statement filed in the Oklahoma County Clerk’s office
+pursuant to Section 1-9-320.6 of this title, Ten Dollars ($10.00);
+(4) For registering a buyer of farm products, commission
+merchant, selling agent, or other interested party as provided for
+in Section 1-9-320.6 of this title, Fifty Dollars ($50.00) per year.
+The registration fee provided for in this paragraph shall not apply
+if the buyer of farm products, commission merchant, selling agent,
+or other interested party as provided for in Section 1-9-320.6 of
+this title accesses the master list through Internet download;
+(5) For distributing a copy of the master list or portions
+thereof to registrants, as provided for in Section 1-9-320.6 of this
+title, in accordance with the following fee schedule. Such fees may
+be paid annually or semiannually:
+(A) For information requested for five or fewer counties:
+Number of Farm
+Products Paper
+(i) 1 to 5 products ............$150 per year
+(ii) 6 to 10 products ...........$200 per year
+(iii) 11 to 20 products ..........$250 per year
+ENR. S. B. NO. 988 Page 13
+
+(iv) over 20 products ...........$300 per year
+(B) For information requested for six to twenty-five
+counties:
+Number of Farm
+Products Paper
+(i) 1 to 10 products ...........$200 per year
+(ii) 11 to 20 products ..........$250 per year
+(iii) over 20 products ...........$300 per year
+(C) For information requested for twenty-six to fifty
+counties:
+Number of Farm
+Products Paper
+(i) 1 to 10 products ...........$250 per year
+(ii) 11 to 20 products ..........$300 per year
+(iii) over 20 products ...........$350 per year
+(D) For information requested for over fifty counties:
+Number of Farm
+Products Paper
+(i) 1 to 10 products ...........$300 per year
+(ii) 11 to 20 products ..........$350 per year
+(iii) over 20 products ..........$400 per year;
+(6) (A) The Oklahoma County Clerk is authorized to provide for
+the distribution of the master list or portions
+thereof to those persons specified in paragraph 5 of
+this subsection through Internet download, electronic
+data equipment, or other communication media in such
+ENR. S. B. NO. 988 Page 14
+
+form and manner as is specified by the Oklahoma County
+Clerk. The Oklahoma County Clerk shall not collect a
+fee for distribution of the master list or portions
+thereof through Internet download.
+(B) The Oklahoma County Clerk is authorized to establish a
+fee system for such transfer of information pursuant
+to this paragraph. Such fee shall not exceed the
+amount necessary to cover the costs of the Oklahoma
+County Clerk in providing such transfer of
+information.
+(C) In providing for the transfer of the information
+specified by this paragraph, the Oklahoma County Clerk
+shall ensure the integrity of confidential information
+through data security measures, internal controls, and
+appropriate database management; and
+(7) For issuing a written confirmation of the existence or
+nonexistence of active effective financing statements on file for a
+debtor in the Oklahoma County Clerk’s office, Six Dollars ($6.00).
+(j) All fees shall be properly accounted for and shall be paid
+to the Oklahoma County Clerk monthly. The fees generated by
+subsection (i) of this section shall be deposited to the credit of
+the Oklahoma County Clerk’s Uniform Commercial Code Central Filing
+Fund created pursuant to Section 1-9-525.1 of this title.
+SECTION 6. AMENDATORY 28 O.S. 2021, Section 111, as
+amended by Section 2, Chapter 109, O.S.L. 2022 (28 O.S. Supp. 2024,
+Section 111), is amended to read as follows:
+Section 111. A. In addition to other fees provided for by law,
+the Secretary of State shall collect the following fees:
+1. For affixing the certificate of the Secretary of State and
+the seal of the State of Oklahoma, Ten Dollars ($10.00);
+2. For copying any paper or document, One Dollar ($1.00) per
+page, provided the minimum charge shall not be less than Two Dollars
+($2.00);
+ENR. S. B. NO. 988 Page 15
+
+3. For filing an effective financing statement in the Office of
+the Secretary of State pursuant to Section 1-9-320.6 of Title 12A of
+the Oklahoma Statutes, prior to the effective date of the central
+filing system provided in Section 1-9-320.6 of Title 12A of the
+Oklahoma Statutes, Ten Dollars ($10.00);
+4. For filing a continuation statement, partial release,
+assignment of or amendment to an effective financing statement filed
+in the Office of the Secretary of State pursuant to Section 1-9-
+320.6 of Title 12A of the Oklahoma Statutes, prior to the effective
+date of the central filing system provided in Section 1-9-320.6 of
+Title 12A of the Oklahoma Statutes, Ten Dollars ($10.00);
+5. For filing a termination statement for an effective
+financing statement filed in the Office of the Secretary of State
+pursuant to Section 1-9-320.6 of Title 12A of the Oklahoma Statutes,
+prior to the effective date of the central filing system provided in
+Section 1-9-320.6 of Title 12A of the Oklahoma Statutes, Ten Dollars
+($10.00);
+6. For registering a buyer of farm products, commission
+merchant, selling agent or other interested party as provided for in
+Section 1-9-320.6 of Title 12A of the Oklahoma Statutes, prior to
+the effective date of the central filing system provided in Section
+1-9-320.6 of Title 12A of the Oklahoma Statutes, Fifty Dollars
+($50.00) per year. The registration fee provided for in this
+paragraph shall not apply if the buyer of farm products, commission
+merchant, selling agent, or other interested party as provided for
+in Section 1-9-320.6 of Title 12A of the Oklahoma Statutes accesses
+the master list through Internet download;
+7. For distributing a copy of the master list or portions
+thereof to registrants, as provided for in Section 1-9-320.6 of
+Title 12A of the Oklahoma Statutes, prior to the effective date of
+the central filing system provided in Section 1-9-320.6 of Title 12A
+of the Oklahoma Statutes, in accordance with the following fee
+schedule. Such fees may be paid annually or semiannually:
+a. For information requested for five or less counties:
+Number of Farm
+Products Paper
+ENR. S. B. NO. 988 Page 16
+
+(1) 1 to 5 products ............$150 per year
+(2) 6 to 10 products ...........$200 per year
+(3) 11 to 20 products ..........$250 per year
+(4) over 20 products ...........$300 per year
+b. For information requested for six to twenty-five
+counties:
+Number of Farm
+Products Paper
+(1) 1 to 10 products ...........$200 per year
+(2) 11 to 20 products ..........$250 per year
+(3) over 20 products ...........$300 per year
+c. For information requested for twenty-six to fifty
+counties:
+Number of Farm
+Products Paper
+(1) 1 to 10 products ...........$250 per year
+(2) 11 to 20 products ..........$300 per year
+(3) over 20 products ...........$350 per year
+d. For information requested for over fifty counties:
+Number of Farm
+Products Paper
+(1) 1 to 10 products ...........$300 per year
+(2) 11 to 20 products ..........$350 per year
+ENR. S. B. NO. 988 Page 17
+
+(3) over 20 products ..........$400 per year;
+8. a. The Secretary of State, prior to the effective date of
+the central filing system provided in Section 1-9-
+320.6 of Title 12A of the Oklahoma Statutes, is
+authorized to provide for the distribution of the
+master list or portions thereof to those persons
+specified in paragraph 7 of this subsection through
+Internet download, electronic data equipment, or other
+communication media in such form and manner as is
+specified by the Secretary of State. The Secretary of
+State shall not collect a fee for distribution of the
+master list or portions thereof through Internet
+download.
+b. The Secretary of State, prior to the effective date of
+the central filing system provided in Section 1-9-
+320.6 of Title 12A of the Oklahoma Statutes, is
+authorized to establish a fee system for such transfer
+of information pursuant to this paragraph. Such fee
+shall not exceed the amount necessary to cover the
+costs of the Secretary of State in providing such
+transfer of information.
+c. In providing for the transfer of the information
+specified by this paragraph, the Secretary of State
+shall ensure the integrity of confidential information
+within the Office of the Secretary of State through
+data security measures, internal controls and
+appropriate data base management;
+9. For issuing a written confirmation of the existence or
+nonexistence of active effective financing statements on file for a
+debtor in the Office of the Secretary of State, prior to the
+effective date of the central filing system provided in Section 1-9-
+320.6 of Title 12A of the Oklahoma Statutes, Six Dollars ($6.00);
+10. The Secretary of State shall collect a fee of Twenty-five
+Dollars ($25.00) for every apostille issued. For the purposes of
+this paragraph, an apostille is a special certificate attached to a
+public record, as required by the 1961 Hague Convention, Fed. R.
+Civ. P. 44 (28 U.S.C.A.), to certify the authenticity of the
+ENR. S. B. NO. 988 Page 18
+
+signature, the capacity in which the person signing the document has
+acted and, where appropriate, the identity of the seal or stamp
+which it bears; provided, however, a fee of Ten Dollars ($10.00)
+shall be collected for any apostille requested for an international
+adoption not to exceed One Hundred Dollars ($100.00) for the
+adoption of each child; and
+11. For each service rendered and not specified in this
+section, such fees as are allowed for similar services in other
+cases.
+B. All fees shall be properly accounted for and shall be paid
+into the State Treasury monthly. The fees generated by paragraphs
+1, 2, 10 and 11 of subsection A of this section shall be deposited
+to the credit of the Revolving Fund for the Office of the Secretary
+of State created pursuant to Section 276.1 of Title 62 of the
+Oklahoma Statutes. The fees generated by paragraphs 3 through 9 of
+subsection A of this section and other fees collected by the central
+filing system shall be deposited to the credit of the Central Filing
+System Revolving Fund created pursuant to Section 276.3 of Title 62
+of the Oklahoma Statutes.
+SECTION 7. This act shall become effective one hundred eighty
+(180) days from the certification of the central filing system by
+the USDA, pursuant to the implementation effective date set forth in
+Section 1-9-320.6 of Title 12A of the Oklahoma Statutes. Upon the
+occurrence of such implementation, the Oklahoma County Clerk shall
+issue a formal notification to the President Pro Tempore of the
+Senate, the Speaker of the House of Representatives, the Governor,
+and the Secretary of State indicating that the contingency has been
+met and the amendments shall take effect.
+ENR. S. B. NO. 988 Page 19
+
+Passed the Senate the 20th day of May, 2025.
+Presiding Officer of the Senate
+Passed the House of Representatives the 30th day of April, 2025.
+Presiding Officer of the House
+of Representatives
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of __________________, 20 _______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. S. B. NO. 988 Page 20
+
+[DELETED:  B R  a P]
+[DELETED:  P “ “ “ “ i i i c t t t]
+[DELETED:  P t e a t m r i i]
+[DELETED:  P m “ “ “ “ “]
+[DELETED:  P ( t t t]
+[DELETED:  P c c t]
+[DELETED:  P T T o a i i g b c p]
+[DELETED:  P T t t t a ( A R R]
+[DELETED:  P I T ( U T]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P FNP P 1 6]
+[DELETED:  P o FNP P 1 1 FNP P 1 1 FNP P 1 1 ( T]
+[DELETED:  P T I]
+[DELETED:  P FNP P]
+[DELETED:  P 1 6 1 o FNP P 1 1 o FNP P 1 1 o FNP P 1 1]
+[DELETED:  P o a T T I]
+[DELETED:  P]
+[DELETED:  PPPo_G]

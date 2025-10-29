@@ -1,0 +1,5226 @@
+Title: SENATE BILL 650 By: Paxton
+Official Title: SENATE BILL 650 By: Paxton
+Number of Sections: 96
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 34 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to public utilities; defining term;
+7
+requiring the governing body of a public utility to
+8
+adopt a plan for components of maintenance and
+8
+operation of public utilities; providing for contents
+9
+of plan; specifying process for notice; allowing for
+9
+public utilities to be in compliance upon approval of
+10
+plan; authorizing certain state agencies to verify
+10
+certain provisions of plan; preventing certain
+11
+recovery of damages under certain circumstances;
+11
+amending 51 O.S. 2021, Sections 152, as last amended
+12
+by Section 111, Chapter 452, O.S.L. 2024, 154, and
+12
+155, as amended by Section 21, Chapter 228, O.S.L.
+13
+2022 (51 O.S. Supp. 2024, Sections 152 and 155),
+13
+which relate to The Governmental Tort Claims Act;
+14
+adding definition; increasing award amounts for
+14
+certain claims; specifying certain accidents and
+15
+occurrences; providing for the process and amounts
+15
+awarded under certain circumstances; expanding
+16
+exemptions for liability by the state or political
+16
+subdivisions; updating statutory references and
+17
+language; making language gender neutral; providing
+17
+for codification; and providing an effective date.
+18
+18
+19
+19
+20
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20
+21
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 37-235 of Title 11, unless there
+22
+23
+is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 1398 Page 1
+1
+A. As used in this section, “public utility” means a
+1
+2
+municipally owned utility or other publicly owned utility providing
+2
+3
+sewage services through a sanitary sewer system.
+3
+4
+B. The governing body of the public utility shall adopt a plan
+4
+5
+that includes, but is not limited to, the following:
+5
+6
+
+Section 3:
+1. Mapping and recordkeeping of a sanitary sewer system for
+6
+7
+maintenance and operation of the system;
+7
+8
+
+Section 4:
+2. A policy of inspections, cleaning, and root control of sewer
+8
+9
+lines that contains the following elements:
+9
+10
+a. an inspection program of sewer lines to determine
+10
+11
+whether sewage flows are clear, moderately occluded,
+11
+12
+or severely occluded,
+12
+13
+b. a program of routine maintenance of sewer lines, and
+13
+14
+c. a treatment program for sewer lines identified as
+14
+15
+having blockages due to root infiltration of which the
+15
+16
+public utility has notice with root control through
+16
+17
+either mechanical or chemical treatments;
+17
+18
+
+Section 5:
+3. A policy of responding to calls for sanitary sewer overflows
+18
+19
+(SSO) to clear municipal sewer mains, flush with water and deodorize
+19
+20
+the land upon which SSO has occurred, and remove SSO debris from
+20
+21
+land upon which SSO has occurred;
+21
+22
+
+Section 6:
+4. Adoption of a “Fats, Oils, and Grease (FOG) Ordinance” that
+22
+23
+makes unlawful the improper introduction of fats, oils, or grease
+23
+24
+from nonresidential entities that are connected to the sanitary
+24
+Req. No. 1398 Page 2
+1
+sewer system and incorporating pre-treatment regulations adopted by
+1
+2
+the Department of Environmental Quality for such entities. Public
+2
+3
+utilities shall periodically notify sanitary sewer system
+3
+4
+participants and dischargers of the restrictions within this
+4
+5
+paragraph;
+5
+6
+
+Section 7:
+5. Adoption of an ordinance requiring new construction or
+6
+7
+remodels of existing buildings to be connected to the sanitary sewer
+7
+8
+system, including the installation of a backflow prevention device
+8
+9
+on the private service line connecting the structure to the sanitary
+9
+10
+sewer main line;
+10
+11
+
+Section 8:
+6. Adoption of a policy that will notify private residential
+11
+12
+property owners who are connected to the sanitary sewer system of
+12
+13
+the option to provide additional personal protection through
+13
+14
+installation of a backflow prevention system on the private service
+14
+15
+line connecting the property to the sanitary sewer main line. At
+15
+16
+the discretion of the governing body of the public utility, after
+16
+17
+considering available funding, private residential property owners
+17
+18
+connected to the sewer system may be offered public assistance with
+18
+19
+installation and inspection of backflow prevention devices;
+19
+20
+
+Section 9:
+7. Adoption of a funding availability model that identifies:
+20
+21
+a. the total revenue from ratepayers that can reasonably
+21
+22
+be expected over a fiscal year,
+22
+23
+b. other funding sources from municipal revenues that can
+23
+24
+reasonably be expected to be contributed to the
+24
+Req. No. 1398 Page 3
+1
+sanitary sewer system operations, maintenance, or
+1
+2
+capital improvements,
+2
+3
+c. external sources of funding from local, state,
+3
+4
+federal, or tribal entities that could be available
+4
+5
+for sanitary sewer system operations, maintenance, or
+5
+6
+capital improvements, and
+6
+7
+d. bonding capacities, whether revenue bonds or general
+7
+8
+obligation bonds, that could be available for sanitary
+8
+9
+sewer system operations, maintenance, or capital
+9
+10
+improvements;
+10
+11
+Funding availability models shall be reviewed at least every five
+11
+12
+(5) years to include a rate study recommending reasonable rates for
+12
+13
+those connected to the sanitary sewer system; and
+13
+14
+
+Section 10:
+8. Adoption of a five-year capital improvement plan that
+14
+15
+considers dedication of funding available to:
+15
+16
+a. repair or replace sanitary sewer lines that have been
+16
+17
+identified as severely occluded,
+17
+18
+b. repair or replace municipal sanitary sewer lift
+18
+19
+stations necessary for the continued operation of the
+19
+20
+system, and
+20
+21
+c. access or purchase equipment for operation of the
+21
+22
+municipal sanitary sewer system serving the citizens
+22
+23
+of the municipality that are connected to the
+23
+24
+municipal sanitary sewer system.
+24
+Req. No. 1398 Page 4
+1
+C. Notification as described in paragraphs 4 and 6 of
+1
+2
+subsection B of this section shall be satisfied by annual
+2
+3
+publication in a newspaper of general circulation within the service
+3
+4
+area of the public utility, publication on the public utility
+4
+5
+sponsored website, or annual inserts in ratepayer monthly utility
+5
+6
+bills. Nothing in this subsection shall be construed to prohibit a
+6
+7
+public utility from making multiple notifications to ratepayers in
+7
+8
+the one-year period.
+8
+9
+D. Public utilities that are in the process of implementing
+9
+10
+policies prescribed in subsection B of this section for completion
+10
+11
+and implementation within five (5) years of the effective date of
+11
+12
+this act shall be considered in compliance with the provisions of
+12
+13
+this section.
+13
+14
+E. The Oklahoma Water Resources Board and other state agencies
+14
+15
+that provide funding to public utilities for water and wastewater
+15
+16
+improvements shall ensure the ranking structure for approval of
+16
+17
+applications for funding accounts for the sustainability efforts of
+17
+18
+systems that adopted the plans identified in this statute.
+18
+19
+F. There shall be no right of recovery for personal injury from
+19
+20
+a sanitary sewer overflow, provided that the utility charged with
+20
+21
+operation of the sanitary sewer system is working to maintain its
+21
+22
+sanitary sewer system in accordance with the guidance and criteria
+22
+23
+promulgated by the governing body pursuant to subsection B of this
+23
+24
+
+Section 11:
+section and any criteria or guidelines promulgated by a governmental
+24
+Req. No. 1398 Page 5
+1
+entity under an interlocal cooperative pursuant to Section 1001 et
+1
+2
+seq. of Title 74 of the Oklahoma Statutes, as such components are
+2
+3
+determined by the governing body to be fiscally achievable
+3
+4
+considering available revenue streams to the public utility to fund
+4
+5
+the same. While those municipalities qualifying for relief under
+5
+6
+this section shall be exempt from personal injury damage claims of
+6
+7
+annoyance and inconvenience associated with a sanitary sewer
+7
+8
+overflow that alleges a nuisance-based cause of action, nothing
+8
+9
+herein shall otherwise prohibit a right of recovery for property
+9
+10
+damages associated with a sanitary sewer overflow in accordance with
+10
+11
+The Governmental Tort Claims Act.
+11
+12
+
+Section 12:
+SECTION 2. AMENDATORY 51 O.S. 2021, Section 152, as last
+12
+13
+amended by Section 111, Chapter 452, O.S.L. 2024 (51 O.S. Supp.
+13
+14
+2024, Section 152), is amended to read as follows:
+14
+15
+
+Section 13:
+Section 152. As used in The Governmental Tort Claims Act:
+15
+16
+
+Section 14:
+1. “Action” means a proceeding in a court of competent
+16
+17
+jurisdiction by which one party brings a suit against another;
+17
+18
+
+Section 15:
+2. “Agency” means any board, commission, committee, department
+18
+19
+or other instrumentality or entity designated to act in behalf of
+19
+20
+the state or a political subdivision;
+20
+21
+
+Section 16:
+3. “Charitable health care provider” means a person who is
+21
+22
+licensed, certified, or otherwise authorized by the laws of this
+22
+23
+state to administer health care in the ordinary course of business
+23
+24
+or the practice of a profession and who provides care to a medically
+24
+Req. No. 1398 Page 6
+1
+indigent person, as defined in paragraph 9 of this section, with no
+1
+2
+expectation of or acceptance of compensation of any kind;
+2
+3
+
+Section 17:
+4. “Claim” means any written demand presented by a claimant or
+3
+4
+the claimant’s authorized representative in accordance with the The
+4
+5
+Governmental Tort Claims Act to recover money from the state or
+5
+6
+political subdivision as compensation for an act or omission of a
+6
+7
+political subdivision or the state or an employee;
+7
+8
+
+Section 18:
+5. “Claimant” means the person or the person’s authorized
+8
+9
+representative who files notice of a claim in accordance with The
+9
+10
+Governmental Tort Claims Act. Only the following persons and no
+10
+11
+others may be claimants:
+11
+12
+a. any person holding an interest in real or personal
+12
+13
+property which suffers a loss, provided that the claim
+13
+14
+of the person shall be aggregated with claims of all
+14
+15
+other persons holding an interest in the property and
+15
+16
+the claims of all other persons which are derivative
+16
+17
+of the loss, and that multiple claimants shall be
+17
+18
+considered a single claimant,
+18
+19
+b. the individual actually involved in the accident or
+19
+20
+occurrence who suffers a loss, provided that the
+20
+21
+individual shall aggregate in the claim the losses of
+21
+22
+all other persons which are derivative of the loss, or
+22
+23
+c. in the case of death, an administrator, special
+23
+24
+administrator or a personal representative who shall
+24
+Req. No. 1398 Page 7
+1
+aggregate in the claim all losses of all persons which
+1
+2
+are derivative of the death;
+2
+3
+
+Section 19:
+6. “Community health care provider” means:
+3
+4
+a. a health care provider who volunteers services at a
+4
+5
+community health center that has been deemed by the
+5
+6
+U.S. Department of Health and Human Services as a
+6
+7
+federally qualified health center as defined by 42
+7
+8
+U.S.C., Section 1396d(l)(2)(B),
+8
+9
+b. a health provider who provides services to an
+9
+10
+organization that has been deemed a federally
+10
+11
+qualified look-alike community health center, and
+11
+12
+c. a health care provider who provides services to a
+12
+13
+community health center that has made application to
+13
+14
+the U.S. Department of Health and Human Services for
+14
+15
+approval and deeming as a federally qualified look-
+15
+16
+alike community health center in compliance with
+16
+17
+federal application guidance, and has received
+17
+18
+comments from the U.S. Department of Health and Human
+18
+19
+Services as to the status of such application with the
+19
+20
+established intent of resubmitting a modified
+20
+21
+application, or, if denied, a new application, no
+21
+22
+later than six (6) months from the date of the
+22
+23
+official notification from the U.S. Department of
+23
+24
+24
+Req. No. 1398 Page 8
+1
+Health and Human Services requiring resubmission of a
+1
+2
+new application;
+2
+3
+
+Section 20:
+7. “Employee” means any person who is authorized to act in
+3
+4
+behalf of a political subdivision or the state whether that person
+4
+5
+is acting on a permanent or temporary basis, with or without being
+5
+6
+compensated or on a full-time or part-time basis.
+6
+7
+a. Employee also includes:
+7
+8
+(1) all elected or appointed officers, members of
+8
+9
+governing bodies and other persons designated to
+9
+10
+act for an agency or political subdivision, but
+10
+11
+the term does not mean a person or other legal
+11
+12
+entity while acting in the capacity of an
+12
+13
+independent contractor or an employee of an
+13
+14
+independent contractor,
+14
+15
+(2) from September 1, 1991, through June 30, 1996,
+15
+16
+licensed physicians, licensed osteopathic
+16
+17
+physicians and certified nurse-midwives providing
+17
+18
+prenatal, delivery or infant care services to
+18
+19
+State Department of Health clients pursuant to a
+19
+20
+contract entered into with the State Department
+20
+21
+of Health in accordance with paragraph 3 of
+21
+22
+subsection B of Section 1-106 of Title 63 of the
+22
+23
+Oklahoma Statutes but only insofar as services
+23
+24
+authorized by and in conformity with the terms of
+24
+Req. No. 1398 Page 9
+1
+the contract and the requirements of Section 1-
+1
+2
+233 of Title 63 of the Oklahoma Statutes, and
+2
+3
+(3) any volunteer, full-time or part-time firefighter
+3
+4
+when performing duties for a fire department
+4
+5
+provided for in subparagraph j of paragraph 11 of
+5
+6
+this section.
+6
+7
+b. For the purposes of The Governmental Tort Claims Act,
+7
+8
+the following are employees of this state, regardless
+8
+9
+of the place in this state where duties as employees
+9
+10
+are performed:
+10
+11
+(1) physicians acting in an administrative capacity,
+11
+12
+(2) resident physicians and resident interns
+12
+13
+participating in a graduate medical education
+13
+14
+program of the University of Oklahoma Health
+14
+15
+Sciences Center, the College of Osteopathic
+15
+16
+Medicine of Oklahoma State University, or the
+16
+17
+Department of Mental Health and Substance Abuse
+17
+18
+Services,
+18
+19
+(3) faculty members and staff of the University of
+19
+20
+Oklahoma Health Sciences Center and the College
+20
+21
+of Osteopathic Medicine of Oklahoma State
+21
+22
+University, while engaged in teaching duties,
+22
+23
+23
+24
+24
+Req. No. 1398 Page 10
+1
+(4) physicians who practice medicine or act in an
+1
+2
+administrative capacity as an employee of an
+2
+3
+agency of the State of Oklahoma,
+3
+4
+(5) physicians who provide medical care to inmates
+4
+5
+pursuant to a contract with the Department of
+5
+6
+Corrections,
+6
+7
+(6) any person who is licensed to practice medicine
+7
+8
+pursuant to Title 59 of the Oklahoma Statutes,
+8
+9
+who is under an administrative professional
+9
+10
+services contract with the Oklahoma Health Care
+10
+11
+Authority under the auspices of the Oklahoma
+11
+12
+Health Care Authority Chief Medical Officer, and
+12
+13
+who is limited to performing administrative
+13
+14
+duties such as professional guidance for medical
+14
+15
+reviews, reimbursement rates, service
+15
+16
+utilization, health care delivery and benefit
+16
+17
+design for the Oklahoma Health Care Authority,
+17
+18
+only while acting within the scope of such
+18
+19
+contract,
+19
+20
+(7) licensed medical professionals under contract
+20
+21
+with city, county, or state entities who provide
+21
+22
+medical care to inmates or detainees in the
+22
+23
+custody or control of law enforcement agencies,
+23
+24
+24
+Req. No. 1398 Page 11
+1
+(8) licensed mental health professionals as defined
+1
+2
+in Sections 1-103 and 5-502 of Title 43A of the
+2
+3
+Oklahoma Statutes, who are conducting initial
+3
+4
+examinations of individuals for the purpose of
+4
+5
+determining whether an individual meets the
+5
+6
+criteria for emergency detention as part of a
+6
+7
+contract with the Department of Mental Health and
+7
+8
+Substance Abuse Services, and
+8
+9
+(9) licensed mental health professionals as defined
+9
+10
+in Sections 1-103 and 5-502 of Title 43A of the
+10
+11
+Oklahoma Statutes, who are providing mental
+11
+12
+health or substance abuse treatment services
+12
+13
+under a professional services contract with the
+13
+14
+Department of Mental Health and Substance Abuse
+14
+15
+Services and are providing such treatment
+15
+16
+services at a state-operated facility.
+16
+17
+Physician faculty members and physician staff of the
+17
+18
+University of Oklahoma Health Sciences Center and the
+18
+19
+College of Osteopathic Medicine of Oklahoma State
+19
+20
+University not acting in an administrative capacity or
+20
+21
+engaged in teaching duties are not employees or agents
+21
+22
+of the state.
+22
+23
+c. For the purposes of The Governmental Tort Claims Act,
+23
+24
+employee shall include independent contractors and
+24
+Req. No. 1398 Page 12
+1
+employees of independent contractors while actively
+1
+2
+engaged in the transport of individuals in need of
+2
+3
+initial assessment, emergency detention, or protective
+3
+4
+custody as authorized by Section 1-110 of Title 43A of
+4
+5
+the Oklahoma Statutes.
+5
+6
+d. Except as provided in subparagraph b of this
+6
+7
+paragraph, in no event shall the state be held liable
+7
+8
+for the tortious conduct of any physician, resident
+8
+9
+physician or intern while practicing medicine or
+9
+10
+providing medical treatment to patients.
+10
+11
+e. For purposes of The Governmental Tort Claims Act,
+11
+12
+members of the state military forces on state active
+12
+13
+duty orders or on Title 32 active duty orders are
+13
+14
+employees of this state, regardless of the place,
+14
+15
+within or outside this state, where their duties as
+15
+16
+employees are performed;
+16
+17
+
+Section 21:
+8. “Loss” means death or injury to the body or rights of a
+17
+18
+person or damage to real or personal property or rights therein;
+18
+19
+
+Section 22:
+9. “Medically indigent” means a person requiring medically
+19
+20
+necessary hospital or other health care services for the person or
+20
+21
+the dependents of the person who has no public or private third-
+21
+22
+party coverage, and whose personal resources are insufficient to
+22
+23
+provide for needed health care;
+23
+24
+24
+Req. No. 1398 Page 13
+1
+
+Section 23:
+10. “Municipality” means any incorporated city or town, and all
+1
+2
+institutions, agencies or instrumentalities of a municipality;
+2
+3
+
+Section 24:
+11. “Occurrence” means a loss arising out of an accident or
+3
+4
+event or a continuous or repeated exposure to substantially the same
+4
+5
+general harmful conditions. All losses arising out of an accident
+5
+6
+or event or a continuous or repeated exposure to substantially the
+6
+7
+same general harmful conditions shall be deemed to have arisen out
+7
+8
+of one occurrence;
+8
+9
+
+Section 25:
+12. “Political subdivision” means:
+9
+10
+a. a municipality,
+10
+11
+b. a school district, including, but not limited to, a
+11
+12
+technology center school district established pursuant
+12
+13
+to Section 4410, 4411, 4420 or 4420.1 of Title 70 of
+13
+14
+the Oklahoma Statutes,
+14
+15
+c. a county,
+15
+16
+d. a public trust where the sole beneficiary or
+16
+17
+beneficiaries are a city, town, school district or
+17
+18
+county. For purposes of The Governmental Tort Claims
+18
+19
+Act, a public trust shall include:
+19
+20
+(1) a municipal hospital created pursuant to Sections
+20
+21
+30-101 through 30-109 of Title 11 of the Oklahoma
+21
+22
+Statutes, a county hospital created pursuant to
+22
+23
+
+Section 26:
+Sections 781 through 796 of Title 19 of the
+23
+24
+Oklahoma Statutes, or is created pursuant to a
+24
+Req. No. 1398 Page 14
+1
+joint agreement between such governing
+1
+2
+authorities, that is operated for the public
+2
+3
+benefit by a public trust created pursuant to
+3
+4
+
+Section 27:
+Sections 176 through 180.4 of Title 60 of the
+4
+5
+Oklahoma Statutes and managed by a governing
+5
+6
+board appointed or elected by the municipality,
+6
+7
+county, or both, who exercises control of the
+7
+8
+hospital, subject to the approval of the
+8
+9
+governing body of the municipality, county, or
+9
+10
+both,
+10
+11
+(2) a public trust created pursuant to Sections 176
+11
+12
+through 180.4 of Title 60 of the Oklahoma
+12
+13
+Statutes after January 1, 2009, the primary
+13
+14
+purpose of which is to own, manage, or operate a
+14
+15
+public acute care hospital in this state that
+15
+16
+serves as a teaching hospital for a medical
+16
+17
+residency program provided by a college of
+17
+18
+osteopathic medicine and provides care to
+18
+19
+indigent persons, and
+19
+20
+(3) a corporation in which all of the capital stock
+20
+21
+is owned, or a limited liability company in which
+21
+22
+all of the member interest is owned, by a public
+22
+23
+trust,
+23
+24
+24
+Req. No. 1398 Page 15
+1
+e. for the purposes of The Governmental Tort Claims Act
+1
+2
+only, a housing authority created pursuant to the
+2
+3
+provisions of the Oklahoma Housing Authorities Act,
+3
+4
+f. for the purposes of The Governmental Tort Claims Act
+4
+5
+only, corporations organized not for profit pursuant
+5
+6
+to the provisions of the Oklahoma General Corporation
+6
+7
+Act for the primary purpose of developing and
+7
+8
+providing rural water supply and sewage disposal
+8
+9
+facilities to serve rural residents,
+9
+10
+g. for the purposes of The Governmental Tort Claims Act
+10
+11
+only, districts formed pursuant to the Rural Water,
+11
+12
+Sewer, Gas and Solid Waste Management Districts Act,
+12
+13
+h. for the purposes of The Governmental Tort Claims Act
+13
+14
+only, master conservancy districts formed pursuant to
+14
+15
+the Conservancy Act of Oklahoma,
+15
+16
+i. for the purposes of The Governmental Tort Claims Act
+16
+17
+only, a fire protection district created pursuant to
+17
+18
+the provisions of Section 901.1 et seq. of Title 19 of
+18
+19
+the Oklahoma Statutes,
+19
+20
+j. for the purposes of The Governmental Tort Claims Act
+20
+21
+only, a benevolent or charitable corporate volunteer
+21
+22
+or full-time fire department for an unincorporated
+22
+23
+area created pursuant to the provisions of Section 592
+23
+24
+et seq. of Title 18 of the Oklahoma Statutes,
+24
+Req. No. 1398 Page 16
+1
+k. for purposes of The Governmental Tort Claims Act only,
+1
+2
+an Emergency Services Provider rendering services
+2
+3
+within the boundaries of a Supplemental Emergency
+3
+4
+Services District pursuant to an existing contract
+4
+5
+between the Emergency Services Provider and the State
+5
+6
+Department of Health. Provided, however, that the
+6
+7
+acquisition of commercial liability insurance covering
+7
+8
+the activities of such Emergency Services Provider
+8
+9
+performed within this state shall not operate as a
+9
+10
+waiver of any of the limitations, immunities or
+10
+11
+defenses provided for political subdivisions pursuant
+11
+12
+to the terms of The Governmental Tort Claims Act,
+12
+13
+l. for purposes of The Governmental Tort Claims Act only,
+13
+14
+a conservation district created pursuant to the
+14
+15
+provisions of the Conservation District Act,
+15
+16
+m. for purposes of The Governmental Tort Claims Act,
+16
+17
+districts formed pursuant to the Oklahoma Irrigation
+17
+18
+District Act,
+18
+19
+n. for purposes of The Governmental Tort Claims Act only,
+19
+20
+any community action agency established pursuant to
+20
+21
+
+Section 28:
+Sections 5035 through 5040 of Title 74 of the Oklahoma
+21
+22
+Statutes,
+22
+23
+o. for purposes of The Governmental Tort Claims Act only,
+23
+24
+any organization that is designated as a youth
+24
+Req. No. 1398 Page 17
+1
+services agency, pursuant to Section 2-7-306 of Title
+1
+2
+10A of the Oklahoma Statutes,
+2
+3
+p. for purposes of The Governmental Tort Claims Act only,
+3
+4
+any judge presiding over a drug court, as defined by
+4
+5
+
+Section 29:
+Section 471.1 of Title 22 of the Oklahoma Statutes,
+5
+6
+q. for purposes of The Governmental Tort Claims Act only,
+6
+7
+any child-placing agency licensed by this state to
+7
+8
+place children in foster family homes,
+8
+9
+r. for purposes of The Governmental Tort Claims Act only,
+9
+10
+a circuit engineering district created pursuant to
+10
+11
+
+Section 30:
+Section 687.1 of Title 69 of the Oklahoma Statutes,
+11
+12
+s. for purposes of the The Governmental Tort Claims Act
+12
+13
+only, a substate planning district, regional council
+13
+14
+of government or other entity created pursuant to
+14
+15
+
+Section 31:
+Section 1001 et seq. of Title 74 of the Oklahoma
+15
+16
+Statutes, and
+16
+17
+t. for purposes of The Governmental Tort Claims Act only,
+17
+18
+a regional transportation authority created pursuant
+18
+19
+to Section 1370.7 of Title 68 of the Oklahoma Statutes
+19
+20
+including its contract operator and any railroad
+20
+21
+operating in interstate commerce that sells a property
+21
+22
+interest or provides services to a regional
+22
+23
+transportation authority or allows the authority to
+23
+24
+use the property or tracks of the railroad for the
+24
+Req. No. 1398 Page 18
+1
+provision of public passenger rail service to the
+1
+2
+extent claims against the contract operator or
+2
+3
+railroad arise out of or are related to or in
+3
+4
+connection with such property interest, services or
+4
+5
+operation of the public passenger rail service.
+5
+6
+Provided, the acquisition of commercial liability
+6
+7
+insurance to cover the activities of the regional
+7
+8
+transportation authority, contract operator or
+8
+9
+railroad shall not operate as a waiver of any
+9
+10
+liabilities, immunities or defenses provided pursuant
+10
+11
+to the provisions of the The Governmental Tort Claims
+11
+12
+Act,
+12
+13
+and all their institutions, instrumentalities or agencies;
+13
+14
+
+Section 32:
+12. 13. “Scope of employment” means performance by an employee
+14
+15
+acting in good faith within the duties of the employee’s office or
+15
+16
+employment or of tasks lawfully assigned by a competent authority
+16
+17
+including the operation or use of an agency vehicle or equipment
+17
+18
+with actual or implied consent of the supervisor of the employee,
+18
+19
+but shall not include corruption or fraud;
+19
+20
+
+Section 33:
+13. 14. “State” means the State of Oklahoma or any office,
+20
+21
+department, agency, authority, commission, board, institution,
+21
+22
+hospital, college, university, public trust created pursuant to
+22
+23
+Title 60 of the Oklahoma Statutes of which the State of Oklahoma is
+23
+24
+the beneficiary, or other instrumentality thereof;
+24
+Req. No. 1398 Page 19
+1
+
+Section 34:
+14. 15. “State active duty” shall be defined in accordance with
+1
+2
+
+Section 35:
+Section 801 of Title 44 of the Oklahoma Statutes;
+2
+3
+
+Section 36:
+15. 16. “State military forces” shall be defined in accordance
+3
+4
+with Section 801 of Title 44 of the Oklahoma Statutes;
+4
+5
+
+Section 37:
+16. 17. “Title 32 active duty” shall be defined in accordance
+5
+6
+with Section 801 of Title 44 of the Oklahoma Statutes; and
+6
+7
+
+Section 38:
+17. 18. “Tort” means a legal wrong, independent of contract,
+7
+8
+involving violation of a duty imposed by general law, statute, the
+8
+9
+Constitution of the State of Oklahoma, or otherwise, resulting in a
+9
+10
+loss to any person, association or corporation as the proximate
+10
+11
+result of an act or omission of a political subdivision or the state
+11
+12
+or an employee acting within the scope of employment; provided,
+12
+13
+however, a tort shall not include a claim for inverse condemnation.
+13
+14
+
+Section 39:
+SECTION 3. AMENDATORY 51 O.S. 2021, Section 154, is
+14
+15
+amended to read as follows:
+15
+16
+
+Section 40:
+Section 154. A. The total liability of the state and its
+16
+17
+political subdivisions on claims within the scope of The
+17
+18
+Governmental Tort Claims Act, arising out of an accident or
+18
+19
+occurrence happening after October 1, 1985, Section 151 et seq. of
+19
+20
+this title, shall not exceed:
+20
+21
+
+Section 41:
+1. Twenty-five Thousand Dollars ($25,000.00) Thirty-five
+21
+22
+Thousand Dollars ($35,000.00) for any claim or to any claimant who
+22
+23
+has more than one claim for loss of property, including related
+23
+24
+24
+Req. No. 1398 Page 20
+1
+consequential damages, arising out of a single act, accident, or
+1
+2
+occurrence;
+2
+3
+
+Section 42:
+2. For physical injury from a municipal overflow or backup,
+3
+4
+Five Thousand Dollars ($5,000.00) per individual person occupying
+4
+5
+the structure at the time of the occurrence not to exceed an
+5
+6
+aggregate damage amount of Twenty Thousand Dollars ($20,000.00) per
+6
+7
+occurrence regardless of the number person affected by the
+7
+8
+occurrence;
+8
+9
+
+Section 43:
+3. For nuisance, annoyance, or inconvenience damages from a
+9
+10
+municipal sewer overflow or backup, Five Thousand Dollars
+10
+11
+($5,000.00) per individual person occupying the structure at the
+11
+12
+time of the occurrence not to exceed an aggregate damage amount of
+12
+13
+Twenty Thousand Dollars ($20,000.00) per occurrence regardless of
+13
+14
+the number of persons affected by the occurrence;
+14
+15
+
+Section 44:
+4. Except as otherwise provided in this paragraph, One Hundred
+15
+16
+Twenty-five Thousand Dollars ($125,000.00) One Hundred Fifty
+16
+17
+Thousand Dollars ($150,000.00) to any claimant for a claim for any
+17
+18
+other loss arising out of a single act, accident, or occurrence.
+18
+19
+The limit of liability for the state or any city or county with a
+19
+20
+population of three hundred thousand (300,000) or more according to
+20
+21
+the latest Federal Decennial Census, or a political subdivision as
+21
+22
+defined in subparagraph s of paragraph 11 of Section 152 of this
+22
+23
+title, shall not exceed One Hundred Seventy-five Thousand Dollars
+23
+24
+($175,000.00) Two Hundred Thousand Dollars ($200,000.00). Except
+24
+Req. No. 1398 Page 21
+1
+however, the limits of the liability for the University Hospitals
+1
+2
+and State Mental Health Hospitals operated by the Department of
+2
+3
+Mental Health and Substance Abuse Services for claims arising from
+3
+4
+medical negligence shall be Two Hundred Thousand Dollars
+4
+5
+($200,000.00) Two Hundred Twenty-five Thousand Dollars
+5
+6
+($225,000.00). For claims arising from medical negligence by any
+6
+7
+licensed physician, osteopathic physician or certified nurse-midwife
+7
+8
+rendering prenatal, delivery or infant care services from September
+8
+9
+1, 1991, through June 30, 1996, pursuant to a contract authorized by
+9
+10
+subsection B of Section 1-106 of Title 63 of the Oklahoma Statutes
+10
+11
+and in conformity with the requirements of Section 1-233 of Title 63
+11
+12
+of the Oklahoma Statutes, the limits of the liability shall be Two
+12
+13
+Hundred Thousand Dollars ($200,000.00) Two Hundred Twenty-five
+13
+14
+Thousand Dollars ($225,000.00); or
+14
+15
+
+Section 45:
+3. 5. One Million Dollars ($1,000,000.00) for any number of
+15
+16
+claims for indemnification pursuant to Section 162 of this title
+16
+17
+arising out of a single occurrence or accident; or
+17
+18
+
+Section 46:
+6. One Million Two Hundred Fifty Thousand Dollars
+18
+19
+(1,250,000.00) for any number of claims arising out of a single
+19
+20
+occurrence or accident.
+20
+21
+B. 1. Beginning on May 28, 2003, claims shall be allowed for
+21
+22
+wrongful criminal felony conviction resulting in imprisonment if the
+22
+23
+claimant has received a full pardon on the basis of a written
+23
+24
+finding by the Governor of actual innocence for the crime for which
+24
+Req. No. 1398 Page 22
+1
+the claimant was sentenced or has been granted judicial relief
+1
+2
+absolving the claimant of guilt on the basis of actual innocence of
+2
+3
+the crime for which the claimant was sentenced. The Governor or the
+3
+4
+court shall specifically state, in the pardon or order, the evidence
+4
+5
+or basis on which the finding of actual innocence is based.
+5
+6
+
+Section 47:
+2. As used in paragraph 1 of this subsection, for a claimant to
+6
+7
+recover based on “actual innocence”, the individual must meet the
+7
+8
+following criteria:
+8
+9
+a. the individual was charged, by indictment or
+9
+10
+information, with the commission of a public offense
+10
+11
+classified as a felony,
+11
+12
+b. the individual did not plead guilty to the offense
+12
+13
+charged, or to any lesser included offense, but was
+13
+14
+convicted of the offense,
+14
+15
+c. the individual was sentenced to incarceration for a
+15
+16
+term of imprisonment as a result of the conviction,
+16
+17
+d. the individual was imprisoned solely on the basis of
+17
+18
+the conviction for the offense, and
+18
+19
+e. (1) in the case of a pardon, a determination was made
+19
+20
+by either the Pardon and Parole Board or the
+20
+21
+Governor that the offense for which the
+21
+22
+individual was convicted, sentenced and
+22
+23
+imprisoned, including any lesser offenses, was
+23
+24
+not committed by the individual, or
+24
+Req. No. 1398 Page 23
+1
+(2) in the case of judicial relief, a court of
+1
+2
+competent jurisdiction found by clear and
+2
+3
+convincing evidence that the offense for which
+3
+4
+the individual was convicted, sentenced and
+4
+5
+imprisoned, including any lesser included
+5
+6
+offenses, was not committed by the individual and
+6
+7
+issued an order vacating, dismissing or reversing
+7
+8
+the conviction and sentence and providing that no
+8
+9
+further proceedings can be or will be held
+9
+10
+against the individual on any facts and
+10
+11
+circumstances alleged in the proceedings which
+11
+12
+had resulted in the conviction.
+12
+13
+
+Section 48:
+3. A claimant shall not be entitled to compensation for any
+13
+14
+part of a sentence in prison during which the claimant was also
+14
+15
+serving a concurrent sentence for a crime not covered by this
+15
+16
+subsection.
+16
+17
+
+Section 49:
+4. The total liability of the state and its political
+17
+18
+subdivisions on any claim within the scope of The Governmental Tort
+18
+19
+Claims Act arising out of wrongful criminal felony conviction
+19
+20
+resulting in imprisonment shall not exceed One Hundred Seventy-five
+20
+21
+Thousand Dollars ($175,000.00).
+21
+22
+
+Section 50:
+5. The provisions of this subsection shall apply to convictions
+22
+23
+occurring on or before May 28, 2003, as well as convictions
+23
+24
+occurring after May 28, 2003. If a court of competent jurisdiction
+24
+Req. No. 1398 Page 24
+1
+finds that retroactive application of this subsection is
+1
+2
+unconstitutional, the prospective application of this subsection
+2
+3
+shall remain valid.
+3
+4
+C. No award for damages in an action or any claim against the
+4
+5
+state or a political subdivision shall include punitive or exemplary
+5
+6
+damages.
+6
+7
+D. When the amount awarded to or settled upon multiple
+7
+8
+claimants exceeds the limitations of this section, any party may
+8
+9
+apply to the district court which has jurisdiction of the cause to
+9
+10
+apportion to each claimant the claimant’s proper share of the total
+10
+11
+amount as limited herein. The share apportioned to each claimant
+11
+12
+shall be in the proportion that the ratio of the award or settlement
+12
+13
+made to him each claimant bears to the aggregate awards and
+13
+14
+settlements for all claims against the state or its political
+14
+15
+subdivisions arising out of the occurrence. When the amount of the
+15
+16
+aggregate losses presented by a single claimant exceeds the limits
+16
+17
+of paragraph 1 or 2 of subsection A of this section, each person
+17
+18
+suffering a loss shall be entitled to that person’s proportionate
+18
+19
+share.
+19
+20
+E. The total liability of resident physicians and interns while
+20
+21
+participating in a graduate medical education program of the
+21
+22
+University of Oklahoma College of Medicine, its affiliated
+22
+23
+institutions and the Oklahoma State University College of
+23
+24
+Osteopathic Medicine and Surgery shall not exceed One Hundred
+24
+Req. No. 1398 Page 25
+1
+Thousand Dollars ($100,000.00) One Hundred Twenty-five Thousand
+1
+2
+Dollars ($125,000.00).
+2
+3
+F. The state or a political subdivision may petition the court
+3
+4
+that all parties and actions arising out of a single accident or
+4
+5
+occurrence shall be joined as provided by law, and upon order of the
+5
+6
+court the proceedings upon good cause shown shall be continued for a
+6
+7
+reasonable time or until such joinder has been completed. The state
+7
+8
+or political subdivision shall be allowed to interplead in any
+8
+9
+action which may impose on it any duty or liability pursuant to The
+9
+10
+Governmental Tort Claims Act.
+10
+11
+G. The liability of the state or political subdivision under
+11
+12
+The Governmental Tort Claims Act shall be several from that of any
+12
+13
+other person or entity, and the state or political subdivision shall
+13
+14
+only be liable for that percentage of total damages that corresponds
+14
+15
+to its percentage of total negligence. Nothing in this section
+15
+16
+shall be construed as increasing the liability limits imposed on the
+16
+17
+state or political subdivision under The Governmental Tort Claims
+17
+18
+Act.
+18
+19
+
+Section 51:
+SECTION 4. AMENDATORY 51 O.S. 2021, Section 155, as
+19
+20
+amended by Section 21, Chapter 228, O.S.L. 2022 (51 O.S. Supp. 2024,
+20
+21
+
+Section 52:
+Section 155), is amended to read as follows:
+21
+22
+
+Section 53:
+Section 155. The state or a political subdivision shall not be
+22
+23
+liable if a loss or claim results from:
+23
+24
+
+Section 54:
+1. Legislative functions;
+24
+Req. No. 1398 Page 26
+1
+
+Section 55:
+2. Judicial, quasi-judicial, or prosecutorial functions, other
+1
+2
+than claims for wrongful criminal felony conviction resulting in
+2
+3
+imprisonment provided for in Section 154 of this title;
+3
+4
+
+Section 56:
+3. Execution or enforcement of the lawful orders of any court;
+4
+5
+
+Section 57:
+4. Adoption or enforcement of or failure to adopt or enforce a
+5
+6
+law, whether valid or invalid, including, but not limited to, any
+6
+7
+statute, charter provision, ordinance, resolution, rule, regulation
+7
+8
+or written policy;
+8
+9
+
+Section 58:
+5. Performance of or the failure to exercise or perform any act
+9
+10
+or service which is in the discretion of the state or political
+10
+11
+subdivision or its employees;
+11
+12
+
+Section 59:
+6. Civil disobedience, riot, insurrection or rebellion or the
+12
+13
+failure to provide, or the method of providing, police, law
+13
+14
+enforcement or fire protection;
+14
+15
+
+Section 60:
+7. Any claim based on the theory of attractive nuisance;
+15
+16
+
+Section 61:
+8. Snow or ice conditions or temporary or natural conditions on
+16
+17
+any public way or other public place due to weather conditions,
+17
+18
+unless the condition is affirmatively caused by the negligent act of
+18
+19
+the state or a political subdivision;
+19
+20
+
+Section 62:
+9. Entry upon any property where that entry is expressly or
+20
+21
+implied authorized by law;
+21
+22
+
+Section 63:
+10. Natural conditions of property of the state or political
+22
+23
+subdivision;
+23
+24
+24
+Req. No. 1398 Page 27
+1
+
+Section 64:
+11. Assessment or collection of taxes or special assessments,
+1
+2
+license or registration fees, or other fees or charges imposed by
+2
+3
+law;
+3
+4
+
+Section 65:
+12. Licensing powers or functions including, but not limited
+4
+5
+to, the issuance, denial, suspension or revocation of or failure or
+5
+6
+refusal to issue, deny, suspend or revoke any permit, license,
+6
+7
+certificate, approval, order or similar authority;
+7
+8
+
+Section 66:
+13. Inspection powers or functions, including failure to make
+8
+9
+an inspection, review or approval, or making an inadequate or
+9
+10
+negligent inspection, review or approval of any property, real or
+10
+11
+personal, to determine whether the property complies with or
+11
+12
+violates any law or contains a hazard to health or safety, or fails
+12
+13
+to conform to a recognized standard;
+13
+14
+
+Section 67:
+14. Any loss to any person covered by any workers’ compensation
+14
+15
+act or any employer’s liability act;
+15
+16
+
+Section 68:
+15. Absence, condition, location or malfunction of any traffic
+16
+17
+or road sign, signal or warning device unless the absence,
+17
+18
+condition, location or malfunction is not corrected by the state or
+18
+19
+political subdivision responsible within a reasonable time after
+19
+20
+actual or constructive notice or the removal or destruction of such
+20
+21
+signs, signals or warning devices by third parties, action of
+21
+22
+weather elements or as a result of traffic collision except on
+22
+23
+failure of the state or political subdivision to correct the same
+23
+24
+within a reasonable time after actual or constructive notice.
+24
+Req. No. 1398 Page 28
+1
+Nothing herein shall give rise to liability arising from the failure
+1
+2
+of the state or any political subdivision to initially place any of
+2
+3
+the above signs, signals or warning devices. The signs, signals and
+3
+4
+warning devices referred to herein are those used in connection with
+4
+5
+hazards normally connected with the use of roadways or public ways
+5
+6
+and do not apply to the duty to warn of special defects such as
+6
+7
+excavations or roadway obstructions;
+7
+8
+
+Section 69:
+16. Any claim which is limited or barred by any other law;
+8
+9
+
+Section 70:
+17. Misrepresentation, if unintentional;
+9
+10
+
+Section 71:
+18. An act or omission of an independent contractor or
+10
+11
+consultant or his or her employees, agents, subcontractors or
+11
+12
+suppliers or of a person other than an employee of the state or
+12
+13
+political subdivision at the time the act or omission occurred;
+13
+14
+
+Section 72:
+19. Theft by a third person of money in the custody of an
+14
+15
+employee unless the loss was sustained because of the negligence or
+15
+16
+wrongful act or omission of the employee;
+16
+17
+
+Section 73:
+20. Participation in or practice for any interscholastic or
+17
+18
+other athletic contest sponsored or conducted by or on the property
+18
+19
+of the state or a political subdivision;
+19
+20
+
+Section 74:
+21. Participation in any activity approved by a local board of
+20
+21
+education and held within a building or on the grounds of the school
+21
+22
+district served by that local board of education before or after
+22
+23
+normal school hours or on weekends;
+23
+24
+24
+Req. No. 1398 Page 29
+1
+
+Section 75:
+22. Use of indoor or outdoor school property and facilities
+1
+2
+made available for public recreation before or after normal school
+2
+3
+hours or on weekends or school vacations, except those claims
+3
+4
+resulting from willful and wanton acts of negligence. For purposes
+4
+5
+of this paragraph:
+5
+6
+a. “public” includes, but is not limited to, students
+6
+7
+during nonschool hours and school staff when not
+7
+8
+working as employees of the school, and
+8
+9
+b. “recreation” means any indoor or outdoor physical
+9
+10
+activity, either organized or unorganized, undertaken
+10
+11
+for exercise, relaxation, diversion, sport or
+11
+12
+pleasure, and that is not otherwise covered by
+12
+13
+paragraph 20 or 21 of this section;
+13
+14
+
+Section 76:
+23. Any court-ordered, Department of Corrections or county
+14
+15
+approved work release program; provided, however, this provision
+15
+16
+shall not apply to claims from individuals not in the custody of the
+16
+17
+Department of Corrections based on accidents involving motor
+17
+18
+vehicles owned or operated by the Department of Corrections;
+18
+19
+
+Section 77:
+24. The activities of the state military forces when on state
+19
+20
+active duty orders or on Title 32 active duty orders;
+20
+21
+
+Section 78:
+25. Provision, equipping, operation or maintenance of any
+21
+22
+prison, jail or correctional facility, or injuries resulting from
+22
+23
+the parole or escape of a prisoner or injuries by a prisoner to any
+23
+24
+other prisoner; provided, however, this provision shall not apply to
+24
+Req. No. 1398 Page 30
+1
+claims from individuals not in the custody of the Department of
+1
+2
+Corrections based on accidents involving motor vehicles owned or
+2
+3
+operated by the Department of Corrections;
+3
+4
+
+Section 79:
+26. Provision, equipping, operation or maintenance of any
+4
+5
+juvenile detention facility, or injuries resulting from the escape
+5
+6
+of a juvenile detainee, or injuries by a juvenile detainee to any
+6
+7
+other juvenile detainee;
+7
+8
+
+Section 80:
+27. Any claim or action based on the theory of manufacturer’s
+8
+9
+products liability or breach of warranty, either expressed or
+9
+10
+implied;
+10
+11
+
+Section 81:
+28. Any claim or action based on the theory of indemnification
+11
+12
+or subrogation; provided, however, a political subdivision as
+12
+13
+defined in subparagraph s of paragraph 11 of Section 152 of this
+13
+14
+title may enter into a contract with a contract operator or any
+14
+15
+railroad operating in interstate commerce that sells a property
+15
+16
+interest or provides services to a regional transportation
+16
+17
+authority, or allows the regional transportation authority to use
+17
+18
+the railroad’s property or tracks for the provision of public
+18
+19
+passenger rail service, providing for the allocation of financial
+19
+20
+responsibility, indemnification, or the procurement of insurance for
+20
+21
+the parties for all types of claims or damages, provided that funds
+21
+22
+have been appropriated to cover the resulting contractual obligation
+22
+23
+at the time the contract is executed. The acquisition of commercial
+23
+24
+liability insurance to cover the activities of the regional
+24
+Req. No. 1398 Page 31
+1
+transportation authority, contract operator or railroad shall not
+1
+2
+operate as a waiver of any of the liabilities, immunities or
+2
+3
+defenses provided for political subdivisions pursuant to the
+3
+4
+provisions of The Governmental Tort Claims Act. A contract entered
+4
+5
+into under this paragraph shall not affect rights of employees under
+5
+6
+the Federal Employers Liability Act or the Federal Railway Labor
+6
+7
+Act;
+7
+8
+
+Section 82:
+29. Any claim based upon an act or omission of an employee in
+8
+9
+the placement of children;
+9
+10
+
+Section 83:
+30. Acts or omissions done in conformance with then current
+10
+11
+recognized standards;
+11
+12
+
+Section 84:
+31. Maintenance of the state highway system or any portion
+12
+13
+thereof unless the claimant presents evidence which establishes
+13
+14
+either that the state failed to warn of the unsafe condition or that
+14
+15
+the loss would not have occurred but for a negligent affirmative act
+15
+16
+of the state;
+16
+17
+
+Section 85:
+32. Any confirmation of the existence or nonexistence of any
+17
+18
+effective financing statement on file in the office of the Secretary
+18
+19
+of State made in good faith by an employee of the office of the
+19
+20
+Secretary of State as required by the provisions of Section 1-9-
+20
+21
+
+Section 86:
+320.6 of Title 12A of the Oklahoma Statutes;
+21
+22
+
+Section 87:
+33. Any court-ordered community sentence;
+22
+23
+
+Section 88:
+34. Remedial action and any subsequent related maintenance of
+23
+24
+property pursuant to and in compliance with an authorized
+24
+Req. No. 1398 Page 32
+1
+environmental remediation program, order, or requirement of a
+1
+2
+federal or state environmental agency;
+2
+3
+
+Section 89:
+35. The use of necessary and reasonable force by a school
+3
+4
+district employee to control and discipline a student during the
+4
+5
+time the student is in attendance or in transit to and from the
+5
+6
+school, or any other function authorized by the school district;
+6
+7
+
+Section 90:
+36. Actions taken in good faith by a school district employee
+7
+8
+for the out-of-school suspension of a student pursuant to applicable
+8
+9
+Oklahoma Statutes; or
+9
+10
+
+Section 91:
+37. Use of a public facility opened to the general public
+10
+11
+during an emergency;
+11
+12
+
+Section 92:
+38. Flooding, backups, or stoppages of storm sewers or sanitary
+12
+13
+sewers that are caused by unordinary rainfall events, considering
+13
+14
+duration and intensity of the rainfall event, that results in flows
+14
+15
+that exceed the design capacity of the sewer system;
+15
+16
+
+Section 93:
+39. Sanitary sewer overflows that have occurred on lines within
+16
+17
+the sanitary sewer system where no report of a blockage, backup, or
+17
+18
+overflow has been made to the political subdivision or utility
+18
+19
+operator within the preceding three (3) years;
+19
+20
+
+Section 94:
+40. A sanitary sewer overflow occurring on private property,
+20
+21
+provided that the utility operator is in compliance with Section 1
+21
+22
+of this act. This paragraph shall not apply to claims for loss of
+22
+23
+property; or
+23
+24
+24
+Req. No. 1398 Page 33
+1
+
+Section 95:
+41. Any claims occurring within five (5) years after the
+1
+2
+effective date of this act arising out of the maintenance and
+2
+3
+operation of a public utility, which is deemed to be in compliance
+3
+4
+with the provisions of Section 1 of this act.
+4
+5
+
+Section 96:
+SECTION 5. This act shall become effective November 1, 2025.
+5
+6
+6
+7
+60-1-1398 MR 1/19/2025 5:40:43 AM
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1398 Page 34
+[DELETED:  P B P]
+[DELETED:  P a a a]
+[DELETED:  P t o]
+[DELETED:  P e b r r a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a t i]
+[DELETED:  P a a a]
+[DELETED:  P E a f]
+[DELETED:  P a F p r f]
+[DELETED:  P p p a l]
+[DELETED:  P l l F]
+[DELETED:  P E F]
+[DELETED:  P a a a a a]
+[DELETED:  P a a]
+[DELETED:  P f f f f f f]
+[DELETED:  P f f f f f]
+[DELETED:  P f f f f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t t t ( i]
+[DELETED:  P i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P “ “]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 650 By: Paxton
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to public utilities; defining term;
+7
+requiring the governing body of a public utility to
+8
+adopt a plan for components of maintenance and
+8
+operation of public utilities; providing for contents
+9
+of plan; specifying process for notice; allowing for
+9
+public utilities to be in compliance upon approval of
+10
+plan; authorizing certain state agencies to verify
+10
+certain provisions of plan; preventing certain
+11
+recovery of damages under certain circumstances;
+11
+amending 51 O.S. 2021, Sections 152, as last amended
+12
+by Section 111, Chapter 452, O.S.L. 2024, 154, and
+12
+155, as amended by Section 21, Chapter 228, O.S.L.
+13
+2022 (51 O.S. Supp. 2024, Sections 152 and 155),
+13
+which relate to The Governmental Tort Claims Act;
+14
+adding definition; increasing award amounts for
+14
+certain claims; specifying certain accidents and
+15
+occurrences; providing for the process and amounts
+15
+awarded under certain circumstances; expanding
+16
+exemptions for liability by the state or political
+16
+subdivisions; updating statutory references and
+17
+language; making language gender neutral; providing
+17
+for codification; and providing an effective date.
+18
+18
+19
+19
+20
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20
+21
+SECTION 1. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 37-235 of Title 11, unless there
+22
+23
+is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 1398 Page 1
+
+1
+A. As used in this section, “public utility” means a
+1
+2
+municipally owned utility or other publicly owned utility providing
+2
+3
+sewage services through a sanitary sewer system.
+3
+4
+B. The governing body of the public utility shall adopt a plan
+4
+5
+that includes, but is not limited to, the following:
+5
+6
+1. Mapping and recordkeeping of a sanitary sewer system for
+6
+7
+maintenance and operation of the system;
+7
+8
+2. A policy of inspections, cleaning, and root control of sewer
+8
+9
+lines that contains the following elements:
+9
+10
+a. an inspection program of sewer lines to determine
+10
+11
+whether sewage flows are clear, moderately occluded,
+11
+12
+or severely occluded,
+12
+13
+b. a program of routine maintenance of sewer lines, and
+13
+14
+c. a treatment program for sewer lines identified as
+14
+15
+having blockages due to root infiltration of which the
+15
+16
+public utility has notice with root control through
+16
+17
+either mechanical or chemical treatments;
+17
+18
+3. A policy of responding to calls for sanitary sewer overflows
+18
+19
+(SSO) to clear municipal sewer mains, flush with water and deodorize
+19
+20
+the land upon which SSO has occurred, and remove SSO debris from
+20
+21
+land upon which SSO has occurred;
+21
+22
+4. Adoption of a “Fats, Oils, and Grease (FOG) Ordinance” that
+22
+23
+makes unlawful the improper introduction of fats, oils, or grease
+23
+24
+from nonresidential entities that are connected to the sanitary
+24
+Req. No. 1398 Page 2
+
+1
+sewer system and incorporating pre-treatment regulations adopted by
+1
+2
+the Department of Environmental Quality for such entities. Public
+2
+3
+utilities shall periodically notify sanitary sewer system
+3
+4
+participants and dischargers of the restrictions within this
+4
+5
+paragraph;
+5
+6
+5. Adoption of an ordinance requiring new construction or
+6
+7
+remodels of existing buildings to be connected to the sanitary sewer
+7
+8
+system, including the installation of a backflow prevention device
+8
+9
+on the private service line connecting the structure to the sanitary
+9
+10
+sewer main line;
+10
+11
+6. Adoption of a policy that will notify private residential
+11
+12
+property owners who are connected to the sanitary sewer system of
+12
+13
+the option to provide additional personal protection through
+13
+14
+installation of a backflow prevention system on the private service
+14
+15
+line connecting the property to the sanitary sewer main line. At
+15
+16
+the discretion of the governing body of the public utility, after
+16
+17
+considering available funding, private residential property owners
+17
+18
+connected to the sewer system may be offered public assistance with
+18
+19
+installation and inspection of backflow prevention devices;
+19
+20
+7. Adoption of a funding availability model that identifies:
+20
+21
+a. the total revenue from ratepayers that can reasonably
+21
+22
+be expected over a fiscal year,
+22
+23
+b. other funding sources from municipal revenues that can
+23
+24
+reasonably be expected to be contributed to the
+24
+Req. No. 1398 Page 3
+
+1
+sanitary sewer system operations, maintenance, or
+1
+2
+capital improvements,
+2
+3
+c. external sources of funding from local, state,
+3
+4
+federal, or tribal entities that could be available
+4
+5
+for sanitary sewer system operations, maintenance, or
+5
+6
+capital improvements, and
+6
+7
+d. bonding capacities, whether revenue bonds or general
+7
+8
+obligation bonds, that could be available for sanitary
+8
+9
+sewer system operations, maintenance, or capital
+9
+10
+improvements;
+10
+11
+Funding availability models shall be reviewed at least every five
+11
+12
+(5) years to include a rate study recommending reasonable rates for
+12
+13
+those connected to the sanitary sewer system; and
+13
+14
+8. Adoption of a five-year capital improvement plan that
+14
+15
+considers dedication of funding available to:
+15
+16
+a. repair or replace sanitary sewer lines that have been
+16
+17
+identified as severely occluded,
+17
+18
+b. repair or replace municipal sanitary sewer lift
+18
+19
+stations necessary for the continued operation of the
+19
+20
+system, and
+20
+21
+c. access or purchase equipment for operation of the
+21
+22
+municipal sanitary sewer system serving the citizens
+22
+23
+of the municipality that are connected to the
+23
+24
+municipal sanitary sewer system.
+24
+Req. No. 1398 Page 4
+
+1
+C. Notification as described in paragraphs 4 and 6 of
+1
+2
+subsection B of this section shall be satisfied by annual
+2
+3
+publication in a newspaper of general circulation within the service
+3
+4
+area of the public utility, publication on the public utility
+4
+5
+sponsored website, or annual inserts in ratepayer monthly utility
+5
+6
+bills. Nothing in this subsection shall be construed to prohibit a
+6
+7
+public utility from making multiple notifications to ratepayers in
+7
+8
+the one-year period.
+8
+9
+D. Public utilities that are in the process of implementing
+9
+10
+policies prescribed in subsection B of this section for completion
+10
+11
+and implementation within five (5) years of the effective date of
+11
+12
+this act shall be considered in compliance with the provisions of
+12
+13
+this section.
+13
+14
+E. The Oklahoma Water Resources Board and other state agencies
+14
+15
+that provide funding to public utilities for water and wastewater
+15
+16
+improvements shall ensure the ranking structure for approval of
+16
+17
+applications for funding accounts for the sustainability efforts of
+17
+18
+systems that adopted the plans identified in this statute.
+18
+19
+F. There shall be no right of recovery for personal injury from
+19
+20
+a sanitary sewer overflow, provided that the utility charged with
+20
+21
+operation of the sanitary sewer system is working to maintain its
+21
+22
+sanitary sewer system in accordance with the guidance and criteria
+22
+23
+promulgated by the governing body pursuant to subsection B of this
+23
+24
+section and any criteria or guidelines promulgated by a governmental
+24
+Req. No. 1398 Page 5
+
+1
+entity under an interlocal cooperative pursuant to Section 1001 et
+1
+2
+seq. of Title 74 of the Oklahoma Statutes, as such components are
+2
+3
+determined by the governing body to be fiscally achievable
+3
+4
+considering available revenue streams to the public utility to fund
+4
+5
+the same. While those municipalities qualifying for relief under
+5
+6
+this section shall be exempt from personal injury damage claims of
+6
+7
+annoyance and inconvenience associated with a sanitary sewer
+7
+8
+overflow that alleges a nuisance-based cause of action, nothing
+8
+9
+herein shall otherwise prohibit a right of recovery for property
+9
+10
+damages associated with a sanitary sewer overflow in accordance with
+10
+11
+The Governmental Tort Claims Act.
+11
+12
+SECTION 2. AMENDATORY 51 O.S. 2021, Section 152, as last
+12
+13
+amended by Section 111, Chapter 452, O.S.L. 2024 (51 O.S. Supp.
+13
+14
+2024, Section 152), is amended to read as follows:
+14
+15
+Section 152. As used in The Governmental Tort Claims Act:
+15
+16
+1. “Action” means a proceeding in a court of competent
+16
+17
+jurisdiction by which one party brings a suit against another;
+17
+18
+2. “Agency” means any board, commission, committee, department
+18
+19
+or other instrumentality or entity designated to act in behalf of
+19
+20
+the state or a political subdivision;
+20
+21
+3. “Charitable health care provider” means a person who is
+21
+22
+licensed, certified, or otherwise authorized by the laws of this
+22
+23
+state to administer health care in the ordinary course of business
+23
+24
+or the practice of a profession and who provides care to a medically
+24
+Req. No. 1398 Page 6
+
+1
+indigent person, as defined in paragraph 9 of this section, with no
+1
+2
+expectation of or acceptance of compensation of any kind;
+2
+3
+4. “Claim” means any written demand presented by a claimant or
+3
+4
+the claimant’s authorized representative in accordance with the The
+4
+5
+Governmental Tort Claims Act to recover money from the state or
+5
+6
+political subdivision as compensation for an act or omission of a
+6
+7
+political subdivision or the state or an employee;
+7
+8
+5. “Claimant” means the person or the person’s authorized
+8
+9
+representative who files notice of a claim in accordance with The
+9
+10
+Governmental Tort Claims Act. Only the following persons and no
+10
+11
+others may be claimants:
+11
+12
+a. any person holding an interest in real or personal
+12
+13
+property which suffers a loss, provided that the claim
+13
+14
+of the person shall be aggregated with claims of all
+14
+15
+other persons holding an interest in the property and
+15
+16
+the claims of all other persons which are derivative
+16
+17
+of the loss, and that multiple claimants shall be
+17
+18
+considered a single claimant,
+18
+19
+b. the individual actually involved in the accident or
+19
+20
+occurrence who suffers a loss, provided that the
+20
+21
+individual shall aggregate in the claim the losses of
+21
+22
+all other persons which are derivative of the loss, or
+22
+23
+c. in the case of death, an administrator, special
+23
+24
+administrator or a personal representative who shall
+24
+Req. No. 1398 Page 7
+
+1
+aggregate in the claim all losses of all persons which
+1
+2
+are derivative of the death;
+2
+3
+6. “Community health care provider” means:
+3
+4
+a. a health care provider who volunteers services at a
+4
+5
+community health center that has been deemed by the
+5
+6
+U.S. Department of Health and Human Services as a
+6
+7
+federally qualified health center as defined by 42
+7
+8
+U.S.C., Section 1396d(l)(2)(B),
+8
+9
+b. a health provider who provides services to an
+9
+10
+organization that has been deemed a federally
+10
+11
+qualified look-alike community health center, and
+11
+12
+c. a health care provider who provides services to a
+12
+13
+community health center that has made application to
+13
+14
+the U.S. Department of Health and Human Services for
+14
+15
+approval and deeming as a federally qualified look-
+15
+16
+alike community health center in compliance with
+16
+17
+federal application guidance, and has received
+17
+18
+comments from the U.S. Department of Health and Human
+18
+19
+Services as to the status of such application with the
+19
+20
+established intent of resubmitting a modified
+20
+21
+application, or, if denied, a new application, no
+21
+22
+later than six (6) months from the date of the
+22
+23
+official notification from the U.S. Department of
+23
+24
+24
+Req. No. 1398 Page 8
+
+1
+Health and Human Services requiring resubmission of a
+1
+2
+new application;
+2
+3
+7. “Employee” means any person who is authorized to act in
+3
+4
+behalf of a political subdivision or the state whether that person
+4
+5
+is acting on a permanent or temporary basis, with or without being
+5
+6
+compensated or on a full-time or part-time basis.
+6
+7
+a. Employee also includes:
+7
+8
+(1) all elected or appointed officers, members of
+8
+9
+governing bodies and other persons designated to
+9
+10
+act for an agency or political subdivision, but
+10
+11
+the term does not mean a person or other legal
+11
+12
+entity while acting in the capacity of an
+12
+13
+independent contractor or an employee of an
+13
+14
+independent contractor,
+14
+15
+(2) from September 1, 1991, through June 30, 1996,
+15
+16
+licensed physicians, licensed osteopathic
+16
+17
+physicians and certified nurse-midwives providing
+17
+18
+prenatal, delivery or infant care services to
+18
+19
+State Department of Health clients pursuant to a
+19
+20
+contract entered into with the State Department
+20
+21
+of Health in accordance with paragraph 3 of
+21
+22
+subsection B of Section 1-106 of Title 63 of the
+22
+23
+Oklahoma Statutes but only insofar as services
+23
+24
+authorized by and in conformity with the terms of
+24
+Req. No. 1398 Page 9
+
+1
+the contract and the requirements of Section 1-
+1
+2
+233 of Title 63 of the Oklahoma Statutes, and
+2
+3
+(3) any volunteer, full-time or part-time firefighter
+3
+4
+when performing duties for a fire department
+4
+5
+provided for in subparagraph j of paragraph 11 of
+5
+6
+this section.
+6
+7
+b. For the purposes of The Governmental Tort Claims Act,
+7
+8
+the following are employees of this state, regardless
+8
+9
+of the place in this state where duties as employees
+9
+10
+are performed:
+10
+11
+(1) physicians acting in an administrative capacity,
+11
+12
+(2) resident physicians and resident interns
+12
+13
+participating in a graduate medical education
+13
+14
+program of the University of Oklahoma Health
+14
+15
+Sciences Center, the College of Osteopathic
+15
+16
+Medicine of Oklahoma State University, or the
+16
+17
+Department of Mental Health and Substance Abuse
+17
+18
+Services,
+18
+19
+(3) faculty members and staff of the University of
+19
+20
+Oklahoma Health Sciences Center and the College
+20
+21
+of Osteopathic Medicine of Oklahoma State
+21
+22
+University, while engaged in teaching duties,
+22
+23
+23
+24
+24
+Req. No. 1398 Page 10
+
+1
+(4) physicians who practice medicine or act in an
+1
+2
+administrative capacity as an employee of an
+2
+3
+agency of the State of Oklahoma,
+3
+4
+(5) physicians who provide medical care to inmates
+4
+5
+pursuant to a contract with the Department of
+5
+6
+Corrections,
+6
+7
+(6) any person who is licensed to practice medicine
+7
+8
+pursuant to Title 59 of the Oklahoma Statutes,
+8
+9
+who is under an administrative professional
+9
+10
+services contract with the Oklahoma Health Care
+10
+11
+Authority under the auspices of the Oklahoma
+11
+12
+Health Care Authority Chief Medical Officer, and
+12
+13
+who is limited to performing administrative
+13
+14
+duties such as professional guidance for medical
+14
+15
+reviews, reimbursement rates, service
+15
+16
+utilization, health care delivery and benefit
+16
+17
+design for the Oklahoma Health Care Authority,
+17
+18
+only while acting within the scope of such
+18
+19
+contract,
+19
+20
+(7) licensed medical professionals under contract
+20
+21
+with city, county, or state entities who provide
+21
+22
+medical care to inmates or detainees in the
+22
+23
+custody or control of law enforcement agencies,
+23
+24
+24
+Req. No. 1398 Page 11
+
+1
+(8) licensed mental health professionals as defined
+1
+2
+in Sections 1-103 and 5-502 of Title 43A of the
+2
+3
+Oklahoma Statutes, who are conducting initial
+3
+4
+examinations of individuals for the purpose of
+4
+5
+determining whether an individual meets the
+5
+6
+criteria for emergency detention as part of a
+6
+7
+contract with the Department of Mental Health and
+7
+8
+Substance Abuse Services, and
+8
+9
+(9) licensed mental health professionals as defined
+9
+10
+in Sections 1-103 and 5-502 of Title 43A of the
+10
+11
+Oklahoma Statutes, who are providing mental
+11
+12
+health or substance abuse treatment services
+12
+13
+under a professional services contract with the
+13
+14
+Department of Mental Health and Substance Abuse
+14
+15
+Services and are providing such treatment
+15
+16
+services at a state-operated facility.
+16
+17
+Physician faculty members and physician staff of the
+17
+18
+University of Oklahoma Health Sciences Center and the
+18
+19
+College of Osteopathic Medicine of Oklahoma State
+19
+20
+University not acting in an administrative capacity or
+20
+21
+engaged in teaching duties are not employees or agents
+21
+22
+of the state.
+22
+23
+c. For the purposes of The Governmental Tort Claims Act,
+23
+24
+employee shall include independent contractors and
+24
+Req. No. 1398 Page 12
+
+1
+employees of independent contractors while actively
+1
+2
+engaged in the transport of individuals in need of
+2
+3
+initial assessment, emergency detention, or protective
+3
+4
+custody as authorized by Section 1-110 of Title 43A of
+4
+5
+the Oklahoma Statutes.
+5
+6
+d. Except as provided in subparagraph b of this
+6
+7
+paragraph, in no event shall the state be held liable
+7
+8
+for the tortious conduct of any physician, resident
+8
+9
+physician or intern while practicing medicine or
+9
+10
+providing medical treatment to patients.
+10
+11
+e. For purposes of The Governmental Tort Claims Act,
+11
+12
+members of the state military forces on state active
+12
+13
+duty orders or on Title 32 active duty orders are
+13
+14
+employees of this state, regardless of the place,
+14
+15
+within or outside this state, where their duties as
+15
+16
+employees are performed;
+16
+17
+8. “Loss” means death or injury to the body or rights of a
+17
+18
+person or damage to real or personal property or rights therein;
+18
+19
+9. “Medically indigent” means a person requiring medically
+19
+20
+necessary hospital or other health care services for the person or
+20
+21
+the dependents of the person who has no public or private third-
+21
+22
+party coverage, and whose personal resources are insufficient to
+22
+23
+provide for needed health care;
+23
+24
+24
+Req. No. 1398 Page 13
+
+1
+10. “Municipality” means any incorporated city or town, and all
+1
+2
+institutions, agencies or instrumentalities of a municipality;
+2
+3
+11. “Occurrence” means a loss arising out of an accident or
+3
+4
+event or a continuous or repeated exposure to substantially the same
+4
+5
+general harmful conditions. All losses arising out of an accident
+5
+6
+or event or a continuous or repeated exposure to substantially the
+6
+7
+same general harmful conditions shall be deemed to have arisen out
+7
+8
+of one occurrence;
+8
+9
+12. “Political subdivision” means:
+9
+10
+a. a municipality,
+10
+11
+b. a school district, including, but not limited to, a
+11
+12
+technology center school district established pursuant
+12
+13
+to Section 4410, 4411, 4420 or 4420.1 of Title 70 of
+13
+14
+the Oklahoma Statutes,
+14
+15
+c. a county,
+15
+16
+d. a public trust where the sole beneficiary or
+16
+17
+beneficiaries are a city, town, school district or
+17
+18
+county. For purposes of The Governmental Tort Claims
+18
+19
+Act, a public trust shall include:
+19
+20
+(1) a municipal hospital created pursuant to Sections
+20
+21
+30-101 through 30-109 of Title 11 of the Oklahoma
+21
+22
+Statutes, a county hospital created pursuant to
+22
+23
+Sections 781 through 796 of Title 19 of the
+23
+24
+Oklahoma Statutes, or is created pursuant to a
+24
+Req. No. 1398 Page 14
+
+1
+joint agreement between such governing
+1
+2
+authorities, that is operated for the public
+2
+3
+benefit by a public trust created pursuant to
+3
+4
+Sections 176 through 180.4 of Title 60 of the
+4
+5
+Oklahoma Statutes and managed by a governing
+5
+6
+board appointed or elected by the municipality,
+6
+7
+county, or both, who exercises control of the
+7
+8
+hospital, subject to the approval of the
+8
+9
+governing body of the municipality, county, or
+9
+10
+both,
+10
+11
+(2) a public trust created pursuant to Sections 176
+11
+12
+through 180.4 of Title 60 of the Oklahoma
+12
+13
+Statutes after January 1, 2009, the primary
+13
+14
+purpose of which is to own, manage, or operate a
+14
+15
+public acute care hospital in this state that
+15
+16
+serves as a teaching hospital for a medical
+16
+17
+residency program provided by a college of
+17
+18
+osteopathic medicine and provides care to
+18
+19
+indigent persons, and
+19
+20
+(3) a corporation in which all of the capital stock
+20
+21
+is owned, or a limited liability company in which
+21
+22
+all of the member interest is owned, by a public
+22
+23
+trust,
+23
+24
+24
+Req. No. 1398 Page 15
+
+1
+e. for the purposes of The Governmental Tort Claims Act
+1
+2
+only, a housing authority created pursuant to the
+2
+3
+provisions of the Oklahoma Housing Authorities Act,
+3
+4
+f. for the purposes of The Governmental Tort Claims Act
+4
+5
+only, corporations organized not for profit pursuant
+5
+6
+to the provisions of the Oklahoma General Corporation
+6
+7
+Act for the primary purpose of developing and
+7
+8
+providing rural water supply and sewage disposal
+8
+9
+facilities to serve rural residents,
+9
+10
+g. for the purposes of The Governmental Tort Claims Act
+10
+11
+only, districts formed pursuant to the Rural Water,
+11
+12
+Sewer, Gas and Solid Waste Management Districts Act,
+12
+13
+h. for the purposes of The Governmental Tort Claims Act
+13
+14
+only, master conservancy districts formed pursuant to
+14
+15
+the Conservancy Act of Oklahoma,
+15
+16
+i. for the purposes of The Governmental Tort Claims Act
+16
+17
+only, a fire protection district created pursuant to
+17
+18
+the provisions of Section 901.1 et seq. of Title 19 of
+18
+19
+the Oklahoma Statutes,
+19
+20
+j. for the purposes of The Governmental Tort Claims Act
+20
+21
+only, a benevolent or charitable corporate volunteer
+21
+22
+or full-time fire department for an unincorporated
+22
+23
+area created pursuant to the provisions of Section 592
+23
+24
+et seq. of Title 18 of the Oklahoma Statutes,
+24
+Req. No. 1398 Page 16
+
+1
+k. for purposes of The Governmental Tort Claims Act only,
+1
+2
+an Emergency Services Provider rendering services
+2
+3
+within the boundaries of a Supplemental Emergency
+3
+4
+Services District pursuant to an existing contract
+4
+5
+between the Emergency Services Provider and the State
+5
+6
+Department of Health. Provided, however, that the
+6
+7
+acquisition of commercial liability insurance covering
+7
+8
+the activities of such Emergency Services Provider
+8
+9
+performed within this state shall not operate as a
+9
+10
+waiver of any of the limitations, immunities or
+10
+11
+defenses provided for political subdivisions pursuant
+11
+12
+to the terms of The Governmental Tort Claims Act,
+12
+13
+l. for purposes of The Governmental Tort Claims Act only,
+13
+14
+a conservation district created pursuant to the
+14
+15
+provisions of the Conservation District Act,
+15
+16
+m. for purposes of The Governmental Tort Claims Act,
+16
+17
+districts formed pursuant to the Oklahoma Irrigation
+17
+18
+District Act,
+18
+19
+n. for purposes of The Governmental Tort Claims Act only,
+19
+20
+any community action agency established pursuant to
+20
+21
+Sections 5035 through 5040 of Title 74 of the Oklahoma
+21
+22
+Statutes,
+22
+23
+o. for purposes of The Governmental Tort Claims Act only,
+23
+24
+any organization that is designated as a youth
+24
+Req. No. 1398 Page 17
+
+1
+services agency, pursuant to Section 2-7-306 of Title
+1
+2
+10A of the Oklahoma Statutes,
+2
+3
+p. for purposes of The Governmental Tort Claims Act only,
+3
+4
+any judge presiding over a drug court, as defined by
+4
+5
+Section 471.1 of Title 22 of the Oklahoma Statutes,
+5
+6
+q. for purposes of The Governmental Tort Claims Act only,
+6
+7
+any child-placing agency licensed by this state to
+7
+8
+place children in foster family homes,
+8
+9
+r. for purposes of The Governmental Tort Claims Act only,
+9
+10
+a circuit engineering district created pursuant to
+10
+11
+Section 687.1 of Title 69 of the Oklahoma Statutes,
+11
+12
+s. for purposes of the The Governmental Tort Claims Act
+12
+13
+only, a substate planning district, regional council
+13
+14
+of government or other entity created pursuant to
+14
+15
+Section 1001 et seq. of Title 74 of the Oklahoma
+15
+16
+Statutes, and
+16
+17
+t. for purposes of The Governmental Tort Claims Act only,
+17
+18
+a regional transportation authority created pursuant
+18
+19
+to Section 1370.7 of Title 68 of the Oklahoma Statutes
+19
+20
+including its contract operator and any railroad
+20
+21
+operating in interstate commerce that sells a property
+21
+22
+interest or provides services to a regional
+22
+23
+transportation authority or allows the authority to
+23
+24
+use the property or tracks of the railroad for the
+24
+Req. No. 1398 Page 18
+
+1
+provision of public passenger rail service to the
+1
+2
+extent claims against the contract operator or
+2
+3
+railroad arise out of or are related to or in
+3
+4
+connection with such property interest, services or
+4
+5
+operation of the public passenger rail service.
+5
+6
+Provided, the acquisition of commercial liability
+6
+7
+insurance to cover the activities of the regional
+7
+8
+transportation authority, contract operator or
+8
+9
+railroad shall not operate as a waiver of any
+9
+10
+liabilities, immunities or defenses provided pursuant
+10
+11
+to the provisions of the The Governmental Tort Claims
+11
+12
+Act,
+12
+13
+and all their institutions, instrumentalities or agencies;
+13
+14
+12. 13. “Scope of employment” means performance by an employee
+14
+15
+acting in good faith within the duties of the employee’s office or
+15
+16
+employment or of tasks lawfully assigned by a competent authority
+16
+17
+including the operation or use of an agency vehicle or equipment
+17
+18
+with actual or implied consent of the supervisor of the employee,
+18
+19
+but shall not include corruption or fraud;
+19
+20
+13. 14. “State” means the State of Oklahoma or any office,
+20
+21
+department, agency, authority, commission, board, institution,
+21
+22
+hospital, college, university, public trust created pursuant to
+22
+23
+Title 60 of the Oklahoma Statutes of which the State of Oklahoma is
+23
+24
+the beneficiary, or other instrumentality thereof;
+24
+Req. No. 1398 Page 19
+
+1
+14. 15. “State active duty” shall be defined in accordance with
+1
+2
+Section 801 of Title 44 of the Oklahoma Statutes;
+2
+3
+15. 16. “State military forces” shall be defined in accordance
+3
+4
+with Section 801 of Title 44 of the Oklahoma Statutes;
+4
+5
+16. 17. “Title 32 active duty” shall be defined in accordance
+5
+6
+with Section 801 of Title 44 of the Oklahoma Statutes; and
+6
+7
+17. 18. “Tort” means a legal wrong, independent of contract,
+7
+8
+involving violation of a duty imposed by general law, statute, the
+8
+9
+Constitution of the State of Oklahoma, or otherwise, resulting in a
+9
+10
+loss to any person, association or corporation as the proximate
+10
+11
+result of an act or omission of a political subdivision or the state
+11
+12
+or an employee acting within the scope of employment; provided,
+12
+13
+however, a tort shall not include a claim for inverse condemnation.
+13
+14
+SECTION 3. AMENDATORY 51 O.S. 2021, Section 154, is
+14
+15
+amended to read as follows:
+15
+16
+Section 154. A. The total liability of the state and its
+16
+17
+political subdivisions on claims within the scope of The
+17
+18
+Governmental Tort Claims Act, arising out of an accident or
+18
+19
+occurrence happening after October 1, 1985, Section 151 et seq. of
+19
+20
+this title, shall not exceed:
+20
+21
+1. Twenty-five Thousand Dollars ($25,000.00) Thirty-five
+21
+22
+Thousand Dollars ($35,000.00) for any claim or to any claimant who
+22
+23
+has more than one claim for loss of property, including related
+23
+24
+24
+Req. No. 1398 Page 20
+
+1
+consequential damages, arising out of a single act, accident, or
+1
+2
+occurrence;
+2
+3
+2. For physical injury from a municipal overflow or backup,
+3
+4
+Five Thousand Dollars ($5,000.00) per individual person occupying
+4
+5
+the structure at the time of the occurrence not to exceed an
+5
+6
+aggregate damage amount of Twenty Thousand Dollars ($20,000.00) per
+6
+7
+occurrence regardless of the number person affected by the
+7
+8
+occurrence;
+8
+9
+3. For nuisance, annoyance, or inconvenience damages from a
+9
+10
+municipal sewer overflow or backup, Five Thousand Dollars
+10
+11
+($5,000.00) per individual person occupying the structure at the
+11
+12
+time of the occurrence not to exceed an aggregate damage amount of
+12
+13
+Twenty Thousand Dollars ($20,000.00) per occurrence regardless of
+13
+14
+the number of persons affected by the occurrence;
+14
+15
+4. Except as otherwise provided in this paragraph, One Hundred
+15
+16
+Twenty-five Thousand Dollars ($125,000.00) One Hundred Fifty
+16
+17
+Thousand Dollars ($150,000.00) to any claimant for a claim for any
+17
+18
+other loss arising out of a single act, accident, or occurrence.
+18
+19
+The limit of liability for the state or any city or county with a
+19
+20
+population of three hundred thousand (300,000) or more according to
+20
+21
+the latest Federal Decennial Census, or a political subdivision as
+21
+22
+defined in subparagraph s of paragraph 11 of Section 152 of this
+22
+23
+title, shall not exceed One Hundred Seventy-five Thousand Dollars
+23
+24
+($175,000.00) Two Hundred Thousand Dollars ($200,000.00). Except
+24
+Req. No. 1398 Page 21
+
+1
+however, the limits of the liability for the University Hospitals
+1
+2
+and State Mental Health Hospitals operated by the Department of
+2
+3
+Mental Health and Substance Abuse Services for claims arising from
+3
+4
+medical negligence shall be Two Hundred Thousand Dollars
+4
+5
+($200,000.00) Two Hundred Twenty-five Thousand Dollars
+5
+6
+($225,000.00). For claims arising from medical negligence by any
+6
+7
+licensed physician, osteopathic physician or certified nurse-midwife
+7
+8
+rendering prenatal, delivery or infant care services from September
+8
+9
+1, 1991, through June 30, 1996, pursuant to a contract authorized by
+9
+10
+subsection B of Section 1-106 of Title 63 of the Oklahoma Statutes
+10
+11
+and in conformity with the requirements of Section 1-233 of Title 63
+11
+12
+of the Oklahoma Statutes, the limits of the liability shall be Two
+12
+13
+Hundred Thousand Dollars ($200,000.00) Two Hundred Twenty-five
+13
+14
+Thousand Dollars ($225,000.00); or
+14
+15
+3. 5. One Million Dollars ($1,000,000.00) for any number of
+15
+16
+claims for indemnification pursuant to Section 162 of this title
+16
+17
+arising out of a single occurrence or accident; or
+17
+18
+6. One Million Two Hundred Fifty Thousand Dollars
+18
+19
+(1,250,000.00) for any number of claims arising out of a single
+19
+20
+occurrence or accident.
+20
+21
+B. 1. Beginning on May 28, 2003, claims shall be allowed for
+21
+22
+wrongful criminal felony conviction resulting in imprisonment if the
+22
+23
+claimant has received a full pardon on the basis of a written
+23
+24
+finding by the Governor of actual innocence for the crime for which
+24
+Req. No. 1398 Page 22
+
+1
+the claimant was sentenced or has been granted judicial relief
+1
+2
+absolving the claimant of guilt on the basis of actual innocence of
+2
+3
+the crime for which the claimant was sentenced. The Governor or the
+3
+4
+court shall specifically state, in the pardon or order, the evidence
+4
+5
+or basis on which the finding of actual innocence is based.
+5
+6
+2. As used in paragraph 1 of this subsection, for a claimant to
+6
+7
+recover based on “actual innocence”, the individual must meet the
+7
+8
+following criteria:
+8
+9
+a. the individual was charged, by indictment or
+9
+10
+information, with the commission of a public offense
+10
+11
+classified as a felony,
+11
+12
+b. the individual did not plead guilty to the offense
+12
+13
+charged, or to any lesser included offense, but was
+13
+14
+convicted of the offense,
+14
+15
+c. the individual was sentenced to incarceration for a
+15
+16
+term of imprisonment as a result of the conviction,
+16
+17
+d. the individual was imprisoned solely on the basis of
+17
+18
+the conviction for the offense, and
+18
+19
+e. (1) in the case of a pardon, a determination was made
+19
+20
+by either the Pardon and Parole Board or the
+20
+21
+Governor that the offense for which the
+21
+22
+individual was convicted, sentenced and
+22
+23
+imprisoned, including any lesser offenses, was
+23
+24
+not committed by the individual, or
+24
+Req. No. 1398 Page 23
+
+1
+(2) in the case of judicial relief, a court of
+1
+2
+competent jurisdiction found by clear and
+2
+3
+convincing evidence that the offense for which
+3
+4
+the individual was convicted, sentenced and
+4
+5
+imprisoned, including any lesser included
+5
+6
+offenses, was not committed by the individual and
+6
+7
+issued an order vacating, dismissing or reversing
+7
+8
+the conviction and sentence and providing that no
+8
+9
+further proceedings can be or will be held
+9
+10
+against the individual on any facts and
+10
+11
+circumstances alleged in the proceedings which
+11
+12
+had resulted in the conviction.
+12
+13
+3. A claimant shall not be entitled to compensation for any
+13
+14
+part of a sentence in prison during which the claimant was also
+14
+15
+serving a concurrent sentence for a crime not covered by this
+15
+16
+subsection.
+16
+17
+4. The total liability of the state and its political
+17
+18
+subdivisions on any claim within the scope of The Governmental Tort
+18
+19
+Claims Act arising out of wrongful criminal felony conviction
+19
+20
+resulting in imprisonment shall not exceed One Hundred Seventy-five
+20
+21
+Thousand Dollars ($175,000.00).
+21
+22
+5. The provisions of this subsection shall apply to convictions
+22
+23
+occurring on or before May 28, 2003, as well as convictions
+23
+24
+occurring after May 28, 2003. If a court of competent jurisdiction
+24
+Req. No. 1398 Page 24
+
+1
+finds that retroactive application of this subsection is
+1
+2
+unconstitutional, the prospective application of this subsection
+2
+3
+shall remain valid.
+3
+4
+C. No award for damages in an action or any claim against the
+4
+5
+state or a political subdivision shall include punitive or exemplary
+5
+6
+damages.
+6
+7
+D. When the amount awarded to or settled upon multiple
+7
+8
+claimants exceeds the limitations of this section, any party may
+8
+9
+apply to the district court which has jurisdiction of the cause to
+9
+10
+apportion to each claimant the claimant’s proper share of the total
+10
+11
+amount as limited herein. The share apportioned to each claimant
+11
+12
+shall be in the proportion that the ratio of the award or settlement
+12
+13
+made to him each claimant bears to the aggregate awards and
+13
+14
+settlements for all claims against the state or its political
+14
+15
+subdivisions arising out of the occurrence. When the amount of the
+15
+16
+aggregate losses presented by a single claimant exceeds the limits
+16
+17
+of paragraph 1 or 2 of subsection A of this section, each person
+17
+18
+suffering a loss shall be entitled to that person’s proportionate
+18
+19
+share.
+19
+20
+E. The total liability of resident physicians and interns while
+20
+21
+participating in a graduate medical education program of the
+21
+22
+University of Oklahoma College of Medicine, its affiliated
+22
+23
+institutions and the Oklahoma State University College of
+23
+24
+Osteopathic Medicine and Surgery shall not exceed One Hundred
+24
+Req. No. 1398 Page 25
+
+1
+Thousand Dollars ($100,000.00) One Hundred Twenty-five Thousand
+1
+2
+Dollars ($125,000.00).
+2
+3
+F. The state or a political subdivision may petition the court
+3
+4
+that all parties and actions arising out of a single accident or
+4
+5
+occurrence shall be joined as provided by law, and upon order of the
+5
+6
+court the proceedings upon good cause shown shall be continued for a
+6
+7
+reasonable time or until such joinder has been completed. The state
+7
+8
+or political subdivision shall be allowed to interplead in any
+8
+9
+action which may impose on it any duty or liability pursuant to The
+9
+10
+Governmental Tort Claims Act.
+10
+11
+G. The liability of the state or political subdivision under
+11
+12
+The Governmental Tort Claims Act shall be several from that of any
+12
+13
+other person or entity, and the state or political subdivision shall
+13
+14
+only be liable for that percentage of total damages that corresponds
+14
+15
+to its percentage of total negligence. Nothing in this section
+15
+16
+shall be construed as increasing the liability limits imposed on the
+16
+17
+state or political subdivision under The Governmental Tort Claims
+17
+18
+Act.
+18
+19
+SECTION 4. AMENDATORY 51 O.S. 2021, Section 155, as
+19
+20
+amended by Section 21, Chapter 228, O.S.L. 2022 (51 O.S. Supp. 2024,
+20
+21
+Section 155), is amended to read as follows:
+21
+22
+Section 155. The state or a political subdivision shall not be
+22
+23
+liable if a loss or claim results from:
+23
+24
+1. Legislative functions;
+24
+Req. No. 1398 Page 26
+
+1
+2. Judicial, quasi-judicial, or prosecutorial functions, other
+1
+2
+than claims for wrongful criminal felony conviction resulting in
+2
+3
+imprisonment provided for in Section 154 of this title;
+3
+4
+3. Execution or enforcement of the lawful orders of any court;
+4
+5
+4. Adoption or enforcement of or failure to adopt or enforce a
+5
+6
+law, whether valid or invalid, including, but not limited to, any
+6
+7
+statute, charter provision, ordinance, resolution, rule, regulation
+7
+8
+or written policy;
+8
+9
+5. Performance of or the failure to exercise or perform any act
+9
+10
+or service which is in the discretion of the state or political
+10
+11
+subdivision or its employees;
+11
+12
+6. Civil disobedience, riot, insurrection or rebellion or the
+12
+13
+failure to provide, or the method of providing, police, law
+13
+14
+enforcement or fire protection;
+14
+15
+7. Any claim based on the theory of attractive nuisance;
+15
+16
+8. Snow or ice conditions or temporary or natural conditions on
+16
+17
+any public way or other public place due to weather conditions,
+17
+18
+unless the condition is affirmatively caused by the negligent act of
+18
+19
+the state or a political subdivision;
+19
+20
+9. Entry upon any property where that entry is expressly or
+20
+21
+implied authorized by law;
+21
+22
+10. Natural conditions of property of the state or political
+22
+23
+subdivision;
+23
+24
+24
+Req. No. 1398 Page 27
+
+1
+11. Assessment or collection of taxes or special assessments,
+1
+2
+license or registration fees, or other fees or charges imposed by
+2
+3
+law;
+3
+4
+12. Licensing powers or functions including, but not limited
+4
+5
+to, the issuance, denial, suspension or revocation of or failure or
+5
+6
+refusal to issue, deny, suspend or revoke any permit, license,
+6
+7
+certificate, approval, order or similar authority;
+7
+8
+13. Inspection powers or functions, including failure to make
+8
+9
+an inspection, review or approval, or making an inadequate or
+9
+10
+negligent inspection, review or approval of any property, real or
+10
+11
+personal, to determine whether the property complies with or
+11
+12
+violates any law or contains a hazard to health or safety, or fails
+12
+13
+to conform to a recognized standard;
+13
+14
+14. Any loss to any person covered by any workers’ compensation
+14
+15
+act or any employer’s liability act;
+15
+16
+15. Absence, condition, location or malfunction of any traffic
+16
+17
+or road sign, signal or warning device unless the absence,
+17
+18
+condition, location or malfunction is not corrected by the state or
+18
+19
+political subdivision responsible within a reasonable time after
+19
+20
+actual or constructive notice or the removal or destruction of such
+20
+21
+signs, signals or warning devices by third parties, action of
+21
+22
+weather elements or as a result of traffic collision except on
+22
+23
+failure of the state or political subdivision to correct the same
+23
+24
+within a reasonable time after actual or constructive notice.
+24
+Req. No. 1398 Page 28
+
+1
+Nothing herein shall give rise to liability arising from the failure
+1
+2
+of the state or any political subdivision to initially place any of
+2
+3
+the above signs, signals or warning devices. The signs, signals and
+3
+4
+warning devices referred to herein are those used in connection with
+4
+5
+hazards normally connected with the use of roadways or public ways
+5
+6
+and do not apply to the duty to warn of special defects such as
+6
+7
+excavations or roadway obstructions;
+7
+8
+16. Any claim which is limited or barred by any other law;
+8
+9
+17. Misrepresentation, if unintentional;
+9
+10
+18. An act or omission of an independent contractor or
+10
+11
+consultant or his or her employees, agents, subcontractors or
+11
+12
+suppliers or of a person other than an employee of the state or
+12
+13
+political subdivision at the time the act or omission occurred;
+13
+14
+19. Theft by a third person of money in the custody of an
+14
+15
+employee unless the loss was sustained because of the negligence or
+15
+16
+wrongful act or omission of the employee;
+16
+17
+20. Participation in or practice for any interscholastic or
+17
+18
+other athletic contest sponsored or conducted by or on the property
+18
+19
+of the state or a political subdivision;
+19
+20
+21. Participation in any activity approved by a local board of
+20
+21
+education and held within a building or on the grounds of the school
+21
+22
+district served by that local board of education before or after
+22
+23
+normal school hours or on weekends;
+23
+24
+24
+Req. No. 1398 Page 29
+
+1
+22. Use of indoor or outdoor school property and facilities
+1
+2
+made available for public recreation before or after normal school
+2
+3
+hours or on weekends or school vacations, except those claims
+3
+4
+resulting from willful and wanton acts of negligence. For purposes
+4
+5
+of this paragraph:
+5
+6
+a. “public” includes, but is not limited to, students
+6
+7
+during nonschool hours and school staff when not
+7
+8
+working as employees of the school, and
+8
+9
+b. “recreation” means any indoor or outdoor physical
+9
+10
+activity, either organized or unorganized, undertaken
+10
+11
+for exercise, relaxation, diversion, sport or
+11
+12
+pleasure, and that is not otherwise covered by
+12
+13
+paragraph 20 or 21 of this section;
+13
+14
+23. Any court-ordered, Department of Corrections or county
+14
+15
+approved work release program; provided, however, this provision
+15
+16
+shall not apply to claims from individuals not in the custody of the
+16
+17
+Department of Corrections based on accidents involving motor
+17
+18
+vehicles owned or operated by the Department of Corrections;
+18
+19
+24. The activities of the state military forces when on state
+19
+20
+active duty orders or on Title 32 active duty orders;
+20
+21
+25. Provision, equipping, operation or maintenance of any
+21
+22
+prison, jail or correctional facility, or injuries resulting from
+22
+23
+the parole or escape of a prisoner or injuries by a prisoner to any
+23
+24
+other prisoner; provided, however, this provision shall not apply to
+24
+Req. No. 1398 Page 30
+
+1
+claims from individuals not in the custody of the Department of
+1
+2
+Corrections based on accidents involving motor vehicles owned or
+2
+3
+operated by the Department of Corrections;
+3
+4
+26. Provision, equipping, operation or maintenance of any
+4
+5
+juvenile detention facility, or injuries resulting from the escape
+5
+6
+of a juvenile detainee, or injuries by a juvenile detainee to any
+6
+7
+other juvenile detainee;
+7
+8
+27. Any claim or action based on the theory of manufacturer’s
+8
+9
+products liability or breach of warranty, either expressed or
+9
+10
+implied;
+10
+11
+28. Any claim or action based on the theory of indemnification
+11
+12
+or subrogation; provided, however, a political subdivision as
+12
+13
+defined in subparagraph s of paragraph 11 of Section 152 of this
+13
+14
+title may enter into a contract with a contract operator or any
+14
+15
+railroad operating in interstate commerce that sells a property
+15
+16
+interest or provides services to a regional transportation
+16
+17
+authority, or allows the regional transportation authority to use
+17
+18
+the railroad’s property or tracks for the provision of public
+18
+19
+passenger rail service, providing for the allocation of financial
+19
+20
+responsibility, indemnification, or the procurement of insurance for
+20
+21
+the parties for all types of claims or damages, provided that funds
+21
+22
+have been appropriated to cover the resulting contractual obligation
+22
+23
+at the time the contract is executed. The acquisition of commercial
+23
+24
+liability insurance to cover the activities of the regional
+24
+Req. No. 1398 Page 31
+
+1
+transportation authority, contract operator or railroad shall not
+1
+2
+operate as a waiver of any of the liabilities, immunities or
+2
+3
+defenses provided for political subdivisions pursuant to the
+3
+4
+provisions of The Governmental Tort Claims Act. A contract entered
+4
+5
+into under this paragraph shall not affect rights of employees under
+5
+6
+the Federal Employers Liability Act or the Federal Railway Labor
+6
+7
+Act;
+7
+8
+29. Any claim based upon an act or omission of an employee in
+8
+9
+the placement of children;
+9
+10
+30. Acts or omissions done in conformance with then current
+10
+11
+recognized standards;
+11
+12
+31. Maintenance of the state highway system or any portion
+12
+13
+thereof unless the claimant presents evidence which establishes
+13
+14
+either that the state failed to warn of the unsafe condition or that
+14
+15
+the loss would not have occurred but for a negligent affirmative act
+15
+16
+of the state;
+16
+17
+32. Any confirmation of the existence or nonexistence of any
+17
+18
+effective financing statement on file in the office of the Secretary
+18
+19
+of State made in good faith by an employee of the office of the
+19
+20
+Secretary of State as required by the provisions of Section 1-9-
+20
+21
+320.6 of Title 12A of the Oklahoma Statutes;
+21
+22
+33. Any court-ordered community sentence;
+22
+23
+34. Remedial action and any subsequent related maintenance of
+23
+24
+property pursuant to and in compliance with an authorized
+24
+Req. No. 1398 Page 32
+
+1
+environmental remediation program, order, or requirement of a
+1
+2
+federal or state environmental agency;
+2
+3
+35. The use of necessary and reasonable force by a school
+3
+4
+district employee to control and discipline a student during the
+4
+5
+time the student is in attendance or in transit to and from the
+5
+6
+school, or any other function authorized by the school district;
+6
+7
+36. Actions taken in good faith by a school district employee
+7
+8
+for the out-of-school suspension of a student pursuant to applicable
+8
+9
+Oklahoma Statutes; or
+9
+10
+37. Use of a public facility opened to the general public
+10
+11
+during an emergency;
+11
+12
+38. Flooding, backups, or stoppages of storm sewers or sanitary
+12
+13
+sewers that are caused by unordinary rainfall events, considering
+13
+14
+duration and intensity of the rainfall event, that results in flows
+14
+15
+that exceed the design capacity of the sewer system;
+15
+16
+39. Sanitary sewer overflows that have occurred on lines within
+16
+17
+the sanitary sewer system where no report of a blockage, backup, or
+17
+18
+overflow has been made to the political subdivision or utility
+18
+19
+operator within the preceding three (3) years;
+19
+20
+40. A sanitary sewer overflow occurring on private property,
+20
+21
+provided that the utility operator is in compliance with Section 1
+21
+22
+of this act. This paragraph shall not apply to claims for loss of
+22
+23
+property; or
+23
+24
+24
+Req. No. 1398 Page 33
+
+1
+41. Any claims occurring within five (5) years after the
+1
+2
+effective date of this act arising out of the maintenance and
+2
+3
+operation of a public utility, which is deemed to be in compliance
+3
+4
+with the provisions of Section 1 of this act.
+4
+5
+SECTION 5. This act shall become effective November 1, 2025.
+5
+6
+6
+7
+60-1-1398 MR 1/19/2025 5:40:43 AM
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1398 Page 34
+
+[DELETED:  P B P]
+[DELETED:  P a a a]
+[DELETED:  P t o]
+[DELETED:  P e b r r a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a t i]
+[DELETED:  P a a a]
+[DELETED:  P E a f]
+[DELETED:  P a F p r f]
+[DELETED:  P p p a l]
+[DELETED:  P l l F]
+[DELETED:  P E F]
+[DELETED:  P a a a a a]
+[DELETED:  P a a]
+[DELETED:  P f f f f f f]
+[DELETED:  P f f f f f]
+[DELETED:  P f f f f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t t t ( i]
+[DELETED:  P i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P “ “]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 1]

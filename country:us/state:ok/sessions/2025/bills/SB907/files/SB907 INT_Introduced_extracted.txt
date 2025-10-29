@@ -1,0 +1,1536 @@
+Title: SENATE BILL 907 By: Rosino
+Official Title: SENATE BILL 907 By: Rosino
+Number of Sections: 31
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the practice of pharmacy; defining
+7
+terms; authorizing product fulfillment through
+8
+central fill pharmacies under certain conditions;
+8
+listing powers and duties of pharmacist-in-charge;
+9
+providing certain limitations on filling of
+9
+prescriptions; requiring certain patient notification
+10
+by originating pharmacy; requiring provision of
+10
+certain information to patients; providing exception;
+11
+imposing certain duties on central fill pharmacy;
+11
+requiring maintenance of certain policy and procedure
+12
+manual; specifying certain product verification
+12
+responsibilities; requiring certain maintenance of
+13
+records; requiring certain application and fee;
+13
+authorizing certain shared services; requiring
+14
+licensure; specifying qualifications for shared
+14
+services; imposing certain requirements on retail
+15
+pharmacy engaged in shared services; providing for
+15
+codification; and providing an effective date.
+16
+16
+17
+17
+18
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18
+19
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 353.31 of Title 59, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+A. As used in this section:
+22
+23
+23
+24
+24
+Req. No. 888 Page 1
+1
+
+Section 3:
+1. “Central fill” means the filling of a prescription drug
+1
+2
+order by a central fill pharmacy licensed by the State Board of
+2
+3
+Pharmacy at the request of an originating pharmacy;
+3
+4
+
+Section 4:
+2. “Central fill pharmacy” means a licensed resident or non-
+4
+5
+resident pharmacy facility that, upon the request of an originating
+5
+6
+pharmacy, performs the product fulfillment of the drug order and
+6
+7
+returns the filled prescription to the originating pharmacy for
+7
+8
+delivery to the patient or patient’s agent or sends it directly to
+8
+9
+the patient for non-controlled substances. A central fill pharmacy
+9
+10
+that returns filled prescriptions to an originating pharmacy shall
+10
+11
+not be required to obtain a wholesale distributor license; and
+11
+12
+
+Section 5:
+3. “Originating pharmacy” means a pharmacy located in this
+12
+13
+state or out-of-state that is licensed or permitted by the state in
+13
+14
+which it is located and, upon receipt of a prescription drug order,
+14
+15
+requests a central fill pharmacy to perform the product fulfillment
+15
+16
+of the order and upon receipt of the filled prescription drug order,
+16
+17
+delivers the prescription to the patient or patient’s agent.
+17
+18
+B. 1. An originating pharmacy may engage in product
+18
+19
+fulfillment with a central fill pharmacy if the pharmacies:
+19
+20
+a. have the same owner or have entered into a written
+20
+21
+contract or agreement that outlines the services to be
+21
+22
+provided and the responsibilities and accountabilities
+22
+23
+of each pharmacy in compliance with federal and state
+23
+24
+laws and regulations,
+24
+Req. No. 888 Page 2
+1
+b. share a common electronic file or have appropriate
+1
+2
+technology to allow access to sufficient information
+2
+3
+necessary or required to dispense or process a
+3
+4
+prescription drug order,
+4
+5
+c. ensure all state and federal laws regarding patient
+5
+6
+confidentiality, network security, and use of shared
+6
+7
+databases are followed, and
+7
+8
+d. maintain the prescription information in a readily
+8
+9
+retrievable manner.
+9
+10
+
+Section 6:
+2. The pharmacist-in-charge of a central fill pharmacy:
+10
+11
+a. shall ensure that the pharmacy maintains and uses
+11
+12
+adequate storage or shipment containers and shipping
+12
+13
+processes to ensure drug stability and potency. Such
+13
+14
+shipping processes shall include the use of
+14
+15
+appropriate packaging material or devices, or both, to
+15
+16
+ensure that the drug is maintained at an appropriate
+16
+17
+temperature range to maintain the integrity of the
+17
+18
+medication throughout the delivery process,
+18
+19
+b. shall ensure that the filled prescriptions are shipped
+19
+20
+in containers that are sealed in a manner that would
+20
+21
+show evidence of having been opened or tampered with,
+21
+22
+and
+22
+23
+c. may employ auxiliary supportive personnel to assist in
+23
+24
+non-dispensing functions such as inventory, delivery,
+24
+Req. No. 888 Page 3
+1
+receiving, or packing of completed prescription
+1
+2
+orders.
+2
+3
+
+Section 7:
+3. Controlled substance prescriptions filled by a central fill
+3
+4
+pharmacy shall comply with both state and federal laws and
+4
+5
+regulations.
+5
+6
+
+Section 8:
+4. To the extent a pharmacy is acting as a central fill
+6
+7
+pharmacy, the pharmacy shall not fill prescriptions provided
+7
+8
+directly by a patient or an individual practitioner.
+8
+9
+C. 1. An originating pharmacy that engages in prescription
+9
+10
+filling by a central fill pharmacy shall, prior to the dispensing of
+10
+11
+the prescription:
+11
+12
+a. notify patients that their prescription may be filled
+12
+13
+by another pharmacy, and
+13
+14
+b. provide the name of that pharmacy or notify the
+14
+15
+patient if the pharmacy is part of a network of
+15
+16
+pharmacies under common ownership and that any of the
+16
+17
+network pharmacies may fill the prescription.
+17
+18
+
+Section 9:
+2. Patient notification may be provided through a one-time
+18
+19
+written notice to the patient or through use of a sign in the
+19
+20
+pharmacy.
+20
+21
+D. 1. A central fill pharmacy that delivers prescriptions
+21
+22
+directly to a patient shall provide written information regarding
+22
+23
+the prescription with the filled prescription.
+23
+24
+24
+Req. No. 888 Page 4
+1
+
+Section 10:
+2. A pharmacist at the originating pharmacy shall offer the
+1
+2
+patient or the patient’s agent information about the prescription
+2
+3
+drug or device in accordance with Board rules.
+3
+4
+
+Section 11:
+3. This subsection shall not apply to patients in facilities
+4
+5
+including, but not limited to, hospitals or nursing facilities,
+5
+6
+where drugs are administered to patients by a person authorized to
+6
+7
+do so by law.
+7
+8
+E. The central fill pharmacy shall:
+8
+9
+
+Section 12:
+1. Place on the prescription label:
+9
+10
+a. the name and address of the originating pharmacy which
+10
+11
+receives the filled prescription for delivery to the
+11
+12
+patient or the patient’s agent, and
+12
+13
+b. in some manner indicate which pharmacy filled the
+13
+14
+prescription;
+14
+15
+
+Section 13:
+2. Comply with all other labeling requirements of federal and
+15
+16
+state law; and
+16
+17
+
+Section 14:
+3. Be exempt from signage requirements intended for patients.
+17
+18
+F. A central fill policy and procedure manual shall be
+18
+19
+maintained at both pharmacies and shall be available for inspection.
+19
+20
+The originating and central fill pharmacies shall maintain only
+20
+21
+those portions of the policy and procedure manual that relate to
+21
+22
+that pharmacy’s operations. The manual shall at minimum contain:
+22
+23
+
+Section 15:
+1. An outline of the responsibilities of the central fill
+23
+24
+pharmacy and the originating pharmacy including, but not limited to:
+24
+Req. No. 888 Page 5
+1
+a. confidentiality and integrity of patient information
+1
+2
+procedures,
+2
+3
+b. drug utilization review,
+3
+4
+c. counseling responsibilities,
+4
+5
+d. policies for operating a continuous quality
+5
+6
+improvement program for pharmacy services designed to
+6
+7
+objectively and systematically monitor and evaluate
+7
+8
+the quality and appropriateness of patient care,
+8
+9
+pursue opportunities to improve patient care, and
+9
+10
+resolve identified problems,
+10
+11
+e. safe delivery of prescriptions to patients,
+11
+12
+f. requirements for storage and shipment of prescription
+12
+13
+medication, and
+13
+14
+g. procedures for conducting an annual review of written
+14
+15
+policies and procedures and for documentation of this
+15
+16
+review; and
+16
+17
+
+Section 16:
+2. Other responsibilities regarding proper handling of a
+17
+18
+prescription and delivery to a patient or a patient’s agent pursuant
+18
+19
+to federal and state controlled substances laws and regulations.
+19
+20
+G. The pharmacist product verification responsibilities
+20
+21
+provided by paragraph 2 of subsection B of this section shall be
+21
+22
+deemed satisfied if:
+22
+23
+
+Section 17:
+1. The pharmacy establishes and follows a policy and procedure
+23
+24
+manual that complies with subsection F of this section; or
+24
+Req. No. 888 Page 6
+1
+
+Section 18:
+2. The pharmacy uses an automated system, the system is fully
+1
+2
+automated from the time the medication is stocked into the machine
+2
+3
+until a completed, labeled, and sealed prescription is produced by
+3
+4
+the system that is ready for dispensing to the patient. No manual
+4
+5
+intervention with the medication may occur after the medication is
+5
+6
+stocked into the system. For purposes of this paragraph, manual
+6
+7
+intervention shall not include preparing a finished prescription for
+7
+8
+mailing, delivery, or storage.
+8
+9
+H. 1. Records may be maintained in an alternative data
+9
+10
+retention system including, but not limited to, a data processing
+10
+11
+system or direct imaging system, if:
+11
+12
+a. the records maintained in the alternative system
+12
+13
+contain all of the information required on the manual
+13
+14
+record, and
+14
+15
+b. the data processing system is capable of producing a
+15
+16
+hard copy of the record upon the request of the Board,
+16
+17
+its representative, or other authorized local, state,
+17
+18
+or federal law enforcement or regulatory agency.
+18
+19
+
+Section 19:
+2. Each pharmacy shall maintain records in accordance with
+19
+20
+federal and state laws and regulations and shall be able to produce
+20
+21
+records as requested by the Board.
+21
+22
+
+Section 20:
+3. The originating pharmacy records shall include the date the
+22
+23
+request for filling was transmitted to the central fill pharmacy.
+23
+24
+
+Section 21:
+4. The central fill pharmacy records shall include:
+24
+Req. No. 888 Page 7
+1
+a. the date the filled prescription was mailed or
+1
+2
+delivered by the central fill pharmacy to the
+2
+3
+originating pharmacy, and
+3
+4
+b. if mailed or delivered to a patient, the name and
+4
+5
+address to which the filled prescription was shipped.
+5
+6
+I. A central fill pharmacy shall complete a pharmacy permit
+6
+7
+application provided by the Board and shall:
+7
+8
+
+Section 22:
+1. Provide the name of the owner, permit holder, and
+8
+9
+pharmacist-in-charge of the pharmacy for service of process; and
+9
+10
+
+Section 23:
+2. Pay the required fee as set by the Board through rule.
+10
+11
+The Board shall develop and implement a central fill permit and
+11
+12
+application under the authority granted by Section 353.18 of Title
+12
+13
+59 of the Oklahoma Statutes.
+13
+14
+
+Section 24:
+SECTION 2. NEW LAW A new section of law to be codified
+14
+15
+in the Oklahoma Statutes as Section 353.32 of Title 59, unless there
+15
+16
+is created a duplication in numbering, reads as follows:
+16
+17
+A. A pharmacy may engage in shared services with another
+17
+18
+pharmacy in accordance with this section and rules promulgated by
+18
+19
+the State Board of Pharmacy including data entry, interpretation of
+19
+20
+a prescription or drug order, data entry verification, drug
+20
+21
+utilization review, product verification, centralized fulfillment
+21
+22
+under Section 1 of this act, or, when necessary, therapeutic
+22
+23
+intervention.
+23
+24
+24
+Req. No. 888 Page 8
+1
+B. Before participating in shared services, a pharmacy shall
+1
+2
+have a current Board issued resident or non-resident retail pharmacy
+2
+3
+license.
+3
+4
+C. A pharmacy may provide or utilize shared services functions
+4
+5
+only if the pharmacies involved:
+5
+6
+
+Section 25:
+1. Either:
+6
+7
+a. have the same owner, or
+7
+8
+b. have a written contract or agreement that outlines the
+8
+9
+services provided and the shared responsibilities of
+9
+10
+each party in complying with federal and state
+10
+11
+pharmacy laws and rules; and
+11
+12
+
+Section 26:
+2. Share a common electronic file or technology that allows
+12
+13
+access to information necessary or required to perform shared
+13
+14
+services in conformance with the Oklahoma Pharmacy Act and rules of
+14
+15
+the Board.
+15
+16
+D. A licensed retail pharmacy engaged in shared services shall:
+16
+17
+
+Section 27:
+1. Maintain manual or electronic records that identify,
+17
+18
+individually for each order processed, the name, initials, or
+18
+19
+identification code of each pharmacist, intern, and pharmacy
+19
+20
+technician who took part, as authorized by rules of the Board, in
+20
+21
+the data entry, prescription or order interpretation, data entry
+21
+22
+verification, drug utilization review, product verification,
+22
+23
+centralized fulfillment, or necessary therapeutic intervention
+23
+24
+performed at that pharmacy;
+24
+Req. No. 888 Page 9
+1
+
+Section 28:
+2. Report to the Board as soon as practical the results of any
+1
+2
+disciplinary action taken by another state’s pharmacy regulatory
+2
+3
+agency involving shared services;
+3
+4
+
+Section 29:
+3. Provide adequate security to protect the confidentiality and
+4
+5
+integrity of patient information; and
+5
+6
+
+Section 30:
+4. Provide access for inspection of any required record or
+6
+7
+information of any request by the Board or its designee.
+7
+8
+
+Section 31:
+SECTION 3. This act shall become effective November 1, 2025.
+8
+9
+9
+10
+60-1-888 DC 1/19/2025 5:45:43 AM
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 888 Page 10
+[DELETED:  P B R]
+[DELETED:  P h]
+[DELETED:  P s e m s s m]
+[DELETED:  P n p]
+[DELETED:  P t i]
+[DELETED:  P c d c p s r p]
+[DELETED:  P t t]
+[DELETED:  P t i]
+[DELETED:  P h h]
+[DELETED:  P D 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 907 By: Rosino
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the practice of pharmacy; defining
+7
+terms; authorizing product fulfillment through
+8
+central fill pharmacies under certain conditions;
+8
+listing powers and duties of pharmacist-in-charge;
+9
+providing certain limitations on filling of
+9
+prescriptions; requiring certain patient notification
+10
+by originating pharmacy; requiring provision of
+10
+certain information to patients; providing exception;
+11
+imposing certain duties on central fill pharmacy;
+11
+requiring maintenance of certain policy and procedure
+12
+manual; specifying certain product verification
+12
+responsibilities; requiring certain maintenance of
+13
+records; requiring certain application and fee;
+13
+authorizing certain shared services; requiring
+14
+licensure; specifying qualifications for shared
+14
+services; imposing certain requirements on retail
+15
+pharmacy engaged in shared services; providing for
+15
+codification; and providing an effective date.
+16
+16
+17
+17
+18
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18
+19
+SECTION 1. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 353.31 of Title 59, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+A. As used in this section:
+22
+23
+23
+24
+24
+Req. No. 888 Page 1
+
+1
+1. “Central fill” means the filling of a prescription drug
+1
+2
+order by a central fill pharmacy licensed by the State Board of
+2
+3
+Pharmacy at the request of an originating pharmacy;
+3
+4
+2. “Central fill pharmacy” means a licensed resident or non-
+4
+5
+resident pharmacy facility that, upon the request of an originating
+5
+6
+pharmacy, performs the product fulfillment of the drug order and
+6
+7
+returns the filled prescription to the originating pharmacy for
+7
+8
+delivery to the patient or patient’s agent or sends it directly to
+8
+9
+the patient for non-controlled substances. A central fill pharmacy
+9
+10
+that returns filled prescriptions to an originating pharmacy shall
+10
+11
+not be required to obtain a wholesale distributor license; and
+11
+12
+3. “Originating pharmacy” means a pharmacy located in this
+12
+13
+state or out-of-state that is licensed or permitted by the state in
+13
+14
+which it is located and, upon receipt of a prescription drug order,
+14
+15
+requests a central fill pharmacy to perform the product fulfillment
+15
+16
+of the order and upon receipt of the filled prescription drug order,
+16
+17
+delivers the prescription to the patient or patient’s agent.
+17
+18
+B. 1. An originating pharmacy may engage in product
+18
+19
+fulfillment with a central fill pharmacy if the pharmacies:
+19
+20
+a. have the same owner or have entered into a written
+20
+21
+contract or agreement that outlines the services to be
+21
+22
+provided and the responsibilities and accountabilities
+22
+23
+of each pharmacy in compliance with federal and state
+23
+24
+laws and regulations,
+24
+Req. No. 888 Page 2
+
+1
+b. share a common electronic file or have appropriate
+1
+2
+technology to allow access to sufficient information
+2
+3
+necessary or required to dispense or process a
+3
+4
+prescription drug order,
+4
+5
+c. ensure all state and federal laws regarding patient
+5
+6
+confidentiality, network security, and use of shared
+6
+7
+databases are followed, and
+7
+8
+d. maintain the prescription information in a readily
+8
+9
+retrievable manner.
+9
+10
+2. The pharmacist-in-charge of a central fill pharmacy:
+10
+11
+a. shall ensure that the pharmacy maintains and uses
+11
+12
+adequate storage or shipment containers and shipping
+12
+13
+processes to ensure drug stability and potency. Such
+13
+14
+shipping processes shall include the use of
+14
+15
+appropriate packaging material or devices, or both, to
+15
+16
+ensure that the drug is maintained at an appropriate
+16
+17
+temperature range to maintain the integrity of the
+17
+18
+medication throughout the delivery process,
+18
+19
+b. shall ensure that the filled prescriptions are shipped
+19
+20
+in containers that are sealed in a manner that would
+20
+21
+show evidence of having been opened or tampered with,
+21
+22
+and
+22
+23
+c. may employ auxiliary supportive personnel to assist in
+23
+24
+non-dispensing functions such as inventory, delivery,
+24
+Req. No. 888 Page 3
+
+1
+receiving, or packing of completed prescription
+1
+2
+orders.
+2
+3
+3. Controlled substance prescriptions filled by a central fill
+3
+4
+pharmacy shall comply with both state and federal laws and
+4
+5
+regulations.
+5
+6
+4. To the extent a pharmacy is acting as a central fill
+6
+7
+pharmacy, the pharmacy shall not fill prescriptions provided
+7
+8
+directly by a patient or an individual practitioner.
+8
+9
+C. 1. An originating pharmacy that engages in prescription
+9
+10
+filling by a central fill pharmacy shall, prior to the dispensing of
+10
+11
+the prescription:
+11
+12
+a. notify patients that their prescription may be filled
+12
+13
+by another pharmacy, and
+13
+14
+b. provide the name of that pharmacy or notify the
+14
+15
+patient if the pharmacy is part of a network of
+15
+16
+pharmacies under common ownership and that any of the
+16
+17
+network pharmacies may fill the prescription.
+17
+18
+2. Patient notification may be provided through a one-time
+18
+19
+written notice to the patient or through use of a sign in the
+19
+20
+pharmacy.
+20
+21
+D. 1. A central fill pharmacy that delivers prescriptions
+21
+22
+directly to a patient shall provide written information regarding
+22
+23
+the prescription with the filled prescription.
+23
+24
+24
+Req. No. 888 Page 4
+
+1
+2. A pharmacist at the originating pharmacy shall offer the
+1
+2
+patient or the patient’s agent information about the prescription
+2
+3
+drug or device in accordance with Board rules.
+3
+4
+3. This subsection shall not apply to patients in facilities
+4
+5
+including, but not limited to, hospitals or nursing facilities,
+5
+6
+where drugs are administered to patients by a person authorized to
+6
+7
+do so by law.
+7
+8
+E. The central fill pharmacy shall:
+8
+9
+1. Place on the prescription label:
+9
+10
+a. the name and address of the originating pharmacy which
+10
+11
+receives the filled prescription for delivery to the
+11
+12
+patient or the patient’s agent, and
+12
+13
+b. in some manner indicate which pharmacy filled the
+13
+14
+prescription;
+14
+15
+2. Comply with all other labeling requirements of federal and
+15
+16
+state law; and
+16
+17
+3. Be exempt from signage requirements intended for patients.
+17
+18
+F. A central fill policy and procedure manual shall be
+18
+19
+maintained at both pharmacies and shall be available for inspection.
+19
+20
+The originating and central fill pharmacies shall maintain only
+20
+21
+those portions of the policy and procedure manual that relate to
+21
+22
+that pharmacy’s operations. The manual shall at minimum contain:
+22
+23
+1. An outline of the responsibilities of the central fill
+23
+24
+pharmacy and the originating pharmacy including, but not limited to:
+24
+Req. No. 888 Page 5
+
+1
+a. confidentiality and integrity of patient information
+1
+2
+procedures,
+2
+3
+b. drug utilization review,
+3
+4
+c. counseling responsibilities,
+4
+5
+d. policies for operating a continuous quality
+5
+6
+improvement program for pharmacy services designed to
+6
+7
+objectively and systematically monitor and evaluate
+7
+8
+the quality and appropriateness of patient care,
+8
+9
+pursue opportunities to improve patient care, and
+9
+10
+resolve identified problems,
+10
+11
+e. safe delivery of prescriptions to patients,
+11
+12
+f. requirements for storage and shipment of prescription
+12
+13
+medication, and
+13
+14
+g. procedures for conducting an annual review of written
+14
+15
+policies and procedures and for documentation of this
+15
+16
+review; and
+16
+17
+2. Other responsibilities regarding proper handling of a
+17
+18
+prescription and delivery to a patient or a patient’s agent pursuant
+18
+19
+to federal and state controlled substances laws and regulations.
+19
+20
+G. The pharmacist product verification responsibilities
+20
+21
+provided by paragraph 2 of subsection B of this section shall be
+21
+22
+deemed satisfied if:
+22
+23
+1. The pharmacy establishes and follows a policy and procedure
+23
+24
+manual that complies with subsection F of this section; or
+24
+Req. No. 888 Page 6
+
+1
+2. The pharmacy uses an automated system, the system is fully
+1
+2
+automated from the time the medication is stocked into the machine
+2
+3
+until a completed, labeled, and sealed prescription is produced by
+3
+4
+the system that is ready for dispensing to the patient. No manual
+4
+5
+intervention with the medication may occur after the medication is
+5
+6
+stocked into the system. For purposes of this paragraph, manual
+6
+7
+intervention shall not include preparing a finished prescription for
+7
+8
+mailing, delivery, or storage.
+8
+9
+H. 1. Records may be maintained in an alternative data
+9
+10
+retention system including, but not limited to, a data processing
+10
+11
+system or direct imaging system, if:
+11
+12
+a. the records maintained in the alternative system
+12
+13
+contain all of the information required on the manual
+13
+14
+record, and
+14
+15
+b. the data processing system is capable of producing a
+15
+16
+hard copy of the record upon the request of the Board,
+16
+17
+its representative, or other authorized local, state,
+17
+18
+or federal law enforcement or regulatory agency.
+18
+19
+2. Each pharmacy shall maintain records in accordance with
+19
+20
+federal and state laws and regulations and shall be able to produce
+20
+21
+records as requested by the Board.
+21
+22
+3. The originating pharmacy records shall include the date the
+22
+23
+request for filling was transmitted to the central fill pharmacy.
+23
+24
+4. The central fill pharmacy records shall include:
+24
+Req. No. 888 Page 7
+
+1
+a. the date the filled prescription was mailed or
+1
+2
+delivered by the central fill pharmacy to the
+2
+3
+originating pharmacy, and
+3
+4
+b. if mailed or delivered to a patient, the name and
+4
+5
+address to which the filled prescription was shipped.
+5
+6
+I. A central fill pharmacy shall complete a pharmacy permit
+6
+7
+application provided by the Board and shall:
+7
+8
+1. Provide the name of the owner, permit holder, and
+8
+9
+pharmacist-in-charge of the pharmacy for service of process; and
+9
+10
+2. Pay the required fee as set by the Board through rule.
+10
+11
+The Board shall develop and implement a central fill permit and
+11
+12
+application under the authority granted by Section 353.18 of Title
+12
+13
+59 of the Oklahoma Statutes.
+13
+14
+SECTION 2. NEW LAW A new section of law to be codified
+14
+15
+in the Oklahoma Statutes as Section 353.32 of Title 59, unless there
+15
+16
+is created a duplication in numbering, reads as follows:
+16
+17
+A. A pharmacy may engage in shared services with another
+17
+18
+pharmacy in accordance with this section and rules promulgated by
+18
+19
+the State Board of Pharmacy including data entry, interpretation of
+19
+20
+a prescription or drug order, data entry verification, drug
+20
+21
+utilization review, product verification, centralized fulfillment
+21
+22
+under Section 1 of this act, or, when necessary, therapeutic
+22
+23
+intervention.
+23
+24
+24
+Req. No. 888 Page 8
+
+1
+B. Before participating in shared services, a pharmacy shall
+1
+2
+have a current Board issued resident or non-resident retail pharmacy
+2
+3
+license.
+3
+4
+C. A pharmacy may provide or utilize shared services functions
+4
+5
+only if the pharmacies involved:
+5
+6
+1. Either:
+6
+7
+a. have the same owner, or
+7
+8
+b. have a written contract or agreement that outlines the
+8
+9
+services provided and the shared responsibilities of
+9
+10
+each party in complying with federal and state
+10
+11
+pharmacy laws and rules; and
+11
+12
+2. Share a common electronic file or technology that allows
+12
+13
+access to information necessary or required to perform shared
+13
+14
+services in conformance with the Oklahoma Pharmacy Act and rules of
+14
+15
+the Board.
+15
+16
+D. A licensed retail pharmacy engaged in shared services shall:
+16
+17
+1. Maintain manual or electronic records that identify,
+17
+18
+individually for each order processed, the name, initials, or
+18
+19
+identification code of each pharmacist, intern, and pharmacy
+19
+20
+technician who took part, as authorized by rules of the Board, in
+20
+21
+the data entry, prescription or order interpretation, data entry
+21
+22
+verification, drug utilization review, product verification,
+22
+23
+centralized fulfillment, or necessary therapeutic intervention
+23
+24
+performed at that pharmacy;
+24
+Req. No. 888 Page 9
+
+1
+2. Report to the Board as soon as practical the results of any
+1
+2
+disciplinary action taken by another state’s pharmacy regulatory
+2
+3
+agency involving shared services;
+3
+4
+3. Provide adequate security to protect the confidentiality and
+4
+5
+integrity of patient information; and
+5
+6
+4. Provide access for inspection of any required record or
+6
+7
+information of any request by the Board or its designee.
+7
+8
+SECTION 3. This act shall become effective November 1, 2025.
+8
+9
+9
+10
+60-1-888 DC 1/19/2025 5:45:43 AM
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 888 Page 10
+
+[DELETED:  P B R]
+[DELETED:  P h]
+[DELETED:  P s e m s s m]
+[DELETED:  P n p]
+[DELETED:  P t i]
+[DELETED:  P c d c p s r p]
+[DELETED:  P t t]
+[DELETED:  P t i]
+[DELETED:  P h h]
+[DELETED:  P D 1]

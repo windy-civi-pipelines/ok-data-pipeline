@@ -1,0 +1,1507 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 1
+Source: versions - Proposed Policy Committee Substitute 1
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+HB1645 POLPCS1 Chris Sneed-MJ
+2/13/2025 2:57:38 pm
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB1645
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Chris Sneed
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 PROPOSED POLICY
+COMMITTEE SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 1645 By: Sneed
+5
+6
+7
+8 PROPOSED POLICY COMMITTEE SUBSTITUTE
+9 An Act relating to insurance; providing definitions;
+requiring persons who perform PEO services to be
+10 licensed; providing requirements for applicants;
+requiring background investigation; clarifying that
+11 falsification is grounds for denial or revocation;
+clarifying that falsification disqualifies
+12 controlling person; requiring annual renewal of
+license; clarifying non-receipt of notice is not an
+13 excuse; providing required information for renewal;
+requiring certain persons submit to background
+14 investigation each year; permitting refusal of
+renewal for certain violations; providing
+15 requirements to qualify for limited license;
+providing information required; requiring licensees
+16 to continue to meet all requirements; requiring
+limited license PEOs to renew annually; clarifying
+17 that non-receipt of limited license does not exempt
+from requirement; providing continuing requirements;
+18 providing required information to renew limited
+license; clarifying that falsification is ground for
+19 denial or revocation; clarifying that falsification
+disqualifies controlling person; clarifying that
+20 failure to continue to meet requirements will result
+in loss of limited license; permitting agreements
+21 with approved assurance organizations; clarifying
+that authorization of assurance organization does not
+22 relieve applicant or license holder responsibility;
+providing required submissions for assurance
+23 organization approval; directing the Oklahoma
+Insurance Department to respond within thirty days;
+24 requiring the Department to list deficiencies;
+Req. No. 12465 Page 1
+1 clarifying how long approval shall remain in effect;
+requiring approved assurance organizations to make
+2 certain annual notifications; directing Department to
+notify assurance organization if it becomes aware of
+3 certain issues; requiring assurance organization to
+respond to Department within certain timeframe;
+4 providing procedure for withdrawal or termination of
+approved status; directing that certain decisions of
+5 the Insurance Commissioner shall be binding;
+directing for Department to accept certain evidence;
+6 requiring certain submissions to execute applicant or
+licensee utilization of services of an assurance
+7 organization; permitting two or more applicants or
+license holder to use services of approved assurance
+8 organization upon certain demonstrated criteria;
+clarifying that Department will only issue licenses
+9 to qualified applicants with unique federal
+employment identification numbers; requiring approved
+10 assurance organizations make certain complaints and
+information available to Department within certain
+11 timeframe; providing procedure for action against
+certain bonds; requiring demonstration of positive
+12 working capital; providing procedure for applicant
+that has not had sufficient operating history for
+13 audited financial statements; providing requirements
+to satisfy deficiencies in working capital;
+14 clarifying procedure if certain financial security is
+canceled or lapses; requiring certain notices to
+15 clients; requiring certain notices to covered
+employees; requiring updating of information with
+16 Department; directing licensee to allow audit of
+required records; requiring maintenance of certain
+17 documents; clarifying what documents are not required
+to be obtained; providing application fees; providing
+18 license fees; providing late renewal fees; clarifying
+violations of act may result in certain proceedings;
+19 permitting approved assurance organizations to
+electronically file applications, reports, or other
+20 required documents; directing for electronic filings
+to be in format prescribed by the Department;
+21 providing for codification; and providing an
+effective date.
+22
+23
+24
+Req. No. 12465 Page 2
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 7501 of Title 36, unless there
+4 is created a duplication in numbering, reads as follows:
+5 As used in this act:
+6 1. "Assurance organization" means an independent entity
+7 approved by the Oklahoma Insurance Department that:
+8 a. provides a national program of accreditation and
+9 financial assurance for professional employer
+10 organizations,
+11 b. has documented qualifications, standards, and
+12 procedures acceptable to the Department, and
+13 c. agrees to provide information, compliance monitoring
+14 services, and financial assurance useful to the
+15 Department in accomplishing the provisions of this
+16 act;
+17 2. "Department" means the Oklahoma Insurance Department;
+18 3. "Controlling person" means an individual who:
+19 a. possesses direct or indirect control of twenty-five
+20 percent (25%) or more of the voting securities of a
+21 business entity that offers or proposes to offer
+22 professional employer services,
+23
+24
+Req. No. 12465 Page 3
+1 b. possesses the authority to set policy and direct
+2 management of a business entity that offers or
+3 proposes to offer professional employer services,
+4 c. is employed, appointed, or authorized by a business
+5 entity that offers or proposes to offer professional
+6 employer services to enter into a professional
+7 employer services agreement with a client on behalf of
+8 the business entity, or
+9 d. a person who is an officer or director of a
+10 corporation or a general partner of a partnership that
+11 offers or proposes to offer professional employer
+12 services;
+13 4. "Offering to perform" means making a written or oral
+14 proposal, contracting in writing or orally to perform professional
+15 employer services, or advertising in any form through any medium
+16 that a person or business entity is a professional employer
+17 organization, or that implies in any way that a person or business
+18 entity is available to enter into a professional employer services
+19 agreement;
+20 5. "PEO" means a Professional Employer Organization; and
+21 6. "Person" means any individual, partnership, corporation, or
+22 any other business entity.
+23
+24
+Req. No. 12465 Page 4
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 7502 of Title 36, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. Any person who performs or offers to perform PEO services as
+5 defined by this act shall be licensed by the Department.
+6 B. To obtain an original PEO license, a person shall provide
+7 the Department with all of the following required information, on
+8 forms prescribed by the Insurance Commissioner:
+9 1. A completed registration form, including any applicable
+10 attachments or application forms;
+11 2. A completed personal information form from each controlling
+12 person;
+13 3. Fingerprint cards for the applicant and any controlling
+14 persons;
+15 4. A completed criminal history questionnaire, as applicable;
+16 5. Documentation from the Oklahoma Secretary of State
+17 recognizing the person's authority to do business in this state;
+18 6. Proof of positive working capital; and
+19 7. The required fees.
+20 C. Each individual applicant and all controlling persons shall
+21 pass a background investigation that includes:
+22 1. A comparison of the person's fingerprints by appropriate
+23 state or federal law enforcement agencies with fingerprints on file;
+24 and
+Req. No. 12465 Page 5
+1 2. A criminal history check with appropriate state and federal
+2 law enforcement agencies.
+3 D. Falsification of a required document by the applicant is
+4 grounds for denial or revocation of license.
+5 E. Falsification of documentation provided by a controlling
+6 person disqualifies that person from serving as a controlling
+7 person.
+8 SECTION 3. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 7503 of Title 36, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. In order for a PEO to continue operating in this state, a
+12 license shall be renewed annually.
+13 B. Non-receipt of a license renewal notice from the Department
+14 does not exempt a person from any requirements of this act.
+15 C. To renew a PEO license, a person shall provide the
+16 Department with all of the following required information, on forms
+17 prescribed by the Insurance Commissioner:
+18 1. A completed registration form, including any applicable
+19 attachments or application forms;
+20 2. A completed personal information form from each controlling
+21 person, or a form indicating there has been no change in the
+22 personal information form since the previous license application or
+23 renewal from each controlling person;
+24 3. Fingerprint cards for any new controlling persons;
+Req. No. 12465 Page 6
+1 4. A completed criminal history questionnaire, as applicable;
+2 5. Proof of positive working capital; and
+3 6. The required fees.
+4 D. Each individual applicant and all controlling persons of the
+5 PEO shall submit to a background investigation each year at the time
+6 of renewal.
+7 E. The Department may refuse to renew a registration if the
+8 applicant or a controlling person of the applicant has violated this
+9 act, a rule, or an order issued by the Oklahoma Insurance
+10 Department.
+11 SECTION 4. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 7504 of Title 36, unless there
+13 is created a duplication in numbering, reads as follows:
+14 A. To qualify for a limited license, a person at all times
+15 shall:
+16 1. Employ less than fifty covered employees in this state at
+17 any one time;
+18 2. Not provide covered employees to clients that are based or
+19 domiciled in the state;
+20 3. Not maintain an office in this state; and
+21 4. Not solicit clients located or domiciled in this state.
+22 B. A person applying for a limited license shall provide the
+23 Oklahoma Insurance Department with all of the following required
+24 information, on forms prescribed by the Insurance Commissioner:
+Req. No. 12465 Page 7
+1 1. A completed registration form, including any applicable
+2 attachments or application forms;
+3 2. A completed personal information form from each controlling
+4 person;
+5 3. A completed criminal history questionnaire, as applicable;
+6 4. Proof of current licensure as a PEO, in good standing, if
+7 licensed in another state;
+8 5. Documentation from the Oklahoma Secretary of State
+9 recognizing the person's authority to do business in this state;
+10 6. Proof of positive working capital; and
+11 7. The required fees.
+12 C. Falsification of a required document by the applicant is
+13 grounds for denial or revocation of license.
+14 D. Falsification of documentation provided by a controlling
+15 person disqualifies that person from serving as a controlling
+16 person.
+17 E. After the person obtains the limited license, the person
+18 shall continue to meet all of the requirements under subsection A of
+19 this section in order to retain the limited license. Failure to
+20 continue meeting the requirements will result in loss of the limited
+21 license.
+22 SECTION 5. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 7505 of Title 36, unless there
+24 is created a duplication in numbering, reads as follows:
+Req. No. 12465 Page 8
+1 A. In order for a limited license PEO to continue operating in
+2 this state, a limited license shall be renewed annually.
+3 B. Non-receipt of a limited license renewal notice from the
+4 Oklahoma Insurance Department does not exempt a person from any
+5 requirements of this act.
+6 C. To continue qualification for a limited license, a person at
+7 all times while licensed shall:
+8 1. Employ less than fifty covered employees in this state at
+9 any one time;
+10 2. Not provide covered employees to clients that are based or
+11 domiciled in the state;
+12 3. Not maintain an office in this state; and
+13 4. Not solicit clients located or domiciled in this state.
+14 D. To renew a limited license, a person shall provide the
+15 Department with all of the following required information, on forms
+16 prescribed by the Insurance Commissioner:
+17 1. A completed registration form, including any applicable
+18 attachments or application forms;
+19 2. A completed personal information form from each controlling
+20 person or a form indicating there has been no change in the personal
+21 information form since the previous license application or renewal
+22 from each controlling person;
+23 3. A completed criminal history questionnaire, as applicable;
+24
+Req. No. 12465 Page 9
+1 4. Proof of current licensure as a PEO, in good standing, if
+2 licensed in another state;
+3 5. Proof of positive working capital; and
+4 6. The required fees.
+5 E. Falsification of a required document by the applicant is
+6 grounds for denial of the application or revocation of a license.
+7 F. Falsification of documentation provided by a controlling
+8 person disqualifies that person from serving as a controlling
+9 person.
+10 G. The person shall continue to meet all of the requirements
+11 under subsection A of this section in order to retain the limited
+12 license. Failure to continue meeting the requirements will result
+13 in loss of the limited license.
+14 SECTION 6. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 7506 of Title 36, unless there
+16 is created a duplication in numbering, reads as follows:
+17 A. An applicant or license holder may enter into an agreement
+18 with an Oklahoma Insurance Department-approved assurance
+19 organization to act on behalf of an applicant or license holder in
+20 accomplishing the provisions of this act.
+21 B. The authorization of an assurance organization to act on its
+22 behalf does not relieve an applicant or license holder from the
+23 applicant or license holder's ultimate responsibility to comply with
+24 each of its obligations pursuant to this act.
+Req. No. 12465 Page 10
+1 C. An assurance organization desiring to become approved shall
+2 submit to the Department:
+3 1. A letter requesting approval by the Department;
+4 2. Evidence that the assurance organization meets the
+5 qualifications required of an assurance organization; and
+6 3. An explanation of how the assurance organization will
+7 certify each of the criteria and obligations required of applicants
+8 and license holders in this act.
+9 D. No later than thirty (30) days after the assurance
+10 organization submits all of the required information to the
+11 Department, the Department shall notify the assurance organization
+12 in writing whether or not the assurance organization has been
+13 approved.
+14 E. If the Department recommends not approving the assurance
+15 organization, it shall detail the deficiencies in writing. The
+16 assurance organization may correct the deficiencies.
+17 F. The assurance organization's approval shall remain in effect
+18 until such time as either the Department, after written notice,
+19 terminates the approval, or until such time as the assurance
+20 organization, after written notice, withdraws or terminates its
+21 status as an approved assurance organization.
+22 G. For so long as the assurance organization is approved, the
+23 assurance organization shall notify the Department annually, in
+24
+Req. No. 12465 Page 11
+1 writ ing, on the anniversary of its approval date, whether any of its
+2 standards of accreditation have changed during the previous year.
+3 H. The Department shall make available to the public a current
+4 list of all approved assurance organizations.
+5 I. The Department shall notify the assurance organization, in
+6 writing, if the Department becomes aware of information which
+7 indicates that the assurance organization is failing to adequately
+8 monitor or provide compliance assistance as intended by this act.
+9 The Department shall include such deficiencies in its written
+10 notification.
+11 J. The assurance organization shall respond to the Department
+12 within thirty (30) days of its receipt of the notification, and both
+13 shall attempt to resolve the matters of concern. If the matters are
+14 not resolved within a reasonable time, the Department may elect to
+15 recommend that the assurance organization's approval be terminated.
+16 K. If the assurance organization desires to withdraw or
+17 terminate its status as an approved assurance organization in
+18 Oklahoma, it shall give the Department not less than sixty (60) days
+19 written notification of said intent, and shall agree to cooperate
+20 with the Department and any license holders or applicants that have
+21 an agreement with the assurance organization in the termination
+22 process.
+23 L. In all matters concerning the relationship between the
+24 Department and either an approved assurance organization or an
+Req. No. 12465 Page 12
+1 assu rance organization desiring to become approved, including
+2 disputed matters, the decision of the Insurance Commissioner shall
+3 be binding on all parties.
+4 SECTION 7. NEW LAW A new section of law to be codified
+5 in the Oklahoma Statutes as Section 7507 of Title 36, unless there
+6 is created a duplication in numbering, reads as follows:
+7 A. The Department shall accept an approved assurance
+8 organization's written certification as evidence that an applicant
+9 or license holder has met and continues to meet the criteria and
+10 obligations set forth in this act. The Department retains the right
+11 to independently verify any information or certification provided by
+12 the assurance organization, including the ability to verify
+13 information contained in the assurance organization's databases.
+14 B. An applicant or licensee wishing to utilize the services of
+15 an assurance organization shall execute, and the assurance
+16 organization shall submit to the Department, together with any fees,
+17 the appropriate application form prescribed by the Insurance
+18 Commissioner which includes a certification by the assurance
+19 organization that the license holder or applicant is in compliance
+20 with the assurance organization's standards which meet the
+21 requirements of this act and rules and a certification by the
+22 licensee or applicant that the applicant is in full compliance with
+23 all requirements of this act and the rules, together with the
+24 license holder or applicant's authorization for the Department to
+Req. No. 12465 Page 13
+1 acce pt information provided by the assurance organization on behalf
+2 of the applicant or licensee.
+3 C. Two or more applicants or license holders using the services
+4 of an approved assurance organization and desiring to apply or renew
+5 as a group may do so provided that the applicants or license holders
+6 apply or renew on a form prescribed by the Insurance Commissioner
+7 and demonstrate that they have at least two of the following
+8 criteria in common:
+9 1. Financial statement;
+10 2. Controlling person;
+11 3. Insurance coverage; or
+12 4. Ownership.
+13 D. Though qualified applicants may apply as a group, the
+14 Department will issue licenses only to qualified applicants having
+15 unique federal employment identification numbers.
+16 E. An approved assurance organization shall notify the
+17 Department, in writing, no later than ten (10) days after it
+18 receives a complaint or becomes aware of information indicating that
+19 an applicant or license holder utilizing its services is not in
+20 compliance with its obligations under this act. The notification
+21 shall include the originals or a certified copy of all such
+22 information in the assurance organization's possession.
+23 F. An approved assurance organization shall notify the
+24 Department, in writing, no later than ten (10) days after the
+Req. No. 12465 Page 14
+1 assu rance organization has made a determination that an accredited
+2 PEO has violated any of the standards of accreditation of the
+3 assurance organization.
+4 G. Should the Department elect to take action against any bond
+5 made available to it by an assurance organization because of a
+6 license holder or applicant's violation of this act as determined by
+7 the Department, the Department shall provide the assurance
+8 organization thirty (30) days written notice prior to taking action
+9 against the bond. This notification requirement shall neither
+10 affect the Department's enforcement procedures nor affect the
+11 Department's ability to take appropriate disciplinary action against
+12 a licensee or applicant.
+13 SECTION 8. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 7508 of Title 36, unless there
+15 is created a duplication in numbering, reads as follows:
+16 A. A person applying for an original license or a renewal
+17 license shall demonstrate positive working capital in the following
+18 amounts:
+19 1. Fifty Thousand Dollars ($50,000.00) if the applicant employs
+20 fewer than two hundred fifty covered employees;
+21 2. Seventy-five Thousand Dollars ($75,000.00) if the applicant
+22 employs at least two hundred fifty but no more than seven hundred
+23 fifty covered employees; and
+24
+Req. No. 12465 Page 15
+1 3. One Hundred Thousand Dollars ($100,000.00) if the applicant
+2 employs more than seven hundred fifty covered employees.
+3 B. Positive Working Capital shall be demonstrated by the
+4 financial statement of the applicant that:
+5 1. Is prepared in accordance with generally accepted accounting
+6 principles;
+7 2. Is audited by an independent certified public accountant,
+8 and is without qualification as to the going concern status of the
+9 applicant;
+10 3. Reflects positive working capital on a date not earlier than
+11 fifteen (15) months before the date of the application; and
+12 4. Is based on adequate reserves for taxes, insurance, and
+13 incurred claims that are not paid.
+14 C. An applicant that has not had sufficient operating history
+15 to have audited financial statements based on at least twelve (12)
+16 months of operations shall meet the financial capacity requirements
+17 required and shall provide the Department with financial statements
+18 that have been reviewed by a certified public accountant.
+19 D. An applicant may satisfy any deficiencies in the working
+20 capital requirement as set forth in subsections A, B, and C of this
+21 section, with one or more of the following:
+22 1. A guaranty with the most recent audited financial statement
+23 of the guarantor, demonstrating positive working capital according
+24 to the following:
+Req. No. 12465 Page 16
+1 a. Fifty Thousand Dollars ($50,000.00) if the applicant
+2 employs fewer than two hundred fifty covered
+3 employees,
+4 b. Seventy-five Thousand Dollars ($75,000.00) if the
+5 applicant employs at least two hundred fifty but no
+6 more than seven hundred fifty covered employees, and
+7 c. One Hundred Thousand Dollars ($100,000.00) if the
+8 applicant employs more than seven hundred fifty
+9 covered employees;
+10 2. A surety bond that:
+11 a. is issued by a surety authorized to do business in the
+12 State of Oklahoma,
+13 b. conforms to the Oklahoma Statutes and Administrative
+14 Code,
+15 c. is on a Department-approved form,
+16 d. is payable to the Oklahoma Insurance Department on
+17 behalf of persons who are injured because of a
+18 violation of this act, and
+19 e. states that the surety will provide the Department
+20 sixty (60) days prior written notice of its intent to
+21 cancel the bond;
+22 3. An original letter of credit that:
+23 a. is irrevocable,
+24
+Req. No. 12465 Page 17
+1 b. is issued by a qualified financial institution which
+2 is financially responsible in the amount of the letter
+3 of credit,
+4 c. does not require examination of the performance of the
+5 underlying transaction between the Department and the
+6 licensee,
+7 d. is payable to the Department on sight or within a
+8 reasonably brief period of time after presentation of
+9 all required documents, and
+10 e. does not include any condition that makes payment to
+11 the Department contingent upon the consent of or other
+12 action by the licensee or other party; or
+13 4. Another form of security acceptable to the Insurance
+14 Commissioner.
+15 E. Any form of financial security used to satisfy a deficiency
+16 in an applicant's positive working capital under subsection A, B, or
+17 C of this section that is issued or written for a specified term
+18 shall be replaced or renewed in accordance with this act.
+19 F. Any form of financial security used to satisfy a deficiency
+20 in applicant's positive working capital under subsection A, B, or C
+21 of this section shall be maintained by the licensee for the entire
+22 time the licensee continues to do business in this state.
+23
+24
+Req. No. 12465 Page 18
+1 G. Any form of financial security used to satisfy a deficiency
+2 in applicant's positive working capital under subsection A, B, or C
+3 of this section shall be kept in effect until the later of:
+4 1. Two (2) years after the licensee ceases to do business in
+5 this state;
+6 2. Two (2) years after the licensee's license expires; or
+7 3. The Insurance Commissioner receives satisfactory proof from
+8 the licensee and determines that the licensee has discharged or
+9 otherwise adequately met all of its obligations under Oklahoma law.
+10 H. If any form of financial security under subsection D of
+11 this section is canceled or lapses during the term of the licensee's
+12 license, the licensee may not continue operations after the
+13 effective date of the cancellation or lapse, unless and until the
+14 licensee files with the Insurance Commissioner a valid form of
+15 financial security that meets the requirements provided by this act
+16 and that provides coverage after that date.
+17 I. Cancellation or lapse of the financial security under
+18 subsection C of this section does not affect the licensee's
+19 liability before or after the effective date of the cancellation or
+20 lapse.
+21 SECTION 9. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 7509 of Title 36, unless there
+23 is created a duplication in numbering, reads as follows:
+24 A. Notices to Clients.
+Req. No. 12465 Page 19
+1 1. A licensee shall notify its clients of the name, mailing
+2 address, and telephone number of the Department. The notice also
+3 shall contain a statement that unresolved complaints concerning a
+4 licensee or questions concerning the regulation of PEOs may be
+5 addressed to the Department.
+6 2. The notice required by this subsection shall be made a part
+7 of all agreements between licensees and clients. The notification
+8 shall appear in a typeface no smaller than the body of the contract
+9 and shall be printed in bold face, all capital letters, or
+10 contrasting color of ink to set it out from the surrounding written
+11 material.
+12 B. Notices to Covered Employees.
+13 1. A licensee shall provide written notice of a professional
+14 employer services agreement to each covered employee that sets forth
+15 the general nature of the co-employment relationship, the name,
+16 mailing address, website, and telephone number of the Department,
+17 and a statement that unresolved complaints concerning a licensee or
+18 questions concerning the regulation of PEO services may be addressed
+19 to the Department.
+20 2. A licensee shall notify each covered employee that a client
+21 company is solely obligated to pay any wages for which:
+22 a. an obligation to pay is created by an agreement,
+23 contract, plan, or policy between the client company
+24 and the covered employee, and
+Req. No. 12465 Page 20
+1 b. the PEO has not contracted to pay.
+2 3. A licensee shall have each covered employee either sign a
+3 document or electronically acknowledge that the covered employee has
+4 received the notice set forth in this subsection. The signed
+5 document or electronic record shall be kept on file for two (2)
+6 years after employment is terminated. The signed document or
+7 electronic record may be included as part of the professional
+8 employer services agreement or other agreement with the covered
+9 employee or may be a separate document.
+10 C. Notwithstanding paragraph 2 of subsection B of this section,
+11 a PEO may process payments for wages that it has not contracted to
+12 pay at the request or direction of its clients.
+13 D. A licensee shall update the information provided to the
+14 Department as part of the original or renewal license application
+15 within forty-five (45) days after any change to the information.
+16 SECTION 10. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 7510 of Title 36, unless there
+18 is created a duplication in numbering, reads as follows:
+19 A. Upon notification, the licensee shall allow the Insurance
+20 Commissioner or their designee to audit any records required by this
+21 act.
+22 B. All licensees shall maintain the following documents for two
+23 (2) years following the termination of a professional employer
+24 services agreement:
+Req. No. 12465 Page 21
+1 1. Insurance coverage documents which may be required for
+2 filing with the Oklahoma Insurance Department, or insurance coverage
+3 documents which the licensee may be required to retain by the
+4 Oklahoma Insurance Department;
+5 2. All documents pertaining to insurance claims;
+6 3. Workers' compensation coverage documents;
+7 4. All documents pertaining to workers' compensation claims;
+8 5. Professional employer services agreements between the
+9 license holder and client companies;
+10 6. Employee tax records that may be required to be retained by
+11 or filed with the Oklahoma Tax Commission;
+12 7. Employee tax records that may be required to be retained by
+13 or filed with the Internal Revenue Service; and
+14 8. Employee tax records that may be required to be retained by
+15 or filed with the county or state.
+16 C. A PEO that offers a self-funded health insurance plan shall
+17 deliver to the Department the following within forty-five (45) days
+18 of receiving approval from the Oklahoma Insurance Department:
+19 1. A copy of the written approval to offer the plan from the
+20 Oklahoma Insurance Department; and
+21 2. A copy of proof that the PEO has appointed the Oklahoma
+22 Insurance Commissioner as its resident agent for purposes of service
+23 of process in this state.
+24
+Req. No. 12465 Page 22
+1 SECTION 11. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 7511 of Title 36, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. Application Fees.
+5 1. All application fees are non-refundable.
+6 2. The application fee is a required fee that is separate from
+7 the required license fee.
+8 3. The original application fee is One Hundred Fifty Dollars
+9 ($150.00).
+10 4. The renewal application fee is One Hundred Fifty Dollars
+11 ($150.00).
+12 5. The limited license original application fee is One Hundred
+13 Fifty Dollars ($150.00).
+14 6. The limited license renewal application fee is One Hundred
+15 Fifty Dollars ($150.00).
+16 B. License Fees.
+17 1. The license fee is a required fee that is separate from the
+18 required application fee.
+19 2. The original license fee is:
+20 a. One Hundred Fifty Dollars ($150.00) for zero to two
+21 hundred forty-nine assigned employees,
+22 b. Three Hundred Dollars ($300.00) for two hundred fifty
+23 to seven hundred fifty assigned employees, and
+24
+Req. No. 12465 Page 23
+1 c. Five Hundred Fifty Dollars ($550.00) for more than
+2 seven hundred fifty assigned employees.
+3 3. The renewal license fee is:
+4 a. for zero to two hundred forty-nine assigned employees,
+5 Two Hundred Fifty Dollars ($250.00) for licenses
+6 expiring before February 1, 2026, and One Hundred
+7 Fifty Dollars ($150.00) for licenses expiring on or
+8 after February 1, 2026,
+9 b. for two hundred fifty to seven hundred fifty assigned
+10 employees, Five Hundred Dollars ($500.00) for licenses
+11 expiring before February 1, 2026, and Three Hundred
+12 Dollars ($300.00) for licenses expiring on or after
+13 February 1, 2026, and
+14 c. for more than seven hundred fifty assigned employees,
+15 Seven Hundred Fifty Dollars ($750.00) for licenses
+16 expiring before February 1, 2026, and Five Hundred
+17 Fifty Dollars ($550.00) for licenses expiring on or
+18 after February 1, 2026.
+19 4. The limited license original license fee is One Hundred
+20 Fifty Dollars ($150.00).
+21 5. The limited license renewal license fee is Seven Hundred
+22 Fifty Dollars ($750.00) for licenses expiring before February 1,
+23 2026, and One Hundred Fifty Dollars ($150.00) for licenses expiring
+24 on or after February 1, 2026.
+Req. No. 12465 Page 24
+1 C. Late renewal fees for licenses and limited licenses issued
+2 under this act.
+3 1. A person whose license has been expired for ninety (90)
+4 days or less may renew the license by paying a late renewal fee
+5 equal to one and one-half (1 1/2) times the renewal fee required for
+6 the license as prescribed in the program rules.
+7 2. A person whose license has been expired for more than
+8 ninety (90) days but less than eighteen (18) months may renew the
+9 license by paying a late renewal fee equal to two times the renewal
+10 fee required for the license as prescribed in the program rules.
+11 3. A person whose license has been expired for more than
+12 eighteen (18) months but less than three (3) years may request that
+13 the Insurance Commissioner approve the license renewal by:
+14 a. submitting information sufficient to explain the need
+15 for the late renewal, and
+16 b. paying to the Department a renewal fee equal to two
+17 times the renewal fee required for the license as
+18 prescribed in the program rules.
+19 4. A person paying a late renewal fee is not required to pay
+20 the late renewal fee in addition to the renewal fee required for the
+21 license as prescribed in the program rules. The person is only
+22 required to pay the late renewal fee.
+23 D. If a person violates this act, proceedings may be
+24 instituted to impose administrative sanctions, administrative
+Req. No. 12465 Page 25
+1 pena lties, or both in accordance with Oklahoma Statutes and
+2 administrative law.
+3 SECTION 12. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 7512 of Title 36, unless there
+5 is created a duplication in numbering, reads as follows:
+6 A. On behalf of an applicant or licensee, an approved assurance
+7 organization may electronically file with the Department any
+8 application, report, or other document required by the Department or
+9 this act.
+10 B. All electronic filings made pursuant to this act shall be in
+11 a format prescribed by the Oklahoma Insurance Department.
+12 SECTION 13. This act shall become effective November 1, 2025.
+13
+14 60-1-12465 MJ 02/13/25
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 12465 Page 26
+[DELETED: 2 AS C           O S L           ]
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P p h a p]
+[DELETED:  P p i a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P F S O i c i i s i]
+[DELETED:  P i d i d]
+[DELETED:  P]
+[DELETED:  P a]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P O T]
+[DELETED:  P F f f f]
+[DELETED:  P s p]
+[DELETED:  P M 0]
+
+
+================================================================================
+
+Raw Text:
+HB1645 POLPCS1 Chris Sneed-MJ
+2/13/2025 2:57:38 pm
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB1645
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Chris Sneed
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 PROPOSED POLICY
+COMMITTEE SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 1645 By: Sneed
+5
+6
+7
+8 PROPOSED POLICY COMMITTEE SUBSTITUTE
+9 An Act relating to insurance; providing definitions;
+requiring persons who perform PEO services to be
+10 licensed; providing requirements for applicants;
+requiring background investigation; clarifying that
+11 falsification is grounds for denial or revocation;
+clarifying that falsification disqualifies
+12 controlling person; requiring annual renewal of
+license; clarifying non-receipt of notice is not an
+13 excuse; providing required information for renewal;
+requiring certain persons submit to background
+14 investigation each year; permitting refusal of
+renewal for certain violations; providing
+15 requirements to qualify for limited license;
+providing information required; requiring licensees
+16 to continue to meet all requirements; requiring
+limited license PEOs to renew annually; clarifying
+17 that non-receipt of limited license does not exempt
+from requirement; providing continuing requirements;
+18 providing required information to renew limited
+license; clarifying that falsification is ground for
+19 denial or revocation; clarifying that falsification
+disqualifies controlling person; clarifying that
+20 failure to continue to meet requirements will result
+in loss of limited license; permitting agreements
+21 with approved assurance organizations; clarifying
+that authorization of assurance organization does not
+22 relieve applicant or license holder responsibility;
+providing required submissions for assurance
+23 organization approval; directing the Oklahoma
+Insurance Department to respond within thirty days;
+24 requiring the Department to list deficiencies;
+Req. No. 12465 Page 1
+
+1 clarifying how long approval shall remain in effect;
+requiring approved assurance organizations to make
+2 certain annual notifications; directing Department to
+notify assurance organization if it becomes aware of
+3 certain issues; requiring assurance organization to
+respond to Department within certain timeframe;
+4 providing procedure for withdrawal or termination of
+approved status; directing that certain decisions of
+5 the Insurance Commissioner shall be binding;
+directing for Department to accept certain evidence;
+6 requiring certain submissions to execute applicant or
+licensee utilization of services of an assurance
+7 organization; permitting two or more applicants or
+license holder to use services of approved assurance
+8 organization upon certain demonstrated criteria;
+clarifying that Department will only issue licenses
+9 to qualified applicants with unique federal
+employment identification numbers; requiring approved
+10 assurance organizations make certain complaints and
+information available to Department within certain
+11 timeframe; providing procedure for action against
+certain bonds; requiring demonstration of positive
+12 working capital; providing procedure for applicant
+that has not had sufficient operating history for
+13 audited financial statements; providing requirements
+to satisfy deficiencies in working capital;
+14 clarifying procedure if certain financial security is
+canceled or lapses; requiring certain notices to
+15 clients; requiring certain notices to covered
+employees; requiring updating of information with
+16 Department; directing licensee to allow audit of
+required records; requiring maintenance of certain
+17 documents; clarifying what documents are not required
+to be obtained; providing application fees; providing
+18 license fees; providing late renewal fees; clarifying
+violations of act may result in certain proceedings;
+19 permitting approved assurance organizations to
+electronically file applications, reports, or other
+20 required documents; directing for electronic filings
+to be in format prescribed by the Department;
+21 providing for codification; and providing an
+effective date.
+22
+23
+24
+Req. No. 12465 Page 2
+
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 7501 of Title 36, unless there
+4 is created a duplication in numbering, reads as follows:
+5 As used in this act:
+6 1. "Assurance organization" means an independent entity
+7 approved by the Oklahoma Insurance Department that:
+8 a. provides a national program of accreditation and
+9 financial assurance for professional employer
+10 organizations,
+11 b. has documented qualifications, standards, and
+12 procedures acceptable to the Department, and
+13 c. agrees to provide information, compliance monitoring
+14 services, and financial assurance useful to the
+15 Department in accomplishing the provisions of this
+16 act;
+17 2. "Department" means the Oklahoma Insurance Department;
+18 3. "Controlling person" means an individual who:
+19 a. possesses direct or indirect control of twenty-five
+20 percent (25%) or more of the voting securities of a
+21 business entity that offers or proposes to offer
+22 professional employer services,
+23
+24
+Req. No. 12465 Page 3
+
+1 b. possesses the authority to set policy and direct
+2 management of a business entity that offers or
+3 proposes to offer professional employer services,
+4 c. is employed, appointed, or authorized by a business
+5 entity that offers or proposes to offer professional
+6 employer services to enter into a professional
+7 employer services agreement with a client on behalf of
+8 the business entity, or
+9 d. a person who is an officer or director of a
+10 corporation or a general partner of a partnership that
+11 offers or proposes to offer professional employer
+12 services;
+13 4. "Offering to perform" means making a written or oral
+14 proposal, contracting in writing or orally to perform professional
+15 employer services, or advertising in any form through any medium
+16 that a person or business entity is a professional employer
+17 organization, or that implies in any way that a person or business
+18 entity is available to enter into a professional employer services
+19 agreement;
+20 5. "PEO" means a Professional Employer Organization; and
+21 6. "Person" means any individual, partnership, corporation, or
+22 any other business entity.
+23
+24
+Req. No. 12465 Page 4
+
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 7502 of Title 36, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. Any person who performs or offers to perform PEO services as
+5 defined by this act shall be licensed by the Department.
+6 B. To obtain an original PEO license, a person shall provide
+7 the Department with all of the following required information, on
+8 forms prescribed by the Insurance Commissioner:
+9 1. A completed registration form, including any applicable
+10 attachments or application forms;
+11 2. A completed personal information form from each controlling
+12 person;
+13 3. Fingerprint cards for the applicant and any controlling
+14 persons;
+15 4. A completed criminal history questionnaire, as applicable;
+16 5. Documentation from the Oklahoma Secretary of State
+17 recognizing the person's authority to do business in this state;
+18 6. Proof of positive working capital; and
+19 7. The required fees.
+20 C. Each individual applicant and all controlling persons shall
+21 pass a background investigation that includes:
+22 1. A comparison of the person's fingerprints by appropriate
+23 state or federal law enforcement agencies with fingerprints on file;
+24 and
+Req. No. 12465 Page 5
+
+1 2. A criminal history check with appropriate state and federal
+2 law enforcement agencies.
+3 D. Falsification of a required document by the applicant is
+4 grounds for denial or revocation of license.
+5 E. Falsification of documentation provided by a controlling
+6 person disqualifies that person from serving as a controlling
+7 person.
+8 SECTION 3. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 7503 of Title 36, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. In order for a PEO to continue operating in this state, a
+12 license shall be renewed annually.
+13 B. Non-receipt of a license renewal notice from the Department
+14 does not exempt a person from any requirements of this act.
+15 C. To renew a PEO license, a person shall provide the
+16 Department with all of the following required information, on forms
+17 prescribed by the Insurance Commissioner:
+18 1. A completed registration form, including any applicable
+19 attachments or application forms;
+20 2. A completed personal information form from each controlling
+21 person, or a form indicating there has been no change in the
+22 personal information form since the previous license application or
+23 renewal from each controlling person;
+24 3. Fingerprint cards for any new controlling persons;
+Req. No. 12465 Page 6
+
+1 4. A completed criminal history questionnaire, as applicable;
+2 5. Proof of positive working capital; and
+3 6. The required fees.
+4 D. Each individual applicant and all controlling persons of the
+5 PEO shall submit to a background investigation each year at the time
+6 of renewal.
+7 E. The Department may refuse to renew a registration if the
+8 applicant or a controlling person of the applicant has violated this
+9 act, a rule, or an order issued by the Oklahoma Insurance
+10 Department.
+11 SECTION 4. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 7504 of Title 36, unless there
+13 is created a duplication in numbering, reads as follows:
+14 A. To qualify for a limited license, a person at all times
+15 shall:
+16 1. Employ less than fifty covered employees in this state at
+17 any one time;
+18 2. Not provide covered employees to clients that are based or
+19 domiciled in the state;
+20 3. Not maintain an office in this state; and
+21 4. Not solicit clients located or domiciled in this state.
+22 B. A person applying for a limited license shall provide the
+23 Oklahoma Insurance Department with all of the following required
+24 information, on forms prescribed by the Insurance Commissioner:
+Req. No. 12465 Page 7
+
+1 1. A completed registration form, including any applicable
+2 attachments or application forms;
+3 2. A completed personal information form from each controlling
+4 person;
+5 3. A completed criminal history questionnaire, as applicable;
+6 4. Proof of current licensure as a PEO, in good standing, if
+7 licensed in another state;
+8 5. Documentation from the Oklahoma Secretary of State
+9 recognizing the person's authority to do business in this state;
+10 6. Proof of positive working capital; and
+11 7. The required fees.
+12 C. Falsification of a required document by the applicant is
+13 grounds for denial or revocation of license.
+14 D. Falsification of documentation provided by a controlling
+15 person disqualifies that person from serving as a controlling
+16 person.
+17 E. After the person obtains the limited license, the person
+18 shall continue to meet all of the requirements under subsection A of
+19 this section in order to retain the limited license. Failure to
+20 continue meeting the requirements will result in loss of the limited
+21 license.
+22 SECTION 5. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 7505 of Title 36, unless there
+24 is created a duplication in numbering, reads as follows:
+Req. No. 12465 Page 8
+
+1 A. In order for a limited license PEO to continue operating in
+2 this state, a limited license shall be renewed annually.
+3 B. Non-receipt of a limited license renewal notice from the
+4 Oklahoma Insurance Department does not exempt a person from any
+5 requirements of this act.
+6 C. To continue qualification for a limited license, a person at
+7 all times while licensed shall:
+8 1. Employ less than fifty covered employees in this state at
+9 any one time;
+10 2. Not provide covered employees to clients that are based or
+11 domiciled in the state;
+12 3. Not maintain an office in this state; and
+13 4. Not solicit clients located or domiciled in this state.
+14 D. To renew a limited license, a person shall provide the
+15 Department with all of the following required information, on forms
+16 prescribed by the Insurance Commissioner:
+17 1. A completed registration form, including any applicable
+18 attachments or application forms;
+19 2. A completed personal information form from each controlling
+20 person or a form indicating there has been no change in the personal
+21 information form since the previous license application or renewal
+22 from each controlling person;
+23 3. A completed criminal history questionnaire, as applicable;
+24
+Req. No. 12465 Page 9
+
+1 4. Proof of current licensure as a PEO, in good standing, if
+2 licensed in another state;
+3 5. Proof of positive working capital; and
+4 6. The required fees.
+5 E. Falsification of a required document by the applicant is
+6 grounds for denial of the application or revocation of a license.
+7 F. Falsification of documentation provided by a controlling
+8 person disqualifies that person from serving as a controlling
+9 person.
+10 G. The person shall continue to meet all of the requirements
+11 under subsection A of this section in order to retain the limited
+12 license. Failure to continue meeting the requirements will result
+13 in loss of the limited license.
+14 SECTION 6. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 7506 of Title 36, unless there
+16 is created a duplication in numbering, reads as follows:
+17 A. An applicant or license holder may enter into an agreement
+18 with an Oklahoma Insurance Department-approved assurance
+19 organization to act on behalf of an applicant or license holder in
+20 accomplishing the provisions of this act.
+21 B. The authorization of an assurance organization to act on its
+22 behalf does not relieve an applicant or license holder from the
+23 applicant or license holder's ultimate responsibility to comply with
+24 each of its obligations pursuant to this act.
+Req. No. 12465 Page 10
+
+1 C. An assurance organization desiring to become approved shall
+2 submit to the Department:
+3 1. A letter requesting approval by the Department;
+4 2. Evidence that the assurance organization meets the
+5 qualifications required of an assurance organization; and
+6 3. An explanation of how the assurance organization will
+7 certify each of the criteria and obligations required of applicants
+8 and license holders in this act.
+9 D. No later than thirty (30) days after the assurance
+10 organization submits all of the required information to the
+11 Department, the Department shall notify the assurance organization
+12 in writing whether or not the assurance organization has been
+13 approved.
+14 E. If the Department recommends not approving the assurance
+15 organization, it shall detail the deficiencies in writing. The
+16 assurance organization may correct the deficiencies.
+17 F. The assurance organization's approval shall remain in effect
+18 until such time as either the Department, after written notice,
+19 terminates the approval, or until such time as the assurance
+20 organization, after written notice, withdraws or terminates its
+21 status as an approved assurance organization.
+22 G. For so long as the assurance organization is approved, the
+23 assurance organization shall notify the Department annually, in
+24
+Req. No. 12465 Page 11
+
+1 writ ing, on the anniversary of its approval date, whether any of its
+2 standards of accreditation have changed during the previous year.
+3 H. The Department shall make available to the public a current
+4 list of all approved assurance organizations.
+5 I. The Department shall notify the assurance organization, in
+6 writing, if the Department becomes aware of information which
+7 indicates that the assurance organization is failing to adequately
+8 monitor or provide compliance assistance as intended by this act.
+9 The Department shall include such deficiencies in its written
+10 notification.
+11 J. The assurance organization shall respond to the Department
+12 within thirty (30) days of its receipt of the notification, and both
+13 shall attempt to resolve the matters of concern. If the matters are
+14 not resolved within a reasonable time, the Department may elect to
+15 recommend that the assurance organization's approval be terminated.
+16 K. If the assurance organization desires to withdraw or
+17 terminate its status as an approved assurance organization in
+18 Oklahoma, it shall give the Department not less than sixty (60) days
+19 written notification of said intent, and shall agree to cooperate
+20 with the Department and any license holders or applicants that have
+21 an agreement with the assurance organization in the termination
+22 process.
+23 L. In all matters concerning the relationship between the
+24 Department and either an approved assurance organization or an
+Req. No. 12465 Page 12
+
+1 assu rance organization desiring to become approved, including
+2 disputed matters, the decision of the Insurance Commissioner shall
+3 be binding on all parties.
+4 SECTION 7. NEW LAW A new section of law to be codified
+5 in the Oklahoma Statutes as Section 7507 of Title 36, unless there
+6 is created a duplication in numbering, reads as follows:
+7 A. The Department shall accept an approved assurance
+8 organization's written certification as evidence that an applicant
+9 or license holder has met and continues to meet the criteria and
+10 obligations set forth in this act. The Department retains the right
+11 to independently verify any information or certification provided by
+12 the assurance organization, including the ability to verify
+13 information contained in the assurance organization's databases.
+14 B. An applicant or licensee wishing to utilize the services of
+15 an assurance organization shall execute, and the assurance
+16 organization shall submit to the Department, together with any fees,
+17 the appropriate application form prescribed by the Insurance
+18 Commissioner which includes a certification by the assurance
+19 organization that the license holder or applicant is in compliance
+20 with the assurance organization's standards which meet the
+21 requirements of this act and rules and a certification by the
+22 licensee or applicant that the applicant is in full compliance with
+23 all requirements of this act and the rules, together with the
+24 license holder or applicant's authorization for the Department to
+Req. No. 12465 Page 13
+
+1 acce pt information provided by the assurance organization on behalf
+2 of the applicant or licensee.
+3 C. Two or more applicants or license holders using the services
+4 of an approved assurance organization and desiring to apply or renew
+5 as a group may do so provided that the applicants or license holders
+6 apply or renew on a form prescribed by the Insurance Commissioner
+7 and demonstrate that they have at least two of the following
+8 criteria in common:
+9 1. Financial statement;
+10 2. Controlling person;
+11 3. Insurance coverage; or
+12 4. Ownership.
+13 D. Though qualified applicants may apply as a group, the
+14 Department will issue licenses only to qualified applicants having
+15 unique federal employment identification numbers.
+16 E. An approved assurance organization shall notify the
+17 Department, in writing, no later than ten (10) days after it
+18 receives a complaint or becomes aware of information indicating that
+19 an applicant or license holder utilizing its services is not in
+20 compliance with its obligations under this act. The notification
+21 shall include the originals or a certified copy of all such
+22 information in the assurance organization's possession.
+23 F. An approved assurance organization shall notify the
+24 Department, in writing, no later than ten (10) days after the
+Req. No. 12465 Page 14
+
+1 assu rance organization has made a determination that an accredited
+2 PEO has violated any of the standards of accreditation of the
+3 assurance organization.
+4 G. Should the Department elect to take action against any bond
+5 made available to it by an assurance organization because of a
+6 license holder or applicant's violation of this act as determined by
+7 the Department, the Department shall provide the assurance
+8 organization thirty (30) days written notice prior to taking action
+9 against the bond. This notification requirement shall neither
+10 affect the Department's enforcement procedures nor affect the
+11 Department's ability to take appropriate disciplinary action against
+12 a licensee or applicant.
+13 SECTION 8. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 7508 of Title 36, unless there
+15 is created a duplication in numbering, reads as follows:
+16 A. A person applying for an original license or a renewal
+17 license shall demonstrate positive working capital in the following
+18 amounts:
+19 1. Fifty Thousand Dollars ($50,000.00) if the applicant employs
+20 fewer than two hundred fifty covered employees;
+21 2. Seventy-five Thousand Dollars ($75,000.00) if the applicant
+22 employs at least two hundred fifty but no more than seven hundred
+23 fifty covered employees; and
+24
+Req. No. 12465 Page 15
+
+1 3. One Hundred Thousand Dollars ($100,000.00) if the applicant
+2 employs more than seven hundred fifty covered employees.
+3 B. Positive Working Capital shall be demonstrated by the
+4 financial statement of the applicant that:
+5 1. Is prepared in accordance with generally accepted accounting
+6 principles;
+7 2. Is audited by an independent certified public accountant,
+8 and is without qualification as to the going concern status of the
+9 applicant;
+10 3. Reflects positive working capital on a date not earlier than
+11 fifteen (15) months before the date of the application; and
+12 4. Is based on adequate reserves for taxes, insurance, and
+13 incurred claims that are not paid.
+14 C. An applicant that has not had sufficient operating history
+15 to have audited financial statements based on at least twelve (12)
+16 months of operations shall meet the financial capacity requirements
+17 required and shall provide the Department with financial statements
+18 that have been reviewed by a certified public accountant.
+19 D. An applicant may satisfy any deficiencies in the working
+20 capital requirement as set forth in subsections A, B, and C of this
+21 section, with one or more of the following:
+22 1. A guaranty with the most recent audited financial statement
+23 of the guarantor, demonstrating positive working capital according
+24 to the following:
+Req. No. 12465 Page 16
+
+1 a. Fifty Thousand Dollars ($50,000.00) if the applicant
+2 employs fewer than two hundred fifty covered
+3 employees,
+4 b. Seventy-five Thousand Dollars ($75,000.00) if the
+5 applicant employs at least two hundred fifty but no
+6 more than seven hundred fifty covered employees, and
+7 c. One Hundred Thousand Dollars ($100,000.00) if the
+8 applicant employs more than seven hundred fifty
+9 covered employees;
+10 2. A surety bond that:
+11 a. is issued by a surety authorized to do business in the
+12 State of Oklahoma,
+13 b. conforms to the Oklahoma Statutes and Administrative
+14 Code,
+15 c. is on a Department-approved form,
+16 d. is payable to the Oklahoma Insurance Department on
+17 behalf of persons who are injured because of a
+18 violation of this act, and
+19 e. states that the surety will provide the Department
+20 sixty (60) days prior written notice of its intent to
+21 cancel the bond;
+22 3. An original letter of credit that:
+23 a. is irrevocable,
+24
+Req. No. 12465 Page 17
+
+1 b. is issued by a qualified financial institution which
+2 is financially responsible in the amount of the letter
+3 of credit,
+4 c. does not require examination of the performance of the
+5 underlying transaction between the Department and the
+6 licensee,
+7 d. is payable to the Department on sight or within a
+8 reasonably brief period of time after presentation of
+9 all required documents, and
+10 e. does not include any condition that makes payment to
+11 the Department contingent upon the consent of or other
+12 action by the licensee or other party; or
+13 4. Another form of security acceptable to the Insurance
+14 Commissioner.
+15 E. Any form of financial security used to satisfy a deficiency
+16 in an applicant's positive working capital under subsection A, B, or
+17 C of this section that is issued or written for a specified term
+18 shall be replaced or renewed in accordance with this act.
+19 F. Any form of financial security used to satisfy a deficiency
+20 in applicant's positive working capital under subsection A, B, or C
+21 of this section shall be maintained by the licensee for the entire
+22 time the licensee continues to do business in this state.
+23
+24
+Req. No. 12465 Page 18
+
+1 G. Any form of financial security used to satisfy a deficiency
+2 in applicant's positive working capital under subsection A, B, or C
+3 of this section shall be kept in effect until the later of:
+4 1. Two (2) years after the licensee ceases to do business in
+5 this state;
+6 2. Two (2) years after the licensee's license expires; or
+7 3. The Insurance Commissioner receives satisfactory proof from
+8 the licensee and determines that the licensee has discharged or
+9 otherwise adequately met all of its obligations under Oklahoma law.
+10 H. If any form of financial security under subsection D of
+11 this section is canceled or lapses during the term of the licensee's
+12 license, the licensee may not continue operations after the
+13 effective date of the cancellation or lapse, unless and until the
+14 licensee files with the Insurance Commissioner a valid form of
+15 financial security that meets the requirements provided by this act
+16 and that provides coverage after that date.
+17 I. Cancellation or lapse of the financial security under
+18 subsection C of this section does not affect the licensee's
+19 liability before or after the effective date of the cancellation or
+20 lapse.
+21 SECTION 9. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 7509 of Title 36, unless there
+23 is created a duplication in numbering, reads as follows:
+24 A. Notices to Clients.
+Req. No. 12465 Page 19
+
+1 1. A licensee shall notify its clients of the name, mailing
+2 address, and telephone number of the Department. The notice also
+3 shall contain a statement that unresolved complaints concerning a
+4 licensee or questions concerning the regulation of PEOs may be
+5 addressed to the Department.
+6 2. The notice required by this subsection shall be made a part
+7 of all agreements between licensees and clients. The notification
+8 shall appear in a typeface no smaller than the body of the contract
+9 and shall be printed in bold face, all capital letters, or
+10 contrasting color of ink to set it out from the surrounding written
+11 material.
+12 B. Notices to Covered Employees.
+13 1. A licensee shall provide written notice of a professional
+14 employer services agreement to each covered employee that sets forth
+15 the general nature of the co-employment relationship, the name,
+16 mailing address, website, and telephone number of the Department,
+17 and a statement that unresolved complaints concerning a licensee or
+18 questions concerning the regulation of PEO services may be addressed
+19 to the Department.
+20 2. A licensee shall notify each covered employee that a client
+21 company is solely obligated to pay any wages for which:
+22 a. an obligation to pay is created by an agreement,
+23 contract, plan, or policy between the client company
+24 and the covered employee, and
+Req. No. 12465 Page 20
+
+1 b. the PEO has not contracted to pay.
+2 3. A licensee shall have each covered employee either sign a
+3 document or electronically acknowledge that the covered employee has
+4 received the notice set forth in this subsection. The signed
+5 document or electronic record shall be kept on file for two (2)
+6 years after employment is terminated. The signed document or
+7 electronic record may be included as part of the professional
+8 employer services agreement or other agreement with the covered
+9 employee or may be a separate document.
+10 C. Notwithstanding paragraph 2 of subsection B of this section,
+11 a PEO may process payments for wages that it has not contracted to
+12 pay at the request or direction of its clients.
+13 D. A licensee shall update the information provided to the
+14 Department as part of the original or renewal license application
+15 within forty-five (45) days after any change to the information.
+16 SECTION 10. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 7510 of Title 36, unless there
+18 is created a duplication in numbering, reads as follows:
+19 A. Upon notification, the licensee shall allow the Insurance
+20 Commissioner or their designee to audit any records required by this
+21 act.
+22 B. All licensees shall maintain the following documents for two
+23 (2) years following the termination of a professional employer
+24 services agreement:
+Req. No. 12465 Page 21
+
+1 1. Insurance coverage documents which may be required for
+2 filing with the Oklahoma Insurance Department, or insurance coverage
+3 documents which the licensee may be required to retain by the
+4 Oklahoma Insurance Department;
+5 2. All documents pertaining to insurance claims;
+6 3. Workers' compensation coverage documents;
+7 4. All documents pertaining to workers' compensation claims;
+8 5. Professional employer services agreements between the
+9 license holder and client companies;
+10 6. Employee tax records that may be required to be retained by
+11 or filed with the Oklahoma Tax Commission;
+12 7. Employee tax records that may be required to be retained by
+13 or filed with the Internal Revenue Service; and
+14 8. Employee tax records that may be required to be retained by
+15 or filed with the county or state.
+16 C. A PEO that offers a self-funded health insurance plan shall
+17 deliver to the Department the following within forty-five (45) days
+18 of receiving approval from the Oklahoma Insurance Department:
+19 1. A copy of the written approval to offer the plan from the
+20 Oklahoma Insurance Department; and
+21 2. A copy of proof that the PEO has appointed the Oklahoma
+22 Insurance Commissioner as its resident agent for purposes of service
+23 of process in this state.
+24
+Req. No. 12465 Page 22
+
+1 SECTION 11. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 7511 of Title 36, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. Application Fees.
+5 1. All application fees are non-refundable.
+6 2. The application fee is a required fee that is separate from
+7 the required license fee.
+8 3. The original application fee is One Hundred Fifty Dollars
+9 ($150.00).
+10 4. The renewal application fee is One Hundred Fifty Dollars
+11 ($150.00).
+12 5. The limited license original application fee is One Hundred
+13 Fifty Dollars ($150.00).
+14 6. The limited license renewal application fee is One Hundred
+15 Fifty Dollars ($150.00).
+16 B. License Fees.
+17 1. The license fee is a required fee that is separate from the
+18 required application fee.
+19 2. The original license fee is:
+20 a. One Hundred Fifty Dollars ($150.00) for zero to two
+21 hundred forty-nine assigned employees,
+22 b. Three Hundred Dollars ($300.00) for two hundred fifty
+23 to seven hundred fifty assigned employees, and
+24
+Req. No. 12465 Page 23
+
+1 c. Five Hundred Fifty Dollars ($550.00) for more than
+2 seven hundred fifty assigned employees.
+3 3. The renewal license fee is:
+4 a. for zero to two hundred forty-nine assigned employees,
+5 Two Hundred Fifty Dollars ($250.00) for licenses
+6 expiring before February 1, 2026, and One Hundred
+7 Fifty Dollars ($150.00) for licenses expiring on or
+8 after February 1, 2026,
+9 b. for two hundred fifty to seven hundred fifty assigned
+10 employees, Five Hundred Dollars ($500.00) for licenses
+11 expiring before February 1, 2026, and Three Hundred
+12 Dollars ($300.00) for licenses expiring on or after
+13 February 1, 2026, and
+14 c. for more than seven hundred fifty assigned employees,
+15 Seven Hundred Fifty Dollars ($750.00) for licenses
+16 expiring before February 1, 2026, and Five Hundred
+17 Fifty Dollars ($550.00) for licenses expiring on or
+18 after February 1, 2026.
+19 4. The limited license original license fee is One Hundred
+20 Fifty Dollars ($150.00).
+21 5. The limited license renewal license fee is Seven Hundred
+22 Fifty Dollars ($750.00) for licenses expiring before February 1,
+23 2026, and One Hundred Fifty Dollars ($150.00) for licenses expiring
+24 on or after February 1, 2026.
+Req. No. 12465 Page 24
+
+1 C. Late renewal fees for licenses and limited licenses issued
+2 under this act.
+3 1. A person whose license has been expired for ninety (90)
+4 days or less may renew the license by paying a late renewal fee
+5 equal to one and one-half (1 1/2) times the renewal fee required for
+6 the license as prescribed in the program rules.
+7 2. A person whose license has been expired for more than
+8 ninety (90) days but less than eighteen (18) months may renew the
+9 license by paying a late renewal fee equal to two times the renewal
+10 fee required for the license as prescribed in the program rules.
+11 3. A person whose license has been expired for more than
+12 eighteen (18) months but less than three (3) years may request that
+13 the Insurance Commissioner approve the license renewal by:
+14 a. submitting information sufficient to explain the need
+15 for the late renewal, and
+16 b. paying to the Department a renewal fee equal to two
+17 times the renewal fee required for the license as
+18 prescribed in the program rules.
+19 4. A person paying a late renewal fee is not required to pay
+20 the late renewal fee in addition to the renewal fee required for the
+21 license as prescribed in the program rules. The person is only
+22 required to pay the late renewal fee.
+23 D. If a person violates this act, proceedings may be
+24 instituted to impose administrative sanctions, administrative
+Req. No. 12465 Page 25
+
+1 pena lties, or both in accordance with Oklahoma Statutes and
+2 administrative law.
+3 SECTION 12. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 7512 of Title 36, unless there
+5 is created a duplication in numbering, reads as follows:
+6 A. On behalf of an applicant or licensee, an approved assurance
+7 organization may electronically file with the Department any
+8 application, report, or other document required by the Department or
+9 this act.
+10 B. All electronic filings made pursuant to this act shall be in
+11 a format prescribed by the Oklahoma Insurance Department.
+12 SECTION 13. This act shall become effective November 1, 2025.
+13
+14 60-1-12465 MJ 02/13/25
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 12465 Page 26
+
+[DELETED: 2 AS C           O S L           ]
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P p h a p]
+[DELETED:  P p i a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P F S O i c i i s i]
+[DELETED:  P i d i d]
+[DELETED:  P]
+[DELETED:  P a]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P O T]
+[DELETED:  P F f f f]
+[DELETED:  P s p]
+[DELETED:  P M 0]

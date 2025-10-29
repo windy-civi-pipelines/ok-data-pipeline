@@ -1,0 +1,3954 @@
+Title: SENATE BILL 988 By: Reinhardt
+Official Title: SENATE BILL 988 By: Reinhardt
+Number of Sections: 42
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Uniform Commercial Code;
+7
+amending 12A O.S. 2021, Sections 1-9-320.2, 1-9-
+8
+
+Section 2:
+320.3, 1-9-320.4, 1-9-320.6, as amended by Section 1,
+8
+Chapter 109, O.S.L. 2022, 1-9-322, 1-9-501, and 1-9-
+9
+710 (12A O.S. Supp. 2024, Section 1-9-320.6), which
+9
+relate to secured transactions; transferring certain
+10
+authority from Secretary of State to Oklahoma County
+10
+Clerk; directing Oklahoma County Clerk to take
+11
+certain actions; modifying certain filing procedures;
+11
+amending 28 O.S. 2021, Section 111, as amended by
+12
+
+Section 3:
+Section 2, Chapter 109, O.S.L. 2022 (28 O.S. Supp.
+12
+2024, Section 111), which relates to fees to be
+13
+charged by Secretary of State; transferring certain
+13
+fees from Secretary of State to Oklahoma County
+14
+Clerk; providing an effective date; and declaring an
+14
+emergency.
+15
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+
+Section 4:
+SECTION 1. AMENDATORY 12A O.S. 2021, Section 1-9-320.2,
+18
+19
+is amended to read as follows:
+19
+20
+
+Section 5:
+Section 1-9-320.2.
+20
+21
+DEFINITIONS; REQUISITES OF AN
+21
+22
+EFFECTIVE FINANCING STATEMENT
+22
+23
+As used in this section and Sections 1-9-320.1 through 1-9-320.7
+23
+24
+of this title:
+24
+Req. No. 1259 Page 1
+1
+(a) “Buyer in the ordinary course of business” means a
+1
+2
+person who, in the ordinary course of business, buys
+2
+3
+farm products from a person engaged in farming
+3
+4
+operations who is in the business of selling farm
+4
+5
+products.
+5
+6
+(b) “Central filing system” means a system for filing
+6
+7
+effective financing statements on a statewide basis
+7
+8
+and which has been certified by the Secretary of the
+8
+9
+United States Department of Agriculture.
+9
+10
+(c) “Commission merchant” means any person engaged in the
+10
+11
+business of receiving any farm product for sale, on
+11
+12
+commission, or for or on behalf of another person.
+12
+13
+(d) “Effective financing statement” means a statement
+13
+14
+that:
+14
+15
+(i) is an original or reproduced form consistent with
+15
+16
+the provisions of this act and approved by the
+16
+17
+Secretary of State Oklahoma County Clerk;
+17
+18
+(ii) is signed and filed with the Secretary of State
+18
+19
+Oklahoma County Clerk by the secured party;
+19
+20
+(iii) is signed by the debtor;
+20
+21
+(iv) contains:
+21
+22
+(A) the name and address of the secured party,
+22
+23
+(B) the name and address of the person indebted
+23
+24
+to the secured party,
+24
+Req. No. 1259 Page 2
+1
+(C) the social security number of the debtor or,
+1
+2
+in the case of a debtor doing business other
+2
+3
+than as an individual, the Internal Revenue
+3
+4
+Service taxpayer identification number of
+4
+5
+such debtor,
+5
+6
+(D) the farm product name,
+6
+7
+(E) each county in this state where the farm
+7
+8
+product is produced or to be produced or a
+8
+9
+blanket code covering all 77 Oklahoma
+9
+10
+counties,
+10
+11
+(F) a description of the farm products subject
+11
+12
+to the security interest only if needed to
+12
+13
+distinguish it from other such farm products
+13
+14
+owned by the same person or persons but not
+14
+15
+subject to the particular interest; and
+15
+16
+(G) the crop year, unless every crop of the farm
+16
+17
+product in question, for the duration of the
+17
+18
+effective financing statement, is to be
+18
+19
+subject to the particular security interest.
+19
+20
+(v) (iv) must be amended in writing, within three
+20
+21
+(3) months, similarly signed and filed, to
+21
+22
+reflect material changes;
+22
+23
+(vi) (v) remains effective for a period of five (5)
+23
+24
+years from the date of filing, subject to
+24
+Req. No. 1259 Page 3
+1
+extensions for additional periods of five (5)
+1
+2
+years each by refiling or filing a continuation
+2
+3
+statement within six (6) months before the
+3
+4
+expiration of the initial five-year period;
+4
+5
+(vii) (vi) is not removed from the public database but
+5
+6
+is not reported as an active files file when the
+6
+7
+statement lapses on the expiration of the
+7
+8
+effective period of the statement or when a
+8
+9
+termination statement from the secured party is
+9
+10
+accepted, whichever occurs first;
+10
+11
+(viii) (vii) is accompanied by the requisite filing fee
+11
+12
+provided for in Section 111 of Title 28 of the
+12
+13
+Oklahoma Statutes; and
+13
+14
+(ix) (viii) substantially complies with the
+14
+15
+requirements of this paragraph even though it
+15
+16
+contains minor errors that are not seriously
+16
+17
+misleading.
+17
+18
+(x) (ix) may reflect multiple products or products
+18
+19
+in multiple counties.
+19
+20
+(e) “Farm product” means an agricultural commodity such as
+20
+21
+wheat, corn, soybeans, or a species of livestock such
+21
+22
+as cattle, hogs, sheep, horses, or poultry used or
+22
+23
+produced in farming operations, or a product of such
+23
+24
+crop or livestock in its unmanufactured state (such as
+24
+Req. No. 1259 Page 4
+1
+ginned cotton, wool-clip, maple syrup, milk, and
+1
+2
+eggs), that is in the possession of a person engaged
+2
+3
+in farming operations.
+3
+4
+(f) “Knows” or “knowledge” means actual knowledge.
+4
+5
+(g) “Person” means any individual, partnership,
+5
+6
+corporation, limited liability company, trust, or any
+6
+7
+other business entity.
+7
+8
+(h) “Security interest” means an interest in farm products
+8
+9
+that secures payment or performance of an obligation.
+9
+10
+(i) “Selling agent” means any person, other than a
+10
+11
+commission merchant, who is engaged in the business of
+11
+12
+negotiating the sale and purchase of any farm product
+12
+13
+on behalf of a person engaged in farming operations.
+13
+14
+(2) Unless otherwise provided for in this act, for purposes of
+14
+15
+this section and Sections 4 and 6 of this act, receipt of notice
+15
+16
+shall be presumed if notice is sent by first-class mail, postage
+16
+17
+prepaid.
+17
+18
+
+Section 6:
+SECTION 2. AMENDATORY 12A O.S. 2021, Section 1-9-320.3,
+18
+19
+is amended to read as follows:
+19
+20
+
+Section 7:
+Section 1-9-320.3.
+20
+21
+FORMS; DUTY OF SECRETARY OF STATE
+21
+22
+The Secretary of State Oklahoma County Clerk shall develop and
+22
+23
+maintain a standard form for an effective financing statement and
+23
+24
+for a statement of continuation, partial release, amendment, or
+24
+Req. No. 1259 Page 5
+1
+assignment thereof, which shall be consistent with the provisions of
+1
+2
+
+Section 8:
+Sections 1-9-320.1 through 1-9-320.7 of this title.
+2
+3
+
+Section 9:
+SECTION 3. AMENDATORY 12A O.S. 2021, Section 1-9-320.4,
+3
+4
+is amended to read as follows:
+4
+5
+
+Section 10:
+Section 1-9-320.4.
+5
+6
+PROTECTION OF BUYERS OF FARM PRODUCTS,
+6
+7
+COMMISSION MERCHANTS AND SELLING AGENTS
+7
+8
+A buyer of farm products, commission merchant, or selling agent
+8
+9
+who purchases or sells farm products in the ordinary course of
+9
+10
+business from or for a person engaged in farming operations takes
+10
+11
+subject to a security interest in the farm products if:
+11
+12
+(a) (i) the buyer of the farm products, commission merchant,
+12
+13
+or selling agent has failed to register with the
+13
+14
+Secretary of State Oklahoma County Clerk prior to the
+14
+15
+purchase of the farm products and the secured party
+15
+16
+has filed an effective financing statement that covers
+16
+17
+the farm products being sold; or
+17
+18
+(ii) the buyer of farm products, commission merchant or
+18
+19
+selling agent receives from the Secretary of State
+19
+20
+Oklahoma County Clerk written notice as provided in
+20
+21
+paragraph (d) or (f) of subsection (4) of Section 1-9-
+21
+22
+
+Section 11:
+320.6 of this title, and the buyer of farm products,
+22
+23
+commission merchant or selling agent does not secure a
+23
+24
+waiver or release of the security interest specified
+24
+Req. No. 1259 Page 6
+1
+in an effective financing statement from the secured
+1
+2
+party by performing any payment obligation or
+2
+3
+otherwise; or
+3
+4
+(b) the secured party or the seller provides written notice of
+4
+5
+the security interest pursuant to the provisions of Section
+5
+6
+1-9-320.7 of this title.
+6
+7
+
+Section 12:
+SECTION 4. AMENDATORY 12A O.S. 2021, Section 1-9-320.6,
+7
+8
+as amended by Section 1, Chapter 109, O.S.L. 2022 (12A O.S. Supp.
+8
+9
+2024, Section 1-9-320.6), is amended to read as follows:
+9
+10
+
+Section 13:
+Section 1-9-320.6.
+10
+11
+CENTRAL FILING SYSTEM RELATING TO FARM PRODUCTS
+11
+12
+(1) The Secretary of State Oklahoma County Clerk shall be
+12
+13
+responsible for developing and implementing maintaining the central
+13
+14
+filing system. This responsibility shall include obtaining the
+14
+15
+necessary certification for the system from the United States
+15
+16
+Department of Agriculture (“USDA”). The effective date for the
+16
+17
+implementation of the central filing system was October 24, 1988
+17
+18
+shall be October 1, 2025.
+18
+19
+(2) The Secretary of State Oklahoma County Clerk may
+19
+20
+promulgate, in accordance with the applicable provisions of the
+20
+21
+Administrative Procedures Act, laws governing business within its
+21
+22
+office, appropriate rules and practices of the filing office in
+22
+23
+harmony with the rules and practices of filing offices in other
+23
+24
+jurisdictions that enact substantially this part and to keep the
+24
+Req. No. 1259 Page 7
+1
+technology used by the filing office compatible with the technology
+1
+2
+used by filing offices in other jurisdictions that enact
+2
+3
+substantially this part. The Oklahoma County Clerk, so far as is
+3
+4
+consistent with the purposes, policies, and provisions of this
+4
+5
+article in adopting, amending, and repealing filing office rules,
+5
+6
+shall:
+6
+7
+(a) consult with filing offices in other jurisdictions
+7
+8
+that enact substantially this part,
+8
+9
+(b) consult the International Association of Commercial
+9
+10
+Administrators or any successor organization, and
+10
+11
+(c) take into consideration the rules and practices of,
+11
+12
+and the technology used by, filing offices in other
+12
+13
+jurisdictions that enact substantially this part, for
+13
+14
+the implementation and operation of the central filing
+14
+15
+system.
+15
+16
+(3) The Office of Management and Enterprise Services shall
+16
+17
+assist the Secretary of State in developing and implementing the
+17
+18
+central filing system.
+18
+19
+(4) The central filing system shall conform to the following
+19
+20
+requirements:
+20
+21
+(a) The Secretary of State Oklahoma County Clerk shall
+21
+22
+record the date and, hour, minute, and second of the
+22
+23
+filing of each effective financing statement;
+23
+24
+24
+Req. No. 1259 Page 8
+1
+(b) The Secretary of State Oklahoma County Clerk shall
+1
+2
+compile all effective financing statements into a
+2
+3
+master list:
+3
+4
+(i) organized according to farm products;
+4
+5
+(ii) arranged within each such product:
+5
+6
+(A) in alphabetical order according to the last
+6
+7
+name of the individual debtors or, in the
+7
+8
+case of debtors doing business other than as
+8
+9
+individuals, the first word in the name of
+9
+10
+the debtors;
+10
+11
+(B) in numerical order according to the Social
+11
+12
+Security number of the individual debtors
+12
+13
+or, in the case of debtors doing business
+13
+14
+other than as individuals, the Internal
+14
+15
+Revenue Service taxpayer identification
+15
+16
+number of the debtors;
+16
+17
+(C) geographically by county produced; and
+17
+18
+(D) by crop year; and
+18
+19
+(iii) containing the information provided for in
+19
+20
+subparagraph (iv) of paragraph (d) of Section 1-
+20
+21
+9-320.2 of this title;
+21
+22
+(iv) portions of the master list shall be available in
+22
+23
+hard copy, electronic formats, or via Internet
+23
+24
+24
+Req. No. 1259 Page 9
+1
+download, and may be organized by other sorting
+1
+2
+methods in addition to the methods listed above.
+2
+3
+(c) The Secretary of State shall maintain records of all
+3
+4
+buyers of farm products, commission merchants, selling
+4
+5
+agents and others who register with the Secretary of
+5
+6
+State, on a form containing:
+6
+7
+(i) the name and address of each registrant;
+7
+8
+(ii) the information on the farm product or products
+8
+9
+that the registrant is requesting;
+9
+10
+(iii) the name of each county where the product is
+10
+11
+produced or to be produced, or a blanket code
+11
+12
+covering all seventy-seven (77) counties of this
+12
+13
+state; and
+13
+14
+(iv) an authorized signature.
+14
+15
+(d) (i) A copy of those portions of the master list
+15
+16
+covering the information requested by a
+16
+17
+registrant shall be distributed to such
+17
+18
+registrants by the Secretary of State on or
+18
+19
+before the last business day of each month and
+19
+20
+shall be presumed to have been received by the
+20
+21
+third business day of the following month.
+21
+22
+(ii) Registrants shall be deemed to be registered only
+22
+23
+as to those portions of the master list for which
+23
+24
+they register, and shall be deemed to have failed
+24
+Req. No. 1259 Page 10
+1
+to register and shall not be considered to be
+1
+2
+registrants as to those portions for which they
+2
+3
+do not register.
+3
+4
+(iii) Registrants are subject only to security
+4
+5
+interests shown on the portions of the master
+5
+6
+list which they receive as a consequence of
+6
+7
+registration with the Secretary of State.
+7
+8
+(iv) If a particular security interest is shown on the
+8
+9
+master list, but was included since the last
+9
+10
+regular distribution of portions of the master
+10
+11
+list to registrants, registrants shall not be
+11
+12
+subject to that security interest;
+12
+13
+(e) The duration of the registration with the Secretary of
+13
+14
+State of a buyer of farm products, commission
+14
+15
+merchant, selling agent or other registrant shall be
+15
+16
+one (1) year from the effective date of the
+16
+17
+registration with the Secretary of State.
+17
+18
+(f) (i) Upon request, within twenty-four (24) hours of
+18
+19
+any inquiry, for information, the Secretary of
+19
+20
+State Oklahoma County Clerk shall provide verbal
+20
+21
+confirmation of the existence or nonexistence of
+21
+22
+any effective financing statement on file. By
+22
+23
+the close of the business day following the day
+23
+24
+on which the request was received, written
+24
+Req. No. 1259 Page 11
+1
+confirmation of the existence of an effective
+1
+2
+financing statement will be provided to buyers of
+2
+3
+farm products, commission merchants, and selling
+3
+4
+agents who have not registered, and others who
+4
+5
+request it.
+5
+6
+(ii) The state or political subdivision shall not be
+6
+7
+liable if a loss or claim results from any
+7
+8
+confirmation of the existence or nonexistence of
+8
+9
+any effective financing statement on file in the
+9
+10
+Office of the Secretary of State Oklahoma County
+10
+11
+Clerk’s office made in good faith by an employee
+11
+12
+of the Office of the Secretary of State Oklahoma
+12
+13
+County Clerk’s office as required by the
+13
+14
+provisions of this section.
+14
+15
+(5) (4) The filing in the office of the Secretary of State
+15
+16
+Oklahoma County Clerk under this section shall be in addition to the
+16
+17
+filing requirements provided for in this article.
+17
+18
+(6) (5) A financing or continuation statement covering farm
+18
+19
+products that has not lapsed and which was filed pursuant to this
+19
+20
+title between December 23, 1986, and October 24, 1988, inclusive,
+20
+21
+and for which no written notice was furnished as provided in Section
+21
+22
+1-9-320.7 of this title, shall become ineffective as to a buyer of
+22
+23
+farm products, commission merchant or selling agent, unless the
+23
+24
+24
+Req. No. 1259 Page 12
+1
+secured party files an effective financing statement in the office
+1
+2
+of the Secretary of State Oklahoma County Clerk.
+2
+3
+(7) (6) An effective financing statement shall not be deemed
+3
+4
+filed in accordance with the provisions of this section until all
+4
+5
+fees authorized by Section 111 of Title 28 of the Oklahoma Statutes
+5
+6
+relating to the filing of the statement are tendered to the
+6
+7
+Secretary of State Oklahoma County Clerk.
+7
+8
+(8) (7) The secured party shall file a termination statement
+8
+9
+within twenty (20) days after there is no outstanding secured
+9
+10
+obligation or commitment to make advances, incur obligations or
+10
+11
+otherwise give value. The termination statement shall refer to the
+11
+12
+unique document ID number. The secured party shall not be required
+12
+13
+to file a termination statement if the debtor, in writing, addressed
+13
+14
+to the secured party, requests that a termination not be filed. The
+14
+15
+request shall be signed by the debtor or an authorized
+15
+16
+representative and the request may be made at any time prior to the
+16
+17
+expiration date of an effective financing statement set forth
+17
+18
+herein. If the affected secured party fails to file a termination
+18
+19
+statement as required by this subsection, the party shall be liable
+19
+20
+to the Secretary of State Oklahoma County Clerk for Five Hundred
+20
+21
+Dollars ($500.00). In addition the affected secured party shall be
+21
+22
+liable to the debtor for any loss caused to the debtor by the
+22
+23
+failure to terminate the effective financing statement.
+23
+24
+24
+Req. No. 1259 Page 13
+1
+(9) (8) The Attorney General Oklahoma County District Attorney
+1
+2
+shall be responsible for enforcing the provisions of subsection (8)
+2
+3
+(7) of this section on behalf of the Secretary of State Oklahoma
+3
+4
+County Clerk and is authorized to take appropriate actions to
+4
+5
+collect any penalties owed to the Secretary of State Oklahoma County
+5
+6
+Clerk pursuant to subsection (8) (7) of this section. When
+6
+7
+collected, the Oklahoma County District Attorney General shall cause
+7
+8
+the penalty to be deposited into the Central Filing System Revolving
+8
+9
+Fund Oklahoma County Clerk’s Uniform Commercial Code Central Filing
+9
+10
+Fund created pursuant to Section 276.3 of Title 62 of the Oklahoma
+10
+11
+Statutes Section 1-9-525.1 of Title 12A of the Oklahoma Statutes.
+11
+12
+(9) As the purpose of an effective financing statement filing
+12
+13
+is to ensure that a joint check is made payable to the debtor and
+13
+14
+all applicable secured parties, there shall be no priority among
+14
+15
+filings. Filings shall be processed according to the order in which
+15
+16
+they were filed, as recorded in a timestamp within the filing.
+16
+17
+(10) All active filings on the effective date of this act, as
+17
+18
+provided in paragraph (1) of this section, shall be filed with the
+18
+19
+Oklahoma County Clerk’s office. Each active filing that is filed
+19
+20
+pursuant to the requirements of this paragraph shall be accompanied
+20
+21
+with a transition document that shall be provided by the Oklahoma
+21
+22
+County Clerk’s office. The Oklahoma County Clerk’s office shall
+22
+23
+charge no fee for active filings that are migrated to the system
+23
+24
+maintained by the Oklahoma County Clerk.
+24
+Req. No. 1259 Page 14
+1
+
+Section 14:
+SECTION 5. AMENDATORY 12A O.S. 2021, Section 1-9-322, is
+1
+2
+amended to read as follows:
+2
+3
+
+Section 15:
+Section 1-9-322.
+3
+4
+PRIORITIES AMONG CONFLICTING SECURITY INTERESTS
+4
+5
+IN AND AGRICULTURAL LIENS ON SAME COLLATERAL
+5
+6
+(a) Except as otherwise provided in this section, priority
+6
+7
+among conflicting security interests and agricultural liens in the
+7
+8
+same collateral is determined according to the following rules:
+8
+9
+(1) Conflicting perfected security interests and agricultural
+9
+10
+liens rank according to priority in time of filing or perfection.
+10
+11
+Priority dates from the earlier of the time a filing covering the
+11
+12
+collateral is first made or the security interest or agricultural
+12
+13
+lien is first perfected, if there is no period thereafter when there
+13
+14
+is neither filing nor perfection;
+14
+15
+(2) A perfected security interest or agricultural lien has
+15
+16
+priority over a conflicting unperfected security interest or
+16
+17
+agricultural lien; and
+17
+18
+(3) The first security interest or agricultural lien to attach
+18
+19
+or become effective has priority if an effective financing statement
+19
+20
+has been filed with the Oklahoma County Clerk’s office, conflicting
+20
+21
+security interests and agricultural liens are unperfected.
+21
+22
+(b) For the purposes of paragraph (1) of subsection (a) of this
+22
+23
+
+Section 16:
+section:
+23
+24
+24
+Req. No. 1259 Page 15
+1
+(1) The time of filing by the Oklahoma County Clerk’s office or
+1
+2
+perfection as to a security interest in collateral is also the time
+2
+3
+of filing by the Oklahoma County Clerk’s office or perfection as to
+3
+4
+a security interest in proceeds; and
+4
+5
+(2) The time of filing or perfection as to a security interest
+5
+6
+in collateral supported by a supporting obligation is also the time
+6
+7
+of filing or perfection as to a security interest in the supporting
+7
+8
+obligation.
+8
+9
+(c) Except as otherwise provided in subsection (f) of this
+9
+10
+
+Section 17:
+section, a security interest in collateral which qualifies for
+10
+11
+priority over a conflicting security interest under Sections 1-9-
+11
+12
+327, 1-9-328, 1-9-329, 1-9-330, or 1-9-331 of this title also has
+12
+13
+priority over a conflicting security interest in:
+13
+14
+(1) Any supporting obligation for the collateral; and
+14
+15
+(2) Proceeds of the collateral if:
+15
+16
+(A) the security interest in proceeds is perfected;
+16
+17
+(B) the proceeds are cash proceeds or of the same type as
+17
+18
+the collateral; and
+18
+19
+(C) in the case of proceeds that are proceeds of proceeds,
+19
+20
+all intervening proceeds are cash proceeds, proceeds
+20
+21
+of the same type as the collateral, or an account
+21
+22
+relating to the collateral.
+22
+23
+(d) Subject to subsection (e) of this section and except as
+23
+24
+otherwise provided in subsection (f) of this section, if a security
+24
+Req. No. 1259 Page 16
+1
+interest in chattel paper, deposit accounts, negotiable documents,
+1
+2
+instruments, investment property, or letter-of-credit rights is
+2
+3
+perfected by a method other than filing, conflicting perfected
+3
+4
+security interests in proceeds of the collateral rank according to
+4
+5
+priority in time of filing.
+5
+6
+(e) Subsection (d) of this section applies only if the proceeds
+6
+7
+of the collateral are not cash proceeds, chattel paper, negotiable
+7
+8
+documents, instruments, investment property, or letter-of-credit
+8
+9
+rights.
+9
+10
+(f) Subsections (a) through (e) of this section are subject to:
+10
+11
+(1) subsection (g) of this section and the other provisions of
+11
+12
+this part;
+12
+13
+(2) Section 4-210 of this title with respect to a security
+13
+14
+interest of a collecting bank;
+14
+15
+(3) Section 5-118 of this title with respect to a security
+15
+16
+interest of an issuer or nominated person; and
+16
+17
+(4) Section 1-9-110 of this title with respect to a security
+17
+18
+interest arising under Article 2 or 2A of this title.
+18
+19
+(g) A perfected agricultural lien on collateral has priority
+19
+20
+over a conflicting security interest in or agricultural lien on the
+20
+21
+same collateral if the statute creating the agricultural lien so
+21
+22
+provides.
+22
+23
+
+Section 18:
+SECTION 6. AMENDATORY 12A O.S. 2021, Section 1-9-501, is
+23
+24
+amended to read as follows:
+24
+Req. No. 1259 Page 17
+1
+
+Section 19:
+Section 1-9-501.
+1
+2
+FILING OFFICE
+2
+3
+(a) Except as otherwise provided in subsection (b) of this
+3
+4
+
+Section 20:
+section, if the local law of this state governs perfection of a
+4
+5
+security interest or agricultural lien, the office in which to file
+5
+6
+a financing statement to perfect the security interest or
+6
+7
+agricultural lien is:
+7
+8
+(1) the office designated for the filing or recording of a
+8
+9
+record of a mortgage on the related real property, if:
+9
+10
+(A) the collateral is as-extracted collateral or timber to
+10
+11
+be cut; or
+11
+12
+(B) the financing statement is filed as a fixture filing
+12
+13
+and the collateral is goods that are or are to become
+13
+14
+fixtures; or
+14
+15
+(2) the office of the county clerk of Oklahoma County, in all
+15
+16
+other cases, including a case in which the collateral is goods that
+16
+17
+are or are to become fixtures and the financing statement is not
+17
+18
+filed as a fixture filing.
+18
+19
+(b) The office in which to file a financing statement to
+19
+20
+perfect a security interest in collateral, including fixtures, of a
+20
+21
+transmitting utility is the office of the Secretary of State
+21
+22
+pursuant to Sections 17 and 18 of Title 46 of the Oklahoma Statutes
+22
+23
+Oklahoma County Clerk. The financing statement also constitutes a
+23
+24
+24
+Req. No. 1259 Page 18
+1
+fixture filing as to the collateral indicated in the financing
+1
+2
+statement which is or is to become fixtures.
+2
+3
+
+Section 21:
+SECTION 7. AMENDATORY 12A O.S. 2021, Section 1-9-710, is
+3
+4
+amended to read as follows:
+4
+5
+
+Section 22:
+Section 1-9-710. (a) In this section:
+5
+6
+(1) “Local-filing office” means a filing office, other than the
+6
+7
+statewide filing office in the office of the County Clerk of
+7
+8
+Oklahoma County or the statewide filing office in the office of the
+8
+9
+Secretary of State, that is designated as the proper place to file a
+9
+10
+financing statement under former Article 9 of this title;
+10
+11
+(2) (A) “Former-Article 9 records” means:
+11
+12
+(i) financing statements and other records that have
+12
+13
+been filed in a local-filing office before July
+13
+14
+1, 2001, and that are, or upon processing and
+14
+15
+indexing will be, reflected in the index
+15
+16
+maintained by the local-filing office for filing
+16
+17
+for financing statements and other records filed
+17
+18
+in the local-filing office before July 1, 2001,
+18
+19
+and
+19
+20
+(ii) the index maintained by the local-filing office
+20
+21
+as of June 30, 2001, including entries for
+21
+22
+filings completed before July 1, 2001, even
+22
+23
+though processed on or after that date.
+23
+24
+24
+Req. No. 1259 Page 19
+1
+(B) “Former-Article 9 records” do not include records
+1
+2
+presented to a local-filing office for filing after
+2
+3
+June 30, 2001, whether or not the records relate to
+3
+4
+financing statements filed in the local-filing office
+4
+5
+before July 1, 2001; and
+5
+6
+(3) “Mortgage”, “as-extracted collateral”, “fixture filing”,
+6
+7
+“goods” and “fixtures” have the meanings set forth in this article
+7
+8
+of this title.
+8
+9
+(b) A local-filing office shall not accept for filing a record
+9
+10
+presented after June 30, 2001, whether or not the record relates to
+10
+11
+a financing statement filed in the local-filing office before July
+11
+12
+1, 2001.
+12
+13
+(c) Until July 1, 2008, each local-filing office shall maintain
+13
+14
+all former-Article 9 records in accordance with former-Article 9. A
+14
+15
+former-Article 9 record which is filed before July 1, 2001, but
+15
+16
+which is not reflected on the index maintained as of June 30, 2001,
+16
+17
+by the local-filing office, shall be processed and indexed and
+17
+18
+reflected on the index maintained as of June 30, 2001, as soon as
+18
+19
+practicable, but in no event later than July 30, 2001.
+19
+20
+(d) Until July 1, 2008, each local-filing office shall respond
+20
+21
+to requests for information with respect to former-Article 9 records
+21
+22
+relating to a debtor and shall issue certificates in accordance with
+22
+23
+former-Article 9. The fees for issuing a certificate or for
+23
+24
+furnishing a certified copy of a former-Article 9 record shall be
+24
+Req. No. 1259 Page 20
+1
+the uniform fees provided by subsections (c) and (d) of Section 1-9-
+1
+2
+525 of this title.
+2
+3
+(e) After June 30, 2008, each local-filing office may remove
+3
+4
+and destroy all former-Article 9 records pursuant to Section 155.2
+4
+5
+of Title 19 of the Oklahoma Statutes.
+5
+6
+(f) This section shall not apply, with respect to financing
+6
+7
+statements and other records, to a filing office in which mortgages
+7
+8
+or records of mortgages on real property are required to be filed or
+8
+9
+recorded if:
+9
+10
+(1) the collateral is timber to be cut or as-extracted
+10
+11
+collateral, or
+11
+12
+(2) the record is or relates to a financing statement files as
+12
+13
+a fixture filing and the collateral is goods that are or are to
+13
+14
+become fixtures.
+14
+15
+
+Section 23:
+SECTION 8. AMENDATORY 28 O.S. 2021, Section 111, as
+15
+16
+amended by Section 2, Chapter 109, O.S.L. 2022 (28 O.S. Supp. 2024,
+16
+17
+
+Section 24:
+Section 111), is amended to read as follows:
+17
+18
+
+Section 25:
+Section 111. A. In addition to other fees provided for by law,
+18
+19
+the Secretary of State Oklahoma County Clerk shall collect the
+19
+20
+following fees:
+20
+21
+
+Section 26:
+1. For affixing the certificate stamp of the Secretary of State
+21
+22
+Oklahoma County Clerk and the seal of the State of Oklahoma Oklahoma
+22
+23
+County, Ten Dollars ($10.00);
+23
+24
+24
+Req. No. 1259 Page 21
+1
+
+Section 27:
+2. For copying any paper or document, One Dollar ($1.00) per
+1
+2
+page, provided the minimum charge shall not be less than Two Dollars
+2
+3
+($2.00);
+3
+4
+
+Section 28:
+3. For filing an effective financing statement in the Office of
+4
+5
+the Secretary of State Oklahoma County Clerk’s office pursuant to
+5
+6
+
+Section 29:
+Section 1-9-320.6 of Title 12A of the Oklahoma Statutes, Ten Dollars
+6
+7
+($10.00);
+7
+8
+
+Section 30:
+4. For filing a continuation statement, partial release,
+8
+9
+assignment of or amendment to an effective financing statement filed
+9
+10
+in the Office of the Secretary of State Oklahoma County Clerk’s
+10
+11
+office pursuant to Section 1-9-320.6 of Title 12A of the Oklahoma
+11
+12
+Statutes, Ten Dollars ($10.00);
+12
+13
+
+Section 31:
+5. For filing a termination statement for an effective
+13
+14
+financing statement filed in the Office of the Secretary of State
+14
+15
+Oklahoma County Clerk’s office pursuant to Section 1-9-320.6 of
+15
+16
+Title 12A of the Oklahoma Statutes, Ten Dollars ($10.00);
+16
+17
+
+Section 32:
+6. For registering a buyer of farm products, commission
+17
+18
+merchant, selling agent or other interested party as provided for in
+18
+19
+
+Section 33:
+Section 1-9-320.6 of Title 12A of the Oklahoma Statutes, Fifty
+19
+20
+Dollars ($50.00) per year. The registration fee provided for in
+20
+21
+this paragraph shall not apply if the buyer of farm products,
+21
+22
+commission merchant, selling agent, or other interested party as
+22
+23
+provided for in Section 1-9-320.6 of Title 12A of the Oklahoma
+23
+24
+Statutes accesses the master list through Internet download;
+24
+Req. No. 1259 Page 22
+1
+
+Section 34:
+7. For distributing a copy of the master list or portions
+1
+2
+thereof to registrants, as provided for in Section 1-9-320.6 of
+2
+3
+Title 12A of the Oklahoma Statutes, in accordance with the following
+3
+4
+fee schedule. Such fees may be paid annually or semiannually:
+4
+5
+a. For information requested for five or less counties:
+5
+6
+Number of Farm
+6
+7
+Products Paper
+7
+8
+(1) 1 to 5 products ............$150 per year
+8
+9
+(2) 6 to 10 products ...........$200 per year
+9
+10
+(3) 11 to 20 products ..........$250 per year
+10
+11
+(4) over 20 products ...........$300 per year
+11
+12
+b. For information requested for six to twenty-five
+12
+13
+counties:
+13
+14
+Number of Farm
+14
+15
+Products Paper
+15
+16
+(1) 1 to 10 products ...........$200 per year
+16
+17
+(2) 11 to 20 products ..........$250 per year
+17
+18
+(3) over 20 products ...........$300 per year
+18
+19
+c. For information requested for twenty-six to fifty
+19
+20
+counties:
+20
+21
+Number of Farm
+21
+22
+Products Paper
+22
+23
+(1) 1 to 10 products ...........$250 per year
+23
+24
+(2) 11 to 20 products ..........$300 per year
+24
+Req. No. 1259 Page 23
+1
+(3) over 20 products ...........$350 per year
+1
+2
+d. For information requested for over fifty counties:
+2
+3
+Number of Farm
+3
+4
+Products Paper
+4
+5
+(1) 1 to 10 products ...........$300 per year
+5
+6
+(2) 11 to 20 products ..........$350 per year
+6
+7
+(3) over 20 products ..........$400 per year;
+7
+8
+
+Section 35:
+8. a. The Secretary of State is authorized to provide for
+8
+9
+the distribution of the master list or portions
+9
+10
+thereof to those persons specified in paragraph 7 of
+10
+11
+this subsection through Internet download, electronic
+11
+12
+data equipment, or other communication media in such
+12
+13
+form and manner as is specified by the Secretary of
+13
+14
+State. The Secretary of State shall not collect a fee
+14
+15
+for distribution of the master list or portions
+15
+16
+thereof through Internet download.
+16
+17
+b. The Secretary of State Oklahoma County Clerk is
+17
+18
+authorized to establish a fee system for such transfer
+18
+19
+of information pursuant to this paragraph. Such fee
+19
+20
+shall not exceed the amount necessary to cover the
+20
+21
+costs of the Secretary of State Oklahoma County Clerk
+21
+22
+in providing such transfer of information.
+22
+23
+c. In providing for the transfer of the information
+23
+24
+specified by this paragraph, the Secretary of State
+24
+Req. No. 1259 Page 24
+1
+Oklahoma County Clerk shall ensure the integrity of
+1
+2
+confidential information within the Office of the
+2
+3
+Secretary of State Oklahoma County Clerk’s office
+3
+4
+through data security measures, internal controls and
+4
+5
+appropriate data base management;
+5
+6
+
+Section 36:
+9. For issuing a written confirmation of the existence or
+6
+7
+nonexistence of active effective financing statements on file for a
+7
+8
+debtor in the Office of the Secretary of State Oklahoma County
+8
+9
+Clerk’s office, Six Dollars ($6.00);
+9
+10
+
+Section 37:
+10. The Secretary of State shall collect a fee of Twenty-five
+10
+11
+Dollars ($25.00) for every apostille issued. For the purposes of
+11
+12
+this paragraph, an apostille is a special certificate attached to a
+12
+13
+public record, as required by the 1961 Hague Convention, Fed. R.
+13
+14
+Civ. P. 44 (28 U.S.C.A.), to certify the authenticity of the
+14
+15
+signature, the capacity in which the person signing the document has
+15
+16
+acted and, where appropriate, the identity of the seal or stamp
+16
+17
+which it bears; provided, however, a fee of Ten Dollars ($10.00)
+17
+18
+shall be collected for any apostille requested for an international
+18
+19
+adoption not to exceed One Hundred Dollars ($100.00) for the
+19
+20
+adoption of each child; and
+20
+21
+
+Section 38:
+11. For each service rendered and not specified in this
+21
+22
+
+Section 39:
+section, such fees as are allowed for similar services in other
+22
+23
+cases.
+23
+24
+24
+Req. No. 1259 Page 25
+1
+B. All fees shall be properly accounted for and shall be paid
+1
+2
+into to the State Treasury Oklahoma County Clerk monthly. The fees
+2
+3
+generated by paragraphs 1, 2, 10 and 11 through 5 and 9 of
+3
+4
+subsection A of this section shall be deposited to the credit of the
+4
+5
+Revolving Fund for the Office of the Secretary of State Oklahoma
+5
+6
+County Clerk’s Uniform Commercial Code Central Filing Fund created
+6
+7
+pursuant to Section 276.1 of Title 62 of the Oklahoma Statutes
+7
+8
+
+Section 40:
+Section 1-9-525.1 of Title 12A of the Oklahoma Statutes. The fees
+8
+9
+generated by paragraphs 3 6 through 9 8 and 10 of subsection A of
+9
+10
+this section and other fees collected by the central filing system
+10
+11
+shall be deposited to the credit of the Central Filing System
+11
+12
+Revolving Fund Oklahoma County Clerk’s Uniform Commercial Code
+12
+13
+Central Filing Fund created pursuant to Section 276.3 of Title 62 of
+13
+14
+the Oklahoma Statutes Section 1-9-525.1 of Title 12A of the Oklahoma
+14
+15
+Statutes.
+15
+16
+
+Section 41:
+SECTION 9. This act shall become effective July 1, 2025.
+16
+17
+
+Section 42:
+SECTION 10. It being immediately necessary for the preservation
+17
+18
+of the public peace, health or safety, an emergency is hereby
+18
+19
+declared to exist, by reason whereof this act shall take effect and
+19
+20
+be in full force from and after its passage and approval.
+20
+21
+21
+22
+60-1-1259 MSBB 1/19/2025 5:47:17 AM
+22
+23
+23
+24
+24
+Req. No. 1259 Page 26
+[DELETED:  P B R]
+[DELETED:  P “ “ “ “ i i i c t t]
+[DELETED:  P t t e a t m r]
+[DELETED:  P i i m “]
+[DELETED:  P “ “ “ “]
+[DELETED:  P ( t t]
+[DELETED:  P t]
+[DELETED:  P c c t T]
+[DELETED:  P T o a i i g b c p]
+[DELETED:  P T t t t a ( A R]
+[DELETED:  P R I T ( U]
+[DELETED:  P T]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t i]
+[DELETED:  P]
+[DELETED:  P t t]
+[DELETED:  P ( “ f t]
+[DELETED:  P “]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P FNP P 1 6 1 o FNP P 1 1 o FNP P 1 1]
+[DELETED:  P o FNP P 1 1 o a T T I]
+[DELETED:  P]
+[DELETED:  P M 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 988 By: Reinhardt
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Uniform Commercial Code;
+7
+amending 12A O.S. 2021, Sections 1-9-320.2, 1-9-
+8
+320.3, 1-9-320.4, 1-9-320.6, as amended by Section 1,
+8
+Chapter 109, O.S.L. 2022, 1-9-322, 1-9-501, and 1-9-
+9
+710 (12A O.S. Supp. 2024, Section 1-9-320.6), which
+9
+relate to secured transactions; transferring certain
+10
+authority from Secretary of State to Oklahoma County
+10
+Clerk; directing Oklahoma County Clerk to take
+11
+certain actions; modifying certain filing procedures;
+11
+amending 28 O.S. 2021, Section 111, as amended by
+12
+Section 2, Chapter 109, O.S.L. 2022 (28 O.S. Supp.
+12
+2024, Section 111), which relates to fees to be
+13
+charged by Secretary of State; transferring certain
+13
+fees from Secretary of State to Oklahoma County
+14
+Clerk; providing an effective date; and declaring an
+14
+emergency.
+15
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+SECTION 1. AMENDATORY 12A O.S. 2021, Section 1-9-320.2,
+18
+19
+is amended to read as follows:
+19
+20
+Section 1-9-320.2.
+20
+21
+DEFINITIONS; REQUISITES OF AN
+21
+22
+EFFECTIVE FINANCING STATEMENT
+22
+23
+As used in this section and Sections 1-9-320.1 through 1-9-320.7
+23
+24
+of this title:
+24
+Req. No. 1259 Page 1
+
+1
+(a) “Buyer in the ordinary course of business” means a
+1
+2
+person who, in the ordinary course of business, buys
+2
+3
+farm products from a person engaged in farming
+3
+4
+operations who is in the business of selling farm
+4
+5
+products.
+5
+6
+(b) “Central filing system” means a system for filing
+6
+7
+effective financing statements on a statewide basis
+7
+8
+and which has been certified by the Secretary of the
+8
+9
+United States Department of Agriculture.
+9
+10
+(c) “Commission merchant” means any person engaged in the
+10
+11
+business of receiving any farm product for sale, on
+11
+12
+commission, or for or on behalf of another person.
+12
+13
+(d) “Effective financing statement” means a statement
+13
+14
+that:
+14
+15
+(i) is an original or reproduced form consistent with
+15
+16
+the provisions of this act and approved by the
+16
+17
+Secretary of State Oklahoma County Clerk;
+17
+18
+(ii) is signed and filed with the Secretary of State
+18
+19
+Oklahoma County Clerk by the secured party;
+19
+20
+(iii) is signed by the debtor;
+20
+21
+(iv) contains:
+21
+22
+(A) the name and address of the secured party,
+22
+23
+(B) the name and address of the person indebted
+23
+24
+to the secured party,
+24
+Req. No. 1259 Page 2
+
+1
+(C) the social security number of the debtor or,
+1
+2
+in the case of a debtor doing business other
+2
+3
+than as an individual, the Internal Revenue
+3
+4
+Service taxpayer identification number of
+4
+5
+such debtor,
+5
+6
+(D) the farm product name,
+6
+7
+(E) each county in this state where the farm
+7
+8
+product is produced or to be produced or a
+8
+9
+blanket code covering all 77 Oklahoma
+9
+10
+counties,
+10
+11
+(F) a description of the farm products subject
+11
+12
+to the security interest only if needed to
+12
+13
+distinguish it from other such farm products
+13
+14
+owned by the same person or persons but not
+14
+15
+subject to the particular interest; and
+15
+16
+(G) the crop year, unless every crop of the farm
+16
+17
+product in question, for the duration of the
+17
+18
+effective financing statement, is to be
+18
+19
+subject to the particular security interest.
+19
+20
+(v) (iv) must be amended in writing, within three
+20
+21
+(3) months, similarly signed and filed, to
+21
+22
+reflect material changes;
+22
+23
+(vi) (v) remains effective for a period of five (5)
+23
+24
+years from the date of filing, subject to
+24
+Req. No. 1259 Page 3
+
+1
+extensions for additional periods of five (5)
+1
+2
+years each by refiling or filing a continuation
+2
+3
+statement within six (6) months before the
+3
+4
+expiration of the initial five-year period;
+4
+5
+(vii) (vi) is not removed from the public database but
+5
+6
+is not reported as an active files file when the
+6
+7
+statement lapses on the expiration of the
+7
+8
+effective period of the statement or when a
+8
+9
+termination statement from the secured party is
+9
+10
+accepted, whichever occurs first;
+10
+11
+(viii) (vii) is accompanied by the requisite filing fee
+11
+12
+provided for in Section 111 of Title 28 of the
+12
+13
+Oklahoma Statutes; and
+13
+14
+(ix) (viii) substantially complies with the
+14
+15
+requirements of this paragraph even though it
+15
+16
+contains minor errors that are not seriously
+16
+17
+misleading.
+17
+18
+(x) (ix) may reflect multiple products or products
+18
+19
+in multiple counties.
+19
+20
+(e) “Farm product” means an agricultural commodity such as
+20
+21
+wheat, corn, soybeans, or a species of livestock such
+21
+22
+as cattle, hogs, sheep, horses, or poultry used or
+22
+23
+produced in farming operations, or a product of such
+23
+24
+crop or livestock in its unmanufactured state (such as
+24
+Req. No. 1259 Page 4
+
+1
+ginned cotton, wool-clip, maple syrup, milk, and
+1
+2
+eggs), that is in the possession of a person engaged
+2
+3
+in farming operations.
+3
+4
+(f) “Knows” or “knowledge” means actual knowledge.
+4
+5
+(g) “Person” means any individual, partnership,
+5
+6
+corporation, limited liability company, trust, or any
+6
+7
+other business entity.
+7
+8
+(h) “Security interest” means an interest in farm products
+8
+9
+that secures payment or performance of an obligation.
+9
+10
+(i) “Selling agent” means any person, other than a
+10
+11
+commission merchant, who is engaged in the business of
+11
+12
+negotiating the sale and purchase of any farm product
+12
+13
+on behalf of a person engaged in farming operations.
+13
+14
+(2) Unless otherwise provided for in this act, for purposes of
+14
+15
+this section and Sections 4 and 6 of this act, receipt of notice
+15
+16
+shall be presumed if notice is sent by first-class mail, postage
+16
+17
+prepaid.
+17
+18
+SECTION 2. AMENDATORY 12A O.S. 2021, Section 1-9-320.3,
+18
+19
+is amended to read as follows:
+19
+20
+Section 1-9-320.3.
+20
+21
+FORMS; DUTY OF SECRETARY OF STATE
+21
+22
+The Secretary of State Oklahoma County Clerk shall develop and
+22
+23
+maintain a standard form for an effective financing statement and
+23
+24
+for a statement of continuation, partial release, amendment, or
+24
+Req. No. 1259 Page 5
+
+1
+assignment thereof, which shall be consistent with the provisions of
+1
+2
+Sections 1-9-320.1 through 1-9-320.7 of this title.
+2
+3
+SECTION 3. AMENDATORY 12A O.S. 2021, Section 1-9-320.4,
+3
+4
+is amended to read as follows:
+4
+5
+Section 1-9-320.4.
+5
+6
+PROTECTION OF BUYERS OF FARM PRODUCTS,
+6
+7
+COMMISSION MERCHANTS AND SELLING AGENTS
+7
+8
+A buyer of farm products, commission merchant, or selling agent
+8
+9
+who purchases or sells farm products in the ordinary course of
+9
+10
+business from or for a person engaged in farming operations takes
+10
+11
+subject to a security interest in the farm products if:
+11
+12
+(a) (i) the buyer of the farm products, commission merchant,
+12
+13
+or selling agent has failed to register with the
+13
+14
+Secretary of State Oklahoma County Clerk prior to the
+14
+15
+purchase of the farm products and the secured party
+15
+16
+has filed an effective financing statement that covers
+16
+17
+the farm products being sold; or
+17
+18
+(ii) the buyer of farm products, commission merchant or
+18
+19
+selling agent receives from the Secretary of State
+19
+20
+Oklahoma County Clerk written notice as provided in
+20
+21
+paragraph (d) or (f) of subsection (4) of Section 1-9-
+21
+22
+320.6 of this title, and the buyer of farm products,
+22
+23
+commission merchant or selling agent does not secure a
+23
+24
+waiver or release of the security interest specified
+24
+Req. No. 1259 Page 6
+
+1
+in an effective financing statement from the secured
+1
+2
+party by performing any payment obligation or
+2
+3
+otherwise; or
+3
+4
+(b) the secured party or the seller provides written notice of
+4
+5
+the security interest pursuant to the provisions of Section
+5
+6
+1-9-320.7 of this title.
+6
+7
+SECTION 4. AMENDATORY 12A O.S. 2021, Section 1-9-320.6,
+7
+8
+as amended by Section 1, Chapter 109, O.S.L. 2022 (12A O.S. Supp.
+8
+9
+2024, Section 1-9-320.6), is amended to read as follows:
+9
+10
+Section 1-9-320.6.
+10
+11
+CENTRAL FILING SYSTEM RELATING TO FARM PRODUCTS
+11
+12
+(1) The Secretary of State Oklahoma County Clerk shall be
+12
+13
+responsible for developing and implementing maintaining the central
+13
+14
+filing system. This responsibility shall include obtaining the
+14
+15
+necessary certification for the system from the United States
+15
+16
+Department of Agriculture (“USDA”). The effective date for the
+16
+17
+implementation of the central filing system was October 24, 1988
+17
+18
+shall be October 1, 2025.
+18
+19
+(2) The Secretary of State Oklahoma County Clerk may
+19
+20
+promulgate, in accordance with the applicable provisions of the
+20
+21
+Administrative Procedures Act, laws governing business within its
+21
+22
+office, appropriate rules and practices of the filing office in
+22
+23
+harmony with the rules and practices of filing offices in other
+23
+24
+jurisdictions that enact substantially this part and to keep the
+24
+Req. No. 1259 Page 7
+
+1
+technology used by the filing office compatible with the technology
+1
+2
+used by filing offices in other jurisdictions that enact
+2
+3
+substantially this part. The Oklahoma County Clerk, so far as is
+3
+4
+consistent with the purposes, policies, and provisions of this
+4
+5
+article in adopting, amending, and repealing filing office rules,
+5
+6
+shall:
+6
+7
+(a) consult with filing offices in other jurisdictions
+7
+8
+that enact substantially this part,
+8
+9
+(b) consult the International Association of Commercial
+9
+10
+Administrators or any successor organization, and
+10
+11
+(c) take into consideration the rules and practices of,
+11
+12
+and the technology used by, filing offices in other
+12
+13
+jurisdictions that enact substantially this part, for
+13
+14
+the implementation and operation of the central filing
+14
+15
+system.
+15
+16
+(3) The Office of Management and Enterprise Services shall
+16
+17
+assist the Secretary of State in developing and implementing the
+17
+18
+central filing system.
+18
+19
+(4) The central filing system shall conform to the following
+19
+20
+requirements:
+20
+21
+(a) The Secretary of State Oklahoma County Clerk shall
+21
+22
+record the date and, hour, minute, and second of the
+22
+23
+filing of each effective financing statement;
+23
+24
+24
+Req. No. 1259 Page 8
+
+1
+(b) The Secretary of State Oklahoma County Clerk shall
+1
+2
+compile all effective financing statements into a
+2
+3
+master list:
+3
+4
+(i) organized according to farm products;
+4
+5
+(ii) arranged within each such product:
+5
+6
+(A) in alphabetical order according to the last
+6
+7
+name of the individual debtors or, in the
+7
+8
+case of debtors doing business other than as
+8
+9
+individuals, the first word in the name of
+9
+10
+the debtors;
+10
+11
+(B) in numerical order according to the Social
+11
+12
+Security number of the individual debtors
+12
+13
+or, in the case of debtors doing business
+13
+14
+other than as individuals, the Internal
+14
+15
+Revenue Service taxpayer identification
+15
+16
+number of the debtors;
+16
+17
+(C) geographically by county produced; and
+17
+18
+(D) by crop year; and
+18
+19
+(iii) containing the information provided for in
+19
+20
+subparagraph (iv) of paragraph (d) of Section 1-
+20
+21
+9-320.2 of this title;
+21
+22
+(iv) portions of the master list shall be available in
+22
+23
+hard copy, electronic formats, or via Internet
+23
+24
+24
+Req. No. 1259 Page 9
+
+1
+download, and may be organized by other sorting
+1
+2
+methods in addition to the methods listed above.
+2
+3
+(c) The Secretary of State shall maintain records of all
+3
+4
+buyers of farm products, commission merchants, selling
+4
+5
+agents and others who register with the Secretary of
+5
+6
+State, on a form containing:
+6
+7
+(i) the name and address of each registrant;
+7
+8
+(ii) the information on the farm product or products
+8
+9
+that the registrant is requesting;
+9
+10
+(iii) the name of each county where the product is
+10
+11
+produced or to be produced, or a blanket code
+11
+12
+covering all seventy-seven (77) counties of this
+12
+13
+state; and
+13
+14
+(iv) an authorized signature.
+14
+15
+(d) (i) A copy of those portions of the master list
+15
+16
+covering the information requested by a
+16
+17
+registrant shall be distributed to such
+17
+18
+registrants by the Secretary of State on or
+18
+19
+before the last business day of each month and
+19
+20
+shall be presumed to have been received by the
+20
+21
+third business day of the following month.
+21
+22
+(ii) Registrants shall be deemed to be registered only
+22
+23
+as to those portions of the master list for which
+23
+24
+they register, and shall be deemed to have failed
+24
+Req. No. 1259 Page 10
+
+1
+to register and shall not be considered to be
+1
+2
+registrants as to those portions for which they
+2
+3
+do not register.
+3
+4
+(iii) Registrants are subject only to security
+4
+5
+interests shown on the portions of the master
+5
+6
+list which they receive as a consequence of
+6
+7
+registration with the Secretary of State.
+7
+8
+(iv) If a particular security interest is shown on the
+8
+9
+master list, but was included since the last
+9
+10
+regular distribution of portions of the master
+10
+11
+list to registrants, registrants shall not be
+11
+12
+subject to that security interest;
+12
+13
+(e) The duration of the registration with the Secretary of
+13
+14
+State of a buyer of farm products, commission
+14
+15
+merchant, selling agent or other registrant shall be
+15
+16
+one (1) year from the effective date of the
+16
+17
+registration with the Secretary of State.
+17
+18
+(f) (i) Upon request, within twenty-four (24) hours of
+18
+19
+any inquiry, for information, the Secretary of
+19
+20
+State Oklahoma County Clerk shall provide verbal
+20
+21
+confirmation of the existence or nonexistence of
+21
+22
+any effective financing statement on file. By
+22
+23
+the close of the business day following the day
+23
+24
+on which the request was received, written
+24
+Req. No. 1259 Page 11
+
+1
+confirmation of the existence of an effective
+1
+2
+financing statement will be provided to buyers of
+2
+3
+farm products, commission merchants, and selling
+3
+4
+agents who have not registered, and others who
+4
+5
+request it.
+5
+6
+(ii) The state or political subdivision shall not be
+6
+7
+liable if a loss or claim results from any
+7
+8
+confirmation of the existence or nonexistence of
+8
+9
+any effective financing statement on file in the
+9
+10
+Office of the Secretary of State Oklahoma County
+10
+11
+Clerk’s office made in good faith by an employee
+11
+12
+of the Office of the Secretary of State Oklahoma
+12
+13
+County Clerk’s office as required by the
+13
+14
+provisions of this section.
+14
+15
+(5) (4) The filing in the office of the Secretary of State
+15
+16
+Oklahoma County Clerk under this section shall be in addition to the
+16
+17
+filing requirements provided for in this article.
+17
+18
+(6) (5) A financing or continuation statement covering farm
+18
+19
+products that has not lapsed and which was filed pursuant to this
+19
+20
+title between December 23, 1986, and October 24, 1988, inclusive,
+20
+21
+and for which no written notice was furnished as provided in Section
+21
+22
+1-9-320.7 of this title, shall become ineffective as to a buyer of
+22
+23
+farm products, commission merchant or selling agent, unless the
+23
+24
+24
+Req. No. 1259 Page 12
+
+1
+secured party files an effective financing statement in the office
+1
+2
+of the Secretary of State Oklahoma County Clerk.
+2
+3
+(7) (6) An effective financing statement shall not be deemed
+3
+4
+filed in accordance with the provisions of this section until all
+4
+5
+fees authorized by Section 111 of Title 28 of the Oklahoma Statutes
+5
+6
+relating to the filing of the statement are tendered to the
+6
+7
+Secretary of State Oklahoma County Clerk.
+7
+8
+(8) (7) The secured party shall file a termination statement
+8
+9
+within twenty (20) days after there is no outstanding secured
+9
+10
+obligation or commitment to make advances, incur obligations or
+10
+11
+otherwise give value. The termination statement shall refer to the
+11
+12
+unique document ID number. The secured party shall not be required
+12
+13
+to file a termination statement if the debtor, in writing, addressed
+13
+14
+to the secured party, requests that a termination not be filed. The
+14
+15
+request shall be signed by the debtor or an authorized
+15
+16
+representative and the request may be made at any time prior to the
+16
+17
+expiration date of an effective financing statement set forth
+17
+18
+herein. If the affected secured party fails to file a termination
+18
+19
+statement as required by this subsection, the party shall be liable
+19
+20
+to the Secretary of State Oklahoma County Clerk for Five Hundred
+20
+21
+Dollars ($500.00). In addition the affected secured party shall be
+21
+22
+liable to the debtor for any loss caused to the debtor by the
+22
+23
+failure to terminate the effective financing statement.
+23
+24
+24
+Req. No. 1259 Page 13
+
+1
+(9) (8) The Attorney General Oklahoma County District Attorney
+1
+2
+shall be responsible for enforcing the provisions of subsection (8)
+2
+3
+(7) of this section on behalf of the Secretary of State Oklahoma
+3
+4
+County Clerk and is authorized to take appropriate actions to
+4
+5
+collect any penalties owed to the Secretary of State Oklahoma County
+5
+6
+Clerk pursuant to subsection (8) (7) of this section. When
+6
+7
+collected, the Oklahoma County District Attorney General shall cause
+7
+8
+the penalty to be deposited into the Central Filing System Revolving
+8
+9
+Fund Oklahoma County Clerk’s Uniform Commercial Code Central Filing
+9
+10
+Fund created pursuant to Section 276.3 of Title 62 of the Oklahoma
+10
+11
+Statutes Section 1-9-525.1 of Title 12A of the Oklahoma Statutes.
+11
+12
+(9) As the purpose of an effective financing statement filing
+12
+13
+is to ensure that a joint check is made payable to the debtor and
+13
+14
+all applicable secured parties, there shall be no priority among
+14
+15
+filings. Filings shall be processed according to the order in which
+15
+16
+they were filed, as recorded in a timestamp within the filing.
+16
+17
+(10) All active filings on the effective date of this act, as
+17
+18
+provided in paragraph (1) of this section, shall be filed with the
+18
+19
+Oklahoma County Clerk’s office. Each active filing that is filed
+19
+20
+pursuant to the requirements of this paragraph shall be accompanied
+20
+21
+with a transition document that shall be provided by the Oklahoma
+21
+22
+County Clerk’s office. The Oklahoma County Clerk’s office shall
+22
+23
+charge no fee for active filings that are migrated to the system
+23
+24
+maintained by the Oklahoma County Clerk.
+24
+Req. No. 1259 Page 14
+
+1
+SECTION 5. AMENDATORY 12A O.S. 2021, Section 1-9-322, is
+1
+2
+amended to read as follows:
+2
+3
+Section 1-9-322.
+3
+4
+PRIORITIES AMONG CONFLICTING SECURITY INTERESTS
+4
+5
+IN AND AGRICULTURAL LIENS ON SAME COLLATERAL
+5
+6
+(a) Except as otherwise provided in this section, priority
+6
+7
+among conflicting security interests and agricultural liens in the
+7
+8
+same collateral is determined according to the following rules:
+8
+9
+(1) Conflicting perfected security interests and agricultural
+9
+10
+liens rank according to priority in time of filing or perfection.
+10
+11
+Priority dates from the earlier of the time a filing covering the
+11
+12
+collateral is first made or the security interest or agricultural
+12
+13
+lien is first perfected, if there is no period thereafter when there
+13
+14
+is neither filing nor perfection;
+14
+15
+(2) A perfected security interest or agricultural lien has
+15
+16
+priority over a conflicting unperfected security interest or
+16
+17
+agricultural lien; and
+17
+18
+(3) The first security interest or agricultural lien to attach
+18
+19
+or become effective has priority if an effective financing statement
+19
+20
+has been filed with the Oklahoma County Clerk’s office, conflicting
+20
+21
+security interests and agricultural liens are unperfected.
+21
+22
+(b) For the purposes of paragraph (1) of subsection (a) of this
+22
+23
+section:
+23
+24
+24
+Req. No. 1259 Page 15
+
+1
+(1) The time of filing by the Oklahoma County Clerk’s office or
+1
+2
+perfection as to a security interest in collateral is also the time
+2
+3
+of filing by the Oklahoma County Clerk’s office or perfection as to
+3
+4
+a security interest in proceeds; and
+4
+5
+(2) The time of filing or perfection as to a security interest
+5
+6
+in collateral supported by a supporting obligation is also the time
+6
+7
+of filing or perfection as to a security interest in the supporting
+7
+8
+obligation.
+8
+9
+(c) Except as otherwise provided in subsection (f) of this
+9
+10
+section, a security interest in collateral which qualifies for
+10
+11
+priority over a conflicting security interest under Sections 1-9-
+11
+12
+327, 1-9-328, 1-9-329, 1-9-330, or 1-9-331 of this title also has
+12
+13
+priority over a conflicting security interest in:
+13
+14
+(1) Any supporting obligation for the collateral; and
+14
+15
+(2) Proceeds of the collateral if:
+15
+16
+(A) the security interest in proceeds is perfected;
+16
+17
+(B) the proceeds are cash proceeds or of the same type as
+17
+18
+the collateral; and
+18
+19
+(C) in the case of proceeds that are proceeds of proceeds,
+19
+20
+all intervening proceeds are cash proceeds, proceeds
+20
+21
+of the same type as the collateral, or an account
+21
+22
+relating to the collateral.
+22
+23
+(d) Subject to subsection (e) of this section and except as
+23
+24
+otherwise provided in subsection (f) of this section, if a security
+24
+Req. No. 1259 Page 16
+
+1
+interest in chattel paper, deposit accounts, negotiable documents,
+1
+2
+instruments, investment property, or letter-of-credit rights is
+2
+3
+perfected by a method other than filing, conflicting perfected
+3
+4
+security interests in proceeds of the collateral rank according to
+4
+5
+priority in time of filing.
+5
+6
+(e) Subsection (d) of this section applies only if the proceeds
+6
+7
+of the collateral are not cash proceeds, chattel paper, negotiable
+7
+8
+documents, instruments, investment property, or letter-of-credit
+8
+9
+rights.
+9
+10
+(f) Subsections (a) through (e) of this section are subject to:
+10
+11
+(1) subsection (g) of this section and the other provisions of
+11
+12
+this part;
+12
+13
+(2) Section 4-210 of this title with respect to a security
+13
+14
+interest of a collecting bank;
+14
+15
+(3) Section 5-118 of this title with respect to a security
+15
+16
+interest of an issuer or nominated person; and
+16
+17
+(4) Section 1-9-110 of this title with respect to a security
+17
+18
+interest arising under Article 2 or 2A of this title.
+18
+19
+(g) A perfected agricultural lien on collateral has priority
+19
+20
+over a conflicting security interest in or agricultural lien on the
+20
+21
+same collateral if the statute creating the agricultural lien so
+21
+22
+provides.
+22
+23
+SECTION 6. AMENDATORY 12A O.S. 2021, Section 1-9-501, is
+23
+24
+amended to read as follows:
+24
+Req. No. 1259 Page 17
+
+1
+Section 1-9-501.
+1
+2
+FILING OFFICE
+2
+3
+(a) Except as otherwise provided in subsection (b) of this
+3
+4
+section, if the local law of this state governs perfection of a
+4
+5
+security interest or agricultural lien, the office in which to file
+5
+6
+a financing statement to perfect the security interest or
+6
+7
+agricultural lien is:
+7
+8
+(1) the office designated for the filing or recording of a
+8
+9
+record of a mortgage on the related real property, if:
+9
+10
+(A) the collateral is as-extracted collateral or timber to
+10
+11
+be cut; or
+11
+12
+(B) the financing statement is filed as a fixture filing
+12
+13
+and the collateral is goods that are or are to become
+13
+14
+fixtures; or
+14
+15
+(2) the office of the county clerk of Oklahoma County, in all
+15
+16
+other cases, including a case in which the collateral is goods that
+16
+17
+are or are to become fixtures and the financing statement is not
+17
+18
+filed as a fixture filing.
+18
+19
+(b) The office in which to file a financing statement to
+19
+20
+perfect a security interest in collateral, including fixtures, of a
+20
+21
+transmitting utility is the office of the Secretary of State
+21
+22
+pursuant to Sections 17 and 18 of Title 46 of the Oklahoma Statutes
+22
+23
+Oklahoma County Clerk. The financing statement also constitutes a
+23
+24
+24
+Req. No. 1259 Page 18
+
+1
+fixture filing as to the collateral indicated in the financing
+1
+2
+statement which is or is to become fixtures.
+2
+3
+SECTION 7. AMENDATORY 12A O.S. 2021, Section 1-9-710, is
+3
+4
+amended to read as follows:
+4
+5
+Section 1-9-710. (a) In this section:
+5
+6
+(1) “Local-filing office” means a filing office, other than the
+6
+7
+statewide filing office in the office of the County Clerk of
+7
+8
+Oklahoma County or the statewide filing office in the office of the
+8
+9
+Secretary of State, that is designated as the proper place to file a
+9
+10
+financing statement under former Article 9 of this title;
+10
+11
+(2) (A) “Former-Article 9 records” means:
+11
+12
+(i) financing statements and other records that have
+12
+13
+been filed in a local-filing office before July
+13
+14
+1, 2001, and that are, or upon processing and
+14
+15
+indexing will be, reflected in the index
+15
+16
+maintained by the local-filing office for filing
+16
+17
+for financing statements and other records filed
+17
+18
+in the local-filing office before July 1, 2001,
+18
+19
+and
+19
+20
+(ii) the index maintained by the local-filing office
+20
+21
+as of June 30, 2001, including entries for
+21
+22
+filings completed before July 1, 2001, even
+22
+23
+though processed on or after that date.
+23
+24
+24
+Req. No. 1259 Page 19
+
+1
+(B) “Former-Article 9 records” do not include records
+1
+2
+presented to a local-filing office for filing after
+2
+3
+June 30, 2001, whether or not the records relate to
+3
+4
+financing statements filed in the local-filing office
+4
+5
+before July 1, 2001; and
+5
+6
+(3) “Mortgage”, “as-extracted collateral”, “fixture filing”,
+6
+7
+“goods” and “fixtures” have the meanings set forth in this article
+7
+8
+of this title.
+8
+9
+(b) A local-filing office shall not accept for filing a record
+9
+10
+presented after June 30, 2001, whether or not the record relates to
+10
+11
+a financing statement filed in the local-filing office before July
+11
+12
+1, 2001.
+12
+13
+(c) Until July 1, 2008, each local-filing office shall maintain
+13
+14
+all former-Article 9 records in accordance with former-Article 9. A
+14
+15
+former-Article 9 record which is filed before July 1, 2001, but
+15
+16
+which is not reflected on the index maintained as of June 30, 2001,
+16
+17
+by the local-filing office, shall be processed and indexed and
+17
+18
+reflected on the index maintained as of June 30, 2001, as soon as
+18
+19
+practicable, but in no event later than July 30, 2001.
+19
+20
+(d) Until July 1, 2008, each local-filing office shall respond
+20
+21
+to requests for information with respect to former-Article 9 records
+21
+22
+relating to a debtor and shall issue certificates in accordance with
+22
+23
+former-Article 9. The fees for issuing a certificate or for
+23
+24
+furnishing a certified copy of a former-Article 9 record shall be
+24
+Req. No. 1259 Page 20
+
+1
+the uniform fees provided by subsections (c) and (d) of Section 1-9-
+1
+2
+525 of this title.
+2
+3
+(e) After June 30, 2008, each local-filing office may remove
+3
+4
+and destroy all former-Article 9 records pursuant to Section 155.2
+4
+5
+of Title 19 of the Oklahoma Statutes.
+5
+6
+(f) This section shall not apply, with respect to financing
+6
+7
+statements and other records, to a filing office in which mortgages
+7
+8
+or records of mortgages on real property are required to be filed or
+8
+9
+recorded if:
+9
+10
+(1) the collateral is timber to be cut or as-extracted
+10
+11
+collateral, or
+11
+12
+(2) the record is or relates to a financing statement files as
+12
+13
+a fixture filing and the collateral is goods that are or are to
+13
+14
+become fixtures.
+14
+15
+SECTION 8. AMENDATORY 28 O.S. 2021, Section 111, as
+15
+16
+amended by Section 2, Chapter 109, O.S.L. 2022 (28 O.S. Supp. 2024,
+16
+17
+Section 111), is amended to read as follows:
+17
+18
+Section 111. A. In addition to other fees provided for by law,
+18
+19
+the Secretary of State Oklahoma County Clerk shall collect the
+19
+20
+following fees:
+20
+21
+1. For affixing the certificate stamp of the Secretary of State
+21
+22
+Oklahoma County Clerk and the seal of the State of Oklahoma Oklahoma
+22
+23
+County, Ten Dollars ($10.00);
+23
+24
+24
+Req. No. 1259 Page 21
+
+1
+2. For copying any paper or document, One Dollar ($1.00) per
+1
+2
+page, provided the minimum charge shall not be less than Two Dollars
+2
+3
+($2.00);
+3
+4
+3. For filing an effective financing statement in the Office of
+4
+5
+the Secretary of State Oklahoma County Clerk’s office pursuant to
+5
+6
+Section 1-9-320.6 of Title 12A of the Oklahoma Statutes, Ten Dollars
+6
+7
+($10.00);
+7
+8
+4. For filing a continuation statement, partial release,
+8
+9
+assignment of or amendment to an effective financing statement filed
+9
+10
+in the Office of the Secretary of State Oklahoma County Clerk’s
+10
+11
+office pursuant to Section 1-9-320.6 of Title 12A of the Oklahoma
+11
+12
+Statutes, Ten Dollars ($10.00);
+12
+13
+5. For filing a termination statement for an effective
+13
+14
+financing statement filed in the Office of the Secretary of State
+14
+15
+Oklahoma County Clerk’s office pursuant to Section 1-9-320.6 of
+15
+16
+Title 12A of the Oklahoma Statutes, Ten Dollars ($10.00);
+16
+17
+6. For registering a buyer of farm products, commission
+17
+18
+merchant, selling agent or other interested party as provided for in
+18
+19
+Section 1-9-320.6 of Title 12A of the Oklahoma Statutes, Fifty
+19
+20
+Dollars ($50.00) per year. The registration fee provided for in
+20
+21
+this paragraph shall not apply if the buyer of farm products,
+21
+22
+commission merchant, selling agent, or other interested party as
+22
+23
+provided for in Section 1-9-320.6 of Title 12A of the Oklahoma
+23
+24
+Statutes accesses the master list through Internet download;
+24
+Req. No. 1259 Page 22
+
+1
+7. For distributing a copy of the master list or portions
+1
+2
+thereof to registrants, as provided for in Section 1-9-320.6 of
+2
+3
+Title 12A of the Oklahoma Statutes, in accordance with the following
+3
+4
+fee schedule. Such fees may be paid annually or semiannually:
+4
+5
+a. For information requested for five or less counties:
+5
+6
+Number of Farm
+6
+7
+Products Paper
+7
+8
+(1) 1 to 5 products ............$150 per year
+8
+9
+(2) 6 to 10 products ...........$200 per year
+9
+10
+(3) 11 to 20 products ..........$250 per year
+10
+11
+(4) over 20 products ...........$300 per year
+11
+12
+b. For information requested for six to twenty-five
+12
+13
+counties:
+13
+14
+Number of Farm
+14
+15
+Products Paper
+15
+16
+(1) 1 to 10 products ...........$200 per year
+16
+17
+(2) 11 to 20 products ..........$250 per year
+17
+18
+(3) over 20 products ...........$300 per year
+18
+19
+c. For information requested for twenty-six to fifty
+19
+20
+counties:
+20
+21
+Number of Farm
+21
+22
+Products Paper
+22
+23
+(1) 1 to 10 products ...........$250 per year
+23
+24
+(2) 11 to 20 products ..........$300 per year
+24
+Req. No. 1259 Page 23
+
+1
+(3) over 20 products ...........$350 per year
+1
+2
+d. For information requested for over fifty counties:
+2
+3
+Number of Farm
+3
+4
+Products Paper
+4
+5
+(1) 1 to 10 products ...........$300 per year
+5
+6
+(2) 11 to 20 products ..........$350 per year
+6
+7
+(3) over 20 products ..........$400 per year;
+7
+8
+8. a. The Secretary of State is authorized to provide for
+8
+9
+the distribution of the master list or portions
+9
+10
+thereof to those persons specified in paragraph 7 of
+10
+11
+this subsection through Internet download, electronic
+11
+12
+data equipment, or other communication media in such
+12
+13
+form and manner as is specified by the Secretary of
+13
+14
+State. The Secretary of State shall not collect a fee
+14
+15
+for distribution of the master list or portions
+15
+16
+thereof through Internet download.
+16
+17
+b. The Secretary of State Oklahoma County Clerk is
+17
+18
+authorized to establish a fee system for such transfer
+18
+19
+of information pursuant to this paragraph. Such fee
+19
+20
+shall not exceed the amount necessary to cover the
+20
+21
+costs of the Secretary of State Oklahoma County Clerk
+21
+22
+in providing such transfer of information.
+22
+23
+c. In providing for the transfer of the information
+23
+24
+specified by this paragraph, the Secretary of State
+24
+Req. No. 1259 Page 24
+
+1
+Oklahoma County Clerk shall ensure the integrity of
+1
+2
+confidential information within the Office of the
+2
+3
+Secretary of State Oklahoma County Clerk’s office
+3
+4
+through data security measures, internal controls and
+4
+5
+appropriate data base management;
+5
+6
+9. For issuing a written confirmation of the existence or
+6
+7
+nonexistence of active effective financing statements on file for a
+7
+8
+debtor in the Office of the Secretary of State Oklahoma County
+8
+9
+Clerk’s office, Six Dollars ($6.00);
+9
+10
+10. The Secretary of State shall collect a fee of Twenty-five
+10
+11
+Dollars ($25.00) for every apostille issued. For the purposes of
+11
+12
+this paragraph, an apostille is a special certificate attached to a
+12
+13
+public record, as required by the 1961 Hague Convention, Fed. R.
+13
+14
+Civ. P. 44 (28 U.S.C.A.), to certify the authenticity of the
+14
+15
+signature, the capacity in which the person signing the document has
+15
+16
+acted and, where appropriate, the identity of the seal or stamp
+16
+17
+which it bears; provided, however, a fee of Ten Dollars ($10.00)
+17
+18
+shall be collected for any apostille requested for an international
+18
+19
+adoption not to exceed One Hundred Dollars ($100.00) for the
+19
+20
+adoption of each child; and
+20
+21
+11. For each service rendered and not specified in this
+21
+22
+section, such fees as are allowed for similar services in other
+22
+23
+cases.
+23
+24
+24
+Req. No. 1259 Page 25
+
+1
+B. All fees shall be properly accounted for and shall be paid
+1
+2
+into to the State Treasury Oklahoma County Clerk monthly. The fees
+2
+3
+generated by paragraphs 1, 2, 10 and 11 through 5 and 9 of
+3
+4
+subsection A of this section shall be deposited to the credit of the
+4
+5
+Revolving Fund for the Office of the Secretary of State Oklahoma
+5
+6
+County Clerk’s Uniform Commercial Code Central Filing Fund created
+6
+7
+pursuant to Section 276.1 of Title 62 of the Oklahoma Statutes
+7
+8
+Section 1-9-525.1 of Title 12A of the Oklahoma Statutes. The fees
+8
+9
+generated by paragraphs 3 6 through 9 8 and 10 of subsection A of
+9
+10
+this section and other fees collected by the central filing system
+10
+11
+shall be deposited to the credit of the Central Filing System
+11
+12
+Revolving Fund Oklahoma County Clerk’s Uniform Commercial Code
+12
+13
+Central Filing Fund created pursuant to Section 276.3 of Title 62 of
+13
+14
+the Oklahoma Statutes Section 1-9-525.1 of Title 12A of the Oklahoma
+14
+15
+Statutes.
+15
+16
+SECTION 9. This act shall become effective July 1, 2025.
+16
+17
+SECTION 10. It being immediately necessary for the preservation
+17
+18
+of the public peace, health or safety, an emergency is hereby
+18
+19
+declared to exist, by reason whereof this act shall take effect and
+19
+20
+be in full force from and after its passage and approval.
+20
+21
+21
+22
+60-1-1259 MSBB 1/19/2025 5:47:17 AM
+22
+23
+23
+24
+24
+Req. No. 1259 Page 26
+
+[DELETED:  P B R]
+[DELETED:  P “ “ “ “ i i i c t t]
+[DELETED:  P t t e a t m r]
+[DELETED:  P i i m “]
+[DELETED:  P “ “ “ “]
+[DELETED:  P ( t t]
+[DELETED:  P t]
+[DELETED:  P c c t T]
+[DELETED:  P T o a i i g b c p]
+[DELETED:  P T t t t a ( A R]
+[DELETED:  P R I T ( U]
+[DELETED:  P T]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t i]
+[DELETED:  P]
+[DELETED:  P t t]
+[DELETED:  P ( “ f t]
+[DELETED:  P “]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P FNP P 1 6 1 o FNP P 1 1 o FNP P 1 1]
+[DELETED:  P o FNP P 1 1 o a T T I]
+[DELETED:  P]
+[DELETED:  P M 1]

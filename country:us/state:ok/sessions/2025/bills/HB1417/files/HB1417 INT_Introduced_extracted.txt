@@ -1,0 +1,509 @@
+Title: 3 HOUSE BILL 1417 By: West (Josh)
+Official Title: 3 HOUSE BILL 1417 By: West (Josh)
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to school safety; creating the School
+Access for Emergency Response Act; defining terms;
+8 creating a grant program within the State Department
+of Education; construing grant purposes; prescribing
+9 the administration and implementation of the grant
+program; creating the grant selection committee;
+10 requiring promulgation of rules; directing the
+appointment of committee members; implementing
+11 certain grant eligibility criteria; requiring certain
+applicant considerations; specifying award and
+12 distribution dates; requiring school districts to
+report on the grant program; mandating reporting to
+13 the Legislature; creating the School Access for
+Emergency Response Revolving Fund; specifying fund
+14 sources; allowing appropriation; clarifying fund
+purpose; prescribing fund expenditure limitations;
+15 construing disbursement of fund amounts; providing
+for codification; and providing an effective date.
+16
+17
+18 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19 SECTION 1. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 5-149.5 of Title 70, unless
+21 there is created a duplication in numbering, reads as follows:
+22 This act shall be known and may be cited as the "School Access
+23 for Emergency Response Act" or the "SAFER Act".
+24
+Req. No. 10650 Page 1
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 5-149.6 of Title 70, unless
+3 there is created a duplication in numbering, reads as follows:
+4 As used in the School Access For Emergency Response Act:
+5 1. "Board" means the State Board of Education;
+6 2. "Crisis Management Plan" means: a plan including tactical
+7 strategies and actions for responding to an emergency;
+8 3. "Department" means the State Department of Education;
+9 4. "Grant program" means the School Access for Emergency
+10 Response Grant Program created in Section 3 of this act;
+11 5. "Interoperability" means the ability of one or more radio
+12 systems to communicate with another radio system and other
+13 communications devices;
+14 6. "Interoperable technology" means software and hardware that
+15 enables two different radio systems and other communications devices
+16 to communicate;
+17 7. "Memorandum of understanding" means an agreement between two
+18 or more parties that is not legally binding to formalize a working
+19 relationship;
+20 8. "Other communications network" means any public or private
+21 wire or wireless communications network that allows for real-time
+22 voice or data communications between a public safety answering
+23 point, schools, and first responders;
+24
+Req. No. 10650 Page 2
+1 9. "Public safety answering point" means a facility equipped
+2 and staffed to provide emergency telephone service;
+3 10. "Radio system" means a private network for voice
+4 communications;
+5 11. "Revolving Fund" means the School Access for Emergency
+6 Response Revolving Fund created in Section 6 of this act;
+7 12. "Safety team" means personnel who have a role in crisis
+8 management plans;
+9 13. "School" means elementary, middle, and secondary schools
+10 supported by public taxation and shall include charter schools
+11 established pursuant to the Oklahoma Charter Schools Act; and
+12 14. "Standards based" means radio specifications defined by a
+13 national association of the telecommunications industry that every
+14 manufacturer can follow to implement equipment interoperability.
+15 SECTION 3. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 5-149.7 of Title 70, unless
+17 there is created a duplication in numbering, reads as follows:
+18 A. There is hereby created in the State Department of Education
+19 the School Access for Emergency Response Grant Program to provide
+20 grants to schools for needed interoperable communication hardware,
+21 software, equipment maintenance, and training to allow for seamless
+22 communications between new or existing school communications systems
+23 and first responder communications systems.
+24
+Req. No. 10650 Page 3
+1 B. Grant recipients may use the money received through the
+2 grant program for the following purposes:
+3 1. To deliver training programs to teach district-based
+4 security personnel and appropriate school personnel basic procedures
+5 for effective communications with first responders in an emergency;
+6 2. To implement an interoperable technology solution to provide
+7 or to upgrade the following:
+8 a. a system or technology that can be activated and
+9 deactivated by a public safety answering point, a
+10 network administrator, and a school over both the
+11 radio system and other communications networks,
+12 b. radio and other technology bridge ability that is
+13 nonradio vendor specific for connecting independent
+14 school networks across the school district and public
+15 safety networks in the region, and
+16 c. an interoperability solution that operates over radio
+17 networks and other communications networks;
+18 3. To maintain or improve a school's existing interoperable
+19 communication hardware or software or to provide interoperable
+20 communication hardware and software to a school that does not yet
+21 have it; or
+22 4. For any necessary radio system capacity expansions where
+23 school loading has been determined to have a significant impact on
+24 public safety system loading.
+Req. No. 10650 Page 4
+1 C. The State Department of Education shall administer the grant
+2 program. Subject to the availability of funds, grants shall be paid
+3 out of the Revolving Fund created in Section 6 of this act.
+4 D. The State Board of Education, in consultation with the grant
+5 selection committee created in subsection E of this section, shall
+6 implement the grant program in accordance with this act. The
+7 Department shall promulgate rules necessary to implement the
+8 requirements of this act. At minimum, such rules shall specify the
+9 time frames for applying for grants, the form of the grant program
+10 application, and the time frames for distributing grant money.
+11 E. There is hereby created the grant selection committee to work
+12 with the State Board of Education to determine whether a grant
+13 applicant satisfies the criteria to receive a grant. The committee
+14 shall be composed of seven (7) members appointed as specified in
+15 this subsection. The members of the committee shall serve without
+16 compensation, but shall be reimbursed for all actual and necessary
+17 expenses incurred while engaged in the discharge of official duties
+18 pursuant to this act in accordance with the State Travel
+19 Reimbursement Act. Members of the committee shall meet as often as
+20 deemed necessary by the Board to accomplish the work of the
+21 committee. Members of the committee shall be appointed on or before
+22 November 1, 2025, as follows:
+23 1. The Governor shall appoint one member;
+24
+Req. No. 10650 Page 5
+1 2. The Speaker of the Oklahoma House of Representatives shall
+2 appoint one member who represents urban or suburban school
+3 districts, and one member who represents the chiefs of police;
+4 3. The President Pro Tempore of the Oklahoma State Senate shall
+5 appoint one member who represents rural school districts, and one
+6 member who represents county sheriffs;
+7 4. The Commissioner of the Department of Public Safety shall
+8 appoint one member; and
+9 5. The Superintendent of Public Instruction shall appoint one
+10 member.
+11 SECTION 4. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 5-149.8 of Title 70, unless
+13 there is created a duplication in numbering, reads as follows:
+14 A. A school is required to have a memorandum of understanding
+15 with its regional public safety answering point or the local
+16 law enforcement agency or agencies that serve the school for
+17 communications interoperability to be eligible to apply for a
+18 grant under this act. To receive a grant, a school must submit an
+19 application to the Department in accordance with rules promulgated
+20 by the Department. At minimum, the application must include the
+21 following information:
+22 1. A description of the school's current interoperable
+23 communication technology, if any;
+24 2. A description of efforts that the school has taken to
+Req. No. 10650 Page 6
+1 coor dinate emergency communication with law enforcement, 9-1-1
+2 system administrators, and other schools; and
+3 3. A description of the purpose or purposes for which the
+4 school would plan to use the grant money, including, but not limited
+5 to, proposed training programs, joint exercise plans, and
+6 interoperability technology solutions.
+7 B. The grant selection committee created in Section 3 of this
+8 act shall review the applications received pursuant to this section.
+9 In awarding grants, the grant selection committee shall consider
+10 whether the school has a crisis management plan in place with safety
+11 team members designated for communications with first responders.
+12 C. Subject to the availability of funds, on or before June 30,
+13 2026, and on or before June 30 each year thereafter for the duration
+14 of the grant program, the Board shall award grants as provided in
+15 this act. The Board shall distribute the grant money within thirty
+16 (30) days after the grants are awarded.
+17 SECTION 5. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 5-149.9 of Title 70, unless
+19 there is created a duplication in numbering, reads as follows:
+20 A. On or before January 15, 2028, and on or before January 15
+21 each year thereafter for the duration of the grant program, each
+22 school district with schools that received a grant through the grant
+23 program provided in this act shall submit a report to the
+24
+Req. No. 10650 Page 7
+1 Depa rtment. At minimum, the report shall include the following
+2 information:
+3 1. The number of schools within the district that used grant
+4 money to provide training programs to appropriate personnel
+5 regarding effective communications with first responders in an
+6 emergency;
+7 2. The number of schools within the district that used grant
+8 money to provide or upgrade its interoperable technology, including
+9 interoperable communication hardware or software; and
+10 3. The estimated number of enrolled students that benefitted or
+11 will benefit from how the grant money was utilized.
+12 B. On or before May 30, 2028, and on or before May 30 each year
+13 thereafter for the duration of the grant program, the Department
+14 shall present a summarized report of the activities of the grant
+15 program to the Oklahoma Legislature.
+16 SECTION 6. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 5-149.10 of Title 70, unless
+18 there is created a duplication in numbering, reads as follows:
+19 A. There is hereby created in the State Treasury a revolving
+20 fund for the State Department of Education to be designated the
+21 "School Access for Emergency Response Revolving Fund". The fund
+22 shall be a continuing fund, not subject to fiscal year limitations,
+23 and shall consist of all monies received by the Department of
+24 Education from:
+Req. No. 10650 Page 8
+1 1. Reimbursements, grants, or other monies received from other
+2 state agencies and entities for establishing or maintaining
+3 interoperable communication between schools and public safety
+4 officials;
+5 2. Gifts, donations, and bequests; and
+6 3. Monies appropriated or apportioned by the Legislature.
+7 B. All monies accruing to the credit of the School Access for
+8 Emergency Response Revolving Fund are hereby appropriated and may be
+9 budgeted and expended by the State Department of Education for the
+10 purpose of providing grants for the School Access for Emergency
+11 Response Grant Program as created in Section 3 of this act.
+12 C. Expenditures from the School Access for Emergency Response
+13 Revolving Fund shall be made upon warrants issued by the State
+14 Treasurer against claims filed as prescribed by law with the
+15 Director of the Office of Management and Enterprise Services for
+16 approval and payment. Expenditures from the School Access for
+17 Emergency Response Revolving Fund shall not exceed Five Million
+18 Dollars ($5,000,000.00) in any fiscal year and shall be divided
+19 equally among grant applicants who were approved by the State Board
+20 of Education and grant selection committee as provided for in
+21 Section 3 of this act.
+22 SECTION 7. This act shall become effective November 1, 2025.
+23
+24 60-1-10650 SW 01/08/25
+Req. No. 10650 Page 9
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a r a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P S 0]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 HOUSE BILL 1417 By: West (Josh)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to school safety; creating the School
+Access for Emergency Response Act; defining terms;
+8 creating a grant program within the State Department
+of Education; construing grant purposes; prescribing
+9 the administration and implementation of the grant
+program; creating the grant selection committee;
+10 requiring promulgation of rules; directing the
+appointment of committee members; implementing
+11 certain grant eligibility criteria; requiring certain
+applicant considerations; specifying award and
+12 distribution dates; requiring school districts to
+report on the grant program; mandating reporting to
+13 the Legislature; creating the School Access for
+Emergency Response Revolving Fund; specifying fund
+14 sources; allowing appropriation; clarifying fund
+purpose; prescribing fund expenditure limitations;
+15 construing disbursement of fund amounts; providing
+for codification; and providing an effective date.
+16
+17
+18 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19 SECTION 1. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 5-149.5 of Title 70, unless
+21 there is created a duplication in numbering, reads as follows:
+22 This act shall be known and may be cited as the "School Access
+23 for Emergency Response Act" or the "SAFER Act".
+24
+Req. No. 10650 Page 1
+
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 5-149.6 of Title 70, unless
+3 there is created a duplication in numbering, reads as follows:
+4 As used in the School Access For Emergency Response Act:
+5 1. "Board" means the State Board of Education;
+6 2. "Crisis Management Plan" means: a plan including tactical
+7 strategies and actions for responding to an emergency;
+8 3. "Department" means the State Department of Education;
+9 4. "Grant program" means the School Access for Emergency
+10 Response Grant Program created in Section 3 of this act;
+11 5. "Interoperability" means the ability of one or more radio
+12 systems to communicate with another radio system and other
+13 communications devices;
+14 6. "Interoperable technology" means software and hardware that
+15 enables two different radio systems and other communications devices
+16 to communicate;
+17 7. "Memorandum of understanding" means an agreement between two
+18 or more parties that is not legally binding to formalize a working
+19 relationship;
+20 8. "Other communications network" means any public or private
+21 wire or wireless communications network that allows for real-time
+22 voice or data communications between a public safety answering
+23 point, schools, and first responders;
+24
+Req. No. 10650 Page 2
+
+1 9. "Public safety answering point" means a facility equipped
+2 and staffed to provide emergency telephone service;
+3 10. "Radio system" means a private network for voice
+4 communications;
+5 11. "Revolving Fund" means the School Access for Emergency
+6 Response Revolving Fund created in Section 6 of this act;
+7 12. "Safety team" means personnel who have a role in crisis
+8 management plans;
+9 13. "School" means elementary, middle, and secondary schools
+10 supported by public taxation and shall include charter schools
+11 established pursuant to the Oklahoma Charter Schools Act; and
+12 14. "Standards based" means radio specifications defined by a
+13 national association of the telecommunications industry that every
+14 manufacturer can follow to implement equipment interoperability.
+15 SECTION 3. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 5-149.7 of Title 70, unless
+17 there is created a duplication in numbering, reads as follows:
+18 A. There is hereby created in the State Department of Education
+19 the School Access for Emergency Response Grant Program to provide
+20 grants to schools for needed interoperable communication hardware,
+21 software, equipment maintenance, and training to allow for seamless
+22 communications between new or existing school communications systems
+23 and first responder communications systems.
+24
+Req. No. 10650 Page 3
+
+1 B. Grant recipients may use the money received through the
+2 grant program for the following purposes:
+3 1. To deliver training programs to teach district-based
+4 security personnel and appropriate school personnel basic procedures
+5 for effective communications with first responders in an emergency;
+6 2. To implement an interoperable technology solution to provide
+7 or to upgrade the following:
+8 a. a system or technology that can be activated and
+9 deactivated by a public safety answering point, a
+10 network administrator, and a school over both the
+11 radio system and other communications networks,
+12 b. radio and other technology bridge ability that is
+13 nonradio vendor specific for connecting independent
+14 school networks across the school district and public
+15 safety networks in the region, and
+16 c. an interoperability solution that operates over radio
+17 networks and other communications networks;
+18 3. To maintain or improve a school's existing interoperable
+19 communication hardware or software or to provide interoperable
+20 communication hardware and software to a school that does not yet
+21 have it; or
+22 4. For any necessary radio system capacity expansions where
+23 school loading has been determined to have a significant impact on
+24 public safety system loading.
+Req. No. 10650 Page 4
+
+1 C. The State Department of Education shall administer the grant
+2 program. Subject to the availability of funds, grants shall be paid
+3 out of the Revolving Fund created in Section 6 of this act.
+4 D. The State Board of Education, in consultation with the grant
+5 selection committee created in subsection E of this section, shall
+6 implement the grant program in accordance with this act. The
+7 Department shall promulgate rules necessary to implement the
+8 requirements of this act. At minimum, such rules shall specify the
+9 time frames for applying for grants, the form of the grant program
+10 application, and the time frames for distributing grant money.
+11 E. There is hereby created the grant selection committee to work
+12 with the State Board of Education to determine whether a grant
+13 applicant satisfies the criteria to receive a grant. The committee
+14 shall be composed of seven (7) members appointed as specified in
+15 this subsection. The members of the committee shall serve without
+16 compensation, but shall be reimbursed for all actual and necessary
+17 expenses incurred while engaged in the discharge of official duties
+18 pursuant to this act in accordance with the State Travel
+19 Reimbursement Act. Members of the committee shall meet as often as
+20 deemed necessary by the Board to accomplish the work of the
+21 committee. Members of the committee shall be appointed on or before
+22 November 1, 2025, as follows:
+23 1. The Governor shall appoint one member;
+24
+Req. No. 10650 Page 5
+
+1 2. The Speaker of the Oklahoma House of Representatives shall
+2 appoint one member who represents urban or suburban school
+3 districts, and one member who represents the chiefs of police;
+4 3. The President Pro Tempore of the Oklahoma State Senate shall
+5 appoint one member who represents rural school districts, and one
+6 member who represents county sheriffs;
+7 4. The Commissioner of the Department of Public Safety shall
+8 appoint one member; and
+9 5. The Superintendent of Public Instruction shall appoint one
+10 member.
+11 SECTION 4. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 5-149.8 of Title 70, unless
+13 there is created a duplication in numbering, reads as follows:
+14 A. A school is required to have a memorandum of understanding
+15 with its regional public safety answering point or the local
+16 law enforcement agency or agencies that serve the school for
+17 communications interoperability to be eligible to apply for a
+18 grant under this act. To receive a grant, a school must submit an
+19 application to the Department in accordance with rules promulgated
+20 by the Department. At minimum, the application must include the
+21 following information:
+22 1. A description of the school's current interoperable
+23 communication technology, if any;
+24 2. A description of efforts that the school has taken to
+Req. No. 10650 Page 6
+
+1 coor dinate emergency communication with law enforcement, 9-1-1
+2 system administrators, and other schools; and
+3 3. A description of the purpose or purposes for which the
+4 school would plan to use the grant money, including, but not limited
+5 to, proposed training programs, joint exercise plans, and
+6 interoperability technology solutions.
+7 B. The grant selection committee created in Section 3 of this
+8 act shall review the applications received pursuant to this section.
+9 In awarding grants, the grant selection committee shall consider
+10 whether the school has a crisis management plan in place with safety
+11 team members designated for communications with first responders.
+12 C. Subject to the availability of funds, on or before June 30,
+13 2026, and on or before June 30 each year thereafter for the duration
+14 of the grant program, the Board shall award grants as provided in
+15 this act. The Board shall distribute the grant money within thirty
+16 (30) days after the grants are awarded.
+17 SECTION 5. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 5-149.9 of Title 70, unless
+19 there is created a duplication in numbering, reads as follows:
+20 A. On or before January 15, 2028, and on or before January 15
+21 each year thereafter for the duration of the grant program, each
+22 school district with schools that received a grant through the grant
+23 program provided in this act shall submit a report to the
+24
+Req. No. 10650 Page 7
+
+1 Depa rtment. At minimum, the report shall include the following
+2 information:
+3 1. The number of schools within the district that used grant
+4 money to provide training programs to appropriate personnel
+5 regarding effective communications with first responders in an
+6 emergency;
+7 2. The number of schools within the district that used grant
+8 money to provide or upgrade its interoperable technology, including
+9 interoperable communication hardware or software; and
+10 3. The estimated number of enrolled students that benefitted or
+11 will benefit from how the grant money was utilized.
+12 B. On or before May 30, 2028, and on or before May 30 each year
+13 thereafter for the duration of the grant program, the Department
+14 shall present a summarized report of the activities of the grant
+15 program to the Oklahoma Legislature.
+16 SECTION 6. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 5-149.10 of Title 70, unless
+18 there is created a duplication in numbering, reads as follows:
+19 A. There is hereby created in the State Treasury a revolving
+20 fund for the State Department of Education to be designated the
+21 "School Access for Emergency Response Revolving Fund". The fund
+22 shall be a continuing fund, not subject to fiscal year limitations,
+23 and shall consist of all monies received by the Department of
+24 Education from:
+Req. No. 10650 Page 8
+
+1 1. Reimbursements, grants, or other monies received from other
+2 state agencies and entities for establishing or maintaining
+3 interoperable communication between schools and public safety
+4 officials;
+5 2. Gifts, donations, and bequests; and
+6 3. Monies appropriated or apportioned by the Legislature.
+7 B. All monies accruing to the credit of the School Access for
+8 Emergency Response Revolving Fund are hereby appropriated and may be
+9 budgeted and expended by the State Department of Education for the
+10 purpose of providing grants for the School Access for Emergency
+11 Response Grant Program as created in Section 3 of this act.
+12 C. Expenditures from the School Access for Emergency Response
+13 Revolving Fund shall be made upon warrants issued by the State
+14 Treasurer against claims filed as prescribed by law with the
+15 Director of the Office of Management and Enterprise Services for
+16 approval and payment. Expenditures from the School Access for
+17 Emergency Response Revolving Fund shall not exceed Five Million
+18 Dollars ($5,000,000.00) in any fiscal year and shall be divided
+19 equally among grant applicants who were approved by the State Board
+20 of Education and grant selection committee as provided for in
+21 Section 3 of this act.
+22 SECTION 7. This act shall become effective November 1, 2025.
+23
+24 60-1-10650 SW 01/08/25
+Req. No. 10650 Page 9
+
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a r a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P S 0]

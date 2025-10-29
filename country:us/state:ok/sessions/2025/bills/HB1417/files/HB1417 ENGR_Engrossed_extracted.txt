@@ -1,0 +1,841 @@
+Title: BILL NO. 1417 By: West (Josh) of the House
+Official Title: BILL NO. 1417 By: West (Josh) of the House
+Number of Sections: 1
+Source: versions - Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+1 ENGR OSSED HOUSE
+2
+and
+3
+Weaver of the Senate
+4
+5
+6 An Act relating to school safety; creating the School
+Access for Emergency Response Act; defining terms;
+7 creating the School Access for Emergency Response
+Grant Program within the State Department of
+8 Education; construing grant program purposes;
+prohibiting impacts to current public safety system
+9 loading capabilities; prescribing the administration
+and implementation of the grant program; creating the
+10 grant selection committee; requiring promulgation of
+rules; prescribing certain rule requirements;
+11 directing the appointment of committee members;
+implementing certain grant eligibility criteria;
+12 requiring certain applicant considerations;
+specifying award and distribution dates; requiring
+13 school districts to report on the grant program;
+mandating reporting to the Legislature; creating the
+14 School Access for Emergency Response Revolving Fund;
+specifying fund sources; allowing appropriation;
+15 clarifying fund purpose; prescribing fund expenditure
+limitations; construing disbursement of fund amounts;
+16 providing for codification; and providing an
+effective date.
+17
+18
+19 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20 SECTION 1. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 5-149.5 of Title 70, unless
+22 there is created a duplication in numbering, reads as follows:
+23 This act shall be known and may be cited as the "School Access
+24 for Emergency Response Act" or the "SAFER Act".
+ENGR. H. B. NO. 1417 Page 1
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 5-149.6 of Title 70, unless
+3 there is created a duplication in numbering, reads as follows:
+4 As used in the School Access For Emergency Response Act:
+5 1. "Best practices in interoperable emergency communications"
+6 means to identify the interoperable emergency communications needs
+7 at a school level, to help target technical assistance, funding, and
+8 other support, and to prepare for next-generation communications
+9 technologies as exemplified by interoperable communications
+10 technologies to enhance and better ensure school safety throughout
+11 the State of Oklahoma;
+12 2. "Board" may alternately or jointly reference the State Board
+13 of Education and the Oklahoma Office of Homeland Security;
+14 3. "Crisis management plan" means a plan including tactical
+15 strategies and actions for responding to an emergency as set forth
+16 by the Federal Emergency Management Agency (FEMA) Manual IS-0100.C.
+17 The key elements of a crisis management plan shall include, but
+18 not necessarily be limited to:
+19 a. threat assessment, recurring risk assessment, and
+20 proactive identification following said assessments,
+21 b. crisis response team structure,
+22 c. communication protocols, including implementation,
+23 training, as well as maintenance and timely upgrading
+24 of interoperable communication systems,
+ENGR. H. B. NO. 1417 Page 2
+1 d. emergency response procedures,
+2 e. resource allocation guidelines, and
+3 f. recovery and continuity strategies;
+4 4. "Department" may alternately or jointly reference the State
+5 Board of Education and the State Office of Homeland Security;
+6 5. "Grant program" means the School Access for Emergency
+7 Response Grant Program created in Section 3 of this act;
+8 6. “Incident Command System” (ICS) means the standardized
+9 approach to incident management as set forth by Federal Emergency
+10 Management Agency (FEMA) Manual IS-0100.C: An Introduction to the
+11 Incident Command System. ICS shall be adopted by grant applicants
+12 as a precedent to be considered for funding through this act. The
+13 Manual includes:
+14 a. unified command structure,
+15 b. common terminology,
+16 c. modular organization,
+17 d. integrated communications via interoperable
+18 technology, equipment, and training, and
+19 e. comprehensive resource management;
+20 7. "Interoperability" means the ability of one or more radio
+21 systems to communicate with another radio system in real-time.
+22 Interoperability includes the teamwork that occurs over real-time
+23 radio broadcast channels between school district safety teams,
+24 school-based safety teams, and professional emergency responders;
+ENGR. H. B. NO. 1417 Page 3
+1 8. “Interoperable communications provider” means the supplier
+2 or suppliers of interoperable communications technology, both
+3 hardware and software, as well as related training, maintenance, and
+4 upgrades of interoperable communications systems;
+5 9. "Interoperable technology" means software and hardware that
+6 enables two different radio systems and other communications devices
+7 to communicate seamlessly in real time via radio broadcast channels
+8 regardless of underlying technologies or manufacturers;
+9 10. "Memorandum of Understanding" (MOU) means an agreement
+10 between two or more parties that is designed and intended to
+11 formalize a working relationship. Among other components as
+12 identified by the stakeholders, the MOU is designed and intended to
+13 outline the identified parties agreement to share private, assigned
+14 Federal Communications Commission (FCC) licensed radio frequencies
+15 or channels as well as other protocols and technologies needed to
+16 achieve two-way radio interoperability as contemplated by NIMS IS-
+17 0100.C for schools;
+18 11. a. "National Response Framework" (NRF) means the manner
+19 in which the United States responds to all types of
+20 disasters and emergencies and includes the following
+21 key elements:
+22 (1) enumerated core capabilities of prevention,
+23 protection, mitigation, response, and recovery,
+24
+ENGR. H. B. NO. 1417 Page 4
+1 (2) a component of the National Strategy for Homeland
+2 Security that establishes a comprehensive,
+3 national, all-hazards approach to domestic
+4 incident response,
+5 (3) an explanation of the roles and responsibilities
+6 of federal, state, local, tribal governments,
+7 private sector, and non-governmental
+8 organizations in disaster response, and
+9 (4) scalable, flexible, and adaptable coordination
+10 structures to align key roles and
+11 responsibilities across the nation, including
+12 (and specifically for the purposes of this act)
+13 for small, medium, and large school districts and
+14 associated public safety agencies;
+15 b. For the purposes of the School Access for Emergency
+16 Response Act, NRF:
+17 (1) enumerates the interrelationship between school
+18 access for emergency response and the National
+19 Incident Management System (NIMS), and
+20 (2) outlines the operation of NIMS Incident Command
+21 System in relations to school access for
+22 emergency response;
+23 12. "Public safety answering point" means a facility equipped
+24 and staffed to provide emergency telephone service;
+ENGR. H. B. NO. 1417 Page 5
+1 13. "Radio system" means a private network for voice
+2 communications;
+3 14. “Real-time communications network” means private licensed
+4 radio frequencies, channels, or talk-groups, on either a wire or
+5 wireless communication network, that allows for real-time voice or
+6 data transmissions between a public safety answering point, specific
+7 school safety team members, school district safety teams, and first
+8 responders;
+9 15. "Revolving fund" means the School Access for Emergency
+10 Response Revolving Fund created in Section 6 of this act;
+11 16. "Safety team" means personnel who have a role in crisis
+12 management plans, including school district safety teams and school-
+13 based safety teams. In regard to school-based safety teams,
+14 training includes NIMS IS-0100.C protocols as well as training with
+15 interoperable communications technology itself;
+16 17. "School" means elementary, middle, and secondary schools
+17 supported by public taxation and shall include charter schools
+18 established pursuant to the Oklahoma Charter Schools Act; and
+19 18. "Standards-based" means radio specifications defined by a
+20 national association of the telecommunications industry that every
+21 manufacturer can follow to implement equipment interoperability.
+22 SECTION 3. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 5-149.7 of Title 70, unless
+24 there is created a duplication in numbering, reads as follows:
+ENGR. H. B. NO. 1417 Page 6
+1 A. There is hereby created in the State Department of Education
+2 the School Access for Emergency Response Grant Program to provide
+3 grants to schools for needed interoperable communication hardware,
+4 software, equipment maintenance, and training to allow for seamless
+5 communications between first responder communications systems, new
+6 or existing school district communications systems, and new or
+7 existing school-based systems.
+8 B. Grant recipients may use the money received through the
+9 grant program for the following purposes:
+10 1. To deliver training programs to teach district safety teams
+11 and security personnel as well as appropriate school-based safety
+12 teams and other personnel basic procedures for effective
+13 communications with first responders in an emergency. The training
+14 shall be based upon Federal Emergency Management Agency (FEMA)
+15 Manual IS-0100.C: An Introduction to the Incident Command System.
+16 As required by federal law and associated regulations, these derived
+17 training elements shall include:
+18 a. completion of the entire course, which is usually
+19 available online through the Federal Emergency
+20 Management Agency (FEMA) Emergency Management
+21 Institute (EMI) website,
+22 b. an expectation of understanding the basic principles
+23 and features of ISC, including its purpose,
+24 organization, and the roles and responsibilities of
+ENGR. H. B. NO. 1417 Page 7
+1 key positions within the structure established by the
+2 FEMA Manual,
+3 c. familiarization with how ISC is applied in various
+4 types of school-based incidents, including planned
+5 events, natural disasters, and other types of crisis
+6 incidents or emergency situations,
+7 d. scenario-based exercises to reinforce learning and
+8 ensure comprehension of the material,
+9 e. a final exam to assess the participant's understanding
+10 of the course material. A passing score, often
+11 seventy-five percent (75%) or higher, is necessary to
+12 receive a certificate of completion,
+13 f. a certification upon successful completion of the
+14 course and final exam, which may be necessary for
+15 certain federal positions or for compliance with
+16 federal emergency management directives, and
+17 g. periodic refresher courses or continuing education to
+18 maintain certification and stay current with any
+19 changes or updates to the system;
+20 2. To implement an interoperable technology solution to provide
+21 or to upgrade the following:
+22 a. a system or technology that can be activated and
+23 deactivated by a public safety answering point, a
+24
+ENGR. H. B. NO. 1417 Page 8
+1 network administrator, and a school over both the
+2 radio system and other communications networks,
+3 b. radio and other technology bridge ability that is
+4 nonradio vendor specific for connecting independent
+5 school networks, school district networks, and public
+6 safety networks in the region, and
+7 c. an interoperable real-time radio broadcast solution
+8 that operates over specifically managed radio networks
+9 and other proactively identified communications
+10 networks; and
+11 3. To maintain or improve a school's existing interoperable
+12 communication hardware or software or to provide interoperable
+13 communication hardware and software to a school that does not yet
+14 have it.
+15 C. The proposed interoperable communications solution shall not
+16 increase or impact public safety system loading in existence at the
+17 time of the enactment of this act. School-based and school district
+18 interoperable communications systems shall consider coverage,
+19 capacity, and related features in regard to any necessary radio
+20 system capacity expansions where school loading is determined to
+21 potentially have more than a negligible impact on preexisting public
+22 safety system loading.
+23 D. The State Department of Education shall administer the grant
+24 program. Subject to the availability of funds, grants shall be paid
+ENGR. H. B. NO. 1417 Page 9
+1 out of the "School Access for Emergency Response Revolving Fund"
+2 created in Section 6 of this act.
+3 E. The State Board of Education, in consultation with the grant
+4 selection committee created in subsection F of this section, shall
+5 implement the grant program in accordance with this act. The
+6 Department shall promulgate rules necessary to implement the
+7 requirements of this act. At minimum, such rules shall specify the
+8 time frames for applying for grants, the form of the grant program
+9 application, and the time frames for distributing grant money.
+10 These rules shall require that school districts and schools making
+11 application shall adopt the National Incident Management System
+12 (NIMS) to train personnel in the Incident Command System (IS-0100.C)
+13 and conduct joint exercises involving professional first responders
+14 with schools and school districts to better coordinate teamwork and
+15 overall response to incidents.
+16 F. There is hereby created the grant selection committee to
+17 work with the State Board of Education to determine whether a grant
+18 applicant satisfies the criteria to receive a grant. The committee
+19 shall be composed of seven (7) members appointed as specified in
+20 this subsection. The members of the committee shall serve without
+21 compensation, but shall be reimbursed for all actual and necessary
+22 expenses incurred while engaged in the discharge of official duties
+23 pursuant to this act in accordance with the State Travel
+24 Reimbursement Act. Members of the committee shall meet as often as
+ENGR. H. B. NO. 1417 Page 10
+1 deem ed necessary by the Board to accomplish the work of the
+2 committee. Members of the committee shall be appointed on or before
+3 November 1, 2025, as follows:
+4 1. The Governor shall appoint one member;
+5 2. The Speaker of the Oklahoma House of Representatives shall
+6 appoint one member who represents urban or suburban school
+7 districts, and one member who represents the chiefs of police;
+8 3. The President Pro Tempore of the Oklahoma State Senate shall
+9 appoint one member who represents rural school districts, and one
+10 member who represents county sheriffs;
+11 4. The Commissioner of Public Safety shall appoint one member;
+12 and
+13 5. The State Superintendent of Public Instruction shall appoint
+14 one member.
+15 SECTION 4. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 5-149.8 of Title 70, unless
+17 there is created a duplication in numbering, reads as follows:
+18 A. A school is required to have a Memorandum of Understanding,
+19 as defined in Section 2 of this act, with its regional public safety
+20 answering point and the local law enforcement agency or agencies
+21 that serve the school for communications interoperability to be
+22 eligible to apply for a grant under this act. To receive a grant, a
+23 school must submit an application to the Department in accordance
+24
+ENGR. H. B. NO. 1417 Page 11
+1 with rules promulgated by the Department. At minimum, the
+2 application must include the following information:
+3 1. A description of the school's current interoperable
+4 communication technology, if any;
+5 2. A description of efforts that the school has taken to
+6 coordinate emergency communication with law enforcement, 9-1-1
+7 system administrators, and other schools; and
+8 3. A description of the purpose or purposes for which the
+9 school would plan to use the grant money, including, but not limited
+10 to, proposed training programs, joint exercise plans, and
+11 interoperability technology solutions.
+12 B. The grant selection committee created in Section 3 of this
+13 act shall review the applications received pursuant to this section.
+14 In awarding grants, the grant selection committee shall consider
+15 whether the school has a crisis management plan in place with safety
+16 team members designated for communications with first responders.
+17 C. Subject to the availability of funds, on or before June 30,
+18 2026, and on or before June 30 each year thereafter for the duration
+19 of the grant program, the Board shall award grants as provided in
+20 this act. The Board shall distribute the grant money within thirty
+21 (30) days after the grants are awarded.
+22 SECTION 5. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 5-149.9 of Title 70, unless
+24 there is created a duplication in numbering, reads as follows:
+ENGR. H. B. NO. 1417 Page 12
+1 A. On or before January 15, 2028, and on or before January 15
+2 each year thereafter for the duration of the grant program, each
+3 school district with schools that received a grant through the grant
+4 program provided in this act shall submit a report to the
+5 Department. At minimum, the report shall include the following
+6 information:
+7 1. The number of schools within the district that used grant
+8 money to provide training programs to appropriate personnel
+9 regarding effective communications with first responders in an
+10 emergency;
+11 2. The number of schools within the district that used grant
+12 money to provide or upgrade its interoperable technology, including
+13 interoperable communication hardware or software; and
+14 3. The estimated number of enrolled students that benefitted or
+15 will benefit from how the grant money was utilized.
+16 B. On or before May 30, 2028, and on or before May 30 each year
+17 thereafter for the duration of the grant program, the Department
+18 shall present a summarized report of the activities of the grant
+19 program to the Oklahoma Legislature.
+20 SECTION 6. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 5-149.10 of Title 70, unless
+22 there is created a duplication in numbering, reads as follows:
+23 A. There is hereby created in the State Treasury a revolving
+24 fund for the State Department of Education to be designated the
+ENGR. H. B. NO. 1417 Page 13
+1 "Sch ool Access for Emergency Response Revolving Fund". The fund
+2 shall be a continuing fund, not subject to fiscal year limitations,
+3 and shall consist of all monies received by the Department of
+4 Education from:
+5 1. Reimbursements, grants, or other monies received from other
+6 state agencies and entities for establishing or maintaining
+7 interoperable communication between schools and public safety
+8 officials;
+9 2. Gifts, donations, and bequests; and
+10 3. Monies appropriated or apportioned by the Legislature.
+11 B. All monies accruing to the credit of the School Access for
+12 Emergency Response Revolving Fund are hereby appropriated and may be
+13 budgeted and expended by the State Department of Education for the
+14 purpose of providing grants for the School Access for Emergency
+15 Response Grant Program as created in Section 3 of this act.
+16 C. Expenditures from the School Access for Emergency Response
+17 Revolving Fund shall be made upon warrants issued by the State
+18 Treasurer against claims filed as prescribed by law with the
+19 Director of the Office of Management and Enterprise Services for
+20 approval and payment. Expenditures from the School Access for
+21 Emergency Response Revolving Fund shall not exceed Five Million
+22 Dollars ($5,000,000.00) in any fiscal year and shall be divided
+23 equally among grant applicants who were approved by the State Board
+24
+ENGR. H. B. NO. 1417 Page 14
+1 of E ducation and grant selection committee as provided for in
+2 Section 3 of this act.
+3 SECTION 7. This act shall become effective November 1, 2025.
+4 Passed the House of Representatives the 13th day of March, 2025.
+5
+6
+Presiding Officer of the House
+7 of Representatives
+8
+9 Passed the Senate the _____ day of __________, 2025.
+10
+11
+Presiding Officer of the Senate
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+ENGR. H. B. NO. 1417 Page 15
+[DELETED:  P B W   a W]
+[DELETED:  P t c c]
+[DELETED:  P e r r u c m i c]
+[DELETED:  P " e]
+[DELETED:  P a a s F e o]
+[DELETED:  P]
+[DELETED:  P c a]
+[DELETED:  P f s a a p a]
+[DELETED:  P r a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPoP]
+
+
+================================================================================
+
+Raw Text:
+1 ENGR OSSED HOUSE
+BILL NO. 1417 By: West (Josh) of the House
+2
+and
+3
+Weaver of the Senate
+4
+5
+6 An Act relating to school safety; creating the School
+Access for Emergency Response Act; defining terms;
+7 creating the School Access for Emergency Response
+Grant Program within the State Department of
+8 Education; construing grant program purposes;
+prohibiting impacts to current public safety system
+9 loading capabilities; prescribing the administration
+and implementation of the grant program; creating the
+10 grant selection committee; requiring promulgation of
+rules; prescribing certain rule requirements;
+11 directing the appointment of committee members;
+implementing certain grant eligibility criteria;
+12 requiring certain applicant considerations;
+specifying award and distribution dates; requiring
+13 school districts to report on the grant program;
+mandating reporting to the Legislature; creating the
+14 School Access for Emergency Response Revolving Fund;
+specifying fund sources; allowing appropriation;
+15 clarifying fund purpose; prescribing fund expenditure
+limitations; construing disbursement of fund amounts;
+16 providing for codification; and providing an
+effective date.
+17
+18
+19 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20 SECTION 1. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 5-149.5 of Title 70, unless
+22 there is created a duplication in numbering, reads as follows:
+23 This act shall be known and may be cited as the "School Access
+24 for Emergency Response Act" or the "SAFER Act".
+ENGR. H. B. NO. 1417 Page 1
+
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 5-149.6 of Title 70, unless
+3 there is created a duplication in numbering, reads as follows:
+4 As used in the School Access For Emergency Response Act:
+5 1. "Best practices in interoperable emergency communications"
+6 means to identify the interoperable emergency communications needs
+7 at a school level, to help target technical assistance, funding, and
+8 other support, and to prepare for next-generation communications
+9 technologies as exemplified by interoperable communications
+10 technologies to enhance and better ensure school safety throughout
+11 the State of Oklahoma;
+12 2. "Board" may alternately or jointly reference the State Board
+13 of Education and the Oklahoma Office of Homeland Security;
+14 3. "Crisis management plan" means a plan including tactical
+15 strategies and actions for responding to an emergency as set forth
+16 by the Federal Emergency Management Agency (FEMA) Manual IS-0100.C.
+17 The key elements of a crisis management plan shall include, but
+18 not necessarily be limited to:
+19 a. threat assessment, recurring risk assessment, and
+20 proactive identification following said assessments,
+21 b. crisis response team structure,
+22 c. communication protocols, including implementation,
+23 training, as well as maintenance and timely upgrading
+24 of interoperable communication systems,
+ENGR. H. B. NO. 1417 Page 2
+
+1 d. emergency response procedures,
+2 e. resource allocation guidelines, and
+3 f. recovery and continuity strategies;
+4 4. "Department" may alternately or jointly reference the State
+5 Board of Education and the State Office of Homeland Security;
+6 5. "Grant program" means the School Access for Emergency
+7 Response Grant Program created in Section 3 of this act;
+8 6. “Incident Command System” (ICS) means the standardized
+9 approach to incident management as set forth by Federal Emergency
+10 Management Agency (FEMA) Manual IS-0100.C: An Introduction to the
+11 Incident Command System. ICS shall be adopted by grant applicants
+12 as a precedent to be considered for funding through this act. The
+13 Manual includes:
+14 a. unified command structure,
+15 b. common terminology,
+16 c. modular organization,
+17 d. integrated communications via interoperable
+18 technology, equipment, and training, and
+19 e. comprehensive resource management;
+20 7. "Interoperability" means the ability of one or more radio
+21 systems to communicate with another radio system in real-time.
+22 Interoperability includes the teamwork that occurs over real-time
+23 radio broadcast channels between school district safety teams,
+24 school-based safety teams, and professional emergency responders;
+ENGR. H. B. NO. 1417 Page 3
+
+1 8. “Interoperable communications provider” means the supplier
+2 or suppliers of interoperable communications technology, both
+3 hardware and software, as well as related training, maintenance, and
+4 upgrades of interoperable communications systems;
+5 9. "Interoperable technology" means software and hardware that
+6 enables two different radio systems and other communications devices
+7 to communicate seamlessly in real time via radio broadcast channels
+8 regardless of underlying technologies or manufacturers;
+9 10. "Memorandum of Understanding" (MOU) means an agreement
+10 between two or more parties that is designed and intended to
+11 formalize a working relationship. Among other components as
+12 identified by the stakeholders, the MOU is designed and intended to
+13 outline the identified parties agreement to share private, assigned
+14 Federal Communications Commission (FCC) licensed radio frequencies
+15 or channels as well as other protocols and technologies needed to
+16 achieve two-way radio interoperability as contemplated by NIMS IS-
+17 0100.C for schools;
+18 11. a. "National Response Framework" (NRF) means the manner
+19 in which the United States responds to all types of
+20 disasters and emergencies and includes the following
+21 key elements:
+22 (1) enumerated core capabilities of prevention,
+23 protection, mitigation, response, and recovery,
+24
+ENGR. H. B. NO. 1417 Page 4
+
+1 (2) a component of the National Strategy for Homeland
+2 Security that establishes a comprehensive,
+3 national, all-hazards approach to domestic
+4 incident response,
+5 (3) an explanation of the roles and responsibilities
+6 of federal, state, local, tribal governments,
+7 private sector, and non-governmental
+8 organizations in disaster response, and
+9 (4) scalable, flexible, and adaptable coordination
+10 structures to align key roles and
+11 responsibilities across the nation, including
+12 (and specifically for the purposes of this act)
+13 for small, medium, and large school districts and
+14 associated public safety agencies;
+15 b. For the purposes of the School Access for Emergency
+16 Response Act, NRF:
+17 (1) enumerates the interrelationship between school
+18 access for emergency response and the National
+19 Incident Management System (NIMS), and
+20 (2) outlines the operation of NIMS Incident Command
+21 System in relations to school access for
+22 emergency response;
+23 12. "Public safety answering point" means a facility equipped
+24 and staffed to provide emergency telephone service;
+ENGR. H. B. NO. 1417 Page 5
+
+1 13. "Radio system" means a private network for voice
+2 communications;
+3 14. “Real-time communications network” means private licensed
+4 radio frequencies, channels, or talk-groups, on either a wire or
+5 wireless communication network, that allows for real-time voice or
+6 data transmissions between a public safety answering point, specific
+7 school safety team members, school district safety teams, and first
+8 responders;
+9 15. "Revolving fund" means the School Access for Emergency
+10 Response Revolving Fund created in Section 6 of this act;
+11 16. "Safety team" means personnel who have a role in crisis
+12 management plans, including school district safety teams and school-
+13 based safety teams. In regard to school-based safety teams,
+14 training includes NIMS IS-0100.C protocols as well as training with
+15 interoperable communications technology itself;
+16 17. "School" means elementary, middle, and secondary schools
+17 supported by public taxation and shall include charter schools
+18 established pursuant to the Oklahoma Charter Schools Act; and
+19 18. "Standards-based" means radio specifications defined by a
+20 national association of the telecommunications industry that every
+21 manufacturer can follow to implement equipment interoperability.
+22 SECTION 3. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 5-149.7 of Title 70, unless
+24 there is created a duplication in numbering, reads as follows:
+ENGR. H. B. NO. 1417 Page 6
+
+1 A. There is hereby created in the State Department of Education
+2 the School Access for Emergency Response Grant Program to provide
+3 grants to schools for needed interoperable communication hardware,
+4 software, equipment maintenance, and training to allow for seamless
+5 communications between first responder communications systems, new
+6 or existing school district communications systems, and new or
+7 existing school-based systems.
+8 B. Grant recipients may use the money received through the
+9 grant program for the following purposes:
+10 1. To deliver training programs to teach district safety teams
+11 and security personnel as well as appropriate school-based safety
+12 teams and other personnel basic procedures for effective
+13 communications with first responders in an emergency. The training
+14 shall be based upon Federal Emergency Management Agency (FEMA)
+15 Manual IS-0100.C: An Introduction to the Incident Command System.
+16 As required by federal law and associated regulations, these derived
+17 training elements shall include:
+18 a. completion of the entire course, which is usually
+19 available online through the Federal Emergency
+20 Management Agency (FEMA) Emergency Management
+21 Institute (EMI) website,
+22 b. an expectation of understanding the basic principles
+23 and features of ISC, including its purpose,
+24 organization, and the roles and responsibilities of
+ENGR. H. B. NO. 1417 Page 7
+
+1 key positions within the structure established by the
+2 FEMA Manual,
+3 c. familiarization with how ISC is applied in various
+4 types of school-based incidents, including planned
+5 events, natural disasters, and other types of crisis
+6 incidents or emergency situations,
+7 d. scenario-based exercises to reinforce learning and
+8 ensure comprehension of the material,
+9 e. a final exam to assess the participant's understanding
+10 of the course material. A passing score, often
+11 seventy-five percent (75%) or higher, is necessary to
+12 receive a certificate of completion,
+13 f. a certification upon successful completion of the
+14 course and final exam, which may be necessary for
+15 certain federal positions or for compliance with
+16 federal emergency management directives, and
+17 g. periodic refresher courses or continuing education to
+18 maintain certification and stay current with any
+19 changes or updates to the system;
+20 2. To implement an interoperable technology solution to provide
+21 or to upgrade the following:
+22 a. a system or technology that can be activated and
+23 deactivated by a public safety answering point, a
+24
+ENGR. H. B. NO. 1417 Page 8
+
+1 network administrator, and a school over both the
+2 radio system and other communications networks,
+3 b. radio and other technology bridge ability that is
+4 nonradio vendor specific for connecting independent
+5 school networks, school district networks, and public
+6 safety networks in the region, and
+7 c. an interoperable real-time radio broadcast solution
+8 that operates over specifically managed radio networks
+9 and other proactively identified communications
+10 networks; and
+11 3. To maintain or improve a school's existing interoperable
+12 communication hardware or software or to provide interoperable
+13 communication hardware and software to a school that does not yet
+14 have it.
+15 C. The proposed interoperable communications solution shall not
+16 increase or impact public safety system loading in existence at the
+17 time of the enactment of this act. School-based and school district
+18 interoperable communications systems shall consider coverage,
+19 capacity, and related features in regard to any necessary radio
+20 system capacity expansions where school loading is determined to
+21 potentially have more than a negligible impact on preexisting public
+22 safety system loading.
+23 D. The State Department of Education shall administer the grant
+24 program. Subject to the availability of funds, grants shall be paid
+ENGR. H. B. NO. 1417 Page 9
+
+1 out of the "School Access for Emergency Response Revolving Fund"
+2 created in Section 6 of this act.
+3 E. The State Board of Education, in consultation with the grant
+4 selection committee created in subsection F of this section, shall
+5 implement the grant program in accordance with this act. The
+6 Department shall promulgate rules necessary to implement the
+7 requirements of this act. At minimum, such rules shall specify the
+8 time frames for applying for grants, the form of the grant program
+9 application, and the time frames for distributing grant money.
+10 These rules shall require that school districts and schools making
+11 application shall adopt the National Incident Management System
+12 (NIMS) to train personnel in the Incident Command System (IS-0100.C)
+13 and conduct joint exercises involving professional first responders
+14 with schools and school districts to better coordinate teamwork and
+15 overall response to incidents.
+16 F. There is hereby created the grant selection committee to
+17 work with the State Board of Education to determine whether a grant
+18 applicant satisfies the criteria to receive a grant. The committee
+19 shall be composed of seven (7) members appointed as specified in
+20 this subsection. The members of the committee shall serve without
+21 compensation, but shall be reimbursed for all actual and necessary
+22 expenses incurred while engaged in the discharge of official duties
+23 pursuant to this act in accordance with the State Travel
+24 Reimbursement Act. Members of the committee shall meet as often as
+ENGR. H. B. NO. 1417 Page 10
+
+1 deem ed necessary by the Board to accomplish the work of the
+2 committee. Members of the committee shall be appointed on or before
+3 November 1, 2025, as follows:
+4 1. The Governor shall appoint one member;
+5 2. The Speaker of the Oklahoma House of Representatives shall
+6 appoint one member who represents urban or suburban school
+7 districts, and one member who represents the chiefs of police;
+8 3. The President Pro Tempore of the Oklahoma State Senate shall
+9 appoint one member who represents rural school districts, and one
+10 member who represents county sheriffs;
+11 4. The Commissioner of Public Safety shall appoint one member;
+12 and
+13 5. The State Superintendent of Public Instruction shall appoint
+14 one member.
+15 SECTION 4. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 5-149.8 of Title 70, unless
+17 there is created a duplication in numbering, reads as follows:
+18 A. A school is required to have a Memorandum of Understanding,
+19 as defined in Section 2 of this act, with its regional public safety
+20 answering point and the local law enforcement agency or agencies
+21 that serve the school for communications interoperability to be
+22 eligible to apply for a grant under this act. To receive a grant, a
+23 school must submit an application to the Department in accordance
+24
+ENGR. H. B. NO. 1417 Page 11
+
+1 with rules promulgated by the Department. At minimum, the
+2 application must include the following information:
+3 1. A description of the school's current interoperable
+4 communication technology, if any;
+5 2. A description of efforts that the school has taken to
+6 coordinate emergency communication with law enforcement, 9-1-1
+7 system administrators, and other schools; and
+8 3. A description of the purpose or purposes for which the
+9 school would plan to use the grant money, including, but not limited
+10 to, proposed training programs, joint exercise plans, and
+11 interoperability technology solutions.
+12 B. The grant selection committee created in Section 3 of this
+13 act shall review the applications received pursuant to this section.
+14 In awarding grants, the grant selection committee shall consider
+15 whether the school has a crisis management plan in place with safety
+16 team members designated for communications with first responders.
+17 C. Subject to the availability of funds, on or before June 30,
+18 2026, and on or before June 30 each year thereafter for the duration
+19 of the grant program, the Board shall award grants as provided in
+20 this act. The Board shall distribute the grant money within thirty
+21 (30) days after the grants are awarded.
+22 SECTION 5. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 5-149.9 of Title 70, unless
+24 there is created a duplication in numbering, reads as follows:
+ENGR. H. B. NO. 1417 Page 12
+
+1 A. On or before January 15, 2028, and on or before January 15
+2 each year thereafter for the duration of the grant program, each
+3 school district with schools that received a grant through the grant
+4 program provided in this act shall submit a report to the
+5 Department. At minimum, the report shall include the following
+6 information:
+7 1. The number of schools within the district that used grant
+8 money to provide training programs to appropriate personnel
+9 regarding effective communications with first responders in an
+10 emergency;
+11 2. The number of schools within the district that used grant
+12 money to provide or upgrade its interoperable technology, including
+13 interoperable communication hardware or software; and
+14 3. The estimated number of enrolled students that benefitted or
+15 will benefit from how the grant money was utilized.
+16 B. On or before May 30, 2028, and on or before May 30 each year
+17 thereafter for the duration of the grant program, the Department
+18 shall present a summarized report of the activities of the grant
+19 program to the Oklahoma Legislature.
+20 SECTION 6. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 5-149.10 of Title 70, unless
+22 there is created a duplication in numbering, reads as follows:
+23 A. There is hereby created in the State Treasury a revolving
+24 fund for the State Department of Education to be designated the
+ENGR. H. B. NO. 1417 Page 13
+
+1 "Sch ool Access for Emergency Response Revolving Fund". The fund
+2 shall be a continuing fund, not subject to fiscal year limitations,
+3 and shall consist of all monies received by the Department of
+4 Education from:
+5 1. Reimbursements, grants, or other monies received from other
+6 state agencies and entities for establishing or maintaining
+7 interoperable communication between schools and public safety
+8 officials;
+9 2. Gifts, donations, and bequests; and
+10 3. Monies appropriated or apportioned by the Legislature.
+11 B. All monies accruing to the credit of the School Access for
+12 Emergency Response Revolving Fund are hereby appropriated and may be
+13 budgeted and expended by the State Department of Education for the
+14 purpose of providing grants for the School Access for Emergency
+15 Response Grant Program as created in Section 3 of this act.
+16 C. Expenditures from the School Access for Emergency Response
+17 Revolving Fund shall be made upon warrants issued by the State
+18 Treasurer against claims filed as prescribed by law with the
+19 Director of the Office of Management and Enterprise Services for
+20 approval and payment. Expenditures from the School Access for
+21 Emergency Response Revolving Fund shall not exceed Five Million
+22 Dollars ($5,000,000.00) in any fiscal year and shall be divided
+23 equally among grant applicants who were approved by the State Board
+24
+ENGR. H. B. NO. 1417 Page 14
+
+1 of E ducation and grant selection committee as provided for in
+2 Section 3 of this act.
+3 SECTION 7. This act shall become effective November 1, 2025.
+4 Passed the House of Representatives the 13th day of March, 2025.
+5
+6
+Presiding Officer of the House
+7 of Representatives
+8
+9 Passed the Senate the _____ day of __________, 2025.
+10
+11
+Presiding Officer of the Senate
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+ENGR. H. B. NO. 1417 Page 15
+
+[DELETED:  P B W   a W]
+[DELETED:  P t c c]
+[DELETED:  P e r r u c m i c]
+[DELETED:  P " e]
+[DELETED:  P a a s F e o]
+[DELETED:  P]
+[DELETED:  P c a]
+[DELETED:  P f s a a p a]
+[DELETED:  P r a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPoP]
