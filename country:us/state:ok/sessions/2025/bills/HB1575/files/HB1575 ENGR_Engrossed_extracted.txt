@@ -1,0 +1,285 @@
+Title: BILL NO. 1575 By: Lawson, Hefner, and Waldron
+Official Title: BILL NO. 1575 By: Lawson, Hefner, and Waldron
+Number of Sections: 1
+Source: versions - Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 ENGR OSSED HOUSE
+2 of the House
+3 and
+4 Seifried of the Senate
+5
+6 [ social services - Streamlined Services Act -
+7 streamlined eligibility and enrollment system -
+8 Department of Human Services - feasibility study -
+9 integrated access system - request for proposals -
+10 progress updates - codification - effective date –
+11 emergency ]
+12
+13
+14 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15 SECTION 1. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 3500.1 of Title 56, unless there
+17 is created a duplication in numbering, reads as follows:
+18 This act shall be known and may be cited as the "Streamlined
+19 Services Act".
+20 SECTION 2. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 3500.2 of Title 56, unless there
+22 is created a duplication in numbering, reads as follows:
+23 A. The purpose of the Streamlined Services Act is to establish
+24 a unified and streamlined eligibility and enrollment system within
+ENGR. H. B. NO. 1575 Page 1
+1 the Oklahoma Department of Human Services to improve access to and
+2 management of services for Oklahomans.
+3 B. The system shall promote efficiency, accessibility, and
+4 coordination of services across programs, including but not limited
+5 to:
+6 1. Supplemental Nutrition Assistance Program (SNAP);
+7 2. Temporary Assistance for Needy Families (TANF);
+8 3. Child care subsidies;
+9 4. Low Income Home Energy Assistance Program (LIHEAP);
+10 5. Medicaid; and
+11 6. Women, Infants, and Children (WIC).
+12 C. The Department shall coordinate with the Oklahoma Health
+13 Care Authority, the State Department of Health, and any other state
+14 agency or community partner that administers a program specified in
+15 subsection B of this section to implement the provisions of this
+16 act.
+17 D. The Department shall conduct a feasibility study to identify
+18 opportunities to integrate additional programs into the system over
+19 time.
+20 SECTION 3. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 3500.3 of Title 56, unless there
+22 is created a duplication in numbering, reads as follows:
+23 As used in the Streamlined Services Act:
+24
+ENGR. H. B. NO. 1575 Page 2
+1 1. "Applicant" means any individual or household seeking
+2 benefits or services through the programs specified in Section 2 of
+3 this act; and
+4 2. "Integrated access system" means a single, technology-driven
+5 platform that enables residents to apply for, manage, and renew
+6 benefits across multiple human services programs.
+7 SECTION 4. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 3500.4 of Title 56, unless there
+9 is created a duplication in numbering, reads as follows:
+10 The Department of Human Services shall develop, implement, and
+11 administer an integrated access system that:
+12 1. Provides a single point of access for applicants to apply
+13 for and manage benefits across eligible programs;
+14 2. Utilizes a secure, user-friendly, web-based platform
+15 accessible via computers, mobile devices, and kiosks;
+16 3. Includes functionality for real-time status updates,
+17 document uploads, and communication between applicants and
+18 administrative staff;
+19 4. Ensures accessibility for individuals with disabilities and
+20 individuals with limited English proficiency; and
+21 5. Integrates data-sharing capabilities to streamline
+22 eligibility determinations while maintaining compliance with state
+23 and federal privacy laws.
+24
+ENGR. H. B. NO. 1575 Page 3
+1 SECTION 5. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 3500.5 of Title 56, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. The Department of Human Services shall:
+5 1. Issue a request for proposals (RFP) for the development and
+6 implementation of the integrated access system within six (6) months
+7 of the effective date of this act; and
+8 2. Launch the system for public use within one (1) year of the
+9 effective date of this act.
+10 B. The Department shall establish interim benchmarks and
+11 provide progress updates to the Governor and the Legislature every
+12 six (6) months until the system is fully operational.
+13 SECTION 6. This act shall become effective July 1, 2025.
+14 SECTION 7. It being immediately necessary for the preservation
+15 of the public peace, health or safety, an emergency is hereby
+16 declared to exist, by reason whereof this act shall take effect and
+17 be in full force from and after its passage and approval.
+18
+19
+20
+21
+22
+23
+24
+ENGR. H. B. NO. 1575 Page 4
+1 Passed the House of Representatives the 25th day of March, 2025.
+2
+3
+Presiding Officer of the House
+4 of Representatives
+5
+6 Passed the Senate the _____ day of __________, 2025.
+7
+8
+Presiding Officer of the Senate
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+ENGR. H. B. NO. 1575 Page 5
+[DELETED:  P B L   a S e]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPoP]
+
+
+================================================================================
+
+Raw Text:
+1 ENGR OSSED HOUSE
+BILL NO. 1575 By: Lawson, Hefner, and Waldron
+2 of the House
+3 and
+4 Seifried of the Senate
+5
+6 [ social services - Streamlined Services Act -
+7 streamlined eligibility and enrollment system -
+8 Department of Human Services - feasibility study -
+9 integrated access system - request for proposals -
+10 progress updates - codification - effective date –
+11 emergency ]
+12
+13
+14 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15 SECTION 1. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 3500.1 of Title 56, unless there
+17 is created a duplication in numbering, reads as follows:
+18 This act shall be known and may be cited as the "Streamlined
+19 Services Act".
+20 SECTION 2. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 3500.2 of Title 56, unless there
+22 is created a duplication in numbering, reads as follows:
+23 A. The purpose of the Streamlined Services Act is to establish
+24 a unified and streamlined eligibility and enrollment system within
+ENGR. H. B. NO. 1575 Page 1
+
+1 the Oklahoma Department of Human Services to improve access to and
+2 management of services for Oklahomans.
+3 B. The system shall promote efficiency, accessibility, and
+4 coordination of services across programs, including but not limited
+5 to:
+6 1. Supplemental Nutrition Assistance Program (SNAP);
+7 2. Temporary Assistance for Needy Families (TANF);
+8 3. Child care subsidies;
+9 4. Low Income Home Energy Assistance Program (LIHEAP);
+10 5. Medicaid; and
+11 6. Women, Infants, and Children (WIC).
+12 C. The Department shall coordinate with the Oklahoma Health
+13 Care Authority, the State Department of Health, and any other state
+14 agency or community partner that administers a program specified in
+15 subsection B of this section to implement the provisions of this
+16 act.
+17 D. The Department shall conduct a feasibility study to identify
+18 opportunities to integrate additional programs into the system over
+19 time.
+20 SECTION 3. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 3500.3 of Title 56, unless there
+22 is created a duplication in numbering, reads as follows:
+23 As used in the Streamlined Services Act:
+24
+ENGR. H. B. NO. 1575 Page 2
+
+1 1. "Applicant" means any individual or household seeking
+2 benefits or services through the programs specified in Section 2 of
+3 this act; and
+4 2. "Integrated access system" means a single, technology-driven
+5 platform that enables residents to apply for, manage, and renew
+6 benefits across multiple human services programs.
+7 SECTION 4. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 3500.4 of Title 56, unless there
+9 is created a duplication in numbering, reads as follows:
+10 The Department of Human Services shall develop, implement, and
+11 administer an integrated access system that:
+12 1. Provides a single point of access for applicants to apply
+13 for and manage benefits across eligible programs;
+14 2. Utilizes a secure, user-friendly, web-based platform
+15 accessible via computers, mobile devices, and kiosks;
+16 3. Includes functionality for real-time status updates,
+17 document uploads, and communication between applicants and
+18 administrative staff;
+19 4. Ensures accessibility for individuals with disabilities and
+20 individuals with limited English proficiency; and
+21 5. Integrates data-sharing capabilities to streamline
+22 eligibility determinations while maintaining compliance with state
+23 and federal privacy laws.
+24
+ENGR. H. B. NO. 1575 Page 3
+
+1 SECTION 5. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 3500.5 of Title 56, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. The Department of Human Services shall:
+5 1. Issue a request for proposals (RFP) for the development and
+6 implementation of the integrated access system within six (6) months
+7 of the effective date of this act; and
+8 2. Launch the system for public use within one (1) year of the
+9 effective date of this act.
+10 B. The Department shall establish interim benchmarks and
+11 provide progress updates to the Governor and the Legislature every
+12 six (6) months until the system is fully operational.
+13 SECTION 6. This act shall become effective July 1, 2025.
+14 SECTION 7. It being immediately necessary for the preservation
+15 of the public peace, health or safety, an emergency is hereby
+16 declared to exist, by reason whereof this act shall take effect and
+17 be in full force from and after its passage and approval.
+18
+19
+20
+21
+22
+23
+24
+ENGR. H. B. NO. 1575 Page 4
+
+1 Passed the House of Representatives the 25th day of March, 2025.
+2
+3
+Presiding Officer of the House
+4 of Representatives
+5
+6 Passed the Senate the _____ day of __________, 2025.
+7
+8
+Presiding Officer of the Senate
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+ENGR. H. B. NO. 1575 Page 5
+
+[DELETED:  P B L   a S e]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPoP]

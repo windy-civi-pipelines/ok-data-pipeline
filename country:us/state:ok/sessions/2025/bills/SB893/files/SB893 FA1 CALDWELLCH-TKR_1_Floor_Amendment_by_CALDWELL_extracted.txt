@@ -1,0 +1,856 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 1
+Source: versions - 1 Floor Amendment by CALDWELL
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+SB893 FA1 CaldwellCh-TKR
+5/5/2025 11:08:25 am
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend SB893
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Chad Caldwell
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 FLOOR SUBSTITUTE
+FOR ENGROSSED
+4 SENATE BILL NO. 893 By: Howard and Pederson of the
+Senate
+5
+and
+6
+Caldwell (Chad) and Manger
+7 of the House
+8
+9
+10 FLOOR SUBSTITUTE
+11 [ property and critical infrastructure - Military
+12 Installation & Military Operating Areas and
+13 Critical Infrastructure Protection Act of 2025 –
+14 defining terms - Office of the Attorney General –
+15 noncodification – codification - effective date ]
+16
+17
+18
+19 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20 SECTION 1. NEW LAW A new section of law not to be
+21 codified in the Oklahoma Statutes reads as follows:
+22 This act shall be known and may be cited as the “Military
+23 Installation & Military Operating Areas and Critical Infrastructure
+24 Protection Act of 2025”.
+Req. No. 13647 Page 1
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 128.1 of Title 60, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. As used in this act:
+5 1. “Agricultural land” shall mean a land area that is either
+6 arable, under permanent crops, or under permanent pastures. Arable
+7 land includes land under temporary crops such as cereals, temporary
+8 meadows for mowing or pasture, land under market or kitchen gardens,
+9 and land temporarily fallow. Land abandoned as a result of shifting
+10 cultivation is excluded. Land under permanent crops is cultivated
+11 with crops that occupy the land for long periods and need not be
+12 replanted after each harvest, such as orchards or vineyards. This
+13 category excludes land under trees grown for wood or timber.
+14 Permanent pasture land is land used for five (5) or more years for
+15 forage, including natural and cultivated crops;
+16 2. “Company” shall mean a for-profit sole proprietorship,
+17 organization, association, corporation, partnership, joint venture,
+18 limited partnership, limited liability partnership, or limited
+19 liability company, including a wholly owned subsidiary, majority-
+20 owned subsidiary, parent company, or affiliate of those entities or
+21 business associations, that exists to make a profit; or a nonprofit
+22 organization;
+23 3. “Critical infrastructure” shall mean systems and assets,
+24 whether physical or virtual, so vital to Oklahoma or the United
+Req. No. 13647 Page 2
+1 Stat es that the incapacity or destruction of such systems and assets
+2 would have a debilitating impact on state or national security,
+3 state or national economic security, state or national public
+4 health, or any combination of those matters. A critical
+5 infrastructure may be publicly or privately owned and includes, but
+6 is not limited to:
+7 a. gas and oil production, storage, or delivery systems,
+8 b. water supply, refinement, storage, or delivery
+9 systems,
+10 c. telecommunications networks,
+11 d. electrical power delivery systems,
+12 e. emergency services,
+13 f. transportation systems and services, or
+14 g. personal data or otherwise classified information
+15 storage systems, including cybersecurity;
+16 4. “Cybersecurity” shall mean the measures taken to protect a
+17 computer, computer network, computer system, or other technology
+18 infrastructure against unauthorized use or access;
+19 5. “Domicile” shall mean either the country in which a company
+20 is registered, where the affairs of the company are primarily
+21 completed, or where the majority of ownership share is held;
+22 6. “Foreign adversary” shall mean China, Russia, Iran, and
+23 North Korea;
+24 7. “Foreign principal” shall mean:
+Req. No. 13647 Page 3
+1 a. the government or any official of the government of a
+2 foreign adversary,
+3 b. a political party or member of a political party or
+4 any subdivision of a political party of a foreign
+5 adversary,
+6 c. a partnership, association, corporation, organization,
+7 or other combination of persons organized under the
+8 laws of or having its principal place of business in a
+9 foreign adversary, or a subsidiary of such entity, or
+10 owned or controlled wholly or in part by any person,
+11 entity, or collection of persons or entities of a
+12 foreign adversary,
+13 d. any person who is domiciled in a foreign adversary and
+14 is not a citizen or lawful permanent resident of the
+15 United States, or
+16 e. any person, entity, or collection of persons or
+17 entities, described in subparagraphs a through d of
+18 this paragraph having a controlling interest in a
+19 partnership, association, corporation, organization,
+20 trust, or any other legal entity or subsidiary formed
+21 for the purpose of owning real property;
+22 8. “Military base or installation” shall mean any land,
+23 Military Operating Areas structures, or property owned or controlled
+24 by any division of the United States Department of Defense, Oklahoma
+Req. No. 13647 Page 4
+1 Nati onal Guard, or any other department of government, state or
+2 federal, critical to the safety and security of Oklahoma or the
+3 United States;
+4 9. “Non-notified transactions” shall mean foreign investments
+5 in the United States that are not voluntarily submitted to the
+6 Committee on Foreign Investment in the United States for review
+7 under 50 U.S.C., Section 4565;
+8 10. “Operational software” shall mean computer programs used
+9 for the operation, control, maneuver or maintenance of state
+10 infrastructure, or any other computer program applications related
+11 to state infrastructure;
+12 11. “Software” shall mean any program or routine, or any set of
+13 one or more programs or routines, which are used or intended for use
+14 to cause one or more computers or pieces of computer related
+15 peripheral equipment, or any combination thereof, to perform a task
+16 or set of tasks, as it relates to state infrastructure;
+17 12. “State infrastructure” shall mean critical infrastructure
+18 and transportation infrastructure; and
+19 13. “Transportation infrastructure” shall include, but not be
+20 limited to:
+21 a. airports including, but not limited to, commercial and
+22 intermodal airports and heliports and all airport
+23 infrastructure,
+24
+Req. No. 13647 Page 5
+1 b. roadways including, but not limited to, publicly
+2 accessible streets, roads, highways, and bridges and
+3 all roadway infrastructure including, but not limited
+4 to, signage, toll booths, weigh stations, and traffic
+5 signals,
+6 c. railways including, but not limited to, all classes of
+7 freight rail and passenger rail and all railway
+8 infrastructure including, but not limited to,
+9 intermodal rail yards and signals,
+10 d. ports including, but not limited to, inland ports,
+11 seaports, deepwater ports, inland waterways, and
+12 levees and all port infrastructure including, but not
+13 limited to, intermodal stations, and
+14 e. public transit including bus, ferry, cable car, tram,
+15 trolley, and other types of publicly accessible
+16 transportation and all public transit infrastructure.
+17 B. This act does not apply to a company, including third-party
+18 vendor, that is in compliance with the Secure and Trusted
+19 Communications Networks Act of 2019.
+20 SECTION 3. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 128.2 of Title 60, unless there
+22 is created a duplication in numbering, reads as follows:
+23 A. A foreign principal from a foreign adversary country may not
+24 directly or indirectly own, have an interest of greater than twenty-
+Req. No. 13647 Page 6
+1 five percent (25%) in, or acquire by purchase, grant, devise, or
+2 descent agricultural land or any interest, except a de minimis
+3 indirect interest, in such land in this state. A foreign principal
+4 has a de minimis indirect interest if any ownership is the result of
+5 the foreign principal’s ownership of registered equities in a
+6 publicly traded company owning the land and if the ownership of the
+7 foreign principal in the country is either:
+8 1. Less than five percent (5%) of any class of registered
+9 equities or less than five percent (5%) in the aggregate in multiple
+10 classes of registered equities; or
+11 2. A noncontrolling interest in an entity controlled by a
+12 company that is both registered with the United States Securities
+13 and Exchange Commission as an investment advisor under the
+14 Investment Advisers Act of 1940, as amended, and is not a foreign
+15 entity.
+16 B. A foreign principal that directly or indirectly owns or
+17 otherwise controls agricultural land, as defined in Section 2 of
+18 this act, in this state must sell, transfer, or otherwise divest
+19 itself of the agricultural land within one hundred eighty (180) days
+20 of the effective date of this act.
+21 C. A foreign principal that directly or indirectly owns or
+22 acquires agricultural land or any interest in such land in this
+23 state shall register with the Oklahoma Department of Agriculture,
+24 Food, and Forestry within sixty (60) days of the effective date of
+Req. No. 13647 Page 7
+1 this act or the date of acquisition, whichever is latest. The
+2 Department shall establish a form for such registration which, at
+3 minimum, shall include all of the following:
+4 1. The name of the owner of the agricultural land or the owner
+5 of the interest in such land;
+6 2. The address of the agricultural land, the parcel
+7 identification number of the property appraiser, and the legal
+8 description of the property; and
+9 3. The number of acres of the agricultural land.
+10 D. Notwithstanding the provisions of subsection A of this
+11 section, a foreign principal from a foreign adversary country may
+12 acquire agricultural land on or after the effective date of this act
+13 by devise or descent, through the enforcement of security interests,
+14 or through the collection of debts, provided that the foreign
+15 principal sells, transfers, or otherwise divests itself of the
+16 agricultural land within one hundred eighty (180) days of acquiring
+17 the agricultural land.
+18 E. Any current deeds, contracts, rental agreements, or other
+19 legal agreements in conflict with the provisions of this act shall
+20 be deemed invalid from the date of adoption unless otherwise
+21 provided.
+22 F. The responsibility for determining whether an entity is
+23 subject to the provisions of this section rests solely with the
+24 foreign entity, the Attorney General, any qualifying whistleblower,
+Req. No. 13647 Page 8
+1 and no other individual or entity. An individual or entity who is
+2 not a foreign entity shall not be required to determine or inquire
+3 whether another person or entity is or may be subject to this
+4 section, and shall bear no civil or criminal liability under the
+5 provisions of this section.
+6 G. If a foreign principal from a foreign adversary country does
+7 not divest the real property as required by this section, the
+8 Attorney General shall commence an action in district court within
+9 the jurisdiction of the real property.
+10 H. If the real property is held in violation of the provisions
+11 of this section, the district court shall order that the real
+12 property be sold through judicial foreclosure.
+13 I. If a whistleblower referral results in a divestiture of land
+14 or other assets held in violation of the provisions of this section,
+15 the whistleblower shall be entitled to a reward equal to thirty
+16 percent (30%) of the proceeds of the land sale that results from the
+17 violation of this section after payments to lienholders. Proceeds
+18 of the sale shall be disbursed in the following order, as
+19 applicable:
+20 1. The payment of authorized costs of the sale, including all
+21 approved fees and expenses of the referee and any taxes and
+22 assessments due;
+23
+24
+Req. No. 13647 Page 9
+1 2. The payment, in an amount approved by the court, to the
+2 Office of the Attorney General for reimbursement of investigation
+3 and litigation costs and expenses;
+4 3. To bona fide lienholders, in their order of priority, except
+5 for liens which under the terms of the sale are to remain on the
+6 property;
+7 4. To whistleblowers; and
+8 5. To the restricted foreign entity.
+9 J. The Oklahoma Department of Agriculture, Food, and Forestry
+10 shall adopt rules to implement the provisions of this section.
+11 K. Any entity that has a national security agreement with the
+12 Committee on Foreign Investment in the United States and continues
+13 to maintain that national security agreement may purchase, lease, or
+14 acquire a maximum of three hundred and fifty (350) acres of
+15 agricultural land for the purposes of:
+16 1. Agricultural research and development; or
+17 2. Experimental purposes, including testing, development, or
+18 production of any crop production inputs for sale or resale to
+19 farmers, including but not limited to:
+20 a. seeds,
+21 b. plants,
+22 c. pesticides,
+23 d. soil amendments,
+24 e. biologicals, or
+Req. No. 13647 Page 10
+1 f. fertilizers.
+2 SECTION 4. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 128.3 of Title 60, unless there
+4 is created a duplication in numbering, reads as follows:
+5 A. A foreign principal from a foreign adversary country shall
+6 not be allowed to directly or indirectly purchase, hold, rent, or
+7 otherwise control any real property within ten (10) miles of a
+8 military base or installation and to include military operating
+9 areas of each Oklahoma Military base or installation.
+10 B. A foreign principal that directly or indirectly controls any
+11 real property covered by the provisions of subsection A of this
+12 section, excluding temporary contractual agreements such as rental
+13 or lease agreements, must sell, transfer, or otherwise divest itself
+14 of the property within one hundred eighty (180) days of the
+15 effective date of this act.
+16 C. Any current deeds, contracts, rental agreements, or other
+17 legal agreements in conflict with this act shall be deemed invalid
+18 from the date of adoption unless otherwise provided.
+19 D. If a foreign principal from a foreign adversary country does
+20 not divest the real property as required by the provisions of this
+21 section, the Attorney General shall commence an action in the
+22 district court within the jurisdiction of the real property.
+23
+24
+Req. No. 13647 Page 11
+1 E. If the real property is held in violation of the provisions
+2 of this section, the district court shall order that the real
+3 property be sold through judicial foreclosure.
+4 F. If a whistleblower referral results in a divestiture of land
+5 or other assets held in violation of the provisions of this section,
+6 the whistleblower shall be entitled to a reward equal to thirty
+7 percent (30%) of the proceeds of the land sale that results from the
+8 violation of the provisions of this section after payments to
+9 lienholders. Proceeds of the sale shall be disbursed in the
+10 following order, as applicable:
+11 1. The payment of authorized costs of the sale, including all
+12 approved fees and expenses of the referee and any taxes and
+13 assessments due;
+14 2. The payment, in an amount approved by the district court, to
+15 the Attorney General for reimbursement of investigation and
+16 litigation costs and expenses;
+17 3. To bona fide lienholders, in their order of priority, except
+18 for liens which under the terms of the sale are to remain on the
+19 property;
+20 4. To whistleblowers; and
+21 5. To the restricted foreign entity.
+22 G. The responsibility for determining whether an entity is
+23 subject to this section rests solely with the foreign entity, the
+24 Attorney General, any qualifying whistleblower, and no other
+Req. No. 13647 Page 12
+1 indi vidual or entity. An individual or entity who is not a foreign
+2 entity shall not be required to determine or inquire whether another
+3 person or entity is or may be subject to the provisions of this
+4 section, and shall bear no civil or criminal liability under the
+5 provisions of this section.
+6 SECTION 5. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 128.4 of Title 60, unless there
+8 is created a duplication in numbering, reads as follows:
+9 A. Any individual may act as a whistleblower and provide a
+10 referral to the Office of the Attorney General for violations of the
+11 provisions of Section 3 and Section 4 of this act.
+12 B. If a whistleblower referral results in a divestiture of land
+13 or other assets held in violation of the provisions of this act, the
+14 whistleblower shall be entitled to a reward equal to thirty percent
+15 (30%) of the proceeds of the land sale that results from violation
+16 of this act.
+17 C. The whistleblower enforcement provision shall take effect
+18 one hundred eighty (180) days after the effective date of this act.
+19 SECTION 6. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 13003 of Title 74, unless there
+21 is created a duplication in numbering, reads as follows:
+22 A. All software used in state infrastructure located within or
+23 serving Oklahoma shall not include any software produced by a
+24
+Req. No. 13647 Page 13
+1 fede rally banned corporation, nor any software banned at the federal
+2 level.
+3 B. All software used in state infrastructure located within or
+4 serving Oklahoma shall not include any software produced in or by a
+5 foreign adversary, a state-owned enterprise of a foreign adversary,
+6 or a company domiciled within a foreign adversary.
+7 C. All software used in state infrastructure in operation
+8 within or serving Oklahoma, to include any state infrastructure
+9 which is not permanently disabled, shall have all software
+10 prohibited by subsection A or B of this section removed and replaced
+11 with software which is not prohibited by subsection A or B of this
+12 section.
+13 D. Any state infrastructure provider that removes,
+14 discontinues, or replaces any prohibited software shall not be
+15 required to obtain any additional permits from any state agency or
+16 political subdivision for the removal, discontinuance, or
+17 replacement of such software as long as the state agency or
+18 political subdivision is properly notified of the necessary
+19 replacements and the replacement software is similar to the existing
+20 software.
+21 SECTION 7. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 13004 of Title 74, unless there
+23 is created a duplication in numbering, reads as follows:
+24
+Req. No. 13647 Page 14
+1 A. The Office of the Attorney General shall establish a process
+2 by which local officials, states officials, or other persons may
+3 submit information or concerns to the Office regarding non-notified
+4 transactions in Oklahoma. The Office of the Attorney General may
+5 adopt any necessary rules to implement the provisions of this
+6 subsection.
+7 B. The Office of the Attorney General may submit a memorandum
+8 or report concerning non-notified transactions the Attorney General
+9 has identified in Oklahoma to the Committee on Foreign Investment in
+10 the United States.
+11 C. The Office of the Attorney General shall:
+12 1. Retain a copy of any documents submitted to the Committee on
+13 Foreign Investment in the United States that are included with a
+14 memorandum or report submitted under the provisions of subsection B
+15 of this section; and
+16 2. Notify the Legislature and the Governor as soon as
+17 practicable after submitting a memorandum, report, or other
+18 information pursuant to the provisions of subsection B of this
+19 section.
+20 SECTION 8. This act shall become effective November 1, 2025.
+21
+22 60-1-13647 TKR 04/30/25
+23
+24
+Req. No. 13647 Page 15
+[DELETED: 5 AS C           O S L           ]
+[DELETED:  PS B H  a CdC]
+[DELETED:  P]
+[DELETED:  P g w t e e t p]
+[DELETED:  P t a a a a]
+[DELETED:  P a]
+[DELETED:  P r r p pB]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P s p p s b]
+[DELETED:  P f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P T 0]
+
+
+================================================================================
+
+Raw Text:
+SB893 FA1 CaldwellCh-TKR
+5/5/2025 11:08:25 am
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend SB893
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Chad Caldwell
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 FLOOR SUBSTITUTE
+FOR ENGROSSED
+4 SENATE BILL NO. 893 By: Howard and Pederson of the
+Senate
+5
+and
+6
+Caldwell (Chad) and Manger
+7 of the House
+8
+9
+10 FLOOR SUBSTITUTE
+11 [ property and critical infrastructure - Military
+12 Installation & Military Operating Areas and
+13 Critical Infrastructure Protection Act of 2025 –
+14 defining terms - Office of the Attorney General –
+15 noncodification – codification - effective date ]
+16
+17
+18
+19 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20 SECTION 1. NEW LAW A new section of law not to be
+21 codified in the Oklahoma Statutes reads as follows:
+22 This act shall be known and may be cited as the “Military
+23 Installation & Military Operating Areas and Critical Infrastructure
+24 Protection Act of 2025”.
+Req. No. 13647 Page 1
+
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 128.1 of Title 60, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. As used in this act:
+5 1. “Agricultural land” shall mean a land area that is either
+6 arable, under permanent crops, or under permanent pastures. Arable
+7 land includes land under temporary crops such as cereals, temporary
+8 meadows for mowing or pasture, land under market or kitchen gardens,
+9 and land temporarily fallow. Land abandoned as a result of shifting
+10 cultivation is excluded. Land under permanent crops is cultivated
+11 with crops that occupy the land for long periods and need not be
+12 replanted after each harvest, such as orchards or vineyards. This
+13 category excludes land under trees grown for wood or timber.
+14 Permanent pasture land is land used for five (5) or more years for
+15 forage, including natural and cultivated crops;
+16 2. “Company” shall mean a for-profit sole proprietorship,
+17 organization, association, corporation, partnership, joint venture,
+18 limited partnership, limited liability partnership, or limited
+19 liability company, including a wholly owned subsidiary, majority-
+20 owned subsidiary, parent company, or affiliate of those entities or
+21 business associations, that exists to make a profit; or a nonprofit
+22 organization;
+23 3. “Critical infrastructure” shall mean systems and assets,
+24 whether physical or virtual, so vital to Oklahoma or the United
+Req. No. 13647 Page 2
+
+1 Stat es that the incapacity or destruction of such systems and assets
+2 would have a debilitating impact on state or national security,
+3 state or national economic security, state or national public
+4 health, or any combination of those matters. A critical
+5 infrastructure may be publicly or privately owned and includes, but
+6 is not limited to:
+7 a. gas and oil production, storage, or delivery systems,
+8 b. water supply, refinement, storage, or delivery
+9 systems,
+10 c. telecommunications networks,
+11 d. electrical power delivery systems,
+12 e. emergency services,
+13 f. transportation systems and services, or
+14 g. personal data or otherwise classified information
+15 storage systems, including cybersecurity;
+16 4. “Cybersecurity” shall mean the measures taken to protect a
+17 computer, computer network, computer system, or other technology
+18 infrastructure against unauthorized use or access;
+19 5. “Domicile” shall mean either the country in which a company
+20 is registered, where the affairs of the company are primarily
+21 completed, or where the majority of ownership share is held;
+22 6. “Foreign adversary” shall mean China, Russia, Iran, and
+23 North Korea;
+24 7. “Foreign principal” shall mean:
+Req. No. 13647 Page 3
+
+1 a. the government or any official of the government of a
+2 foreign adversary,
+3 b. a political party or member of a political party or
+4 any subdivision of a political party of a foreign
+5 adversary,
+6 c. a partnership, association, corporation, organization,
+7 or other combination of persons organized under the
+8 laws of or having its principal place of business in a
+9 foreign adversary, or a subsidiary of such entity, or
+10 owned or controlled wholly or in part by any person,
+11 entity, or collection of persons or entities of a
+12 foreign adversary,
+13 d. any person who is domiciled in a foreign adversary and
+14 is not a citizen or lawful permanent resident of the
+15 United States, or
+16 e. any person, entity, or collection of persons or
+17 entities, described in subparagraphs a through d of
+18 this paragraph having a controlling interest in a
+19 partnership, association, corporation, organization,
+20 trust, or any other legal entity or subsidiary formed
+21 for the purpose of owning real property;
+22 8. “Military base or installation” shall mean any land,
+23 Military Operating Areas structures, or property owned or controlled
+24 by any division of the United States Department of Defense, Oklahoma
+Req. No. 13647 Page 4
+
+1 Nati onal Guard, or any other department of government, state or
+2 federal, critical to the safety and security of Oklahoma or the
+3 United States;
+4 9. “Non-notified transactions” shall mean foreign investments
+5 in the United States that are not voluntarily submitted to the
+6 Committee on Foreign Investment in the United States for review
+7 under 50 U.S.C., Section 4565;
+8 10. “Operational software” shall mean computer programs used
+9 for the operation, control, maneuver or maintenance of state
+10 infrastructure, or any other computer program applications related
+11 to state infrastructure;
+12 11. “Software” shall mean any program or routine, or any set of
+13 one or more programs or routines, which are used or intended for use
+14 to cause one or more computers or pieces of computer related
+15 peripheral equipment, or any combination thereof, to perform a task
+16 or set of tasks, as it relates to state infrastructure;
+17 12. “State infrastructure” shall mean critical infrastructure
+18 and transportation infrastructure; and
+19 13. “Transportation infrastructure” shall include, but not be
+20 limited to:
+21 a. airports including, but not limited to, commercial and
+22 intermodal airports and heliports and all airport
+23 infrastructure,
+24
+Req. No. 13647 Page 5
+
+1 b. roadways including, but not limited to, publicly
+2 accessible streets, roads, highways, and bridges and
+3 all roadway infrastructure including, but not limited
+4 to, signage, toll booths, weigh stations, and traffic
+5 signals,
+6 c. railways including, but not limited to, all classes of
+7 freight rail and passenger rail and all railway
+8 infrastructure including, but not limited to,
+9 intermodal rail yards and signals,
+10 d. ports including, but not limited to, inland ports,
+11 seaports, deepwater ports, inland waterways, and
+12 levees and all port infrastructure including, but not
+13 limited to, intermodal stations, and
+14 e. public transit including bus, ferry, cable car, tram,
+15 trolley, and other types of publicly accessible
+16 transportation and all public transit infrastructure.
+17 B. This act does not apply to a company, including third-party
+18 vendor, that is in compliance with the Secure and Trusted
+19 Communications Networks Act of 2019.
+20 SECTION 3. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 128.2 of Title 60, unless there
+22 is created a duplication in numbering, reads as follows:
+23 A. A foreign principal from a foreign adversary country may not
+24 directly or indirectly own, have an interest of greater than twenty-
+Req. No. 13647 Page 6
+
+1 five percent (25%) in, or acquire by purchase, grant, devise, or
+2 descent agricultural land or any interest, except a de minimis
+3 indirect interest, in such land in this state. A foreign principal
+4 has a de minimis indirect interest if any ownership is the result of
+5 the foreign principal’s ownership of registered equities in a
+6 publicly traded company owning the land and if the ownership of the
+7 foreign principal in the country is either:
+8 1. Less than five percent (5%) of any class of registered
+9 equities or less than five percent (5%) in the aggregate in multiple
+10 classes of registered equities; or
+11 2. A noncontrolling interest in an entity controlled by a
+12 company that is both registered with the United States Securities
+13 and Exchange Commission as an investment advisor under the
+14 Investment Advisers Act of 1940, as amended, and is not a foreign
+15 entity.
+16 B. A foreign principal that directly or indirectly owns or
+17 otherwise controls agricultural land, as defined in Section 2 of
+18 this act, in this state must sell, transfer, or otherwise divest
+19 itself of the agricultural land within one hundred eighty (180) days
+20 of the effective date of this act.
+21 C. A foreign principal that directly or indirectly owns or
+22 acquires agricultural land or any interest in such land in this
+23 state shall register with the Oklahoma Department of Agriculture,
+24 Food, and Forestry within sixty (60) days of the effective date of
+Req. No. 13647 Page 7
+
+1 this act or the date of acquisition, whichever is latest. The
+2 Department shall establish a form for such registration which, at
+3 minimum, shall include all of the following:
+4 1. The name of the owner of the agricultural land or the owner
+5 of the interest in such land;
+6 2. The address of the agricultural land, the parcel
+7 identification number of the property appraiser, and the legal
+8 description of the property; and
+9 3. The number of acres of the agricultural land.
+10 D. Notwithstanding the provisions of subsection A of this
+11 section, a foreign principal from a foreign adversary country may
+12 acquire agricultural land on or after the effective date of this act
+13 by devise or descent, through the enforcement of security interests,
+14 or through the collection of debts, provided that the foreign
+15 principal sells, transfers, or otherwise divests itself of the
+16 agricultural land within one hundred eighty (180) days of acquiring
+17 the agricultural land.
+18 E. Any current deeds, contracts, rental agreements, or other
+19 legal agreements in conflict with the provisions of this act shall
+20 be deemed invalid from the date of adoption unless otherwise
+21 provided.
+22 F. The responsibility for determining whether an entity is
+23 subject to the provisions of this section rests solely with the
+24 foreign entity, the Attorney General, any qualifying whistleblower,
+Req. No. 13647 Page 8
+
+1 and no other individual or entity. An individual or entity who is
+2 not a foreign entity shall not be required to determine or inquire
+3 whether another person or entity is or may be subject to this
+4 section, and shall bear no civil or criminal liability under the
+5 provisions of this section.
+6 G. If a foreign principal from a foreign adversary country does
+7 not divest the real property as required by this section, the
+8 Attorney General shall commence an action in district court within
+9 the jurisdiction of the real property.
+10 H. If the real property is held in violation of the provisions
+11 of this section, the district court shall order that the real
+12 property be sold through judicial foreclosure.
+13 I. If a whistleblower referral results in a divestiture of land
+14 or other assets held in violation of the provisions of this section,
+15 the whistleblower shall be entitled to a reward equal to thirty
+16 percent (30%) of the proceeds of the land sale that results from the
+17 violation of this section after payments to lienholders. Proceeds
+18 of the sale shall be disbursed in the following order, as
+19 applicable:
+20 1. The payment of authorized costs of the sale, including all
+21 approved fees and expenses of the referee and any taxes and
+22 assessments due;
+23
+24
+Req. No. 13647 Page 9
+
+1 2. The payment, in an amount approved by the court, to the
+2 Office of the Attorney General for reimbursement of investigation
+3 and litigation costs and expenses;
+4 3. To bona fide lienholders, in their order of priority, except
+5 for liens which under the terms of the sale are to remain on the
+6 property;
+7 4. To whistleblowers; and
+8 5. To the restricted foreign entity.
+9 J. The Oklahoma Department of Agriculture, Food, and Forestry
+10 shall adopt rules to implement the provisions of this section.
+11 K. Any entity that has a national security agreement with the
+12 Committee on Foreign Investment in the United States and continues
+13 to maintain that national security agreement may purchase, lease, or
+14 acquire a maximum of three hundred and fifty (350) acres of
+15 agricultural land for the purposes of:
+16 1. Agricultural research and development; or
+17 2. Experimental purposes, including testing, development, or
+18 production of any crop production inputs for sale or resale to
+19 farmers, including but not limited to:
+20 a. seeds,
+21 b. plants,
+22 c. pesticides,
+23 d. soil amendments,
+24 e. biologicals, or
+Req. No. 13647 Page 10
+
+1 f. fertilizers.
+2 SECTION 4. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 128.3 of Title 60, unless there
+4 is created a duplication in numbering, reads as follows:
+5 A. A foreign principal from a foreign adversary country shall
+6 not be allowed to directly or indirectly purchase, hold, rent, or
+7 otherwise control any real property within ten (10) miles of a
+8 military base or installation and to include military operating
+9 areas of each Oklahoma Military base or installation.
+10 B. A foreign principal that directly or indirectly controls any
+11 real property covered by the provisions of subsection A of this
+12 section, excluding temporary contractual agreements such as rental
+13 or lease agreements, must sell, transfer, or otherwise divest itself
+14 of the property within one hundred eighty (180) days of the
+15 effective date of this act.
+16 C. Any current deeds, contracts, rental agreements, or other
+17 legal agreements in conflict with this act shall be deemed invalid
+18 from the date of adoption unless otherwise provided.
+19 D. If a foreign principal from a foreign adversary country does
+20 not divest the real property as required by the provisions of this
+21 section, the Attorney General shall commence an action in the
+22 district court within the jurisdiction of the real property.
+23
+24
+Req. No. 13647 Page 11
+
+1 E. If the real property is held in violation of the provisions
+2 of this section, the district court shall order that the real
+3 property be sold through judicial foreclosure.
+4 F. If a whistleblower referral results in a divestiture of land
+5 or other assets held in violation of the provisions of this section,
+6 the whistleblower shall be entitled to a reward equal to thirty
+7 percent (30%) of the proceeds of the land sale that results from the
+8 violation of the provisions of this section after payments to
+9 lienholders. Proceeds of the sale shall be disbursed in the
+10 following order, as applicable:
+11 1. The payment of authorized costs of the sale, including all
+12 approved fees and expenses of the referee and any taxes and
+13 assessments due;
+14 2. The payment, in an amount approved by the district court, to
+15 the Attorney General for reimbursement of investigation and
+16 litigation costs and expenses;
+17 3. To bona fide lienholders, in their order of priority, except
+18 for liens which under the terms of the sale are to remain on the
+19 property;
+20 4. To whistleblowers; and
+21 5. To the restricted foreign entity.
+22 G. The responsibility for determining whether an entity is
+23 subject to this section rests solely with the foreign entity, the
+24 Attorney General, any qualifying whistleblower, and no other
+Req. No. 13647 Page 12
+
+1 indi vidual or entity. An individual or entity who is not a foreign
+2 entity shall not be required to determine or inquire whether another
+3 person or entity is or may be subject to the provisions of this
+4 section, and shall bear no civil or criminal liability under the
+5 provisions of this section.
+6 SECTION 5. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 128.4 of Title 60, unless there
+8 is created a duplication in numbering, reads as follows:
+9 A. Any individual may act as a whistleblower and provide a
+10 referral to the Office of the Attorney General for violations of the
+11 provisions of Section 3 and Section 4 of this act.
+12 B. If a whistleblower referral results in a divestiture of land
+13 or other assets held in violation of the provisions of this act, the
+14 whistleblower shall be entitled to a reward equal to thirty percent
+15 (30%) of the proceeds of the land sale that results from violation
+16 of this act.
+17 C. The whistleblower enforcement provision shall take effect
+18 one hundred eighty (180) days after the effective date of this act.
+19 SECTION 6. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 13003 of Title 74, unless there
+21 is created a duplication in numbering, reads as follows:
+22 A. All software used in state infrastructure located within or
+23 serving Oklahoma shall not include any software produced by a
+24
+Req. No. 13647 Page 13
+
+1 fede rally banned corporation, nor any software banned at the federal
+2 level.
+3 B. All software used in state infrastructure located within or
+4 serving Oklahoma shall not include any software produced in or by a
+5 foreign adversary, a state-owned enterprise of a foreign adversary,
+6 or a company domiciled within a foreign adversary.
+7 C. All software used in state infrastructure in operation
+8 within or serving Oklahoma, to include any state infrastructure
+9 which is not permanently disabled, shall have all software
+10 prohibited by subsection A or B of this section removed and replaced
+11 with software which is not prohibited by subsection A or B of this
+12 section.
+13 D. Any state infrastructure provider that removes,
+14 discontinues, or replaces any prohibited software shall not be
+15 required to obtain any additional permits from any state agency or
+16 political subdivision for the removal, discontinuance, or
+17 replacement of such software as long as the state agency or
+18 political subdivision is properly notified of the necessary
+19 replacements and the replacement software is similar to the existing
+20 software.
+21 SECTION 7. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 13004 of Title 74, unless there
+23 is created a duplication in numbering, reads as follows:
+24
+Req. No. 13647 Page 14
+
+1 A. The Office of the Attorney General shall establish a process
+2 by which local officials, states officials, or other persons may
+3 submit information or concerns to the Office regarding non-notified
+4 transactions in Oklahoma. The Office of the Attorney General may
+5 adopt any necessary rules to implement the provisions of this
+6 subsection.
+7 B. The Office of the Attorney General may submit a memorandum
+8 or report concerning non-notified transactions the Attorney General
+9 has identified in Oklahoma to the Committee on Foreign Investment in
+10 the United States.
+11 C. The Office of the Attorney General shall:
+12 1. Retain a copy of any documents submitted to the Committee on
+13 Foreign Investment in the United States that are included with a
+14 memorandum or report submitted under the provisions of subsection B
+15 of this section; and
+16 2. Notify the Legislature and the Governor as soon as
+17 practicable after submitting a memorandum, report, or other
+18 information pursuant to the provisions of subsection B of this
+19 section.
+20 SECTION 8. This act shall become effective November 1, 2025.
+21
+22 60-1-13647 TKR 04/30/25
+23
+24
+Req. No. 13647 Page 15
+
+[DELETED: 5 AS C           O S L           ]
+[DELETED:  PS B H  a CdC]
+[DELETED:  P]
+[DELETED:  P g w t e e t p]
+[DELETED:  P t a a a a]
+[DELETED:  P a]
+[DELETED:  P r r p pB]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P s p p s b]
+[DELETED:  P f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P T 0]
