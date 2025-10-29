@@ -1,0 +1,709 @@
+Title: 4 SENATE BILL NO. 1083 By: Weaver of the Senate
+Official Title: 4 SENATE BILL NO. 1083 By: Weaver of the Senate
+Number of Sections: 1
+Source: versions - SB1083 (3-26-25) (WEAVER) FS FA1.PDF
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 FLOOR SUBSTITUTE
+FOR
+5 and
+6 Lepak of the House
+7
+8
+9 FLOOR SUBSTITUTE
+10 [ digital assets - kiosks - licensure - disclosures
+- receipt - transactions - customer services -
+11 promulgation of rules - codification - effective
+date ]
+12
+13
+14
+15
+16 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17 SECTION 1. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 1520 of Title 6, unless there is
+19 created a duplication in numbering, reads as follows:
+20 As used in this act:
+21 1. “Blockchain analytics” means the analysis of data from
+22 blockchains or publicly distributed ledgers including, but not
+23 limited to, associated transaction information;
+24
+Req. No. 1965 Page 1
+1 2. “Blockchain technology” means the same as defined in Section
+2 1359 of Title 68 of the Oklahoma Statutes;
+3 3. “Currency” means the same as defined in Section 1512 of
+4 Title 6 of the Oklahoma Statutes;
+5 4. “Digital assets” means the same as defined in Section 1359
+6 of Title 68 of the Oklahoma Statutes;
+7 5. “Digital asset address” means an alphanumeric identifier
+8 associated with a digital asset wallet identifying the location to
+9 which a digital asset transaction can be sent;
+10 6. “Digital asset wallet” means a software application or other
+11 mechanism providing a means to hold, store, or transfer digital
+12 assets;
+13 7. “Digital asset kiosk” means an electronic terminal acting as
+14 a mechanical agent of the digital asset kiosk operator to enable the
+15 digital asset kiosk operator to facilitate the exchange of digital
+16 assets for money, bank credit, or other digital asset including, but
+17 not limited to:
+18 a. connecting directly to a separate digital asset
+19 exchange that performs the actual digital asset
+20 transmission, or
+21 b. drawing upon the digital asset in the possession of
+22 the electronic terminal’s operator;
+23
+24
+Req. No. 1965 Page 2
+1 8. “Digital asset kiosk operator” means a person or entity that
+2 owns, operates, or manages a digital asset kiosk located in this
+3 state offering digital asset kiosk transactions;
+4 9. “Digital asset kiosk transaction” means a transaction
+5 conducted or performed, in whole or in part, by electronic means via
+6 a digital asset kiosk. Digital asset kiosk transaction shall also
+7 mean a transaction made at a digital asset kiosk to purchase digital
+8 assets with currency or to sell digital assets for currency;
+9 10. “New customer” means an individual who has never previously
+10 transacted with a digital asset kiosk operator. The new customer
+11 shall remain defined as such during the seventy-two (72) hours after
+12 the first financial transaction with the digital asset kiosk
+13 operator; and
+14 11. “Transaction hash” means a unique identifier made up of a
+15 string of characters that acts as a record of and provides proof
+16 that the transaction was verified and added to the blockchain.
+17 SECTION 2. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 1520.1 of Title 6, unless there
+19 is created a duplication in numbering, reads as follows:
+20 A. A digital asset kiosk operator shall not engage in digital
+21 asset kiosk transactions or hold itself out as being able to engage
+22 in digital asset kiosk transactions with or on behalf of another
+23 person unless the digital asset kiosk operator is licensed in this
+24
+Req. No. 1965 Page 3
+1 stat e as a money transmitter pursuant to the Oklahoma Financial
+2 Transaction Reporting Act.
+3 1. Any digital asset kiosk operator acting in violation of this
+4 subsection shall, upon conviction, be guilty of a misdemeanor,
+5 punishable by a fine not less than Six Hundred Dollars ($600.00) nor
+6 more than Two Thousand Dollars ($2,000.00) per violation, or by
+7 imprisonment in the county jail for not less than thirty (30) days
+8 nor more than one (1) year, or by both such fine and imprisonment.
+9 2. Any digital asset kiosk which is used by a digital asset
+10 kiosk operator in violation of this subsection may be seized at the
+11 direction of the Attorney General by any commissioned peace officer
+12 in this state. The procedures set forth in Section 1738 of Title 21
+13 of the Oklahoma Statutes shall apply to any digital asset kiosk
+14 seized under this subsection.
+15 3. The Attorney General is authorized to promulgate rules to
+16 effectuate the provisions of this subsection.
+17 4. Any customer who has been fraudulently induced to engage in
+18 digital asset transactions using a digital asset kiosk operated in
+19 violation of this subsection may file a civil suit against the
+20 digital asset kiosk operator for the amount of any losses sustained
+21 by the customer related to such digital asset transactions.
+22 B. A digital asset kiosk operator shall not locate or relocate,
+23 or allow a third party to locate or relocate, a digital asset kiosk
+24 in this state unless the digital asset kiosk operator has provided
+Req. No. 1965 Page 4
+1 noti ce of intent to locate or relocate a digital asset kiosk to the
+2 Banking Department no less than ten (10) days prior to its
+3 activation. The notice to the Banking Department shall contain the
+4 same information for the digital asset kiosk to be located or
+5 relocated as is required in the quarterly location report pursuant to
+6 subsection C of this section.
+7 C. Each digital asset kiosk operator shall submit a quarterly
+8 report of the location of each digital asset kiosk located within
+9 this state within forty-five (45) days of the end of the calendar
+10 quarter. The location report shall include:
+11 1. The company’s legal name;
+12 2. Any fictitious or trade name;
+13 3. The physical address;
+14 4. The start date of operation of the digital asset kiosk at
+15 each location; and
+16 5. The end date of operation of the digital asset kiosk at each
+17 location, if applicable.
+18 D. A digital asset kiosk operator shall disclose in a clear,
+19 conspicuous, and easily readable manner in the chosen language of
+20 the customer all relevant terms and conditions generally associated
+21 with the products, services, and activities of the digital asset
+22 kiosk operator and digital assets.
+23
+24
+Req. No. 1965 Page 5
+1 1. The digital asset kiosk operator shall receive
+2 acknowledgement of receipt of all disclosures required under this
+3 act through confirmation of consent.
+4 2. The disclosures under this act shall include:
+5 a. a warning, written prominently and in bold type, and
+6 provided separately from the disclosures below,
+7 stating: “WARNING: LOSSES DUE TO FRAUDULENT OR
+8 ACCIDENTAL TRANSACTIONS ARE NOT RECOVERABLE AND
+9 TRANSACTIONS IN DIGITAL ASSETS ARE IRREVERSIBLE.
+10 DIGITAL ASSET TRANSACTIONS MAY BE USED TO STEAL YOUR
+11 MONEY BY CRIMINALS IMPERSONATING THE GOVERNMENT,
+12 ORGANIZATIONS, OR YOUR LOVED ONES. THEY CAN THREATEN
+13 JAIL TIME, SAY YOUR IDENTITY HAS BEEN STOLEN, ALLEGE
+14 YOUR COMPUTER HAS BEEN HACKED, INSIST YOU WITHDRAW
+15 MONEY FROM YOUR BANK ACCOUNT TO PURCHASE DIGITAL
+16 ASSETS, OR A NUMBER OF OTHER SCAMS. IF YOU BELIEVE
+17 YOU ARE BEING SCAMMED, CALL YOUR LOCAL LAW
+18 ENFORCEMENT.”,
+19 b. the material risks associated with digital assets and
+20 digital asset transactions including, but not limited
+21 to:
+22 (1) a warning that once completed, the transaction
+23 may not be reversed,
+24
+Req. No. 1965 Page 6
+1 (2) the digital asset kiosk operator’s liability for
+2 unauthorized digital asset transactions,
+3 (3) the digital asset customer’s liability for
+4 unauthorized currency transactions,
+5 (4) that digital assets are not legal tender, backed
+6 or insured by the government, and accounts and
+7 value balances are not subject to Federal Deposit
+8 Insurance Corporation, National Credit Union
+9 Administration, or Securities Investor Protection
+10 Corporation protections,
+11 (5) that some digital asset transactions are deemed
+12 to be made when recorded on a public ledger,
+13 which may not be the date or time when the person
+14 initiates the transaction,
+15 (6) that a digital asset’s value may be derived from
+16 market participants’ continued willingness to
+17 exchange currency for digital assets, which may
+18 result in the permanent and total loss of a
+19 particular digital asset’s value if the market
+20 for digital assets disappears,
+21 (7) that a person who accepts a digital asset as
+22 payment today is not required to accept and might
+23 not accept a digital asset in the future,
+24
+Req. No. 1965 Page 7
+1 (8) that the volatility and unpredictability of the
+2 price of digital assets relative to currency may
+3 result in a significant loss over a short period,
+4 (9) that the nature of digital assets means that any
+5 technological difficulties experienced by digital
+6 asset kiosk operators may prevent access to or
+7 use of a person’s digital assets, and
+8 (10) that any bond maintained by the digital asset
+9 kiosk operator for the benefit of a person may
+10 not cover all losses a person incurs,
+11 c. the amount of the transaction denominated in United
+12 States dollars as well as the applicable digital
+13 assets,
+14 d. any fees or expenses charged by the digital asset
+15 kiosk operator,
+16 e. any applicable exchange rates,
+17 f. a daily digital asset transaction limit no more than
+18 Two Thousand Dollars ($2,000.00) for new customers,
+19 g. notice of a change in the digital asset kiosk
+20 operator’s rules or policies,
+21 h. the name, address, and telephone number of the owner
+22 of the digital asset kiosk and the days, time, and
+23 means by which a consumer can contact the owner for
+24 customer assistance, displayed on or at the location
+Req. No. 1965 Page 8
+1 of the digital asset kiosk, or on the first screen of
+2 the digital asset kiosk,
+3 i. under what circumstances the digital asset kiosk
+4 operator, without a court or government order,
+5 discloses a person’s account information to third
+6 parties, and
+7 j. other disclosures that are customarily given in
+8 connection with a digital asset transaction.
+9 E. Upon each transaction’s completion, the digital asset kiosk
+10 operator shall provide the customer with a physical receipt in the
+11 language chosen by the customer containing the following
+12 information:
+13 1. The digital asset kiosk operator’s name and contact
+14 information, including a telephone number to answer questions and
+15 register complaints;
+16 2. The type, value, date, and precise time of the transaction,
+17 transaction hash, and each applicable digital asset address;
+18 3. All fees charged;
+19 4. The exchange rate of the digital asset to United States
+20 dollars;
+21 5. A statement of the digital asset kiosk operator’s liability
+22 for non-delivery or delayed delivery; and
+23 6. A statement of the digital asset kiosk operator’s refund
+24 policy.
+Req. No. 1965 Page 9
+1 F. All digital asset kiosk operators shall use blockchain
+2 technology to assist in the prevention of sending purchased digital
+3 assets from a digital asset kiosk operator to a digital asset wallet
+4 known to be affiliated with fraudulent activity at the time of a
+5 transaction. The Banking Department may request evidence from any
+6 digital asset kiosk operator of the current use of blockchain
+7 analytics.
+8 1. All digital asset kiosk operators shall take reasonable
+9 steps to detect and prevent fraud, including establishing and
+10 maintaining a written anti-fraud policy including, but not limited
+11 to:
+12 a. the identification and assessment of fraud-related
+13 risk areas,
+14 b. procedures and controls to protect against identified
+15 risks,
+16 c. allocation of responsibility for monitoring risks, and
+17 d. procedures for the periodic evaluation and revision of
+18 the anti-fraud procedures, controls, and monitoring
+19 mechanisms.
+20 2. Each digital asset kiosk operator shall designate and employ
+21 a compliance officer with the following requirements:
+22 a. the individual shall be qualified to coordinate and
+23 monitor compliance with this act and all other
+24
+Req. No. 1965 Page 10
+1 applicable federal and state laws, rules, and
+2 regulations,
+3 b. the individual shall be employed full-time by the
+4 digital asset kiosk operator,
+5 c. the designated compliance officer cannot be any
+6 individual who owns more than twenty percent (20%) of
+7 the digital asset kiosk operator by whom the
+8 individual is employed, and
+9 d. compliance responsibilities required under federal and
+10 state laws, rules, and regulations shall be completed
+11 by full-time employees of the digital asset kiosk
+12 operator.
+13 3. A digital asset kiosk operator shall issue a refund to a new
+14 customer for the full amount of all fraudulent transactions,
+15 including all transaction fees and charges that were charged to the
+16 customer pursuant to subsection H of this section, made while a new
+17 customer. To receive a refund under this section, a new customer
+18 shall have been fraudulently induced to engage in the digital asset
+19 transactions and shall contact the digital asset kiosk operator and
+20 the Office of the Attorney General to report the fraudulent nature
+21 of the transactions within fourteen (14) days of the last fraudulent
+22 transaction to occur while the customer was a new customer.
+23 4. A digital asset kiosk operator shall issue a refund to an
+24 existing customer who qualifies under this paragraph for the full
+Req. No. 1965 Page 11
+1 amou nt of all transaction fees and charges that were charged to the
+2 customer pursuant to subsection H of this section upon the request
+3 of the customer. To receive a refund under this paragraph, a
+4 customer shall have been fraudulently induced to engage in digital
+5 asset transactions and shall contact the digital asset kiosk
+6 operator and the Office of the Attorney General to report the
+7 fraudulent nature of the transaction within fourteen (14) days of
+8 the transaction.
+9 G. A digital asset kiosk operator shall not accept transactions
+10 more than Two Thousand Dollars ($2,000.00), or the equivalent in
+11 digital assets, in a single day in connection with digital asset
+12 kiosk transactions with a new customer in this state by one or more
+13 digital asset kiosks.
+14 H. The aggregate fees and charges directly or indirectly
+15 charged to a customer related to a single transaction or series of
+16 related transactions involving digital assets effected through a
+17 digital asset kiosk in this state, including any difference between
+18 the price charged to a customer to buy, sell, exchange, swap, or
+19 convert digital assets and the prevailing market value of such
+20 digital assets at the time of such transaction, shall not exceed
+21 fifteen percent (15%) of the United States dollar equivalent of the
+22 digital assets involved in the transaction or transactions.
+23 I. All digital asset kiosk operators performing business in
+24 this state shall provide live customer service at a minimum Monday
+Req. No. 1965 Page 12
+1 thro ugh Friday from 8:00 am CST to 10:00 pm CST. The customer
+2 service toll-free number shall be displayed on the digital asset
+3 kiosk or the digital asset kiosk screens.
+4 J. The Banking Department is authorized to promulgate rules
+5 necessary to implement the provisions of this act.
+6 SECTION 3. This act shall become effective November 1, 2025.
+7
+8 60-1-1965 CN 3/26/2025 11:47:52 AM
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 1965 Page 13
+[DELETED:  PS B W  a L]
+[DELETED:  P c d]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a t a]
+[DELETED:  P t t t t t t]
+[DELETED:  P t t t a a a n t]
+[DELETED:  P u o]
+[DELETED:  P t p a p t]
+[DELETED:  P t t c]
+[DELETED:  P]
+[DELETED:  P C 3]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 FLOOR SUBSTITUTE
+FOR
+4 SENATE BILL NO. 1083 By: Weaver of the Senate
+5 and
+6 Lepak of the House
+7
+8
+9 FLOOR SUBSTITUTE
+10 [ digital assets - kiosks - licensure - disclosures
+- receipt - transactions - customer services -
+11 promulgation of rules - codification - effective
+date ]
+12
+13
+14
+15
+16 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17 SECTION 1. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 1520 of Title 6, unless there is
+19 created a duplication in numbering, reads as follows:
+20 As used in this act:
+21 1. “Blockchain analytics” means the analysis of data from
+22 blockchains or publicly distributed ledgers including, but not
+23 limited to, associated transaction information;
+24
+Req. No. 1965 Page 1
+
+1 2. “Blockchain technology” means the same as defined in Section
+2 1359 of Title 68 of the Oklahoma Statutes;
+3 3. “Currency” means the same as defined in Section 1512 of
+4 Title 6 of the Oklahoma Statutes;
+5 4. “Digital assets” means the same as defined in Section 1359
+6 of Title 68 of the Oklahoma Statutes;
+7 5. “Digital asset address” means an alphanumeric identifier
+8 associated with a digital asset wallet identifying the location to
+9 which a digital asset transaction can be sent;
+10 6. “Digital asset wallet” means a software application or other
+11 mechanism providing a means to hold, store, or transfer digital
+12 assets;
+13 7. “Digital asset kiosk” means an electronic terminal acting as
+14 a mechanical agent of the digital asset kiosk operator to enable the
+15 digital asset kiosk operator to facilitate the exchange of digital
+16 assets for money, bank credit, or other digital asset including, but
+17 not limited to:
+18 a. connecting directly to a separate digital asset
+19 exchange that performs the actual digital asset
+20 transmission, or
+21 b. drawing upon the digital asset in the possession of
+22 the electronic terminal’s operator;
+23
+24
+Req. No. 1965 Page 2
+
+1 8. “Digital asset kiosk operator” means a person or entity that
+2 owns, operates, or manages a digital asset kiosk located in this
+3 state offering digital asset kiosk transactions;
+4 9. “Digital asset kiosk transaction” means a transaction
+5 conducted or performed, in whole or in part, by electronic means via
+6 a digital asset kiosk. Digital asset kiosk transaction shall also
+7 mean a transaction made at a digital asset kiosk to purchase digital
+8 assets with currency or to sell digital assets for currency;
+9 10. “New customer” means an individual who has never previously
+10 transacted with a digital asset kiosk operator. The new customer
+11 shall remain defined as such during the seventy-two (72) hours after
+12 the first financial transaction with the digital asset kiosk
+13 operator; and
+14 11. “Transaction hash” means a unique identifier made up of a
+15 string of characters that acts as a record of and provides proof
+16 that the transaction was verified and added to the blockchain.
+17 SECTION 2. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 1520.1 of Title 6, unless there
+19 is created a duplication in numbering, reads as follows:
+20 A. A digital asset kiosk operator shall not engage in digital
+21 asset kiosk transactions or hold itself out as being able to engage
+22 in digital asset kiosk transactions with or on behalf of another
+23 person unless the digital asset kiosk operator is licensed in this
+24
+Req. No. 1965 Page 3
+
+1 stat e as a money transmitter pursuant to the Oklahoma Financial
+2 Transaction Reporting Act.
+3 1. Any digital asset kiosk operator acting in violation of this
+4 subsection shall, upon conviction, be guilty of a misdemeanor,
+5 punishable by a fine not less than Six Hundred Dollars ($600.00) nor
+6 more than Two Thousand Dollars ($2,000.00) per violation, or by
+7 imprisonment in the county jail for not less than thirty (30) days
+8 nor more than one (1) year, or by both such fine and imprisonment.
+9 2. Any digital asset kiosk which is used by a digital asset
+10 kiosk operator in violation of this subsection may be seized at the
+11 direction of the Attorney General by any commissioned peace officer
+12 in this state. The procedures set forth in Section 1738 of Title 21
+13 of the Oklahoma Statutes shall apply to any digital asset kiosk
+14 seized under this subsection.
+15 3. The Attorney General is authorized to promulgate rules to
+16 effectuate the provisions of this subsection.
+17 4. Any customer who has been fraudulently induced to engage in
+18 digital asset transactions using a digital asset kiosk operated in
+19 violation of this subsection may file a civil suit against the
+20 digital asset kiosk operator for the amount of any losses sustained
+21 by the customer related to such digital asset transactions.
+22 B. A digital asset kiosk operator shall not locate or relocate,
+23 or allow a third party to locate or relocate, a digital asset kiosk
+24 in this state unless the digital asset kiosk operator has provided
+Req. No. 1965 Page 4
+
+1 noti ce of intent to locate or relocate a digital asset kiosk to the
+2 Banking Department no less than ten (10) days prior to its
+3 activation. The notice to the Banking Department shall contain the
+4 same information for the digital asset kiosk to be located or
+5 relocated as is required in the quarterly location report pursuant to
+6 subsection C of this section.
+7 C. Each digital asset kiosk operator shall submit a quarterly
+8 report of the location of each digital asset kiosk located within
+9 this state within forty-five (45) days of the end of the calendar
+10 quarter. The location report shall include:
+11 1. The company’s legal name;
+12 2. Any fictitious or trade name;
+13 3. The physical address;
+14 4. The start date of operation of the digital asset kiosk at
+15 each location; and
+16 5. The end date of operation of the digital asset kiosk at each
+17 location, if applicable.
+18 D. A digital asset kiosk operator shall disclose in a clear,
+19 conspicuous, and easily readable manner in the chosen language of
+20 the customer all relevant terms and conditions generally associated
+21 with the products, services, and activities of the digital asset
+22 kiosk operator and digital assets.
+23
+24
+Req. No. 1965 Page 5
+
+1 1. The digital asset kiosk operator shall receive
+2 acknowledgement of receipt of all disclosures required under this
+3 act through confirmation of consent.
+4 2. The disclosures under this act shall include:
+5 a. a warning, written prominently and in bold type, and
+6 provided separately from the disclosures below,
+7 stating: “WARNING: LOSSES DUE TO FRAUDULENT OR
+8 ACCIDENTAL TRANSACTIONS ARE NOT RECOVERABLE AND
+9 TRANSACTIONS IN DIGITAL ASSETS ARE IRREVERSIBLE.
+10 DIGITAL ASSET TRANSACTIONS MAY BE USED TO STEAL YOUR
+11 MONEY BY CRIMINALS IMPERSONATING THE GOVERNMENT,
+12 ORGANIZATIONS, OR YOUR LOVED ONES. THEY CAN THREATEN
+13 JAIL TIME, SAY YOUR IDENTITY HAS BEEN STOLEN, ALLEGE
+14 YOUR COMPUTER HAS BEEN HACKED, INSIST YOU WITHDRAW
+15 MONEY FROM YOUR BANK ACCOUNT TO PURCHASE DIGITAL
+16 ASSETS, OR A NUMBER OF OTHER SCAMS. IF YOU BELIEVE
+17 YOU ARE BEING SCAMMED, CALL YOUR LOCAL LAW
+18 ENFORCEMENT.”,
+19 b. the material risks associated with digital assets and
+20 digital asset transactions including, but not limited
+21 to:
+22 (1) a warning that once completed, the transaction
+23 may not be reversed,
+24
+Req. No. 1965 Page 6
+
+1 (2) the digital asset kiosk operator’s liability for
+2 unauthorized digital asset transactions,
+3 (3) the digital asset customer’s liability for
+4 unauthorized currency transactions,
+5 (4) that digital assets are not legal tender, backed
+6 or insured by the government, and accounts and
+7 value balances are not subject to Federal Deposit
+8 Insurance Corporation, National Credit Union
+9 Administration, or Securities Investor Protection
+10 Corporation protections,
+11 (5) that some digital asset transactions are deemed
+12 to be made when recorded on a public ledger,
+13 which may not be the date or time when the person
+14 initiates the transaction,
+15 (6) that a digital asset’s value may be derived from
+16 market participants’ continued willingness to
+17 exchange currency for digital assets, which may
+18 result in the permanent and total loss of a
+19 particular digital asset’s value if the market
+20 for digital assets disappears,
+21 (7) that a person who accepts a digital asset as
+22 payment today is not required to accept and might
+23 not accept a digital asset in the future,
+24
+Req. No. 1965 Page 7
+
+1 (8) that the volatility and unpredictability of the
+2 price of digital assets relative to currency may
+3 result in a significant loss over a short period,
+4 (9) that the nature of digital assets means that any
+5 technological difficulties experienced by digital
+6 asset kiosk operators may prevent access to or
+7 use of a person’s digital assets, and
+8 (10) that any bond maintained by the digital asset
+9 kiosk operator for the benefit of a person may
+10 not cover all losses a person incurs,
+11 c. the amount of the transaction denominated in United
+12 States dollars as well as the applicable digital
+13 assets,
+14 d. any fees or expenses charged by the digital asset
+15 kiosk operator,
+16 e. any applicable exchange rates,
+17 f. a daily digital asset transaction limit no more than
+18 Two Thousand Dollars ($2,000.00) for new customers,
+19 g. notice of a change in the digital asset kiosk
+20 operator’s rules or policies,
+21 h. the name, address, and telephone number of the owner
+22 of the digital asset kiosk and the days, time, and
+23 means by which a consumer can contact the owner for
+24 customer assistance, displayed on or at the location
+Req. No. 1965 Page 8
+
+1 of the digital asset kiosk, or on the first screen of
+2 the digital asset kiosk,
+3 i. under what circumstances the digital asset kiosk
+4 operator, without a court or government order,
+5 discloses a person’s account information to third
+6 parties, and
+7 j. other disclosures that are customarily given in
+8 connection with a digital asset transaction.
+9 E. Upon each transaction’s completion, the digital asset kiosk
+10 operator shall provide the customer with a physical receipt in the
+11 language chosen by the customer containing the following
+12 information:
+13 1. The digital asset kiosk operator’s name and contact
+14 information, including a telephone number to answer questions and
+15 register complaints;
+16 2. The type, value, date, and precise time of the transaction,
+17 transaction hash, and each applicable digital asset address;
+18 3. All fees charged;
+19 4. The exchange rate of the digital asset to United States
+20 dollars;
+21 5. A statement of the digital asset kiosk operator’s liability
+22 for non-delivery or delayed delivery; and
+23 6. A statement of the digital asset kiosk operator’s refund
+24 policy.
+Req. No. 1965 Page 9
+
+1 F. All digital asset kiosk operators shall use blockchain
+2 technology to assist in the prevention of sending purchased digital
+3 assets from a digital asset kiosk operator to a digital asset wallet
+4 known to be affiliated with fraudulent activity at the time of a
+5 transaction. The Banking Department may request evidence from any
+6 digital asset kiosk operator of the current use of blockchain
+7 analytics.
+8 1. All digital asset kiosk operators shall take reasonable
+9 steps to detect and prevent fraud, including establishing and
+10 maintaining a written anti-fraud policy including, but not limited
+11 to:
+12 a. the identification and assessment of fraud-related
+13 risk areas,
+14 b. procedures and controls to protect against identified
+15 risks,
+16 c. allocation of responsibility for monitoring risks, and
+17 d. procedures for the periodic evaluation and revision of
+18 the anti-fraud procedures, controls, and monitoring
+19 mechanisms.
+20 2. Each digital asset kiosk operator shall designate and employ
+21 a compliance officer with the following requirements:
+22 a. the individual shall be qualified to coordinate and
+23 monitor compliance with this act and all other
+24
+Req. No. 1965 Page 10
+
+1 applicable federal and state laws, rules, and
+2 regulations,
+3 b. the individual shall be employed full-time by the
+4 digital asset kiosk operator,
+5 c. the designated compliance officer cannot be any
+6 individual who owns more than twenty percent (20%) of
+7 the digital asset kiosk operator by whom the
+8 individual is employed, and
+9 d. compliance responsibilities required under federal and
+10 state laws, rules, and regulations shall be completed
+11 by full-time employees of the digital asset kiosk
+12 operator.
+13 3. A digital asset kiosk operator shall issue a refund to a new
+14 customer for the full amount of all fraudulent transactions,
+15 including all transaction fees and charges that were charged to the
+16 customer pursuant to subsection H of this section, made while a new
+17 customer. To receive a refund under this section, a new customer
+18 shall have been fraudulently induced to engage in the digital asset
+19 transactions and shall contact the digital asset kiosk operator and
+20 the Office of the Attorney General to report the fraudulent nature
+21 of the transactions within fourteen (14) days of the last fraudulent
+22 transaction to occur while the customer was a new customer.
+23 4. A digital asset kiosk operator shall issue a refund to an
+24 existing customer who qualifies under this paragraph for the full
+Req. No. 1965 Page 11
+
+1 amou nt of all transaction fees and charges that were charged to the
+2 customer pursuant to subsection H of this section upon the request
+3 of the customer. To receive a refund under this paragraph, a
+4 customer shall have been fraudulently induced to engage in digital
+5 asset transactions and shall contact the digital asset kiosk
+6 operator and the Office of the Attorney General to report the
+7 fraudulent nature of the transaction within fourteen (14) days of
+8 the transaction.
+9 G. A digital asset kiosk operator shall not accept transactions
+10 more than Two Thousand Dollars ($2,000.00), or the equivalent in
+11 digital assets, in a single day in connection with digital asset
+12 kiosk transactions with a new customer in this state by one or more
+13 digital asset kiosks.
+14 H. The aggregate fees and charges directly or indirectly
+15 charged to a customer related to a single transaction or series of
+16 related transactions involving digital assets effected through a
+17 digital asset kiosk in this state, including any difference between
+18 the price charged to a customer to buy, sell, exchange, swap, or
+19 convert digital assets and the prevailing market value of such
+20 digital assets at the time of such transaction, shall not exceed
+21 fifteen percent (15%) of the United States dollar equivalent of the
+22 digital assets involved in the transaction or transactions.
+23 I. All digital asset kiosk operators performing business in
+24 this state shall provide live customer service at a minimum Monday
+Req. No. 1965 Page 12
+
+1 thro ugh Friday from 8:00 am CST to 10:00 pm CST. The customer
+2 service toll-free number shall be displayed on the digital asset
+3 kiosk or the digital asset kiosk screens.
+4 J. The Banking Department is authorized to promulgate rules
+5 necessary to implement the provisions of this act.
+6 SECTION 3. This act shall become effective November 1, 2025.
+7
+8 60-1-1965 CN 3/26/2025 11:47:52 AM
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 1965 Page 13
+
+[DELETED:  PS B W  a L]
+[DELETED:  P c d]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a t a]
+[DELETED:  P t t t t t t]
+[DELETED:  P t t t a a a n t]
+[DELETED:  P u o]
+[DELETED:  P t p a p t]
+[DELETED:  P t t c]
+[DELETED:  P]
+[DELETED:  P C 3]

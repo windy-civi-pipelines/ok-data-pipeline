@@ -1,0 +1,463 @@
+Title: SENATE BILL 109 By: Stanley
+Official Title: SENATE BILL 109 By: Stanley
+Number of Sections: 10
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to health insurance; defining terms;
+7
+requiring coverage of certain genetic testing and
+8
+cancer imaging; specifying terms of coverage;
+8
+providing certain exclusions; providing for
+9
+codification; and providing an effective date.
+9
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 6060.5b of Title 36, unless
+14
+15
+there is created a duplication in numbering, reads as follows:
+15
+16
+A. For the purposes of this section:
+16
+17
+
+Section 3:
+1. “Clinical utility” means clinical utility as defined
+17
+18
+pursuant to Section 6060.5a of Title 36 of the Oklahoma Statutes;
+18
+19
+
+Section 4:
+2. “Evidence-based cancer imaging” means appropriate
+19
+20
+preventative screening and imaging supported by evidence;
+20
+21
+
+Section 5:
+3. “Genetic testing for an inherited mutation” means multi-gene
+21
+22
+testing for an inherited mutation associated with an increased risk
+22
+23
+of cancer;
+23
+24
+24
+Req. No. 52 Page 1
+1
+
+Section 6:
+4. “Health benefit plan” means a health benefit plan as defined
+1
+2
+pursuant to Section 6060.4 of Title 36 of the Oklahoma Statutes; and
+2
+3
+
+Section 7:
+5. “Health care provider” means any physician, hospital, or
+3
+4
+other entity or person that is licensed or otherwise authorized in
+4
+5
+this state to furnish health care services.
+5
+6
+B. Any health benefit plan including the Oklahoma Employees
+6
+7
+Insurance Plan that is offered, issued, or renewed in this state on
+7
+8
+or after the effective date of this act shall provide coverage for:
+8
+9
+
+Section 8:
+1. Clinical genetic testing for an inherited gene mutation for
+9
+10
+individuals with a personal or family history of cancer when such
+10
+11
+test provides clinical utility and when ordered or recommended by a
+11
+12
+health care provider in accordance with medical and scientific
+12
+13
+evidence including, but not limited to:
+13
+14
+a. the most recent version of the National Comprehensive
+14
+15
+Cancer Network (NCCN) clinical practice
+15
+16
+recommendations that are Category 2A or higher,
+16
+17
+b. Centers for Medicare and Medicaid Services national
+17
+18
+coverage determinations or Medicare administrative
+18
+19
+contractor local coverage determinations, or
+19
+20
+c. nationally recognized clinical practice guidelines;
+20
+21
+and
+21
+22
+
+Section 9:
+2. Evidence-based cancer imaging for individuals with an
+22
+23
+increased risk of cancer when such test provides clinical utility
+23
+24
+and when ordered or recommended by a health care provider in
+24
+Req. No. 52 Page 2
+1
+accordance with the most recent version of the NCCN clinical
+1
+2
+practice recommendations that are Category 2A or higher, or in
+2
+3
+accordance with other nationally recognized clinical practice
+3
+4
+guidelines.
+4
+5
+C. Coverage under this section shall not be subject to any
+5
+6
+annual deductibles, copayments, or coinsurance limits as established
+6
+7
+for all covered benefits under the health benefit plan.
+7
+8
+D. If application of this section would result in health
+8
+9
+savings account ineligibility under Section 223 of the Internal
+9
+10
+Revenue Code of 1986, as amended, the provisions of this section
+10
+11
+shall only apply to health savings accounts with qualified high
+11
+12
+deductible health plans with respect to the deductible of such a
+12
+13
+plan after the enrollee has satisfied the minimum deductible.
+13
+14
+Provided, however, the provisions of this section shall apply to
+14
+15
+items or services that are preventive care pursuant to Section
+15
+16
+223(c)(2)(C) of the Internal Revenue Code of 1986, as amended,
+16
+17
+regardless of whether the minimum deductible has been satisfied.
+17
+18
+
+Section 10:
+SECTION 2. This act shall become effective November 1, 2025.
+18
+19
+19
+20
+60-1-52 CAD 12/23/2024 1:12:51 PM
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 52 Page 3
+[DELETED:  P B S]
+[DELETED:  P t C n]
+[DELETED:  P C 1 ]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 109 By: Stanley
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to health insurance; defining terms;
+7
+requiring coverage of certain genetic testing and
+8
+cancer imaging; specifying terms of coverage;
+8
+providing certain exclusions; providing for
+9
+codification; and providing an effective date.
+9
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+SECTION 1. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 6060.5b of Title 36, unless
+14
+15
+there is created a duplication in numbering, reads as follows:
+15
+16
+A. For the purposes of this section:
+16
+17
+1. “Clinical utility” means clinical utility as defined
+17
+18
+pursuant to Section 6060.5a of Title 36 of the Oklahoma Statutes;
+18
+19
+2. “Evidence-based cancer imaging” means appropriate
+19
+20
+preventative screening and imaging supported by evidence;
+20
+21
+3. “Genetic testing for an inherited mutation” means multi-gene
+21
+22
+testing for an inherited mutation associated with an increased risk
+22
+23
+of cancer;
+23
+24
+24
+Req. No. 52 Page 1
+
+1
+4. “Health benefit plan” means a health benefit plan as defined
+1
+2
+pursuant to Section 6060.4 of Title 36 of the Oklahoma Statutes; and
+2
+3
+5. “Health care provider” means any physician, hospital, or
+3
+4
+other entity or person that is licensed or otherwise authorized in
+4
+5
+this state to furnish health care services.
+5
+6
+B. Any health benefit plan including the Oklahoma Employees
+6
+7
+Insurance Plan that is offered, issued, or renewed in this state on
+7
+8
+or after the effective date of this act shall provide coverage for:
+8
+9
+1. Clinical genetic testing for an inherited gene mutation for
+9
+10
+individuals with a personal or family history of cancer when such
+10
+11
+test provides clinical utility and when ordered or recommended by a
+11
+12
+health care provider in accordance with medical and scientific
+12
+13
+evidence including, but not limited to:
+13
+14
+a. the most recent version of the National Comprehensive
+14
+15
+Cancer Network (NCCN) clinical practice
+15
+16
+recommendations that are Category 2A or higher,
+16
+17
+b. Centers for Medicare and Medicaid Services national
+17
+18
+coverage determinations or Medicare administrative
+18
+19
+contractor local coverage determinations, or
+19
+20
+c. nationally recognized clinical practice guidelines;
+20
+21
+and
+21
+22
+2. Evidence-based cancer imaging for individuals with an
+22
+23
+increased risk of cancer when such test provides clinical utility
+23
+24
+and when ordered or recommended by a health care provider in
+24
+Req. No. 52 Page 2
+
+1
+accordance with the most recent version of the NCCN clinical
+1
+2
+practice recommendations that are Category 2A or higher, or in
+2
+3
+accordance with other nationally recognized clinical practice
+3
+4
+guidelines.
+4
+5
+C. Coverage under this section shall not be subject to any
+5
+6
+annual deductibles, copayments, or coinsurance limits as established
+6
+7
+for all covered benefits under the health benefit plan.
+7
+8
+D. If application of this section would result in health
+8
+9
+savings account ineligibility under Section 223 of the Internal
+9
+10
+Revenue Code of 1986, as amended, the provisions of this section
+10
+11
+shall only apply to health savings accounts with qualified high
+11
+12
+deductible health plans with respect to the deductible of such a
+12
+13
+plan after the enrollee has satisfied the minimum deductible.
+13
+14
+Provided, however, the provisions of this section shall apply to
+14
+15
+items or services that are preventive care pursuant to Section
+15
+16
+223(c)(2)(C) of the Internal Revenue Code of 1986, as amended,
+16
+17
+regardless of whether the minimum deductible has been satisfied.
+17
+18
+SECTION 2. This act shall become effective November 1, 2025.
+18
+19
+19
+20
+60-1-52 CAD 12/23/2024 1:12:51 PM
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 52 Page 3
+
+[DELETED:  P B S]
+[DELETED:  P t C n]
+[DELETED:  P C 1 ]
