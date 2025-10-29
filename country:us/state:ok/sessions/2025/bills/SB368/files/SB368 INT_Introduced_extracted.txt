@@ -1,0 +1,923 @@
+Title: 3 SENATE BILL 368 By: Guthrie
+Official Title: 3 SENATE BILL 368 By: Guthrie
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+1
+2 1st Session of the 60th Legislature (2025)
+2
+3
+4
+4
+5
+5
+6 AS INTRODUCED
+6
+7 An Act relating to the Oklahoma Vessel and Motor
+7 Registration Act; amending 63 O.S. 2021, Section
+8 4002, as amended by Section 199, Chapter 282, O.S.L.
+8 2022 (63 O.S. Supp. 2024, Section 4002), which
+9 relates to definitions; modifying certain definition;
+9 updating statutory language; and providing an
+10 effective date.
+10
+11
+11
+12
+12
+13 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14 SECTION 1. AMENDATORY 63 O.S. 2021, Section 4002, as
+14
+15 amended by Section 199, Chapter 282, O.S.L. 2022 (63 O.S. Supp.
+15
+16 2024, Section 4002), is amended to read as follows:
+16
+17 Section 4002. As used in the Oklahoma Vessel and Motor
+17
+18 Registration Act:
+18
+19 1. “Boat livery” means a business establishment engaged in
+19
+20 renting or hiring out vessels for profit;
+20
+21 2. “Canoe” means a light narrow vessel with both ends typically
+21
+22 tapered to a sharp point which is propelled solely by its occupants,
+22
+23 using a single-bladed paddle as a lever without the aid of a fulcrum
+23
+24 provided by oarlocks, thole pins, crutches, or similar arrangements;
+24
+Req. No. 1230 Page 1
+1 3. “Certificate of documentation” means a document issued by
+1
+2 the United States Coast Guard which is legal proof of ownership of a
+2
+3 vessel;
+3
+4 4. “Certificate of registration” means a document which is
+4
+5 legal proof of registration of a vessel or motor;
+5
+6 5. “Certificate of title” means a document which is proof of
+6
+7 legal ownership of a vessel and/or or motor;
+7
+8 6. “Service Oklahoma” means:
+8
+9 a. Service Oklahoma, or
+9
+10 b. the equivalent vessel registration and licensing
+10
+11 agency of a federally recognized Indian tribe in this
+11
+12 state;
+12
+13 7. “Dealer” means any person engaged in the business of
+13
+14 selling, trading, renting with option to purchase, or attempting to
+14
+15 negotiate or negotiating sales or exchanges of interests in new or
+15
+16 used vessels or motors, or new and used vessels or motors, or any
+16
+17 combination thereof;
+17
+18 8. “Dealer agreement” means the agreement, authorization, or
+18
+19 written contract between a manufacturer and distributor and a new
+19
+20 vessel dealer which purports to establish the legal rights and
+20
+21 obligations of the parties to the agreement, authorization, or
+21
+22 written contract with regard to the purchase and sale of new vessels
+22
+23 or new motors;
+23
+24
+24
+Req. No. 1230 Page 2
+1 9. “Designated successor” means one or more persons nominated
+1
+2 by the new vessel dealer, in a written document filed by the dealer
+2
+3 with the manufacturer or distributor at the time the dealer
+3
+4 agreement is executed, to succeed the dealer in the event of the
+4
+5 dealer’s death or incapacity. If a designated successor is not able
+5
+6 to succeed the new vessel dealer because of the designated
+6
+7 successor’s death or legal incapacity, the dealer shall execute a
+7
+8 new document nominating a designated successor within sixty (60)
+8
+9 calendar days after the date of the death or incapacity;
+9
+10 10. “Distributor” means a person, resident or nonresident, who
+10
+11 in whole or in part offers for sale, sells, or distributes a new
+11
+12 vessel or new motor to a new vessel dealer or who maintains a
+12
+13 factory representative, resident or nonresident, or who controls a
+13
+14 person, resident or nonresident, who in whole or in part offers for
+14
+15 sale, sells, or distributes a new vessel or new motor to a new
+15
+16 vessel dealer;
+16
+17 11. “Distributor branch” means a branch office similarly
+17
+18 maintained by a distributor or wholesaler for the same purposes a
+18
+19 factory branch is maintained;
+19
+20 12. “Distributor representative” means any person, firm,
+20
+21 association, corporation, or trust and each officer and employee
+21
+22 thereof engaged as a representative of a distributor or distributor
+22
+23 branch of vessels or motors, for the purpose of making or promoting
+23
+24 the sale of his or, her, its, or their vessels or motors, or for
+24
+Req. No. 1230 Page 3
+1 supe rvising or contacting his, her, its, or their dealers or
+1
+2 prospective dealers;
+2
+3 13. “Documented vessel” means any vessel in this state which
+3
+4 shall have and carry on board the original certificate of
+4
+5 documentation in legible form as issued by the United States Coast
+5
+6 Guard or federal agency successor thereto. All documented vessels
+6
+7 shall be required to display a current State of Oklahoma annual
+7
+8 registration decal;
+8
+9 14. “Factory branch” means a branch office maintained by a
+9
+10 person, firm, association, corporation, or trust who manufactures or
+10
+11 assembles vessels or motors for the sale of vessels or motors to
+11
+12 distributors, or for the sale of vessels or motors to dealers, or
+12
+13 for directing or supervising, in whole or in part, its
+13
+14 representatives;
+14
+15 15. “Factory representative” means any person, firm,
+15
+16 association, corporation, or trust and each officer and employee
+16
+17 thereof engaged as a representative of a manufacturer of vessels or
+17
+18 motors or by a factory branch, for the purpose of making or
+18
+19 promoting the sale of his, her, its, or their vessels or motors, or
+19
+20 for supervising or contacting his, her, its, or their dealers or
+20
+21 prospective dealers;
+21
+22 16. “Hull identification number” means the serial number
+22
+23 affixed to the outside of the hull of a vessel on the upper
+23
+24
+24
+Req. No. 1230 Page 4
+1 star board side (right) corner of the transom (back wall) which is
+1
+2 assigned by the manufacturer or Service Oklahoma;
+2
+3 17. “Inboard motor” means an internal combustion engine mounted
+3
+4 inside a vessel which provides the transfer of power to move a
+4
+5 vessel through the water;
+5
+6 18. “Inboard/outboard motor” means an internal combustion
+6
+7 engine mounted inside a vessel and an external stern drive attached
+7
+8 through the transom of the vessel providing the transfer of power to
+8
+9 move the vessel through the water;
+9
+10 19. “John boat” “Johnboat” means a narrow, flat-bottomed
+10
+11 square-ended vessel propelled by a pole, paddle, or a motor of less
+11
+12 than ten (10) horsepower;
+12
+13 20. “Kayak” means a light, narrow vessel with both ends
+13
+14 typically tapered to a sharp point and propelled by double-bladed
+14
+15 paddles as a lever without the aid of a fulcrum provided by
+15
+16 oarlocks, thole pins, crutches or similar arrangements by human
+16
+17 muscular effort by one or more individuals seated inside or on top
+17
+18 of the vessel and facing the direction of travel using double-bladed
+18
+19 paddles, hand cranks, or pedals;
+19
+20 21. “Kiteboard” means a vessel, similar in appearance to a
+20
+21 surfboard, with or without foot straps or bindings, combined with a
+21
+22 large controllable kite to propel the rider and board across the
+22
+23 water;
+23
+24
+24
+Req. No. 1230 Page 5
+1 22. “Lifeboat” means a vessel carried on another vessel in
+1
+2 excess of sixty-five (65) feet for use if such other vessel has to
+2
+3 be abandoned;
+3
+4 23. “Manufacturer” means a person who manufactures or assembles
+4
+5 new vessels or new motors, or a distributor, factory branch, or
+5
+6 factory representative;
+6
+7 24. “Motor” means any internal combustion engine mounted at the
+7
+8 stern of a vessel or placed inside a vessel which provides the
+8
+9 transfer of power to move the vessel through the water;
+9
+10 25. “New vessel dealer” means a person who holds a dealer
+10
+11 agreement granted by a manufacturer or distributor for the sale of
+11
+12 the manufacturer’s or distributor’s vessels or motors, who is
+12
+13 engaged in the business of purchasing, selling, exchanging, or
+13
+14 dealing in new vessels or new motors, and who has an established
+14
+15 place of business;
+15
+16 26. “Operate” means to navigate or be in actual physical
+16
+17 control of a vessel or otherwise use a vessel or motor;
+17
+18 27. “Outboard motor” means an internal combustion engine
+18
+19 capable of being externally mounted at the stern of a vessel which
+19
+20 provides the transfer of power to move a vessel through the water;
+20
+21 28. “Owner” means a person, other than a lienholder, having a
+21
+22 property interest in or title to a vessel or motor. The term
+22
+23 includes a person entitled to the use or possession of a vessel or
+23
+24 motor subject to an interest in another person, reserved or created
+24
+Req. No. 1230 Page 6
+1 by a greement and securing payment or performance of an obligation,
+1
+2 but the term excludes a lessee under a lease not intended as
+2
+3 security;
+3
+4 29. “Paddleboard” means a vessel, similar in appearance to a
+4
+5 surfboard, intended to be propelled only by its occupants using a
+5
+6 single- or double-bladed paddle as a lever without the aid of a
+6
+7 fulcrum provided by oarlocks, thole pins, crutches, or similar
+7
+8 arrangements;
+8
+9 30. “Paddleboat” means a vessel less than eight (8) feet in
+9
+10 length designed to be propelled solely by human power through a
+10
+11 belt, chain, or gears;
+11
+12 31. “Permanent number” means the distinctive and unique number
+12
+13 which:
+13
+14 a. Service Oklahoma permanently assigns to a vessel,
+14
+15 irrespective of any change of ownership of said the
+15
+16 vessel. The permanent number shall begin with the
+16
+17 letters “OK”, followed by four numerals, and then
+17
+18 followed by two letters, or
+18
+19 b. any federally recognized Indian tribe in this state
+19
+20 assigns to a vessel;
+20
+21 provided, the number is configured as prescribed in 33 C.F.R., Parts
+21
+22 173 and 174;
+22
+23 32. “Person” means a natural person, partnership, corporation,
+23
+24 association, trust, estate, or other legal entity;
+24
+Req. No. 1230 Page 7
+1 33. “Proposed new vessel dealer” means a person who has an
+1
+2 application pending for a new dealer agreement with a manufacturer
+2
+3 or distributor. Proposed new vessel dealer does not include a
+3
+4 person whose dealer agreement is being renewed or continued;
+4
+5 34. “Purchase date” means the purchase date on a bill of sale
+5
+6 or the date of complete assignment of title by the current owner;
+6
+7 35. “Sailboard” means a vessel, similar in appearance to a
+7
+8 surfboard, equipped with a swivel-mounted mast and sail not secured
+8
+9 to a hull by guys or stays;
+9
+10 36. “State” means the State of Oklahoma;
+10
+11 37. “State of principal use” means the state where the vessel
+11
+12 or motor is used, is to be used, or remains for any period in excess
+12
+13 of sixty (60) calendar days;
+13
+14 38. “Vessel” means every device, other than a seaplane on the
+14
+15 water, used or capable of being used as a means of transportation on
+15
+16 water;
+16
+17 39. “Waters of this state” means and includes all waters within
+17
+18 the territorial limits of this state; provided, such phrase shall
+18
+19 not mean or include waters which are entirely owned by a private
+19
+20 person or persons, and to which the public is not permitted access;
+20
+21 and
+21
+22 40. “Water-thrust device” means a device tethered to the water
+22
+23 jet mechanism of a vessel in a manner so that the water jet of the
+23
+24
+24
+Req. No. 1230 Page 8
+1 powe ring vessel provides propulsion for the attached device. Such
+1
+2 devices shall be considered a component of the powering vessel.
+2
+3 SECTION 2. This act shall become effective November 1, 2025.
+3
+4
+4
+5 60-1-1230 MSBB 1/14/2025 3:50:36 PM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1230 Page 9
+[DELETED:  P B G]
+[DELETED:  P S t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P S a]
+[DELETED:  P]
+[DELETED:  P M 1]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+1
+2 1st Session of the 60th Legislature (2025)
+2
+3 SENATE BILL 368 By: Guthrie
+3
+4
+4
+5
+5
+6 AS INTRODUCED
+6
+7 An Act relating to the Oklahoma Vessel and Motor
+7 Registration Act; amending 63 O.S. 2021, Section
+8 4002, as amended by Section 199, Chapter 282, O.S.L.
+8 2022 (63 O.S. Supp. 2024, Section 4002), which
+9 relates to definitions; modifying certain definition;
+9 updating statutory language; and providing an
+10 effective date.
+10
+11
+11
+12
+12
+13 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14 SECTION 1. AMENDATORY 63 O.S. 2021, Section 4002, as
+14
+15 amended by Section 199, Chapter 282, O.S.L. 2022 (63 O.S. Supp.
+15
+16 2024, Section 4002), is amended to read as follows:
+16
+17 Section 4002. As used in the Oklahoma Vessel and Motor
+17
+18 Registration Act:
+18
+19 1. “Boat livery” means a business establishment engaged in
+19
+20 renting or hiring out vessels for profit;
+20
+21 2. “Canoe” means a light narrow vessel with both ends typically
+21
+22 tapered to a sharp point which is propelled solely by its occupants,
+22
+23 using a single-bladed paddle as a lever without the aid of a fulcrum
+23
+24 provided by oarlocks, thole pins, crutches, or similar arrangements;
+24
+Req. No. 1230 Page 1
+
+1 3. “Certificate of documentation” means a document issued by
+1
+2 the United States Coast Guard which is legal proof of ownership of a
+2
+3 vessel;
+3
+4 4. “Certificate of registration” means a document which is
+4
+5 legal proof of registration of a vessel or motor;
+5
+6 5. “Certificate of title” means a document which is proof of
+6
+7 legal ownership of a vessel and/or or motor;
+7
+8 6. “Service Oklahoma” means:
+8
+9 a. Service Oklahoma, or
+9
+10 b. the equivalent vessel registration and licensing
+10
+11 agency of a federally recognized Indian tribe in this
+11
+12 state;
+12
+13 7. “Dealer” means any person engaged in the business of
+13
+14 selling, trading, renting with option to purchase, or attempting to
+14
+15 negotiate or negotiating sales or exchanges of interests in new or
+15
+16 used vessels or motors, or new and used vessels or motors, or any
+16
+17 combination thereof;
+17
+18 8. “Dealer agreement” means the agreement, authorization, or
+18
+19 written contract between a manufacturer and distributor and a new
+19
+20 vessel dealer which purports to establish the legal rights and
+20
+21 obligations of the parties to the agreement, authorization, or
+21
+22 written contract with regard to the purchase and sale of new vessels
+22
+23 or new motors;
+23
+24
+24
+Req. No. 1230 Page 2
+
+1 9. “Designated successor” means one or more persons nominated
+1
+2 by the new vessel dealer, in a written document filed by the dealer
+2
+3 with the manufacturer or distributor at the time the dealer
+3
+4 agreement is executed, to succeed the dealer in the event of the
+4
+5 dealer’s death or incapacity. If a designated successor is not able
+5
+6 to succeed the new vessel dealer because of the designated
+6
+7 successor’s death or legal incapacity, the dealer shall execute a
+7
+8 new document nominating a designated successor within sixty (60)
+8
+9 calendar days after the date of the death or incapacity;
+9
+10 10. “Distributor” means a person, resident or nonresident, who
+10
+11 in whole or in part offers for sale, sells, or distributes a new
+11
+12 vessel or new motor to a new vessel dealer or who maintains a
+12
+13 factory representative, resident or nonresident, or who controls a
+13
+14 person, resident or nonresident, who in whole or in part offers for
+14
+15 sale, sells, or distributes a new vessel or new motor to a new
+15
+16 vessel dealer;
+16
+17 11. “Distributor branch” means a branch office similarly
+17
+18 maintained by a distributor or wholesaler for the same purposes a
+18
+19 factory branch is maintained;
+19
+20 12. “Distributor representative” means any person, firm,
+20
+21 association, corporation, or trust and each officer and employee
+21
+22 thereof engaged as a representative of a distributor or distributor
+22
+23 branch of vessels or motors, for the purpose of making or promoting
+23
+24 the sale of his or, her, its, or their vessels or motors, or for
+24
+Req. No. 1230 Page 3
+
+1 supe rvising or contacting his, her, its, or their dealers or
+1
+2 prospective dealers;
+2
+3 13. “Documented vessel” means any vessel in this state which
+3
+4 shall have and carry on board the original certificate of
+4
+5 documentation in legible form as issued by the United States Coast
+5
+6 Guard or federal agency successor thereto. All documented vessels
+6
+7 shall be required to display a current State of Oklahoma annual
+7
+8 registration decal;
+8
+9 14. “Factory branch” means a branch office maintained by a
+9
+10 person, firm, association, corporation, or trust who manufactures or
+10
+11 assembles vessels or motors for the sale of vessels or motors to
+11
+12 distributors, or for the sale of vessels or motors to dealers, or
+12
+13 for directing or supervising, in whole or in part, its
+13
+14 representatives;
+14
+15 15. “Factory representative” means any person, firm,
+15
+16 association, corporation, or trust and each officer and employee
+16
+17 thereof engaged as a representative of a manufacturer of vessels or
+17
+18 motors or by a factory branch, for the purpose of making or
+18
+19 promoting the sale of his, her, its, or their vessels or motors, or
+19
+20 for supervising or contacting his, her, its, or their dealers or
+20
+21 prospective dealers;
+21
+22 16. “Hull identification number” means the serial number
+22
+23 affixed to the outside of the hull of a vessel on the upper
+23
+24
+24
+Req. No. 1230 Page 4
+
+1 star board side (right) corner of the transom (back wall) which is
+1
+2 assigned by the manufacturer or Service Oklahoma;
+2
+3 17. “Inboard motor” means an internal combustion engine mounted
+3
+4 inside a vessel which provides the transfer of power to move a
+4
+5 vessel through the water;
+5
+6 18. “Inboard/outboard motor” means an internal combustion
+6
+7 engine mounted inside a vessel and an external stern drive attached
+7
+8 through the transom of the vessel providing the transfer of power to
+8
+9 move the vessel through the water;
+9
+10 19. “John boat” “Johnboat” means a narrow, flat-bottomed
+10
+11 square-ended vessel propelled by a pole, paddle, or a motor of less
+11
+12 than ten (10) horsepower;
+12
+13 20. “Kayak” means a light, narrow vessel with both ends
+13
+14 typically tapered to a sharp point and propelled by double-bladed
+14
+15 paddles as a lever without the aid of a fulcrum provided by
+15
+16 oarlocks, thole pins, crutches or similar arrangements by human
+16
+17 muscular effort by one or more individuals seated inside or on top
+17
+18 of the vessel and facing the direction of travel using double-bladed
+18
+19 paddles, hand cranks, or pedals;
+19
+20 21. “Kiteboard” means a vessel, similar in appearance to a
+20
+21 surfboard, with or without foot straps or bindings, combined with a
+21
+22 large controllable kite to propel the rider and board across the
+22
+23 water;
+23
+24
+24
+Req. No. 1230 Page 5
+
+1 22. “Lifeboat” means a vessel carried on another vessel in
+1
+2 excess of sixty-five (65) feet for use if such other vessel has to
+2
+3 be abandoned;
+3
+4 23. “Manufacturer” means a person who manufactures or assembles
+4
+5 new vessels or new motors, or a distributor, factory branch, or
+5
+6 factory representative;
+6
+7 24. “Motor” means any internal combustion engine mounted at the
+7
+8 stern of a vessel or placed inside a vessel which provides the
+8
+9 transfer of power to move the vessel through the water;
+9
+10 25. “New vessel dealer” means a person who holds a dealer
+10
+11 agreement granted by a manufacturer or distributor for the sale of
+11
+12 the manufacturer’s or distributor’s vessels or motors, who is
+12
+13 engaged in the business of purchasing, selling, exchanging, or
+13
+14 dealing in new vessels or new motors, and who has an established
+14
+15 place of business;
+15
+16 26. “Operate” means to navigate or be in actual physical
+16
+17 control of a vessel or otherwise use a vessel or motor;
+17
+18 27. “Outboard motor” means an internal combustion engine
+18
+19 capable of being externally mounted at the stern of a vessel which
+19
+20 provides the transfer of power to move a vessel through the water;
+20
+21 28. “Owner” means a person, other than a lienholder, having a
+21
+22 property interest in or title to a vessel or motor. The term
+22
+23 includes a person entitled to the use or possession of a vessel or
+23
+24 motor subject to an interest in another person, reserved or created
+24
+Req. No. 1230 Page 6
+
+1 by a greement and securing payment or performance of an obligation,
+1
+2 but the term excludes a lessee under a lease not intended as
+2
+3 security;
+3
+4 29. “Paddleboard” means a vessel, similar in appearance to a
+4
+5 surfboard, intended to be propelled only by its occupants using a
+5
+6 single- or double-bladed paddle as a lever without the aid of a
+6
+7 fulcrum provided by oarlocks, thole pins, crutches, or similar
+7
+8 arrangements;
+8
+9 30. “Paddleboat” means a vessel less than eight (8) feet in
+9
+10 length designed to be propelled solely by human power through a
+10
+11 belt, chain, or gears;
+11
+12 31. “Permanent number” means the distinctive and unique number
+12
+13 which:
+13
+14 a. Service Oklahoma permanently assigns to a vessel,
+14
+15 irrespective of any change of ownership of said the
+15
+16 vessel. The permanent number shall begin with the
+16
+17 letters “OK”, followed by four numerals, and then
+17
+18 followed by two letters, or
+18
+19 b. any federally recognized Indian tribe in this state
+19
+20 assigns to a vessel;
+20
+21 provided, the number is configured as prescribed in 33 C.F.R., Parts
+21
+22 173 and 174;
+22
+23 32. “Person” means a natural person, partnership, corporation,
+23
+24 association, trust, estate, or other legal entity;
+24
+Req. No. 1230 Page 7
+
+1 33. “Proposed new vessel dealer” means a person who has an
+1
+2 application pending for a new dealer agreement with a manufacturer
+2
+3 or distributor. Proposed new vessel dealer does not include a
+3
+4 person whose dealer agreement is being renewed or continued;
+4
+5 34. “Purchase date” means the purchase date on a bill of sale
+5
+6 or the date of complete assignment of title by the current owner;
+6
+7 35. “Sailboard” means a vessel, similar in appearance to a
+7
+8 surfboard, equipped with a swivel-mounted mast and sail not secured
+8
+9 to a hull by guys or stays;
+9
+10 36. “State” means the State of Oklahoma;
+10
+11 37. “State of principal use” means the state where the vessel
+11
+12 or motor is used, is to be used, or remains for any period in excess
+12
+13 of sixty (60) calendar days;
+13
+14 38. “Vessel” means every device, other than a seaplane on the
+14
+15 water, used or capable of being used as a means of transportation on
+15
+16 water;
+16
+17 39. “Waters of this state” means and includes all waters within
+17
+18 the territorial limits of this state; provided, such phrase shall
+18
+19 not mean or include waters which are entirely owned by a private
+19
+20 person or persons, and to which the public is not permitted access;
+20
+21 and
+21
+22 40. “Water-thrust device” means a device tethered to the water
+22
+23 jet mechanism of a vessel in a manner so that the water jet of the
+23
+24
+24
+Req. No. 1230 Page 8
+
+1 powe ring vessel provides propulsion for the attached device. Such
+1
+2 devices shall be considered a component of the powering vessel.
+2
+3 SECTION 2. This act shall become effective November 1, 2025.
+3
+4
+4
+5 60-1-1230 MSBB 1/14/2025 3:50:36 PM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1230 Page 9
+
+[DELETED:  P B G]
+[DELETED:  P S t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P S a]
+[DELETED:  P]
+[DELETED:  P M 1]

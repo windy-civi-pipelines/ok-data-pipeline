@@ -1,0 +1,1226 @@
+Title: 4 HOUSE BILL 1388 By: Hasenbeck of the House
+Official Title: 4 HOUSE BILL 1388 By: Hasenbeck of the House
+Number of Sections: 1
+Source: versions - Senate Committee Substitute for House Bill
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 COMMITTEE SUBSTITUTE
+FOR ENGROSSED
+5 and
+6 Reinhardt of the Senate
+7
+8
+9 COMMITTEE SUBSTITUTE
+10 An Act relating to schools; creating the Protecting
+Oklahoma’s Children on Social Media Act of 2025;
+11 providing short title; defining terms; directing the
+State Department of Education to develop model
+12 programs to educate students regarding online safety;
+directing inclusion of one or more model programs for
+13 students in certain grades; requiring periodic
+updating of programs; directing the Department to
+14 publish certain information on its website; directing
+the Department to provide certain technical
+15 assistance; allowing school district boards of
+education and charter school governing bodies to
+16 incorporate certain Internet safety into certain
+program; directing school district boards of
+17 education and charter school governing bodies to
+adopt an acceptable-use policy by certain date;
+18 providing minimum components of policy; allowing for
+differentiation on policies based on student grade
+19 levels; directing reasonable opportunities and
+procedures be provided for certain input; providing
+20 for enforcement of policy; directing a copy of a
+policy to be provided upon certain request; requiring
+21 electronic submission of policies to the State Board
+of Education annually by certain date; providing
+22 process for review of policies and revisions;
+directing the State Department of Education annually
+23 by certain date to establish certain technology
+protection measure standards and specifications;
+24 directing the Department to publish on its website
+Req. No. 2030 Page 1
+1 certain list of technology protection measures;
+directing the Department to provide guidance and
+2 technical assistance; directing the Department to
+develop training guidelines for certain personnel by
+3 certain date; requiring training to include certain
+instruction; requiring school district boards of
+4 education and charter school governing bodies to
+adopt a social media policy by certain date;
+5 requiring policy to include certain provisions;
+directing policy to be published on certain websites;
+6 requiring electronic submission of certain policy by
+certain date; providing process for the Department to
+7 review social media policies and revisions; directing
+the Department to conduct certain investigations and
+8 make certain determinations; providing for notice of
+noncompliance; providing for codification; providing
+9 an effective date; and declaring an emergency.
+10
+11
+12 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13 SECTION 1. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 6-500 of Title 70, unless there
+15 is created a duplication in numbering, reads as follows:
+16 This act shall be known and may be cited as the “Protecting
+17 Oklahoma’s Children on Social Media Act of 2025”.
+18 SECTION 2. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 6-501 of Title 70, unless there
+20 is created a duplication in numbering, reads as follows:
+21 As used in this act:
+22 1. “Acceptable-use policy” means a policy for Internet use
+23 adopted by a public school district board of education or charter
+24 school governing body that meets the requirements of this section;
+Req. No. 2030 Page 2
+1 2. “Account holder” means a person who is a resident of this
+2 state and has an account or profile to use a social media platform;
+3 3. “Child pornography” means any visual depiction including any
+4 live performance, photograph, film, video, picture, or computer or
+5 computer-generated image or picture, whether made or produced by
+6 electronic, mechanical, or other means, of sexually explicit conduct
+7 when:
+8 a. the production of the visual depiction involves a
+9 minor engaging in sexually explicit conduct,
+10 b. the visual depiction is of a minor engaging in
+11 sexually explicit conduct, or
+12 c. the visual depiction has been created, adapted, or
+13 modified to appear that an identifiable minor is
+14 engaging in sexually explicit conduct;
+15 4. “Harmful to minors” means that quality of description or
+16 representation, in whatever form, of nudity, sexual conduct, sexual
+17 excitement, or sadomasochistic abuse, when:
+18 a. taken as a whole, it predominantly appeals to the
+19 prurient, shameful, or morbid interest of minors,
+20 b. it is patently offensive to prevailing standards in
+21 the adult community as a whole with respect to what is
+22 suitable material for minors, and
+23 c. taken as a whole, it is lacking in serious literary,
+24 artistic, political, or scientific value for minors;
+Req. No. 2030 Page 3
+1 5. “Identifiable minor” means a person:
+2 a. (1) who was a minor at the time the visual depiction
+3 was created, adapted, or modified, or
+4 (2) whose image as a minor was used in creating,
+5 adapting, or modifying the visual depiction, and
+6 b. who is recognizable as an actual person by such
+7 person’s face, likeness, or other distinguishing
+8 physical characteristic or other recognizable physical
+9 feature;
+10 6. “Minor” means any individual under the age of eighteen (18)
+11 years;
+12 7. “Obscene material” means material which meets the following
+13 requirements:
+14 a. to the average person, applying contemporary community
+15 standards, taken as a whole, the material
+16 predominantly appeals or panders to prurient interest
+17 in nudity, sex, or excretion,
+18 b. the material, taken as a whole, lacks serious
+19 literary, artistic, political, or scientific value,
+20 and
+21 c. the material depicts or describes in a patently
+22 offensive way sexual conduct as follows:
+23
+24
+Req. No. 2030 Page 4
+1 (1) acts of sexual intercourse, heterosexual or
+2 homosexual, normal or perverted, actual or
+3 simulated,
+4 (2) acts of masturbation,
+5 (3) acts involving excretory functions or lewd
+6 exhibition of the genitals,
+7 (4) acts of bestiality or the fondling of sex organs
+8 of animals, or
+9 (5) sexual acts of flagellation, torture, or other
+10 violence indicating a sadomasochistic sexual
+11 relationship;
+12 8. “Parent” means a natural or adoptive parent, legal guardian,
+13 or a person who has legal authority to act on behalf of a minor
+14 child;
+15 9. “School equipment” means any computer or computer networking
+16 equipment, technology or technology-related device or service, or
+17 communication system or service that is operated, owned, leased, and
+18 made available to students by a public school district board of
+19 education or charter school governing body and that is used for
+20 transmitting, receiving, accessing, viewing, hearing, downloading,
+21 recording, or storing electronic communication;
+22 10. “Social media platform” means an online forum that allows
+23 an account holder to create a profile, upload posts, view and listen
+24 to posts, form mutual connections, and interact publicly and
+Req. No. 2030 Page 5
+1 priv ately with other account holders and users. Such term shall not
+2 include an online service, website, or application where the
+3 predominant or exclusive function is any of the following:
+4 a. email,
+5 b. a service that, pursuant to its terms of use, does not
+6 permit minors to use the platform and utilizes
+7 commercially reasonable age assurance mechanisms to
+8 deter minors from becoming account holders,
+9 c. a streaming service that provides only licensed media
+10 that is not user-generated in a continuous flow from
+11 the service, website, or application to the end user
+12 and does not obtain a license to the media from a user
+13 or account holder by agreement to its terms of
+14 service,
+15 d. news, sports, entertainment, or other content that is
+16 preselected by the provider and not user-generated,
+17 and any chat, comment, or interactive functionality
+18 that is provided incidental to or directly or
+19 indirectly related to such content,
+20 e. online shopping or e-commerce, if the interaction with
+21 other users or account holders is generally limited to
+22 the ability to upload a post and comment on reviews,
+23 the ability to display lists or collections of goods
+24 for sale or wish lists, and other functions that are
+Req. No. 2030 Page 6
+1 focused on online shopping or e-commerce rather than
+2 interaction between users or account holders,
+3 f. interactive gaming, virtual gaming, or an online
+4 service, website, or application that allows the
+5 creation and uploading of content for the purpose of
+6 interactive gaming, educational entertainment, or
+7 associated entertainment, and communications related
+8 to that content,
+9 g. photograph editing that has an associated photograph
+10 hosting service if the interaction with other users or
+11 account holders is generally limited to liking or
+12 commenting,
+13 h. single-purpose community groups for public safety if
+14 the interaction with other users or account holders is
+15 limited to that single purpose and the community group
+16 has guidelines or policies against illegal content,
+17 i. business-to-business software,
+18 j. teleconferencing or videoconferencing services that
+19 allow reception and transmission of audio and video
+20 signals for real-time communication,
+21 k. cloud storage,
+22 l. shared document collaboration,
+23 m. cloud computing services, which may include cloud
+24 storage and shared document collaboration,
+Req. No. 2030 Page 7
+1 n. providing access to or interacting with data
+2 visualization platforms, libraries, or hubs,
+3 o. permitting comments on a digital news website if the
+4 news content is posted only by the provider of the
+5 digital news website,
+6 p. providing or obtaining technical support for a
+7 platform, product, or service,
+8 q. academic, scholarly, or genealogical research where
+9 the majority of the content is created or posted by
+10 the provider of the online service, website, or
+11 application and the ability to chat, comment, or
+12 interact with other users is directly related to the
+13 provider’s content,
+14 r. Internet access and broadband service,
+15 s. a classified advertising service in which the provider
+16 of the online service, website, or application is
+17 limited to all of the following:
+18 (1) permitting only the sale of goods,
+19 (2) prohibiting the solicitation of personal
+20 services,
+21 (3) posting or creating a substantial amount of the
+22 content, and
+23
+24
+Req. No. 2030 Page 8
+1 (4) providing the ability to chat, comment, or
+2 interact with other users only if it is directly
+3 related to the provider’s content,
+4 t. an online service, website, or application that is
+5 used by or under the direction of a public school
+6 district or charter school in this state including a
+7 learning management system, student engagement
+8 program, or subject- or skill-specific program where
+9 the majority of the content is created or posted by
+10 the provider of the online service, website, or
+11 application and the ability to chat, comment, or
+12 interact with other users is directly related to the
+13 provider’s content,
+14 u. peer-to-peer payments, provided that interactions
+15 among users or account holders are generally limited
+16 to the ability to send, receive, or request funds;
+17 like or comment on such transactions; or other
+18 functions related to sending, receiving, requesting,
+19 or settling payments among users or account holders,
+20 or
+21 v. career development opportunities including
+22 professional networking, job skills, learning
+23 certifications, and job posting and application
+24 services;
+Req. No. 2030 Page 9
+1 11. “Technology protection measure” means a technology that
+2 inspects and analyzes unencrypted Internet traffic for malware and
+3 that blocks or filters electronic access to obscene materials, child
+4 pornography, or material that is harmful to minors; and
+5 12. “User” means a person who has access to view all or some of
+6 the posts on a social media platform but who is not an account
+7 holder.
+8 SECTION 3. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 6-502 of Title 70, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. 1. The State Department of Education shall develop model
+12 programs for educating students regarding online safety while using
+13 the Internet, taking into consideration educational materials on
+14 this topic developed by other states as well as any other materials
+15 suggested by education experts, child psychologists, and technology
+16 companies that promote child online safety issues.
+17 2. The model programs provided for in this section shall
+18 include one or more model programs for students in grades six
+19 through twelve which:
+20 a. shall include instruction regarding:
+21 (1) the social, emotional, and physical effects of
+22 social media on users,
+23 (2) the effects of social media on the mental health
+24 of users, particularly teenagers,
+Req. No. 2030 Page 10
+1 (3) the distribution of disinformation and
+2 misinformation on social media,
+3 (4) how social media influences thoughts and
+4 behaviors,
+5 (5) the permanency and risks of sharing materials
+6 online,
+7 (6) how to maintain personal security and identify
+8 cyberbullying, predatory behavior, and human
+9 trafficking on the Internet and social media, and
+10 (7) how to report suspicious behavior encountered on
+11 the Internet and social media to appropriate
+12 persons and authorities, and
+13 b. may include information regarding the benefits of
+14 social media use, such as supporting career readiness
+15 for future academic or employment opportunities,
+16 sharing information with familiar family and friends,
+17 and safely connecting with other users with similar
+18 interests.
+19 B. The State Department of Education shall periodically update
+20 the model programs provided for in this section to reflect changes
+21 in Internet and social media use, emergent technologies, social and
+22 psychological research, and information concerning new threats to
+23 teenagers and young adults using social media platforms and other
+24 online communication technologies.
+Req. No. 2030 Page 11
+1 C. The State Department of Education shall publish on its
+2 website information relating to the model programs provided for in
+3 this section including recommended curricula and instructional
+4 materials as updated periodically as provided in this section. The
+5 Department shall provide technical assistance in addition to such
+6 model programs and recommended curricula and instructional materials
+7 to aid any public school district board of education or charter
+8 school governing body that may elect to incorporate one or more
+9 components of Internet and social media safety into its
+10 instructional program.
+11 D. Each public school district board of education or charter
+12 school governing body may incorporate into its instructional program
+13 a component on online Internet safety including social media safety
+14 to be taught on a schedule as determined by the public school
+15 district board of education or charter school governing body.
+16 SECTION 4. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 6-503 of Title 70, unless there
+18 is created a duplication in numbering, reads as follows:
+19 A. No later than October 1, 2025, each public school district
+20 board of education or charter school governing body shall adopt an
+21 acceptable-use policy. At a minimum, an acceptable-use policy shall
+22 contain provisions which are reasonably designed to:
+23
+24
+Req. No. 2030 Page 12
+1 1. Prevent and prohibit any school equipment from being used
+2 for accessing, sending, receiving, viewing, or downloading obscene
+3 materials, child pornography, or material that is harmful to minors;
+4 2. Establish appropriate measures to be taken by the public
+5 school district or charter school in response to:
+6 a. students and school employees who intentionally
+7 violate the acceptable-use policy, regardless of
+8 whether such student or school employee was, at the
+9 time of such violation, on school property, on a
+10 school bus or other school vehicle, at a school-
+11 related function, or elsewhere, provided that such
+12 measures include disciplinary measures, and
+13 b. any person who is not a student or school employee who
+14 violates the acceptable-use policy, regardless of
+15 whether such person was, at the time of such
+16 violation, on school property, on a school bus or
+17 other school vehicle, at a school-related function, or
+18 elsewhere;
+19 3. Provide for administrative procedures to enforce the
+20 acceptable-use policy;
+21 4. Provide for administrative procedures to address complaints
+22 regarding possible violations of the acceptable-use policy which, at
+23 a minimum, require that each complaint is responded to in writing by
+24
+Req. No. 2030 Page 13
+1 an a ppropriate public school district or charter school official;
+2 and
+3 5. Provide for expedited review and resolution of a claim that
+4 the application of the acceptable-use policy is denying a student or
+5 school employee access to material that is not within the
+6 prohibitions of the acceptable-use policy.
+7 B. The acceptable-use policy provided for in subsection A of
+8 this section may include terms, conditions, and requirements deemed
+9 appropriate by the public school district board of education or
+10 charter school governing body to differentiate acceptable uses among
+11 elementary, middle, and high school students and among different age
+12 groups; provided, however, that any public school district board of
+13 education or charter school governing body that authorizes such
+14 differentiation shall articulate in its acceptable-use policy the
+15 rationale for each method of differentiation included in such
+16 acceptable-use policy.
+17 C. Each public school district board of education or charter
+18 school governing body shall provide reasonable opportunities and
+19 procedures for parents of current students to confer and collaborate
+20 with school administrators and teachers regarding appropriate
+21 Internet access for such students.
+22 D. Each public school district board of education or charter
+23 school governing body and school district superintendent or charter
+24 school administrator shall take such steps as are necessary and
+Req. No. 2030 Page 14
+1 appr opriate to implement and enforce the acceptable-use policy,
+2 which shall include, but not be limited to, providing for the
+3 adoption, use, and routine upgrading of technology protection
+4 measures which meet or exceed compliance standards and
+5 specifications established by the State Department of Education.
+6 E. Each public school district and charter school shall
+7 provide, upon written request of a parent, a copy of the acceptable-
+8 use policy adopted pursuant to subsection B of this section and
+9 information regarding the administrative procedures in effect to
+10 enforce the acceptable-use policy and to address complaints about
+11 enforcement.
+12 F. By October 15, 2025, and each October 15 thereafter, each
+13 public school district board of education or charter school
+14 governing body shall electronically submit a copy of its acceptable-
+15 use policy to the State Board of Education. The submission shall
+16 include the identification of the technology protection measures
+17 being used, if such measures are being used as provided for in
+18 Section 5 of this act.
+19 G. The State Board of Education shall review each acceptable-
+20 use policy and any subsequent revisions submitted pursuant to
+21 subsection H of this section. If the Board determines after review
+22 that a policy, technology protection measure, or revision is not
+23 reasonably designed to achieve the requirements of this section, the
+24 Board shall provide written notice to the public school district
+Req. No. 2030 Page 15
+1 boar d of education or charter school governing body explaining the
+2 nature of such noncompliance, and the public school district board
+3 of education or charter school governing body shall have thirty (30)
+4 days from the receipt of written notice to correct such
+5 noncompliance. The Board may provide an extension to the thirty-day
+6 period on a showing of good cause.
+7 H. No revision of an acceptable-use policy submission which has
+8 been approved by the State Board of Education pursuant to subsection
+9 G of this section shall be implemented until such revision is
+10 approved by the Board. If the Board fails to disapprove the
+11 revision within sixty (60) days after the submission is received,
+12 the public school district board of education or charter school
+13 governing body may proceed with the implementation of the revision.
+14 SECTION 5. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 6-504 of Title 70, unless there
+16 is created a duplication in numbering, reads as follows:
+17 A. By April 1, 2026, and by each April 1 thereafter, the State
+18 Department of Education shall establish compliance standards and
+19 specifications for technology protection measures that may be used
+20 by public school districts and charter schools in this state. To
+21 the extent practicable, such compliance standards and specifications
+22 for technology protection measures shall include measures and
+23 controls for parents of current students to supervise and manage
+24 appropriate Internet access by such students who are using a school-
+Req. No. 2030 Page 16
+1 issu ed computer or other electronic device while not on school
+2 property, not on a school bus or other school vehicle, or not at a
+3 school-related function.
+4 B. The State Department of Education shall publish on its
+5 website a list of technology protection measures that meet the
+6 compliance standards and specifications established pursuant to
+7 subsection A of this section that public school districts and
+8 charter schools may install on each computer or other electronic
+9 device issued to students for off-campus use. The Department shall
+10 annually require each technology protection measure provider to
+11 verify that the measures it provides meet or exceed the standards
+12 and specifications established pursuant to subsection A of this
+13 section. The Department may provide information to public school
+14 districts and charter schools regarding state contracts with
+15 technology protection measure providers. The Department shall
+16 prioritize the identification of technology protection measure
+17 providers that include parental measures and controls as provided
+18 for in this section.
+19 C. The Department shall provide guidance and technical
+20 assistance to assist public school districts and charter schools in
+21 complying with this section.
+22 D. By December 1, 2025, the Department shall develop guidelines
+23 for the training of public school district and charter school
+24 personnel. The training guidelines shall include instruction in:
+Req. No. 2030 Page 17
+1 1. Implementing and complying with acceptable-use policies
+2 required by Section 4 of this act;
+3 2. Basic cybersecurity issues pertinent to public school
+4 districts and charter schools, students, and educators including,
+5 but not limited to, phishing and multifactor authentication; and
+6 3. Other current and emerging issues and topics which address
+7 the safe and secure use of technology by students and educators.
+8 SECTION 6. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 6-505 of Title 70, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. By April 1, 2026, each public school district board of
+12 education or charter school governing body shall adopt a social
+13 media policy which shall:
+14 1. a. except as provided in subparagraph b of this
+15 paragraph, prohibit students from accessing social
+16 media platforms through the use of computer equipment,
+17 communications services, or Internet access that is
+18 operated, owned, leased, and made available to
+19 students by the public school district or charter
+20 school or the public school district board of
+21 education or charter school governing body, and
+22 b. to the extent authorized by such social media policy,
+23 students shall be permitted to access social media
+24 platforms only:
+Req. No. 2030 Page 18
+1 (1) as directed by school personnel,
+2 (2) for the exclusive purpose of accessing and
+3 utilizing age-appropriate educational resources,
+4 (3) under the supervision of such school personnel,
+5 and
+6 (4) during the course of a school-related activity;
+7 2. Establish appropriate measures to be taken when a student
+8 violates such policy; and
+9 3. Establish procedures for parents to:
+10 a. request information from school personnel about what
+11 social media platforms have been or are intended to be
+12 accessed as provided in subparagraph b of paragraph 1
+13 of this subsection, and
+14 b. prohibit their child from accessing one or more social
+15 media platforms as provided in subparagraph b of
+16 paragraph 1 of this subsection.
+17 B. A public school district board of education or charter
+18 school governing body shall take such steps as it deems appropriate
+19 to implement and enforce its social media policy, which shall
+20 include, but shall not be limited to:
+21 1. Use of software programs and other technologies reasonably
+22 designed and intended to block and monitor access to social media
+23 platforms; and
+24
+Req. No. 2030 Page 19
+1 2. Selection of online servers that block and monitor access to
+2 social media platforms.
+3 C. Each public school district and charter school shall publish
+4 on its website a copy of the social media policy adopted pursuant to
+5 this section and shall provide a paper copy upon written request of
+6 a parent of an enrolled student.
+7 D. The State Department of Education may consult with and
+8 assist a public school district board of education or charter school
+9 governing body in developing and implementing a social media policy
+10 pursuant to this section.
+11 E. By April 15, 2026, each public school district board of
+12 education or charter school governing body shall electronically
+13 submit a copy of its social media policy to the State Department of
+14 Education for compliance review. Such submission shall identify any
+15 software program or other technology that is being or will be
+16 utilized to block access to social media platforms in accordance
+17 with subsection B of this section.
+18 F. The State Department of Education shall review each social
+19 media policy and any subsequent revisions electronically submitted
+20 pursuant to subsection E of this section. If the Department
+21 determines after compliance review that a policy or revision thereof
+22 is not reasonably designed to achieve the requirements of this
+23 section, it shall provide written notice of noncompliance to the
+24
+Req. No. 2030 Page 20
+1 publ ic school district board of education or charter school
+2 governing body as provided for in subsection H of this section.
+3 G. No revision of a social media policy which has been deemed
+4 compliant pursuant to subsection H of this section shall be
+5 implemented until such revision is reviewed by the State Department
+6 of Education. If the Department fails to provide a notice of
+7 noncompliance for the revision within sixty (60) days of its
+8 receipt, the public school district board of education or charter
+9 school governing body may proceed with the implementation of the
+10 revision.
+11 H. 1. The State Department of Education shall be responsible
+12 for conducting any necessary investigations and making written
+13 determinations as to whether a public school district board of
+14 education or charter school governing body has failed to comply with
+15 the requirements of this section.
+16 2. If the Department determines that a public school district
+17 board of education or charter school governing body has failed to
+18 comply with the requirements of this section, it shall provide a
+19 written notice of noncompliance to the board of education or charter
+20 school governing body and the board or governing body shall have
+21 thirty (30) days from the receipt of such notice to correct such
+22 noncompliance and to develop a corrective action plan for preventing
+23 future recurrences. The Department may extend such thirty-day
+24 period upon a showing of good cause by the local governing body.
+Req. No. 2030 Page 21
+1 SECTION 7. This act shall become effective July 1, 2025.
+2 SECTION 8. It being immediately necessary for the preservation
+3 of the public peace, health, or safety, an emergency is hereby
+4 declared to exist, by reason whereof this act shall take effect and
+5 be in full force from and after its passage and approval.
+6
+7 60-1-2030 EB 4/17/2025 12:28:32 PM
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 2030 Page 22
+[DELETED:  PS B H  a R]
+[DELETED:  Pc]
+[DELETED:  P t t t t i t]
+[DELETED:  P ( w w w t t t]
+[DELETED:  P a a a a s]
+[DELETED:  P e a a n o]
+[DELETED:  P i p s b t c s c]
+[DELETED:  P p p p a I a p p p]
+[DELETED:  P p a p c]
+[DELETED:  P s t t]
+[DELETED:  P t h t h h m]
+[DELETED:  P]
+[DELETED:  P s a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a e t]
+[DELETED:  P a f u d r p]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P E 4]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 COMMITTEE SUBSTITUTE
+FOR ENGROSSED
+4 HOUSE BILL 1388 By: Hasenbeck of the House
+5 and
+6 Reinhardt of the Senate
+7
+8
+9 COMMITTEE SUBSTITUTE
+10 An Act relating to schools; creating the Protecting
+Oklahoma’s Children on Social Media Act of 2025;
+11 providing short title; defining terms; directing the
+State Department of Education to develop model
+12 programs to educate students regarding online safety;
+directing inclusion of one or more model programs for
+13 students in certain grades; requiring periodic
+updating of programs; directing the Department to
+14 publish certain information on its website; directing
+the Department to provide certain technical
+15 assistance; allowing school district boards of
+education and charter school governing bodies to
+16 incorporate certain Internet safety into certain
+program; directing school district boards of
+17 education and charter school governing bodies to
+adopt an acceptable-use policy by certain date;
+18 providing minimum components of policy; allowing for
+differentiation on policies based on student grade
+19 levels; directing reasonable opportunities and
+procedures be provided for certain input; providing
+20 for enforcement of policy; directing a copy of a
+policy to be provided upon certain request; requiring
+21 electronic submission of policies to the State Board
+of Education annually by certain date; providing
+22 process for review of policies and revisions;
+directing the State Department of Education annually
+23 by certain date to establish certain technology
+protection measure standards and specifications;
+24 directing the Department to publish on its website
+Req. No. 2030 Page 1
+
+1 certain list of technology protection measures;
+directing the Department to provide guidance and
+2 technical assistance; directing the Department to
+develop training guidelines for certain personnel by
+3 certain date; requiring training to include certain
+instruction; requiring school district boards of
+4 education and charter school governing bodies to
+adopt a social media policy by certain date;
+5 requiring policy to include certain provisions;
+directing policy to be published on certain websites;
+6 requiring electronic submission of certain policy by
+certain date; providing process for the Department to
+7 review social media policies and revisions; directing
+the Department to conduct certain investigations and
+8 make certain determinations; providing for notice of
+noncompliance; providing for codification; providing
+9 an effective date; and declaring an emergency.
+10
+11
+12 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13 SECTION 1. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 6-500 of Title 70, unless there
+15 is created a duplication in numbering, reads as follows:
+16 This act shall be known and may be cited as the “Protecting
+17 Oklahoma’s Children on Social Media Act of 2025”.
+18 SECTION 2. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 6-501 of Title 70, unless there
+20 is created a duplication in numbering, reads as follows:
+21 As used in this act:
+22 1. “Acceptable-use policy” means a policy for Internet use
+23 adopted by a public school district board of education or charter
+24 school governing body that meets the requirements of this section;
+Req. No. 2030 Page 2
+
+1 2. “Account holder” means a person who is a resident of this
+2 state and has an account or profile to use a social media platform;
+3 3. “Child pornography” means any visual depiction including any
+4 live performance, photograph, film, video, picture, or computer or
+5 computer-generated image or picture, whether made or produced by
+6 electronic, mechanical, or other means, of sexually explicit conduct
+7 when:
+8 a. the production of the visual depiction involves a
+9 minor engaging in sexually explicit conduct,
+10 b. the visual depiction is of a minor engaging in
+11 sexually explicit conduct, or
+12 c. the visual depiction has been created, adapted, or
+13 modified to appear that an identifiable minor is
+14 engaging in sexually explicit conduct;
+15 4. “Harmful to minors” means that quality of description or
+16 representation, in whatever form, of nudity, sexual conduct, sexual
+17 excitement, or sadomasochistic abuse, when:
+18 a. taken as a whole, it predominantly appeals to the
+19 prurient, shameful, or morbid interest of minors,
+20 b. it is patently offensive to prevailing standards in
+21 the adult community as a whole with respect to what is
+22 suitable material for minors, and
+23 c. taken as a whole, it is lacking in serious literary,
+24 artistic, political, or scientific value for minors;
+Req. No. 2030 Page 3
+
+1 5. “Identifiable minor” means a person:
+2 a. (1) who was a minor at the time the visual depiction
+3 was created, adapted, or modified, or
+4 (2) whose image as a minor was used in creating,
+5 adapting, or modifying the visual depiction, and
+6 b. who is recognizable as an actual person by such
+7 person’s face, likeness, or other distinguishing
+8 physical characteristic or other recognizable physical
+9 feature;
+10 6. “Minor” means any individual under the age of eighteen (18)
+11 years;
+12 7. “Obscene material” means material which meets the following
+13 requirements:
+14 a. to the average person, applying contemporary community
+15 standards, taken as a whole, the material
+16 predominantly appeals or panders to prurient interest
+17 in nudity, sex, or excretion,
+18 b. the material, taken as a whole, lacks serious
+19 literary, artistic, political, or scientific value,
+20 and
+21 c. the material depicts or describes in a patently
+22 offensive way sexual conduct as follows:
+23
+24
+Req. No. 2030 Page 4
+
+1 (1) acts of sexual intercourse, heterosexual or
+2 homosexual, normal or perverted, actual or
+3 simulated,
+4 (2) acts of masturbation,
+5 (3) acts involving excretory functions or lewd
+6 exhibition of the genitals,
+7 (4) acts of bestiality or the fondling of sex organs
+8 of animals, or
+9 (5) sexual acts of flagellation, torture, or other
+10 violence indicating a sadomasochistic sexual
+11 relationship;
+12 8. “Parent” means a natural or adoptive parent, legal guardian,
+13 or a person who has legal authority to act on behalf of a minor
+14 child;
+15 9. “School equipment” means any computer or computer networking
+16 equipment, technology or technology-related device or service, or
+17 communication system or service that is operated, owned, leased, and
+18 made available to students by a public school district board of
+19 education or charter school governing body and that is used for
+20 transmitting, receiving, accessing, viewing, hearing, downloading,
+21 recording, or storing electronic communication;
+22 10. “Social media platform” means an online forum that allows
+23 an account holder to create a profile, upload posts, view and listen
+24 to posts, form mutual connections, and interact publicly and
+Req. No. 2030 Page 5
+
+1 priv ately with other account holders and users. Such term shall not
+2 include an online service, website, or application where the
+3 predominant or exclusive function is any of the following:
+4 a. email,
+5 b. a service that, pursuant to its terms of use, does not
+6 permit minors to use the platform and utilizes
+7 commercially reasonable age assurance mechanisms to
+8 deter minors from becoming account holders,
+9 c. a streaming service that provides only licensed media
+10 that is not user-generated in a continuous flow from
+11 the service, website, or application to the end user
+12 and does not obtain a license to the media from a user
+13 or account holder by agreement to its terms of
+14 service,
+15 d. news, sports, entertainment, or other content that is
+16 preselected by the provider and not user-generated,
+17 and any chat, comment, or interactive functionality
+18 that is provided incidental to or directly or
+19 indirectly related to such content,
+20 e. online shopping or e-commerce, if the interaction with
+21 other users or account holders is generally limited to
+22 the ability to upload a post and comment on reviews,
+23 the ability to display lists or collections of goods
+24 for sale or wish lists, and other functions that are
+Req. No. 2030 Page 6
+
+1 focused on online shopping or e-commerce rather than
+2 interaction between users or account holders,
+3 f. interactive gaming, virtual gaming, or an online
+4 service, website, or application that allows the
+5 creation and uploading of content for the purpose of
+6 interactive gaming, educational entertainment, or
+7 associated entertainment, and communications related
+8 to that content,
+9 g. photograph editing that has an associated photograph
+10 hosting service if the interaction with other users or
+11 account holders is generally limited to liking or
+12 commenting,
+13 h. single-purpose community groups for public safety if
+14 the interaction with other users or account holders is
+15 limited to that single purpose and the community group
+16 has guidelines or policies against illegal content,
+17 i. business-to-business software,
+18 j. teleconferencing or videoconferencing services that
+19 allow reception and transmission of audio and video
+20 signals for real-time communication,
+21 k. cloud storage,
+22 l. shared document collaboration,
+23 m. cloud computing services, which may include cloud
+24 storage and shared document collaboration,
+Req. No. 2030 Page 7
+
+1 n. providing access to or interacting with data
+2 visualization platforms, libraries, or hubs,
+3 o. permitting comments on a digital news website if the
+4 news content is posted only by the provider of the
+5 digital news website,
+6 p. providing or obtaining technical support for a
+7 platform, product, or service,
+8 q. academic, scholarly, or genealogical research where
+9 the majority of the content is created or posted by
+10 the provider of the online service, website, or
+11 application and the ability to chat, comment, or
+12 interact with other users is directly related to the
+13 provider’s content,
+14 r. Internet access and broadband service,
+15 s. a classified advertising service in which the provider
+16 of the online service, website, or application is
+17 limited to all of the following:
+18 (1) permitting only the sale of goods,
+19 (2) prohibiting the solicitation of personal
+20 services,
+21 (3) posting or creating a substantial amount of the
+22 content, and
+23
+24
+Req. No. 2030 Page 8
+
+1 (4) providing the ability to chat, comment, or
+2 interact with other users only if it is directly
+3 related to the provider’s content,
+4 t. an online service, website, or application that is
+5 used by or under the direction of a public school
+6 district or charter school in this state including a
+7 learning management system, student engagement
+8 program, or subject- or skill-specific program where
+9 the majority of the content is created or posted by
+10 the provider of the online service, website, or
+11 application and the ability to chat, comment, or
+12 interact with other users is directly related to the
+13 provider’s content,
+14 u. peer-to-peer payments, provided that interactions
+15 among users or account holders are generally limited
+16 to the ability to send, receive, or request funds;
+17 like or comment on such transactions; or other
+18 functions related to sending, receiving, requesting,
+19 or settling payments among users or account holders,
+20 or
+21 v. career development opportunities including
+22 professional networking, job skills, learning
+23 certifications, and job posting and application
+24 services;
+Req. No. 2030 Page 9
+
+1 11. “Technology protection measure” means a technology that
+2 inspects and analyzes unencrypted Internet traffic for malware and
+3 that blocks or filters electronic access to obscene materials, child
+4 pornography, or material that is harmful to minors; and
+5 12. “User” means a person who has access to view all or some of
+6 the posts on a social media platform but who is not an account
+7 holder.
+8 SECTION 3. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 6-502 of Title 70, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. 1. The State Department of Education shall develop model
+12 programs for educating students regarding online safety while using
+13 the Internet, taking into consideration educational materials on
+14 this topic developed by other states as well as any other materials
+15 suggested by education experts, child psychologists, and technology
+16 companies that promote child online safety issues.
+17 2. The model programs provided for in this section shall
+18 include one or more model programs for students in grades six
+19 through twelve which:
+20 a. shall include instruction regarding:
+21 (1) the social, emotional, and physical effects of
+22 social media on users,
+23 (2) the effects of social media on the mental health
+24 of users, particularly teenagers,
+Req. No. 2030 Page 10
+
+1 (3) the distribution of disinformation and
+2 misinformation on social media,
+3 (4) how social media influences thoughts and
+4 behaviors,
+5 (5) the permanency and risks of sharing materials
+6 online,
+7 (6) how to maintain personal security and identify
+8 cyberbullying, predatory behavior, and human
+9 trafficking on the Internet and social media, and
+10 (7) how to report suspicious behavior encountered on
+11 the Internet and social media to appropriate
+12 persons and authorities, and
+13 b. may include information regarding the benefits of
+14 social media use, such as supporting career readiness
+15 for future academic or employment opportunities,
+16 sharing information with familiar family and friends,
+17 and safely connecting with other users with similar
+18 interests.
+19 B. The State Department of Education shall periodically update
+20 the model programs provided for in this section to reflect changes
+21 in Internet and social media use, emergent technologies, social and
+22 psychological research, and information concerning new threats to
+23 teenagers and young adults using social media platforms and other
+24 online communication technologies.
+Req. No. 2030 Page 11
+
+1 C. The State Department of Education shall publish on its
+2 website information relating to the model programs provided for in
+3 this section including recommended curricula and instructional
+4 materials as updated periodically as provided in this section. The
+5 Department shall provide technical assistance in addition to such
+6 model programs and recommended curricula and instructional materials
+7 to aid any public school district board of education or charter
+8 school governing body that may elect to incorporate one or more
+9 components of Internet and social media safety into its
+10 instructional program.
+11 D. Each public school district board of education or charter
+12 school governing body may incorporate into its instructional program
+13 a component on online Internet safety including social media safety
+14 to be taught on a schedule as determined by the public school
+15 district board of education or charter school governing body.
+16 SECTION 4. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 6-503 of Title 70, unless there
+18 is created a duplication in numbering, reads as follows:
+19 A. No later than October 1, 2025, each public school district
+20 board of education or charter school governing body shall adopt an
+21 acceptable-use policy. At a minimum, an acceptable-use policy shall
+22 contain provisions which are reasonably designed to:
+23
+24
+Req. No. 2030 Page 12
+
+1 1. Prevent and prohibit any school equipment from being used
+2 for accessing, sending, receiving, viewing, or downloading obscene
+3 materials, child pornography, or material that is harmful to minors;
+4 2. Establish appropriate measures to be taken by the public
+5 school district or charter school in response to:
+6 a. students and school employees who intentionally
+7 violate the acceptable-use policy, regardless of
+8 whether such student or school employee was, at the
+9 time of such violation, on school property, on a
+10 school bus or other school vehicle, at a school-
+11 related function, or elsewhere, provided that such
+12 measures include disciplinary measures, and
+13 b. any person who is not a student or school employee who
+14 violates the acceptable-use policy, regardless of
+15 whether such person was, at the time of such
+16 violation, on school property, on a school bus or
+17 other school vehicle, at a school-related function, or
+18 elsewhere;
+19 3. Provide for administrative procedures to enforce the
+20 acceptable-use policy;
+21 4. Provide for administrative procedures to address complaints
+22 regarding possible violations of the acceptable-use policy which, at
+23 a minimum, require that each complaint is responded to in writing by
+24
+Req. No. 2030 Page 13
+
+1 an a ppropriate public school district or charter school official;
+2 and
+3 5. Provide for expedited review and resolution of a claim that
+4 the application of the acceptable-use policy is denying a student or
+5 school employee access to material that is not within the
+6 prohibitions of the acceptable-use policy.
+7 B. The acceptable-use policy provided for in subsection A of
+8 this section may include terms, conditions, and requirements deemed
+9 appropriate by the public school district board of education or
+10 charter school governing body to differentiate acceptable uses among
+11 elementary, middle, and high school students and among different age
+12 groups; provided, however, that any public school district board of
+13 education or charter school governing body that authorizes such
+14 differentiation shall articulate in its acceptable-use policy the
+15 rationale for each method of differentiation included in such
+16 acceptable-use policy.
+17 C. Each public school district board of education or charter
+18 school governing body shall provide reasonable opportunities and
+19 procedures for parents of current students to confer and collaborate
+20 with school administrators and teachers regarding appropriate
+21 Internet access for such students.
+22 D. Each public school district board of education or charter
+23 school governing body and school district superintendent or charter
+24 school administrator shall take such steps as are necessary and
+Req. No. 2030 Page 14
+
+1 appr opriate to implement and enforce the acceptable-use policy,
+2 which shall include, but not be limited to, providing for the
+3 adoption, use, and routine upgrading of technology protection
+4 measures which meet or exceed compliance standards and
+5 specifications established by the State Department of Education.
+6 E. Each public school district and charter school shall
+7 provide, upon written request of a parent, a copy of the acceptable-
+8 use policy adopted pursuant to subsection B of this section and
+9 information regarding the administrative procedures in effect to
+10 enforce the acceptable-use policy and to address complaints about
+11 enforcement.
+12 F. By October 15, 2025, and each October 15 thereafter, each
+13 public school district board of education or charter school
+14 governing body shall electronically submit a copy of its acceptable-
+15 use policy to the State Board of Education. The submission shall
+16 include the identification of the technology protection measures
+17 being used, if such measures are being used as provided for in
+18 Section 5 of this act.
+19 G. The State Board of Education shall review each acceptable-
+20 use policy and any subsequent revisions submitted pursuant to
+21 subsection H of this section. If the Board determines after review
+22 that a policy, technology protection measure, or revision is not
+23 reasonably designed to achieve the requirements of this section, the
+24 Board shall provide written notice to the public school district
+Req. No. 2030 Page 15
+
+1 boar d of education or charter school governing body explaining the
+2 nature of such noncompliance, and the public school district board
+3 of education or charter school governing body shall have thirty (30)
+4 days from the receipt of written notice to correct such
+5 noncompliance. The Board may provide an extension to the thirty-day
+6 period on a showing of good cause.
+7 H. No revision of an acceptable-use policy submission which has
+8 been approved by the State Board of Education pursuant to subsection
+9 G of this section shall be implemented until such revision is
+10 approved by the Board. If the Board fails to disapprove the
+11 revision within sixty (60) days after the submission is received,
+12 the public school district board of education or charter school
+13 governing body may proceed with the implementation of the revision.
+14 SECTION 5. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 6-504 of Title 70, unless there
+16 is created a duplication in numbering, reads as follows:
+17 A. By April 1, 2026, and by each April 1 thereafter, the State
+18 Department of Education shall establish compliance standards and
+19 specifications for technology protection measures that may be used
+20 by public school districts and charter schools in this state. To
+21 the extent practicable, such compliance standards and specifications
+22 for technology protection measures shall include measures and
+23 controls for parents of current students to supervise and manage
+24 appropriate Internet access by such students who are using a school-
+Req. No. 2030 Page 16
+
+1 issu ed computer or other electronic device while not on school
+2 property, not on a school bus or other school vehicle, or not at a
+3 school-related function.
+4 B. The State Department of Education shall publish on its
+5 website a list of technology protection measures that meet the
+6 compliance standards and specifications established pursuant to
+7 subsection A of this section that public school districts and
+8 charter schools may install on each computer or other electronic
+9 device issued to students for off-campus use. The Department shall
+10 annually require each technology protection measure provider to
+11 verify that the measures it provides meet or exceed the standards
+12 and specifications established pursuant to subsection A of this
+13 section. The Department may provide information to public school
+14 districts and charter schools regarding state contracts with
+15 technology protection measure providers. The Department shall
+16 prioritize the identification of technology protection measure
+17 providers that include parental measures and controls as provided
+18 for in this section.
+19 C. The Department shall provide guidance and technical
+20 assistance to assist public school districts and charter schools in
+21 complying with this section.
+22 D. By December 1, 2025, the Department shall develop guidelines
+23 for the training of public school district and charter school
+24 personnel. The training guidelines shall include instruction in:
+Req. No. 2030 Page 17
+
+1 1. Implementing and complying with acceptable-use policies
+2 required by Section 4 of this act;
+3 2. Basic cybersecurity issues pertinent to public school
+4 districts and charter schools, students, and educators including,
+5 but not limited to, phishing and multifactor authentication; and
+6 3. Other current and emerging issues and topics which address
+7 the safe and secure use of technology by students and educators.
+8 SECTION 6. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 6-505 of Title 70, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. By April 1, 2026, each public school district board of
+12 education or charter school governing body shall adopt a social
+13 media policy which shall:
+14 1. a. except as provided in subparagraph b of this
+15 paragraph, prohibit students from accessing social
+16 media platforms through the use of computer equipment,
+17 communications services, or Internet access that is
+18 operated, owned, leased, and made available to
+19 students by the public school district or charter
+20 school or the public school district board of
+21 education or charter school governing body, and
+22 b. to the extent authorized by such social media policy,
+23 students shall be permitted to access social media
+24 platforms only:
+Req. No. 2030 Page 18
+
+1 (1) as directed by school personnel,
+2 (2) for the exclusive purpose of accessing and
+3 utilizing age-appropriate educational resources,
+4 (3) under the supervision of such school personnel,
+5 and
+6 (4) during the course of a school-related activity;
+7 2. Establish appropriate measures to be taken when a student
+8 violates such policy; and
+9 3. Establish procedures for parents to:
+10 a. request information from school personnel about what
+11 social media platforms have been or are intended to be
+12 accessed as provided in subparagraph b of paragraph 1
+13 of this subsection, and
+14 b. prohibit their child from accessing one or more social
+15 media platforms as provided in subparagraph b of
+16 paragraph 1 of this subsection.
+17 B. A public school district board of education or charter
+18 school governing body shall take such steps as it deems appropriate
+19 to implement and enforce its social media policy, which shall
+20 include, but shall not be limited to:
+21 1. Use of software programs and other technologies reasonably
+22 designed and intended to block and monitor access to social media
+23 platforms; and
+24
+Req. No. 2030 Page 19
+
+1 2. Selection of online servers that block and monitor access to
+2 social media platforms.
+3 C. Each public school district and charter school shall publish
+4 on its website a copy of the social media policy adopted pursuant to
+5 this section and shall provide a paper copy upon written request of
+6 a parent of an enrolled student.
+7 D. The State Department of Education may consult with and
+8 assist a public school district board of education or charter school
+9 governing body in developing and implementing a social media policy
+10 pursuant to this section.
+11 E. By April 15, 2026, each public school district board of
+12 education or charter school governing body shall electronically
+13 submit a copy of its social media policy to the State Department of
+14 Education for compliance review. Such submission shall identify any
+15 software program or other technology that is being or will be
+16 utilized to block access to social media platforms in accordance
+17 with subsection B of this section.
+18 F. The State Department of Education shall review each social
+19 media policy and any subsequent revisions electronically submitted
+20 pursuant to subsection E of this section. If the Department
+21 determines after compliance review that a policy or revision thereof
+22 is not reasonably designed to achieve the requirements of this
+23 section, it shall provide written notice of noncompliance to the
+24
+Req. No. 2030 Page 20
+
+1 publ ic school district board of education or charter school
+2 governing body as provided for in subsection H of this section.
+3 G. No revision of a social media policy which has been deemed
+4 compliant pursuant to subsection H of this section shall be
+5 implemented until such revision is reviewed by the State Department
+6 of Education. If the Department fails to provide a notice of
+7 noncompliance for the revision within sixty (60) days of its
+8 receipt, the public school district board of education or charter
+9 school governing body may proceed with the implementation of the
+10 revision.
+11 H. 1. The State Department of Education shall be responsible
+12 for conducting any necessary investigations and making written
+13 determinations as to whether a public school district board of
+14 education or charter school governing body has failed to comply with
+15 the requirements of this section.
+16 2. If the Department determines that a public school district
+17 board of education or charter school governing body has failed to
+18 comply with the requirements of this section, it shall provide a
+19 written notice of noncompliance to the board of education or charter
+20 school governing body and the board or governing body shall have
+21 thirty (30) days from the receipt of such notice to correct such
+22 noncompliance and to develop a corrective action plan for preventing
+23 future recurrences. The Department may extend such thirty-day
+24 period upon a showing of good cause by the local governing body.
+Req. No. 2030 Page 21
+
+1 SECTION 7. This act shall become effective July 1, 2025.
+2 SECTION 8. It being immediately necessary for the preservation
+3 of the public peace, health, or safety, an emergency is hereby
+4 declared to exist, by reason whereof this act shall take effect and
+5 be in full force from and after its passage and approval.
+6
+7 60-1-2030 EB 4/17/2025 12:28:32 PM
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 2030 Page 22
+
+[DELETED:  PS B H  a R]
+[DELETED:  Pc]
+[DELETED:  P t t t t i t]
+[DELETED:  P ( w w w t t t]
+[DELETED:  P a a a a s]
+[DELETED:  P e a a n o]
+[DELETED:  P i p s b t c s c]
+[DELETED:  P p p p a I a p p p]
+[DELETED:  P p a p c]
+[DELETED:  P s t t]
+[DELETED:  P t h t h h m]
+[DELETED:  P]
+[DELETED:  P s a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a e t]
+[DELETED:  P a f u d r p]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P E 4]

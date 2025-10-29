@@ -1,0 +1,1069 @@
+Title: 3 HOUSE BILL 1388 By: Hasenbeck
+Official Title: 3 HOUSE BILL 1388 By: Hasenbeck
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to children; providing definitions;
+directing covered entities to complete and review
+8 impact assessments; requiring covered entities to
+provide impact assessments to Attorney General;
+9 requiring certain default privacy settings; directing
+covered entities to publicly provide certain
+10 information in clear language suited to age of
+children accessing product; requiring entity provide
+11 certain tools; providing information required for
+data protection impact assessment; requiring covered
+12 entity act in best interest of children; clarifying
+data protection impact assessments are confidential
+13 and not subject to public disclosure; clarifying
+certain information disclosed does not waive
+14 privilege or protection; permitting assessments that
+complies with other law; permitting single data
+15 protection impact assessment for similar processing
+operations; requiring first impact assessment by
+16 certain date; prohibiting covered entities from
+processing personal data of a child in way that is
+17 inconsistent with best interest of child; prohibiting
+covered entities from profiling a child unless listed
+18 exception applies; prohibiting covered entities from
+processing personal data of child that is not
+19 necessary to provide online product; prohibiting
+processing certain personal data for purposes other
+20 than reason collected; prohibiting the processing of
+certain geolocation information of children;
+21 prohibiting covered entities from using dark patterns
+for certain purpose; requiring covered entity signal
+22 a child when being monitored or tracked; providing
+penalties for a covered entity that violates this
+23 act; permitting only Attorney General to initiate
+enforcement actions; directing Attorney General
+24 provide notice to covered entities in substantial
+Req. No. 10418 Page 1
+1 compliance; directing covered entities notify
+Attorney General when certain violations are cured;
+2 clarifying act does not serve as basis for private
+right of action; providing list of entities this act
+3 does not apply to; clarifying act does not impose
+certain liability; clarifying act does not prevent or
+4 preclude a child from deliberately searching for
+content; clarifying act does not require covered
+5 entity to restrict access to online products based
+solely on age; clarifying act applies to certain
+6 covered entities; clarifying that act does not apply
+to online products, services, or features not
+7 accessible by public after certain date; providing
+for codification; and providing an effective date.
+8
+9
+10 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+11 SECTION 1. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 8001 of Title 10, unless there
+13 is created a duplication in numbering, reads as follows:
+14 As used in this act:
+15 1. "Affiliate" means a legal entity that controls, is
+16 controlled by or is under common control with another legal entity;
+17 2. "Age-appropriate" means a recognition of the distinct needs
+18 and diversities of children in the following age ranges:
+19 a. up to five (5) years of age,
+20 b. six (6) to nine(9) years of age,
+21 c. ten (10) to twelve (12) years of age,
+22 d. thirteen (13) to fifteen (15) years of age, and
+23 e. sixteen (16) to seventeen (17) years of age;
+24
+Req. No. 10418 Page 2
+1 3. "Best interest of children" means the use, by a covered
+2 entity, of the personal data of a child or the design of an online
+3 product, service or feature in a way that:
+4 a. will not benefit the covered entity to the detriment
+5 of the child, and
+6 b. will not result in:
+7 (1) reasonably foreseeable and material physical or
+8 financial harm to the child,
+9 (2) reasonably foreseeable and severe psychological
+10 or emotional harm to the child,
+11 (3) a highly offensive intrusion on the reasonable
+12 privacy expectations of the child, or
+13 (4) discrimination against the child based upon race,
+14 color, religion, national origin, disability, sex
+15 or sexual orientation;
+16 4. "Child" means a consumer who is under eighteen (18) years of
+17 age;
+18 5. "Collect" means buying, renting, gathering, obtaining,
+19 receiving, or accessing personal data pertaining to a consumer by
+20 any means, including receiving personal data from the consumer,
+21 either actively or passively, or by observing the consumer's
+22 behavior;
+23
+24
+Req. No. 10418 Page 3
+1 6. "Common branding" means a shared name, service mark or
+2 trademark that the average consumer would understand that two or
+3 more entities commonly own;
+4 7. "Consumer" means a natural person who resides in Oklahoma,
+5 however identified, including by a unique identifier;
+6 8. "Control" or "controlled" means:
+7 a. ownership of or the power to vote more than fifty
+8 percent (50%) of the outstanding shares of any class
+9 of voting security of a covered entity,
+10 b. control in any manner over the election of a majority
+11 of the directors or of individuals exercising similar
+12 functions of a covered entity, or
+13 c. the power to exercise a controlling influence over the
+14 management of a covered entity;
+15 9. "Covered entity" means a sole proprietorship, partnership,
+16 limited liability company, corporation, association, affiliate, or
+17 other legal entity that is organized or operated for the profit or
+18 financial benefit of the entity's shareholders or other owners and
+19 that offers online products, services or features to individuals in
+20 Oklahoma and processes children's personal data;
+21 10. "Dark pattern" means a user interface designed or
+22 manipulated with the purpose of subverting or impairing user
+23 autonomy, decision making, or choice;
+24
+Req. No. 10418 Page 4
+1 11. "Data protection impact assessment" means a systematic
+2 survey to assess compliance with the duty to act in the best
+3 interest of children;
+4 12. "Default" means a preselected option adopted by a covered
+5 entity for an online product, service, or feature;
+6 13. "De-identified" means information that cannot reasonably
+7 be used to infer information about, or otherwise be linked to, an
+8 identified or identifiable individual, if a covered entity that
+9 possesses that information:
+10 a. takes reasonable measures to ensure that such
+11 information cannot be associated with an individual,
+12 b. publicly commits to process such information only in a
+13 de-identified fashion and not attempt to reidentify
+14 such information, and
+15 c. contractually obligates any recipients of such
+16 information to satisfy the criteria set forth in this
+17 subsection;
+18 14. "Derived data" means data that is created by the
+19 derivation of information, data, assumptions, correlations,
+20 inferences, predictions, or conclusions from facts, evidence, or
+21 another source of information or data about a child or a child's
+22 device;
+23 15. "Personal data" means any information, including derived
+24 data, that is linked or reasonably linkable, alone or in combination
+Req. No. 10418 Page 5
+1 with other information, to an identified or identifiable individual.
+2 Personal data does not include de-identified information or publicly
+3 available information;
+4 16. "Precise geolocation" means any data that is derived from
+5 a device and that is used or intended to be used to locate a
+6 consumer within a geographic area that is equal to or less than the
+7 area of a circle with a radius of one thousand eight hundred (1,800)
+8 feet;
+9 17. "Process" or "processing" means conduct or an operation
+10 performed, whether by manual or automated means, on personal data or
+11 on sets of personal data, such as the collection, use, storage,
+12 disclosure, analysis, deletion, modification, or other handling of
+13 personal data;
+14 18. "Profiling" means automated processing of personal data
+15 that uses personal data to evaluate certain aspects relating to a
+16 natural person, including analyzing or predicting aspects concerning
+17 a natural person's performance at work, economic situation, health,
+18 personal preferences, interests, reliability, behavior, location, or
+19 movements. Profiling does not include the processing of data that
+20 does not result in an assessment or judgment about a natural person;
+21 19. "Reasonably likely to be accessed" means an online
+22 product, service or feature is accessed or is reasonably likely to
+23 be accessed by children based on any of the following indicators:
+24
+Req. No. 10418 Page 6
+1 a. the online product, service or feature is directed to
+2 children as defined by the federal Children's Online
+3 Privacy Protection Act of 1998,
+4 b. the online product, service or feature is determined,
+5 based on competent and reliable evidence regarding
+6 audience composition, to be routinely accessed by a
+7 significant number of children,
+8 c. the online product, service or feature has
+9 advertisements marketed to children,
+10 d. the online product, service or feature is
+11 substantially similar or the same as an online
+12 product, service or feature subject to subparagraph b
+13 of this paragraph,
+14 e. a significant amount of the audience of the online
+15 product, service or feature is determined, based on
+16 internal company research, to be children, or
+17 f. the covered entity knew or should have known that a
+18 user is a child;
+19 20. "Sell" means selling, renting, releasing, disclosing,
+20 disseminating, making available, transferring, or otherwise
+21 communicating orally, in writing or by electronic or other means, a
+22 consumer's personal data by a covered entity to a third party for
+23 monetary or other valuable consideration. Sell does not include:
+24
+Req. No. 10418 Page 7
+1 a. the disclosure of personal data to a third party who
+2 processes the personal data on behalf of the covered
+3 entity,
+4 b. the disclosure of personal data to a third party with
+5 whom the consumer has a direct relationship for
+6 purposes of providing an online product, service or
+7 feature requested by the consumer,
+8 c. the disclosure or transfer of personal data to an
+9 affiliate of the covered entity,
+10 d. the disclosure of data that the consumer intentionally
+11 made available to the general public via a channel of
+12 mass media and did not restrict to a specific
+13 audience, or
+14 e. the disclosure or transfer of personal data to a third
+15 party as an asset that is part of the completed or
+16 proposed merger, acquisition, bankruptcy, or other
+17 transaction in which the third party assumes control
+18 of all or part of the covered entity's assets;
+19 21. "Sensitive personal data" means personal data that
+20 includes:
+21 a. data revealing racial or ethnic origin, religious
+22 beliefs, mental or physical health condition or
+23 diagnosis, sex life, sexual orientation or citizenship
+24 or immigration status,
+Req. No. 10418 Page 8
+1 b. the processing of genetic or biometric data for the
+2 purpose of uniquely identifying an individual, or
+3 c. precise geolocation data;
+4 22. "Share" means sharing, renting, releasing, disclosing,
+5 disseminating, making available, transferring, or otherwise
+6 communicating orally, in writing or by electronic or other means, a
+7 consumer's personal data by a covered entity to a third party for
+8 cross-context behavioral advertising, whether or not for monetary or
+9 other valuable consideration, including transactions between a
+10 covered entity and a third party for cross-context behavioral
+11 advertising for the benefit of a covered entity in which no money is
+12 exchanged; and
+13 23. "Third party" means a person other than the consumer of the
+14 covered entity.
+15 SECTION 2. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 8002 of Title 10, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. A covered entity shall:
+19 1. Complete a data protection impact assessment for any online
+20 product, service or feature that is reasonably likely to be accessed
+21 and maintain documentation of the data protection impact assessment
+22 as long as the online product, service or feature is reasonably
+23 likely to be accessed;
+24
+Req. No. 10418 Page 9
+1 2. Review all data protection impact assessments as necessary
+2 to account for material changes to data processing pertaining to the
+3 online product, service or feature;
+4 3. Within five (5) business days of a written request by the
+5 Attorney General, provide to the Attorney General a list of all data
+6 protection impact assessments the covered entity has completed;
+7 4. Within seven (7) business days of a written request by the
+8 Attorney General, provide a data protection impact assessment to the
+9 Attorney General pursuant to such a request; provided that the
+10 Attorney General may, at the Attorney General's discretion, extend
+11 the time allowed for a covered entity to produce a data protection
+12 impact assessment;
+13 5. Configure all default privacy settings provided to children
+14 by the online product, service or feature to settings that offer a
+15 high level of privacy, unless the covered entity can demonstrate a
+16 compelling reason that a different setting is in the best interest
+17 of children;
+18 6. Publicly provide privacy information, terms of service,
+19 policies, and community standards in a prominent, precise manner and
+20 use clear language suited to the age of children reasonably likely
+21 to access that online product, service or feature; and
+22 7. Publicly provide prominent, accessible and responsive tools
+23 to help a child or, if applicable, the child's parent or guardian,
+24 exercise the child's privacy rights and report concerns.
+Req. No. 10418 Page 10
+1 B. The data protection impact assessment required by this
+2 section shall identify the purpose of an online product, service or
+3 feature and how the online product, service or feature uses
+4 children's personal data and determine whether the online product,
+5 service or feature is designed and offered in an age-appropriate
+6 manner consistent with the best interest of children who are
+7 accessing or reasonably likely to access the online product, service
+8 or feature by examining at least the following:
+9 1. Whether the design of the online product, service or feature
+10 could lead to children experiencing or being targeted by harmful, or
+11 potentially harmful, contacts on the online product, service or
+12 feature that would be inconsistent with the best interest of
+13 children reasonably likely to access the online product, service or
+14 feature;
+15 2. Whether the design of the online product, service or feature
+16 could permit children to witness, participate in or be subject to
+17 conduct on the online product, service or feature that would be
+18 inconsistent with the best interest of children reasonably likely to
+19 access the online product, service or feature;
+20 3. Whether the design of the online product, service or feature
+21 is reasonably expected to allow children to be party to or exploited
+22 by a contract on the online product, service or feature;
+23
+24
+Req. No. 10418 Page 11
+1 4. Whether algorithms used by the online product, service or
+2 feature would be inconsistent with the best interest of children
+3 reasonably likely to access the online product, service or feature;
+4 5. Whether targeted advertising systems used by the online
+5 product, service or feature would be inconsistent with the best
+6 interest of children reasonably likely to access the online product,
+7 service or feature;
+8 6. Whether the online product, service or feature uses system
+9 design features to increase, sustain or extend the use of the online
+10 product, service or feature by children, including the automatic
+11 playing of media, rewards for time spent and notifications, that
+12 would be inconsistent with the best interest of children reasonably
+13 likely to access the online product, service or feature; and
+14 7. Whether, how and for what purpose the online product,
+15 service or feature collects or processes sensitive personal data of
+16 children and whether those practices would be inconsistent with the
+17 best interest of children reasonably likely to access the online
+18 product, service or feature.
+19 C. When a covered entity identifies an online product, service
+20 or feature reasonably likely to be accessed by children that may be
+21 inconsistent with the best interest of children, the covered entity
+22 shall include in a data protection impact assessment a detailed plan
+23 describing the steps the covered entity has taken and will take to
+24
+Req. No. 10418 Page 12
+1 ensu re that the online product, service or feature will be
+2 consistent with the best interest of children.
+3 D. A data protection impact assessment is protected as
+4 confidential and shall be exempt from public disclosure, including
+5 pursuant to the Oklahoma Open Records Act.
+6 E. To the extent any information contained in a data protection
+7 impact assessment disclosed to the Attorney General includes
+8 information subject to attorney-client privilege or work product
+9 protection, disclosure pursuant to subsection A of this section
+10 shall not constitute a waiver of that privilege or protection.
+11 F. A data protection impact assessment conducted by a covered
+12 entity for the purpose of compliance with any other law complies
+13 with this section if the data protection impact assessment meets the
+14 requirements of this act.
+15 G. A single data protection impact assessment may contain
+16 multiple similar processing operations that present similar risks
+17 only if each relevant online product, service or feature is
+18 addressed.
+19 H. A covered entity shall complete a data protection impact
+20 assessment on or before January 1, 2026, for any online product,
+21 service or feature that is reasonably likely to be accessed by
+22 children after December 31, 2025.
+23
+24
+Req. No. 10418 Page 13
+1 SECTION 3. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 8003 of Title 10, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A covered entity that provides an online product, service or
+5 feature that is reasonably likely to be accessed shall not:
+6 A. Process the personal data of a child in a way that the
+7 covered entity knows, or has reason to know, is inconsistent with
+8 the best interest of children reasonably likely to access the online
+9 product, service or feature.
+10 B. Profile a child by default unless:
+11 1. The covered entity can demonstrate that the covered entity
+12 has appropriate safeguards in place to ensure that profiling is
+13 consistent with the best interest of children reasonably likely to
+14 access the online product, service or feature; and
+15 2. Profiling is necessary to provide the online product,
+16 service or feature requested, and only with respect to the aspects
+17 of the online product, service or feature with which the child is
+18 actively and knowingly engaged; or
+19 3. The covered entity can demonstrate a compelling reason that
+20 profiling is in the best interest of children.
+21 C. Process any personal data that is not necessary to provide
+22 an online product, service or feature with which a child is actively
+23 and knowingly engaged.
+24
+Req. No. 10418 Page 14
+1 D. If the end user is a child, process personal data for any
+2 reason other than a reason for which that personal data was
+3 collected.
+4 E. Process any precise geolocation information of children by
+5 default unless the collection of that precise geolocation
+6 information is strictly necessary for the covered entity to provide
+7 the online product, service or feature requested and then only for
+8 the limited time that the collection of precise geolocation
+9 information is necessary to provide the online product, service or
+10 feature.
+11 F. Process any precise geolocation information of a child
+12 without providing an obvious sign to the child for the duration of
+13 that collection that precise geolocation information is being
+14 collected.
+15 G. Use dark patterns to cause children to provide personal data
+16 beyond what is reasonably expected to provide that online product,
+17 service or feature, to forego privacy protections or to take any
+18 action that the covered entity knows, or has reason to know, is not
+19 in the best interest of children reasonably likely to access the
+20 online product, service or feature.
+21 H. Process any personal data that is not reasonably necessary
+22 to provide an online product, service or feature with which a child
+23 is actively and knowingly engaged to reasonably estimate age.
+24
+Req. No. 10418 Page 15
+1 I. Allow a child's parent, guardian or any other consumer to
+2 monitor the child's online activity or track the child's location
+3 without providing an obvious signal to the child when the child is
+4 being monitored or tracked.
+5 SECTION 4. NEW LAW A new section of law to be codified
+6 in the Oklahoma Statutes as Section 8004 of Title 10, unless there
+7 is created a duplication in numbering, reads as follows:
+8 A. A covered entity that violates this act shall be:
+9 1. Subject to injunctive relief to cease or correct the
+10 violation;
+11 2. Liable for a civil penalty of not more than Two Thousand
+12 Five Hundred Dollars ($2,500.00) per affected child for each
+13 negligent violation; and
+14 3. Liable for a civil penalty of not more than Seven Thousand
+15 Five Hundred Dollars ($7,500.00) per affected child for each
+16 intentional violation.
+17 B. Enforcement actions pursuant to subsection A of this section
+18 shall only be initiated by the Attorney General.
+19 C. If a covered entity is in substantial compliance with the
+20 requirements of Sections 3 through 5 of this act, the Attorney
+21 General shall provide written notice to the covered entity, before
+22 initiating an action pursuant to subsection A of this section,
+23 identifying the specific provisions of that act that the Attorney
+24 General alleges have been or are being violated.
+Req. No. 10418 Page 16
+1 D. If a covered entity in compliance with subsection H of
+2 Section 4 of this act cures the alleged violations identified in a
+3 notice pursuant to subsection C of this section and provides the
+4 Attorney General a written statement that the alleged violations
+5 have been cured and sufficient measures have been taken to prevent
+6 future violations, the covered entity shall not be liable for a
+7 civil penalty for any violation cured pursuant to this subsection.
+8 E. Nothing in this act shall be interpreted to serve as the
+9 basis for a private right of action under this act or any other law.
+10 SECTION 5. NEW LAW A new section of law to be codified
+11 in the Oklahoma Statutes as Section 8005 of Title 10, unless there
+12 is created a duplication in numbering, reads as follows:
+13 This act shall not apply to:
+14 A. Protected health information that is collected by a covered
+15 entity associate governed by the privacy, security and breach
+16 notification rules issued by the United States Department of Health
+17 and Human Services, Parts 160 and 164 of Title 45 of the Code of
+18 Federal Regulations, established pursuant to the federal Health
+19 Insurance Portability and Accountability Act of 1996.
+20 B. A covered entity governed by the privacy, security and
+21 breach notification rules issued by the United States Department of
+22 Health and Human Services, Parts 160 and 164 of Title 45 of the Code
+23 of Federal Regulations, established pursuant to the federal Health
+24 Insurance Portability and Accountability Act of 1996, to the extent
+Req. No. 10418 Page 17
+1 the provider or covered entity maintains patient information in the
+2 same manner as medical information or protected health information
+3 as described in subsection A of this section.
+4 C. Information collected as part of a clinical trial subject to
+5 the federal policy for the protection of human subjects, also known
+6 as the common rule, pursuant to good clinical practice guidelines
+7 issued by the international council for harmonization of technical
+8 requirements for pharmaceuticals for human use or pursuant to human
+9 subject protection requirements of the United States Food and Drug
+10 Administration.
+11 D. A telecommunications service as defined in 47 U.S.C.,
+12 Section 153.
+13 E. The delivery or use of a physical product.
+14 SECTION 6. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 8006 of Title 10, unless there
+16 is created a duplication in numbering, reads as follows:
+17 Nothing in this act shall be interpreted or construed to:
+18 A. Impose liability in a manner that is inconsistent with 47
+19 U.S.C., Section 230.
+20 B. Prevent or preclude a child from deliberately or
+21 independently searching for, or specifically requesting, content.
+22 C. Require a covered entity to restrict access to online
+23 products, services, or features based solely on age.
+24
+Req. No. 10418 Page 18
+1 SECTION 7. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 8007 of Title 10, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. This act shall apply to covered entities in Oklahoma or
+5 persons that provide online products, services, or features that are
+6 targeted to residents of this state and that during the preceding
+7 calendar year:
+8 1. Controlled or processed the personal data of not fewer than
+9 one hundred thousand (100,000) consumers, excluding personal data
+10 controlled or processed solely for the purpose of completing a
+11 payment transaction; or
+12 2. Controlled or processed the personal data of not fewer than
+13 twenty-five thousand (25,000) consumers and derived more than
+14 twenty-five percent (25%) of the covered entity's gross revenue from
+15 the sale of personal data.
+16 B. This act does not apply to an online product, service, or
+17 feature that is not accessible by the public after December 31,
+18 2025.
+19 SECTION 8. This act shall become effective November 1, 2025.
+20
+21 60-1-10418 MJ 01/09/25
+22
+23
+24
+Req. No. 10418 Page 19
+[DELETED:  P B]
+[DELETED:  P u s t t s]
+[DELETED:  P w w r r a d]
+[DELETED:  P o c t]
+[DELETED:  P t p c]
+[DELETED:  P]
+[DELETED:  P t t t t a t]
+[DELETED:  P t t t t t d]
+[DELETED:  P t p]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 0]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 HOUSE BILL 1388 By: Hasenbeck
+4
+5
+6 AS INTRODUCED
+7 An Act relating to children; providing definitions;
+directing covered entities to complete and review
+8 impact assessments; requiring covered entities to
+provide impact assessments to Attorney General;
+9 requiring certain default privacy settings; directing
+covered entities to publicly provide certain
+10 information in clear language suited to age of
+children accessing product; requiring entity provide
+11 certain tools; providing information required for
+data protection impact assessment; requiring covered
+12 entity act in best interest of children; clarifying
+data protection impact assessments are confidential
+13 and not subject to public disclosure; clarifying
+certain information disclosed does not waive
+14 privilege or protection; permitting assessments that
+complies with other law; permitting single data
+15 protection impact assessment for similar processing
+operations; requiring first impact assessment by
+16 certain date; prohibiting covered entities from
+processing personal data of a child in way that is
+17 inconsistent with best interest of child; prohibiting
+covered entities from profiling a child unless listed
+18 exception applies; prohibiting covered entities from
+processing personal data of child that is not
+19 necessary to provide online product; prohibiting
+processing certain personal data for purposes other
+20 than reason collected; prohibiting the processing of
+certain geolocation information of children;
+21 prohibiting covered entities from using dark patterns
+for certain purpose; requiring covered entity signal
+22 a child when being monitored or tracked; providing
+penalties for a covered entity that violates this
+23 act; permitting only Attorney General to initiate
+enforcement actions; directing Attorney General
+24 provide notice to covered entities in substantial
+Req. No. 10418 Page 1
+
+1 compliance; directing covered entities notify
+Attorney General when certain violations are cured;
+2 clarifying act does not serve as basis for private
+right of action; providing list of entities this act
+3 does not apply to; clarifying act does not impose
+certain liability; clarifying act does not prevent or
+4 preclude a child from deliberately searching for
+content; clarifying act does not require covered
+5 entity to restrict access to online products based
+solely on age; clarifying act applies to certain
+6 covered entities; clarifying that act does not apply
+to online products, services, or features not
+7 accessible by public after certain date; providing
+for codification; and providing an effective date.
+8
+9
+10 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+11 SECTION 1. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 8001 of Title 10, unless there
+13 is created a duplication in numbering, reads as follows:
+14 As used in this act:
+15 1. "Affiliate" means a legal entity that controls, is
+16 controlled by or is under common control with another legal entity;
+17 2. "Age-appropriate" means a recognition of the distinct needs
+18 and diversities of children in the following age ranges:
+19 a. up to five (5) years of age,
+20 b. six (6) to nine(9) years of age,
+21 c. ten (10) to twelve (12) years of age,
+22 d. thirteen (13) to fifteen (15) years of age, and
+23 e. sixteen (16) to seventeen (17) years of age;
+24
+Req. No. 10418 Page 2
+
+1 3. "Best interest of children" means the use, by a covered
+2 entity, of the personal data of a child or the design of an online
+3 product, service or feature in a way that:
+4 a. will not benefit the covered entity to the detriment
+5 of the child, and
+6 b. will not result in:
+7 (1) reasonably foreseeable and material physical or
+8 financial harm to the child,
+9 (2) reasonably foreseeable and severe psychological
+10 or emotional harm to the child,
+11 (3) a highly offensive intrusion on the reasonable
+12 privacy expectations of the child, or
+13 (4) discrimination against the child based upon race,
+14 color, religion, national origin, disability, sex
+15 or sexual orientation;
+16 4. "Child" means a consumer who is under eighteen (18) years of
+17 age;
+18 5. "Collect" means buying, renting, gathering, obtaining,
+19 receiving, or accessing personal data pertaining to a consumer by
+20 any means, including receiving personal data from the consumer,
+21 either actively or passively, or by observing the consumer's
+22 behavior;
+23
+24
+Req. No. 10418 Page 3
+
+1 6. "Common branding" means a shared name, service mark or
+2 trademark that the average consumer would understand that two or
+3 more entities commonly own;
+4 7. "Consumer" means a natural person who resides in Oklahoma,
+5 however identified, including by a unique identifier;
+6 8. "Control" or "controlled" means:
+7 a. ownership of or the power to vote more than fifty
+8 percent (50%) of the outstanding shares of any class
+9 of voting security of a covered entity,
+10 b. control in any manner over the election of a majority
+11 of the directors or of individuals exercising similar
+12 functions of a covered entity, or
+13 c. the power to exercise a controlling influence over the
+14 management of a covered entity;
+15 9. "Covered entity" means a sole proprietorship, partnership,
+16 limited liability company, corporation, association, affiliate, or
+17 other legal entity that is organized or operated for the profit or
+18 financial benefit of the entity's shareholders or other owners and
+19 that offers online products, services or features to individuals in
+20 Oklahoma and processes children's personal data;
+21 10. "Dark pattern" means a user interface designed or
+22 manipulated with the purpose of subverting or impairing user
+23 autonomy, decision making, or choice;
+24
+Req. No. 10418 Page 4
+
+1 11. "Data protection impact assessment" means a systematic
+2 survey to assess compliance with the duty to act in the best
+3 interest of children;
+4 12. "Default" means a preselected option adopted by a covered
+5 entity for an online product, service, or feature;
+6 13. "De-identified" means information that cannot reasonably
+7 be used to infer information about, or otherwise be linked to, an
+8 identified or identifiable individual, if a covered entity that
+9 possesses that information:
+10 a. takes reasonable measures to ensure that such
+11 information cannot be associated with an individual,
+12 b. publicly commits to process such information only in a
+13 de-identified fashion and not attempt to reidentify
+14 such information, and
+15 c. contractually obligates any recipients of such
+16 information to satisfy the criteria set forth in this
+17 subsection;
+18 14. "Derived data" means data that is created by the
+19 derivation of information, data, assumptions, correlations,
+20 inferences, predictions, or conclusions from facts, evidence, or
+21 another source of information or data about a child or a child's
+22 device;
+23 15. "Personal data" means any information, including derived
+24 data, that is linked or reasonably linkable, alone or in combination
+Req. No. 10418 Page 5
+
+1 with other information, to an identified or identifiable individual.
+2 Personal data does not include de-identified information or publicly
+3 available information;
+4 16. "Precise geolocation" means any data that is derived from
+5 a device and that is used or intended to be used to locate a
+6 consumer within a geographic area that is equal to or less than the
+7 area of a circle with a radius of one thousand eight hundred (1,800)
+8 feet;
+9 17. "Process" or "processing" means conduct or an operation
+10 performed, whether by manual or automated means, on personal data or
+11 on sets of personal data, such as the collection, use, storage,
+12 disclosure, analysis, deletion, modification, or other handling of
+13 personal data;
+14 18. "Profiling" means automated processing of personal data
+15 that uses personal data to evaluate certain aspects relating to a
+16 natural person, including analyzing or predicting aspects concerning
+17 a natural person's performance at work, economic situation, health,
+18 personal preferences, interests, reliability, behavior, location, or
+19 movements. Profiling does not include the processing of data that
+20 does not result in an assessment or judgment about a natural person;
+21 19. "Reasonably likely to be accessed" means an online
+22 product, service or feature is accessed or is reasonably likely to
+23 be accessed by children based on any of the following indicators:
+24
+Req. No. 10418 Page 6
+
+1 a. the online product, service or feature is directed to
+2 children as defined by the federal Children's Online
+3 Privacy Protection Act of 1998,
+4 b. the online product, service or feature is determined,
+5 based on competent and reliable evidence regarding
+6 audience composition, to be routinely accessed by a
+7 significant number of children,
+8 c. the online product, service or feature has
+9 advertisements marketed to children,
+10 d. the online product, service or feature is
+11 substantially similar or the same as an online
+12 product, service or feature subject to subparagraph b
+13 of this paragraph,
+14 e. a significant amount of the audience of the online
+15 product, service or feature is determined, based on
+16 internal company research, to be children, or
+17 f. the covered entity knew or should have known that a
+18 user is a child;
+19 20. "Sell" means selling, renting, releasing, disclosing,
+20 disseminating, making available, transferring, or otherwise
+21 communicating orally, in writing or by electronic or other means, a
+22 consumer's personal data by a covered entity to a third party for
+23 monetary or other valuable consideration. Sell does not include:
+24
+Req. No. 10418 Page 7
+
+1 a. the disclosure of personal data to a third party who
+2 processes the personal data on behalf of the covered
+3 entity,
+4 b. the disclosure of personal data to a third party with
+5 whom the consumer has a direct relationship for
+6 purposes of providing an online product, service or
+7 feature requested by the consumer,
+8 c. the disclosure or transfer of personal data to an
+9 affiliate of the covered entity,
+10 d. the disclosure of data that the consumer intentionally
+11 made available to the general public via a channel of
+12 mass media and did not restrict to a specific
+13 audience, or
+14 e. the disclosure or transfer of personal data to a third
+15 party as an asset that is part of the completed or
+16 proposed merger, acquisition, bankruptcy, or other
+17 transaction in which the third party assumes control
+18 of all or part of the covered entity's assets;
+19 21. "Sensitive personal data" means personal data that
+20 includes:
+21 a. data revealing racial or ethnic origin, religious
+22 beliefs, mental or physical health condition or
+23 diagnosis, sex life, sexual orientation or citizenship
+24 or immigration status,
+Req. No. 10418 Page 8
+
+1 b. the processing of genetic or biometric data for the
+2 purpose of uniquely identifying an individual, or
+3 c. precise geolocation data;
+4 22. "Share" means sharing, renting, releasing, disclosing,
+5 disseminating, making available, transferring, or otherwise
+6 communicating orally, in writing or by electronic or other means, a
+7 consumer's personal data by a covered entity to a third party for
+8 cross-context behavioral advertising, whether or not for monetary or
+9 other valuable consideration, including transactions between a
+10 covered entity and a third party for cross-context behavioral
+11 advertising for the benefit of a covered entity in which no money is
+12 exchanged; and
+13 23. "Third party" means a person other than the consumer of the
+14 covered entity.
+15 SECTION 2. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 8002 of Title 10, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. A covered entity shall:
+19 1. Complete a data protection impact assessment for any online
+20 product, service or feature that is reasonably likely to be accessed
+21 and maintain documentation of the data protection impact assessment
+22 as long as the online product, service or feature is reasonably
+23 likely to be accessed;
+24
+Req. No. 10418 Page 9
+
+1 2. Review all data protection impact assessments as necessary
+2 to account for material changes to data processing pertaining to the
+3 online product, service or feature;
+4 3. Within five (5) business days of a written request by the
+5 Attorney General, provide to the Attorney General a list of all data
+6 protection impact assessments the covered entity has completed;
+7 4. Within seven (7) business days of a written request by the
+8 Attorney General, provide a data protection impact assessment to the
+9 Attorney General pursuant to such a request; provided that the
+10 Attorney General may, at the Attorney General's discretion, extend
+11 the time allowed for a covered entity to produce a data protection
+12 impact assessment;
+13 5. Configure all default privacy settings provided to children
+14 by the online product, service or feature to settings that offer a
+15 high level of privacy, unless the covered entity can demonstrate a
+16 compelling reason that a different setting is in the best interest
+17 of children;
+18 6. Publicly provide privacy information, terms of service,
+19 policies, and community standards in a prominent, precise manner and
+20 use clear language suited to the age of children reasonably likely
+21 to access that online product, service or feature; and
+22 7. Publicly provide prominent, accessible and responsive tools
+23 to help a child or, if applicable, the child's parent or guardian,
+24 exercise the child's privacy rights and report concerns.
+Req. No. 10418 Page 10
+
+1 B. The data protection impact assessment required by this
+2 section shall identify the purpose of an online product, service or
+3 feature and how the online product, service or feature uses
+4 children's personal data and determine whether the online product,
+5 service or feature is designed and offered in an age-appropriate
+6 manner consistent with the best interest of children who are
+7 accessing or reasonably likely to access the online product, service
+8 or feature by examining at least the following:
+9 1. Whether the design of the online product, service or feature
+10 could lead to children experiencing or being targeted by harmful, or
+11 potentially harmful, contacts on the online product, service or
+12 feature that would be inconsistent with the best interest of
+13 children reasonably likely to access the online product, service or
+14 feature;
+15 2. Whether the design of the online product, service or feature
+16 could permit children to witness, participate in or be subject to
+17 conduct on the online product, service or feature that would be
+18 inconsistent with the best interest of children reasonably likely to
+19 access the online product, service or feature;
+20 3. Whether the design of the online product, service or feature
+21 is reasonably expected to allow children to be party to or exploited
+22 by a contract on the online product, service or feature;
+23
+24
+Req. No. 10418 Page 11
+
+1 4. Whether algorithms used by the online product, service or
+2 feature would be inconsistent with the best interest of children
+3 reasonably likely to access the online product, service or feature;
+4 5. Whether targeted advertising systems used by the online
+5 product, service or feature would be inconsistent with the best
+6 interest of children reasonably likely to access the online product,
+7 service or feature;
+8 6. Whether the online product, service or feature uses system
+9 design features to increase, sustain or extend the use of the online
+10 product, service or feature by children, including the automatic
+11 playing of media, rewards for time spent and notifications, that
+12 would be inconsistent with the best interest of children reasonably
+13 likely to access the online product, service or feature; and
+14 7. Whether, how and for what purpose the online product,
+15 service or feature collects or processes sensitive personal data of
+16 children and whether those practices would be inconsistent with the
+17 best interest of children reasonably likely to access the online
+18 product, service or feature.
+19 C. When a covered entity identifies an online product, service
+20 or feature reasonably likely to be accessed by children that may be
+21 inconsistent with the best interest of children, the covered entity
+22 shall include in a data protection impact assessment a detailed plan
+23 describing the steps the covered entity has taken and will take to
+24
+Req. No. 10418 Page 12
+
+1 ensu re that the online product, service or feature will be
+2 consistent with the best interest of children.
+3 D. A data protection impact assessment is protected as
+4 confidential and shall be exempt from public disclosure, including
+5 pursuant to the Oklahoma Open Records Act.
+6 E. To the extent any information contained in a data protection
+7 impact assessment disclosed to the Attorney General includes
+8 information subject to attorney-client privilege or work product
+9 protection, disclosure pursuant to subsection A of this section
+10 shall not constitute a waiver of that privilege or protection.
+11 F. A data protection impact assessment conducted by a covered
+12 entity for the purpose of compliance with any other law complies
+13 with this section if the data protection impact assessment meets the
+14 requirements of this act.
+15 G. A single data protection impact assessment may contain
+16 multiple similar processing operations that present similar risks
+17 only if each relevant online product, service or feature is
+18 addressed.
+19 H. A covered entity shall complete a data protection impact
+20 assessment on or before January 1, 2026, for any online product,
+21 service or feature that is reasonably likely to be accessed by
+22 children after December 31, 2025.
+23
+24
+Req. No. 10418 Page 13
+
+1 SECTION 3. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 8003 of Title 10, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A covered entity that provides an online product, service or
+5 feature that is reasonably likely to be accessed shall not:
+6 A. Process the personal data of a child in a way that the
+7 covered entity knows, or has reason to know, is inconsistent with
+8 the best interest of children reasonably likely to access the online
+9 product, service or feature.
+10 B. Profile a child by default unless:
+11 1. The covered entity can demonstrate that the covered entity
+12 has appropriate safeguards in place to ensure that profiling is
+13 consistent with the best interest of children reasonably likely to
+14 access the online product, service or feature; and
+15 2. Profiling is necessary to provide the online product,
+16 service or feature requested, and only with respect to the aspects
+17 of the online product, service or feature with which the child is
+18 actively and knowingly engaged; or
+19 3. The covered entity can demonstrate a compelling reason that
+20 profiling is in the best interest of children.
+21 C. Process any personal data that is not necessary to provide
+22 an online product, service or feature with which a child is actively
+23 and knowingly engaged.
+24
+Req. No. 10418 Page 14
+
+1 D. If the end user is a child, process personal data for any
+2 reason other than a reason for which that personal data was
+3 collected.
+4 E. Process any precise geolocation information of children by
+5 default unless the collection of that precise geolocation
+6 information is strictly necessary for the covered entity to provide
+7 the online product, service or feature requested and then only for
+8 the limited time that the collection of precise geolocation
+9 information is necessary to provide the online product, service or
+10 feature.
+11 F. Process any precise geolocation information of a child
+12 without providing an obvious sign to the child for the duration of
+13 that collection that precise geolocation information is being
+14 collected.
+15 G. Use dark patterns to cause children to provide personal data
+16 beyond what is reasonably expected to provide that online product,
+17 service or feature, to forego privacy protections or to take any
+18 action that the covered entity knows, or has reason to know, is not
+19 in the best interest of children reasonably likely to access the
+20 online product, service or feature.
+21 H. Process any personal data that is not reasonably necessary
+22 to provide an online product, service or feature with which a child
+23 is actively and knowingly engaged to reasonably estimate age.
+24
+Req. No. 10418 Page 15
+
+1 I. Allow a child's parent, guardian or any other consumer to
+2 monitor the child's online activity or track the child's location
+3 without providing an obvious signal to the child when the child is
+4 being monitored or tracked.
+5 SECTION 4. NEW LAW A new section of law to be codified
+6 in the Oklahoma Statutes as Section 8004 of Title 10, unless there
+7 is created a duplication in numbering, reads as follows:
+8 A. A covered entity that violates this act shall be:
+9 1. Subject to injunctive relief to cease or correct the
+10 violation;
+11 2. Liable for a civil penalty of not more than Two Thousand
+12 Five Hundred Dollars ($2,500.00) per affected child for each
+13 negligent violation; and
+14 3. Liable for a civil penalty of not more than Seven Thousand
+15 Five Hundred Dollars ($7,500.00) per affected child for each
+16 intentional violation.
+17 B. Enforcement actions pursuant to subsection A of this section
+18 shall only be initiated by the Attorney General.
+19 C. If a covered entity is in substantial compliance with the
+20 requirements of Sections 3 through 5 of this act, the Attorney
+21 General shall provide written notice to the covered entity, before
+22 initiating an action pursuant to subsection A of this section,
+23 identifying the specific provisions of that act that the Attorney
+24 General alleges have been or are being violated.
+Req. No. 10418 Page 16
+
+1 D. If a covered entity in compliance with subsection H of
+2 Section 4 of this act cures the alleged violations identified in a
+3 notice pursuant to subsection C of this section and provides the
+4 Attorney General a written statement that the alleged violations
+5 have been cured and sufficient measures have been taken to prevent
+6 future violations, the covered entity shall not be liable for a
+7 civil penalty for any violation cured pursuant to this subsection.
+8 E. Nothing in this act shall be interpreted to serve as the
+9 basis for a private right of action under this act or any other law.
+10 SECTION 5. NEW LAW A new section of law to be codified
+11 in the Oklahoma Statutes as Section 8005 of Title 10, unless there
+12 is created a duplication in numbering, reads as follows:
+13 This act shall not apply to:
+14 A. Protected health information that is collected by a covered
+15 entity associate governed by the privacy, security and breach
+16 notification rules issued by the United States Department of Health
+17 and Human Services, Parts 160 and 164 of Title 45 of the Code of
+18 Federal Regulations, established pursuant to the federal Health
+19 Insurance Portability and Accountability Act of 1996.
+20 B. A covered entity governed by the privacy, security and
+21 breach notification rules issued by the United States Department of
+22 Health and Human Services, Parts 160 and 164 of Title 45 of the Code
+23 of Federal Regulations, established pursuant to the federal Health
+24 Insurance Portability and Accountability Act of 1996, to the extent
+Req. No. 10418 Page 17
+
+1 the provider or covered entity maintains patient information in the
+2 same manner as medical information or protected health information
+3 as described in subsection A of this section.
+4 C. Information collected as part of a clinical trial subject to
+5 the federal policy for the protection of human subjects, also known
+6 as the common rule, pursuant to good clinical practice guidelines
+7 issued by the international council for harmonization of technical
+8 requirements for pharmaceuticals for human use or pursuant to human
+9 subject protection requirements of the United States Food and Drug
+10 Administration.
+11 D. A telecommunications service as defined in 47 U.S.C.,
+12 Section 153.
+13 E. The delivery or use of a physical product.
+14 SECTION 6. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 8006 of Title 10, unless there
+16 is created a duplication in numbering, reads as follows:
+17 Nothing in this act shall be interpreted or construed to:
+18 A. Impose liability in a manner that is inconsistent with 47
+19 U.S.C., Section 230.
+20 B. Prevent or preclude a child from deliberately or
+21 independently searching for, or specifically requesting, content.
+22 C. Require a covered entity to restrict access to online
+23 products, services, or features based solely on age.
+24
+Req. No. 10418 Page 18
+
+1 SECTION 7. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 8007 of Title 10, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. This act shall apply to covered entities in Oklahoma or
+5 persons that provide online products, services, or features that are
+6 targeted to residents of this state and that during the preceding
+7 calendar year:
+8 1. Controlled or processed the personal data of not fewer than
+9 one hundred thousand (100,000) consumers, excluding personal data
+10 controlled or processed solely for the purpose of completing a
+11 payment transaction; or
+12 2. Controlled or processed the personal data of not fewer than
+13 twenty-five thousand (25,000) consumers and derived more than
+14 twenty-five percent (25%) of the covered entity's gross revenue from
+15 the sale of personal data.
+16 B. This act does not apply to an online product, service, or
+17 feature that is not accessible by the public after December 31,
+18 2025.
+19 SECTION 8. This act shall become effective November 1, 2025.
+20
+21 60-1-10418 MJ 01/09/25
+22
+23
+24
+Req. No. 10418 Page 19
+
+[DELETED:  P B]
+[DELETED:  P u s t t s]
+[DELETED:  P w w r r a d]
+[DELETED:  P o c t]
+[DELETED:  P t p c]
+[DELETED:  P]
+[DELETED:  P t t t t a t]
+[DELETED:  P t t t t t d]
+[DELETED:  P t p]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 0]

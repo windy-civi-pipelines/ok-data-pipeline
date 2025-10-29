@@ -1,0 +1,411 @@
+Title: 3 SENATE BILL NO. 997 By: Frix
+Official Title: 3 SENATE BILL NO. 997 By: Frix
+Number of Sections: 1
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 SENATE FLOOR VERSION
+February 11, 2025
+2
+4
+5
+6 An Act relating to state procurement; creating the
+Procurement Protection Act of 2025; providing short
+7 title; defining terms; prohibiting certain entities
+from entering into contracts with certain companies;
+8 requiring certain disclosure statements; providing
+penalties; providing exceptions to certain
+9 prohibitions; providing for noncodification;
+providing for codification; and declaring an
+10 emergency.
+11
+12
+13 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14 SECTION 1. NEW LAW A new section of law not to be
+15 codified in the Oklahoma Statutes reads as follows:
+16 This act shall be known and may be cited as the “Procurement
+17 Protection Act of 2025”.
+18 SECTION 2. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 85.59 of Title 74, unless there
+20 is created a duplication in numbering, reads as follows:
+21 A. As used in this act:
+22 1. “Company” means any sole proprietorship, organization,
+23 association, corporation, partnership, joint venture, limited
+24 partnership, limited liability partnership, limited liability
+SENATE FLOOR VERSION - SB997 SFLR Page 1
+(Bold face denotes Committee Amendments)
+1 comp any, or other entity or business association, including all
+2 wholly owned subsidiaries, majority owned subsidiaries, parent
+3 companies, or affiliates of such entities or business associations,
+4 that exists for the purpose of making profit;
+5 2. “Domicile” means the country in which a company is
+6 registered, the company’s affairs are primarily completed, and where
+7 the majority of ownership share is held;
+8 3. “Federally banned corporation” means any company or
+9 designated equipment federally banned currently or banned after the
+10 effective date of this act. Such bans shall include those resulting
+11 from, but not limited to, the following federal agencies and acts:
+12 a. the Federal Communications Commission, including, but
+13 not limited to, any equipment or service deemed to
+14 pose a threat to national security identified on the
+15 Covered List developed pursuant to 47 C.F.R., Section
+16 1.50002 and published by the Public Safety and
+17 Homeland Security Bureau of the Federal Communications
+18 Commission pursuant to the federal Secure and Trust
+19 Communications Networks Act of 2019, 47 U.S.C.,
+20 Section 1601 et seq.,
+21 b. the United States Department of Commerce,
+22 c. the Cybersecurity and Infrastructure Security Agency,
+23 d. the Federal Acquisition Security Council, and
+24
+SENATE FLOOR VERSION - SB997 SFLR Page 2
+(Bold face denotes Committee Amendments)
+1 e. Section 889 of the John S. McCain National Defense
+2 Authorization Act for Fiscal Year 2019, P. L. 115-232;
+3 4. “Foreign adversary” means adversarial nations including the
+4 People’s Republic of China, the Russian Federation, the Islamic
+5 Republic of Iran, the Democratic People’s Republic of Korea, the
+6 Republic of Cuba, the Venezuelan regime of Nicolás Maduro, or the
+7 Syrian Arab Republic, including any agent of or any other entity
+8 under significant control of such foreign country of concern, or any
+9 other entity deemed a foreign adversary by the Governor;
+10 5. “Foreign adversary company” means a company domiciled in a
+11 foreign adversary, owned or controlled, in whole or in part, by the
+12 government of a foreign adversary, by individuals acting in official
+13 government capacities of a foreign adversary, by a company domiciled
+14 in a foreign adversary, or by any company otherwise under control of
+15 a foreign adversary; and
+16 6. “Government of China” shall mean the People’s Republic of
+17 China led by the Chinese Communist Party.
+18 SECTION 3. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 85.59a of Title 74, unless there
+20 is created a duplication in numbering, reads as follows:
+21 A. Except as provided under subsection D, the following
+22 companies shall be ineligible to bid on or submit a proposal for a
+23 contract with a state agency or political subdivision of the state
+24 for goods or services:
+SENATE FLOOR VERSION - SB997 SFLR Page 3
+(Bold face denotes Committee Amendments)
+1 1. A state-owned enterprise of a foreign adversary;
+2 2. A company domiciled within a foreign adversary;
+3 3. A foreign adversary company; or
+4 4. A federally banned corporation.
+5 B. A state agency or any political subdivision of the state
+6 shall require a company that submits a bid or proposal with respect
+7 to a contract for goods or services to certify that the company is
+8 not a company listed under subsection A of this section.
+9 C. If the Director of Office of Management and Enterprise
+10 Services determines that a company has submitted a false
+11 certification under subsection B of this section:
+12 1. The company shall be liable for a civil penalty in an amount
+13 that is equal to Two Hundred Fifty Thousand Dollars ($250,000.00) or
+14 twice the amount of the contract for which a bid or proposal was
+15 submitted, whichever is greater;
+16 2. The state agency or the Office of Management and Enterprise
+17 Services shall terminate the contract with company; and
+18 3. The company shall be ineligible to, and shall not, bid on a
+19 state contract for sixty (60) months.
+20 D. Notwithstanding the provisions of subsection B of this
+21 section, a state agency may enter into a contract for goods
+22 manufactured by a company listed under subsection A of this section
+23 if:
+24 1. There is no other reasonable option for procuring the good;
+SENATE FLOOR VERSION - SB997 SFLR Page 4
+(Bold face denotes Committee Amendments)
+1 2. The contract is pre-approved by the Director of the Office
+2 of Management and Enterprise Services; or
+3 3. Not procuring the good would pose a greater threat to this
+4 State than the threat associated with the procurement itself.
+5 E. Each bid or offer submitted for a state contract shall
+6 include a disclosure of whether or not the bidder, offeror, or any
+7 of its corporate parents or subsidiaries, within the twenty-four
+8 (24) months before submission of the bid or offer had business
+9 operations that involved contracts with or provision of supplies or
+10 services from or to any foreign adversary, state-owned enterprise of
+11 a foreign adversary, or a company domiciled within a foreign
+12 adversary.
+13 1. A bid or offer that does not include the disclosure required
+14 by this subsection may be given a grace period after the bid or
+15 offer is submitted to cure non-disclosure. A state agency or
+16 political subdivision receiving the bid may consider the disclosure
+17 when evaluating the bid or offer or awarding the contract.
+18 2. Each state agency or political subdivision shall provide the
+19 Office of Management and Enterprise Services with the name of each
+20 entity disclosed under paragraph 1 of this subsection as doing
+21 business or having done business in or with a foreign adversary, a
+22 state-owned enterprise of a foreign adversary, or a foreign
+23 adversary company.
+24
+SENATE FLOOR VERSION - SB997 SFLR Page 5
+(Bold face denotes Committee Amendments)
+1 SECTION 4. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 85.59c of Title 74, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. Any company wishing to submit a bid or offer for a state
+5 contract or for any contract with a political subdivision of this
+6 state shall certify with the Office of Management and Enterprise
+7 Services that the bidder, offeror, or any of its corporate parents
+8 or subsidiaries, has not, within the sixty (60) months before
+9 submission of the bid or offer, had business operations that
+10 involved contracts with or provision of goods or services to any
+11 military entity of any foreign adversary, any state-owned enterprise
+12 of a foreign adversary, any political party of a foreign adversary,
+13 or any federally banned corporation.
+14 B. No bid or offer may be submitted for a state contract or for
+15 any contract with a political subdivision of this state if the
+16 bidder, offeror, or any of its corporate parents or subsidiaries,
+17 within the sixty (60) months before submission of the bid or offer,
+18 had business operations that involved contracts with or provision of
+19 goods or services to any military entity of any foreign adversary,
+20 any state-owned enterprise of a foreign adversary, or any federally
+21 banned corporation.
+22 C. The Director of the Office of Management and Enterprise
+23 Services shall provide each state agency and political subdivision
+24 with the name of each entity disclosed under this section as doing
+SENATE FLOOR VERSION - SB997 SFLR Page 6
+(Bold face denotes Committee Amendments)
+1 busi ness or having done business in or with a foreign adversary, a
+2 state-owned enterprise of a foreign adversary, or a company
+3 domiciled within a foreign adversary.
+4 D. If the Director of the Office of Management and Enterprise
+5 Services determines that a company has submitted a false
+6 certification under subsection A of this section:
+7 1. The company shall be liable for a civil penalty in an amount
+8 that is equal to Two Hundred Fifty Thousand Dollars ($250,000.00) or
+9 twice the amount of the contract for which a bid or proposal was
+10 submitted, whichever is greater;
+11 2. The state agency or the Office of Management and Enterprise
+12 Services shall terminate the contract with the company; and
+13 3. The company shall be ineligible to, and shall not, bid on a
+14 state contract for sixty (60) months.
+15 SECTION 5. It being immediately necessary for the preservation
+16 of the public peace, health or safety, an emergency is hereby
+17 declared to exist, by reason whereof this act shall take effect and
+18 be in full force from and after its passage and approval.
+19 COMMITTEE REPORT BY: COMMITTEE ON RETIREMENT AND GOVERNMENT
+RESOURCES
+20 February 11, 2025 - DO PASS
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB997 SFLR Page 7
+(Bold face denotes Committee Amendments)
+[DELETED: P B F]
+[DELETED: P t t t t]
+[DELETED: P S]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+
+
+================================================================================
+
+Raw Text:
+1 SENATE FLOOR VERSION
+February 11, 2025
+2
+3 SENATE BILL NO. 997 By: Frix
+4
+5
+6 An Act relating to state procurement; creating the
+Procurement Protection Act of 2025; providing short
+7 title; defining terms; prohibiting certain entities
+from entering into contracts with certain companies;
+8 requiring certain disclosure statements; providing
+penalties; providing exceptions to certain
+9 prohibitions; providing for noncodification;
+providing for codification; and declaring an
+10 emergency.
+11
+12
+13 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14 SECTION 1. NEW LAW A new section of law not to be
+15 codified in the Oklahoma Statutes reads as follows:
+16 This act shall be known and may be cited as the “Procurement
+17 Protection Act of 2025”.
+18 SECTION 2. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 85.59 of Title 74, unless there
+20 is created a duplication in numbering, reads as follows:
+21 A. As used in this act:
+22 1. “Company” means any sole proprietorship, organization,
+23 association, corporation, partnership, joint venture, limited
+24 partnership, limited liability partnership, limited liability
+SENATE FLOOR VERSION - SB997 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 comp any, or other entity or business association, including all
+2 wholly owned subsidiaries, majority owned subsidiaries, parent
+3 companies, or affiliates of such entities or business associations,
+4 that exists for the purpose of making profit;
+5 2. “Domicile” means the country in which a company is
+6 registered, the company’s affairs are primarily completed, and where
+7 the majority of ownership share is held;
+8 3. “Federally banned corporation” means any company or
+9 designated equipment federally banned currently or banned after the
+10 effective date of this act. Such bans shall include those resulting
+11 from, but not limited to, the following federal agencies and acts:
+12 a. the Federal Communications Commission, including, but
+13 not limited to, any equipment or service deemed to
+14 pose a threat to national security identified on the
+15 Covered List developed pursuant to 47 C.F.R., Section
+16 1.50002 and published by the Public Safety and
+17 Homeland Security Bureau of the Federal Communications
+18 Commission pursuant to the federal Secure and Trust
+19 Communications Networks Act of 2019, 47 U.S.C.,
+20 Section 1601 et seq.,
+21 b. the United States Department of Commerce,
+22 c. the Cybersecurity and Infrastructure Security Agency,
+23 d. the Federal Acquisition Security Council, and
+24
+SENATE FLOOR VERSION - SB997 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 e. Section 889 of the John S. McCain National Defense
+2 Authorization Act for Fiscal Year 2019, P. L. 115-232;
+3 4. “Foreign adversary” means adversarial nations including the
+4 People’s Republic of China, the Russian Federation, the Islamic
+5 Republic of Iran, the Democratic People’s Republic of Korea, the
+6 Republic of Cuba, the Venezuelan regime of Nicolás Maduro, or the
+7 Syrian Arab Republic, including any agent of or any other entity
+8 under significant control of such foreign country of concern, or any
+9 other entity deemed a foreign adversary by the Governor;
+10 5. “Foreign adversary company” means a company domiciled in a
+11 foreign adversary, owned or controlled, in whole or in part, by the
+12 government of a foreign adversary, by individuals acting in official
+13 government capacities of a foreign adversary, by a company domiciled
+14 in a foreign adversary, or by any company otherwise under control of
+15 a foreign adversary; and
+16 6. “Government of China” shall mean the People’s Republic of
+17 China led by the Chinese Communist Party.
+18 SECTION 3. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 85.59a of Title 74, unless there
+20 is created a duplication in numbering, reads as follows:
+21 A. Except as provided under subsection D, the following
+22 companies shall be ineligible to bid on or submit a proposal for a
+23 contract with a state agency or political subdivision of the state
+24 for goods or services:
+SENATE FLOOR VERSION - SB997 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 1. A state-owned enterprise of a foreign adversary;
+2 2. A company domiciled within a foreign adversary;
+3 3. A foreign adversary company; or
+4 4. A federally banned corporation.
+5 B. A state agency or any political subdivision of the state
+6 shall require a company that submits a bid or proposal with respect
+7 to a contract for goods or services to certify that the company is
+8 not a company listed under subsection A of this section.
+9 C. If the Director of Office of Management and Enterprise
+10 Services determines that a company has submitted a false
+11 certification under subsection B of this section:
+12 1. The company shall be liable for a civil penalty in an amount
+13 that is equal to Two Hundred Fifty Thousand Dollars ($250,000.00) or
+14 twice the amount of the contract for which a bid or proposal was
+15 submitted, whichever is greater;
+16 2. The state agency or the Office of Management and Enterprise
+17 Services shall terminate the contract with company; and
+18 3. The company shall be ineligible to, and shall not, bid on a
+19 state contract for sixty (60) months.
+20 D. Notwithstanding the provisions of subsection B of this
+21 section, a state agency may enter into a contract for goods
+22 manufactured by a company listed under subsection A of this section
+23 if:
+24 1. There is no other reasonable option for procuring the good;
+SENATE FLOOR VERSION - SB997 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 2. The contract is pre-approved by the Director of the Office
+2 of Management and Enterprise Services; or
+3 3. Not procuring the good would pose a greater threat to this
+4 State than the threat associated with the procurement itself.
+5 E. Each bid or offer submitted for a state contract shall
+6 include a disclosure of whether or not the bidder, offeror, or any
+7 of its corporate parents or subsidiaries, within the twenty-four
+8 (24) months before submission of the bid or offer had business
+9 operations that involved contracts with or provision of supplies or
+10 services from or to any foreign adversary, state-owned enterprise of
+11 a foreign adversary, or a company domiciled within a foreign
+12 adversary.
+13 1. A bid or offer that does not include the disclosure required
+14 by this subsection may be given a grace period after the bid or
+15 offer is submitted to cure non-disclosure. A state agency or
+16 political subdivision receiving the bid may consider the disclosure
+17 when evaluating the bid or offer or awarding the contract.
+18 2. Each state agency or political subdivision shall provide the
+19 Office of Management and Enterprise Services with the name of each
+20 entity disclosed under paragraph 1 of this subsection as doing
+21 business or having done business in or with a foreign adversary, a
+22 state-owned enterprise of a foreign adversary, or a foreign
+23 adversary company.
+24
+SENATE FLOOR VERSION - SB997 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 SECTION 4. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 85.59c of Title 74, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. Any company wishing to submit a bid or offer for a state
+5 contract or for any contract with a political subdivision of this
+6 state shall certify with the Office of Management and Enterprise
+7 Services that the bidder, offeror, or any of its corporate parents
+8 or subsidiaries, has not, within the sixty (60) months before
+9 submission of the bid or offer, had business operations that
+10 involved contracts with or provision of goods or services to any
+11 military entity of any foreign adversary, any state-owned enterprise
+12 of a foreign adversary, any political party of a foreign adversary,
+13 or any federally banned corporation.
+14 B. No bid or offer may be submitted for a state contract or for
+15 any contract with a political subdivision of this state if the
+16 bidder, offeror, or any of its corporate parents or subsidiaries,
+17 within the sixty (60) months before submission of the bid or offer,
+18 had business operations that involved contracts with or provision of
+19 goods or services to any military entity of any foreign adversary,
+20 any state-owned enterprise of a foreign adversary, or any federally
+21 banned corporation.
+22 C. The Director of the Office of Management and Enterprise
+23 Services shall provide each state agency and political subdivision
+24 with the name of each entity disclosed under this section as doing
+SENATE FLOOR VERSION - SB997 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 busi ness or having done business in or with a foreign adversary, a
+2 state-owned enterprise of a foreign adversary, or a company
+3 domiciled within a foreign adversary.
+4 D. If the Director of the Office of Management and Enterprise
+5 Services determines that a company has submitted a false
+6 certification under subsection A of this section:
+7 1. The company shall be liable for a civil penalty in an amount
+8 that is equal to Two Hundred Fifty Thousand Dollars ($250,000.00) or
+9 twice the amount of the contract for which a bid or proposal was
+10 submitted, whichever is greater;
+11 2. The state agency or the Office of Management and Enterprise
+12 Services shall terminate the contract with the company; and
+13 3. The company shall be ineligible to, and shall not, bid on a
+14 state contract for sixty (60) months.
+15 SECTION 5. It being immediately necessary for the preservation
+16 of the public peace, health or safety, an emergency is hereby
+17 declared to exist, by reason whereof this act shall take effect and
+18 be in full force from and after its passage and approval.
+19 COMMITTEE REPORT BY: COMMITTEE ON RETIREMENT AND GOVERNMENT
+RESOURCES
+20 February 11, 2025 - DO PASS
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB997 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+[DELETED: P B F]
+[DELETED: P t t t t]
+[DELETED: P S]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
