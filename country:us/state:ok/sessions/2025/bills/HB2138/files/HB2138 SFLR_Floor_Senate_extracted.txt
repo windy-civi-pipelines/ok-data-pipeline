@@ -1,0 +1,859 @@
+Title: BILL NO. 2138 By: Kannady of the House
+Official Title: BILL NO. 2138 By: Kannady of the House
+Number of Sections: 1
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+1 SENATE FLOOR VERSION
+April 15, 2025
+2
+3 ENGROSSED HOUSE
+4
+and
+5
+Rosino of the Senate
+6
+7
+8 An Act relating to civil procedure; amending 12 O.S.
+2021, Section 2012, which relates to defenses and
+9 objections; providing procedures for default judgment
+under certain circumstances; clarifying effect of
+10 certain contact or communication; clarifying effect
+on evidentiary hearing for damages; amending 12 O.S.
+11 2021, Section 727.1, which relates to postjudgment
+interest; providing for certain postjudgment interest
+12 during pendency of an appeal; and providing an
+effective date.
+13
+14
+15 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+16 SECTION 1. AMENDATORY 12 O.S. 2021, Section 2012, is
+17 amended to read as follows:
+18 Section 2012.
+19 DEFENSES AND OBJECTIONS; WHEN AND HOW PRESENTED;
+20 BY PLEADING OR MOTION
+21 A. WHEN PRESENTED. 1. Unless a different time is prescribed
+22 by law, a defendant shall serve an answer:
+23 a. within twenty (20) days after the service of the
+24 summons and petition upon the defendant,
+SENATE FLOOR VERSION - HB2138 SFLR Page 1
+(Bold face denotes Committee Amendments)
+1 b. within twenty (20) days after the service of the
+2 summons and petition upon the defendant, or within the
+3 last day for answering if applicable; provided, a
+4 defendant may file a reservation of time which shall
+5 extend the time to respond twenty (20) days from the
+6 last date for answering. The filing of such a
+7 reservation of time waives defenses of paragraphs 2,
+8 3, 4, 5, 6, and 9 of subsection B of this section.
+9 2. A party served with a pleading stating a cross-claim against
+10 that party shall serve an answer thereto within twenty (20) days
+11 after the service upon the party.
+12 3. The plaintiff shall serve a reply to a counterclaim in the
+13 answer within twenty (20) days after service of the answer or, if a
+14 reply is ordered by the court, within twenty (20) days after service
+15 of the order, unless the order otherwise directs.
+16 4. The party requesting a summons to be issued or filing a
+17 counter-claim counterclaim or cross-claim may elect to have the
+18 answer served within thirty-five (35) days in lieu of the twenty
+19 (20) days set forth in this section.
+20 5. The service of a motion permitted under this section or a
+21 motion for summary judgment alters these periods of time as follows:
+22 if the court denies the motion or postpones its disposition until
+23 the trial on the merits, the responsive pleading shall be served
+24
+SENATE FLOOR VERSION - HB2138 SFLR Page 2
+(Bold face denotes Committee Amendments)
+1 with in twenty (20) days after notice of the court's action, unless a
+2 different time is fixed by order of the court.
+3 B. HOW PRESENTED. Every defense, in law or fact, to a claim
+4 for relief in any pleading, whether a claim, counterclaim, cross-
+5 claim, or third-party claim, shall be asserted in the responsive
+6 pleading thereto if one is required, except that the following
+7 defenses may at the option of the pleader be made by motion:
+8 1. Lack of jurisdiction over the subject matter;
+9 2. Lack of jurisdiction over the person;
+10 3. Improper venue;
+11 4. Insufficiency of process;
+12 5. Insufficiency of service of process;
+13 6. Failure to state a claim upon which relief can be granted;
+14 7. Failure to join a party under Section 2019 of this title;
+15 8. Another action pending between the same parties for the same
+16 claim;
+17 9. Lack of capacity of a party to be sued; and
+18 10. Lack of capacity of a party to sue.
+19 A motion making any of these defenses shall be made before pleading
+20 if a further pleading is permitted. No defense or objection is
+21 waived by being joined with one or more other defenses or objections
+22 in a responsive pleading or motion. If a pleading sets forth a
+23 claim for relief to which the adverse party is not required to serve
+24 a responsive pleading, the adverse party may assert at the trial any
+SENATE FLOOR VERSION - HB2138 SFLR Page 3
+(Bold face denotes Committee Amendments)
+1 defe nse in law or fact to that claim for relief. If, on a motion
+2 asserting the defense numbered 6 of this subsection to dismiss for
+3 failure of the pleading to state a claim upon which relief can be
+4 granted, matters outside the pleading are presented to and not
+5 excluded by the court, the motion shall be treated as one for
+6 summary judgment and all parties shall be given reasonable
+7 opportunity to present all material made pertinent to the motion by
+8 the rules for summary judgment. A motion to dismiss for failure to
+9 state a claim upon which relief can be granted shall separately
+10 state each omission or defect in the petition, and a motion that
+11 does not specify such defects or omissions shall be denied without a
+12 hearing and the defendant shall answer within twenty (20) days after
+13 notice of the court's action.
+14 C. PRELIMINARY HEARINGS. The defenses specifically enumerated
+15 in paragraphs 1 through 10 of subsection B of this section, whether
+16 made in a pleading or by motion, and the motion to strike mentioned
+17 in subsection D of this section shall be heard and determined before
+18 trial on application of any party, unless the court orders that the
+19 hearing and determination thereof be deferred until the trial. If
+20 the court determines that venue is proper, the action shall not be
+21 dismissed for improper venue as a result of the jury's verdict or
+22 the subsequent ruling of the court on a demurrer to the evidence or
+23 a motion for a directed verdict.
+24
+SENATE FLOOR VERSION - HB2138 SFLR Page 4
+(Bold face denotes Committee Amendments)
+1 D. MOTION TO STRIKE. Upon motion made by a party before
+2 responding to a pleading or, if no responsive pleading is permitted
+3 by this act, upon motion made by a party within twenty (20) days
+4 after the service of the pleading upon the party or upon the court's
+5 own initiative at any time, the court may order stricken from any
+6 pleading any insufficient defense. If, on a motion to strike an
+7 insufficient defense, matters outside the pleadings are presented to
+8 and not excluded by the court, the motion shall be treated as one
+9 for partial summary judgment and all parties shall be given
+10 reasonable opportunity to present all materials made pertinent to
+11 the motion by the rules for summary judgment.
+12 E. CONSOLIDATION OF DEFENSES IN MOTION. A party who makes a
+13 motion under this section may join with it any other motions herein
+14 provided for and then available to the party. If a party makes a
+15 motion under this section but omits therefrom any defense or
+16 objection then available to the party which this section permits to
+17 be raised by motion, the party shall not thereafter make a motion
+18 based on the defense or objection so omitted, except a motion as
+19 provided in paragraph 2 of subsection F of this section on the
+20 grounds there stated. The court in its discretion may permit a
+21 party to amend a motion by stating additional defenses or objections
+22 if an amendment is sought at least five (5) days before the hearing
+23 on the motion.
+24 F. WAIVER OR PRESERVATION OF CERTAIN DEFENSES.
+SENATE FLOOR VERSION - HB2138 SFLR Page 5
+(Bold face denotes Committee Amendments)
+1 1. A defense of lack of jurisdiction over the person, improper
+2 venue, insufficiency of process, insufficiency of service of
+3 process, failure to state a claim upon which relief can be granted,
+4 or lack of capacity of a party to be sued is waived:
+5 a. if omitted from a motion that raises any of the
+6 defenses or objections which this section permits to
+7 be raised by motion, or
+8 b. if it is not made by motion and it is not included in
+9 a responsive pleading or an amendment thereof
+10 permitted by subsection A of Section 2015 of this
+11 title to be made as a matter of course. A motion to
+12 strike an insufficient defense is waived if not raised
+13 as in subsection D of this section.
+14 2. A defense of failure to join a party indispensable under
+15 Section 2019 of this title may be made in any pleading permitted or
+16 ordered under subsection A of Section 2007 of this title or at the
+17 trial on the merits. A defense of another action pending between
+18 the same parties for the same claim or a defense of lack of capacity
+19 of a party to sue may be made in any pleading permitted or ordered
+20 pursuant to the provisions of subsection A of Section 2007 of this
+21 title or at the pretrial conference.
+22 3. Whenever it appears by suggestion of the parties or
+23 otherwise that the court lacks jurisdiction of the subject matter,
+24 the court shall dismiss the action.
+SENATE FLOOR VERSION - HB2138 SFLR Page 6
+(Bold face denotes Committee Amendments)
+1 4. A waiver of the defense in paragraph 6 of subsection B of
+2 this section does not preclude a later contention that a party is
+3 not entitled to any relief as a matter of law, either by motion for
+4 summary judgment, or by demurrer or motion at or after trial.
+5 G. FINAL DISMISSAL ON FAILURE TO AMEND. On granting a motion
+6 to dismiss a claim for relief, the court shall grant leave to amend
+7 if the defect can be remedied and shall specify the time within
+8 which an amended pleading shall be filed. If the amended pleading
+9 is not filed within the time allowed, final judgment of dismissal
+10 with prejudice shall be entered on motion except in cases of
+11 excusable neglect. In such cases amendment shall be made by the
+12 party in default within a time specified by the court for filing an
+13 amended pleading. Within the time allowed by the court for filing
+14 an amended pleading, a plaintiff may voluntarily dismiss the action
+15 without prejudice.
+16 H. MOTION FOR DEFAULT JUDGMENT NOT REQUIRED IF DEFENDANT FAILS
+17 TO FILE RESPONSE. Nothing in any provision of this title or in any
+18 local or district court rule shall be construed to require either a
+19 motion or a hearing for default judgment, and no notice shall be
+20 necessary, if, after service of summons and petition, a defendant
+21 fails to timely file with the court clerk within twenty (20) days a
+22 written appearance, answer, motion, pleading, or response as
+23 provided in subsection A of this section. Contact or communication
+24 with the plaintiff or attorney of the plaintiff shall not constitute
+SENATE FLOOR VERSION - HB2138 SFLR Page 7
+(Bold face denotes Committee Amendments)
+1 an a ppearance, answer, motion, pleading, or response unless the
+2 contact or communication is in writing and is also timely filed by
+3 the defendant in writing with the court clerk as provided in
+4 subsection A of this section. The provisions of this subsection
+5 shall not be construed to prevent an evidentiary hearing concerning
+6 the amount of damage to be awarded.
+7 SECTION 2. AMENDATORY 12 O.S. 2021, Section 727.1, is
+8 amended to read as follows:
+9 Section 727.1.
+10 POSTJUDGMENT INTEREST
+11 A. 1. Except as otherwise provided by this section, all
+12 judgments of courts of record, including costs and attorney fees
+13 authorized by statute or otherwise and allowed by the court, shall
+14 bear interest at a rate prescribed pursuant to this section. Such
+15 interest shall also apply to the amounts collected on any judgment
+16 enforced during the pendency of an appeal which is subsequently
+17 overturned on appeal when restitution is paid to the defendant.
+18 2. Costs and attorney fees allowed by the court shall bear
+19 interest from the earlier of the date the judgment or order is
+20 pronounced, if expressly stated in the written judgment or order
+21 awarding the costs and attorney fees, or the date the judgment or
+22 order is filed with the court clerk.
+23 B. Judgments, including costs and attorney fees authorized by
+24 statute or otherwise and allowed by the court, against this state or
+SENATE FLOOR VERSION - HB2138 SFLR Page 8
+(Bold face denotes Committee Amendments)
+1 its political subdivisions, including counties, municipalities,
+2 school districts, and public trusts of which this state or a
+3 political subdivision of this state is a beneficiary, shall bear
+4 interest during the term of judgment at a rate prescribed pursuant
+5 to this section from the date of rendition. No judgment against
+6 this state or its political subdivisions, including counties,
+7 municipalities, school districts, and public trusts of which this
+8 state or a political subdivision of this state is a beneficiary,
+9 inclusive of postjudgment interest, shall exceed the total amount of
+10 liability of the governmental entity pursuant to The Governmental
+11 Tort Claims Act.
+12 C. The postjudgment interest authorized by subsection A or
+13 subsection B of this section shall accrue from the earlier of the
+14 date the judgment is rendered as expressly stated in the judgment,
+15 or the date the judgment is filed with the court clerk, and shall
+16 initially accrue at the rate in effect for the calendar year during
+17 which the judgment is rendered until the end of the calendar year in
+18 which the judgment was rendered, or until the judgment is paid,
+19 whichever first occurs. Beginning on January 1 of the next
+20 succeeding calendar year until the end of that calendar year, or
+21 until the judgment is paid, whichever first occurs, the judgment,
+22 together with postjudgment interest previously accrued, shall bear
+23 interest at the rate in effect for judgments rendered during that
+24 calendar year as certified by the Administrative Director of the
+SENATE FLOOR VERSION - HB2138 SFLR Page 9
+(Bold face denotes Committee Amendments)
+1 Cour ts pursuant to subsection I of this section. For each
+2 succeeding calendar year, or part of a calendar year, during which a
+3 judgment remains unpaid, the judgment, together with postjudgment
+4 interest previously accrued, shall bear interest at the rate in
+5 effect for judgments rendered during that calendar year as certified
+6 by the Administrative Director of the Courts pursuant to subsection
+7 I of this section. A separate computation using the interest rate
+8 in effect for judgments as provided by subsection I of this section
+9 shall be made for each calendar year, or part of a calendar year,
+10 during which the judgment remains unpaid in order to determine the
+11 total amount of interest for which the judgment debtor is liable.
+12 The postjudgment interest rate for each calendar year or part of a
+13 calendar year a judgment remains unpaid shall be multiplied by the
+14 original amount of the judgment, including any prejudgment interest,
+15 together with postjudgment interest previously accrued. Interest
+16 shall accrue on a judgment in the manner prescribed by this
+17 subsection until the judgment is satisfied or released.
+18 D. If a rate of interest is specified in a contract, the rate
+19 specified shall apply and be stated in the journal entry of
+20 judgment. The rate of interest shall not exceed the lawful rate for
+21 that obligation. Postjudgment interest shall be calculated at the
+22 contractual rate and accrued in the same manner as prescribed in
+23 subsection C of this section.
+24 PREJUDGMENT INTEREST
+SENATE FLOOR VERSION - HB2138 SFLR Page 10
+(Bold face denotes Committee Amendments)
+1 E. Except as provided by subsection F of this section,
+2 beginning November 1, 2009, if a verdict for damages by reason of
+3 personal injuries or injury to personal rights including, but not
+4 limited to, injury resulting from bodily restraint, personal insult,
+5 defamation, invasion of privacy, injury to personal relations, or
+6 detriment due to an act or omission of another is accepted by the
+7 trial court, the court in rendering judgment shall add interest on
+8 the verdict at a rate prescribed pursuant to subsection I of this
+9 section from the date which is twenty-four (24) months after the
+10 suit resulting in the judgment was commenced to the earlier of the
+11 date the verdict is accepted by the trial court as expressly stated
+12 in the judgment, or the date the judgment is filed with the court
+13 clerk. No prejudgment interest shall begin to accrue until twenty-
+14 four (24) months after the suit resulting in the judgment was
+15 commenced. The interest rate for computation of prejudgment
+16 interest shall begin with the rate prescribed by subsection I of
+17 this section which is in effect for the calendar year which is
+18 twenty-four (24) months after the suit resulting in the judgment was
+19 commenced. This rate shall be in effect until the end of the
+20 calendar year in which interest begins to accrue or until the date
+21 judgment is filed, whichever first occurs. Beginning on January 1
+22 of the next succeeding calendar year until the end of that calendar
+23 year, or until the date the judgment is filed, whichever first
+24 occurs, and for each succeeding calendar year thereafter, the
+SENATE FLOOR VERSION - HB2138 SFLR Page 11
+(Bold face denotes Committee Amendments)
+1 prej udgment interest rate shall be the rate in effect for judgments
+2 rendered during each calendar year as certified by the
+3 Administrative Director of the Courts pursuant to subsection I of
+4 this section. After the computation of all prejudgment interest has
+5 been completed, the total amount of prejudgment interest shall be
+6 added to the amount of the judgment rendered pursuant to the trial
+7 of the action, and the total amount of the resulting judgment shall
+8 become the amount upon which postjudgment interest is computed
+9 pursuant to subsection A of this section.
+10 F. If a verdict of the type described by subsection E of this
+11 section is rendered against this state or its political
+12 subdivisions, including counties, municipalities, school districts,
+13 and public trusts of which this state or a political subdivision of
+14 this state is a beneficiary, the judgment shall bear interest at the
+15 rate prescribed pursuant to subsection I of this section from the
+16 date the suit was commenced to the earlier of the date the verdict
+17 is accepted by the trial court as expressly stated in the judgment
+18 or the date the judgment is filed with the court clerk. The
+19 interest rate for computation of prejudgment interest shall begin
+20 with the rate prescribed by subsection I of this section which is in
+21 effect for the calendar year in which the suit resulting in the
+22 judgment is commenced. This rate shall be in effect until the end
+23 of the calendar year in which the suit resulting in judgment was
+24 filed or until the date the judgment is rendered as expressly stated
+SENATE FLOOR VERSION - HB2138 SFLR Page 12
+(Bold face denotes Committee Amendments)
+1 in t he judgment, whichever first occurs. Beginning on January 1 of
+2 the next succeeding calendar year until the end of that calendar
+3 year, or until the date judgment is rendered, whichever first
+4 occurs, and for each succeeding calendar year thereafter, the
+5 prejudgment interest rate shall be the rate in effect for judgments
+6 rendered during each calendar year as certified by the
+7 Administrative Director of the Courts pursuant to subsection I of
+8 this section. After the computation of prejudgment interest has
+9 been completed, the amount shall be added to the amount of the
+10 judgment rendered pursuant to the trial of the action, and the total
+11 amount of the resulting judgment shall become the amount upon which
+12 postjudgment interest is computed pursuant to subsection B of this
+13 section. No award of prejudgment interest against this state or its
+14 political subdivisions, including counties, municipalities, school
+15 districts, and public trusts of which this state or a political
+16 subdivision of this state is a beneficiary, including the amount of
+17 the judgment awarded pursuant to trial of the action, shall exceed
+18 the total amount of liability of the governmental entity pursuant to
+19 The Governmental Tort Claims Act.
+20 G. If exemplary or punitive damages are awarded in an action
+21 for personal injury or injury to personal rights including, but not
+22 limited to, injury resulting from bodily restraint, personal insult,
+23 defamation, invasion of privacy, injury to personal relations, or
+24 detriment due to an act or omission of another, the interest on that
+SENATE FLOOR VERSION - HB2138 SFLR Page 13
+(Bold face denotes Committee Amendments)
+1 awar d shall begin to accrue from the earlier of the date the
+2 judgment is rendered as expressly stated in the judgment, or the
+3 date the judgment is filed with the court clerk.
+4 H. If a judgment is rendered establishing the existence of a
+5 lien against property and no rate of interest exists, the court
+6 shall allow prejudgment interest at a rate prescribed pursuant to
+7 subsection I of this section from the date the lien is filed to the
+8 date of verdict.
+9 I. For purposes of computing postjudgment interest as
+10 authorized by this section, interest shall be the prime rate, as
+11 listed in the first edition of the Wall Street Journal published for
+12 each calendar year and as certified to the Administrative Director
+13 of the Courts by the State Treasurer on the first regular business
+14 day following publication in January of each year, plus two percent
+15 (2%). For purposes of computing prejudgment interest as authorized
+16 by this section, interest shall be determined using a rate equal to
+17 the average United States Treasury Bill rate of the preceding
+18 calendar year as certified to the Administrative Director of the
+19 Courts by the State Treasurer on the first regular business day in
+20 January of each year.
+21 J. For purposes of computing postjudgment interest, the
+22 provisions of this section shall be applicable to all judgments of
+23 the district courts rendered on or after January 1, 2005. Effective
+24 January 1, 2005, the method for computing postjudgment interest
+SENATE FLOOR VERSION - HB2138 SFLR Page 14
+(Bold face denotes Committee Amendments)
+1 pres cribed by this section shall be applicable to all judgments
+2 remaining unpaid rendered prior to January 1, 2005.
+3 K. For purposes of computing prejudgment interest, the
+4 provisions of this section shall be applicable to all actions which
+5 are filed in the district courts on or after January 1, 2010, for
+6 which an award of prejudgment interest is authorized by the
+7 provisions of this section.
+8 SECTION 3. This act shall become effective November 1, 2025.
+9 COMMITTEE REPORT BY: COMMITTEE ON JUDICIARY
+April 15, 2025 - DO PASS
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - HB2138 SFLR Page 15
+(Bold face denotes Committee Amendments)
+[DELETED: P B K  a R w]
+[DELETED: P w]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P i i]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+
+
+================================================================================
+
+Raw Text:
+1 SENATE FLOOR VERSION
+April 15, 2025
+2
+3 ENGROSSED HOUSE
+BILL NO. 2138 By: Kannady of the House
+4
+and
+5
+Rosino of the Senate
+6
+7
+8 An Act relating to civil procedure; amending 12 O.S.
+2021, Section 2012, which relates to defenses and
+9 objections; providing procedures for default judgment
+under certain circumstances; clarifying effect of
+10 certain contact or communication; clarifying effect
+on evidentiary hearing for damages; amending 12 O.S.
+11 2021, Section 727.1, which relates to postjudgment
+interest; providing for certain postjudgment interest
+12 during pendency of an appeal; and providing an
+effective date.
+13
+14
+15 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+16 SECTION 1. AMENDATORY 12 O.S. 2021, Section 2012, is
+17 amended to read as follows:
+18 Section 2012.
+19 DEFENSES AND OBJECTIONS; WHEN AND HOW PRESENTED;
+20 BY PLEADING OR MOTION
+21 A. WHEN PRESENTED. 1. Unless a different time is prescribed
+22 by law, a defendant shall serve an answer:
+23 a. within twenty (20) days after the service of the
+24 summons and petition upon the defendant,
+SENATE FLOOR VERSION - HB2138 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 b. within twenty (20) days after the service of the
+2 summons and petition upon the defendant, or within the
+3 last day for answering if applicable; provided, a
+4 defendant may file a reservation of time which shall
+5 extend the time to respond twenty (20) days from the
+6 last date for answering. The filing of such a
+7 reservation of time waives defenses of paragraphs 2,
+8 3, 4, 5, 6, and 9 of subsection B of this section.
+9 2. A party served with a pleading stating a cross-claim against
+10 that party shall serve an answer thereto within twenty (20) days
+11 after the service upon the party.
+12 3. The plaintiff shall serve a reply to a counterclaim in the
+13 answer within twenty (20) days after service of the answer or, if a
+14 reply is ordered by the court, within twenty (20) days after service
+15 of the order, unless the order otherwise directs.
+16 4. The party requesting a summons to be issued or filing a
+17 counter-claim counterclaim or cross-claim may elect to have the
+18 answer served within thirty-five (35) days in lieu of the twenty
+19 (20) days set forth in this section.
+20 5. The service of a motion permitted under this section or a
+21 motion for summary judgment alters these periods of time as follows:
+22 if the court denies the motion or postpones its disposition until
+23 the trial on the merits, the responsive pleading shall be served
+24
+SENATE FLOOR VERSION - HB2138 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 with in twenty (20) days after notice of the court's action, unless a
+2 different time is fixed by order of the court.
+3 B. HOW PRESENTED. Every defense, in law or fact, to a claim
+4 for relief in any pleading, whether a claim, counterclaim, cross-
+5 claim, or third-party claim, shall be asserted in the responsive
+6 pleading thereto if one is required, except that the following
+7 defenses may at the option of the pleader be made by motion:
+8 1. Lack of jurisdiction over the subject matter;
+9 2. Lack of jurisdiction over the person;
+10 3. Improper venue;
+11 4. Insufficiency of process;
+12 5. Insufficiency of service of process;
+13 6. Failure to state a claim upon which relief can be granted;
+14 7. Failure to join a party under Section 2019 of this title;
+15 8. Another action pending between the same parties for the same
+16 claim;
+17 9. Lack of capacity of a party to be sued; and
+18 10. Lack of capacity of a party to sue.
+19 A motion making any of these defenses shall be made before pleading
+20 if a further pleading is permitted. No defense or objection is
+21 waived by being joined with one or more other defenses or objections
+22 in a responsive pleading or motion. If a pleading sets forth a
+23 claim for relief to which the adverse party is not required to serve
+24 a responsive pleading, the adverse party may assert at the trial any
+SENATE FLOOR VERSION - HB2138 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 defe nse in law or fact to that claim for relief. If, on a motion
+2 asserting the defense numbered 6 of this subsection to dismiss for
+3 failure of the pleading to state a claim upon which relief can be
+4 granted, matters outside the pleading are presented to and not
+5 excluded by the court, the motion shall be treated as one for
+6 summary judgment and all parties shall be given reasonable
+7 opportunity to present all material made pertinent to the motion by
+8 the rules for summary judgment. A motion to dismiss for failure to
+9 state a claim upon which relief can be granted shall separately
+10 state each omission or defect in the petition, and a motion that
+11 does not specify such defects or omissions shall be denied without a
+12 hearing and the defendant shall answer within twenty (20) days after
+13 notice of the court's action.
+14 C. PRELIMINARY HEARINGS. The defenses specifically enumerated
+15 in paragraphs 1 through 10 of subsection B of this section, whether
+16 made in a pleading or by motion, and the motion to strike mentioned
+17 in subsection D of this section shall be heard and determined before
+18 trial on application of any party, unless the court orders that the
+19 hearing and determination thereof be deferred until the trial. If
+20 the court determines that venue is proper, the action shall not be
+21 dismissed for improper venue as a result of the jury's verdict or
+22 the subsequent ruling of the court on a demurrer to the evidence or
+23 a motion for a directed verdict.
+24
+SENATE FLOOR VERSION - HB2138 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 D. MOTION TO STRIKE. Upon motion made by a party before
+2 responding to a pleading or, if no responsive pleading is permitted
+3 by this act, upon motion made by a party within twenty (20) days
+4 after the service of the pleading upon the party or upon the court's
+5 own initiative at any time, the court may order stricken from any
+6 pleading any insufficient defense. If, on a motion to strike an
+7 insufficient defense, matters outside the pleadings are presented to
+8 and not excluded by the court, the motion shall be treated as one
+9 for partial summary judgment and all parties shall be given
+10 reasonable opportunity to present all materials made pertinent to
+11 the motion by the rules for summary judgment.
+12 E. CONSOLIDATION OF DEFENSES IN MOTION. A party who makes a
+13 motion under this section may join with it any other motions herein
+14 provided for and then available to the party. If a party makes a
+15 motion under this section but omits therefrom any defense or
+16 objection then available to the party which this section permits to
+17 be raised by motion, the party shall not thereafter make a motion
+18 based on the defense or objection so omitted, except a motion as
+19 provided in paragraph 2 of subsection F of this section on the
+20 grounds there stated. The court in its discretion may permit a
+21 party to amend a motion by stating additional defenses or objections
+22 if an amendment is sought at least five (5) days before the hearing
+23 on the motion.
+24 F. WAIVER OR PRESERVATION OF CERTAIN DEFENSES.
+SENATE FLOOR VERSION - HB2138 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 1. A defense of lack of jurisdiction over the person, improper
+2 venue, insufficiency of process, insufficiency of service of
+3 process, failure to state a claim upon which relief can be granted,
+4 or lack of capacity of a party to be sued is waived:
+5 a. if omitted from a motion that raises any of the
+6 defenses or objections which this section permits to
+7 be raised by motion, or
+8 b. if it is not made by motion and it is not included in
+9 a responsive pleading or an amendment thereof
+10 permitted by subsection A of Section 2015 of this
+11 title to be made as a matter of course. A motion to
+12 strike an insufficient defense is waived if not raised
+13 as in subsection D of this section.
+14 2. A defense of failure to join a party indispensable under
+15 Section 2019 of this title may be made in any pleading permitted or
+16 ordered under subsection A of Section 2007 of this title or at the
+17 trial on the merits. A defense of another action pending between
+18 the same parties for the same claim or a defense of lack of capacity
+19 of a party to sue may be made in any pleading permitted or ordered
+20 pursuant to the provisions of subsection A of Section 2007 of this
+21 title or at the pretrial conference.
+22 3. Whenever it appears by suggestion of the parties or
+23 otherwise that the court lacks jurisdiction of the subject matter,
+24 the court shall dismiss the action.
+SENATE FLOOR VERSION - HB2138 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 4. A waiver of the defense in paragraph 6 of subsection B of
+2 this section does not preclude a later contention that a party is
+3 not entitled to any relief as a matter of law, either by motion for
+4 summary judgment, or by demurrer or motion at or after trial.
+5 G. FINAL DISMISSAL ON FAILURE TO AMEND. On granting a motion
+6 to dismiss a claim for relief, the court shall grant leave to amend
+7 if the defect can be remedied and shall specify the time within
+8 which an amended pleading shall be filed. If the amended pleading
+9 is not filed within the time allowed, final judgment of dismissal
+10 with prejudice shall be entered on motion except in cases of
+11 excusable neglect. In such cases amendment shall be made by the
+12 party in default within a time specified by the court for filing an
+13 amended pleading. Within the time allowed by the court for filing
+14 an amended pleading, a plaintiff may voluntarily dismiss the action
+15 without prejudice.
+16 H. MOTION FOR DEFAULT JUDGMENT NOT REQUIRED IF DEFENDANT FAILS
+17 TO FILE RESPONSE. Nothing in any provision of this title or in any
+18 local or district court rule shall be construed to require either a
+19 motion or a hearing for default judgment, and no notice shall be
+20 necessary, if, after service of summons and petition, a defendant
+21 fails to timely file with the court clerk within twenty (20) days a
+22 written appearance, answer, motion, pleading, or response as
+23 provided in subsection A of this section. Contact or communication
+24 with the plaintiff or attorney of the plaintiff shall not constitute
+SENATE FLOOR VERSION - HB2138 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 an a ppearance, answer, motion, pleading, or response unless the
+2 contact or communication is in writing and is also timely filed by
+3 the defendant in writing with the court clerk as provided in
+4 subsection A of this section. The provisions of this subsection
+5 shall not be construed to prevent an evidentiary hearing concerning
+6 the amount of damage to be awarded.
+7 SECTION 2. AMENDATORY 12 O.S. 2021, Section 727.1, is
+8 amended to read as follows:
+9 Section 727.1.
+10 POSTJUDGMENT INTEREST
+11 A. 1. Except as otherwise provided by this section, all
+12 judgments of courts of record, including costs and attorney fees
+13 authorized by statute or otherwise and allowed by the court, shall
+14 bear interest at a rate prescribed pursuant to this section. Such
+15 interest shall also apply to the amounts collected on any judgment
+16 enforced during the pendency of an appeal which is subsequently
+17 overturned on appeal when restitution is paid to the defendant.
+18 2. Costs and attorney fees allowed by the court shall bear
+19 interest from the earlier of the date the judgment or order is
+20 pronounced, if expressly stated in the written judgment or order
+21 awarding the costs and attorney fees, or the date the judgment or
+22 order is filed with the court clerk.
+23 B. Judgments, including costs and attorney fees authorized by
+24 statute or otherwise and allowed by the court, against this state or
+SENATE FLOOR VERSION - HB2138 SFLR Page 8
+(Bold face denotes Committee Amendments)
+
+1 its political subdivisions, including counties, municipalities,
+2 school districts, and public trusts of which this state or a
+3 political subdivision of this state is a beneficiary, shall bear
+4 interest during the term of judgment at a rate prescribed pursuant
+5 to this section from the date of rendition. No judgment against
+6 this state or its political subdivisions, including counties,
+7 municipalities, school districts, and public trusts of which this
+8 state or a political subdivision of this state is a beneficiary,
+9 inclusive of postjudgment interest, shall exceed the total amount of
+10 liability of the governmental entity pursuant to The Governmental
+11 Tort Claims Act.
+12 C. The postjudgment interest authorized by subsection A or
+13 subsection B of this section shall accrue from the earlier of the
+14 date the judgment is rendered as expressly stated in the judgment,
+15 or the date the judgment is filed with the court clerk, and shall
+16 initially accrue at the rate in effect for the calendar year during
+17 which the judgment is rendered until the end of the calendar year in
+18 which the judgment was rendered, or until the judgment is paid,
+19 whichever first occurs. Beginning on January 1 of the next
+20 succeeding calendar year until the end of that calendar year, or
+21 until the judgment is paid, whichever first occurs, the judgment,
+22 together with postjudgment interest previously accrued, shall bear
+23 interest at the rate in effect for judgments rendered during that
+24 calendar year as certified by the Administrative Director of the
+SENATE FLOOR VERSION - HB2138 SFLR Page 9
+(Bold face denotes Committee Amendments)
+
+1 Cour ts pursuant to subsection I of this section. For each
+2 succeeding calendar year, or part of a calendar year, during which a
+3 judgment remains unpaid, the judgment, together with postjudgment
+4 interest previously accrued, shall bear interest at the rate in
+5 effect for judgments rendered during that calendar year as certified
+6 by the Administrative Director of the Courts pursuant to subsection
+7 I of this section. A separate computation using the interest rate
+8 in effect for judgments as provided by subsection I of this section
+9 shall be made for each calendar year, or part of a calendar year,
+10 during which the judgment remains unpaid in order to determine the
+11 total amount of interest for which the judgment debtor is liable.
+12 The postjudgment interest rate for each calendar year or part of a
+13 calendar year a judgment remains unpaid shall be multiplied by the
+14 original amount of the judgment, including any prejudgment interest,
+15 together with postjudgment interest previously accrued. Interest
+16 shall accrue on a judgment in the manner prescribed by this
+17 subsection until the judgment is satisfied or released.
+18 D. If a rate of interest is specified in a contract, the rate
+19 specified shall apply and be stated in the journal entry of
+20 judgment. The rate of interest shall not exceed the lawful rate for
+21 that obligation. Postjudgment interest shall be calculated at the
+22 contractual rate and accrued in the same manner as prescribed in
+23 subsection C of this section.
+24 PREJUDGMENT INTEREST
+SENATE FLOOR VERSION - HB2138 SFLR Page 10
+(Bold face denotes Committee Amendments)
+
+1 E. Except as provided by subsection F of this section,
+2 beginning November 1, 2009, if a verdict for damages by reason of
+3 personal injuries or injury to personal rights including, but not
+4 limited to, injury resulting from bodily restraint, personal insult,
+5 defamation, invasion of privacy, injury to personal relations, or
+6 detriment due to an act or omission of another is accepted by the
+7 trial court, the court in rendering judgment shall add interest on
+8 the verdict at a rate prescribed pursuant to subsection I of this
+9 section from the date which is twenty-four (24) months after the
+10 suit resulting in the judgment was commenced to the earlier of the
+11 date the verdict is accepted by the trial court as expressly stated
+12 in the judgment, or the date the judgment is filed with the court
+13 clerk. No prejudgment interest shall begin to accrue until twenty-
+14 four (24) months after the suit resulting in the judgment was
+15 commenced. The interest rate for computation of prejudgment
+16 interest shall begin with the rate prescribed by subsection I of
+17 this section which is in effect for the calendar year which is
+18 twenty-four (24) months after the suit resulting in the judgment was
+19 commenced. This rate shall be in effect until the end of the
+20 calendar year in which interest begins to accrue or until the date
+21 judgment is filed, whichever first occurs. Beginning on January 1
+22 of the next succeeding calendar year until the end of that calendar
+23 year, or until the date the judgment is filed, whichever first
+24 occurs, and for each succeeding calendar year thereafter, the
+SENATE FLOOR VERSION - HB2138 SFLR Page 11
+(Bold face denotes Committee Amendments)
+
+1 prej udgment interest rate shall be the rate in effect for judgments
+2 rendered during each calendar year as certified by the
+3 Administrative Director of the Courts pursuant to subsection I of
+4 this section. After the computation of all prejudgment interest has
+5 been completed, the total amount of prejudgment interest shall be
+6 added to the amount of the judgment rendered pursuant to the trial
+7 of the action, and the total amount of the resulting judgment shall
+8 become the amount upon which postjudgment interest is computed
+9 pursuant to subsection A of this section.
+10 F. If a verdict of the type described by subsection E of this
+11 section is rendered against this state or its political
+12 subdivisions, including counties, municipalities, school districts,
+13 and public trusts of which this state or a political subdivision of
+14 this state is a beneficiary, the judgment shall bear interest at the
+15 rate prescribed pursuant to subsection I of this section from the
+16 date the suit was commenced to the earlier of the date the verdict
+17 is accepted by the trial court as expressly stated in the judgment
+18 or the date the judgment is filed with the court clerk. The
+19 interest rate for computation of prejudgment interest shall begin
+20 with the rate prescribed by subsection I of this section which is in
+21 effect for the calendar year in which the suit resulting in the
+22 judgment is commenced. This rate shall be in effect until the end
+23 of the calendar year in which the suit resulting in judgment was
+24 filed or until the date the judgment is rendered as expressly stated
+SENATE FLOOR VERSION - HB2138 SFLR Page 12
+(Bold face denotes Committee Amendments)
+
+1 in t he judgment, whichever first occurs. Beginning on January 1 of
+2 the next succeeding calendar year until the end of that calendar
+3 year, or until the date judgment is rendered, whichever first
+4 occurs, and for each succeeding calendar year thereafter, the
+5 prejudgment interest rate shall be the rate in effect for judgments
+6 rendered during each calendar year as certified by the
+7 Administrative Director of the Courts pursuant to subsection I of
+8 this section. After the computation of prejudgment interest has
+9 been completed, the amount shall be added to the amount of the
+10 judgment rendered pursuant to the trial of the action, and the total
+11 amount of the resulting judgment shall become the amount upon which
+12 postjudgment interest is computed pursuant to subsection B of this
+13 section. No award of prejudgment interest against this state or its
+14 political subdivisions, including counties, municipalities, school
+15 districts, and public trusts of which this state or a political
+16 subdivision of this state is a beneficiary, including the amount of
+17 the judgment awarded pursuant to trial of the action, shall exceed
+18 the total amount of liability of the governmental entity pursuant to
+19 The Governmental Tort Claims Act.
+20 G. If exemplary or punitive damages are awarded in an action
+21 for personal injury or injury to personal rights including, but not
+22 limited to, injury resulting from bodily restraint, personal insult,
+23 defamation, invasion of privacy, injury to personal relations, or
+24 detriment due to an act or omission of another, the interest on that
+SENATE FLOOR VERSION - HB2138 SFLR Page 13
+(Bold face denotes Committee Amendments)
+
+1 awar d shall begin to accrue from the earlier of the date the
+2 judgment is rendered as expressly stated in the judgment, or the
+3 date the judgment is filed with the court clerk.
+4 H. If a judgment is rendered establishing the existence of a
+5 lien against property and no rate of interest exists, the court
+6 shall allow prejudgment interest at a rate prescribed pursuant to
+7 subsection I of this section from the date the lien is filed to the
+8 date of verdict.
+9 I. For purposes of computing postjudgment interest as
+10 authorized by this section, interest shall be the prime rate, as
+11 listed in the first edition of the Wall Street Journal published for
+12 each calendar year and as certified to the Administrative Director
+13 of the Courts by the State Treasurer on the first regular business
+14 day following publication in January of each year, plus two percent
+15 (2%). For purposes of computing prejudgment interest as authorized
+16 by this section, interest shall be determined using a rate equal to
+17 the average United States Treasury Bill rate of the preceding
+18 calendar year as certified to the Administrative Director of the
+19 Courts by the State Treasurer on the first regular business day in
+20 January of each year.
+21 J. For purposes of computing postjudgment interest, the
+22 provisions of this section shall be applicable to all judgments of
+23 the district courts rendered on or after January 1, 2005. Effective
+24 January 1, 2005, the method for computing postjudgment interest
+SENATE FLOOR VERSION - HB2138 SFLR Page 14
+(Bold face denotes Committee Amendments)
+
+1 pres cribed by this section shall be applicable to all judgments
+2 remaining unpaid rendered prior to January 1, 2005.
+3 K. For purposes of computing prejudgment interest, the
+4 provisions of this section shall be applicable to all actions which
+5 are filed in the district courts on or after January 1, 2010, for
+6 which an award of prejudgment interest is authorized by the
+7 provisions of this section.
+8 SECTION 3. This act shall become effective November 1, 2025.
+9 COMMITTEE REPORT BY: COMMITTEE ON JUDICIARY
+April 15, 2025 - DO PASS
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - HB2138 SFLR Page 15
+(Bold face denotes Committee Amendments)
+
+[DELETED: P B K  a R w]
+[DELETED: P w]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P i i]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]

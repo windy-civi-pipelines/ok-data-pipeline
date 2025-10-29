@@ -1,0 +1,5339 @@
+Title: SENATE BILL 577 By: Rader
+Official Title: SENATE BILL 577 By: Rader
+Number of Sections: 69
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 35 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to ad valorem tax; amending 68 O.S.
+7
+2021, Section 2902, as last amended by Section 1,
+8
+Chapter 390, O.S.L. 2022 (68 O.S. Supp. 2024, Section
+8
+2902), which relates to the exemption from ad valorem
+9
+tax for manufacturing facilities; requiring
+9
+facilities to provide certain information; requiring
+10
+the Oklahoma Tax Commission to provide certain data
+10
+to the Incentive Evaluation Commission; amending 68
+11
+O.S. 2021, Section 205, as last amended by Section 1,
+11
+Chapter 208, O.S.L. 2024 (68 O.S. Supp. 2024, Section
+12
+205), which relates to the confidential nature of
+12
+records and files of the Oklahoma Tax Commission;
+13
+excepting and requiring the disclosure of
+13
+information; updating statutory language; updating
+14
+statutory reference; and providing an effective date.
+14
+15
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+
+Section 2:
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2902, as
+18
+19
+last amended by Section 1, Chapter 390, O.S.L. 2022 (68 O.S. Supp.
+19
+20
+2024, Section 2902), is amended to read as follows:
+20
+21
+
+Section 3:
+Section 2902. A. Except as otherwise provided by subsection H
+21
+22
+of Section 3658 of this title pursuant to which the exemption
+22
+23
+authorized by this section may not be claimed, a qualifying
+23
+24
+manufacturing concern, as defined by Section 6B of Article X of the
+24
+Req. No. 1331 Page 1
+1
+Oklahoma Constitution, and as further defined herein, shall be
+1
+2
+exempt from the levy of any ad valorem taxes upon new, expanded or
+2
+3
+acquired manufacturing facilities including facilities engaged in
+3
+4
+research and development, for a period of five (5) years. The
+4
+5
+provisions of Section 6B of Article X of the Oklahoma Constitution
+5
+6
+requiring an existing facility to have been unoccupied for a period
+6
+7
+of twelve (12) months prior to acquisition shall be construed as a
+7
+8
+qualification for a facility to initially receive an exemption, and
+8
+9
+shall not be deemed to be a qualification for that facility to
+9
+10
+continue to receive an exemption in each of the four (4) years
+10
+11
+following the initial year for which the exemption was granted.
+11
+12
+Such facilities are hereby classified for the purposes of taxation
+12
+13
+as provided in Section 22 of Article X of the Oklahoma Constitution.
+13
+14
+B. For purposes of this section, the following definitions
+14
+15
+shall apply:
+15
+16
+
+Section 4:
+1. “Manufacturing facilities” means facilities engaged in the
+16
+17
+mechanical or chemical transformation of materials or substances
+17
+18
+into new products and except as provided by paragraph 6 of
+18
+19
+subsection C of this section shall include:
+19
+20
+a. establishments which have received a manufacturer
+20
+21
+exemption permit pursuant to the provisions of Section
+21
+22
+
+Section 5:
+1359.2 of this title,
+22
+23
+23
+24
+24
+Req. No. 1331 Page 2
+1
+b. facilities including repair and replacement parts,
+1
+2
+primarily engaged in aircraft repair, building and
+2
+3
+rebuilding whether or not on a factory basis,
+3
+4
+c. establishments primarily engaged in computer services
+4
+5
+and data processing as defined under Industrial Group
+5
+6
+Numbers 5112 and 5415, and U.S. Industry Number 334611
+6
+7
+and 519130 of the NAICS Manual, latest revision, and
+7
+8
+which derive at least fifty percent (50%) of their
+8
+9
+annual gross revenues from the sale of a product or
+9
+10
+service to an out-of-state buyer or consumer, and as
+10
+11
+defined under Industrial Group Number 5182 of the
+11
+12
+NAICS Manual, latest revision, which derive at least
+12
+13
+eighty percent (80%) of their annual gross revenues
+13
+14
+from the sale of a product or service to an out-of-
+14
+15
+state buyer or consumer. Eligibility as a
+15
+16
+manufacturing facility pursuant to this subparagraph
+16
+17
+shall be established, subject to review by the
+17
+18
+Oklahoma Tax Commission, by annually filing an
+18
+19
+affidavit with the Tax Commission stating that the
+19
+20
+facility so qualifies and such other information as
+20
+21
+required by the Tax Commission. For purposes of
+21
+22
+determining whether annual gross revenues are derived
+22
+23
+from sales to out-of-state buyers, all sales to the
+23
+24
+24
+Req. No. 1331 Page 3
+1
+federal government shall be considered to be an out-
+1
+2
+of-state buyer,
+2
+3
+d. facilities that the investment cost of the
+3
+4
+construction, acquisition or expansion is Five Hundred
+4
+5
+Thousand Dollars ($500,000.00) or more with respect to
+5
+6
+assets placed into service during calendar year 2022.
+6
+7
+For subsequent calendar years, the investment required
+7
+8
+shall be increased annually by a percentage equal to
+8
+9
+the previous year’s increase in the Consumer Price
+9
+10
+Index-All Urban Consumers (“CPI-U”) and such adjusted
+10
+11
+amount shall be the required investment cost in order
+11
+12
+to qualify for the exemption authorized by this
+12
+13
+
+Section 6:
+section. The Oklahoma Department of Commerce shall
+13
+14
+determine the amount of the increase, if any, on
+14
+15
+January 1 of each year. The Oklahoma Tax Commission
+15
+16
+shall publish on its website at least annually the
+16
+17
+adjusted dollar amount in order to qualify for the
+17
+18
+exemption authorized by this section and shall include
+18
+19
+the adjusted dollar amount in any of its relevant
+19
+20
+forms or publications with respect to the exemption.
+20
+21
+Provided, “investment cost” shall not include the cost
+21
+22
+of direct replacement, refurbishment, repair or
+22
+23
+maintenance of existing machinery or equipment, except
+23
+24
+that “investment cost” investment cost shall include
+24
+Req. No. 1331 Page 4
+1
+capital expenditures for direct replacement,
+1
+2
+refurbishment, repair or maintenance of existing
+2
+3
+machinery or equipment that qualifies for depreciation
+3
+4
+and/or amortization pursuant to the Internal Revenue
+4
+5
+Code of 1986, as amended, and such expenditures shall
+5
+6
+be eligible as a part of an “expansion” expansion that
+6
+7
+otherwise qualifies under this section,
+7
+8
+e. establishments primarily engaged in distribution as
+8
+9
+defined under Industry Numbers 49311, 49312, 49313 and
+9
+10
+49319 and Industry Sector Number 42 of the NAICS
+10
+11
+Manual, latest revision, and which meet the following
+11
+12
+qualifications:
+12
+13
+(1) construction with an initial capital investment
+13
+14
+of at least Five Million Dollars ($5,000,000.00),
+14
+15
+(2) employment of at least one hundred (100) full-
+15
+16
+time-equivalent employees, as certified by the
+16
+17
+Oklahoma Employment Security Commission,
+17
+18
+(3) payment of wages or salaries to its employees at
+18
+19
+a wage which equals or exceeds the average wage
+19
+20
+requirements in the Oklahoma Quality Jobs Program
+20
+21
+Act for the year in which the real property was
+21
+22
+placed into service, and
+22
+23
+(4) commencement of construction on or after November
+23
+24
+1, 2007, with construction to be completed within
+24
+Req. No. 1331 Page 5
+1
+three (3) years from the date of the commencement
+1
+2
+of construction,
+2
+3
+f. facilities engaged in the manufacturing, compounding,
+3
+4
+processing or fabrication of materials into articles
+4
+5
+of tangible personal property according to the special
+5
+6
+order of a customer (custom order manufacturing) by
+6
+7
+manufacturers classified as operating in North
+7
+8
+American Industry Classification System (NAICS)
+8
+9
+Sectors 32 and 33, but does not include such custom
+9
+10
+order manufacturing by manufacturers classified in
+10
+11
+other NAICS code sectors, and
+11
+12
+g. with respect to any entity making an application for
+12
+13
+the exemption authorized by this section on or after
+13
+14
+January 1, 2023, the establishment making application
+14
+15
+for exempt treatment of real or personal property
+15
+16
+acquired or improved beginning January 1, 2022, and
+16
+17
+for any calendar year thereafter, the entity shall be
+17
+18
+required to pay new direct jobs, as defined by Section
+18
+19
+3603 of this title for purposes of the Oklahoma
+19
+20
+Quality Jobs Program Act, an average annualized wage
+20
+21
+which equals or exceeds the average wage requirement
+21
+22
+in the Oklahoma Quality Jobs Program Act for the year
+22
+23
+in which the real or personal property was placed into
+23
+24
+service. The Oklahoma Tax Commission may request
+24
+Req. No. 1331 Page 6
+1
+verification from the Oklahoma Department of Commerce
+1
+2
+that an establishment seeking an exemption for real or
+2
+3
+personal property pays an average annualized wage that
+3
+4
+equals or exceeds the average wage requirement in
+4
+5
+effect for the year in which the real or personal
+5
+6
+property was placed into service. For purposes of
+6
+7
+this subparagraph, it shall not be necessary for the
+7
+8
+establishment to qualify for incentive payments
+8
+9
+pursuant to the Oklahoma Quality Jobs Program Act, but
+9
+10
+the establishment shall be subject to the wage
+10
+11
+requirements of the Oklahoma Quality Jobs Program Act
+11
+12
+with respect to new direct jobs in order to qualify
+12
+13
+for the exempt treatment authorized by this section.
+13
+14
+Eligibility as a manufacturing facility pursuant to this
+14
+15
+subparagraph shall be established, subject to review by the Tax
+15
+16
+Commission, by annually filing an affidavit with the Tax Commission
+16
+17
+stating that the facility so qualifies and containing such other
+17
+18
+information as required by the Tax Commission.
+18
+19
+Provided, eating and drinking places, as well as other retail
+19
+20
+establishments, shall not qualify as manufacturing facilities for
+20
+21
+purposes of this section, nor shall centrally assessed properties.
+21
+22
+Eligibility as a manufacturing facility pursuant to this
+22
+23
+subparagraph shall be established, subject to review by the Tax
+23
+24
+Commission, by annually filing an application with the Tax
+24
+Req. No. 1331 Page 7
+1
+Commission stating that the facility so qualifies and containing
+1
+2
+such other information as required by the Tax Commission;
+2
+3
+
+Section 7:
+2. “Facility” and “facilities”, except as otherwise provided by
+3
+4
+this section, means and includes the land, buildings, structures and
+4
+5
+improvements used directly and exclusively in the manufacturing
+5
+6
+process. Effective January 1, 2022, and for each calendar year
+6
+7
+thereafter, for establishments which have received a manufacturer
+7
+8
+exemption permit pursuant to the provisions of Section 1359.2 of
+8
+9
+this title, or facilities engaged in manufacturing activities
+9
+10
+defined or classified in the NAICS Manual under Industry Nos. 311111
+10
+11
+through 339999, inclusive, but for no other establishments, facility
+11
+12
+and facilities means and includes the land, buildings, structures,
+12
+13
+improvements, machinery, fixtures, equipment and other personal
+13
+14
+property used directly and exclusively in the manufacturing process;
+14
+15
+and
+15
+16
+
+Section 8:
+3. “Research and development” means activities directly related
+16
+17
+to and conducted for the purpose of discovering, enhancing,
+17
+18
+increasing or improving future or existing products or processes or
+18
+19
+productivity.
+19
+20
+C. The following provisions shall apply:
+20
+21
+
+Section 9:
+1. A manufacturing concern shall be entitled to the exemption
+21
+22
+herein provided for each new manufacturing facility constructed,
+22
+23
+each existing manufacturing facility acquired and the expansion of
+23
+24
+existing manufacturing facilities on the same site, as such terms
+24
+Req. No. 1331 Page 8
+1
+are defined by Section 6B of Article X of the Oklahoma Constitution
+1
+2
+and by this section;
+2
+3
+
+Section 10:
+2. No manufacturing concern shall receive more than one five-
+3
+4
+year exemption for any one manufacturing facility unless the
+4
+5
+expansion which qualifies the manufacturing facility for an
+5
+6
+additional five-year exemption meets the requirements of paragraph 4
+6
+7
+of this subsection and the employment level established for any
+7
+8
+previous exemption is maintained;
+8
+9
+
+Section 11:
+3. Any exemption as to the expansion of an existing
+9
+10
+manufacturing facility shall be limited to the increase in ad
+10
+11
+valorem taxes directly attributable to the expansion;
+11
+12
+
+Section 12:
+4. All initial applications for any exemption for a new,
+12
+13
+acquired or expanded manufacturing facility shall be granted only
+13
+14
+if:
+14
+15
+a. there is a net increase in annualized base payroll
+15
+16
+over the initial payroll of at least Two Hundred Fifty
+16
+17
+Thousand Dollars ($250,000.00) if the facility is
+17
+18
+located in a county with a population of fewer than
+18
+19
+seventy-five thousand (75,000), according to the most
+19
+20
+recent Federal Decennial Census, while maintaining or
+20
+21
+increasing base payroll in subsequent years, or at
+21
+22
+least One Million Dollars ($1,000,000.00) if the
+22
+23
+facility is located in a county with a population of
+23
+24
+seventy-five thousand (75,000) or more, according to
+24
+Req. No. 1331 Page 9
+1
+the most recent Federal Decennial Census, while
+1
+2
+maintaining or increasing base payroll in subsequent
+2
+3
+years; provided, the payroll requirement of this
+3
+4
+subparagraph shall be waived for claims for exemptions
+4
+5
+including claims previously denied or on appeal on
+5
+6
+March 3, 2010, for all initial applications for
+6
+7
+exemption filed on or after January 1, 2004, and on or
+7
+8
+before March 31, 2009, and all subsequent annual
+8
+9
+exemption applications filed related to the initial
+9
+10
+application for exemption, for an applicant, if the
+10
+11
+facility has been located in Oklahoma for at least
+11
+12
+fifteen (15) years engaged in marine engine
+12
+13
+manufacturing as defined under U.S. Industry Number
+13
+14
+333618 of the NAICS Manual, latest revision, and has
+14
+15
+maintained an average employment of five hundred (500)
+15
+16
+or more full-time-equivalent employees over a ten-year
+16
+17
+period. Any applicant that qualifies for the payroll
+17
+18
+requirement waiver as outlined in the previous
+18
+19
+sentence and subsequently closes its Oklahoma
+19
+20
+manufacturing plant prior to January 1, 2012, may be
+20
+21
+disqualified for exemption and subject to recapture.
+21
+22
+For an applicant engaged in paperboard manufacturing
+22
+23
+as defined under U.S. Industry Number 322130 of the
+23
+24
+NAICS Manual, latest revision, union master payouts
+24
+Req. No. 1331 Page 10
+1
+paid by the buyer of the facility to specified
+1
+2
+individuals employed by the facility at the time of
+2
+3
+purchase, as specified under the purchase agreement,
+3
+4
+shall be excluded from payroll for purposes of this
+4
+5
+
+Section 13:
+section.
+5
+6
+In order to provide certainty with respect to
+6
+7
+investments in manufacturing facilities pertaining to
+7
+8
+all initial applications for exemption filed on or
+8
+9
+after January 1, 2016, the following definitions shall
+9
+10
+apply:
+10
+11
+(1) “base payroll” shall mean total payroll adjusted
+11
+12
+for any nonrecurring bonuses, exercise of stock
+12
+13
+option or stock rights and other nonrecurring,
+13
+14
+extraordinary items included in total payroll,
+14
+15
+and
+15
+16
+(2) “initial payroll” shall mean base payroll for the
+16
+17
+year immediately preceding the initial
+17
+18
+construction, acquisition or expansion.
+18
+19
+The Tax Commission shall verify payroll
+19
+20
+information through the Oklahoma Employment
+20
+21
+Security Commission by using reports from the
+21
+22
+Oklahoma Employment Security Commission for the
+22
+23
+calendar year immediately preceding the year for
+23
+24
+which initial application is made for base-line
+24
+Req. No. 1331 Page 11
+1
+payroll, which must be maintained or increased
+1
+2
+for each subsequent year; provided, a
+2
+3
+manufacturing facility shall have the option of
+3
+4
+excluding from its payroll, for purposes of this
+4
+5
+
+Section 14:
+section:
+5
+6
+i. payments to sole proprietors, members
+6
+7
+of a partnership, members of a limited
+7
+8
+liability company who own at least ten
+8
+9
+percent (10%) of the capital of the
+9
+10
+limited liability company or
+10
+11
+stockholder-employees of a corporation
+11
+12
+who own at least ten percent (10%) of
+12
+13
+the stock in the corporation, and
+13
+14
+ii. any nonrecurring bonuses, exercise of
+14
+15
+stock option or stock rights or other
+15
+16
+nonrecurring, extraordinary items
+16
+17
+included in total payroll numbers as
+17
+18
+reported by the Oklahoma Employment
+18
+19
+Security Commission. A manufacturing
+19
+20
+facility electing either option shall
+20
+21
+indicate such election upon its
+21
+22
+application for an exemption under this
+22
+23
+
+Section 15:
+section. Any manufacturing facility
+23
+24
+electing either option shall submit
+24
+Req. No. 1331 Page 12
+1
+such information as the Tax Commission
+1
+2
+may require in order to verify payroll
+2
+3
+information. Payroll information
+3
+4
+submitted pursuant to the provisions of
+4
+5
+this paragraph shall be submitted to
+5
+6
+the Tax Commission and shall be subject
+6
+7
+to the provisions of Section 205 of
+7
+8
+this title, and
+8
+9
+b. the facility offers, or will offer within one hundred
+9
+10
+eighty (180) days of the date of employment, a basic
+10
+11
+health benefits plan to the full-time-equivalent
+11
+12
+employees of the facility, which is determined by the
+12
+13
+Oklahoma Department of Commerce to consist of the
+13
+14
+elements specified in subparagraph b of paragraph 1 of
+14
+15
+subsection A of Section 3603 of this title or elements
+15
+16
+substantially equivalent thereto.
+16
+17
+For purposes of this section, calculation of the amount of
+17
+18
+increased base payroll shall be measured from the start of initial
+18
+19
+construction or expansion to the completion of such construction or
+19
+20
+expansion or for three (3) years from the start of initial
+20
+21
+construction or expansion, whichever occurs first. The amount of
+21
+22
+increased base payroll shall include payroll for full-time-
+22
+23
+equivalent employees in this state who are employed by an entity
+23
+24
+other than the facility which has previously or is currently
+24
+Req. No. 1331 Page 13
+1
+qualified to receive an exemption pursuant to the provisions of this
+1
+2
+
+Section 16:
+section and who are leased or otherwise provided to the facility, if
+2
+3
+such employment did not exist in this state prior to the start of
+3
+4
+initial construction or expansion of the facility. The
+4
+5
+manufacturing concern shall submit an affidavit to the Tax
+5
+6
+Commission, signed by an officer, stating that the construction,
+6
+7
+acquisition or expansion of the facility will result in a net
+7
+8
+increase in the annualized base payroll as required by this
+8
+9
+paragraph and that full-time-equivalent employees of the facility
+9
+10
+are or will be offered a basic health benefits plan as required by
+10
+11
+this paragraph. If, after the completion of such construction or
+11
+12
+expansion or after three (3) years from the start of initial
+12
+13
+construction or expansion, whichever occurs first, the construction,
+13
+14
+acquisition or expansion has not resulted in a net increase in the
+14
+15
+amount of annualized base payroll, if required, or any other
+15
+16
+qualification specified in this paragraph has not been met, the
+16
+17
+manufacturing concern shall pay an amount equal to the amount of any
+17
+18
+exemption granted including penalties and interest thereon, to the
+18
+19
+Tax Commission for deposit to the Ad Valorem Reimbursement Fund;
+19
+20
+
+Section 17:
+5. Except as otherwise provided by this paragraph, any new,
+20
+21
+acquired or expanded computer data processing, data preparation or
+21
+22
+information processing services provider classified in U.S. Industry
+22
+23
+Number 518210 of the North American Industrial Classification System
+23
+24
+(NAICS) Manual, 2017 revision, may apply for exemptions under this
+24
+Req. No. 1331 Page 14
+1
+
+Section 18:
+section for each year in which new, acquired, or expanded capital
+1
+2
+improvements to the facility are made for assets placed in service
+2
+3
+not later than December 31, 2021, if:
+3
+4
+a. there is a net increase in annualized payroll of the
+4
+5
+applicant at any facility or facilities of the
+5
+6
+applicant in this state of at least Two Hundred Fifty
+6
+7
+Thousand Dollars ($250,000.00), which is attributable
+7
+8
+to the capital improvements, or a net increase of
+8
+9
+Seven Million Dollars ($7,000,000.00) or more in
+9
+10
+capital improvements, while maintaining or increasing
+10
+11
+payroll at the facility or facilities in this state
+11
+12
+which are included in the application, and
+12
+13
+b. the facility offers, or will offer within one hundred
+13
+14
+eighty (180) days of the date of employment of new
+14
+15
+employees attributable to the capital improvements, a
+15
+16
+basic health benefits plan to the full-time-equivalent
+16
+17
+employees of the facility, which is determined by the
+17
+18
+Oklahoma Department of Commerce to consist of the
+18
+19
+elements specified in subparagraph b of paragraph 1 of
+19
+20
+subsection A of Section 3603 of this title or elements
+20
+21
+substantially equivalent thereto.
+21
+22
+An establishment described by this paragraph, the primary
+22
+23
+business activity of which is described by Industry No. 518210 of
+23
+24
+the North American Industry Classification System (NAICS) Manual,
+24
+Req. No. 1331 Page 15
+1
+2017 revision, that has applied for and been granted an exemption
+1
+2
+for personal property at any time within five (5) years prior to
+2
+3
+November 1, 2021, may apply for exemptions for items of eligible
+3
+4
+personal property to be located within improvements to real property
+4
+5
+and such real property and improvements having been exempt from ad
+5
+6
+valorem taxation prior to November 1, 2021, pursuant to the
+6
+7
+provisions of this section if such personal property is placed in
+7
+8
+service not later than December 31, 2036. No additional personal
+8
+9
+property of such establishment placed in service after such date
+9
+10
+shall qualify for the exempt treatment otherwise authorized pursuant
+10
+11
+to this paragraph;
+11
+12
+
+Section 19:
+6. Effective January 1, 2017, an entity engaged in electric
+12
+13
+power generation by means of wind, as described by the North
+13
+14
+American Industry Classification System, No. 221119, shall not be
+14
+15
+defined as a qualifying manufacturing concern for purposes of the
+15
+16
+exemption otherwise authorized pursuant to Section 6B of Article X
+16
+17
+of the Oklahoma Constitution or qualify as a “manufacturing
+17
+18
+facility” manufacturing facility as defined in this section. No
+18
+19
+initial application for exemption shall be filed by or accepted from
+19
+20
+an entity engaged in electric power generation by means of wind on
+20
+21
+or after January 1, 2018;
+21
+22
+
+Section 20:
+7. An entity or applicant engaged in an industry as defined
+22
+23
+under U.S. Industry Number 324110 of the NAICS Manual, latest
+23
+24
+revision, which has applied for or been granted an exemption for a
+24
+Req. No. 1331 Page 16
+1
+time period which began on or after calendar year 2012 and before
+1
+2
+calendar year 2016 but which did not meet the payroll requirements
+2
+3
+of subparagraph a of paragraph 4 of this subsection because of
+3
+4
+nonrecurring bonuses, exercise of stock option or stock rights or
+4
+5
+other nonrecurring, extraordinary items included in total payroll in
+5
+6
+the previous year, shall be allowed an exemption, beginning with
+6
+7
+calendar year 2016, for the number of years including the calendar
+7
+8
+year for which the exemption was denied, remaining in the entity’s
+8
+9
+five-year exemption period, provided such entity attains or
+9
+10
+increases payroll at or above the initial or base payroll
+10
+11
+established for the exemption;
+11
+12
+
+Section 21:
+8. A facility engaged in manufacturing defined under U.S.
+12
+13
+Industry Number 327310 of the NAICS Manual shall have the payroll
+13
+14
+requirements of paragraph 4 of this subsection waived for tax year
+14
+15
+2021, which is based in part on the 2020 calendar year payroll
+15
+16
+reported to the Oklahoma Employment Security Commission, and may
+16
+17
+continue to receive the exemption for the five-year period provided
+17
+18
+in this section only if all other requirements of this section are
+18
+19
+met; and
+19
+20
+
+Section 22:
+9. A facility engaged in manufacturing which otherwise
+20
+21
+qualifies for the exemption or exemptions pursuant to the provisions
+21
+22
+of this section shall have the payroll requirements of paragraph 4
+22
+23
+of this subsection waived for tax year 2021, which is based in part
+23
+24
+on the 2020 calendar year payroll reported to the Oklahoma
+24
+Req. No. 1331 Page 17
+1
+Employment Security Commission, and for tax year 2022, which is
+1
+2
+based in part on the 2021 calendar year payroll reported to the
+2
+3
+Oklahoma Employment Security Commission, and may continue to receive
+3
+4
+the exemption for the five-year period provided in this section only
+4
+5
+if all other requirements of this section are met.
+5
+6
+D. 1. Except as provided in paragraph 2 of this subsection,
+6
+7
+the five-year period of exemption from ad valorem taxes for any
+7
+8
+qualifying manufacturing facility property shall begin on January 1
+8
+9
+following the initial qualifying use of the property in the
+9
+10
+manufacturing process.
+10
+11
+
+Section 23:
+2. The five-year period of exemption from ad valorem taxes for
+11
+12
+any qualifying manufacturing facility, as specified in subparagraphs
+12
+13
+a and b of this paragraph, which is located within a tax incentive
+13
+14
+district created pursuant to the Local Development Act by a county
+14
+15
+having a population of at least five hundred thousand (500,000),
+15
+16
+according to the most recent Federal Decennial Census, shall begin
+16
+17
+on January 1 following the expiration or termination of the ad
+17
+18
+valorem exemption, abatement, or other incentive provided through
+18
+19
+the tax incentive district. Facilities qualifying pursuant to this
+19
+20
+subsection shall include:
+20
+21
+a. a manufacturing facility as defined in subparagraph c
+21
+22
+of paragraph 1 of subsection B of this section, and
+22
+23
+b. an establishment primarily engaged in distribution as
+23
+24
+defined under Industry Number 49311 of the North
+24
+Req. No. 1331 Page 18
+1
+American Industry Classification System for which the
+1
+2
+initial capital investment was at least One Hundred
+2
+3
+Eighty Million Dollars ($180,000,000.00); provided,
+3
+4
+that the qualifying job creation and depreciable
+4
+5
+property investment occurred prior to calendar year
+5
+6
+2017 but not earlier than calendar year 2013.
+6
+7
+E. Any person, firm or corporation claiming the exemption
+7
+8
+herein provided for shall file each year for which exemption is
+8
+9
+claimed, an application therefor with the county assessor of the
+9
+10
+county in which the new, expanded or acquired facility is located.
+10
+11
+The application shall be on a form or forms prescribed by the Tax
+11
+12
+Commission, and shall be filed on or before March 15, except as
+12
+13
+provided in Section 2902.1 of this title, of each year in which the
+13
+14
+facility desires to take the exemption or within thirty (30) days
+14
+15
+from and after receipt by such person, firm or corporation of notice
+15
+16
+of valuation increase, whichever is later. In a case where
+16
+17
+completion of the facility or facilities will occur after January 1
+17
+18
+of a given year, a facility may apply to claim the ad valorem tax
+18
+19
+exemption for that year. If such facility is found to be qualified
+19
+20
+for exemption, the ad valorem tax exemption provided for herein
+20
+21
+shall be granted for that entire year and shall apply to the ad
+21
+22
+valorem valuation as of January 1 of that given year. For
+22
+23
+applicants who qualify under the provisions of subparagraph b of
+23
+24
+paragraph 1 of subsection B of this section, the application shall
+24
+Req. No. 1331 Page 19
+1
+include a copy of the affidavit and any other information required
+1
+2
+to be filed with the Tax Commission.
+2
+3
+F. The application shall be examined by the county assessor and
+3
+4
+approved or rejected in the same manner as provided by law for
+4
+5
+approval or rejection of claims for homestead exemptions. The
+5
+6
+taxpayer shall have the same right of review by and appeal from the
+6
+7
+county board of equalization, in the same manner and subject to the
+7
+8
+same requirements as provided by law for review and appeals
+8
+9
+concerning homestead exemption claims. Approved applications shall
+9
+10
+be filed by the county assessor with the Tax Commission no later
+10
+11
+than June 15, except as provided in Section 2902.1 of this title, of
+11
+12
+the year in which the facility desires to take the exemption.
+12
+13
+Incomplete applications and applications filed after June 15 will be
+13
+14
+declared null and void by the Tax Commission. In the event that a
+14
+15
+taxpayer qualified to receive an exemption pursuant to the
+15
+16
+provisions of this section shall make payment of ad valorem taxes in
+16
+17
+excess of the amount due, the county treasurer shall have the
+17
+18
+authority to credit the taxpayer’s real or personal property tax
+18
+19
+overpayment against current taxes due. The county treasurer may
+19
+20
+establish a schedule of up to five (5) years of credit to resolve
+20
+21
+the overpayment.
+21
+22
+G. Nothing herein shall in any manner affect, alter or impair
+22
+23
+any law relating to the assessment of property, and all property,
+23
+24
+real or personal, which may be entitled to exemption hereunder shall
+24
+Req. No. 1331 Page 20
+1
+be valued and assessed as is other like property and as provided by
+1
+2
+law. The valuation and assessment of property for which an
+2
+3
+exemption is granted hereunder shall be performed by the Tax
+3
+4
+Commission using one or more of the cost, income and expense and
+4
+5
+sales comparison approaches to estimate fair cash value in
+5
+6
+accordance with the Uniform Standards of Professional Appraisal
+6
+7
+Practice.
+7
+8
+H. For each year that a new, expanded, or acquired
+8
+9
+manufacturing facility receives an exemption pursuant to Section 6B
+9
+10
+of Article X of the Oklahoma Constitution, the entity shall provide
+10
+11
+to the Tax Commission a report detailing the number of new jobs
+11
+12
+created and the payroll data for new jobs created since the
+12
+13
+exemption was provided. The Tax Commission shall provide the data
+13
+14
+collected pursuant to this subsection to the Incentive Evaluation
+14
+15
+Commission for only evaluation purposes by the Commission or a
+15
+16
+designee.
+16
+17
+I. The Tax Commission shall have the authority and duty to
+17
+18
+prescribe forms and to promulgate rules as may be necessary to carry
+18
+19
+out and administer the terms and provisions of this section.
+19
+20
+
+Section 24:
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 205, as last
+20
+21
+amended by Section 1, Chapter 208, O.S.L. 2024 (68 O.S. Supp. 2024,
+21
+22
+
+Section 25:
+Section 205), is amended to read as follows:
+22
+23
+
+Section 26:
+Section 205. A. The records and files of the Oklahoma Tax
+23
+24
+Commission concerning the administration of the Uniform Tax
+24
+Req. No. 1331 Page 21
+1
+Procedure Code or of any state tax law shall be considered
+1
+2
+confidential and privileged, except as otherwise provided for by
+2
+3
+law, and neither the Tax Commission nor any employee engaged in the
+3
+4
+administration of the Tax Commission or charged with the custody of
+4
+5
+any such records or files nor any person who may have secured
+5
+6
+information from the Tax Commission shall disclose any information
+6
+7
+obtained from the records or files or from any examination or
+7
+8
+inspection of the premises or property of any person.
+8
+9
+B. Except as provided in paragraph 26 of subsection C of this
+9
+10
+
+Section 27:
+section, neither the Tax Commission nor any employee engaged in the
+10
+11
+administration of the Tax Commission or charged with the custody of
+11
+12
+any such records or files shall be required by any court of this
+12
+13
+state to produce any of the records or files for the inspection of
+13
+14
+any person or for use in any action or proceeding, except when the
+14
+15
+records or files or the facts shown thereby are directly involved in
+15
+16
+an action or proceeding pursuant to the provisions of the Uniform
+16
+17
+Tax Procedure Code or of the state tax law, or when the
+17
+18
+determination of the action or proceeding will affect the validity
+18
+19
+or the amount of the claim of the state pursuant to any state tax
+19
+20
+law, or when the information contained in the records or files
+20
+21
+constitutes evidence of violation of the provisions of the Uniform
+21
+22
+Tax Procedure Code or of any state tax law.
+22
+23
+C. The provisions of this section shall not prevent the Tax
+23
+24
+Commission, or with respect to the Oklahoma Department of Commerce
+24
+Req. No. 1331 Page 22
+1
+in administration of the Oklahoma Rural Jobs Act as provided by
+1
+2
+paragraph 22 of this subsection, from disclosing the following
+2
+3
+information and no liability whatsoever, civil or criminal, shall
+3
+4
+attach to any member of the Tax Commission, or the Oklahoma
+4
+5
+Department of Commerce as applicable, or any employee thereof for
+5
+6
+any error or omission in the disclosure of such information:
+6
+7
+
+Section 28:
+1. The delivery to a taxpayer or a duly authorized
+7
+8
+representative of the taxpayer of a copy of any report or any other
+8
+9
+paper filed by the taxpayer pursuant to the provisions of the
+9
+10
+Uniform Tax Procedure Code or of any state tax law;
+10
+11
+
+Section 29:
+2. The exchange of information that is not protected by the
+11
+12
+federal Privacy Protection Act, 42 U.S.C., Section 2000aa et seq.,
+12
+13
+pursuant to reciprocal agreements entered into by the Tax Commission
+13
+14
+and other state agencies or agencies of the federal government;
+14
+15
+
+Section 30:
+3. The publication of statistics so classified as to prevent
+15
+16
+the identification of a particular report and the items thereof;
+16
+17
+
+Section 31:
+4. The examination of records and files by the State Auditor
+17
+18
+and Inspector or the duly authorized agents of the State Auditor and
+18
+19
+Inspector;
+19
+20
+
+Section 32:
+5. The disclosing of information or evidence to the Oklahoma
+20
+21
+State Bureau of Investigation, Attorney General, Oklahoma State
+21
+22
+Bureau of Narcotics and Dangerous Drugs Control, any district
+22
+23
+attorney or agent of any federal law enforcement agency when the
+23
+24
+information or evidence is to be used by such officials to
+24
+Req. No. 1331 Page 23
+1
+investigate or prosecute violations of the criminal provisions of
+1
+2
+the Uniform Tax Procedure Code or of any state tax law or of any
+2
+3
+federal crime committed against this state. Any information
+3
+4
+disclosed to the Oklahoma State Bureau of Investigation, Attorney
+4
+5
+General, Oklahoma State Bureau of Narcotics and Dangerous Drugs
+5
+6
+Control, any district attorney or agent of any federal law
+6
+7
+enforcement agency shall be kept confidential by such person and not
+7
+8
+be disclosed except when presented to a court in a prosecution for
+8
+9
+violation of the tax laws of this state or except as specifically
+9
+10
+authorized by law, and a violation by the Oklahoma State Bureau of
+10
+11
+Investigation, Attorney General, Oklahoma State Bureau of Narcotics
+11
+12
+and Dangerous Drugs Control, district attorney or agent of any
+12
+13
+federal law enforcement agency by otherwise releasing the
+13
+14
+information shall be a felony;
+14
+15
+
+Section 33:
+6. The use by any division of the Tax Commission of any
+15
+16
+information or evidence in the possession of or contained in any
+16
+17
+report or return filed with any other division of the Tax
+17
+18
+Commission;
+18
+19
+
+Section 34:
+7. The furnishing, at the discretion of the Tax Commission, of
+19
+20
+any information disclosed by its records or files to any official
+20
+21
+person or body of this state, any other state, the United States or
+21
+22
+foreign country who is concerned with the administration or
+22
+23
+assessment of any similar tax in this state, any other state or the
+23
+24
+United States. The provisions of this paragraph shall include the
+24
+Req. No. 1331 Page 24
+1
+furnishing of information by the Tax Commission to a county assessor
+1
+2
+to determine the amount of gross household income pursuant to the
+2
+3
+provisions of Section 8C of Article X of the Oklahoma Constitution
+3
+4
+or Section 2890 of this title. The Tax Commission shall promulgate
+4
+5
+rules to give guidance to the county assessors regarding the type of
+5
+6
+information which may be used by the county assessors in determining
+6
+7
+the amount of gross household income pursuant to Section 8C of
+7
+8
+Article X of the Oklahoma Constitution or Section 2890 of this
+8
+9
+title. The provisions of this paragraph shall also include the
+9
+10
+furnishing of information to the State Treasurer for the purpose of
+10
+11
+administration of the Uniform Unclaimed Property Act;
+11
+12
+
+Section 35:
+8. The furnishing of information to other state agencies for
+12
+13
+the limited purpose of aiding in the collection of debts owed by
+13
+14
+individuals to such requesting agencies;
+14
+15
+
+Section 36:
+9. The furnishing of information requested by any member of the
+15
+16
+general public and stated in the sworn lists or schedules of taxable
+16
+17
+property of public service corporations organized, existing, or
+17
+18
+doing business in this state which are submitted to and certified by
+18
+19
+the State Board of Equalization pursuant to the provisions of
+19
+20
+
+Section 37:
+Section 2858 of this title and Section 21 of Article X of the
+20
+21
+Oklahoma Constitution, provided such information would be a public
+21
+22
+record if filed pursuant to Sections 2838 and 2839 of this title on
+22
+23
+behalf of a corporation other than a public service corporation;
+23
+24
+24
+Req. No. 1331 Page 25
+1
+
+Section 38:
+10. The furnishing of information requested by any member of
+1
+2
+the general public and stated in the findings of the Tax Commission
+2
+3
+as to the adjustment and equalization of the valuation of real and
+3
+4
+personal property of the counties of the state, which are submitted
+4
+5
+to and certified by the State Board of Equalization pursuant to the
+5
+6
+provisions of Section 2865 of this title and Section 21 of Article X
+6
+7
+of the Oklahoma Constitution;
+7
+8
+
+Section 39:
+11. The furnishing of information as to the issuance or
+8
+9
+revocation of any tax permit, license or exemption by the Tax
+9
+10
+Commission as provided for by law. Such information shall be
+10
+11
+limited to the name of the person issued the permit, license or
+11
+12
+exemption, the name of the business entity authorized to engage in
+12
+13
+business pursuant to the permit, license or exemption, the address
+13
+14
+of the business entity and the grounds for revocation;
+14
+15
+
+Section 40:
+12. The posting of notice of revocation of any tax permit or
+15
+16
+license upon the premises of the place of business of any business
+16
+17
+entity which has had any tax permit or license revoked by the Tax
+17
+18
+Commission as provided for by law. Such notice shall be limited to
+18
+19
+the name of the person issued the permit or license, the name of the
+19
+20
+business entity authorized to engage in business pursuant to the
+20
+21
+permit or license, the address of the business entity and the
+21
+22
+grounds for revocation;
+22
+23
+
+Section 41:
+13. The furnishing of information upon written request by any
+23
+24
+member of the general public as to the outstanding and unpaid amount
+24
+Req. No. 1331 Page 26
+1
+due and owing by any taxpayer of this state for any delinquent tax,
+1
+2
+together with penalty and interest, for which a tax warrant or a
+2
+3
+certificate of indebtedness has been filed pursuant to law;
+3
+4
+
+Section 42:
+14. After the filing of a tax warrant pursuant to law, the
+4
+5
+furnishing of information upon written request by any member of the
+5
+6
+general public as to any agreement entered into by the Tax
+6
+7
+Commission concerning a compromise of tax liability for an amount
+7
+8
+less than the amount of tax liability stated on such warrant;
+8
+9
+
+Section 43:
+15. The disclosure of information necessary to complete the
+9
+10
+performance of any contract authorized by this title to any person
+10
+11
+with whom the Tax Commission has contracted;
+11
+12
+
+Section 44:
+16. The disclosure of information to any person for a purpose
+12
+13
+as authorized by the taxpayer pursuant to a waiver of
+13
+14
+confidentiality. The waiver shall be in writing and shall be made
+14
+15
+upon such form as the Tax Commission may prescribe;
+15
+16
+
+Section 45:
+17. The disclosure of information required in order to comply
+16
+17
+with the provisions of Section 2369 of this title;
+17
+18
+
+Section 46:
+18. The disclosure to an employer, as defined in Sections
+18
+19
+
+Section 47:
+2385.1 and 2385.3 of this title, of information required in order to
+19
+20
+collect the tax imposed by Section 2385.2 of this title;
+20
+21
+
+Section 48:
+19. The disclosure to a plaintiff of a corporation’s last-known
+21
+22
+address shown on the records of the Franchise Tax Division of the
+22
+23
+Tax Commission in order for such plaintiff to comply with the
+23
+24
+requirements of Section 2004 of Title 12 of the Oklahoma Statutes;
+24
+Req. No. 1331 Page 27
+1
+
+Section 49:
+20. The disclosure of information directly involved in the
+1
+2
+resolution of the protest by a taxpayer to an assessment of tax or
+2
+3
+additional tax or the resolution of a claim for refund filed by a
+3
+4
+taxpayer, including the disclosure of the pendency of an
+4
+5
+administrative proceeding involving such protest or claim, to a
+5
+6
+person called by the Tax Commission as an expert witness or as a
+6
+7
+witness whose area of knowledge or expertise specifically addresses
+7
+8
+the issue addressed in the protest or claim for refund. Such
+8
+9
+disclosure to a witness shall be limited to information pertaining
+9
+10
+to the specific knowledge of that witness as to the transaction or
+10
+11
+relationship between taxpayer and witness;
+11
+12
+
+Section 50:
+21. The disclosure of information necessary to implement an
+12
+13
+agreement authorized by Section 2702 of this title when such
+13
+14
+information is directly involved in the resolution of issues arising
+14
+15
+out of the enforcement of a municipal sales tax ordinance. Such
+15
+16
+disclosure shall be to the governing body or to the municipal
+16
+17
+attorney, if so designated by the governing body;
+17
+18
+
+Section 51:
+22. The furnishing of information regarding incentive payments
+18
+19
+made pursuant to the provisions of Sections 3601 through 3609 of
+19
+20
+this title, incentive payments made pursuant to the provisions of
+20
+21
+
+Section 52:
+Sections 3501 through 3508 of this title, or tax credits claimed
+21
+22
+pursuant to the provisions of Sections 1 through 8 of this act
+22
+23
+
+Section 53:
+Sections 3930 through 3937 of this title;
+23
+24
+24
+Req. No. 1331 Page 28
+1
+
+Section 54:
+23. The furnishing to a prospective purchaser of any business,
+1
+2
+or his or her authorized representative, of information relating to
+2
+3
+any liabilities, delinquencies, assessments or warrants of the
+3
+4
+prospective seller of the business which have not been filed of
+4
+5
+record, established or become final and which relate solely to the
+5
+6
+seller’s business. Any disclosure under this paragraph shall only
+6
+7
+be allowed upon the presentment by the prospective buyer, or the
+7
+8
+buyer’s authorized representative, of the purchase contract and a
+8
+9
+written authorization between the parties;
+9
+10
+
+Section 55:
+24. The furnishing of information as to the amount of state
+10
+11
+revenue affected by the issuance or granting of any tax permit,
+11
+12
+license, exemption, deduction, credit or other tax preference by the
+12
+13
+Tax Commission as provided for by law. Such information shall be
+13
+14
+limited to the type of permit, license, exemption, deduction, credit
+14
+15
+or other tax preference issued or granted, the date and duration of
+15
+16
+such permit, license, exemption, deduction, credit or other tax
+16
+17
+preference and the amount of such revenue. The provisions of this
+17
+18
+paragraph shall not authorize the disclosure of the name of the
+18
+19
+person issued such permit, license, exemption, deduction, credit or
+19
+20
+other tax preference, or the name of the business entity authorized
+20
+21
+to engage in business pursuant to the permit, license, exemption,
+21
+22
+deduction, credit or other tax preference;
+22
+23
+
+Section 56:
+25. The examination of records and files of a person or entity
+23
+24
+by the Oklahoma State Bureau of Narcotics and Dangerous Drugs
+24
+Req. No. 1331 Page 29
+1
+Control, district attorney or the Attorney General pursuant to a
+1
+2
+court order by a magistrate in whose territorial jurisdiction the
+2
+3
+person or entity resides, or where the Tax Commission records and
+3
+4
+files are physically located. Such an order may only be issued upon
+4
+5
+a sworn application by an agent of the Oklahoma State Bureau of
+5
+6
+Narcotics and Dangerous Drugs Control or the Attorney General,
+6
+7
+certifying that the person or entity whose records and files are to
+7
+8
+be examined is the target of an ongoing investigation of a felony
+8
+9
+violation of the Uniform Controlled Dangerous Substances Act and
+9
+10
+that information resulting from such an examination would likely be
+10
+11
+relevant to that investigation. Any records or information obtained
+11
+12
+pursuant to such an order may only be used by the Oklahoma State
+12
+13
+Bureau of Narcotics and Dangerous Drugs Control, district attorney
+13
+14
+or the Attorney General in the investigation and prosecution of a
+14
+15
+felony violation of the Uniform Controlled Dangerous Substances Act
+15
+16
+or money laundering pursuant to Section 2001 of Title 21 of the
+16
+17
+Oklahoma Statutes. Any such order issued pursuant to this
+17
+18
+paragraph, along with the underlying application, shall be sealed
+18
+19
+and not disclosed to the person or entity whose records were
+19
+20
+examined, for a period of ninety (90) days. The issuing magistrate
+20
+21
+may grant extensions of such period upon a showing of good cause in
+21
+22
+furtherance of the investigation. Upon the expiration of ninety
+22
+23
+(90) days and any extensions granted by the magistrate, a copy of
+23
+24
+the application and order shall be served upon the person or entity
+24
+Req. No. 1331 Page 30
+1
+whose records were examined, along with a copy of the records or
+1
+2
+information actually provided by the Tax Commission;
+2
+3
+
+Section 57:
+26. The disclosure of information, as prescribed by this
+3
+4
+paragraph, which is related to the proposed or actual usage of tax
+4
+5
+credits pursuant to Section 2357.7 of this title, the Small Business
+5
+6
+Capital Formation Incentive Act or the Rural Venture Capital
+6
+7
+Formation Incentive Act. Unless the context clearly requires
+7
+8
+otherwise, the terms used in this paragraph shall have the same
+8
+9
+meaning as defined by Section 2357.7, 2357.61 or 2357.72 of this
+9
+10
+title. The disclosure of information authorized by this paragraph
+10
+11
+shall include:
+11
+12
+a. the legal name of any qualified venture capital
+12
+13
+company, qualified small business capital company or
+13
+14
+qualified rural small business capital company,
+14
+15
+b. the identity or legal name of any person or entity
+15
+16
+that is a shareholder or partner of a qualified
+16
+17
+venture capital company, qualified small business
+17
+18
+capital company or qualified rural small business
+18
+19
+capital company,
+19
+20
+c. the identity or legal name of any Oklahoma business
+20
+21
+venture, Oklahoma small business venture or Oklahoma
+21
+22
+rural small business venture in which a qualified
+22
+23
+investment has been made by a capital company, or
+23
+24
+24
+Req. No. 1331 Page 31
+1
+d. the amount of funds invested in a qualified venture
+1
+2
+capital company, the amount of qualified investments
+2
+3
+in a qualified small business capital company or
+3
+4
+qualified rural small business capital company and the
+4
+5
+amount of investments made by a qualified venture
+5
+6
+capital company, qualified small business capital
+6
+7
+company, or qualified rural small business capital
+7
+8
+company;
+8
+9
+
+Section 58:
+27. The disclosure of specific information as required by
+9
+10
+
+Section 59:
+Section 46 of Title 62 of the Oklahoma Statutes;
+10
+11
+
+Section 60:
+28. The disclosure of specific information as required by
+11
+12
+
+Section 61:
+Section 205.5 of this title;
+12
+13
+
+Section 62:
+29. The disclosure of specific information as required by
+13
+14
+
+Section 63:
+Section 205.6 of this title;
+14
+15
+
+Section 64:
+30. The disclosure of information to the State Treasurer
+15
+16
+necessary to implement Section 2368.27 of this title;
+16
+17
+
+Section 65:
+31. The disclosure of specific information to the Oklahoma
+17
+18
+Health Care Authority for purposes of determining eligibility for
+18
+19
+current or potential recipients of assistance from the Oklahoma
+19
+20
+Medicaid Program;
+20
+21
+
+Section 66:
+32. The disclosure of information to the Oklahoma Department of
+21
+22
+Veterans Affairs including but not limited to the name and basis for
+22
+23
+eligibility of each individual who qualifies for the sales tax
+23
+24
+24
+Req. No. 1331 Page 32
+1
+exemption authorized in paragraph 34 of Section 1357 of this title;
+1
+2
+or
+2
+3
+
+Section 67:
+33. The disclosure of information to the Oklahoma Medical
+3
+4
+Marijuana Authority for the purposes of compliance with the Oklahoma
+4
+5
+Medical Marijuana and Patient Protection Act or Section 420 et seq.
+5
+6
+of Title 63 of the Oklahoma Statutes; or
+6
+7
+
+Section 68:
+34. The disclosure of information required in order to comply
+7
+8
+with the provisions of subsection H of Section 2902 of this title.
+8
+9
+D. The Tax Commission shall cause to be prepared and made
+9
+10
+available for public inspection in the office of the Tax Commission
+10
+11
+in such manner as it may determine an annual list containing the
+11
+12
+name and post office address of each person, whether individual,
+12
+13
+corporate or otherwise, making and filing an income tax return with
+13
+14
+the Tax Commission.
+14
+15
+It is specifically provided that no liability whatsoever, civil
+15
+16
+or criminal, shall attach to any member of the Tax Commission or any
+16
+17
+employee thereof for any error or omission of any name or address in
+17
+18
+the preparation and publication of the list.
+18
+19
+E. The Tax Commission shall prepare or cause to be prepared a
+19
+20
+report on all provisions of state tax law that reduce state revenue
+20
+21
+through exclusions, deductions, credits, exemptions, deferrals or
+21
+22
+other preferential tax treatments. The report shall be prepared not
+22
+23
+later than October 1 of each even-numbered year and shall be
+23
+24
+submitted to the Governor, the President Pro Tempore of the Senate
+24
+Req. No. 1331 Page 33
+1
+and the Speaker of the House of Representatives. The Tax Commission
+1
+2
+may prepare and submit supplements to the report at other times of
+2
+3
+the year if additional or updated information relevant to the report
+3
+4
+becomes available. The report shall include, for the previous
+4
+5
+fiscal year, the Tax Commission’s best estimate of the amount of
+5
+6
+state revenue that would have been collected but for the existence
+6
+7
+of each such exclusion, deduction, credit, exemption, deferral or
+7
+8
+other preferential tax treatment allowed by law. The Tax Commission
+8
+9
+may request the assistance of other state agencies as may be needed
+9
+10
+to prepare the report. The Tax Commission is authorized to require
+10
+11
+any recipient of a tax incentive or tax expenditure to report to the
+11
+12
+Tax Commission such information as requested so that the Tax
+12
+13
+Commission may fulfill its obligations as required by this
+13
+14
+subsection. The Tax Commission may require this information to be
+14
+15
+submitted in an electronic format. The Tax Commission may disallow
+15
+16
+any claim of a person for a tax incentive due to its failure to file
+16
+17
+a report as required under the authority of this subsection.
+17
+18
+F. It is further provided that the provisions of this section
+18
+19
+shall be strictly interpreted and shall not be construed as
+19
+20
+permitting the disclosure of any other information contained in the
+20
+21
+records and files of the Tax Commission relating to income tax or to
+21
+22
+any other taxes.
+22
+23
+G. Unless otherwise provided for in this section, any violation
+23
+24
+of the provisions of this section shall constitute a misdemeanor and
+24
+Req. No. 1331 Page 34
+1
+shall be punishable by the imposition of a fine not exceeding One
+1
+2
+Thousand Dollars ($1,000.00) or by imprisonment in the county jail
+2
+3
+for a term not exceeding one (1) year, or by both such fine and
+3
+4
+imprisonment, and the offender shall be removed or dismissed from
+4
+5
+office.
+5
+6
+H. Offenses described in Section 2376 of this title shall be
+6
+7
+reported to the appropriate district attorney of this state by the
+7
+8
+Tax Commission as soon as the offenses are discovered by the Tax
+8
+9
+Commission or its agents or employees. The Tax Commission shall
+9
+10
+make available to the appropriate district attorney or to the
+10
+11
+authorized agent of the district attorney its records and files
+11
+12
+pertinent to prosecutions, and such records and files shall be fully
+12
+13
+admissible as evidence for the purpose of such prosecutions.
+13
+14
+
+Section 69:
+SECTION 3. This act shall become effective November 1, 2025.
+14
+15
+15
+16
+60-1-1331 QD 1/19/2025 5:39:04 AM
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1331 Page 35
+[DELETED:  P B R]
+[DELETED:  P e]
+[DELETED:  P f e]
+[DELETED:  P f]
+[DELETED:  P e c e p c]
+[DELETED:  P f w]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P “ “]
+[DELETED:  P p a]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 577 By: Rader
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to ad valorem tax; amending 68 O.S.
+7
+2021, Section 2902, as last amended by Section 1,
+8
+Chapter 390, O.S.L. 2022 (68 O.S. Supp. 2024, Section
+8
+2902), which relates to the exemption from ad valorem
+9
+tax for manufacturing facilities; requiring
+9
+facilities to provide certain information; requiring
+10
+the Oklahoma Tax Commission to provide certain data
+10
+to the Incentive Evaluation Commission; amending 68
+11
+O.S. 2021, Section 205, as last amended by Section 1,
+11
+Chapter 208, O.S.L. 2024 (68 O.S. Supp. 2024, Section
+12
+205), which relates to the confidential nature of
+12
+records and files of the Oklahoma Tax Commission;
+13
+excepting and requiring the disclosure of
+13
+information; updating statutory language; updating
+14
+statutory reference; and providing an effective date.
+14
+15
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2902, as
+18
+19
+last amended by Section 1, Chapter 390, O.S.L. 2022 (68 O.S. Supp.
+19
+20
+2024, Section 2902), is amended to read as follows:
+20
+21
+Section 2902. A. Except as otherwise provided by subsection H
+21
+22
+of Section 3658 of this title pursuant to which the exemption
+22
+23
+authorized by this section may not be claimed, a qualifying
+23
+24
+manufacturing concern, as defined by Section 6B of Article X of the
+24
+Req. No. 1331 Page 1
+
+1
+Oklahoma Constitution, and as further defined herein, shall be
+1
+2
+exempt from the levy of any ad valorem taxes upon new, expanded or
+2
+3
+acquired manufacturing facilities including facilities engaged in
+3
+4
+research and development, for a period of five (5) years. The
+4
+5
+provisions of Section 6B of Article X of the Oklahoma Constitution
+5
+6
+requiring an existing facility to have been unoccupied for a period
+6
+7
+of twelve (12) months prior to acquisition shall be construed as a
+7
+8
+qualification for a facility to initially receive an exemption, and
+8
+9
+shall not be deemed to be a qualification for that facility to
+9
+10
+continue to receive an exemption in each of the four (4) years
+10
+11
+following the initial year for which the exemption was granted.
+11
+12
+Such facilities are hereby classified for the purposes of taxation
+12
+13
+as provided in Section 22 of Article X of the Oklahoma Constitution.
+13
+14
+B. For purposes of this section, the following definitions
+14
+15
+shall apply:
+15
+16
+1. “Manufacturing facilities” means facilities engaged in the
+16
+17
+mechanical or chemical transformation of materials or substances
+17
+18
+into new products and except as provided by paragraph 6 of
+18
+19
+subsection C of this section shall include:
+19
+20
+a. establishments which have received a manufacturer
+20
+21
+exemption permit pursuant to the provisions of Section
+21
+22
+1359.2 of this title,
+22
+23
+23
+24
+24
+Req. No. 1331 Page 2
+
+1
+b. facilities including repair and replacement parts,
+1
+2
+primarily engaged in aircraft repair, building and
+2
+3
+rebuilding whether or not on a factory basis,
+3
+4
+c. establishments primarily engaged in computer services
+4
+5
+and data processing as defined under Industrial Group
+5
+6
+Numbers 5112 and 5415, and U.S. Industry Number 334611
+6
+7
+and 519130 of the NAICS Manual, latest revision, and
+7
+8
+which derive at least fifty percent (50%) of their
+8
+9
+annual gross revenues from the sale of a product or
+9
+10
+service to an out-of-state buyer or consumer, and as
+10
+11
+defined under Industrial Group Number 5182 of the
+11
+12
+NAICS Manual, latest revision, which derive at least
+12
+13
+eighty percent (80%) of their annual gross revenues
+13
+14
+from the sale of a product or service to an out-of-
+14
+15
+state buyer or consumer. Eligibility as a
+15
+16
+manufacturing facility pursuant to this subparagraph
+16
+17
+shall be established, subject to review by the
+17
+18
+Oklahoma Tax Commission, by annually filing an
+18
+19
+affidavit with the Tax Commission stating that the
+19
+20
+facility so qualifies and such other information as
+20
+21
+required by the Tax Commission. For purposes of
+21
+22
+determining whether annual gross revenues are derived
+22
+23
+from sales to out-of-state buyers, all sales to the
+23
+24
+24
+Req. No. 1331 Page 3
+
+1
+federal government shall be considered to be an out-
+1
+2
+of-state buyer,
+2
+3
+d. facilities that the investment cost of the
+3
+4
+construction, acquisition or expansion is Five Hundred
+4
+5
+Thousand Dollars ($500,000.00) or more with respect to
+5
+6
+assets placed into service during calendar year 2022.
+6
+7
+For subsequent calendar years, the investment required
+7
+8
+shall be increased annually by a percentage equal to
+8
+9
+the previous year’s increase in the Consumer Price
+9
+10
+Index-All Urban Consumers (“CPI-U”) and such adjusted
+10
+11
+amount shall be the required investment cost in order
+11
+12
+to qualify for the exemption authorized by this
+12
+13
+section. The Oklahoma Department of Commerce shall
+13
+14
+determine the amount of the increase, if any, on
+14
+15
+January 1 of each year. The Oklahoma Tax Commission
+15
+16
+shall publish on its website at least annually the
+16
+17
+adjusted dollar amount in order to qualify for the
+17
+18
+exemption authorized by this section and shall include
+18
+19
+the adjusted dollar amount in any of its relevant
+19
+20
+forms or publications with respect to the exemption.
+20
+21
+Provided, “investment cost” shall not include the cost
+21
+22
+of direct replacement, refurbishment, repair or
+22
+23
+maintenance of existing machinery or equipment, except
+23
+24
+that “investment cost” investment cost shall include
+24
+Req. No. 1331 Page 4
+
+1
+capital expenditures for direct replacement,
+1
+2
+refurbishment, repair or maintenance of existing
+2
+3
+machinery or equipment that qualifies for depreciation
+3
+4
+and/or amortization pursuant to the Internal Revenue
+4
+5
+Code of 1986, as amended, and such expenditures shall
+5
+6
+be eligible as a part of an “expansion” expansion that
+6
+7
+otherwise qualifies under this section,
+7
+8
+e. establishments primarily engaged in distribution as
+8
+9
+defined under Industry Numbers 49311, 49312, 49313 and
+9
+10
+49319 and Industry Sector Number 42 of the NAICS
+10
+11
+Manual, latest revision, and which meet the following
+11
+12
+qualifications:
+12
+13
+(1) construction with an initial capital investment
+13
+14
+of at least Five Million Dollars ($5,000,000.00),
+14
+15
+(2) employment of at least one hundred (100) full-
+15
+16
+time-equivalent employees, as certified by the
+16
+17
+Oklahoma Employment Security Commission,
+17
+18
+(3) payment of wages or salaries to its employees at
+18
+19
+a wage which equals or exceeds the average wage
+19
+20
+requirements in the Oklahoma Quality Jobs Program
+20
+21
+Act for the year in which the real property was
+21
+22
+placed into service, and
+22
+23
+(4) commencement of construction on or after November
+23
+24
+1, 2007, with construction to be completed within
+24
+Req. No. 1331 Page 5
+
+1
+three (3) years from the date of the commencement
+1
+2
+of construction,
+2
+3
+f. facilities engaged in the manufacturing, compounding,
+3
+4
+processing or fabrication of materials into articles
+4
+5
+of tangible personal property according to the special
+5
+6
+order of a customer (custom order manufacturing) by
+6
+7
+manufacturers classified as operating in North
+7
+8
+American Industry Classification System (NAICS)
+8
+9
+Sectors 32 and 33, but does not include such custom
+9
+10
+order manufacturing by manufacturers classified in
+10
+11
+other NAICS code sectors, and
+11
+12
+g. with respect to any entity making an application for
+12
+13
+the exemption authorized by this section on or after
+13
+14
+January 1, 2023, the establishment making application
+14
+15
+for exempt treatment of real or personal property
+15
+16
+acquired or improved beginning January 1, 2022, and
+16
+17
+for any calendar year thereafter, the entity shall be
+17
+18
+required to pay new direct jobs, as defined by Section
+18
+19
+3603 of this title for purposes of the Oklahoma
+19
+20
+Quality Jobs Program Act, an average annualized wage
+20
+21
+which equals or exceeds the average wage requirement
+21
+22
+in the Oklahoma Quality Jobs Program Act for the year
+22
+23
+in which the real or personal property was placed into
+23
+24
+service. The Oklahoma Tax Commission may request
+24
+Req. No. 1331 Page 6
+
+1
+verification from the Oklahoma Department of Commerce
+1
+2
+that an establishment seeking an exemption for real or
+2
+3
+personal property pays an average annualized wage that
+3
+4
+equals or exceeds the average wage requirement in
+4
+5
+effect for the year in which the real or personal
+5
+6
+property was placed into service. For purposes of
+6
+7
+this subparagraph, it shall not be necessary for the
+7
+8
+establishment to qualify for incentive payments
+8
+9
+pursuant to the Oklahoma Quality Jobs Program Act, but
+9
+10
+the establishment shall be subject to the wage
+10
+11
+requirements of the Oklahoma Quality Jobs Program Act
+11
+12
+with respect to new direct jobs in order to qualify
+12
+13
+for the exempt treatment authorized by this section.
+13
+14
+Eligibility as a manufacturing facility pursuant to this
+14
+15
+subparagraph shall be established, subject to review by the Tax
+15
+16
+Commission, by annually filing an affidavit with the Tax Commission
+16
+17
+stating that the facility so qualifies and containing such other
+17
+18
+information as required by the Tax Commission.
+18
+19
+Provided, eating and drinking places, as well as other retail
+19
+20
+establishments, shall not qualify as manufacturing facilities for
+20
+21
+purposes of this section, nor shall centrally assessed properties.
+21
+22
+Eligibility as a manufacturing facility pursuant to this
+22
+23
+subparagraph shall be established, subject to review by the Tax
+23
+24
+Commission, by annually filing an application with the Tax
+24
+Req. No. 1331 Page 7
+
+1
+Commission stating that the facility so qualifies and containing
+1
+2
+such other information as required by the Tax Commission;
+2
+3
+2. “Facility” and “facilities”, except as otherwise provided by
+3
+4
+this section, means and includes the land, buildings, structures and
+4
+5
+improvements used directly and exclusively in the manufacturing
+5
+6
+process. Effective January 1, 2022, and for each calendar year
+6
+7
+thereafter, for establishments which have received a manufacturer
+7
+8
+exemption permit pursuant to the provisions of Section 1359.2 of
+8
+9
+this title, or facilities engaged in manufacturing activities
+9
+10
+defined or classified in the NAICS Manual under Industry Nos. 311111
+10
+11
+through 339999, inclusive, but for no other establishments, facility
+11
+12
+and facilities means and includes the land, buildings, structures,
+12
+13
+improvements, machinery, fixtures, equipment and other personal
+13
+14
+property used directly and exclusively in the manufacturing process;
+14
+15
+and
+15
+16
+3. “Research and development” means activities directly related
+16
+17
+to and conducted for the purpose of discovering, enhancing,
+17
+18
+increasing or improving future or existing products or processes or
+18
+19
+productivity.
+19
+20
+C. The following provisions shall apply:
+20
+21
+1. A manufacturing concern shall be entitled to the exemption
+21
+22
+herein provided for each new manufacturing facility constructed,
+22
+23
+each existing manufacturing facility acquired and the expansion of
+23
+24
+existing manufacturing facilities on the same site, as such terms
+24
+Req. No. 1331 Page 8
+
+1
+are defined by Section 6B of Article X of the Oklahoma Constitution
+1
+2
+and by this section;
+2
+3
+2. No manufacturing concern shall receive more than one five-
+3
+4
+year exemption for any one manufacturing facility unless the
+4
+5
+expansion which qualifies the manufacturing facility for an
+5
+6
+additional five-year exemption meets the requirements of paragraph 4
+6
+7
+of this subsection and the employment level established for any
+7
+8
+previous exemption is maintained;
+8
+9
+3. Any exemption as to the expansion of an existing
+9
+10
+manufacturing facility shall be limited to the increase in ad
+10
+11
+valorem taxes directly attributable to the expansion;
+11
+12
+4. All initial applications for any exemption for a new,
+12
+13
+acquired or expanded manufacturing facility shall be granted only
+13
+14
+if:
+14
+15
+a. there is a net increase in annualized base payroll
+15
+16
+over the initial payroll of at least Two Hundred Fifty
+16
+17
+Thousand Dollars ($250,000.00) if the facility is
+17
+18
+located in a county with a population of fewer than
+18
+19
+seventy-five thousand (75,000), according to the most
+19
+20
+recent Federal Decennial Census, while maintaining or
+20
+21
+increasing base payroll in subsequent years, or at
+21
+22
+least One Million Dollars ($1,000,000.00) if the
+22
+23
+facility is located in a county with a population of
+23
+24
+seventy-five thousand (75,000) or more, according to
+24
+Req. No. 1331 Page 9
+
+1
+the most recent Federal Decennial Census, while
+1
+2
+maintaining or increasing base payroll in subsequent
+2
+3
+years; provided, the payroll requirement of this
+3
+4
+subparagraph shall be waived for claims for exemptions
+4
+5
+including claims previously denied or on appeal on
+5
+6
+March 3, 2010, for all initial applications for
+6
+7
+exemption filed on or after January 1, 2004, and on or
+7
+8
+before March 31, 2009, and all subsequent annual
+8
+9
+exemption applications filed related to the initial
+9
+10
+application for exemption, for an applicant, if the
+10
+11
+facility has been located in Oklahoma for at least
+11
+12
+fifteen (15) years engaged in marine engine
+12
+13
+manufacturing as defined under U.S. Industry Number
+13
+14
+333618 of the NAICS Manual, latest revision, and has
+14
+15
+maintained an average employment of five hundred (500)
+15
+16
+or more full-time-equivalent employees over a ten-year
+16
+17
+period. Any applicant that qualifies for the payroll
+17
+18
+requirement waiver as outlined in the previous
+18
+19
+sentence and subsequently closes its Oklahoma
+19
+20
+manufacturing plant prior to January 1, 2012, may be
+20
+21
+disqualified for exemption and subject to recapture.
+21
+22
+For an applicant engaged in paperboard manufacturing
+22
+23
+as defined under U.S. Industry Number 322130 of the
+23
+24
+NAICS Manual, latest revision, union master payouts
+24
+Req. No. 1331 Page 10
+
+1
+paid by the buyer of the facility to specified
+1
+2
+individuals employed by the facility at the time of
+2
+3
+purchase, as specified under the purchase agreement,
+3
+4
+shall be excluded from payroll for purposes of this
+4
+5
+section.
+5
+6
+In order to provide certainty with respect to
+6
+7
+investments in manufacturing facilities pertaining to
+7
+8
+all initial applications for exemption filed on or
+8
+9
+after January 1, 2016, the following definitions shall
+9
+10
+apply:
+10
+11
+(1) “base payroll” shall mean total payroll adjusted
+11
+12
+for any nonrecurring bonuses, exercise of stock
+12
+13
+option or stock rights and other nonrecurring,
+13
+14
+extraordinary items included in total payroll,
+14
+15
+and
+15
+16
+(2) “initial payroll” shall mean base payroll for the
+16
+17
+year immediately preceding the initial
+17
+18
+construction, acquisition or expansion.
+18
+19
+The Tax Commission shall verify payroll
+19
+20
+information through the Oklahoma Employment
+20
+21
+Security Commission by using reports from the
+21
+22
+Oklahoma Employment Security Commission for the
+22
+23
+calendar year immediately preceding the year for
+23
+24
+which initial application is made for base-line
+24
+Req. No. 1331 Page 11
+
+1
+payroll, which must be maintained or increased
+1
+2
+for each subsequent year; provided, a
+2
+3
+manufacturing facility shall have the option of
+3
+4
+excluding from its payroll, for purposes of this
+4
+5
+section:
+5
+6
+i. payments to sole proprietors, members
+6
+7
+of a partnership, members of a limited
+7
+8
+liability company who own at least ten
+8
+9
+percent (10%) of the capital of the
+9
+10
+limited liability company or
+10
+11
+stockholder-employees of a corporation
+11
+12
+who own at least ten percent (10%) of
+12
+13
+the stock in the corporation, and
+13
+14
+ii. any nonrecurring bonuses, exercise of
+14
+15
+stock option or stock rights or other
+15
+16
+nonrecurring, extraordinary items
+16
+17
+included in total payroll numbers as
+17
+18
+reported by the Oklahoma Employment
+18
+19
+Security Commission. A manufacturing
+19
+20
+facility electing either option shall
+20
+21
+indicate such election upon its
+21
+22
+application for an exemption under this
+22
+23
+section. Any manufacturing facility
+23
+24
+electing either option shall submit
+24
+Req. No. 1331 Page 12
+
+1
+such information as the Tax Commission
+1
+2
+may require in order to verify payroll
+2
+3
+information. Payroll information
+3
+4
+submitted pursuant to the provisions of
+4
+5
+this paragraph shall be submitted to
+5
+6
+the Tax Commission and shall be subject
+6
+7
+to the provisions of Section 205 of
+7
+8
+this title, and
+8
+9
+b. the facility offers, or will offer within one hundred
+9
+10
+eighty (180) days of the date of employment, a basic
+10
+11
+health benefits plan to the full-time-equivalent
+11
+12
+employees of the facility, which is determined by the
+12
+13
+Oklahoma Department of Commerce to consist of the
+13
+14
+elements specified in subparagraph b of paragraph 1 of
+14
+15
+subsection A of Section 3603 of this title or elements
+15
+16
+substantially equivalent thereto.
+16
+17
+For purposes of this section, calculation of the amount of
+17
+18
+increased base payroll shall be measured from the start of initial
+18
+19
+construction or expansion to the completion of such construction or
+19
+20
+expansion or for three (3) years from the start of initial
+20
+21
+construction or expansion, whichever occurs first. The amount of
+21
+22
+increased base payroll shall include payroll for full-time-
+22
+23
+equivalent employees in this state who are employed by an entity
+23
+24
+other than the facility which has previously or is currently
+24
+Req. No. 1331 Page 13
+
+1
+qualified to receive an exemption pursuant to the provisions of this
+1
+2
+section and who are leased or otherwise provided to the facility, if
+2
+3
+such employment did not exist in this state prior to the start of
+3
+4
+initial construction or expansion of the facility. The
+4
+5
+manufacturing concern shall submit an affidavit to the Tax
+5
+6
+Commission, signed by an officer, stating that the construction,
+6
+7
+acquisition or expansion of the facility will result in a net
+7
+8
+increase in the annualized base payroll as required by this
+8
+9
+paragraph and that full-time-equivalent employees of the facility
+9
+10
+are or will be offered a basic health benefits plan as required by
+10
+11
+this paragraph. If, after the completion of such construction or
+11
+12
+expansion or after three (3) years from the start of initial
+12
+13
+construction or expansion, whichever occurs first, the construction,
+13
+14
+acquisition or expansion has not resulted in a net increase in the
+14
+15
+amount of annualized base payroll, if required, or any other
+15
+16
+qualification specified in this paragraph has not been met, the
+16
+17
+manufacturing concern shall pay an amount equal to the amount of any
+17
+18
+exemption granted including penalties and interest thereon, to the
+18
+19
+Tax Commission for deposit to the Ad Valorem Reimbursement Fund;
+19
+20
+5. Except as otherwise provided by this paragraph, any new,
+20
+21
+acquired or expanded computer data processing, data preparation or
+21
+22
+information processing services provider classified in U.S. Industry
+22
+23
+Number 518210 of the North American Industrial Classification System
+23
+24
+(NAICS) Manual, 2017 revision, may apply for exemptions under this
+24
+Req. No. 1331 Page 14
+
+1
+section for each year in which new, acquired, or expanded capital
+1
+2
+improvements to the facility are made for assets placed in service
+2
+3
+not later than December 31, 2021, if:
+3
+4
+a. there is a net increase in annualized payroll of the
+4
+5
+applicant at any facility or facilities of the
+5
+6
+applicant in this state of at least Two Hundred Fifty
+6
+7
+Thousand Dollars ($250,000.00), which is attributable
+7
+8
+to the capital improvements, or a net increase of
+8
+9
+Seven Million Dollars ($7,000,000.00) or more in
+9
+10
+capital improvements, while maintaining or increasing
+10
+11
+payroll at the facility or facilities in this state
+11
+12
+which are included in the application, and
+12
+13
+b. the facility offers, or will offer within one hundred
+13
+14
+eighty (180) days of the date of employment of new
+14
+15
+employees attributable to the capital improvements, a
+15
+16
+basic health benefits plan to the full-time-equivalent
+16
+17
+employees of the facility, which is determined by the
+17
+18
+Oklahoma Department of Commerce to consist of the
+18
+19
+elements specified in subparagraph b of paragraph 1 of
+19
+20
+subsection A of Section 3603 of this title or elements
+20
+21
+substantially equivalent thereto.
+21
+22
+An establishment described by this paragraph, the primary
+22
+23
+business activity of which is described by Industry No. 518210 of
+23
+24
+the North American Industry Classification System (NAICS) Manual,
+24
+Req. No. 1331 Page 15
+
+1
+2017 revision, that has applied for and been granted an exemption
+1
+2
+for personal property at any time within five (5) years prior to
+2
+3
+November 1, 2021, may apply for exemptions for items of eligible
+3
+4
+personal property to be located within improvements to real property
+4
+5
+and such real property and improvements having been exempt from ad
+5
+6
+valorem taxation prior to November 1, 2021, pursuant to the
+6
+7
+provisions of this section if such personal property is placed in
+7
+8
+service not later than December 31, 2036. No additional personal
+8
+9
+property of such establishment placed in service after such date
+9
+10
+shall qualify for the exempt treatment otherwise authorized pursuant
+10
+11
+to this paragraph;
+11
+12
+6. Effective January 1, 2017, an entity engaged in electric
+12
+13
+power generation by means of wind, as described by the North
+13
+14
+American Industry Classification System, No. 221119, shall not be
+14
+15
+defined as a qualifying manufacturing concern for purposes of the
+15
+16
+exemption otherwise authorized pursuant to Section 6B of Article X
+16
+17
+of the Oklahoma Constitution or qualify as a “manufacturing
+17
+18
+facility” manufacturing facility as defined in this section. No
+18
+19
+initial application for exemption shall be filed by or accepted from
+19
+20
+an entity engaged in electric power generation by means of wind on
+20
+21
+or after January 1, 2018;
+21
+22
+7. An entity or applicant engaged in an industry as defined
+22
+23
+under U.S. Industry Number 324110 of the NAICS Manual, latest
+23
+24
+revision, which has applied for or been granted an exemption for a
+24
+Req. No. 1331 Page 16
+
+1
+time period which began on or after calendar year 2012 and before
+1
+2
+calendar year 2016 but which did not meet the payroll requirements
+2
+3
+of subparagraph a of paragraph 4 of this subsection because of
+3
+4
+nonrecurring bonuses, exercise of stock option or stock rights or
+4
+5
+other nonrecurring, extraordinary items included in total payroll in
+5
+6
+the previous year, shall be allowed an exemption, beginning with
+6
+7
+calendar year 2016, for the number of years including the calendar
+7
+8
+year for which the exemption was denied, remaining in the entity’s
+8
+9
+five-year exemption period, provided such entity attains or
+9
+10
+increases payroll at or above the initial or base payroll
+10
+11
+established for the exemption;
+11
+12
+8. A facility engaged in manufacturing defined under U.S.
+12
+13
+Industry Number 327310 of the NAICS Manual shall have the payroll
+13
+14
+requirements of paragraph 4 of this subsection waived for tax year
+14
+15
+2021, which is based in part on the 2020 calendar year payroll
+15
+16
+reported to the Oklahoma Employment Security Commission, and may
+16
+17
+continue to receive the exemption for the five-year period provided
+17
+18
+in this section only if all other requirements of this section are
+18
+19
+met; and
+19
+20
+9. A facility engaged in manufacturing which otherwise
+20
+21
+qualifies for the exemption or exemptions pursuant to the provisions
+21
+22
+of this section shall have the payroll requirements of paragraph 4
+22
+23
+of this subsection waived for tax year 2021, which is based in part
+23
+24
+on the 2020 calendar year payroll reported to the Oklahoma
+24
+Req. No. 1331 Page 17
+
+1
+Employment Security Commission, and for tax year 2022, which is
+1
+2
+based in part on the 2021 calendar year payroll reported to the
+2
+3
+Oklahoma Employment Security Commission, and may continue to receive
+3
+4
+the exemption for the five-year period provided in this section only
+4
+5
+if all other requirements of this section are met.
+5
+6
+D. 1. Except as provided in paragraph 2 of this subsection,
+6
+7
+the five-year period of exemption from ad valorem taxes for any
+7
+8
+qualifying manufacturing facility property shall begin on January 1
+8
+9
+following the initial qualifying use of the property in the
+9
+10
+manufacturing process.
+10
+11
+2. The five-year period of exemption from ad valorem taxes for
+11
+12
+any qualifying manufacturing facility, as specified in subparagraphs
+12
+13
+a and b of this paragraph, which is located within a tax incentive
+13
+14
+district created pursuant to the Local Development Act by a county
+14
+15
+having a population of at least five hundred thousand (500,000),
+15
+16
+according to the most recent Federal Decennial Census, shall begin
+16
+17
+on January 1 following the expiration or termination of the ad
+17
+18
+valorem exemption, abatement, or other incentive provided through
+18
+19
+the tax incentive district. Facilities qualifying pursuant to this
+19
+20
+subsection shall include:
+20
+21
+a. a manufacturing facility as defined in subparagraph c
+21
+22
+of paragraph 1 of subsection B of this section, and
+22
+23
+b. an establishment primarily engaged in distribution as
+23
+24
+defined under Industry Number 49311 of the North
+24
+Req. No. 1331 Page 18
+
+1
+American Industry Classification System for which the
+1
+2
+initial capital investment was at least One Hundred
+2
+3
+Eighty Million Dollars ($180,000,000.00); provided,
+3
+4
+that the qualifying job creation and depreciable
+4
+5
+property investment occurred prior to calendar year
+5
+6
+2017 but not earlier than calendar year 2013.
+6
+7
+E. Any person, firm or corporation claiming the exemption
+7
+8
+herein provided for shall file each year for which exemption is
+8
+9
+claimed, an application therefor with the county assessor of the
+9
+10
+county in which the new, expanded or acquired facility is located.
+10
+11
+The application shall be on a form or forms prescribed by the Tax
+11
+12
+Commission, and shall be filed on or before March 15, except as
+12
+13
+provided in Section 2902.1 of this title, of each year in which the
+13
+14
+facility desires to take the exemption or within thirty (30) days
+14
+15
+from and after receipt by such person, firm or corporation of notice
+15
+16
+of valuation increase, whichever is later. In a case where
+16
+17
+completion of the facility or facilities will occur after January 1
+17
+18
+of a given year, a facility may apply to claim the ad valorem tax
+18
+19
+exemption for that year. If such facility is found to be qualified
+19
+20
+for exemption, the ad valorem tax exemption provided for herein
+20
+21
+shall be granted for that entire year and shall apply to the ad
+21
+22
+valorem valuation as of January 1 of that given year. For
+22
+23
+applicants who qualify under the provisions of subparagraph b of
+23
+24
+paragraph 1 of subsection B of this section, the application shall
+24
+Req. No. 1331 Page 19
+
+1
+include a copy of the affidavit and any other information required
+1
+2
+to be filed with the Tax Commission.
+2
+3
+F. The application shall be examined by the county assessor and
+3
+4
+approved or rejected in the same manner as provided by law for
+4
+5
+approval or rejection of claims for homestead exemptions. The
+5
+6
+taxpayer shall have the same right of review by and appeal from the
+6
+7
+county board of equalization, in the same manner and subject to the
+7
+8
+same requirements as provided by law for review and appeals
+8
+9
+concerning homestead exemption claims. Approved applications shall
+9
+10
+be filed by the county assessor with the Tax Commission no later
+10
+11
+than June 15, except as provided in Section 2902.1 of this title, of
+11
+12
+the year in which the facility desires to take the exemption.
+12
+13
+Incomplete applications and applications filed after June 15 will be
+13
+14
+declared null and void by the Tax Commission. In the event that a
+14
+15
+taxpayer qualified to receive an exemption pursuant to the
+15
+16
+provisions of this section shall make payment of ad valorem taxes in
+16
+17
+excess of the amount due, the county treasurer shall have the
+17
+18
+authority to credit the taxpayer’s real or personal property tax
+18
+19
+overpayment against current taxes due. The county treasurer may
+19
+20
+establish a schedule of up to five (5) years of credit to resolve
+20
+21
+the overpayment.
+21
+22
+G. Nothing herein shall in any manner affect, alter or impair
+22
+23
+any law relating to the assessment of property, and all property,
+23
+24
+real or personal, which may be entitled to exemption hereunder shall
+24
+Req. No. 1331 Page 20
+
+1
+be valued and assessed as is other like property and as provided by
+1
+2
+law. The valuation and assessment of property for which an
+2
+3
+exemption is granted hereunder shall be performed by the Tax
+3
+4
+Commission using one or more of the cost, income and expense and
+4
+5
+sales comparison approaches to estimate fair cash value in
+5
+6
+accordance with the Uniform Standards of Professional Appraisal
+6
+7
+Practice.
+7
+8
+H. For each year that a new, expanded, or acquired
+8
+9
+manufacturing facility receives an exemption pursuant to Section 6B
+9
+10
+of Article X of the Oklahoma Constitution, the entity shall provide
+10
+11
+to the Tax Commission a report detailing the number of new jobs
+11
+12
+created and the payroll data for new jobs created since the
+12
+13
+exemption was provided. The Tax Commission shall provide the data
+13
+14
+collected pursuant to this subsection to the Incentive Evaluation
+14
+15
+Commission for only evaluation purposes by the Commission or a
+15
+16
+designee.
+16
+17
+I. The Tax Commission shall have the authority and duty to
+17
+18
+prescribe forms and to promulgate rules as may be necessary to carry
+18
+19
+out and administer the terms and provisions of this section.
+19
+20
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 205, as last
+20
+21
+amended by Section 1, Chapter 208, O.S.L. 2024 (68 O.S. Supp. 2024,
+21
+22
+Section 205), is amended to read as follows:
+22
+23
+Section 205. A. The records and files of the Oklahoma Tax
+23
+24
+Commission concerning the administration of the Uniform Tax
+24
+Req. No. 1331 Page 21
+
+1
+Procedure Code or of any state tax law shall be considered
+1
+2
+confidential and privileged, except as otherwise provided for by
+2
+3
+law, and neither the Tax Commission nor any employee engaged in the
+3
+4
+administration of the Tax Commission or charged with the custody of
+4
+5
+any such records or files nor any person who may have secured
+5
+6
+information from the Tax Commission shall disclose any information
+6
+7
+obtained from the records or files or from any examination or
+7
+8
+inspection of the premises or property of any person.
+8
+9
+B. Except as provided in paragraph 26 of subsection C of this
+9
+10
+section, neither the Tax Commission nor any employee engaged in the
+10
+11
+administration of the Tax Commission or charged with the custody of
+11
+12
+any such records or files shall be required by any court of this
+12
+13
+state to produce any of the records or files for the inspection of
+13
+14
+any person or for use in any action or proceeding, except when the
+14
+15
+records or files or the facts shown thereby are directly involved in
+15
+16
+an action or proceeding pursuant to the provisions of the Uniform
+16
+17
+Tax Procedure Code or of the state tax law, or when the
+17
+18
+determination of the action or proceeding will affect the validity
+18
+19
+or the amount of the claim of the state pursuant to any state tax
+19
+20
+law, or when the information contained in the records or files
+20
+21
+constitutes evidence of violation of the provisions of the Uniform
+21
+22
+Tax Procedure Code or of any state tax law.
+22
+23
+C. The provisions of this section shall not prevent the Tax
+23
+24
+Commission, or with respect to the Oklahoma Department of Commerce
+24
+Req. No. 1331 Page 22
+
+1
+in administration of the Oklahoma Rural Jobs Act as provided by
+1
+2
+paragraph 22 of this subsection, from disclosing the following
+2
+3
+information and no liability whatsoever, civil or criminal, shall
+3
+4
+attach to any member of the Tax Commission, or the Oklahoma
+4
+5
+Department of Commerce as applicable, or any employee thereof for
+5
+6
+any error or omission in the disclosure of such information:
+6
+7
+1. The delivery to a taxpayer or a duly authorized
+7
+8
+representative of the taxpayer of a copy of any report or any other
+8
+9
+paper filed by the taxpayer pursuant to the provisions of the
+9
+10
+Uniform Tax Procedure Code or of any state tax law;
+10
+11
+2. The exchange of information that is not protected by the
+11
+12
+federal Privacy Protection Act, 42 U.S.C., Section 2000aa et seq.,
+12
+13
+pursuant to reciprocal agreements entered into by the Tax Commission
+13
+14
+and other state agencies or agencies of the federal government;
+14
+15
+3. The publication of statistics so classified as to prevent
+15
+16
+the identification of a particular report and the items thereof;
+16
+17
+4. The examination of records and files by the State Auditor
+17
+18
+and Inspector or the duly authorized agents of the State Auditor and
+18
+19
+Inspector;
+19
+20
+5. The disclosing of information or evidence to the Oklahoma
+20
+21
+State Bureau of Investigation, Attorney General, Oklahoma State
+21
+22
+Bureau of Narcotics and Dangerous Drugs Control, any district
+22
+23
+attorney or agent of any federal law enforcement agency when the
+23
+24
+information or evidence is to be used by such officials to
+24
+Req. No. 1331 Page 23
+
+1
+investigate or prosecute violations of the criminal provisions of
+1
+2
+the Uniform Tax Procedure Code or of any state tax law or of any
+2
+3
+federal crime committed against this state. Any information
+3
+4
+disclosed to the Oklahoma State Bureau of Investigation, Attorney
+4
+5
+General, Oklahoma State Bureau of Narcotics and Dangerous Drugs
+5
+6
+Control, any district attorney or agent of any federal law
+6
+7
+enforcement agency shall be kept confidential by such person and not
+7
+8
+be disclosed except when presented to a court in a prosecution for
+8
+9
+violation of the tax laws of this state or except as specifically
+9
+10
+authorized by law, and a violation by the Oklahoma State Bureau of
+10
+11
+Investigation, Attorney General, Oklahoma State Bureau of Narcotics
+11
+12
+and Dangerous Drugs Control, district attorney or agent of any
+12
+13
+federal law enforcement agency by otherwise releasing the
+13
+14
+information shall be a felony;
+14
+15
+6. The use by any division of the Tax Commission of any
+15
+16
+information or evidence in the possession of or contained in any
+16
+17
+report or return filed with any other division of the Tax
+17
+18
+Commission;
+18
+19
+7. The furnishing, at the discretion of the Tax Commission, of
+19
+20
+any information disclosed by its records or files to any official
+20
+21
+person or body of this state, any other state, the United States or
+21
+22
+foreign country who is concerned with the administration or
+22
+23
+assessment of any similar tax in this state, any other state or the
+23
+24
+United States. The provisions of this paragraph shall include the
+24
+Req. No. 1331 Page 24
+
+1
+furnishing of information by the Tax Commission to a county assessor
+1
+2
+to determine the amount of gross household income pursuant to the
+2
+3
+provisions of Section 8C of Article X of the Oklahoma Constitution
+3
+4
+or Section 2890 of this title. The Tax Commission shall promulgate
+4
+5
+rules to give guidance to the county assessors regarding the type of
+5
+6
+information which may be used by the county assessors in determining
+6
+7
+the amount of gross household income pursuant to Section 8C of
+7
+8
+Article X of the Oklahoma Constitution or Section 2890 of this
+8
+9
+title. The provisions of this paragraph shall also include the
+9
+10
+furnishing of information to the State Treasurer for the purpose of
+10
+11
+administration of the Uniform Unclaimed Property Act;
+11
+12
+8. The furnishing of information to other state agencies for
+12
+13
+the limited purpose of aiding in the collection of debts owed by
+13
+14
+individuals to such requesting agencies;
+14
+15
+9. The furnishing of information requested by any member of the
+15
+16
+general public and stated in the sworn lists or schedules of taxable
+16
+17
+property of public service corporations organized, existing, or
+17
+18
+doing business in this state which are submitted to and certified by
+18
+19
+the State Board of Equalization pursuant to the provisions of
+19
+20
+Section 2858 of this title and Section 21 of Article X of the
+20
+21
+Oklahoma Constitution, provided such information would be a public
+21
+22
+record if filed pursuant to Sections 2838 and 2839 of this title on
+22
+23
+behalf of a corporation other than a public service corporation;
+23
+24
+24
+Req. No. 1331 Page 25
+
+1
+10. The furnishing of information requested by any member of
+1
+2
+the general public and stated in the findings of the Tax Commission
+2
+3
+as to the adjustment and equalization of the valuation of real and
+3
+4
+personal property of the counties of the state, which are submitted
+4
+5
+to and certified by the State Board of Equalization pursuant to the
+5
+6
+provisions of Section 2865 of this title and Section 21 of Article X
+6
+7
+of the Oklahoma Constitution;
+7
+8
+11. The furnishing of information as to the issuance or
+8
+9
+revocation of any tax permit, license or exemption by the Tax
+9
+10
+Commission as provided for by law. Such information shall be
+10
+11
+limited to the name of the person issued the permit, license or
+11
+12
+exemption, the name of the business entity authorized to engage in
+12
+13
+business pursuant to the permit, license or exemption, the address
+13
+14
+of the business entity and the grounds for revocation;
+14
+15
+12. The posting of notice of revocation of any tax permit or
+15
+16
+license upon the premises of the place of business of any business
+16
+17
+entity which has had any tax permit or license revoked by the Tax
+17
+18
+Commission as provided for by law. Such notice shall be limited to
+18
+19
+the name of the person issued the permit or license, the name of the
+19
+20
+business entity authorized to engage in business pursuant to the
+20
+21
+permit or license, the address of the business entity and the
+21
+22
+grounds for revocation;
+22
+23
+13. The furnishing of information upon written request by any
+23
+24
+member of the general public as to the outstanding and unpaid amount
+24
+Req. No. 1331 Page 26
+
+1
+due and owing by any taxpayer of this state for any delinquent tax,
+1
+2
+together with penalty and interest, for which a tax warrant or a
+2
+3
+certificate of indebtedness has been filed pursuant to law;
+3
+4
+14. After the filing of a tax warrant pursuant to law, the
+4
+5
+furnishing of information upon written request by any member of the
+5
+6
+general public as to any agreement entered into by the Tax
+6
+7
+Commission concerning a compromise of tax liability for an amount
+7
+8
+less than the amount of tax liability stated on such warrant;
+8
+9
+15. The disclosure of information necessary to complete the
+9
+10
+performance of any contract authorized by this title to any person
+10
+11
+with whom the Tax Commission has contracted;
+11
+12
+16. The disclosure of information to any person for a purpose
+12
+13
+as authorized by the taxpayer pursuant to a waiver of
+13
+14
+confidentiality. The waiver shall be in writing and shall be made
+14
+15
+upon such form as the Tax Commission may prescribe;
+15
+16
+17. The disclosure of information required in order to comply
+16
+17
+with the provisions of Section 2369 of this title;
+17
+18
+18. The disclosure to an employer, as defined in Sections
+18
+19
+2385.1 and 2385.3 of this title, of information required in order to
+19
+20
+collect the tax imposed by Section 2385.2 of this title;
+20
+21
+19. The disclosure to a plaintiff of a corporation’s last-known
+21
+22
+address shown on the records of the Franchise Tax Division of the
+22
+23
+Tax Commission in order for such plaintiff to comply with the
+23
+24
+requirements of Section 2004 of Title 12 of the Oklahoma Statutes;
+24
+Req. No. 1331 Page 27
+
+1
+20. The disclosure of information directly involved in the
+1
+2
+resolution of the protest by a taxpayer to an assessment of tax or
+2
+3
+additional tax or the resolution of a claim for refund filed by a
+3
+4
+taxpayer, including the disclosure of the pendency of an
+4
+5
+administrative proceeding involving such protest or claim, to a
+5
+6
+person called by the Tax Commission as an expert witness or as a
+6
+7
+witness whose area of knowledge or expertise specifically addresses
+7
+8
+the issue addressed in the protest or claim for refund. Such
+8
+9
+disclosure to a witness shall be limited to information pertaining
+9
+10
+to the specific knowledge of that witness as to the transaction or
+10
+11
+relationship between taxpayer and witness;
+11
+12
+21. The disclosure of information necessary to implement an
+12
+13
+agreement authorized by Section 2702 of this title when such
+13
+14
+information is directly involved in the resolution of issues arising
+14
+15
+out of the enforcement of a municipal sales tax ordinance. Such
+15
+16
+disclosure shall be to the governing body or to the municipal
+16
+17
+attorney, if so designated by the governing body;
+17
+18
+22. The furnishing of information regarding incentive payments
+18
+19
+made pursuant to the provisions of Sections 3601 through 3609 of
+19
+20
+this title, incentive payments made pursuant to the provisions of
+20
+21
+Sections 3501 through 3508 of this title, or tax credits claimed
+21
+22
+pursuant to the provisions of Sections 1 through 8 of this act
+22
+23
+Sections 3930 through 3937 of this title;
+23
+24
+24
+Req. No. 1331 Page 28
+
+1
+23. The furnishing to a prospective purchaser of any business,
+1
+2
+or his or her authorized representative, of information relating to
+2
+3
+any liabilities, delinquencies, assessments or warrants of the
+3
+4
+prospective seller of the business which have not been filed of
+4
+5
+record, established or become final and which relate solely to the
+5
+6
+seller’s business. Any disclosure under this paragraph shall only
+6
+7
+be allowed upon the presentment by the prospective buyer, or the
+7
+8
+buyer’s authorized representative, of the purchase contract and a
+8
+9
+written authorization between the parties;
+9
+10
+24. The furnishing of information as to the amount of state
+10
+11
+revenue affected by the issuance or granting of any tax permit,
+11
+12
+license, exemption, deduction, credit or other tax preference by the
+12
+13
+Tax Commission as provided for by law. Such information shall be
+13
+14
+limited to the type of permit, license, exemption, deduction, credit
+14
+15
+or other tax preference issued or granted, the date and duration of
+15
+16
+such permit, license, exemption, deduction, credit or other tax
+16
+17
+preference and the amount of such revenue. The provisions of this
+17
+18
+paragraph shall not authorize the disclosure of the name of the
+18
+19
+person issued such permit, license, exemption, deduction, credit or
+19
+20
+other tax preference, or the name of the business entity authorized
+20
+21
+to engage in business pursuant to the permit, license, exemption,
+21
+22
+deduction, credit or other tax preference;
+22
+23
+25. The examination of records and files of a person or entity
+23
+24
+by the Oklahoma State Bureau of Narcotics and Dangerous Drugs
+24
+Req. No. 1331 Page 29
+
+1
+Control, district attorney or the Attorney General pursuant to a
+1
+2
+court order by a magistrate in whose territorial jurisdiction the
+2
+3
+person or entity resides, or where the Tax Commission records and
+3
+4
+files are physically located. Such an order may only be issued upon
+4
+5
+a sworn application by an agent of the Oklahoma State Bureau of
+5
+6
+Narcotics and Dangerous Drugs Control or the Attorney General,
+6
+7
+certifying that the person or entity whose records and files are to
+7
+8
+be examined is the target of an ongoing investigation of a felony
+8
+9
+violation of the Uniform Controlled Dangerous Substances Act and
+9
+10
+that information resulting from such an examination would likely be
+10
+11
+relevant to that investigation. Any records or information obtained
+11
+12
+pursuant to such an order may only be used by the Oklahoma State
+12
+13
+Bureau of Narcotics and Dangerous Drugs Control, district attorney
+13
+14
+or the Attorney General in the investigation and prosecution of a
+14
+15
+felony violation of the Uniform Controlled Dangerous Substances Act
+15
+16
+or money laundering pursuant to Section 2001 of Title 21 of the
+16
+17
+Oklahoma Statutes. Any such order issued pursuant to this
+17
+18
+paragraph, along with the underlying application, shall be sealed
+18
+19
+and not disclosed to the person or entity whose records were
+19
+20
+examined, for a period of ninety (90) days. The issuing magistrate
+20
+21
+may grant extensions of such period upon a showing of good cause in
+21
+22
+furtherance of the investigation. Upon the expiration of ninety
+22
+23
+(90) days and any extensions granted by the magistrate, a copy of
+23
+24
+the application and order shall be served upon the person or entity
+24
+Req. No. 1331 Page 30
+
+1
+whose records were examined, along with a copy of the records or
+1
+2
+information actually provided by the Tax Commission;
+2
+3
+26. The disclosure of information, as prescribed by this
+3
+4
+paragraph, which is related to the proposed or actual usage of tax
+4
+5
+credits pursuant to Section 2357.7 of this title, the Small Business
+5
+6
+Capital Formation Incentive Act or the Rural Venture Capital
+6
+7
+Formation Incentive Act. Unless the context clearly requires
+7
+8
+otherwise, the terms used in this paragraph shall have the same
+8
+9
+meaning as defined by Section 2357.7, 2357.61 or 2357.72 of this
+9
+10
+title. The disclosure of information authorized by this paragraph
+10
+11
+shall include:
+11
+12
+a. the legal name of any qualified venture capital
+12
+13
+company, qualified small business capital company or
+13
+14
+qualified rural small business capital company,
+14
+15
+b. the identity or legal name of any person or entity
+15
+16
+that is a shareholder or partner of a qualified
+16
+17
+venture capital company, qualified small business
+17
+18
+capital company or qualified rural small business
+18
+19
+capital company,
+19
+20
+c. the identity or legal name of any Oklahoma business
+20
+21
+venture, Oklahoma small business venture or Oklahoma
+21
+22
+rural small business venture in which a qualified
+22
+23
+investment has been made by a capital company, or
+23
+24
+24
+Req. No. 1331 Page 31
+
+1
+d. the amount of funds invested in a qualified venture
+1
+2
+capital company, the amount of qualified investments
+2
+3
+in a qualified small business capital company or
+3
+4
+qualified rural small business capital company and the
+4
+5
+amount of investments made by a qualified venture
+5
+6
+capital company, qualified small business capital
+6
+7
+company, or qualified rural small business capital
+7
+8
+company;
+8
+9
+27. The disclosure of specific information as required by
+9
+10
+Section 46 of Title 62 of the Oklahoma Statutes;
+10
+11
+28. The disclosure of specific information as required by
+11
+12
+Section 205.5 of this title;
+12
+13
+29. The disclosure of specific information as required by
+13
+14
+Section 205.6 of this title;
+14
+15
+30. The disclosure of information to the State Treasurer
+15
+16
+necessary to implement Section 2368.27 of this title;
+16
+17
+31. The disclosure of specific information to the Oklahoma
+17
+18
+Health Care Authority for purposes of determining eligibility for
+18
+19
+current or potential recipients of assistance from the Oklahoma
+19
+20
+Medicaid Program;
+20
+21
+32. The disclosure of information to the Oklahoma Department of
+21
+22
+Veterans Affairs including but not limited to the name and basis for
+22
+23
+eligibility of each individual who qualifies for the sales tax
+23
+24
+24
+Req. No. 1331 Page 32
+
+1
+exemption authorized in paragraph 34 of Section 1357 of this title;
+1
+2
+or
+2
+3
+33. The disclosure of information to the Oklahoma Medical
+3
+4
+Marijuana Authority for the purposes of compliance with the Oklahoma
+4
+5
+Medical Marijuana and Patient Protection Act or Section 420 et seq.
+5
+6
+of Title 63 of the Oklahoma Statutes; or
+6
+7
+34. The disclosure of information required in order to comply
+7
+8
+with the provisions of subsection H of Section 2902 of this title.
+8
+9
+D. The Tax Commission shall cause to be prepared and made
+9
+10
+available for public inspection in the office of the Tax Commission
+10
+11
+in such manner as it may determine an annual list containing the
+11
+12
+name and post office address of each person, whether individual,
+12
+13
+corporate or otherwise, making and filing an income tax return with
+13
+14
+the Tax Commission.
+14
+15
+It is specifically provided that no liability whatsoever, civil
+15
+16
+or criminal, shall attach to any member of the Tax Commission or any
+16
+17
+employee thereof for any error or omission of any name or address in
+17
+18
+the preparation and publication of the list.
+18
+19
+E. The Tax Commission shall prepare or cause to be prepared a
+19
+20
+report on all provisions of state tax law that reduce state revenue
+20
+21
+through exclusions, deductions, credits, exemptions, deferrals or
+21
+22
+other preferential tax treatments. The report shall be prepared not
+22
+23
+later than October 1 of each even-numbered year and shall be
+23
+24
+submitted to the Governor, the President Pro Tempore of the Senate
+24
+Req. No. 1331 Page 33
+
+1
+and the Speaker of the House of Representatives. The Tax Commission
+1
+2
+may prepare and submit supplements to the report at other times of
+2
+3
+the year if additional or updated information relevant to the report
+3
+4
+becomes available. The report shall include, for the previous
+4
+5
+fiscal year, the Tax Commission’s best estimate of the amount of
+5
+6
+state revenue that would have been collected but for the existence
+6
+7
+of each such exclusion, deduction, credit, exemption, deferral or
+7
+8
+other preferential tax treatment allowed by law. The Tax Commission
+8
+9
+may request the assistance of other state agencies as may be needed
+9
+10
+to prepare the report. The Tax Commission is authorized to require
+10
+11
+any recipient of a tax incentive or tax expenditure to report to the
+11
+12
+Tax Commission such information as requested so that the Tax
+12
+13
+Commission may fulfill its obligations as required by this
+13
+14
+subsection. The Tax Commission may require this information to be
+14
+15
+submitted in an electronic format. The Tax Commission may disallow
+15
+16
+any claim of a person for a tax incentive due to its failure to file
+16
+17
+a report as required under the authority of this subsection.
+17
+18
+F. It is further provided that the provisions of this section
+18
+19
+shall be strictly interpreted and shall not be construed as
+19
+20
+permitting the disclosure of any other information contained in the
+20
+21
+records and files of the Tax Commission relating to income tax or to
+21
+22
+any other taxes.
+22
+23
+G. Unless otherwise provided for in this section, any violation
+23
+24
+of the provisions of this section shall constitute a misdemeanor and
+24
+Req. No. 1331 Page 34
+
+1
+shall be punishable by the imposition of a fine not exceeding One
+1
+2
+Thousand Dollars ($1,000.00) or by imprisonment in the county jail
+2
+3
+for a term not exceeding one (1) year, or by both such fine and
+3
+4
+imprisonment, and the offender shall be removed or dismissed from
+4
+5
+office.
+5
+6
+H. Offenses described in Section 2376 of this title shall be
+6
+7
+reported to the appropriate district attorney of this state by the
+7
+8
+Tax Commission as soon as the offenses are discovered by the Tax
+8
+9
+Commission or its agents or employees. The Tax Commission shall
+9
+10
+make available to the appropriate district attorney or to the
+10
+11
+authorized agent of the district attorney its records and files
+11
+12
+pertinent to prosecutions, and such records and files shall be fully
+12
+13
+admissible as evidence for the purpose of such prosecutions.
+13
+14
+SECTION 3. This act shall become effective November 1, 2025.
+14
+15
+15
+16
+60-1-1331 QD 1/19/2025 5:39:04 AM
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1331 Page 35
+
+[DELETED:  P B R]
+[DELETED:  P e]
+[DELETED:  P f e]
+[DELETED:  P f]
+[DELETED:  P e c e p c]
+[DELETED:  P f w]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P “ “]
+[DELETED:  P p a]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P Q 1]

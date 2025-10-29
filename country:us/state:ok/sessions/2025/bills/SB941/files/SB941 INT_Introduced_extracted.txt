@@ -1,0 +1,914 @@
+Title: SENATE BILL 941 By: Deevers
+Official Title: SENATE BILL 941 By: Deevers
+Number of Sections: 22
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to pharmaceutical products; defining
+7
+terms; requiring manufacturers of pharmaceutical
+8
+products to publish certain list of ingredients;
+8
+specifying certain inclusions; clarifying
+9
+applicability; requiring certain submission and
+9
+publication; providing administrative, civil, and
+10
+criminal penalties and remedies; granting certain
+10
+protection; requiring establishment of certain
+11
+reporting system; preempting certain rulemaking;
+11
+providing certain construction; providing for
+12
+codification; and providing an effective date.
+12
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 9002.1 of Title 63, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+As used in this act:
+19
+20
+
+Section 3:
+1. “Pharmaceutical product” means any drug or device as defined
+20
+21
+in Section 353.1 of Title 59 of the Oklahoma Statutes including
+21
+22
+prescription drugs, over-the-counter medications, vaccines, and
+22
+23
+products intended for research purposes;
+23
+24
+
+Section 4:
+2. “Ingredient” includes:
+24
+Req. No. 1363 Page 1
+1
+a. all active and inactive components,
+1
+2
+b. biological materials, such as mRNA, DNA from human or
+2
+3
+animal sources, and viral vectors,
+3
+4
+c. synthetic materials, including lipids, nanotechnology
+4
+5
+components, and polymers, and
+5
+6
+d. adjuvants, preservatives, stabilizers, and other
+6
+7
+additives; and
+7
+8
+
+Section 5:
+3. “Manufacturer” means any person or entity engaged in the
+8
+9
+production, preparation, propagation, compounding, or processing of
+9
+10
+pharmaceutical products, as defined in Section 353.1 of Title 59 of
+10
+11
+the Oklahoma Statutes.
+11
+12
+
+Section 6:
+SECTION 2. NEW LAW A new section of law to be codified
+12
+13
+in the Oklahoma Statutes as Section 9002.2 of Title 63, unless there
+13
+14
+is created a duplication in numbering, reads as follows:
+14
+15
+A. Manufacturers of pharmaceutical products, including those
+15
+16
+intended exclusively for research purposes, shall publish a complete
+16
+17
+and detailed list of all ingredients for each product.
+17
+18
+
+Section 7:
+1. The list shall include:
+18
+19
+a. the chemical and common names of all active, inactive,
+19
+20
+biological, and synthetic ingredients,
+20
+21
+b. the origin of any biological materials, specifying
+21
+22
+whether they are derived from human, animal, or
+22
+23
+synthetic sources,
+23
+24
+c. the purpose of each ingredient, and
+24
+Req. No. 1363 Page 2
+1
+d. the quantity or concentration of each ingredient,
+1
+2
+including trace elements and residuals.
+2
+3
+
+Section 8:
+2. For products containing mRNA or other gene-based technology,
+3
+4
+the disclosure shall specify:
+4
+5
+a. the sequence and source of any nucleic acids, and
+5
+6
+b. the delivery mechanism, including synthetic carriers
+6
+7
+such as lipid nanoparticles.
+7
+8
+B. The ingredient information shall be:
+8
+9
+
+Section 9:
+1. Submitted to the State Board of Pharmacy;
+9
+10
+
+Section 10:
+2. Published publicly on a manufacturer-maintained website; and
+10
+11
+
+Section 11:
+3. Included in product labeling and marketing materials.
+11
+12
+C. The responsibility to disclose all ingredients or components
+12
+13
+of any pharmaceutical product, medical treatment, or mandate shall
+13
+14
+remain unchanged regardless of whether a national emergency is
+14
+15
+declared by the President of the United States or Congress. The
+15
+16
+rights of individuals shall not be suspended, abridged, or infringed
+16
+17
+during any declared emergency.
+17
+18
+
+Section 12:
+SECTION 3. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 9002.3 of Title 63, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+A. Noncompliance with the provisions of this act shall result
+21
+22
+in the following penalties:
+22
+23
+
+Section 13:
+1. Fines up to Fifty Thousand Dollars ($50,000) per violation,
+23
+24
+per product; and
+24
+Req. No. 1363 Page 3
+1
+
+Section 14:
+2. Suspension or revocation of the right to distribute or sell
+1
+2
+the noncompliant pharmaceutical product within this state until
+2
+3
+compliance is achieved.
+3
+4
+B. Enhanced penalties for repeated or willful violations shall
+4
+5
+be assessed as follows:
+5
+6
+
+Section 15:
+1. Escalating fines:
+6
+7
+a. on a second violation: fines up to One Hundred
+7
+8
+Thousand Dollars ($100,000.00) per product, and
+8
+9
+b. on a third or subsequent violation: fines up to Two
+9
+10
+Hundred Fifty Thousand Dollars ($250,000.00) per
+10
+11
+product;
+11
+12
+
+Section 16:
+2. Prohibition of operations: For continued noncompliance, the
+12
+13
+manufacturer may be prohibited from distributing or selling any
+13
+14
+pharmaceutical products in this state for up to one (1) year; and
+14
+15
+
+Section 17:
+3. Criminal liability: Repeated or intentional
+15
+16
+misrepresentation or omission of ingredient information is a
+16
+17
+misdemeanor crime punishable by up to one (1) year imprisonment.
+17
+18
+C. The following civil remedies shall be available:
+18
+19
+
+Section 18:
+1. Private right to civil action: Any individual or group
+19
+20
+harmed by noncompliance with this act, including misrepresentation
+20
+21
+or omission of ingredient information, may bring a civil lawsuit
+21
+22
+against the manufacturer for damages including, but not limited to:
+22
+23
+a. economic damages including, but not limited to,
+23
+24
+medical expenses or financial losses,
+24
+Req. No. 1363 Page 4
+1
+b. noneconomic damages including, but not limited to,
+1
+2
+pain and suffering or emotional distress, and
+2
+3
+c. punitive damages, as appropriate under Oklahoma law.
+3
+4
+
+Section 19:
+2. Class action suit: Affected individuals may form a class to
+4
+5
+seek collective remedy in cases of widespread harm resulting from
+5
+6
+noncompliance.
+6
+7
+D. The State of Oklahoma may seek injunctive relief to compel
+7
+8
+compliance or halt the distribution and sale of noncompliant
+8
+9
+pharmaceutical products.
+9
+10
+E. Individuals who report violations of this act by
+10
+11
+manufacturers shall be protected from retaliation under applicable
+11
+12
+whistleblower statutes and may be entitled to a percentage of fines
+12
+13
+collected as a result of their report.
+13
+14
+F. The State Board of Pharmacy shall establish a reporting
+14
+15
+system for individuals to file complaints regarding suspected
+15
+16
+violations of this act, with such reports forwarded to the
+16
+17
+Legislature for review and potential enforcement action.
+17
+18
+
+Section 20:
+SECTION 4. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 9002.4 of Title 63, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+The Legislature shall retain exclusive rule-making authority to
+21
+22
+implement and enforce the provisions of this act.
+22
+23
+23
+24
+24
+Req. No. 1363 Page 5
+1
+
+Section 21:
+SECTION 5. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 9002.5 of Title 63, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+To the extent any laws conflict with this act, this act shall
+4
+5
+govern.
+5
+6
+
+Section 22:
+SECTION 6. This act shall become effective January 1, 2026.
+6
+7
+7
+8
+60-1-1363 DC 1/19/2025 5:46:25 AM
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1363 Page 6
+[DELETED:  P B D]
+[DELETED:  P a b s a t t t]
+[DELETED:  P t t t]
+[DELETED:  P o o e]
+[DELETED:  P n p]
+[DELETED:  P D 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 941 By: Deevers
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to pharmaceutical products; defining
+7
+terms; requiring manufacturers of pharmaceutical
+8
+products to publish certain list of ingredients;
+8
+specifying certain inclusions; clarifying
+9
+applicability; requiring certain submission and
+9
+publication; providing administrative, civil, and
+10
+criminal penalties and remedies; granting certain
+10
+protection; requiring establishment of certain
+11
+reporting system; preempting certain rulemaking;
+11
+providing certain construction; providing for
+12
+codification; and providing an effective date.
+12
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+SECTION 1. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 9002.1 of Title 63, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+As used in this act:
+19
+20
+1. “Pharmaceutical product” means any drug or device as defined
+20
+21
+in Section 353.1 of Title 59 of the Oklahoma Statutes including
+21
+22
+prescription drugs, over-the-counter medications, vaccines, and
+22
+23
+products intended for research purposes;
+23
+24
+2. “Ingredient” includes:
+24
+Req. No. 1363 Page 1
+
+1
+a. all active and inactive components,
+1
+2
+b. biological materials, such as mRNA, DNA from human or
+2
+3
+animal sources, and viral vectors,
+3
+4
+c. synthetic materials, including lipids, nanotechnology
+4
+5
+components, and polymers, and
+5
+6
+d. adjuvants, preservatives, stabilizers, and other
+6
+7
+additives; and
+7
+8
+3. “Manufacturer” means any person or entity engaged in the
+8
+9
+production, preparation, propagation, compounding, or processing of
+9
+10
+pharmaceutical products, as defined in Section 353.1 of Title 59 of
+10
+11
+the Oklahoma Statutes.
+11
+12
+SECTION 2. NEW LAW A new section of law to be codified
+12
+13
+in the Oklahoma Statutes as Section 9002.2 of Title 63, unless there
+13
+14
+is created a duplication in numbering, reads as follows:
+14
+15
+A. Manufacturers of pharmaceutical products, including those
+15
+16
+intended exclusively for research purposes, shall publish a complete
+16
+17
+and detailed list of all ingredients for each product.
+17
+18
+1. The list shall include:
+18
+19
+a. the chemical and common names of all active, inactive,
+19
+20
+biological, and synthetic ingredients,
+20
+21
+b. the origin of any biological materials, specifying
+21
+22
+whether they are derived from human, animal, or
+22
+23
+synthetic sources,
+23
+24
+c. the purpose of each ingredient, and
+24
+Req. No. 1363 Page 2
+
+1
+d. the quantity or concentration of each ingredient,
+1
+2
+including trace elements and residuals.
+2
+3
+2. For products containing mRNA or other gene-based technology,
+3
+4
+the disclosure shall specify:
+4
+5
+a. the sequence and source of any nucleic acids, and
+5
+6
+b. the delivery mechanism, including synthetic carriers
+6
+7
+such as lipid nanoparticles.
+7
+8
+B. The ingredient information shall be:
+8
+9
+1. Submitted to the State Board of Pharmacy;
+9
+10
+2. Published publicly on a manufacturer-maintained website; and
+10
+11
+3. Included in product labeling and marketing materials.
+11
+12
+C. The responsibility to disclose all ingredients or components
+12
+13
+of any pharmaceutical product, medical treatment, or mandate shall
+13
+14
+remain unchanged regardless of whether a national emergency is
+14
+15
+declared by the President of the United States or Congress. The
+15
+16
+rights of individuals shall not be suspended, abridged, or infringed
+16
+17
+during any declared emergency.
+17
+18
+SECTION 3. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 9002.3 of Title 63, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+A. Noncompliance with the provisions of this act shall result
+21
+22
+in the following penalties:
+22
+23
+1. Fines up to Fifty Thousand Dollars ($50,000) per violation,
+23
+24
+per product; and
+24
+Req. No. 1363 Page 3
+
+1
+2. Suspension or revocation of the right to distribute or sell
+1
+2
+the noncompliant pharmaceutical product within this state until
+2
+3
+compliance is achieved.
+3
+4
+B. Enhanced penalties for repeated or willful violations shall
+4
+5
+be assessed as follows:
+5
+6
+1. Escalating fines:
+6
+7
+a. on a second violation: fines up to One Hundred
+7
+8
+Thousand Dollars ($100,000.00) per product, and
+8
+9
+b. on a third or subsequent violation: fines up to Two
+9
+10
+Hundred Fifty Thousand Dollars ($250,000.00) per
+10
+11
+product;
+11
+12
+2. Prohibition of operations: For continued noncompliance, the
+12
+13
+manufacturer may be prohibited from distributing or selling any
+13
+14
+pharmaceutical products in this state for up to one (1) year; and
+14
+15
+3. Criminal liability: Repeated or intentional
+15
+16
+misrepresentation or omission of ingredient information is a
+16
+17
+misdemeanor crime punishable by up to one (1) year imprisonment.
+17
+18
+C. The following civil remedies shall be available:
+18
+19
+1. Private right to civil action: Any individual or group
+19
+20
+harmed by noncompliance with this act, including misrepresentation
+20
+21
+or omission of ingredient information, may bring a civil lawsuit
+21
+22
+against the manufacturer for damages including, but not limited to:
+22
+23
+a. economic damages including, but not limited to,
+23
+24
+medical expenses or financial losses,
+24
+Req. No. 1363 Page 4
+
+1
+b. noneconomic damages including, but not limited to,
+1
+2
+pain and suffering or emotional distress, and
+2
+3
+c. punitive damages, as appropriate under Oklahoma law.
+3
+4
+2. Class action suit: Affected individuals may form a class to
+4
+5
+seek collective remedy in cases of widespread harm resulting from
+5
+6
+noncompliance.
+6
+7
+D. The State of Oklahoma may seek injunctive relief to compel
+7
+8
+compliance or halt the distribution and sale of noncompliant
+8
+9
+pharmaceutical products.
+9
+10
+E. Individuals who report violations of this act by
+10
+11
+manufacturers shall be protected from retaliation under applicable
+11
+12
+whistleblower statutes and may be entitled to a percentage of fines
+12
+13
+collected as a result of their report.
+13
+14
+F. The State Board of Pharmacy shall establish a reporting
+14
+15
+system for individuals to file complaints regarding suspected
+15
+16
+violations of this act, with such reports forwarded to the
+16
+17
+Legislature for review and potential enforcement action.
+17
+18
+SECTION 4. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 9002.4 of Title 63, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+The Legislature shall retain exclusive rule-making authority to
+21
+22
+implement and enforce the provisions of this act.
+22
+23
+23
+24
+24
+Req. No. 1363 Page 5
+
+1
+SECTION 5. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 9002.5 of Title 63, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+To the extent any laws conflict with this act, this act shall
+4
+5
+govern.
+5
+6
+SECTION 6. This act shall become effective January 1, 2026.
+6
+7
+7
+8
+60-1-1363 DC 1/19/2025 5:46:25 AM
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1363 Page 6
+
+[DELETED:  P B D]
+[DELETED:  P a b s a t t t]
+[DELETED:  P t t t]
+[DELETED:  P o o e]
+[DELETED:  P n p]
+[DELETED:  P D 1]

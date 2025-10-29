@@ -1,0 +1,1410 @@
+Title: An Act
+Official Title: An Act
+Number of Sections: 54
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED HOUSE
+BILL NO. 1497 By: Tedford of the House
+and
+Reinhardt of the Senate
+An Act relating to insurance; amending 36 O.S. 2021,
+
+Section 2:
+Section 1631, which relates to definitions; providing
+definitions; amending 36 O.S. 2021, Section 1635,
+which relates to registration of insurers; clarifying
+applicability of statute; requiring certain report;
+specifying report details; requiring Liquidity Stress
+Test; amending 36 O.S. 2021, Section 1640, which
+relates to confidentiality of documents and other
+information; updating citations; clarifying certain
+documents, materials, or other information is
+proprietary and contains trade secrets; directing
+Commissioner to maintain the confidentiality of
+certain information; and providing an effective date.
+SUBJECT: Insurance
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+Section 3:
+SECTION 1. AMENDATORY 36 O.S. 2021, Section 1631, is
+amended to read as follows:
+
+Section 4:
+Section 1631. As used in this act, the following terms shall
+have these meanings unless the context shall otherwise require:
+
+Section 5:
+1. "Affiliate of" or person "affiliated with" a specific person
+means a person that directly, or indirectly through one or more
+intermediaries, controls, or is controlled by, or is under common
+control with, the person specified;
+
+Section 6:
+2. "Commissioner" means the Insurance Commissioner of the State
+of Oklahoma, the Commissioner's deputies, or the Insurance
+Department, as appropriate;
+
+Section 7:
+3. "Control" includes the terms "controlling", "controlled by"
+and "under common control with" and means the possession, direct or
+indirect, of the power to direct or cause the direction of the
+management and policies of a person, whether through the ownership
+of voting securities, by contract other than a commercial contract
+for goods or nonmanagement services, or otherwise, unless the power
+is the result of an official position or corporate office held by
+the person. Control shall be presumed to exist if any person,
+directly or indirectly, owns, controls, holds with the power to
+vote, or holds proxies representing, ten percent (10%) or more of
+the voting securities of any other person. This presumption may be
+rebutted by a showing made in the manner provided by subsection K of
+
+Section 8:
+Section 5 1635 of this act title that control does not exist in
+fact. The Commissioner may determine, after furnishing all persons
+in interest notice and opportunity to be heard and making specific
+findings of fact to support the determination that control exists in
+fact, notwithstanding the absence of a presumption to that effect;
+
+Section 9:
+4. "Group-wide supervisor" means the regulatory official
+authorized to engage in conducting and coordinating group-wide
+supervision activities who is determined or acknowledged by the
+Commissioner under Section 9 1639 of this act title to have
+sufficient significant contacts with the internationally active
+insurance group;
+
+Section 10:
+5. "Group Capital Calculation Instructions" means the group
+capital calculation instructions as adopted by the NAIC and as
+amended by the NAIC from time to time in accordance with the
+procedures adopted by the NAIC;
+
+Section 11:
+6. "Insurance holding company system" means an insurance
+holding company system consisting of two or more affiliated persons,
+one or more of which is an insurer;
+
+Section 12:
+6. 7. "Insurer" has the same meaning as set forth in Section
+103 of Title 36 of the Oklahoma Statutes, except that it shall not
+include agencies, authorities or instrumentalities of the United
+States, its possessions and territories, the Commonwealth of Puerto
+Rico, the District of Columbia, or a state or political subdivision
+of a state;
+ENR. H. B. NO. 1497 Page 2
+
+Section 13:
+7. 8. "Internationally active insurance group" means an
+insurance holding company system that:
+a. includes an insurer registered under Section 5 1635 of
+this act title, and
+b. meets the following criteria:
+(1) premiums written in at least three countries,
+(2) the percentage of gross premiums written outside
+the United States is at least ten percent (10%)
+of the insurance holding company system's total
+gross written premiums, and
+(3) based on a three-year rolling average, the total
+assets of the insurance holding company system
+are at least Fifty Billion Dollars
+($50,000,000,000.00) or the total gross written
+premiums of the insurance holding company system
+are at least Ten Billion Dollars
+($10,000,000,000.00);
+
+Section 14:
+8. 9. "Enterprise risk" means any activity, circumstance, event
+or series of events involving one or more affiliates of an insurer
+that, if not remedied promptly, is likely to have a material adverse
+effect upon the financial condition or liquidity of the insurer or
+its insurance holding company system as a whole, including, but not
+limited to, anything that would cause the insurer's risk-based
+capital to fall into company action level as set forth in the Risk-
+based Capital for Insurers Act provided in Sections 1521 through
+1533 of Title 36 of the Oklahoma Statues Statutes, or would cause
+the insurer to be in hazardous financial condition pursuant to rules
+promulgated by the Insurance Department;
+
+Section 15:
+9. 10. "NAIC" means the National Association of Insurance
+Commissioners;
+
+Section 16:
+11. "NAIC Liquidity Stress Test Framework" means a separate
+NAIC publication which includes a history of the NAIC's development
+of regulatory Liquidity Stress Testing, the Scope Criteria
+applicable for a specific data year, and the Liquidity Stress Test
+instructions and reporting templates for a specific data year, such
+Scope Criteria, instructions and reporting template being as adopted
+ENR. H. B. NO. 1497 Page 3
+by the NAIC and as amended by the NAIC from time to time in
+accordance with the procedures adopted by the NAIC;
+
+Section 17:
+12. "Person" means an individual, a corporation, a limited
+liability company, a partnership, an association, a joint stock
+company, a trust, an unincorporated organization, any similar entity
+or any combination of the foregoing acting in concert, but shall not
+include any joint venture partnership exclusively engaged in owning,
+managing, leasing or developing real or tangible personal property;
+
+Section 18:
+10. 13. "Scope Criteria" means, as detailed in the NAIC
+Liquidity Stress Framework, the designated exposure bases along with
+minimum magnitudes thereof for the specified data year, used to
+establish a preliminary list of insurers considered scoped into the
+NAIC Liquidity Stress Test Framework for that data year;
+
+Section 19:
+14. "Securityholder" of a specified person means one who owns
+any security of such person, including common stock, preferred
+stock, debt obligations and any other security convertible into or
+evidencing the right to acquire any of the foregoing;
+
+Section 20:
+11. 15. "Subsidiary" of a specified person means an affiliate
+controlled by such person directly or indirectly through one or more
+intermediaries; and
+
+Section 21:
+12. 16. "Voting security" means any security convertible into
+or evidencing a right to acquire a voting security.
+
+Section 22:
+SECTION 2. AMENDATORY 36 O.S. 2021, Section 1635, is
+amended to read as follows:
+
+Section 23:
+Section 1635. A. Every insurer which is authorized to do
+business in this state and which is a member of an insurance holding
+company system shall register with the Insurance Commissioner,
+except a foreign insurer subject to registration requirements and
+standards adopted by statute or regulation in the jurisdiction of
+its domicile which are substantially similar to those contained in:
+
+Section 24:
+1. This section;
+
+Section 25:
+2. Paragraph 1 of subsection A of Section 6 1636 of this act
+title and subsections B and D of Section 6 1636 of this act title;
+and
+ENR. H. B. NO. 1497 Page 4
+
+Section 26:
+3. Either paragraph 2 of subsection A of Section 6 1636 of this
+act title or a provision such as the following: Each registered
+insurer shall keep current the information required to be disclosed
+in its registration statement by reporting all material changes or
+additions within fifteen (15) days after the end of the month in
+which it learns of each change or addition; provided, however, that
+subject to subsection B of Section 6 1636 of this act title, each
+registered insurer shall so report all dividends and other
+distributions to shareholders within two (2) business days following
+the declaration thereof.
+Any insurer which is subject to registration under this section
+shall register within fifteen (15) days after it becomes subject to
+registration, and annually thereafter by May 1 of each year for the
+previous calendar year, unless the Commissioner for good cause shown
+extends the time for registration, and then within the extended
+time. The Commissioner may require any insurer authorized to do
+business in the state which is a member of an insurance holding
+company system, and which is not subject to registration under this
+
+Section 27:
+section, to furnish a copy of the registration statement, the
+summary specified in subsection C of this section or other
+information filed by the insurance company with the insurance
+regulatory authority of its domiciliary jurisdiction.
+B. Every insurer subject to registration shall file the
+registration statement with the Commissioner on a form and in a
+format prescribed by the National Association of Insurance
+Commissioners (NAIC), which shall contain the following current
+information:
+
+Section 28:
+1. The capital structure, general financial condition,
+ownership and management of the insurer and any person controlling
+the insurer;
+
+Section 29:
+2. The identity and relationship of every member of the
+insurance holding company system;
+
+Section 30:
+3. The following agreements in force, and transactions
+currently outstanding or which have occurred during the last
+calendar year between the insurer and its affiliates:
+a. loans, other investments, or purchases, sales or
+exchanges of securities of the affiliates by the
+insurer or of the insurer by its affiliates,
+ENR. H. B. NO. 1497 Page 5
+b. purchases, sales or exchange of assets,
+c. transactions not in the ordinary course of business,
+d. guarantees or undertakings for the benefit of an
+affiliate which result in an actual contingent
+exposure of the insurer's assets to liability, other
+than insurance contracts entered into in the ordinary
+course of the insurer's business,
+e. all management agreements, service contracts and all
+cost-sharing arrangements,
+f. reinsurance agreements,
+g. dividends and other distributions to shareholders, and
+h. consolidated tax allocation agreements;
+
+Section 31:
+4. Any pledge of the insurer's stock, including stock of any
+subsidiary or controlling affiliate, for a loan made to any member
+of the insurance holding company system;
+
+Section 32:
+5. If requested by the Commissioner, the insurer shall include
+financial statements of or within an insurance holding company
+system, including all affiliates. Financial statements may include
+but are not limited to annual audited financial statements filed
+with the U.S. Securities and Exchange Commission (SEC) pursuant to
+the Securities Act of 1933, as amended, or the Securities Exchange
+Act of 1934, as amended. An insurer required to file financial
+statements pursuant to this paragraph may satisfy the request by
+providing the Commissioner with the most recently filed parent
+corporation financial statements that have been filed with the SEC;
+
+Section 33:
+6. Other matters concerning transactions between registered
+insurers and any affiliates as may be included from time to time in
+any registration forms adopted or approved by the Commissioner;
+
+Section 34:
+7. Statements that the insurer's board of directors oversees
+corporate governance and internal controls and that the insurer's
+officers or senior management have approved, implemented and
+continue to maintain and monitor corporate governance and internal
+control procedures; and
+ENR. H. B. NO. 1497 Page 6
+
+Section 35:
+8. Any other information required by the Commissioner by rule
+or regulation.
+C. All registration statements shall contain a summary
+outlining all items in the current registration statement
+representing changes from the prior registration statement.
+D. No information need be disclosed on the registration
+statement filed pursuant to subsection B of this section if the
+information is not material for the purposes of this section.
+Unless the Commissioner by rule, regulation or order provides
+otherwise, sales, purchases, exchanges, loans or extensions of
+credit, investments, or guarantees involving one-half of one percent
+(.5%) or less of an insurer's admitted assets as of December 31 next
+preceding shall not be deemed material for purposes of this section.
+The definition of materiality provided in this subsection shall not
+apply for purposes of the Group Capital Calculation Instructions or
+the Liquidity Stress Test Framework.
+E. Subject to subsection B of Section 6 1636 of this act title,
+each registered insurer shall report to the Commissioner all
+dividends and other distributions to shareholders within fifteen
+(15) business days following the declaration thereof.
+F. Any person within an insurance holding company system
+subject to registration shall be required to provide complete and
+accurate information to an insurer, where the information is
+reasonably necessary to enable the insurer to comply with the
+provisions of this act.
+G. The Commissioner shall terminate the registration of any
+insurer which demonstrates that it no longer is a member of an
+insurance holding company system.
+H. The Commissioner may require or allow two or more affiliated
+insurers subject to registration to file a consolidated registration
+statement.
+I. The Commissioner may allow an insurer which is authorized to
+do business in this state and which is part of an insurance holding
+company system to register on behalf of any affiliated insurer which
+is required to register under subsection A of this section and to
+file all information and material required to be filed under this
+
+Section 36:
+section.
+ENR. H. B. NO. 1497 Page 7
+J. The provisions of this section shall not apply to any
+insurer, information or transaction if and to the extent that the
+Commissioner by rule, regulation or order shall exempt the same from
+the provisions of this section.
+K. Any person may file with the Commissioner a disclaimer of
+affiliation with any authorized insurer or a disclaimer may be filed
+by the insurer or any member of an insurance holding company system.
+The disclaimer shall fully disclose all material relationships and
+bases for affiliation between the person and the insurer as well as
+the basis for disclaiming the affiliation. A disclaimer of
+affiliation shall be deemed to have been granted unless the
+Commissioner, within thirty (30) days following receipt of a
+complete disclaimer, notifies the filing party the disclaimer is
+disallowed. In the event of disallowance, the disclaiming party may
+request an administrative hearing, which shall be granted. The
+disclaiming party shall be relieved of its duty to register under
+this section if approval of the disclaimer has been granted by the
+Commissioner, or if the disclaimer is deemed to have been approved.
+L. 1. The ultimate controlling person of every insurer subject
+to registration shall also file an annual enterprise risk report.
+The report shall, to the best of the ultimate controlling person's
+knowledge and belief, identify the material risks within the
+insurance holding company system that could pose enterprise risk to
+the insurer. The report shall be filed with the lead state
+Commissioner of the insurance holding company system as determined
+by the procedures within the Financial Analysis Handbook adopted by
+the National Association of Insurance Commissioners.
+
+Section 37:
+2. Except as provided below, the ultimate controlling person of
+every insurer subject to registration shall concurrently file with
+the registration an annual group capital calculation as directed by
+the lead state Commissioner. The report shall be completed in
+accordance with the NAIC Group Capital Calculation Instructions,
+which may permit the lead state Commissioner to allow a controlling
+person that is not the ultimate controlling person to file the group
+capital calculation. The report shall be filed with the lead state
+Commissioner of the insurance holding company system as determined
+by the commissioner in accordance with the procedures within the
+Financial Analysis Handbook adopted by the NAIC. Insurance holding
+company systems described below are exempt from filing the group
+capital calculation:
+ENR. H. B. NO. 1497 Page 8
+a. an insurance holding company system that has only one
+insurer within its holding company structure, that
+only writes business in its domestic state, and
+assumes no business from any other insurer,
+b. an insurance holding company system that is required
+to perform a group capital calculation specified by
+the United States Federal Reserve Board. The lead
+state Commissioner shall request the calculation from
+the Federal Reserve Board under the terms of
+information sharing agreements in effect. If the
+Federal Reserve Board cannot share the calculation
+with the lead state Commissioner, the insurance
+holding company system is not exempt from the group
+capital calculation filing,
+c. an insurance holding company system whose non-United
+States group-wide supervisor is located within a
+reciprocal jurisdiction as described in Section 5122
+of Title 36 of the Oklahoma Statutes that recognizes
+the United States state regulatory approach to group
+supervision and group capital,
+d. an insurance holding company system:
+(1) that provides information to the lead state that
+meets the requirements for accreditation under
+the NAIC financial standards and accreditation
+program, either directly or indirectly through
+the group-wide supervisor, who has determined
+such information is satisfactory to allow the
+lead state to comply with the NAIC group
+supervision approach, as detailed in the NAIC
+Financial Analysis Handbook, and
+(2) whose non-United States group-wide supervisor
+that is not in a reciprocal jurisdiction
+recognizes and accepts, as specified by the
+commissioner in regulation, the group capital
+calculation as the world-wide group capital
+assessment for United States insurance groups who
+operate in that jurisdiction,
+e. notwithstanding the provisions of subparagraphs c and
+d of paragraph 2 of subsection L of this section, a
+ENR. H. B. NO. 1497 Page 9
+lead state Commissioner shall require the group
+capital calculation for U.S. operations of any non-
+United States-based insurance holding company system
+where, after any necessary consultation with other
+supervisors or officials, it is deemed appropriate by
+the lead state Commissioner for prudential oversight
+and solvency monitoring purposes or for ensuring the
+competitiveness of the insurance marketplace,
+f. notwithstanding the exemptions from filing the group
+capital calculation stated in subparagraphs a through
+d of paragraph 2 of subsection L of this section, the
+lead state Commissioner has the discretion to exempt
+the ultimate controlling person from filing the annual
+group capital calculation or to accept a limited group
+capital filing or report in accordance with criteria
+as specified by the commissioner in regulation, and
+g. if the lead state Commissioner determines that an
+insurance holding company system no longer meets one
+or more of the requirements for an exemption from
+filing the group capital calculation under this
+
+Section 38:
+section, the insurance holding company system shall
+file the group capital calculation at the next annual
+filing date unless given an extension by the lead
+state Commissioner based on reasonable grounds shown;
+
+Section 39:
+3. The ultimate controlling person of every insurer subject to
+registration and also scoped into the NAIC Liquidity Stress Test
+Framework shall file the results of a specific year's Liquidity
+Stress Test. The filing shall be made to the lead state insurance
+commissioner of the insurance holding company system as determined
+by the procedures within the Financial Analysis Handbook adopted by
+the NAIC:
+a. the NAIC Liquidity Stress Test Framework includes
+Scope Criteria applicable to a specific data year.
+These Scope Criteria are reviewed at least annually by
+the Financial Stability Task Force or its successor.
+Any change to the NAIC Liquidity Stress Test Framework
+or to the data year for which the Scope Criteria are
+to be measured shall be effective on January 1 of the
+year following the calendar year when such changes are
+adopted. Insurers meeting at least one threshold of
+the Scope Criteria are considered scoped into the NAIC
+ENR. H. B. NO. 1497 Page 10
+Liquidity Stress Test Framework for the specified data
+year unless the lead state insurance commissioner, in
+consultation with the NAIC Financial Stability Task
+Force or its successor, determines the insurer should
+not be scoped into the Framework for that data year.
+Similarly, insurers that do not trigger at least one
+threshold of the Scope Criteria are considered scoped
+out of the NAIC Liquidity Stress Test Framework for
+the specified data year, unless the lead state
+insurance commissioner, in consultation with the NAIC
+Financial Stability Task Force or its successor,
+determines the insurer should be scoped into the
+Framework for that data year. Regulators wish to
+avoid having insurers scoped in and out of the NAIC
+Liquidity Stress Test Framework on a frequent basis.
+The lead state insurance commissioner, in consultation
+with the Financial Stability Task Force or its
+successor, will assess this concern as part of the
+determination for an insurer, and
+b. the performance of, and filing of the results from, a
+specific year's Liquidity Stress Test shall comply
+with the NAIC Liquidity Stress Test Framework's
+instructions and reporting templates for that year and
+any lead state insurance commissioner determinations,
+in consultation with the Financial Stability Task
+Force or its successor, provided within the Framework.
+M. The failure to file a registration statement or any summary
+of the registration statement or enterprise risk filing required by
+this section within the time specified for filing shall be a
+violation of this section.
+
+Section 40:
+SECTION 3. AMENDATORY 36 O.S. 2021, Section 1640, is
+amended to read as follows:
+
+Section 41:
+Section 1640. A. Documents, materials or other information in
+the possession or control of the Insurance Department that are
+obtained by or disclosed to the Commissioner or any other person in
+the course of an examination or investigation made pursuant to
+
+Section 42:
+Section 7 1637 of this act title and all information reported or
+provided to the Insurance Department pursuant to paragraphs 12 and
+13 of subsection B of Section 3 1633 of this act title, Section 5
+1635 of this act title, Section 6 1636 of this act title, and
+
+Section 43:
+Section 11 1639 of this act title are recognized by this state as
+ENR. H. B. NO. 1497 Page 11
+being proprietary and containing trade secrets and shall be
+confidential by law and privileged, shall not be subject to open
+records, or freedom of information, shall not be subject to
+subpoena, and shall not be subject to discovery or admissible in
+evidence in any private civil action. However, the Commissioner is
+authorized to use the documents, materials or other information in
+the furtherance of any regulatory or legal action brought as a part
+of the Commissioner's official duties. The Commissioner shall not
+otherwise make the documents, materials or other information public
+without the prior written consent of the insurer to which it
+pertains unless the Commissioner, after giving the insurer and its
+affiliates who would be affected thereby notice and opportunity to
+be heard, determines that the interest of policyholders,
+shareholders or the public will be served by the publication
+thereof, in which event the Commissioner may publish all or any part
+in such manner as may be deemed appropriate.
+
+Section 44:
+1. For purposes of the information reported and provided to the
+Department of Insurance pursuant to paragraph 2 of subsection L of
+
+Section 45:
+Section 1635 of this title, the Commissioner shall maintain the
+confidentiality of the group capital calculation and group capital
+ratio produced within the calculation and any group capital
+information received from an insurance holding company supervised by
+the Federal Reserve Board or any United States group wide
+supervisor; and
+
+Section 46:
+2. For purposes of the information reported and provided to the
+Department of Insurance pursuant to paragraph 3 of subsection L of
+
+Section 47:
+Section 1635 of this title, the Commissioner shall maintain the
+confidentiality of the Liquidity Stress Test results and supporting
+disclosures and any Liquidity Stress Test information received from
+an insurance holding company supervised by the Federal Reserve Board
+and non-United-States group wide supervisors.
+B. Neither the Commissioner nor any person who received
+documents, materials or other information while acting under the
+authority of the Commissioner or with whom such documents, materials
+or other information are shared pursuant to this act shall be
+permitted or required to testify in any private civil action
+concerning any confidential documents, materials or information
+subject to subsection A of this section.
+C. In order to assist in the performance of the Commissioner's
+duties, the Commissioner:
+ENR. H. B. NO. 1497 Page 12
+
+Section 48:
+1. May share documents, materials or other information,
+including the confidential and privileged documents, materials or
+information subject to subsection A of this section, including
+proprietary and trade secret documents and materials, with other
+state, federal and international regulatory agencies, with the
+National Association of Insurance Commissioners (NAIC) and its
+affiliates and subsidiaries, with any third-party consultants
+designated by the Commissioner, and with state, federal and
+international law enforcement authorities, including members of any
+supervisory college described in Section 8 1638 of this act title,
+provided that the recipient agrees in writing to maintain the
+confidentiality and privileged status of the document, material or
+other information, and has verified in writing the legal authority
+to maintain confidentiality;
+
+Section 49:
+2. Notwithstanding paragraph 1 of this subsection, may only
+share confidential and privileged documents, material or information
+reported pursuant to paragraph 1 of subsection L of Section 5 1635
+of this act title with Commissioners of states having statutes or
+regulations substantially similar to subsection A of this section
+and who have agreed in writing not to disclose such information;
+
+Section 50:
+3. May receive documents, materials or information, including
+otherwise confidential and privileged documents, materials or
+information, including proprietary and trade-secret information,
+from the NAIC and its affiliates and subsidiaries and from
+regulatory and law enforcement officials of other foreign or
+domestic jurisdictions, and shall maintain as confidential or
+privileged any document, material or information received with
+notice or the understanding that it is confidential or privileged
+under the laws of the jurisdiction that is the source of the
+document, material or information; and
+
+Section 51:
+4. Shall enter into written agreements with the NAIC and any
+third-party consultant designated by the Commissioner governing
+sharing and use of information provided pursuant to this act
+consistent with this subsection that shall:
+a. specify procedures and protocols regarding the
+confidentiality and security of information shared
+with the NAIC and its affiliates and subsidiaries or a
+third-party consultant designated by the Commissioner
+pursuant to this act, including procedures and
+protocols for sharing by the NAIC with other state,
+federal or international regulators. The agreement
+ENR. H. B. NO. 1497 Page 13
+shall provide that the recipient agrees in writing to
+maintain the confidentiality and privileged status of
+the documents, materials or other information and has
+verified in writing the legal authority to maintain
+such confidentiality,
+b. specify that ownership of information shared with the
+NAIC and its affiliates and subsidiaries or a third-
+party consultant pursuant to this act remains with the
+Commissioner and the NAIC's or a third-party
+consultant's, as designated by the Commissioner, use
+of the information is subject to the direction of the
+Commissioner,
+c. excluding documents, material or information reported
+pursuant to paragraph 3 of subsection L of Section
+1635 of this title, prohibit the NAIC or third-party
+consultant designated by the Commissioner from storing
+the information shared pursuant to this act in a
+permanent database after the underlying analysis is
+completed,
+d. require prompt notice to be given to an insurer whose
+confidential information in the possession of the NAIC
+or a third-party consultant designated by the
+Commissioner pursuant to this act is subject to a
+request or subpoena to the NAIC or a third-party
+consultant designated by the Commissioner for
+disclosure or production, and
+d.
+e. require the NAIC and its affiliates and subsidiaries
+or a third-party consultant designated by the
+Commissioner to consent to intervention by an insurer
+in any judicial or administrative action in which the
+NAIC and its affiliates and subsidiaries or a third-
+party consultant designated by the Commissioner may be
+required to disclose confidential information about
+the insurer shared with the NAIC and its affiliates
+and subsidiaries or a third-party consultant
+designated by the Commissioner pursuant to this act.
+f. for documents, material or information reported
+pursuant to paragraph 3 of subsection L of Section
+ENR. H. B. NO. 1497 Page 14
+1635 of this title, in the case of an agreement
+involving a third-party consultant, provide for
+notification of the identity of the consultant to the
+applicable insurers.
+D. The sharing of information by the Commissioner pursuant to
+this act shall not constitute a delegation of regulatory authority
+or rulemaking, and the Commissioner is solely responsible for the
+administration, execution and enforcement of the provisions of this
+act.
+E. No waiver of any applicable privilege or claim of
+confidentiality in the documents, materials or information shall
+occur as a result of disclosure to the Commissioner under this
+
+Section 52:
+section or as a result of sharing as authorized in subsection C of
+this section.
+F. Documents, materials or other information in the possession
+or control of the NAIC or a third-party consultant designated by the
+Commissioner pursuant to this act shall be confidential by law and
+privileged, shall not be subject to open records or freedom of
+information, shall not be subject to subpoena, and shall not be
+subject to discovery or admissible in evidence in any private civil
+action.
+G. The group capital calculation and resulting group capital
+ratio required under paragraph 2 of subsection L of Section 1635 of
+this title and the Liquidity Stress Test along with its results and
+supporting disclosures required under paragraph 3 of subsection L of
+
+Section 53:
+Section 1635 of this title are regulatory tools for assessing group
+risks and capital adequacy and group liquidity risks, respectively,
+and are not intended as a means to rank insurers or insurance
+holding company systems generally. Therefore, except as otherwise
+may be required under the provisions of this title, the making,
+publishing, disseminating, circulating or placing before the public,
+or causing directly or indirectly to be made, published,
+disseminated, circulated or placed before the public in a newspaper,
+magazine or other publication, or in the form of a notice, circular,
+pamphlet, letter or poster, or over any radio or television station
+or any electronic means of communication available to the public, or
+in any other way as an advertisement, announcement or statement
+containing a representation or statement with regard to the group
+capital calculation, group capital ratio, the Liquidity Stress Test
+results, or supporting disclosures for the Liquidity Stress Test of
+any insurer or any insurer group, or of any component derived in the
+ENR. H. B. NO. 1497 Page 15
+calculation by an insurer, broker, or other person engaged in any
+manner in the insurance business would be misleading and is
+therefore prohibited; provided however, that if any materially false
+statement with respect to the group capital calculation, resulting
+group capital ratio, an inappropriate comparison of any amount to an
+insurer's or insurance group's group capital calculation or
+resulting group capital ratio, Liquidity Stress Test result,
+supporting disclosures for the Liquidity Stress Test, or an
+inappropriate comparison of any amount to an insurer's or insurance
+group's Liquidity Stress Test result or supporting disclosures is
+published in any written publication and the insurer is able to
+demonstrate to the Commissioner with substantial proof the falsity
+of such statement or the inappropriateness, as the case may be, then
+the insurer may publish announcements in a written publication if
+the sole purpose of the announcement is to rebut the materially
+false statement.
+
+Section 54:
+SECTION 4. This act shall become effective November 1, 2025.
+ENR. H. B. NO. 1497 Page 16
+Passed the House of Representatives the 24th day of March, 2025.
+Presiding Officer of the House
+of Representatives
+Passed the Senate the 8th day of May, 2025.
+Presiding Officer of the Senate
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. H. B. NO. 1497 Page 17
+ENR. H. B. NO. 1497 Page 18
+[DELETED:  B T   a R]
+[DELETED:  P]
+[DELETED:  P i m p t b]
+[DELETED:  P]
+[DELETED:  P l]
+[DELETED:  P p t g a r d c]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a a a a t w n]
+[DELETED:  P n i t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P s]
+[DELETED:  P s e r r f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPoP_G]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+An Act
+ENROLLED HOUSE
+BILL NO. 1497 By: Tedford of the House
+and
+Reinhardt of the Senate
+An Act relating to insurance; amending 36 O.S. 2021,
+Section 1631, which relates to definitions; providing
+definitions; amending 36 O.S. 2021, Section 1635,
+which relates to registration of insurers; clarifying
+applicability of statute; requiring certain report;
+specifying report details; requiring Liquidity Stress
+Test; amending 36 O.S. 2021, Section 1640, which
+relates to confidentiality of documents and other
+information; updating citations; clarifying certain
+documents, materials, or other information is
+proprietary and contains trade secrets; directing
+Commissioner to maintain the confidentiality of
+certain information; and providing an effective date.
+SUBJECT: Insurance
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1. AMENDATORY 36 O.S. 2021, Section 1631, is
+amended to read as follows:
+Section 1631. As used in this act, the following terms shall
+have these meanings unless the context shall otherwise require:
+1. "Affiliate of" or person "affiliated with" a specific person
+means a person that directly, or indirectly through one or more
+intermediaries, controls, or is controlled by, or is under common
+control with, the person specified;
+
+2. "Commissioner" means the Insurance Commissioner of the State
+of Oklahoma, the Commissioner's deputies, or the Insurance
+Department, as appropriate;
+3. "Control" includes the terms "controlling", "controlled by"
+and "under common control with" and means the possession, direct or
+indirect, of the power to direct or cause the direction of the
+management and policies of a person, whether through the ownership
+of voting securities, by contract other than a commercial contract
+for goods or nonmanagement services, or otherwise, unless the power
+is the result of an official position or corporate office held by
+the person. Control shall be presumed to exist if any person,
+directly or indirectly, owns, controls, holds with the power to
+vote, or holds proxies representing, ten percent (10%) or more of
+the voting securities of any other person. This presumption may be
+rebutted by a showing made in the manner provided by subsection K of
+Section 5 1635 of this act title that control does not exist in
+fact. The Commissioner may determine, after furnishing all persons
+in interest notice and opportunity to be heard and making specific
+findings of fact to support the determination that control exists in
+fact, notwithstanding the absence of a presumption to that effect;
+4. "Group-wide supervisor" means the regulatory official
+authorized to engage in conducting and coordinating group-wide
+supervision activities who is determined or acknowledged by the
+Commissioner under Section 9 1639 of this act title to have
+sufficient significant contacts with the internationally active
+insurance group;
+5. "Group Capital Calculation Instructions" means the group
+capital calculation instructions as adopted by the NAIC and as
+amended by the NAIC from time to time in accordance with the
+procedures adopted by the NAIC;
+6. "Insurance holding company system" means an insurance
+holding company system consisting of two or more affiliated persons,
+one or more of which is an insurer;
+6. 7. "Insurer" has the same meaning as set forth in Section
+103 of Title 36 of the Oklahoma Statutes, except that it shall not
+include agencies, authorities or instrumentalities of the United
+States, its possessions and territories, the Commonwealth of Puerto
+Rico, the District of Columbia, or a state or political subdivision
+of a state;
+ENR. H. B. NO. 1497 Page 2
+
+7. 8. "Internationally active insurance group" means an
+insurance holding company system that:
+a. includes an insurer registered under Section 5 1635 of
+this act title, and
+b. meets the following criteria:
+(1) premiums written in at least three countries,
+(2) the percentage of gross premiums written outside
+the United States is at least ten percent (10%)
+of the insurance holding company system's total
+gross written premiums, and
+(3) based on a three-year rolling average, the total
+assets of the insurance holding company system
+are at least Fifty Billion Dollars
+($50,000,000,000.00) or the total gross written
+premiums of the insurance holding company system
+are at least Ten Billion Dollars
+($10,000,000,000.00);
+8. 9. "Enterprise risk" means any activity, circumstance, event
+or series of events involving one or more affiliates of an insurer
+that, if not remedied promptly, is likely to have a material adverse
+effect upon the financial condition or liquidity of the insurer or
+its insurance holding company system as a whole, including, but not
+limited to, anything that would cause the insurer's risk-based
+capital to fall into company action level as set forth in the Risk-
+based Capital for Insurers Act provided in Sections 1521 through
+1533 of Title 36 of the Oklahoma Statues Statutes, or would cause
+the insurer to be in hazardous financial condition pursuant to rules
+promulgated by the Insurance Department;
+9. 10. "NAIC" means the National Association of Insurance
+Commissioners;
+11. "NAIC Liquidity Stress Test Framework" means a separate
+NAIC publication which includes a history of the NAIC's development
+of regulatory Liquidity Stress Testing, the Scope Criteria
+applicable for a specific data year, and the Liquidity Stress Test
+instructions and reporting templates for a specific data year, such
+Scope Criteria, instructions and reporting template being as adopted
+ENR. H. B. NO. 1497 Page 3
+
+by the NAIC and as amended by the NAIC from time to time in
+accordance with the procedures adopted by the NAIC;
+12. "Person" means an individual, a corporation, a limited
+liability company, a partnership, an association, a joint stock
+company, a trust, an unincorporated organization, any similar entity
+or any combination of the foregoing acting in concert, but shall not
+include any joint venture partnership exclusively engaged in owning,
+managing, leasing or developing real or tangible personal property;
+10. 13. "Scope Criteria" means, as detailed in the NAIC
+Liquidity Stress Framework, the designated exposure bases along with
+minimum magnitudes thereof for the specified data year, used to
+establish a preliminary list of insurers considered scoped into the
+NAIC Liquidity Stress Test Framework for that data year;
+14. "Securityholder" of a specified person means one who owns
+any security of such person, including common stock, preferred
+stock, debt obligations and any other security convertible into or
+evidencing the right to acquire any of the foregoing;
+11. 15. "Subsidiary" of a specified person means an affiliate
+controlled by such person directly or indirectly through one or more
+intermediaries; and
+12. 16. "Voting security" means any security convertible into
+or evidencing a right to acquire a voting security.
+SECTION 2. AMENDATORY 36 O.S. 2021, Section 1635, is
+amended to read as follows:
+Section 1635. A. Every insurer which is authorized to do
+business in this state and which is a member of an insurance holding
+company system shall register with the Insurance Commissioner,
+except a foreign insurer subject to registration requirements and
+standards adopted by statute or regulation in the jurisdiction of
+its domicile which are substantially similar to those contained in:
+1. This section;
+2. Paragraph 1 of subsection A of Section 6 1636 of this act
+title and subsections B and D of Section 6 1636 of this act title;
+and
+ENR. H. B. NO. 1497 Page 4
+
+3. Either paragraph 2 of subsection A of Section 6 1636 of this
+act title or a provision such as the following: Each registered
+insurer shall keep current the information required to be disclosed
+in its registration statement by reporting all material changes or
+additions within fifteen (15) days after the end of the month in
+which it learns of each change or addition; provided, however, that
+subject to subsection B of Section 6 1636 of this act title, each
+registered insurer shall so report all dividends and other
+distributions to shareholders within two (2) business days following
+the declaration thereof.
+Any insurer which is subject to registration under this section
+shall register within fifteen (15) days after it becomes subject to
+registration, and annually thereafter by May 1 of each year for the
+previous calendar year, unless the Commissioner for good cause shown
+extends the time for registration, and then within the extended
+time. The Commissioner may require any insurer authorized to do
+business in the state which is a member of an insurance holding
+company system, and which is not subject to registration under this
+section, to furnish a copy of the registration statement, the
+summary specified in subsection C of this section or other
+information filed by the insurance company with the insurance
+regulatory authority of its domiciliary jurisdiction.
+B. Every insurer subject to registration shall file the
+registration statement with the Commissioner on a form and in a
+format prescribed by the National Association of Insurance
+Commissioners (NAIC), which shall contain the following current
+information:
+1. The capital structure, general financial condition,
+ownership and management of the insurer and any person controlling
+the insurer;
+2. The identity and relationship of every member of the
+insurance holding company system;
+3. The following agreements in force, and transactions
+currently outstanding or which have occurred during the last
+calendar year between the insurer and its affiliates:
+a. loans, other investments, or purchases, sales or
+exchanges of securities of the affiliates by the
+insurer or of the insurer by its affiliates,
+ENR. H. B. NO. 1497 Page 5
+
+b. purchases, sales or exchange of assets,
+c. transactions not in the ordinary course of business,
+d. guarantees or undertakings for the benefit of an
+affiliate which result in an actual contingent
+exposure of the insurer's assets to liability, other
+than insurance contracts entered into in the ordinary
+course of the insurer's business,
+e. all management agreements, service contracts and all
+cost-sharing arrangements,
+f. reinsurance agreements,
+g. dividends and other distributions to shareholders, and
+h. consolidated tax allocation agreements;
+4. Any pledge of the insurer's stock, including stock of any
+subsidiary or controlling affiliate, for a loan made to any member
+of the insurance holding company system;
+5. If requested by the Commissioner, the insurer shall include
+financial statements of or within an insurance holding company
+system, including all affiliates. Financial statements may include
+but are not limited to annual audited financial statements filed
+with the U.S. Securities and Exchange Commission (SEC) pursuant to
+the Securities Act of 1933, as amended, or the Securities Exchange
+Act of 1934, as amended. An insurer required to file financial
+statements pursuant to this paragraph may satisfy the request by
+providing the Commissioner with the most recently filed parent
+corporation financial statements that have been filed with the SEC;
+6. Other matters concerning transactions between registered
+insurers and any affiliates as may be included from time to time in
+any registration forms adopted or approved by the Commissioner;
+7. Statements that the insurer's board of directors oversees
+corporate governance and internal controls and that the insurer's
+officers or senior management have approved, implemented and
+continue to maintain and monitor corporate governance and internal
+control procedures; and
+ENR. H. B. NO. 1497 Page 6
+
+8. Any other information required by the Commissioner by rule
+or regulation.
+C. All registration statements shall contain a summary
+outlining all items in the current registration statement
+representing changes from the prior registration statement.
+D. No information need be disclosed on the registration
+statement filed pursuant to subsection B of this section if the
+information is not material for the purposes of this section.
+Unless the Commissioner by rule, regulation or order provides
+otherwise, sales, purchases, exchanges, loans or extensions of
+credit, investments, or guarantees involving one-half of one percent
+(.5%) or less of an insurer's admitted assets as of December 31 next
+preceding shall not be deemed material for purposes of this section.
+The definition of materiality provided in this subsection shall not
+apply for purposes of the Group Capital Calculation Instructions or
+the Liquidity Stress Test Framework.
+E. Subject to subsection B of Section 6 1636 of this act title,
+each registered insurer shall report to the Commissioner all
+dividends and other distributions to shareholders within fifteen
+(15) business days following the declaration thereof.
+F. Any person within an insurance holding company system
+subject to registration shall be required to provide complete and
+accurate information to an insurer, where the information is
+reasonably necessary to enable the insurer to comply with the
+provisions of this act.
+G. The Commissioner shall terminate the registration of any
+insurer which demonstrates that it no longer is a member of an
+insurance holding company system.
+H. The Commissioner may require or allow two or more affiliated
+insurers subject to registration to file a consolidated registration
+statement.
+I. The Commissioner may allow an insurer which is authorized to
+do business in this state and which is part of an insurance holding
+company system to register on behalf of any affiliated insurer which
+is required to register under subsection A of this section and to
+file all information and material required to be filed under this
+section.
+ENR. H. B. NO. 1497 Page 7
+
+J. The provisions of this section shall not apply to any
+insurer, information or transaction if and to the extent that the
+Commissioner by rule, regulation or order shall exempt the same from
+the provisions of this section.
+K. Any person may file with the Commissioner a disclaimer of
+affiliation with any authorized insurer or a disclaimer may be filed
+by the insurer or any member of an insurance holding company system.
+The disclaimer shall fully disclose all material relationships and
+bases for affiliation between the person and the insurer as well as
+the basis for disclaiming the affiliation. A disclaimer of
+affiliation shall be deemed to have been granted unless the
+Commissioner, within thirty (30) days following receipt of a
+complete disclaimer, notifies the filing party the disclaimer is
+disallowed. In the event of disallowance, the disclaiming party may
+request an administrative hearing, which shall be granted. The
+disclaiming party shall be relieved of its duty to register under
+this section if approval of the disclaimer has been granted by the
+Commissioner, or if the disclaimer is deemed to have been approved.
+L. 1. The ultimate controlling person of every insurer subject
+to registration shall also file an annual enterprise risk report.
+The report shall, to the best of the ultimate controlling person's
+knowledge and belief, identify the material risks within the
+insurance holding company system that could pose enterprise risk to
+the insurer. The report shall be filed with the lead state
+Commissioner of the insurance holding company system as determined
+by the procedures within the Financial Analysis Handbook adopted by
+the National Association of Insurance Commissioners.
+2. Except as provided below, the ultimate controlling person of
+every insurer subject to registration shall concurrently file with
+the registration an annual group capital calculation as directed by
+the lead state Commissioner. The report shall be completed in
+accordance with the NAIC Group Capital Calculation Instructions,
+which may permit the lead state Commissioner to allow a controlling
+person that is not the ultimate controlling person to file the group
+capital calculation. The report shall be filed with the lead state
+Commissioner of the insurance holding company system as determined
+by the commissioner in accordance with the procedures within the
+Financial Analysis Handbook adopted by the NAIC. Insurance holding
+company systems described below are exempt from filing the group
+capital calculation:
+ENR. H. B. NO. 1497 Page 8
+
+a. an insurance holding company system that has only one
+insurer within its holding company structure, that
+only writes business in its domestic state, and
+assumes no business from any other insurer,
+b. an insurance holding company system that is required
+to perform a group capital calculation specified by
+the United States Federal Reserve Board. The lead
+state Commissioner shall request the calculation from
+the Federal Reserve Board under the terms of
+information sharing agreements in effect. If the
+Federal Reserve Board cannot share the calculation
+with the lead state Commissioner, the insurance
+holding company system is not exempt from the group
+capital calculation filing,
+c. an insurance holding company system whose non-United
+States group-wide supervisor is located within a
+reciprocal jurisdiction as described in Section 5122
+of Title 36 of the Oklahoma Statutes that recognizes
+the United States state regulatory approach to group
+supervision and group capital,
+d. an insurance holding company system:
+(1) that provides information to the lead state that
+meets the requirements for accreditation under
+the NAIC financial standards and accreditation
+program, either directly or indirectly through
+the group-wide supervisor, who has determined
+such information is satisfactory to allow the
+lead state to comply with the NAIC group
+supervision approach, as detailed in the NAIC
+Financial Analysis Handbook, and
+(2) whose non-United States group-wide supervisor
+that is not in a reciprocal jurisdiction
+recognizes and accepts, as specified by the
+commissioner in regulation, the group capital
+calculation as the world-wide group capital
+assessment for United States insurance groups who
+operate in that jurisdiction,
+e. notwithstanding the provisions of subparagraphs c and
+d of paragraph 2 of subsection L of this section, a
+ENR. H. B. NO. 1497 Page 9
+
+lead state Commissioner shall require the group
+capital calculation for U.S. operations of any non-
+United States-based insurance holding company system
+where, after any necessary consultation with other
+supervisors or officials, it is deemed appropriate by
+the lead state Commissioner for prudential oversight
+and solvency monitoring purposes or for ensuring the
+competitiveness of the insurance marketplace,
+f. notwithstanding the exemptions from filing the group
+capital calculation stated in subparagraphs a through
+d of paragraph 2 of subsection L of this section, the
+lead state Commissioner has the discretion to exempt
+the ultimate controlling person from filing the annual
+group capital calculation or to accept a limited group
+capital filing or report in accordance with criteria
+as specified by the commissioner in regulation, and
+g. if the lead state Commissioner determines that an
+insurance holding company system no longer meets one
+or more of the requirements for an exemption from
+filing the group capital calculation under this
+section, the insurance holding company system shall
+file the group capital calculation at the next annual
+filing date unless given an extension by the lead
+state Commissioner based on reasonable grounds shown;
+3. The ultimate controlling person of every insurer subject to
+registration and also scoped into the NAIC Liquidity Stress Test
+Framework shall file the results of a specific year's Liquidity
+Stress Test. The filing shall be made to the lead state insurance
+commissioner of the insurance holding company system as determined
+by the procedures within the Financial Analysis Handbook adopted by
+the NAIC:
+a. the NAIC Liquidity Stress Test Framework includes
+Scope Criteria applicable to a specific data year.
+These Scope Criteria are reviewed at least annually by
+the Financial Stability Task Force or its successor.
+Any change to the NAIC Liquidity Stress Test Framework
+or to the data year for which the Scope Criteria are
+to be measured shall be effective on January 1 of the
+year following the calendar year when such changes are
+adopted. Insurers meeting at least one threshold of
+the Scope Criteria are considered scoped into the NAIC
+ENR. H. B. NO. 1497 Page 10
+
+Liquidity Stress Test Framework for the specified data
+year unless the lead state insurance commissioner, in
+consultation with the NAIC Financial Stability Task
+Force or its successor, determines the insurer should
+not be scoped into the Framework for that data year.
+Similarly, insurers that do not trigger at least one
+threshold of the Scope Criteria are considered scoped
+out of the NAIC Liquidity Stress Test Framework for
+the specified data year, unless the lead state
+insurance commissioner, in consultation with the NAIC
+Financial Stability Task Force or its successor,
+determines the insurer should be scoped into the
+Framework for that data year. Regulators wish to
+avoid having insurers scoped in and out of the NAIC
+Liquidity Stress Test Framework on a frequent basis.
+The lead state insurance commissioner, in consultation
+with the Financial Stability Task Force or its
+successor, will assess this concern as part of the
+determination for an insurer, and
+b. the performance of, and filing of the results from, a
+specific year's Liquidity Stress Test shall comply
+with the NAIC Liquidity Stress Test Framework's
+instructions and reporting templates for that year and
+any lead state insurance commissioner determinations,
+in consultation with the Financial Stability Task
+Force or its successor, provided within the Framework.
+M. The failure to file a registration statement or any summary
+of the registration statement or enterprise risk filing required by
+this section within the time specified for filing shall be a
+violation of this section.
+SECTION 3. AMENDATORY 36 O.S. 2021, Section 1640, is
+amended to read as follows:
+Section 1640. A. Documents, materials or other information in
+the possession or control of the Insurance Department that are
+obtained by or disclosed to the Commissioner or any other person in
+the course of an examination or investigation made pursuant to
+Section 7 1637 of this act title and all information reported or
+provided to the Insurance Department pursuant to paragraphs 12 and
+13 of subsection B of Section 3 1633 of this act title, Section 5
+1635 of this act title, Section 6 1636 of this act title, and
+Section 11 1639 of this act title are recognized by this state as
+ENR. H. B. NO. 1497 Page 11
+
+being proprietary and containing trade secrets and shall be
+confidential by law and privileged, shall not be subject to open
+records, or freedom of information, shall not be subject to
+subpoena, and shall not be subject to discovery or admissible in
+evidence in any private civil action. However, the Commissioner is
+authorized to use the documents, materials or other information in
+the furtherance of any regulatory or legal action brought as a part
+of the Commissioner's official duties. The Commissioner shall not
+otherwise make the documents, materials or other information public
+without the prior written consent of the insurer to which it
+pertains unless the Commissioner, after giving the insurer and its
+affiliates who would be affected thereby notice and opportunity to
+be heard, determines that the interest of policyholders,
+shareholders or the public will be served by the publication
+thereof, in which event the Commissioner may publish all or any part
+in such manner as may be deemed appropriate.
+1. For purposes of the information reported and provided to the
+Department of Insurance pursuant to paragraph 2 of subsection L of
+Section 1635 of this title, the Commissioner shall maintain the
+confidentiality of the group capital calculation and group capital
+ratio produced within the calculation and any group capital
+information received from an insurance holding company supervised by
+the Federal Reserve Board or any United States group wide
+supervisor; and
+2. For purposes of the information reported and provided to the
+Department of Insurance pursuant to paragraph 3 of subsection L of
+Section 1635 of this title, the Commissioner shall maintain the
+confidentiality of the Liquidity Stress Test results and supporting
+disclosures and any Liquidity Stress Test information received from
+an insurance holding company supervised by the Federal Reserve Board
+and non-United-States group wide supervisors.
+B. Neither the Commissioner nor any person who received
+documents, materials or other information while acting under the
+authority of the Commissioner or with whom such documents, materials
+or other information are shared pursuant to this act shall be
+permitted or required to testify in any private civil action
+concerning any confidential documents, materials or information
+subject to subsection A of this section.
+C. In order to assist in the performance of the Commissioner's
+duties, the Commissioner:
+ENR. H. B. NO. 1497 Page 12
+
+1. May share documents, materials or other information,
+including the confidential and privileged documents, materials or
+information subject to subsection A of this section, including
+proprietary and trade secret documents and materials, with other
+state, federal and international regulatory agencies, with the
+National Association of Insurance Commissioners (NAIC) and its
+affiliates and subsidiaries, with any third-party consultants
+designated by the Commissioner, and with state, federal and
+international law enforcement authorities, including members of any
+supervisory college described in Section 8 1638 of this act title,
+provided that the recipient agrees in writing to maintain the
+confidentiality and privileged status of the document, material or
+other information, and has verified in writing the legal authority
+to maintain confidentiality;
+2. Notwithstanding paragraph 1 of this subsection, may only
+share confidential and privileged documents, material or information
+reported pursuant to paragraph 1 of subsection L of Section 5 1635
+of this act title with Commissioners of states having statutes or
+regulations substantially similar to subsection A of this section
+and who have agreed in writing not to disclose such information;
+3. May receive documents, materials or information, including
+otherwise confidential and privileged documents, materials or
+information, including proprietary and trade-secret information,
+from the NAIC and its affiliates and subsidiaries and from
+regulatory and law enforcement officials of other foreign or
+domestic jurisdictions, and shall maintain as confidential or
+privileged any document, material or information received with
+notice or the understanding that it is confidential or privileged
+under the laws of the jurisdiction that is the source of the
+document, material or information; and
+4. Shall enter into written agreements with the NAIC and any
+third-party consultant designated by the Commissioner governing
+sharing and use of information provided pursuant to this act
+consistent with this subsection that shall:
+a. specify procedures and protocols regarding the
+confidentiality and security of information shared
+with the NAIC and its affiliates and subsidiaries or a
+third-party consultant designated by the Commissioner
+pursuant to this act, including procedures and
+protocols for sharing by the NAIC with other state,
+federal or international regulators. The agreement
+ENR. H. B. NO. 1497 Page 13
+
+shall provide that the recipient agrees in writing to
+maintain the confidentiality and privileged status of
+the documents, materials or other information and has
+verified in writing the legal authority to maintain
+such confidentiality,
+b. specify that ownership of information shared with the
+NAIC and its affiliates and subsidiaries or a third-
+party consultant pursuant to this act remains with the
+Commissioner and the NAIC's or a third-party
+consultant's, as designated by the Commissioner, use
+of the information is subject to the direction of the
+Commissioner,
+c. excluding documents, material or information reported
+pursuant to paragraph 3 of subsection L of Section
+1635 of this title, prohibit the NAIC or third-party
+consultant designated by the Commissioner from storing
+the information shared pursuant to this act in a
+permanent database after the underlying analysis is
+completed,
+d. require prompt notice to be given to an insurer whose
+confidential information in the possession of the NAIC
+or a third-party consultant designated by the
+Commissioner pursuant to this act is subject to a
+request or subpoena to the NAIC or a third-party
+consultant designated by the Commissioner for
+disclosure or production, and
+d.
+e. require the NAIC and its affiliates and subsidiaries
+or a third-party consultant designated by the
+Commissioner to consent to intervention by an insurer
+in any judicial or administrative action in which the
+NAIC and its affiliates and subsidiaries or a third-
+party consultant designated by the Commissioner may be
+required to disclose confidential information about
+the insurer shared with the NAIC and its affiliates
+and subsidiaries or a third-party consultant
+designated by the Commissioner pursuant to this act.
+f. for documents, material or information reported
+pursuant to paragraph 3 of subsection L of Section
+ENR. H. B. NO. 1497 Page 14
+
+1635 of this title, in the case of an agreement
+involving a third-party consultant, provide for
+notification of the identity of the consultant to the
+applicable insurers.
+D. The sharing of information by the Commissioner pursuant to
+this act shall not constitute a delegation of regulatory authority
+or rulemaking, and the Commissioner is solely responsible for the
+administration, execution and enforcement of the provisions of this
+act.
+E. No waiver of any applicable privilege or claim of
+confidentiality in the documents, materials or information shall
+occur as a result of disclosure to the Commissioner under this
+section or as a result of sharing as authorized in subsection C of
+this section.
+F. Documents, materials or other information in the possession
+or control of the NAIC or a third-party consultant designated by the
+Commissioner pursuant to this act shall be confidential by law and
+privileged, shall not be subject to open records or freedom of
+information, shall not be subject to subpoena, and shall not be
+subject to discovery or admissible in evidence in any private civil
+action.
+G. The group capital calculation and resulting group capital
+ratio required under paragraph 2 of subsection L of Section 1635 of
+this title and the Liquidity Stress Test along with its results and
+supporting disclosures required under paragraph 3 of subsection L of
+Section 1635 of this title are regulatory tools for assessing group
+risks and capital adequacy and group liquidity risks, respectively,
+and are not intended as a means to rank insurers or insurance
+holding company systems generally. Therefore, except as otherwise
+may be required under the provisions of this title, the making,
+publishing, disseminating, circulating or placing before the public,
+or causing directly or indirectly to be made, published,
+disseminated, circulated or placed before the public in a newspaper,
+magazine or other publication, or in the form of a notice, circular,
+pamphlet, letter or poster, or over any radio or television station
+or any electronic means of communication available to the public, or
+in any other way as an advertisement, announcement or statement
+containing a representation or statement with regard to the group
+capital calculation, group capital ratio, the Liquidity Stress Test
+results, or supporting disclosures for the Liquidity Stress Test of
+any insurer or any insurer group, or of any component derived in the
+ENR. H. B. NO. 1497 Page 15
+
+calculation by an insurer, broker, or other person engaged in any
+manner in the insurance business would be misleading and is
+therefore prohibited; provided however, that if any materially false
+statement with respect to the group capital calculation, resulting
+group capital ratio, an inappropriate comparison of any amount to an
+insurer's or insurance group's group capital calculation or
+resulting group capital ratio, Liquidity Stress Test result,
+supporting disclosures for the Liquidity Stress Test, or an
+inappropriate comparison of any amount to an insurer's or insurance
+group's Liquidity Stress Test result or supporting disclosures is
+published in any written publication and the insurer is able to
+demonstrate to the Commissioner with substantial proof the falsity
+of such statement or the inappropriateness, as the case may be, then
+the insurer may publish announcements in a written publication if
+the sole purpose of the announcement is to rebut the materially
+false statement.
+SECTION 4. This act shall become effective November 1, 2025.
+ENR. H. B. NO. 1497 Page 16
+
+Passed the House of Representatives the 24th day of March, 2025.
+Presiding Officer of the House
+of Representatives
+Passed the Senate the 8th day of May, 2025.
+Presiding Officer of the Senate
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. H. B. NO. 1497 Page 17
+
+ENR. H. B. NO. 1497 Page 18
+
+[DELETED:  B T   a R]
+[DELETED:  P]
+[DELETED:  P i m p t b]
+[DELETED:  P]
+[DELETED:  P l]
+[DELETED:  P p t g a r d c]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a a a a t w n]
+[DELETED:  P n i t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P s]
+[DELETED:  P s e r r f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPoP_G]
+[DELETED:  P]

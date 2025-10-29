@@ -1,0 +1,346 @@
+Title: 3 HOUSE BILL 1576 By: Lawson
+Official Title: 3 HOUSE BILL 1576 By: Lawson
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to Medicaid; defining terms;
+requiring the Oklahoma Health Care Authority to
+8 provide coverage through Medicaid for certain
+services; providing certain criteria; providing for
+9 certain medical necessity criteria; authorizing
+discretion to the Chief Operating Officer of the
+10 Oklahoma Health Care Authority; providing for Health
+Information Portability and Accountability Act
+11 requirements; providing for scientific research;
+providing for consent to provide data for research;
+12 providing for opting-out; providing for minors;
+providing for the promulgation of rules and
+13 regulations; providing for waiver application;
+providing for codification; providing for an
+14 effective date; and declaring an emergency.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 4005 of Title 56, unless there
+20 is created a duplication in numbering, reads as follows:
+21 A. For purposes of this section, "rapid whole genome sequencing
+22 (RWGS)" is defined as an investigation of the entire human genome,
+23 including coding and non-coding regions and mitochondrial
+24 deoxyribonucleic acid, to identify disease-causing genetic changes
+Req. No. 10968 Page 1
+1 that returns the preliminary positive results within seven (7) days
+2 and final results within fifteen (15) to twenty-one (21) days from
+3 the date of receipt of the sample by the lab performing the test,
+4 and includes patient-only whole genome sequencing (WGS) and duo and
+5 trio whole genome sequencing of the patient and biological parent or
+6 parents.
+7 B. Subject to any required approval of the Centers for Medicare
+8 and Medicaid Services, the Oklahoma Health Care Authority shall
+9 include coverage of rapid whole genome sequencing as a separately
+10 payable service for Medicaid beneficiaries when all of the following
+11 criteria are met:
+12 1. Beneficiary is under twenty-one (21) years of age;
+13 2. Beneficiary has a complex or acute illness of unknown
+14 etiology, that is not confirmed to be caused by an environmental
+15 exposure, toxic ingestion, infection with normal response to
+16 therapy, or trauma; and
+17 3. Beneficiary is receiving hospital services in an intensive
+18 care unit or other high acuity care unit within a hospital.
+19 C. The coverage provided pursuant to this section may be
+20 subject to applicable evidence-based medical necessity criteria that
+21 shall be based on all of the following:
+22 1. The patient has symptoms that suggest a broad differential
+23 diagnosis that would require an evaluation by multiple genetic tests
+24 if rapid whole genome sequencing is not performed;
+Req. No. 10968 Page 2
+1 2. The patient's treating healthcare provider has determined
+2 that timely identification of a molecular diagnosis is necessary to
+3 guide clinical decision-making and testing results may guide the
+4 treatment or management of the patient's condition; and
+5 3. The patient has a complex or acute illness of unknown
+6 etiology, including at least one of the following conditions:
+7 a. congenital anomalies involving at least two organ
+8 systems or complex and multiple congenital anomalies
+9 in one organ system,
+10 b. specific organ malformations highly suggestive of a
+11 genetic etiology,
+12 c. abnormal laboratory tests or abnormal chemistry
+13 profiles suggesting the presence of a genetic disease,
+14 complex metabolic disorder, or inborn error of
+15 metabolism,
+16 d. refractory or severe hypoglycemia or hyperglycemia,
+17 e. abnormal response to therapy related to an underlying
+18 medical condition affecting vital organs or bodily
+19 systems,
+20 f. severe muscle weakness, rigidity, or spasticity,
+21 g. refractory seizures,
+22 h. a high-risk stratification on evaluation for a brief
+23 resolved unexplained event with any of the following:
+24 (1) a recurrent event without respiratory infection,
+Req. No. 10968 Page 3
+1 (2) a recurrent event witnessed seizure-like event,
+2 or
+3 (3) a recurrent cardiopulmonary resuscitation.
+4 i. abnormal cardiac diagnostic testing results suggestive
+5 of possible channelopathies, arrhythmias,
+6 cardiomyopathies, myocarditis, or structural heart
+7 disease,
+8 j. abnormal diagnostic imaging studies suggestive of
+9 underlying genetic condition,
+10 k. abnormal physiologic function studies suggestive of an
+11 underlying genetic etiology, or
+12 l. family genetic history related to the patient's
+13 condition.
+14 D. Nothing in this section prohibits the Chief Operating
+15 Officer of the Oklahoma Health Care Authority from adding additional
+16 conditions to those contained in paragraph 3 of subsection C based
+17 upon new medical evidence or from providing coverage for rapid whole
+18 genome sequencing or other next generation sequencing (NGS) and
+19 genetic testing for Medicaid beneficiaries that is in addition to
+20 the coverage required under this section.
+21 E. Genetic data generated as a result of performing rapid whole
+22 genome sequencing, covered pursuant to this section, shall have a
+23 primary use of assisting the ordering health care professional and
+24 treating care team to diagnose and treat the patient, and as
+Req. No. 10968 Page 4
+1 prot ected health information it shall be subject to the requirements
+2 applicable to protected health information as set forth in the
+3 Health Information Portability and Accountability Act (HIPAA), the
+4 Health Information Technology for Economic and Clinical Health Act,
+5 and their attendant regulations, including but not limited to, the
+6 HIPAA privacy rule as promulgated at 45 CFR Part 160 and Subparts A
+7 and E of 45 CFR Part 164.
+8 F. Genetic data generated from rapid whole genome sequencing,
+9 covered pursuant to this section, can be used in scientific research
+10 if consent for such use of the data has been expressly given by the
+11 patient, or the patient's legal guardian in the case of a minor.
+12 The patient, the patient's legal guardian in the case of a minor, or
+13 the patient's health care provider with the patient's consent, may
+14 request access to the results of the testing covered by this section
+15 for use in other clinical settings. A health care provider may only
+16 charge a small fee to the patient based on the direct costs of
+17 producing the results in a format usable in other clinical settings.
+18 A patient, or patient's legal guardian in the case of a minor, shall
+19 have the right to rescind the original consent to the use of the
+20 data in scientific research at any time, and upon receipt of a
+21 written revocation of the consent the health care provider or other
+22 entity using the data shall cease use and expunge the data from any
+23 data repository where it is held.
+24
+Req. No. 10968 Page 5
+1 G. The Chief Operating Officer of the Oklahoma Health Care
+2 Authority will take any actions necessary to implement the
+3 provisions of this section, which can include, if deemed necessary,
+4 the following:
+5 1. Promulgation of rules and regulations to provide for
+6 Medicaid coverage pursuant to this section;
+7 2. Submission to the Centers for Medicare and Medicaid Services
+8 of any new waiver application, amendment to an existing waiver, or
+9 Medicaid state plan amendment necessary to ensure federal financial
+10 participation for Medicaid coverage pursuant to this section; or
+11 3. Any other administrative action determined by the Chief
+12 Operating Officer as necessary to implement the requirements of this
+13 section.
+14 SECTION 2. This act shall become effective July 1, 2025.
+15 SECTION 3. It being immediately necessary for the preservation
+16 of the public peace, health or safety, an emergency is hereby
+17 declared to exist, by reason whereof this act shall take effect and
+18 be in full force from and after its passage and approval.
+19
+20 60-1-10968 TJ 12/17/24
+21
+22
+23
+24
+Req. No. 10968 Page 6
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P c s a r a s r a a]
+[DELETED:  P a a a a a f]
+[DELETED:  P]
+[DELETED:  P T 1]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 HOUSE BILL 1576 By: Lawson
+4
+5
+6 AS INTRODUCED
+7 An Act relating to Medicaid; defining terms;
+requiring the Oklahoma Health Care Authority to
+8 provide coverage through Medicaid for certain
+services; providing certain criteria; providing for
+9 certain medical necessity criteria; authorizing
+discretion to the Chief Operating Officer of the
+10 Oklahoma Health Care Authority; providing for Health
+Information Portability and Accountability Act
+11 requirements; providing for scientific research;
+providing for consent to provide data for research;
+12 providing for opting-out; providing for minors;
+providing for the promulgation of rules and
+13 regulations; providing for waiver application;
+providing for codification; providing for an
+14 effective date; and declaring an emergency.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 4005 of Title 56, unless there
+20 is created a duplication in numbering, reads as follows:
+21 A. For purposes of this section, "rapid whole genome sequencing
+22 (RWGS)" is defined as an investigation of the entire human genome,
+23 including coding and non-coding regions and mitochondrial
+24 deoxyribonucleic acid, to identify disease-causing genetic changes
+Req. No. 10968 Page 1
+
+1 that returns the preliminary positive results within seven (7) days
+2 and final results within fifteen (15) to twenty-one (21) days from
+3 the date of receipt of the sample by the lab performing the test,
+4 and includes patient-only whole genome sequencing (WGS) and duo and
+5 trio whole genome sequencing of the patient and biological parent or
+6 parents.
+7 B. Subject to any required approval of the Centers for Medicare
+8 and Medicaid Services, the Oklahoma Health Care Authority shall
+9 include coverage of rapid whole genome sequencing as a separately
+10 payable service for Medicaid beneficiaries when all of the following
+11 criteria are met:
+12 1. Beneficiary is under twenty-one (21) years of age;
+13 2. Beneficiary has a complex or acute illness of unknown
+14 etiology, that is not confirmed to be caused by an environmental
+15 exposure, toxic ingestion, infection with normal response to
+16 therapy, or trauma; and
+17 3. Beneficiary is receiving hospital services in an intensive
+18 care unit or other high acuity care unit within a hospital.
+19 C. The coverage provided pursuant to this section may be
+20 subject to applicable evidence-based medical necessity criteria that
+21 shall be based on all of the following:
+22 1. The patient has symptoms that suggest a broad differential
+23 diagnosis that would require an evaluation by multiple genetic tests
+24 if rapid whole genome sequencing is not performed;
+Req. No. 10968 Page 2
+
+1 2. The patient's treating healthcare provider has determined
+2 that timely identification of a molecular diagnosis is necessary to
+3 guide clinical decision-making and testing results may guide the
+4 treatment or management of the patient's condition; and
+5 3. The patient has a complex or acute illness of unknown
+6 etiology, including at least one of the following conditions:
+7 a. congenital anomalies involving at least two organ
+8 systems or complex and multiple congenital anomalies
+9 in one organ system,
+10 b. specific organ malformations highly suggestive of a
+11 genetic etiology,
+12 c. abnormal laboratory tests or abnormal chemistry
+13 profiles suggesting the presence of a genetic disease,
+14 complex metabolic disorder, or inborn error of
+15 metabolism,
+16 d. refractory or severe hypoglycemia or hyperglycemia,
+17 e. abnormal response to therapy related to an underlying
+18 medical condition affecting vital organs or bodily
+19 systems,
+20 f. severe muscle weakness, rigidity, or spasticity,
+21 g. refractory seizures,
+22 h. a high-risk stratification on evaluation for a brief
+23 resolved unexplained event with any of the following:
+24 (1) a recurrent event without respiratory infection,
+Req. No. 10968 Page 3
+
+1 (2) a recurrent event witnessed seizure-like event,
+2 or
+3 (3) a recurrent cardiopulmonary resuscitation.
+4 i. abnormal cardiac diagnostic testing results suggestive
+5 of possible channelopathies, arrhythmias,
+6 cardiomyopathies, myocarditis, or structural heart
+7 disease,
+8 j. abnormal diagnostic imaging studies suggestive of
+9 underlying genetic condition,
+10 k. abnormal physiologic function studies suggestive of an
+11 underlying genetic etiology, or
+12 l. family genetic history related to the patient's
+13 condition.
+14 D. Nothing in this section prohibits the Chief Operating
+15 Officer of the Oklahoma Health Care Authority from adding additional
+16 conditions to those contained in paragraph 3 of subsection C based
+17 upon new medical evidence or from providing coverage for rapid whole
+18 genome sequencing or other next generation sequencing (NGS) and
+19 genetic testing for Medicaid beneficiaries that is in addition to
+20 the coverage required under this section.
+21 E. Genetic data generated as a result of performing rapid whole
+22 genome sequencing, covered pursuant to this section, shall have a
+23 primary use of assisting the ordering health care professional and
+24 treating care team to diagnose and treat the patient, and as
+Req. No. 10968 Page 4
+
+1 prot ected health information it shall be subject to the requirements
+2 applicable to protected health information as set forth in the
+3 Health Information Portability and Accountability Act (HIPAA), the
+4 Health Information Technology for Economic and Clinical Health Act,
+5 and their attendant regulations, including but not limited to, the
+6 HIPAA privacy rule as promulgated at 45 CFR Part 160 and Subparts A
+7 and E of 45 CFR Part 164.
+8 F. Genetic data generated from rapid whole genome sequencing,
+9 covered pursuant to this section, can be used in scientific research
+10 if consent for such use of the data has been expressly given by the
+11 patient, or the patient's legal guardian in the case of a minor.
+12 The patient, the patient's legal guardian in the case of a minor, or
+13 the patient's health care provider with the patient's consent, may
+14 request access to the results of the testing covered by this section
+15 for use in other clinical settings. A health care provider may only
+16 charge a small fee to the patient based on the direct costs of
+17 producing the results in a format usable in other clinical settings.
+18 A patient, or patient's legal guardian in the case of a minor, shall
+19 have the right to rescind the original consent to the use of the
+20 data in scientific research at any time, and upon receipt of a
+21 written revocation of the consent the health care provider or other
+22 entity using the data shall cease use and expunge the data from any
+23 data repository where it is held.
+24
+Req. No. 10968 Page 5
+
+1 G. The Chief Operating Officer of the Oklahoma Health Care
+2 Authority will take any actions necessary to implement the
+3 provisions of this section, which can include, if deemed necessary,
+4 the following:
+5 1. Promulgation of rules and regulations to provide for
+6 Medicaid coverage pursuant to this section;
+7 2. Submission to the Centers for Medicare and Medicaid Services
+8 of any new waiver application, amendment to an existing waiver, or
+9 Medicaid state plan amendment necessary to ensure federal financial
+10 participation for Medicaid coverage pursuant to this section; or
+11 3. Any other administrative action determined by the Chief
+12 Operating Officer as necessary to implement the requirements of this
+13 section.
+14 SECTION 2. This act shall become effective July 1, 2025.
+15 SECTION 3. It being immediately necessary for the preservation
+16 of the public peace, health or safety, an emergency is hereby
+17 declared to exist, by reason whereof this act shall take effect and
+18 be in full force from and after its passage and approval.
+19
+20 60-1-10968 TJ 12/17/24
+21
+22
+23
+24
+Req. No. 10968 Page 6
+
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P c s a r a s r a a]
+[DELETED:  P a a a a a f]
+[DELETED:  P]
+[DELETED:  P T 1]
