@@ -1,0 +1,2802 @@
+Title: SENATE BILL 79 By: Weaver
+Official Title: SENATE BILL 79 By: Weaver
+Number of Sections: 73
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to child abduction prevention;
+7
+creating the Uniform Child Abduction Prevention Act;
+8
+providing short title; defining terms; providing for
+8
+cooperation and communication among courts;
+9
+authorizing order or petition for abduction
+9
+prevention measures; authorizing certain warrant;
+10
+clarifying jurisdiction over certain matters;
+10
+establishing requirements for certain petition;
+11
+specifying required contents of certain petition;
+11
+establishing factors to determine risk of child
+12
+abduction; authorizing court to consider certain
+12
+evidence; requiring abduction prevention order to
+13
+contain certain information; authorizing certain
+13
+provisions to prevent abduction of child; authorizing
+14
+order to impose certain conditions on custody or
+14
+visitation; authorizing certain actions to prevent
+15
+imminent abduction of child; providing for cumulative
+15
+remedies; authorizing ex parte warrant for certain
+16
+purposes; requiring hearing within specified time
+16
+period; specifying required contents of certain
+17
+warrant; authorizing order for certain search;
+17
+requiring service at certain time; clarifying
+18
+enforceability of certain warrants; allowing court to
+18
+authorize law enforcement to take certain actions;
+19
+authorizing award of costs and fees under certain
+19
+circumstances; specifying duration of certain order;
+20
+providing for uniformity of application and
+20
+construction; clarifying application to certain
+21
+federal acts; providing for codification; and
+21
+providing an effective date.
+22
+22
+23
+23
+24
+24
+Req. No. 733 Page 1
+1
+1
+2
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2
+3
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 561-1 of Title 43, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+This act shall be known and may be cited as the “Uniform Child
+6
+7
+Abduction Prevention Act”.
+7
+8
+
+Section 3:
+SECTION 2. NEW LAW A new section of law to be codified
+8
+9
+in the Oklahoma Statutes as Section 561-2 of Title 43, unless there
+9
+10
+is created a duplication in numbering, reads as follows:
+10
+11
+As used in this act:
+11
+12
+
+Section 4:
+1. “Abduction” means the wrongful removal or wrongful retention
+12
+13
+of a child;
+13
+14
+
+Section 5:
+2. “Child” means an unemancipated individual who is less than
+14
+15
+eighteen (18) years of age;
+15
+16
+
+Section 6:
+3. “Child custody determination” means a judgment, decree, or
+16
+17
+other court order providing for the legal custody, physical custody,
+17
+18
+or visitation with respect to a child. The term includes a
+18
+19
+permanent, temporary, initial, and modification order;
+19
+20
+
+Section 7:
+4. “Child custody proceeding” means a proceeding in which legal
+20
+21
+custody, physical custody, or visitation with respect to a child is
+21
+22
+at issue. The term includes a proceeding for divorce, dissolution
+22
+23
+of marriage, separation, neglect, abuse, dependency, guardianship,
+23
+24
+24
+Req. No. 733 Page 2
+1
+paternity, termination of parental rights, or protection from
+1
+2
+domestic violence;
+2
+3
+
+Section 8:
+5. “Court” means an entity authorized under the law of a state
+3
+4
+to establish, enforce, or modify a child custody determination;
+4
+5
+
+Section 9:
+6. “Petition” includes a motion or its equivalent;
+5
+6
+
+Section 10:
+7. “Record” means information that is inscribed on a tangible
+6
+7
+medium or that is stored in an electronic or other medium and is
+7
+8
+retrievable in perceivable form;
+8
+9
+
+Section 11:
+8. “State” means a state of the United States, the District of
+9
+10
+Columbia, Puerto Rico, the United States Virgin Islands, or any
+10
+11
+territory or insular possession subject to the jurisdiction of the
+11
+12
+United States. The term includes a federally recognized Indian
+12
+13
+tribe or nation;
+13
+14
+
+Section 12:
+9. “Travel document” means records relating to a travel
+14
+15
+itinerary, including travel tickets, passes, reservations for
+15
+16
+transportation, or accommodations. The term does not include a
+16
+17
+passport or visa;
+17
+18
+
+Section 13:
+10. “Wrongful removal” means the taking of a child that
+18
+19
+breaches rights of custody or visitation given or recognized under
+19
+20
+the laws of this state; and
+20
+21
+
+Section 14:
+11. “Wrongful retention” means the keeping or concealing of a
+21
+22
+child that breaches rights of custody or visitation given or
+22
+23
+recognized under the laws of this state.
+23
+24
+24
+Req. No. 733 Page 3
+1
+
+Section 15:
+SECTION 3. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 561-3 of Title 43, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+The provisions of the Uniform Child Custody Jurisdiction and
+4
+5
+Enforcement Act as provided in Sections 551-110, 551-111, and 551-
+5
+6
+112 of Title 43 of the Oklahoma Statutes shall apply to cooperation
+6
+7
+and communications among courts in proceedings under this act.
+7
+8
+
+Section 16:
+SECTION 4. NEW LAW A new section of law to be codified
+8
+9
+in the Oklahoma Statutes as Section 561-4 of Title 43, unless there
+9
+10
+is created a duplication in numbering, reads as follows:
+10
+11
+A. A court on its own motion may order abduction prevention
+11
+12
+measures in a child custody proceeding if the court finds that the
+12
+13
+evidence establishes a credible risk of abduction of the child.
+13
+14
+B. A party to a child custody determination or another
+14
+15
+individual or entity having a right under the laws of this state or
+15
+16
+any other state to seek a child custody determination for the child
+16
+17
+may file a petition seeking abduction prevention measures to protect
+17
+18
+the child under this act.
+18
+19
+C. As authorized by Section 551-315 of Title 43 of the Oklahoma
+19
+20
+Statutes, a district attorney may seek a warrant to take physical
+20
+21
+custody of a child pursuant to Section 9 of this act, or to take
+21
+22
+other appropriate prevention measures.
+22
+23
+23
+24
+24
+Req. No. 733 Page 4
+1
+
+Section 17:
+SECTION 5. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 561-5 of Title 43, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. A petition under this act may be filed only in a court that
+4
+5
+has jurisdiction to make a child custody determination with respect
+5
+6
+to the child at issue under Article 2 of the Uniform Child Custody
+6
+7
+Jurisdiction and Enforcement Act, Section 551-201 et seq. of Title
+7
+8
+43 of the Oklahoma Statutes.
+8
+9
+B. A court of this state has temporary emergency jurisdiction
+9
+10
+under Section 551-204 of Title 43 of the Oklahoma Statutes if the
+10
+11
+court finds a credible risk of abduction.
+11
+12
+
+Section 18:
+SECTION 6. NEW LAW A new section of law to be codified
+12
+13
+in the Oklahoma Statutes as Section 561-6 of Title 43, unless there
+13
+14
+is created a duplication in numbering, reads as follows:
+14
+15
+A petition under this act shall be verified and include a copy
+15
+16
+of any existing child custody determination, if available. The
+16
+17
+petition shall specify the risk factors for abduction, including the
+17
+18
+relevant factors described in Section 7 of this act. Subject to the
+18
+19
+subsection E of Section 551-209 of Title 43 of the Oklahoma
+19
+20
+Statutes, if reasonably ascertainable, the petition shall contain:
+20
+21
+
+Section 19:
+1. The name, date of birth, and gender of the child;
+21
+22
+
+Section 20:
+2. The customary address and current physical location of the
+22
+23
+child;
+23
+24
+24
+Req. No. 733 Page 5
+1
+
+Section 21:
+3. The identity, customary address, and current physical
+1
+2
+location of the respondent;
+2
+3
+
+Section 22:
+4. A statement of whether a prior action to prevent abduction
+3
+4
+or domestic violence has been filed by a party or other individual
+4
+5
+or entity having custody of the child, and the date, location, and
+5
+6
+disposition of the action;
+6
+7
+
+Section 23:
+5. A statement of whether a party to the proceeding has been
+7
+8
+arrested for a crime related to domestic violence, stalking, or
+8
+9
+child abuse or neglect, and the date, location, and disposition of
+9
+10
+the case; and
+10
+11
+
+Section 24:
+6. Any other information required to be submitted to the court
+11
+12
+for a child custody determination pursuant to Section 551-209 of
+12
+13
+Title 43 of the Oklahoma Statutes.
+13
+14
+
+Section 25:
+SECTION 7. NEW LAW A new section of law to be codified
+14
+15
+in the Oklahoma Statutes as Section 561-7 of Title 43, unless there
+15
+16
+is created a duplication in numbering, reads as follows:
+16
+17
+A. In determining whether there is a credible risk of abduction
+17
+18
+of a child, the court shall consider any evidence that the
+18
+19
+petitioner or respondent:
+19
+20
+
+Section 26:
+1. Has previously abducted or attempted to abduct the child;
+20
+21
+
+Section 27:
+2. Has threatened to abduct the child;
+21
+22
+
+Section 28:
+3. Has recently engaged in activities that may indicate a
+22
+23
+planned abduction including, but not limited to:
+23
+24
+a. abandoning employment,
+24
+Req. No. 733 Page 6
+1
+b. selling a primary residence,
+1
+2
+c. terminating a lease,
+2
+3
+d. closing bank or other financial management accounts,
+3
+4
+liquidating assets, hiding or destroying financial
+4
+5
+documents, or conducting any unusual financial
+5
+6
+activities,
+6
+7
+e. applying for a passport or visa or obtaining travel
+7
+8
+documents for the respondent, a family member, or the
+8
+9
+child, or
+9
+10
+f. seeking to obtain the child’s birth certificate or
+10
+11
+school or medical records;
+11
+12
+
+Section 29:
+4. Has engaged in domestic violence, stalking, or child abuse
+12
+13
+or neglect;
+13
+14
+
+Section 30:
+5. Has refused to follow a child custody determination;
+14
+15
+
+Section 31:
+6. Lacks strong familial, financial, emotional, or cultural
+15
+16
+ties to the state or the United States;
+16
+17
+
+Section 32:
+7. Has strong familial, financial, emotional, or cultural ties
+17
+18
+to another state or country;
+18
+19
+
+Section 33:
+8. Is likely to take the child to a country that:
+19
+20
+a. is not a party to the Hague Convention on the Civil
+20
+21
+Aspects of International Child Abduction and does not
+21
+22
+provide for the extradition of an abducting parent or
+22
+23
+for the return of an abducted child,
+23
+24
+24
+Req. No. 733 Page 7
+1
+b. is a party to the Hague Convention on the Civil
+1
+2
+Aspects of International Child Abduction but:
+2
+3
+(1) the Hague Convention on the Civil Aspects of
+3
+4
+International Child Abduction is not in force
+4
+5
+between the United States and that country,
+5
+6
+(2) is noncompliant according to the most recent
+6
+7
+compliance report issued by the United States
+7
+8
+Department of State, or
+8
+9
+(3) lacks legal mechanisms for immediately and
+9
+10
+effectively enforcing a return order under the
+10
+11
+Hague Convention on the Civil Aspects of
+11
+12
+International Child Abduction,
+12
+13
+c. poses a risk that the child’s physical or emotional
+13
+14
+health or safety would be endangered in the country
+14
+15
+because of specific circumstances relating to the
+15
+16
+child or because of human rights violations committed
+16
+17
+against children,
+17
+18
+d. has laws or practices that would:
+18
+19
+(1) enable the respondent, without due cause, to
+19
+20
+prevent the petitioner from contacting the child,
+20
+21
+(2) restrict the petitioner from freely traveling to
+21
+22
+or exiting from the country because of the
+22
+23
+petitioner’s gender, nationality, marital status,
+23
+24
+or religion, or
+24
+Req. No. 733 Page 8
+1
+(3) restrict the child’s ability to legally leave the
+1
+2
+country after the child reaches the age of
+2
+3
+majority because of a child’s gender,
+3
+4
+nationality, or religion,
+4
+5
+e. is included by the United States Department of State
+5
+6
+on a current list of state sponsors of terrorism,
+6
+7
+f. does not have an official United States diplomatic
+7
+8
+presence in the country, or
+8
+9
+g. is engaged in active military action or war, including
+9
+10
+a civil war, to which the child may be exposed;
+10
+11
+
+Section 34:
+9. Is undergoing a change in immigration or citizenship status
+11
+12
+that would adversely affect the respondent’s ability to remain in
+12
+13
+the United States legally;
+13
+14
+
+Section 35:
+10. Has had an application for United States citizenship
+14
+15
+denied;
+15
+16
+
+Section 36:
+11. Has forged or presented misleading or false evidence on
+16
+17
+government forms or supporting documents to obtain or attempt to
+17
+18
+obtain a passport, a visa, travel documents, a Social Security card,
+18
+19
+a driver license, or other government-issued identification card or
+19
+20
+has made a misrepresentation to the United States government;
+20
+21
+
+Section 37:
+12. Has used multiple names to attempt to mislead or defraud;
+21
+22
+or
+22
+23
+
+Section 38:
+13. Has engaged in any other conduct the court considers
+23
+24
+relevant to the risk of abduction.
+24
+Req. No. 733 Page 9
+1
+B. In the hearing on a petition under this act, the court shall
+1
+2
+consider any evidence that the respondent believed in good faith
+2
+3
+that the respondent’s conduct was necessary to avoid imminent harm
+3
+4
+to the child or respondent and any other evidence that may be
+4
+5
+relevant to whether the respondent may be permitted to remove or
+5
+6
+retain the child.
+6
+7
+
+Section 39:
+SECTION 8. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 561-8 of Title 43, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. If a petition is filed under this act, the court may enter
+10
+11
+an order that shall include:
+11
+12
+
+Section 40:
+1. The basis for the court’s exercise of jurisdiction;
+12
+13
+
+Section 41:
+2. The manner in which notice and opportunity to be heard were
+13
+14
+given to the persons entitled to notice of the proceeding;
+14
+15
+
+Section 42:
+3. A detailed description of each party’s custody and
+15
+16
+visitation rights and residential arrangements for the child;
+16
+17
+
+Section 43:
+4. A provision stating that a violation of the order may
+17
+18
+subject the party in violation to civil and criminal penalties; and
+18
+19
+
+Section 44:
+5. Identification of the child’s country of habitual residence
+19
+20
+at the time of the issuance of the order.
+20
+21
+B. If, at a hearing on a petition under this act or on the
+21
+22
+court’s own motion, the court after reviewing the evidence finds a
+22
+23
+credible risk of abduction of the child, the court shall enter an
+23
+24
+abduction prevention order. The order shall include the provisions
+24
+Req. No. 733 Page 10
+1
+required by subsection A of this section and measures and
+1
+2
+conditions, including provisions in subsections C, D, and E of this
+2
+3
+
+Section 45:
+section, that are reasonably calculated to prevent abduction of the
+3
+4
+child, giving due consideration to the custody and visitation rights
+4
+5
+of the parties. The court shall consider the age of the child, the
+5
+6
+potential harm to the child from an abduction, the legal and
+6
+7
+practical difficulties of returning the child to the jurisdiction if
+7
+8
+abducted, and the reasons for the potential abduction, including
+8
+9
+evidence of domestic violence, stalking, or child abuse or neglect.
+9
+10
+C. An abduction prevention order may include one or more of the
+10
+11
+following:
+11
+12
+
+Section 46:
+1. An imposition of travel restrictions that require that a
+12
+13
+party traveling with the child outside a designated geographical
+13
+14
+area provide the other party with the following:
+14
+15
+a. the travel itinerary of the child,
+15
+16
+b. a list of physical addresses and telephone numbers at
+16
+17
+which the child can be reached at specified times, and
+17
+18
+c. copies of all travel documents;
+18
+19
+
+Section 47:
+2. A prohibition of the respondent directly or indirectly:
+19
+20
+a. removing the child from this state, the United States,
+20
+21
+or another geographic area without permission of the
+21
+22
+court or the petitioner’s written consent,
+22
+23
+b. removing or retaining the child in violation of a
+23
+24
+child custody determination,
+24
+Req. No. 733 Page 11
+1
+c. removing the child from school or a child care or
+1
+2
+similar facility, or
+2
+3
+d. approaching the child at any location other than a
+3
+4
+site designated for supervised visitation;
+4
+5
+
+Section 48:
+3. A requirement that a party register the order in another
+5
+6
+state as a prerequisite to allowing the child to travel to that
+6
+7
+state;
+7
+8
+
+Section 49:
+4. With regard to the child’s passport:
+8
+9
+a. a direction that the petitioner place the child’s name
+9
+10
+in the United States Department of State’s Child
+10
+11
+Passport Issuance Alert Program,
+11
+12
+b. a requirement that the respondent surrender to the
+12
+13
+court or the petitioner’s attorney any United States
+13
+14
+or foreign passport issued in the child’s name,
+14
+15
+including a passport issued in the name of both the
+15
+16
+parent and the child, and
+16
+17
+c. a prohibition upon the respondent from applying on
+17
+18
+behalf of the child for a new or replacement passport
+18
+19
+or visa;
+19
+20
+
+Section 50:
+5. As a prerequisite to exercising custody or visitation, a
+20
+21
+requirement that the respondent provide:
+21
+22
+a. to the United States Department of State Office of
+22
+23
+Children’s Issues and the relevant foreign consulate
+23
+24
+or embassy, an authenticated copy of the order
+24
+Req. No. 733 Page 12
+1
+detailing passport and travel restrictions for the
+1
+2
+child,
+2
+3
+b. to the court:
+3
+4
+(1) proof that the respondent has provided the
+4
+5
+information in subparagraph a of this paragraph,
+5
+6
+and
+6
+7
+(2) an acknowledgment in a record from the relevant
+7
+8
+foreign consulate or embassy that no passport
+8
+9
+application has been made, or passport issued, on
+9
+10
+behalf of the child,
+10
+11
+c. to the petitioner, proof of registration with the
+11
+12
+United States Embassy or other United States
+12
+13
+diplomatic presence in the destination country and
+13
+14
+with the Central Authority for the Hague Convention on
+14
+15
+the Civil Aspects of International Child Abduction, if
+15
+16
+that Convention is in effect between the United States
+16
+17
+and the destination country, unless one of the parties
+17
+18
+objects, and
+18
+19
+d. a written waiver under the Privacy Act of 1974, 5
+19
+20
+U.S.C., Section 552a, as amended, with respect to any
+20
+21
+document, application, or other information pertaining
+21
+22
+to the child authorizing its disclosure to the court
+22
+23
+and the petitioner; and
+23
+24
+24
+Req. No. 733 Page 13
+1
+
+Section 51:
+6. Upon the petitioner’s request, a requirement that the
+1
+2
+respondent obtain an order from the relevant foreign country
+2
+3
+containing terms identical to the child custody determination issued
+3
+4
+in the United States.
+4
+5
+D. In an abduction prevention order, the court may impose
+5
+6
+conditions on the exercise of custody or visitation that:
+6
+7
+
+Section 52:
+1. Limit visitation or require that visitation with the child
+7
+8
+by the respondent be supervised until the court finds that
+8
+9
+supervision is no longer necessary and order the respondent to pay
+9
+10
+the costs of supervision;
+10
+11
+
+Section 53:
+2. Require the respondent to post a bond or provide other
+11
+12
+security in an amount sufficient to serve as a financial deterrent
+12
+13
+to abduction, the proceeds of which may be used to pay for the
+13
+14
+reasonable expenses of recovery of the child, including reasonable
+14
+15
+attorney fees and costs if there is an abduction; and
+15
+16
+
+Section 54:
+3. Require the respondent to obtain education on the
+16
+17
+potentially harmful effects to the child from abduction.
+17
+18
+E. To prevent imminent abduction of a child, a court may:
+18
+19
+
+Section 55:
+1. Issue a warrant to take physical custody of the child under
+19
+20
+
+Section 56:
+Section 9 or the laws of this state other than this act;
+20
+21
+
+Section 57:
+2. Direct the use of law enforcement to take any action
+21
+22
+reasonably necessary to locate the child, obtain return of the
+22
+23
+child, or enforce a custody determination under this act or the laws
+23
+24
+of this state other than this act; or
+24
+Req. No. 733 Page 14
+1
+
+Section 58:
+3. Grant any other relief allowed under the laws of this state
+1
+2
+other than this act.
+2
+3
+F. The remedies provided in this act are cumulative and do not
+3
+4
+affect the availability of other remedies to prevent abduction.
+4
+5
+
+Section 59:
+SECTION 9. NEW LAW A new section of law to be codified
+5
+6
+in the Oklahoma Statutes as Section 561-9 of Title 43, unless there
+6
+7
+is created a duplication in numbering, reads as follows:
+7
+8
+A. If a petition under this act contains allegations, and the
+8
+9
+court finds that there is a credible risk that the child is
+9
+10
+imminently likely to be wrongfully removed, the court may issue an
+10
+11
+ex parte warrant to take physical custody of the child.
+11
+12
+B. The respondent on a petition under subsection A of this
+12
+13
+
+Section 60:
+section shall be afforded an opportunity to be heard at the earliest
+13
+14
+possible time after the ex parte warrant is executed, but not later
+14
+15
+than the next judicial day unless a hearing on that date is
+15
+16
+impossible. In such event, the court shall hold the hearing on the
+16
+17
+first judicial day possible.
+17
+18
+C. An ex parte warrant under subsection A of this section to
+18
+19
+take physical custody of a child shall:
+19
+20
+
+Section 61:
+1. Recite the facts upon which a determination of a credible
+20
+21
+risk of imminent wrongful removal of the child is based;
+21
+22
+
+Section 62:
+2. Direct law enforcement officers to take physical custody of
+22
+23
+the child immediately;
+23
+24
+
+Section 63:
+3. State the date and time for the hearing on the petition; and
+24
+Req. No. 733 Page 15
+1
+
+Section 64:
+4. Provide for the safe interim placement of the child pending
+1
+2
+further order of the court.
+2
+3
+D. If feasible, before issuing a warrant and before determining
+3
+4
+the placement of the child after the warrant is executed, the court
+4
+5
+may order a search of the relevant databases of the National Crime
+5
+6
+Information Center system and similar state databases to determine
+6
+7
+if either the petitioner or respondent has a history of domestic
+7
+8
+violence, stalking, or child abuse or neglect.
+8
+9
+E. The petition and warrant shall be served on the respondent
+9
+10
+when or immediately after the child is taken into physical custody.
+10
+11
+F. A warrant to take physical custody of a child, issued by
+11
+12
+this state or another state, is enforceable throughout this state.
+12
+13
+If the court finds that a less intrusive remedy will not be
+13
+14
+effective, it may authorize law enforcement officers to enter
+14
+15
+private property to take physical custody of the child. If required
+15
+16
+by exigent circumstances, the court may authorize law enforcement
+16
+17
+officers to make a forcible entry at any hour.
+17
+18
+G. If the court finds, after a hearing, that a petitioner
+18
+19
+sought an ex parte warrant under subsection A of this section for
+19
+20
+the purpose of harassment or in bad faith, the court may award the
+20
+21
+respondent reasonable attorney fees, costs, and expenses.
+21
+22
+H. This act does not affect the availability of relief allowed
+22
+23
+under the laws of this state other than this act.
+23
+24
+24
+Req. No. 733 Page 16
+1
+
+Section 65:
+SECTION 10. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 561-10 of Title 43, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+An abduction prevention order remains in effect until the
+4
+5
+earliest of the:
+5
+6
+
+Section 66:
+1. Time stated in the order;
+6
+7
+
+Section 67:
+2. Emancipation of the child;
+7
+8
+
+Section 68:
+3. Child’s attaining eighteen (18) years of age; or
+8
+9
+
+Section 69:
+4. Time the order is modified, revoked, vacated, or superseded
+9
+10
+by a court with jurisdiction under Sections 551-201 through 551-203
+10
+11
+of Title 43 of the Oklahoma Statutes or other applicable laws of
+11
+12
+this state.
+12
+13
+
+Section 70:
+SECTION 11. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 561-11 of Title 43, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+In applying and construing this uniform act, consideration shall
+16
+17
+be given to the need to promote uniformity of the law with respect
+17
+18
+to its subject matter among states that enact it.
+18
+19
+
+Section 71:
+SECTION 12. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 561-12 of Title 43, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+This act modifies, limits, and supersedes the federal Electronic
+22
+23
+Signatures in Global and National Commerce Act, 15 U.S.C., Section
+23
+24
+7001 et seq., but does not modify, limit, or supersede 15 U.S.C.,
+24
+Req. No. 733 Page 17
+1
+
+Section 72:
+Section 7001(c), or authorize electronic delivery of any of the
+1
+2
+notices described in 15 U.S.C., Section 7003(b).
+2
+3
+
+Section 73:
+SECTION 13. This act shall become effective November 1, 2025.
+3
+4
+4
+5
+60-1-733 TEK 1/19/2025 5:43:21 AM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 733 Page 18
+[DELETED:  P B W]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a]
+[DELETED:  P s t c a s i]
+[DELETED:  P i t i l p h e r]
+[DELETED:  P r i d i]
+[DELETED:  P]
+[DELETED:  P t a c r r]
+[DELETED:  P r a a a a t]
+[DELETED:  P t p a t a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P T 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 79 By: Weaver
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to child abduction prevention;
+7
+creating the Uniform Child Abduction Prevention Act;
+8
+providing short title; defining terms; providing for
+8
+cooperation and communication among courts;
+9
+authorizing order or petition for abduction
+9
+prevention measures; authorizing certain warrant;
+10
+clarifying jurisdiction over certain matters;
+10
+establishing requirements for certain petition;
+11
+specifying required contents of certain petition;
+11
+establishing factors to determine risk of child
+12
+abduction; authorizing court to consider certain
+12
+evidence; requiring abduction prevention order to
+13
+contain certain information; authorizing certain
+13
+provisions to prevent abduction of child; authorizing
+14
+order to impose certain conditions on custody or
+14
+visitation; authorizing certain actions to prevent
+15
+imminent abduction of child; providing for cumulative
+15
+remedies; authorizing ex parte warrant for certain
+16
+purposes; requiring hearing within specified time
+16
+period; specifying required contents of certain
+17
+warrant; authorizing order for certain search;
+17
+requiring service at certain time; clarifying
+18
+enforceability of certain warrants; allowing court to
+18
+authorize law enforcement to take certain actions;
+19
+authorizing award of costs and fees under certain
+19
+circumstances; specifying duration of certain order;
+20
+providing for uniformity of application and
+20
+construction; clarifying application to certain
+21
+federal acts; providing for codification; and
+21
+providing an effective date.
+22
+22
+23
+23
+24
+24
+Req. No. 733 Page 1
+
+1
+1
+2
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2
+3
+SECTION 1. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 561-1 of Title 43, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+This act shall be known and may be cited as the “Uniform Child
+6
+7
+Abduction Prevention Act”.
+7
+8
+SECTION 2. NEW LAW A new section of law to be codified
+8
+9
+in the Oklahoma Statutes as Section 561-2 of Title 43, unless there
+9
+10
+is created a duplication in numbering, reads as follows:
+10
+11
+As used in this act:
+11
+12
+1. “Abduction” means the wrongful removal or wrongful retention
+12
+13
+of a child;
+13
+14
+2. “Child” means an unemancipated individual who is less than
+14
+15
+eighteen (18) years of age;
+15
+16
+3. “Child custody determination” means a judgment, decree, or
+16
+17
+other court order providing for the legal custody, physical custody,
+17
+18
+or visitation with respect to a child. The term includes a
+18
+19
+permanent, temporary, initial, and modification order;
+19
+20
+4. “Child custody proceeding” means a proceeding in which legal
+20
+21
+custody, physical custody, or visitation with respect to a child is
+21
+22
+at issue. The term includes a proceeding for divorce, dissolution
+22
+23
+of marriage, separation, neglect, abuse, dependency, guardianship,
+23
+24
+24
+Req. No. 733 Page 2
+
+1
+paternity, termination of parental rights, or protection from
+1
+2
+domestic violence;
+2
+3
+5. “Court” means an entity authorized under the law of a state
+3
+4
+to establish, enforce, or modify a child custody determination;
+4
+5
+6. “Petition” includes a motion or its equivalent;
+5
+6
+7. “Record” means information that is inscribed on a tangible
+6
+7
+medium or that is stored in an electronic or other medium and is
+7
+8
+retrievable in perceivable form;
+8
+9
+8. “State” means a state of the United States, the District of
+9
+10
+Columbia, Puerto Rico, the United States Virgin Islands, or any
+10
+11
+territory or insular possession subject to the jurisdiction of the
+11
+12
+United States. The term includes a federally recognized Indian
+12
+13
+tribe or nation;
+13
+14
+9. “Travel document” means records relating to a travel
+14
+15
+itinerary, including travel tickets, passes, reservations for
+15
+16
+transportation, or accommodations. The term does not include a
+16
+17
+passport or visa;
+17
+18
+10. “Wrongful removal” means the taking of a child that
+18
+19
+breaches rights of custody or visitation given or recognized under
+19
+20
+the laws of this state; and
+20
+21
+11. “Wrongful retention” means the keeping or concealing of a
+21
+22
+child that breaches rights of custody or visitation given or
+22
+23
+recognized under the laws of this state.
+23
+24
+24
+Req. No. 733 Page 3
+
+1
+SECTION 3. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 561-3 of Title 43, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+The provisions of the Uniform Child Custody Jurisdiction and
+4
+5
+Enforcement Act as provided in Sections 551-110, 551-111, and 551-
+5
+6
+112 of Title 43 of the Oklahoma Statutes shall apply to cooperation
+6
+7
+and communications among courts in proceedings under this act.
+7
+8
+SECTION 4. NEW LAW A new section of law to be codified
+8
+9
+in the Oklahoma Statutes as Section 561-4 of Title 43, unless there
+9
+10
+is created a duplication in numbering, reads as follows:
+10
+11
+A. A court on its own motion may order abduction prevention
+11
+12
+measures in a child custody proceeding if the court finds that the
+12
+13
+evidence establishes a credible risk of abduction of the child.
+13
+14
+B. A party to a child custody determination or another
+14
+15
+individual or entity having a right under the laws of this state or
+15
+16
+any other state to seek a child custody determination for the child
+16
+17
+may file a petition seeking abduction prevention measures to protect
+17
+18
+the child under this act.
+18
+19
+C. As authorized by Section 551-315 of Title 43 of the Oklahoma
+19
+20
+Statutes, a district attorney may seek a warrant to take physical
+20
+21
+custody of a child pursuant to Section 9 of this act, or to take
+21
+22
+other appropriate prevention measures.
+22
+23
+23
+24
+24
+Req. No. 733 Page 4
+
+1
+SECTION 5. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 561-5 of Title 43, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. A petition under this act may be filed only in a court that
+4
+5
+has jurisdiction to make a child custody determination with respect
+5
+6
+to the child at issue under Article 2 of the Uniform Child Custody
+6
+7
+Jurisdiction and Enforcement Act, Section 551-201 et seq. of Title
+7
+8
+43 of the Oklahoma Statutes.
+8
+9
+B. A court of this state has temporary emergency jurisdiction
+9
+10
+under Section 551-204 of Title 43 of the Oklahoma Statutes if the
+10
+11
+court finds a credible risk of abduction.
+11
+12
+SECTION 6. NEW LAW A new section of law to be codified
+12
+13
+in the Oklahoma Statutes as Section 561-6 of Title 43, unless there
+13
+14
+is created a duplication in numbering, reads as follows:
+14
+15
+A petition under this act shall be verified and include a copy
+15
+16
+of any existing child custody determination, if available. The
+16
+17
+petition shall specify the risk factors for abduction, including the
+17
+18
+relevant factors described in Section 7 of this act. Subject to the
+18
+19
+subsection E of Section 551-209 of Title 43 of the Oklahoma
+19
+20
+Statutes, if reasonably ascertainable, the petition shall contain:
+20
+21
+1. The name, date of birth, and gender of the child;
+21
+22
+2. The customary address and current physical location of the
+22
+23
+child;
+23
+24
+24
+Req. No. 733 Page 5
+
+1
+3. The identity, customary address, and current physical
+1
+2
+location of the respondent;
+2
+3
+4. A statement of whether a prior action to prevent abduction
+3
+4
+or domestic violence has been filed by a party or other individual
+4
+5
+or entity having custody of the child, and the date, location, and
+5
+6
+disposition of the action;
+6
+7
+5. A statement of whether a party to the proceeding has been
+7
+8
+arrested for a crime related to domestic violence, stalking, or
+8
+9
+child abuse or neglect, and the date, location, and disposition of
+9
+10
+the case; and
+10
+11
+6. Any other information required to be submitted to the court
+11
+12
+for a child custody determination pursuant to Section 551-209 of
+12
+13
+Title 43 of the Oklahoma Statutes.
+13
+14
+SECTION 7. NEW LAW A new section of law to be codified
+14
+15
+in the Oklahoma Statutes as Section 561-7 of Title 43, unless there
+15
+16
+is created a duplication in numbering, reads as follows:
+16
+17
+A. In determining whether there is a credible risk of abduction
+17
+18
+of a child, the court shall consider any evidence that the
+18
+19
+petitioner or respondent:
+19
+20
+1. Has previously abducted or attempted to abduct the child;
+20
+21
+2. Has threatened to abduct the child;
+21
+22
+3. Has recently engaged in activities that may indicate a
+22
+23
+planned abduction including, but not limited to:
+23
+24
+a. abandoning employment,
+24
+Req. No. 733 Page 6
+
+1
+b. selling a primary residence,
+1
+2
+c. terminating a lease,
+2
+3
+d. closing bank or other financial management accounts,
+3
+4
+liquidating assets, hiding or destroying financial
+4
+5
+documents, or conducting any unusual financial
+5
+6
+activities,
+6
+7
+e. applying for a passport or visa or obtaining travel
+7
+8
+documents for the respondent, a family member, or the
+8
+9
+child, or
+9
+10
+f. seeking to obtain the child’s birth certificate or
+10
+11
+school or medical records;
+11
+12
+4. Has engaged in domestic violence, stalking, or child abuse
+12
+13
+or neglect;
+13
+14
+5. Has refused to follow a child custody determination;
+14
+15
+6. Lacks strong familial, financial, emotional, or cultural
+15
+16
+ties to the state or the United States;
+16
+17
+7. Has strong familial, financial, emotional, or cultural ties
+17
+18
+to another state or country;
+18
+19
+8. Is likely to take the child to a country that:
+19
+20
+a. is not a party to the Hague Convention on the Civil
+20
+21
+Aspects of International Child Abduction and does not
+21
+22
+provide for the extradition of an abducting parent or
+22
+23
+for the return of an abducted child,
+23
+24
+24
+Req. No. 733 Page 7
+
+1
+b. is a party to the Hague Convention on the Civil
+1
+2
+Aspects of International Child Abduction but:
+2
+3
+(1) the Hague Convention on the Civil Aspects of
+3
+4
+International Child Abduction is not in force
+4
+5
+between the United States and that country,
+5
+6
+(2) is noncompliant according to the most recent
+6
+7
+compliance report issued by the United States
+7
+8
+Department of State, or
+8
+9
+(3) lacks legal mechanisms for immediately and
+9
+10
+effectively enforcing a return order under the
+10
+11
+Hague Convention on the Civil Aspects of
+11
+12
+International Child Abduction,
+12
+13
+c. poses a risk that the child’s physical or emotional
+13
+14
+health or safety would be endangered in the country
+14
+15
+because of specific circumstances relating to the
+15
+16
+child or because of human rights violations committed
+16
+17
+against children,
+17
+18
+d. has laws or practices that would:
+18
+19
+(1) enable the respondent, without due cause, to
+19
+20
+prevent the petitioner from contacting the child,
+20
+21
+(2) restrict the petitioner from freely traveling to
+21
+22
+or exiting from the country because of the
+22
+23
+petitioner’s gender, nationality, marital status,
+23
+24
+or religion, or
+24
+Req. No. 733 Page 8
+
+1
+(3) restrict the child’s ability to legally leave the
+1
+2
+country after the child reaches the age of
+2
+3
+majority because of a child’s gender,
+3
+4
+nationality, or religion,
+4
+5
+e. is included by the United States Department of State
+5
+6
+on a current list of state sponsors of terrorism,
+6
+7
+f. does not have an official United States diplomatic
+7
+8
+presence in the country, or
+8
+9
+g. is engaged in active military action or war, including
+9
+10
+a civil war, to which the child may be exposed;
+10
+11
+9. Is undergoing a change in immigration or citizenship status
+11
+12
+that would adversely affect the respondent’s ability to remain in
+12
+13
+the United States legally;
+13
+14
+10. Has had an application for United States citizenship
+14
+15
+denied;
+15
+16
+11. Has forged or presented misleading or false evidence on
+16
+17
+government forms or supporting documents to obtain or attempt to
+17
+18
+obtain a passport, a visa, travel documents, a Social Security card,
+18
+19
+a driver license, or other government-issued identification card or
+19
+20
+has made a misrepresentation to the United States government;
+20
+21
+12. Has used multiple names to attempt to mislead or defraud;
+21
+22
+or
+22
+23
+13. Has engaged in any other conduct the court considers
+23
+24
+relevant to the risk of abduction.
+24
+Req. No. 733 Page 9
+
+1
+B. In the hearing on a petition under this act, the court shall
+1
+2
+consider any evidence that the respondent believed in good faith
+2
+3
+that the respondent’s conduct was necessary to avoid imminent harm
+3
+4
+to the child or respondent and any other evidence that may be
+4
+5
+relevant to whether the respondent may be permitted to remove or
+5
+6
+retain the child.
+6
+7
+SECTION 8. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 561-8 of Title 43, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. If a petition is filed under this act, the court may enter
+10
+11
+an order that shall include:
+11
+12
+1. The basis for the court’s exercise of jurisdiction;
+12
+13
+2. The manner in which notice and opportunity to be heard were
+13
+14
+given to the persons entitled to notice of the proceeding;
+14
+15
+3. A detailed description of each party’s custody and
+15
+16
+visitation rights and residential arrangements for the child;
+16
+17
+4. A provision stating that a violation of the order may
+17
+18
+subject the party in violation to civil and criminal penalties; and
+18
+19
+5. Identification of the child’s country of habitual residence
+19
+20
+at the time of the issuance of the order.
+20
+21
+B. If, at a hearing on a petition under this act or on the
+21
+22
+court’s own motion, the court after reviewing the evidence finds a
+22
+23
+credible risk of abduction of the child, the court shall enter an
+23
+24
+abduction prevention order. The order shall include the provisions
+24
+Req. No. 733 Page 10
+
+1
+required by subsection A of this section and measures and
+1
+2
+conditions, including provisions in subsections C, D, and E of this
+2
+3
+section, that are reasonably calculated to prevent abduction of the
+3
+4
+child, giving due consideration to the custody and visitation rights
+4
+5
+of the parties. The court shall consider the age of the child, the
+5
+6
+potential harm to the child from an abduction, the legal and
+6
+7
+practical difficulties of returning the child to the jurisdiction if
+7
+8
+abducted, and the reasons for the potential abduction, including
+8
+9
+evidence of domestic violence, stalking, or child abuse or neglect.
+9
+10
+C. An abduction prevention order may include one or more of the
+10
+11
+following:
+11
+12
+1. An imposition of travel restrictions that require that a
+12
+13
+party traveling with the child outside a designated geographical
+13
+14
+area provide the other party with the following:
+14
+15
+a. the travel itinerary of the child,
+15
+16
+b. a list of physical addresses and telephone numbers at
+16
+17
+which the child can be reached at specified times, and
+17
+18
+c. copies of all travel documents;
+18
+19
+2. A prohibition of the respondent directly or indirectly:
+19
+20
+a. removing the child from this state, the United States,
+20
+21
+or another geographic area without permission of the
+21
+22
+court or the petitioner’s written consent,
+22
+23
+b. removing or retaining the child in violation of a
+23
+24
+child custody determination,
+24
+Req. No. 733 Page 11
+
+1
+c. removing the child from school or a child care or
+1
+2
+similar facility, or
+2
+3
+d. approaching the child at any location other than a
+3
+4
+site designated for supervised visitation;
+4
+5
+3. A requirement that a party register the order in another
+5
+6
+state as a prerequisite to allowing the child to travel to that
+6
+7
+state;
+7
+8
+4. With regard to the child’s passport:
+8
+9
+a. a direction that the petitioner place the child’s name
+9
+10
+in the United States Department of State’s Child
+10
+11
+Passport Issuance Alert Program,
+11
+12
+b. a requirement that the respondent surrender to the
+12
+13
+court or the petitioner’s attorney any United States
+13
+14
+or foreign passport issued in the child’s name,
+14
+15
+including a passport issued in the name of both the
+15
+16
+parent and the child, and
+16
+17
+c. a prohibition upon the respondent from applying on
+17
+18
+behalf of the child for a new or replacement passport
+18
+19
+or visa;
+19
+20
+5. As a prerequisite to exercising custody or visitation, a
+20
+21
+requirement that the respondent provide:
+21
+22
+a. to the United States Department of State Office of
+22
+23
+Children’s Issues and the relevant foreign consulate
+23
+24
+or embassy, an authenticated copy of the order
+24
+Req. No. 733 Page 12
+
+1
+detailing passport and travel restrictions for the
+1
+2
+child,
+2
+3
+b. to the court:
+3
+4
+(1) proof that the respondent has provided the
+4
+5
+information in subparagraph a of this paragraph,
+5
+6
+and
+6
+7
+(2) an acknowledgment in a record from the relevant
+7
+8
+foreign consulate or embassy that no passport
+8
+9
+application has been made, or passport issued, on
+9
+10
+behalf of the child,
+10
+11
+c. to the petitioner, proof of registration with the
+11
+12
+United States Embassy or other United States
+12
+13
+diplomatic presence in the destination country and
+13
+14
+with the Central Authority for the Hague Convention on
+14
+15
+the Civil Aspects of International Child Abduction, if
+15
+16
+that Convention is in effect between the United States
+16
+17
+and the destination country, unless one of the parties
+17
+18
+objects, and
+18
+19
+d. a written waiver under the Privacy Act of 1974, 5
+19
+20
+U.S.C., Section 552a, as amended, with respect to any
+20
+21
+document, application, or other information pertaining
+21
+22
+to the child authorizing its disclosure to the court
+22
+23
+and the petitioner; and
+23
+24
+24
+Req. No. 733 Page 13
+
+1
+6. Upon the petitioner’s request, a requirement that the
+1
+2
+respondent obtain an order from the relevant foreign country
+2
+3
+containing terms identical to the child custody determination issued
+3
+4
+in the United States.
+4
+5
+D. In an abduction prevention order, the court may impose
+5
+6
+conditions on the exercise of custody or visitation that:
+6
+7
+1. Limit visitation or require that visitation with the child
+7
+8
+by the respondent be supervised until the court finds that
+8
+9
+supervision is no longer necessary and order the respondent to pay
+9
+10
+the costs of supervision;
+10
+11
+2. Require the respondent to post a bond or provide other
+11
+12
+security in an amount sufficient to serve as a financial deterrent
+12
+13
+to abduction, the proceeds of which may be used to pay for the
+13
+14
+reasonable expenses of recovery of the child, including reasonable
+14
+15
+attorney fees and costs if there is an abduction; and
+15
+16
+3. Require the respondent to obtain education on the
+16
+17
+potentially harmful effects to the child from abduction.
+17
+18
+E. To prevent imminent abduction of a child, a court may:
+18
+19
+1. Issue a warrant to take physical custody of the child under
+19
+20
+Section 9 or the laws of this state other than this act;
+20
+21
+2. Direct the use of law enforcement to take any action
+21
+22
+reasonably necessary to locate the child, obtain return of the
+22
+23
+child, or enforce a custody determination under this act or the laws
+23
+24
+of this state other than this act; or
+24
+Req. No. 733 Page 14
+
+1
+3. Grant any other relief allowed under the laws of this state
+1
+2
+other than this act.
+2
+3
+F. The remedies provided in this act are cumulative and do not
+3
+4
+affect the availability of other remedies to prevent abduction.
+4
+5
+SECTION 9. NEW LAW A new section of law to be codified
+5
+6
+in the Oklahoma Statutes as Section 561-9 of Title 43, unless there
+6
+7
+is created a duplication in numbering, reads as follows:
+7
+8
+A. If a petition under this act contains allegations, and the
+8
+9
+court finds that there is a credible risk that the child is
+9
+10
+imminently likely to be wrongfully removed, the court may issue an
+10
+11
+ex parte warrant to take physical custody of the child.
+11
+12
+B. The respondent on a petition under subsection A of this
+12
+13
+section shall be afforded an opportunity to be heard at the earliest
+13
+14
+possible time after the ex parte warrant is executed, but not later
+14
+15
+than the next judicial day unless a hearing on that date is
+15
+16
+impossible. In such event, the court shall hold the hearing on the
+16
+17
+first judicial day possible.
+17
+18
+C. An ex parte warrant under subsection A of this section to
+18
+19
+take physical custody of a child shall:
+19
+20
+1. Recite the facts upon which a determination of a credible
+20
+21
+risk of imminent wrongful removal of the child is based;
+21
+22
+2. Direct law enforcement officers to take physical custody of
+22
+23
+the child immediately;
+23
+24
+3. State the date and time for the hearing on the petition; and
+24
+Req. No. 733 Page 15
+
+1
+4. Provide for the safe interim placement of the child pending
+1
+2
+further order of the court.
+2
+3
+D. If feasible, before issuing a warrant and before determining
+3
+4
+the placement of the child after the warrant is executed, the court
+4
+5
+may order a search of the relevant databases of the National Crime
+5
+6
+Information Center system and similar state databases to determine
+6
+7
+if either the petitioner or respondent has a history of domestic
+7
+8
+violence, stalking, or child abuse or neglect.
+8
+9
+E. The petition and warrant shall be served on the respondent
+9
+10
+when or immediately after the child is taken into physical custody.
+10
+11
+F. A warrant to take physical custody of a child, issued by
+11
+12
+this state or another state, is enforceable throughout this state.
+12
+13
+If the court finds that a less intrusive remedy will not be
+13
+14
+effective, it may authorize law enforcement officers to enter
+14
+15
+private property to take physical custody of the child. If required
+15
+16
+by exigent circumstances, the court may authorize law enforcement
+16
+17
+officers to make a forcible entry at any hour.
+17
+18
+G. If the court finds, after a hearing, that a petitioner
+18
+19
+sought an ex parte warrant under subsection A of this section for
+19
+20
+the purpose of harassment or in bad faith, the court may award the
+20
+21
+respondent reasonable attorney fees, costs, and expenses.
+21
+22
+H. This act does not affect the availability of relief allowed
+22
+23
+under the laws of this state other than this act.
+23
+24
+24
+Req. No. 733 Page 16
+
+1
+SECTION 10. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 561-10 of Title 43, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+An abduction prevention order remains in effect until the
+4
+5
+earliest of the:
+5
+6
+1. Time stated in the order;
+6
+7
+2. Emancipation of the child;
+7
+8
+3. Child’s attaining eighteen (18) years of age; or
+8
+9
+4. Time the order is modified, revoked, vacated, or superseded
+9
+10
+by a court with jurisdiction under Sections 551-201 through 551-203
+10
+11
+of Title 43 of the Oklahoma Statutes or other applicable laws of
+11
+12
+this state.
+12
+13
+SECTION 11. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 561-11 of Title 43, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+In applying and construing this uniform act, consideration shall
+16
+17
+be given to the need to promote uniformity of the law with respect
+17
+18
+to its subject matter among states that enact it.
+18
+19
+SECTION 12. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 561-12 of Title 43, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+This act modifies, limits, and supersedes the federal Electronic
+22
+23
+Signatures in Global and National Commerce Act, 15 U.S.C., Section
+23
+24
+7001 et seq., but does not modify, limit, or supersede 15 U.S.C.,
+24
+Req. No. 733 Page 17
+
+1
+Section 7001(c), or authorize electronic delivery of any of the
+1
+2
+notices described in 15 U.S.C., Section 7003(b).
+2
+3
+SECTION 13. This act shall become effective November 1, 2025.
+3
+4
+4
+5
+60-1-733 TEK 1/19/2025 5:43:21 AM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 733 Page 18
+
+[DELETED:  P B W]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a]
+[DELETED:  P s t c a s i]
+[DELETED:  P i t i l p h e r]
+[DELETED:  P r i d i]
+[DELETED:  P]
+[DELETED:  P t a c r r]
+[DELETED:  P r a a a a t]
+[DELETED:  P t p a t a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P T 1]

@@ -1,0 +1,6926 @@
+Title: SENATE BILL 929 By: Haste
+Official Title: SENATE BILL 929 By: Haste
+Number of Sections: 170
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 44 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the practice of osteopathic
+7
+medicine; amending 59 O.S. 2021, Section 621, which
+8
+relates to definitions; adding and modifying
+8
+definitions; amending 59 O.S. 2021, Section 622,
+9
+which relates to osteopathic physician license;
+9
+modifying certain license requirements and
+10
+procedures; amending 59 O.S. 2021, Section 624, as
+10
+amended by Section 1, Chapter 190, O.S.L. 2024 (59
+11
+O.S. Supp. 2024, Section 624), which relates to the
+11
+State Board of Osteopathic Examiners; modifying
+12
+membership of the Board; specifying mission of the
+12
+Board; deleting certain Board requirement; providing
+13
+for quorum; amending 59 O.S. 2021, Section 625, which
+13
+relates to oath of members; removing certain oath and
+14
+membership requirements; amending 59 O.S. 2021,
+14
+
+Section 2:
+Section 626, which relates to organization of the
+15
+Board; modifying title and duties of certain
+15
+position; modifying provisions relating to hiring and
+16
+compensation; providing for Board subpoena; amending
+16
+59 O.S. 2021, Section 627, which relates to record of
+17
+proceedings; modifying and removing requirements
+17
+related to publicly available records; requiring
+18
+certain notice by physician; establishing powers and
+18
+duties of the Board; amending 59 O.S. 2021, Section
+19
+632, which relates to examination; modifying and
+19
+removing certain examination requirements;
+20
+authorizing criminal background checks for certain
+20
+purpose; providing background check procedures;
+21
+limiting applicability of certain provisions and
+21
+disclosure of certain information; amending 59 O.S.
+22
+2021, Section 633, as amended by Section 5, Chapter
+22
+262, O.S.L. 2022 (59 O.S. Supp. 2024, Section 633),
+23
+which relates to licensure; modifying, adding, and
+23
+removing special license types; providing for certain
+24
+restrictions; amending 59 O.S. 2021, Section 634,
+24
+Req. No. 462 Page 1
+1
+which relates to reciprocal license; removing certain
+1
+exception; amending 59 O.S. 2021, Section 635.1,
+2
+which relates to special volunteer medical license;
+2
+removing certain exception; amending 59 O.S. 2021,
+3
+
+Section 3:
+Section 635.3, which relates to resident training
+3
+license; expanding term of license; creating
+4
+osteopathic faculty license; stating minimum
+4
+requirements; limiting effect and term of license;
+5
+amending 59 O.S. 2021, Section 637, as amended by
+5
+
+Section 4:
+Section 5, Chapter 150, O.S.L. 2023 (59 O.S. Supp.
+6
+2024, Section 637), which relates to disciplinary
+6
+action; broadening certain powers of the Board;
+7
+adding grounds for disciplinary action; stipulating
+7
+certain requirements and procedures for assessment of
+8
+penalties; specifying certain burdens of proof;
+8
+limiting availability of license reinstatement;
+9
+modifying certain rulemaking authority; providing for
+9
+reconsideration of certain orders; authorizing
+10
+certain appeals; granting quasi-judicial powers to
+10
+the Board; authorizing certain penalties; amending 59
+11
+O.S. 2021, Section 641, which relates to license
+11
+renewal; conforming language; authorizing certain
+12
+rules; providing for late renewal; requiring certain
+12
+attestation; providing for establishment of certain
+13
+system and investigations; requiring certain
+13
+malpractice liability insurance; providing
+14
+exceptions; authorizing promulgation of certain
+14
+rules; amending 59 O.S. 2021, Section 642, which
+15
+relates to penalties; modifying conditions for
+15
+license reinstatement; providing for certain appeals;
+16
+imposing certain reporting duties on licensees and
+16
+the Board; amending 59 O.S. 2021, Section 643, which
+17
+relates to use of funds; broadening allowed uses;
+17
+amending 59 O.S. 2021, Section 644, which relates to
+18
+the State Board of Osteopathic Examiner’s Revolving
+18
+Fund; conforming language; amending 59 O.S. 2021,
+19
+
+Section 5:
+Section 645, which relates to rules; authorizing and
+19
+requiring promulgation of certain rules; updating
+20
+statutory language and references; repealing 59 O.S.
+20
+2021, Section 631, which relates to definition;
+21
+providing for codification; and declaring an
+21
+emergency.
+22
+22
+23
+23
+24
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+24
+Req. No. 462 Page 2
+1
+
+Section 6:
+SECTION 1. AMENDATORY 59 O.S. 2021, Section 621, is
+1
+2
+amended to read as follows:
+2
+3
+
+Section 7:
+Section 621. As used in the Oklahoma Osteopathic Medicine Act:
+3
+4
+
+Section 8:
+1. “Board” means the State Board of Osteopathic Examiners;
+4
+5
+
+Section 9:
+2. “Osteopathic medicine” means a patient-centered system of
+5
+6
+health care founded by Andrew Taylor Still, M.D., D.O., and based on
+6
+7
+the theory that the body is capable of making its own remedies
+7
+8
+against disease and other toxic conditions when it is in normal
+8
+9
+structural relationship and has favorable environmental conditions
+9
+10
+and adequate nutrition. Osteopathic medicine emphasizes prevention
+10
+11
+and wellness and utilizes generally accepted physical,
+11
+12
+pharmacological and surgical methods of diagnosis and therapy while
+12
+13
+placing strong emphasis on the importance of body mechanics and
+13
+14
+manipulative methods to detect and correct faulty structure and
+14
+15
+function;
+15
+16
+
+Section 10:
+3. “Osteopathic physician” means a person who is licensed to
+16
+17
+practice osteopathic medicine in this state; and
+17
+18
+
+Section 11:
+4. “School of osteopathic medicine” or “college of osteopathic
+18
+19
+medicine” means a legally chartered school or college accredited by
+19
+20
+the Commission on Osteopathic College Accreditation requiring:
+20
+21
+a. for admission to its courses of study, a preliminary
+21
+22
+education equal to the requirements established by the
+22
+23
+Bureau of Professional Education of the American
+23
+24
+Osteopathic Association, and
+24
+Req. No. 462 Page 3
+1
+b. for granting the D.O. degree, Doctor of Osteopathic
+1
+2
+Medicine, actual attendance at such osteopathic school
+2
+3
+or college and demonstration of successful completion
+3
+4
+of the curriculum and recommendation for graduation.
+4
+5
+
+Section 12:
+SECTION 2. AMENDATORY 59 O.S. 2021, Section 622, is
+5
+6
+amended to read as follows:
+6
+7
+
+Section 13:
+Section 622. A. 1. Except as otherwise provided by this
+7
+8
+
+Section 14:
+section, it shall be unlawful for any person to practice as an
+8
+9
+osteopathic physician and surgeon in this state, without a license
+9
+10
+to do so, issued by the State Board of Osteopathic Examiners;
+10
+11
+provided, that any license or certificate issued under the laws of
+11
+12
+this state, authorizing its holder to practice osteopathic medicine,
+12
+13
+shall remain in full force and effect. Persons who hold themselves
+13
+14
+out as osteopathic physicians in this state without a license issued
+14
+15
+by the State Board of Osteopathic Examiners submit themselves to the
+15
+16
+jurisdiction of the State Board of Osteopathic Examiners.
+16
+17
+
+Section 15:
+2. Osteopathic physicians engaged in postgraduate training
+17
+18
+beyond the internship year, also known as PGY-1, shall be licensed.
+18
+19
+Osteopathic physicians engaged in the internship or PGY-1 year may
+19
+20
+be eligible for shall be issued a resident training license and all
+20
+21
+other postgraduate students shall be issued an advanced resident
+21
+22
+training license.
+22
+23
+
+Section 16:
+3. Osteopathic physicians engaged in interventional pain
+23
+24
+management pursuant to the Oklahoma Interventional Pain Management
+24
+Req. No. 462 Page 4
+1
+and Treatment Act shall be licensed by the State Board of
+1
+2
+Osteopathic Examiners.
+2
+3
+B. 1. A person within or outside of this state who performs
+3
+4
+through electronic communications diagnostic or treatment services
+4
+5
+or other medical services within the scope of practice of an
+5
+6
+osteopathic physician and surgeon, including but not limited to,
+6
+7
+stroke prevention and treatment, for any patient whose condition is
+7
+8
+being diagnosed or treated within this state shall be licensed in
+8
+9
+this state, pursuant to the provisions of the Oklahoma Osteopathic
+9
+10
+Medicine Act. However, in such cases, a nonresident osteopathic
+10
+11
+physician who, while located outside this state, consults on an
+11
+12
+irregular basis with a physician who is located in this state is not
+12
+13
+required to be licensed in this state.
+13
+14
+
+Section 17:
+2. Any osteopathic physician licensed in this state who engages
+14
+15
+in the practice of medicine or the prescription of drugs, devices,
+15
+16
+or treatments via electronic means may do so only in the context of
+16
+17
+an appropriate physician/patient relationship wherein a proper
+17
+18
+patient record is maintained including, at the minimum, a current
+18
+19
+history and physical.
+19
+20
+
+Section 18:
+3. Any commissioned medical officer of the armed forces of the
+20
+21
+United States or medical officer of the United States Public Health
+21
+22
+Service or the Veterans Administration of the United States, in the
+22
+23
+discharge of official duties and/or whose practice is confined
+23
+24
+entirely within federally controlled facilities, who is fully
+24
+Req. No. 462 Page 5
+1
+licensed to practice osteopathic medicine and surgery in one or more
+1
+2
+jurisdictions of the United States shall not be required to be
+2
+3
+licensed in this state pursuant to the Oklahoma Osteopathic Medicine
+3
+4
+Act, unless the person already holds an osteopathic medical license
+4
+5
+in this state pursuant to the Oklahoma Osteopathic Medicine Act. In
+5
+6
+such case, the medical officer shall be subject to the Oklahoma
+6
+7
+Osteopathic Medicine Act.
+7
+8
+
+Section 19:
+4. A person who performs any of the functions covered by this
+8
+9
+subsection submits themselves to the jurisdiction of the courts of
+9
+10
+this state for the purposes of any cause of action resulting from
+10
+11
+the functions performed.
+11
+12
+C. A hospital, as defined in Section 1-701 of Title 63 of the
+12
+13
+Oklahoma Statutes, or a related institution, as such terms are
+13
+14
+defined in Section 1-701 of Title 63 of the Oklahoma Statutes, which
+14
+15
+has the principal purpose or function of providing hospital or
+15
+16
+medical care, including but not limited to any corporation,
+16
+17
+association, trust, or other organization organized and operated for
+17
+18
+such purpose, may employ one or more persons who are duly licensed
+18
+19
+to practice osteopathic medicine in this state without being
+19
+20
+regarded as itself practicing osteopathic medicine within the
+20
+21
+meaning and provisions of this section. The employment by the
+21
+22
+hospital or related institution of any person who is duly licensed
+22
+23
+shall not, in and of itself, be considered as an act of
+23
+24
+unprofessional conduct by the person so employed. Nothing provided
+24
+Req. No. 462 Page 6
+1
+herein shall eliminate, limit or restrict the liability for any act
+1
+2
+or failure to act of any hospital, any hospital’s employees or
+2
+3
+persons duly licensed to practice osteopathic medicine.
+3
+4
+D. Nothing in the Oklahoma Osteopathic Medicine Act shall be
+4
+5
+construed as to require an osteopathic physician to secure an
+5
+6
+Osteopathic Continuous Certification (OCC) as a condition of
+6
+7
+licensure, reimbursement, employment or admitting privileges at a
+7
+8
+hospital in this state. For the purposes of this subsection,
+8
+9
+“Osteopathic Continuous Certification (OCC)” shall mean a continuing
+9
+10
+education program measuring core competencies in the practice of
+10
+11
+medicine and surgery and approved by a nationally-recognized
+11
+12
+accrediting organization.
+12
+13
+
+Section 20:
+SECTION 3. AMENDATORY 59 O.S. 2021, Section 624, as
+13
+14
+amended by Section 1, Chapter 190, O.S.L. 2024 (59 O.S. Supp. 2024,
+14
+15
+
+Section 21:
+Section 624), is amended to read as follows:
+15
+16
+
+Section 22:
+Section 624. A. There is hereby re-created created the State
+16
+17
+Board of Osteopathic Examiners.
+17
+18
+B. The State Board of Osteopathic Examiners shall consist of
+18
+19
+eight (8) examiners appointed by the Governor, two of whom shall may
+19
+20
+be lay persons. The remaining examiners shall be regularly licensed
+20
+21
+osteopathic physicians in good standing in this state who have been
+21
+22
+so engaged for a period of at least five (5) years immediately prior
+22
+23
+to their appointment. The osteopathic physician examiners shall be
+23
+24
+appointed by the Governor from a list of not less than six names
+24
+Req. No. 462 Page 7
+1
+submitted to the Governor by the Oklahoma Osteopathic Association
+1
+2
+annually, and any present member of the Board of Examiners shall be
+2
+3
+appointed to fill out the unexpired term. All appointments made to
+3
+4
+the Board shall be for terms of seven (7) years. In the event of a
+4
+5
+vacancy brought about for any reason, the post so vacated shall be
+5
+6
+filled from a list of not less than six names submitted by the
+6
+7
+Oklahoma Osteopathic Association.
+7
+8
+C. The mission of the Board shall be to:
+8
+9
+
+Section 23:
+1. Safeguard public health by ensuring the highest standards of
+9
+10
+osteopathic medical practice and ethical standards;
+10
+11
+
+Section 24:
+2. Uphold the integrity of the profession through continuing
+11
+12
+education, diligent licensing and regulation, and continuous
+12
+13
+oversight of osteopathic physicians and surgeons; and
+13
+14
+
+Section 25:
+3. Promote the principles of osteopathic medicine, enhance the
+14
+15
+access and quality of patient care particularly in rural and
+15
+16
+underserved areas, and protect the residents of this state through
+16
+17
+effective governance, sound public policy, and enforcement of
+17
+18
+ethical and professional standards.
+18
+19
+D. The Board shall have and use a common seal, and make and
+19
+20
+adopt all necessary rules relating to the enforcement of the
+20
+21
+provisions of the Oklahoma Osteopathic Medicine Act. Each Board
+21
+22
+member shall receive the daily per diem rate for state employees.
+22
+23
+Travel expenses allowed under the State Travel Reimbursement Act
+23
+24
+shall also be provided to Board members traveling more than fifty
+24
+Req. No. 462 Page 8
+1
+(50) miles to the location of all regular and special Board
+1
+2
+meetings.
+2
+3
+E. A majority of the members of the Board shall constitute a
+3
+4
+quorum for the transaction of business.
+4
+5
+
+Section 26:
+SECTION 4. AMENDATORY 59 O.S. 2021, Section 625, is
+5
+6
+amended to read as follows:
+6
+7
+
+Section 27:
+Section 625. Each member of said Board the State Board of
+7
+8
+Osteopathic Examiners shall, before entering upon the duties of the
+8
+9
+office, take the oath of office prescribed by the Constitution
+9
+10
+before someone qualified to administer oaths, and shall, except for
+10
+11
+the lay person, make oath that the member is a legally qualified
+11
+12
+practitioner of osteopathic medicine in this state; and that the
+12
+13
+member has been engaged in the active practice of osteopathic
+13
+14
+medicine in this state at least five (5) years preceding the
+14
+15
+appointment of such member.
+15
+16
+
+Section 28:
+SECTION 5. AMENDATORY 59 O.S. 2021, Section 626, is
+16
+17
+amended to read as follows:
+17
+18
+
+Section 29:
+Section 626. A. 1. The State Board of Osteopathic Examiners
+18
+19
+shall, immediately after the members have qualified, elect a
+19
+20
+president, vice-president and secretary-treasurer secretary.
+20
+21
+
+Section 30:
+2. The president of said Board shall preside at all meetings of
+21
+22
+the Board and perform such other duties as the Board by its rule may
+22
+23
+prescribe.
+23
+24
+24
+Req. No. 462 Page 9
+1
+
+Section 31:
+3. The vice-president shall perform all the duties of the
+1
+2
+president, during the president’s absence or disability.
+2
+3
+
+Section 32:
+4. The secretary-treasurer secretary shall keep ensure a record
+3
+4
+is kept of all proceedings of the Board and perform such other
+4
+5
+duties as are prescribed in the Oklahoma Osteopathic Medicine Act,
+5
+6
+or which may be prescribed by said Board. It shall be the duty of
+6
+7
+the secretary-treasurer to receive and care for all monies coming
+7
+8
+into the hands of said Board, and to pay out the same upon orders of
+8
+9
+the Board.
+9
+10
+B. The State Board and such employees as determined by the
+10
+11
+Board shall be bonded as required by Sections 85.26 through 85.31 of
+11
+12
+Title 74 of the Oklahoma Statutes.
+12
+13
+C. The State Board may expend such funds as are necessary in
+13
+14
+implementing the duties of the Board. The Board may hire:
+14
+15
+
+Section 33:
+1. An executive director and, who may hire all necessary
+15
+16
+administrative, clerical and stenographic assistance as the Board
+16
+17
+shall deem necessary at a salary to be fixed by the Board and
+17
+18
+consistent with a budget to be fixed by the Board;
+18
+19
+
+Section 34:
+2. An attorney, on a case-by-case basis, to represent the Board
+19
+20
+in legal matters and to assist authorized state and county officers
+20
+21
+in prosecuting or restraining violations of the provisions of the
+21
+22
+Oklahoma Osteopathic Medicine Act. The Board shall fix the
+22
+23
+compensation of said attorney; and
+23
+24
+24
+Req. No. 462 Page 10
+1
+
+Section 35:
+3. One or more investigators, at least one of whom shall be
+1
+2
+certified by the Council on Law Enforcement Education and Training
+2
+3
+as a peace officer, as may be necessary to implement the provisions
+3
+4
+of the Oklahoma Osteopathic Medicine Act at an annual salary to be
+4
+5
+fixed by the Board, and may authorize necessary expenses. In
+5
+6
+addition, the investigators may investigate and inspect, through use
+6
+7
+of a Board subpoena, the nonfinancial business records of all
+7
+8
+persons licensed pursuant to the Oklahoma Osteopathic Medicine Act
+8
+9
+in order to determine whether or not licensees are in compliance
+9
+10
+with the Oklahoma Osteopathic Medicine Act and the Uniform
+10
+11
+Controlled Dangerous Substances Act or any other law, rule of the
+11
+12
+State of Oklahoma or any federal law or rule affecting the practice
+12
+13
+of osteopathic medicine.
+13
+14
+D. Any licensee or applicant for license subject to the
+14
+15
+provisions of the Oklahoma Osteopathic Medicine Act shall be deemed
+15
+16
+to have given consent to after presented with a Board subpoena by
+16
+17
+any duly authorized employee or agent of the Board to access, enter,
+17
+18
+or inspect the records, either on-site or at the Board office, or
+18
+19
+facilities of such licensee or applicant subject to the Oklahoma
+19
+20
+Osteopathic Medicine Act. Refusal Unless the Board subpoena is
+20
+21
+legally challenged, refusal to allow such access, entry, or
+21
+22
+inspection may constitute grounds for the denial, nonrenewal,
+22
+23
+suspension, or revocation of a license. Upon refusal of such
+23
+24
+access, entry, or inspection, pursuant to this section, the Board or
+24
+Req. No. 462 Page 11
+1
+a duly authorized representative may make application for and to
+1
+2
+enforce the Board subpoena or to obtain a search warrant from the
+2
+3
+district court where the facility or records are located to allow
+3
+4
+such access, entry, or inspection.
+4
+5
+
+Section 36:
+SECTION 6. AMENDATORY 59 O.S. 2021, Section 627, is
+5
+6
+amended to read as follows:
+6
+7
+
+Section 37:
+Section 627. A. The State Board of Osteopathic Examiners shall
+7
+8
+preserve a record of its proceedings which shall be kept
+8
+9
+electronically and open to public inspection at all reasonable
+9
+10
+times, showing:.
+10
+11
+B. The official register of licensed physicians available to
+11
+12
+the public shall include:
+12
+13
+
+Section 38:
+1. The name, age gender, license type, license status, and
+13
+14
+place of residence practice of each applicant licensee;
+14
+15
+
+Section 39:
+2. The time spent in the study of osteopathic medicine;
+15
+16
+
+Section 40:
+3. The year and school from which degrees were granted;
+16
+17
+
+Section 41:
+4. Its proceeding relative to the issuance, refusal, renewal,
+17
+18
+suspension, or revocation of licenses applied for, and issued
+18
+19
+pursuant to the Oklahoma Osteopathic Medicine Act; and
+19
+20
+
+Section 42:
+5. The name, known place of business and residence, and the
+20
+21
+date and number of license of each registered osteopathic physician
+21
+22
+and surgeon practice specialty of each licensee and indication of
+22
+23
+whether the licensee is board certified in such specialty; and
+23
+24
+24
+Req. No. 462 Page 12
+1
+
+Section 43:
+3. Whether the licensee has had disciplinary action taken on
+1
+2
+his or her Oklahoma license.
+2
+3
+The register shall be prima facie evidence of all matters
+3
+4
+contained therein.
+4
+5
+B. The secretary of said Board shall on the first of March of
+5
+6
+each year submit an official copy of said register to the Secretary
+6
+7
+of State for permanent record. A certified copy of said register,
+7
+8
+or any part thereof, with the hand and seal of the secretary of said
+8
+9
+State Board of Osteopathic Examiners, or the Secretary of State,
+9
+10
+shall be admitted in evidence in all courts of the state.
+10
+11
+C. It To ensure the accuracy of Board records, it shall be the
+11
+12
+responsibility of each osteopathic physician licensed under this act
+12
+13
+the Oklahoma Osteopathic Medicine Act to provide notify the Board
+13
+14
+with a notice of any change of address within fourteen (14) business
+14
+15
+days after any relocation of practice activity to the physician’s
+15
+16
+registry information.
+16
+17
+
+Section 44:
+SECTION 7. NEW LAW A new section of law to be codified
+17
+18
+in the Oklahoma Statutes as Section 628.1 of Title 59, unless there
+18
+19
+is created a duplication in numbering, reads as follows:
+19
+20
+The State Board of Osteopathic Examiners shall have the power
+20
+21
+to:
+21
+22
+
+Section 45:
+1. Adopt and prescribe the use of a common seal;
+22
+23
+
+Section 46:
+2. Hold regular meetings at times to be fixed by the president
+23
+24
+of the Board in accordance with the provisions of the Oklahoma Open
+24
+Req. No. 462 Page 13
+1
+Meeting Act. In addition, the president may call such special and
+1
+2
+other meetings in accordance with the provisions of the Oklahoma
+2
+3
+Open Meeting Act;
+3
+4
+
+Section 47:
+3. Promulgate rules necessary, expedient, or appropriate to the
+4
+5
+governance, performance, enforcement, or carrying out of any of the
+5
+6
+purposes, objectives, or provisions of the Oklahoma Osteopathic
+6
+7
+Medicine Act or to promulgate rules regarding the professional
+7
+8
+standards of the practice of osteopathic medicine;
+8
+9
+
+Section 48:
+4. Initiate and prosecute administrative, civil, or criminal
+9
+10
+actions and proceedings necessary under the Oklahoma Osteopathic
+10
+11
+Medicine Act;
+11
+12
+
+Section 49:
+5. Appoint authorized agents to make inspections or
+12
+13
+investigations and to perform other services for the Board;
+13
+14
+
+Section 50:
+6. Sell, exchange, or dispose of property as provided by state
+14
+15
+law;
+15
+16
+
+Section 51:
+7. Have jurisdiction over all matters affecting the practice of
+16
+17
+osteopathic medicine, and shall have continuing jurisdiction to
+17
+18
+reopen any actions taken by the Board;
+18
+19
+
+Section 52:
+8. Institute collection proceedings against licensees,
+19
+20
+applicants, and other entities under its jurisdiction. This
+20
+21
+authority includes the right to impose penalties for nonpayment;
+21
+22
+
+Section 53:
+9. Employ, appoint, or contract and fix the duties and
+22
+23
+compensation of the executive director and other personnel, either
+23
+24
+24
+Req. No. 462 Page 14
+1
+on full-time, part-time, or contractual basis, as deemed necessary
+1
+2
+by the Board;
+2
+3
+
+Section 54:
+10. Fix the qualifications of the personnel at the Board;
+3
+4
+
+Section 55:
+11. Accept and use grants of money and other property from any
+4
+5
+source;
+5
+6
+
+Section 56:
+12. Advise, consult, cooperate, and enter into agreements or
+6
+7
+contracts;
+7
+8
+
+Section 57:
+13. Revoke, suspend, or deny any license, permit, or charter
+8
+9
+issued by the Board if the Board finds any violation of the Oklahoma
+9
+10
+Osteopathic Medicine Act or any rule promulgated by the Board;
+10
+11
+
+Section 58:
+14. Prescribe forms of application, certification, licenses,
+11
+12
+charters, permits, and other forms as may be necessary to carry out
+12
+13
+the provisions of the Oklahoma Osteopathic Medicine Act;
+13
+14
+
+Section 59:
+15. Set renewal dates for any licenses, permits, or
+14
+15
+certificates issued by the Board by notifying licensees in writing
+15
+16
+of the expiration and renewal date being assigned to the licensee
+16
+17
+and permittee and by making an appropriate adjustment in the fee
+17
+18
+charged for the license, permit, or certificate;
+18
+19
+
+Section 60:
+16. Establish and collect fees for licenses, permits, charters,
+19
+20
+certificates, and services provided. The fees shall be promulgated
+20
+21
+in accordance with the Administrative Procedures Act and shall be
+21
+22
+fair and equitable to all parties concerned;
+22
+23
+
+Section 61:
+17. Adopt official professional standards of conduct;
+23
+24
+24
+Req. No. 462 Page 15
+1
+
+Section 62:
+18. Apply to the district court for a temporary or permanent
+1
+2
+injunction or any other remedy restraining any person from violating
+2
+3
+the Oklahoma Osteopathic Medicine Act;
+3
+4
+
+Section 63:
+19. Increase its efforts to ensure the safety and well-being of
+4
+5
+patients through administration of continuing education programs;
+5
+6
+
+Section 64:
+20. Establish agency special accounts through the Office of
+6
+7
+Management and Enterprise Services and the Office of the State
+7
+8
+Treasurer as necessary for the collection and distribution of funds,
+8
+9
+including funds of sponsors and registration fees related to
+9
+10
+conferences, meetings, and continuing education and resident
+10
+11
+physician training; and
+11
+12
+
+Section 65:
+21. Exercise all incidental powers which are necessary and
+12
+13
+proper to implement and administer the purposes of the Oklahoma
+13
+14
+Osteopathic Medicine Act.
+14
+15
+
+Section 66:
+SECTION 8. AMENDATORY 59 O.S. 2021, Section 632, is
+15
+16
+amended to read as follows:
+16
+17
+
+Section 67:
+Section 632. A. The examination of those who desire to
+17
+18
+practice as osteopathic physicians shall embrace those general
+18
+19
+subjects and topics, a knowledge of which is commonly and generally
+19
+20
+required of candidates for a D.O. degree, Doctor of Osteopathy or
+20
+21
+Doctor of Osteopathic Medicine, by accredited osteopathic colleges
+21
+22
+in the United States. An examination furnished by the National
+22
+23
+Board of Osteopathic Medical Examiners shall be deemed to fulfill
+23
+24
+this requirement.
+24
+Req. No. 462 Page 16
+1
+B. The applicant may be accepted who has successfully completed
+1
+2
+the examination sequence of the National Board of Osteopathic
+2
+3
+Medical Examiners and meets all other requirements as prescribed by
+3
+4
+the State Board of Osteopathic Examiners through rule.
+4
+5
+C. The State Board of Osteopathic Examiners shall have
+5
+6
+exclusive power and authority to determine the qualifications and
+6
+7
+fitness of all applicants for admission to practice osteopathic
+7
+8
+medicine in this state. The Board shall require that each applicant
+8
+9
+submit to a national criminal history record check as defined in
+9
+10
+
+Section 68:
+Section 150.9 of Title 74 of the Oklahoma Statutes. The Board shall
+10
+11
+not disseminate criminal history record information resulting from
+11
+12
+the background check outside of this state.
+12
+13
+D. 1. The Board is authorized to obtain a national criminal
+13
+14
+history background check on physician applicants seeking a letter of
+14
+15
+qualification for purposes of registration for expedited licensure
+15
+16
+through the Interstate Medical Licensure Compact pursuant to Section
+16
+17
+
+Section 69:
+493.7 of this title.
+17
+18
+
+Section 70:
+2. Oklahoma physician applicants seeking a letter of
+18
+19
+qualification under the Compact shall be fingerprinted for the
+19
+20
+national criminal history background check. Applicant fingerprints
+20
+21
+shall be submitted to the Oklahoma State Bureau of Investigation and
+21
+22
+the national criminal history background check shall be conducted in
+22
+23
+accordance with Section 150.9 of Title 74 of the Oklahoma Statutes.
+23
+24
+24
+Req. No. 462 Page 17
+1
+The Bureau shall return national criminal history results to the
+1
+2
+Board.
+2
+3
+
+Section 71:
+3. Results obtained from the national criminal history
+3
+4
+background check shall be used solely for the screening of physician
+4
+5
+applicants and shall be retained by the Board. The Board shall not
+5
+6
+disseminate criminal history record information resulting from the
+6
+7
+background check.
+7
+8
+
+Section 72:
+4. This subsection shall only apply to Oklahoma physician
+8
+9
+applicants seeking an expedited license under the Compact.
+9
+10
+
+Section 73:
+SECTION 9. AMENDATORY 59 O.S. 2021, Section 633, as
+10
+11
+amended by Section 5, Chapter 262, O.S.L. 2022 (59 O.S. Supp. 2024,
+11
+12
+
+Section 74:
+Section 633), is amended to read as follows:
+12
+13
+
+Section 75:
+Section 633. A. Each applicant who has met all requirements
+13
+14
+for licensure shall be issued a license to practice as an
+14
+15
+osteopathic physician and surgeon. Upon application, the State
+15
+16
+Board of Osteopathic Examiners may also issue special licenses,
+16
+17
+permits, warrants, and certificates including, but not limited to,
+17
+18
+a:
+18
+19
+
+Section 76:
+1. Temporary License license;
+19
+20
+
+Section 77:
+2. Resident Training License training license;
+20
+21
+
+Section 78:
+3. Telemedicine License;
+21
+22
+
+Section 79:
+4. Military Spouse License; or Advanced resident training
+22
+23
+license;
+23
+24
+
+Section 80:
+4. Full unrestricted or advanced resident training license; or
+24
+Req. No. 462 Page 18
+1
+
+Section 81:
+5. Temporary critical need license under Section 1 of this act
+1
+2
+
+Section 82:
+Section 6011 of this title.
+2
+3
+B. The Board shall, through rule, establish restrictions for
+3
+4
+special licenses including, but not limited to, training licenses,
+4
+5
+to ensure that the holder practices only under appropriate
+5
+6
+circumstances as set by the Board.
+6
+7
+
+Section 83:
+SECTION 10. AMENDATORY 59 O.S. 2021, Section 634, is
+7
+8
+amended to read as follows:
+8
+9
+
+Section 84:
+Section 634. The State Board of Osteopathic Examiners may issue
+9
+10
+a license without examination to a practitioner who is currently
+10
+11
+licensed in any country, state, territory or province, upon the
+11
+12
+following conditions:
+12
+13
+
+Section 85:
+1. That the requirements of registration in the country, state,
+13
+14
+territory or province in which the applicant is licensed are deemed
+14
+15
+by the State Board to have been equivalent to the requirements of
+15
+16
+registration in force in this state at the date of such license;
+16
+17
+
+Section 86:
+2. That the applicant has no disciplinary matters pending
+17
+18
+against him in any country, state, territory or province; and
+18
+19
+
+Section 87:
+3. That the license being reciprocated must have been obtained
+19
+20
+by an examination in that country, state, territory or province
+20
+21
+deemed by the Board to be equivalent to that used by the Board, or
+21
+22
+obtained by examination of the National Board of Osteopathic Medical
+22
+23
+Examiners.
+23
+24
+24
+Req. No. 462 Page 19
+1
+
+Section 88:
+SECTION 11. AMENDATORY 59 O.S. 2021, Section 635.1, is
+1
+2
+amended to read as follows:
+2
+3
+
+Section 89:
+Section 635.1. A. There is established a special volunteer
+3
+4
+medical license for physicians who are retired from active practice
+4
+5
+and wish to donate their expertise for the medical care and
+5
+6
+treatment of indigent and needy persons of the state. The special
+6
+7
+volunteer medical license shall may be:
+7
+8
+
+Section 90:
+1. Issued by the State Board of Osteopathic Examiners to
+8
+9
+eligible physicians;
+9
+10
+
+Section 91:
+2. Issued without a payment of an application fee, license fee
+10
+11
+or renewal fee;
+11
+12
+
+Section 92:
+3. Issued or renewed without any continuing education
+12
+13
+requirements;
+13
+14
+
+Section 93:
+4. Issued for a fiscal year or part thereof; and
+14
+15
+
+Section 94:
+5. 4. Renewable annually upon approval of the Board.
+15
+16
+B. A physician must meet the following requirements to be
+16
+17
+eligible for a special volunteer medical license:
+17
+18
+
+Section 95:
+1. Completion of a special volunteer medical license
+18
+19
+application, including documentation of the physician’s osteopathic
+19
+20
+school graduation and practice history;
+20
+21
+
+Section 96:
+2. Documentation that the physician has been previously issued
+21
+22
+a full and unrestricted license to practice medicine in Oklahoma or
+22
+23
+in another state of the United States and that he or she has never
+23
+24
+24
+Req. No. 462 Page 20
+1
+been the subject of any medical disciplinary action in any
+1
+2
+jurisdiction;
+2
+3
+
+Section 97:
+3. Acknowledgement and documentation that the physician’s
+3
+4
+practice under the special volunteer medical license will be
+4
+5
+exclusively and totally devoted to providing medical care to needy
+5
+6
+and indigent persons in Oklahoma or to providing care under the
+6
+7
+Oklahoma Medical Reserve Corps; and
+7
+8
+
+Section 98:
+4. Acknowledgement and documentation that the physician will
+8
+9
+not receive or have the expectation to receive any payment or
+9
+10
+compensation, either direct or indirect, for any medical services
+10
+11
+rendered under the special volunteer medical license.
+11
+12
+
+Section 99:
+SECTION 12. AMENDATORY 59 O.S. 2021, Section 635.3, is
+12
+13
+amended to read as follows:
+13
+14
+
+Section 100:
+Section 635.3. A. There is established in this state a
+14
+15
+resident training license for medical school graduates during their
+15
+16
+internship or first postgraduate year (PGY-1). The resident
+16
+17
+training license shall be:
+17
+18
+
+Section 101:
+1. Issued by the State Board of Osteopathic Examiners to
+18
+19
+eligible physicians;
+19
+20
+
+Section 102:
+2. Issued without any continuing education requirements; and
+20
+21
+
+Section 103:
+3. Issued for no more than one (1) year; and
+21
+22
+
+Section 104:
+4. Nonrenewable unless renewal is specifically approved by the
+22
+23
+State Board of Osteopathic Examiners.
+23
+24
+24
+Req. No. 462 Page 21
+1
+B. If the physician’s resident training program specifically
+1
+2
+approves the resident to have prescribing authority, the resident
+2
+3
+training license shall permit the physician to apply for prescribing
+3
+4
+privileges from state or federal authorities.
+4
+5
+C. The resident training license shall not permit:
+5
+6
+
+Section 105:
+1. The physician to practice medicine beyond the scope allowed
+6
+7
+by the physician’s training program; or
+7
+8
+
+Section 106:
+2. The licensee to practice independent of the residency
+8
+9
+program;.
+9
+10
+D. The resident training license is not a prerequisite to
+10
+11
+participation in any internship or PGY-1 training program.
+11
+12
+E. Any person holding a resident training license is not
+12
+13
+guaranteed subsequent full or advanced resident licensure in
+13
+14
+Oklahoma this state as an osteopathic physician.
+14
+15
+F. Any application for full licensure shall be adjudged by the
+15
+16
+Board on its own merits including training, education and personal
+16
+17
+background.
+17
+18
+G. A physician shall meet the following requirements to be
+18
+19
+eligible for a resident training license:
+19
+20
+
+Section 107:
+1. Completion of a resident training license application;
+20
+21
+
+Section 108:
+2. Payment of the application fee; and
+21
+22
+
+Section 109:
+3. Documentation from the applicant’s Oklahoma training program
+22
+23
+recommending the physician and stating the applicant meets all the
+23
+24
+requirements for such licensure.
+24
+Req. No. 462 Page 22
+1
+
+Section 110:
+SECTION 13. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 635.4 of Title 59, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. The State Board of Osteopathic Examiners may issue an
+4
+5
+osteopathic faculty license without examination to an individual who
+5
+6
+remits an electronic application and fee, as set by the Board, who:
+6
+7
+
+Section 111:
+1. Demonstrates to the Board that he or she is currently
+7
+8
+licensed to practice osteopathic medicine in another jurisdiction in
+8
+9
+the United States;
+9
+10
+
+Section 112:
+2. Demonstrates to the Board that he or she is a graduate of an
+10
+11
+accredited school of osteopathic medicine; and
+11
+12
+
+Section 113:
+3. Has completed the requirements of general licensure as
+12
+13
+defined by the Board.
+13
+14
+B. The license shall authorize the holder to practice only in
+14
+15
+conjunction with his or her teaching duties at an accredited school
+15
+16
+of osteopathic medicine or in its affiliated teaching hospitals or
+16
+17
+clinics.
+17
+18
+C. Such license shall automatically expire upon termination of
+18
+19
+the holder’s relationship with the school or after a period of
+19
+20
+twenty-four (24) months, whichever occurs first.
+20
+21
+
+Section 114:
+SECTION 14. AMENDATORY 59 O.S. 2021, Section 637, as
+21
+22
+amended by Section 5, Chapter 150, O.S.L. 2023 (59 O.S. Supp. 2024,
+22
+23
+
+Section 115:
+Section 637), is amended to read as follows:
+23
+24
+24
+Req. No. 462 Page 23
+1
+
+Section 116:
+Section 637. A. The State Board of Osteopathic Examiners may
+1
+2
+institute disciplinary action, enforce sanctions, or refuse to admit
+2
+3
+a person to an examination or may refuse to issue or reinstate or
+3
+4
+may suspend or revoke any license issued or reinstated by the Board
+4
+5
+upon proof that the applicant or holder of such a license:
+5
+6
+
+Section 117:
+1. Has obtained a license, license renewal or authorization to
+6
+7
+sit for an examination, as the case may be, through fraud,
+7
+8
+deception, misrepresentation or bribery; or has been granted a
+8
+9
+license, license renewal or authorization to sit for an examination
+9
+10
+based upon a material mistake of fact;
+10
+11
+
+Section 118:
+2. Has engaged in the use or employment of dishonesty, fraud,
+11
+12
+misrepresentation, false promise, false pretense, unethical conduct
+12
+13
+or unprofessional conduct, as may be determined by the Board, in the
+13
+14
+performance of the functions or duties of an osteopathic physician,
+14
+15
+including but not limited to the following:
+15
+16
+a. obtaining or attempting to obtain any fee, charge,
+16
+17
+tuition or other compensation by fraud, deception or
+17
+18
+misrepresentation; willfully and continually
+18
+19
+overcharging or overtreating patients; or charging for
+19
+20
+visits to the physician’s office which did not occur
+20
+21
+or for services which were not rendered,
+21
+22
+b. using intimidation, coercion or deception to obtain or
+22
+23
+retain a patient or discourage the use of a second
+23
+24
+opinion or consultation,
+24
+Req. No. 462 Page 24
+1
+c. willfully performing inappropriate or unnecessary
+1
+2
+treatment, diagnostic tests or osteopathic medical or
+2
+3
+surgical services,
+3
+4
+d. delegating professional responsibilities to a person
+4
+5
+who is not qualified by training, skill, competency,
+5
+6
+age, experience or licensure to perform them, noting
+6
+7
+that delegation may only occur within an appropriate
+7
+8
+doctor-patient relationship, wherein a proper patient
+8
+9
+record is maintained including, but not limited to, at
+9
+10
+the minimum, a current history and physical,
+10
+11
+e. misrepresenting that any disease, ailment, or
+11
+12
+infirmity can be cured by a method, procedure,
+12
+13
+treatment, medicine or device,
+13
+14
+f. acting in a manner which results in final disciplinary
+14
+15
+action by any professional society or association or
+15
+16
+hospital or medical staff of such hospital in this or
+16
+17
+any other state, whether agreed to voluntarily or not,
+17
+18
+if the action was in any way related to professional
+18
+19
+conduct, professional competence, malpractice or any
+19
+20
+other violation of the Oklahoma Osteopathic Medicine
+20
+21
+Act,
+21
+22
+g. signing a blank prescription form; or dispensing,
+22
+23
+prescribing, administering or otherwise distributing
+23
+24
+any drug, controlled substance or other treatment
+24
+Req. No. 462 Page 25
+1
+without sufficient examination or the establishment of
+1
+2
+a physician-patient relationship, or for other than
+2
+3
+medically accepted therapeutic or experimental or
+3
+4
+investigational purpose duly authorized by a state or
+4
+5
+federal agency, or not in good faith to relieve pain
+5
+6
+and suffering, or not to treat an ailment, physical
+6
+7
+infirmity or disease, or violating any state or
+7
+8
+federal law on controlled dangerous substances
+8
+9
+including, but not limited to, prescribing, dispensing
+9
+10
+or administering opioid drugs in excess of the maximum
+10
+11
+limits authorized in Section 2-309I of Title 63 of the
+11
+12
+Oklahoma Statutes,
+12
+13
+h. engaging in any sexual activity within a physician-
+13
+14
+patient relationship,
+14
+15
+i. terminating the care of a patient without adequate
+15
+16
+notice or without making other arrangements for the
+16
+17
+continued care of the patient,
+17
+18
+j. failing to furnish a copy of a patient’s medical
+18
+19
+records upon a proper request from the patient or
+19
+20
+legal agent of the patient or another physician; or
+20
+21
+failing to comply with any other law relating to
+21
+22
+medical records,
+22
+23
+k. failing to comply with any subpoena issued by the
+23
+24
+Board,
+24
+Req. No. 462 Page 26
+1
+l. violating a probation agreement or order with this
+1
+2
+Board or any other agency, and
+2
+3
+m. failing to keep complete and accurate records of
+3
+4
+purchase and disposal of controlled drugs or narcotic
+4
+5
+drugs;
+5
+6
+
+Section 119:
+3. Has engaged in gross negligence, gross malpractice or gross
+6
+7
+incompetence;
+7
+8
+
+Section 120:
+4. Has engaged in repeated acts of negligence, malpractice or
+8
+9
+incompetence;
+9
+10
+
+Section 121:
+5. Has been finally adjudicated and found guilty, or entered a
+10
+11
+plea of guilty or nolo contendere in a criminal prosecution, for any
+11
+12
+offense reasonably related to the qualifications, functions or
+12
+13
+duties of an osteopathic physician, whether or not sentence is
+13
+14
+imposed, and regardless of the pendency of an appeal;
+14
+15
+
+Section 122:
+6. Has had the authority to engage in the activities regulated
+15
+16
+by the Board revoked, suspended, restricted, modified or limited, or
+16
+17
+has been reprimanded, warned or censured, probated or otherwise
+17
+18
+disciplined by any other state or federal agency whether or not
+18
+19
+voluntarily agreed to by the physician including, but not limited
+19
+20
+to, the denial of licensure, surrender of the license, permit or
+20
+21
+authority, allowing the license, permit or authority to expire or
+21
+22
+lapse, or discontinuing or limiting the practice of osteopathic
+22
+23
+medicine pending disposition of a complaint or completion of an
+23
+24
+investigation;
+24
+Req. No. 462 Page 27
+1
+
+Section 123:
+7. Has violated or failed to comply with provisions of any act
+1
+2
+or regulation administered by the Board;
+2
+3
+
+Section 124:
+8. Is incapable, for medical or psychiatric or any other good
+3
+4
+cause, of discharging the functions of an osteopathic physician in a
+4
+5
+manner consistent with the public’s health, safety and welfare;
+5
+6
+
+Section 125:
+9. Has been guilty of advertising by means of knowingly false
+6
+7
+or deceptive statements;
+7
+8
+
+Section 126:
+10. Has been guilty of advertising, practicing, or attempting
+8
+9
+to practice under a name other than one’s own;
+9
+10
+
+Section 127:
+11. Has violated or refused to comply with a lawful order of
+10
+11
+the Board;
+11
+12
+
+Section 128:
+12. Has been guilty of habitual drunkenness, or habitual
+12
+13
+addiction to the use of morphine, cocaine or other habit-forming
+13
+14
+drugs;
+14
+15
+
+Section 129:
+13. Has been guilty of personal offensive behavior, which would
+15
+16
+include, but not be limited to, obscenity, lewdness, and
+16
+17
+molestation;
+17
+18
+
+Section 130:
+14. Has performed an abortion as defined by Section 1-730 of
+18
+19
+Title 63 of the Oklahoma Statutes, except for an abortion necessary
+19
+20
+to prevent the death of the mother or to prevent substantial or
+20
+21
+irreversible physical impairment of the mother that substantially
+21
+22
+increases the risk of death. The performance of an abortion on the
+22
+23
+basis of the mental or emotional health of the mother shall be a
+23
+24
+violation of this paragraph, notwithstanding a claim or diagnosis
+24
+Req. No. 462 Page 28
+1
+that the woman may engage in conduct which she intends to result in
+1
+2
+her death. The Board shall impose a penalty as provided in this
+2
+3
+
+Section 131:
+section and in Section 637.1 of this title on a licensee who
+3
+4
+violates this paragraph. The penalty shall include, but not be
+4
+5
+limited to, suspension of the license for a period not less than one
+5
+6
+(1) year;
+6
+7
+
+Section 132:
+15. Has been adjudicated to be insane, or incompetent, or
+7
+8
+admitted to an institution for the treatment of psychiatric
+8
+9
+disorders; or
+9
+10
+
+Section 133:
+16. Has knowingly provided gender transition procedures as
+10
+11
+defined in Section 1 of this act Section 2607.1 of Title 63 of the
+11
+12
+Oklahoma Statutes to a child;
+12
+13
+
+Section 134:
+17. Has violated any of the provisions of the Oklahoma Pharmacy
+13
+14
+Act, which shall be punishable by appropriate actions established in
+14
+15
+rules promulgated by the Board; or
+15
+16
+
+Section 135:
+18. Has breached the American Osteopathic Association Code of
+16
+17
+Ethics or the Osteopathic Oath.
+17
+18
+B. The Board may enter an order denying licensure or imposing
+18
+19
+any of the penalties as prescribed by rule against any applicant for
+19
+20
+licensure or licensee who is found guilty of violating any provision
+20
+21
+of subsection A of this section. In determining what action is
+21
+22
+appropriate, the Board shall first consider what sanctions are
+22
+23
+necessary to protect the public or to compensate the patient. Only
+23
+24
+after those sanctions have been imposed may the Board consider and
+24
+Req. No. 462 Page 29
+1
+include in the order requirements designed to rehabilitate the
+1
+2
+physician. All costs associated with compliance with orders issued
+2
+3
+under this subsection shall be the obligation of the physician.
+3
+4
+C. In any administrative action against a physician which does
+4
+5
+not involve revocation or suspension of a license, the Board shall
+5
+6
+have the burden, by the greater weight of the evidence, to establish
+6
+7
+the existence of grounds for disciplinary action. The Board shall
+7
+8
+establish grounds for revocation or suspension of license by clear
+8
+9
+and convincing evidence.
+9
+10
+D. The Board shall not reinstate the license or certificate of
+10
+11
+an osteopathic physician, or cause a license or certificate to be
+11
+12
+issued to a person it has deemed unqualified, until such time as it
+12
+13
+is satisfied that he or she has complied with all the terms and
+13
+14
+conditions set forth in the final order and that such person is
+14
+15
+capable of safely engaging in the practice of osteopathic medicine.
+15
+16
+However, the Board shall not issue a license to, or reinstate the
+16
+17
+license of, any osteopathic physician found by the Board to have
+17
+18
+committed repeated medical malpractice, regardless of the extent to
+18
+19
+which the licensee or prospective licensee has complied with all
+19
+20
+terms and conditions set forth in the final order or is capable of
+20
+21
+safely engaging in the practice of osteopathic medicine.
+21
+22
+E. The State Board of Osteopathic Examiners shall neither
+22
+23
+refuse to renew, nor suspend, nor revoke any license, however, for
+23
+24
+any of these causes, unless the person accused has been given at
+24
+Req. No. 462 Page 30
+1
+least twenty (20) days’ notice in writing of the charge against him
+1
+2
+or her and a public hearing by the Board; provided, three-fourths
+2
+3
+(3/4) of a quorum present at a meeting may vote to suspend a license
+3
+4
+in an emergency situation if the licensee affected is provided a
+4
+5
+public hearing within thirty (30) days of the emergency suspension.
+5
+6
+C. F. The State Board of Osteopathic Examiners shall have the
+6
+7
+power to order or subpoena the attendance of witnesses, the
+7
+8
+inspection of records and premises and the production of relevant
+8
+9
+books and papers for the investigation of matters that may come
+9
+10
+before them. The presiding officer of the Board or his or her
+10
+11
+designee shall have the authority to compel the giving of testimony
+11
+12
+as is conferred on courts of justice.
+12
+13
+D. G. Any osteopathic physician in this state whose license to
+13
+14
+practice osteopathic medicine is revoked or suspended under this
+14
+15
+
+Section 136:
+section shall have the right to seek judicial review of a ruling of
+15
+16
+the Board pursuant to the Administrative Procedures Act.
+16
+17
+E. H. The Board may enact rules and regulations pursuant to the
+17
+18
+Administrative Procedures Act setting out additional acts of
+18
+19
+unprofessional conduct, which acts shall be grounds for refusal to
+19
+20
+issue or reinstate, or for action to condition, suspend or revoke a
+20
+21
+license necessary or appropriate to the performance, enforcement, or
+21
+22
+carrying out of any of the purposes, objectives, or provisions of
+22
+23
+this section.
+23
+24
+24
+Req. No. 462 Page 31
+1
+
+Section 137:
+SECTION 15. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 637.2 of Title 59, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. At any time after the State Board of Osteopathic Examiners
+4
+5
+has revoked or suspended the license to practice osteopathic
+5
+6
+medicine or surgery of any person, the Board, upon its own motion
+6
+7
+and of its own authority and right, may reconsider such order and
+7
+8
+decision for any reason deemed by it to be sufficient and may, in
+8
+9
+its discretion, reinstate the license of such person.
+9
+10
+B. At any time after the expiration of twelve (12) months from
+10
+11
+the date the license of any person to practice osteopathic medicine
+11
+12
+or surgery has been revoked with the right to reapply, or at any
+12
+13
+time after the expiration of six (6) months from the date the
+13
+14
+license of any person to practice osteopathic medicine or surgery
+14
+15
+has been suspended by the Board, such person whose license has been
+15
+16
+so revoked or suspended may file an application with the executive
+16
+17
+director of the Board, together with an application fee set by the
+17
+18
+Board, to reinstate the license. The Board may further prescribe
+18
+19
+through rule a process in which an application to reinstate may be
+19
+20
+pursued.
+20
+21
+
+Section 138:
+SECTION 16. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 637.3 of Title 59, unless there
+22
+23
+is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 462 Page 32
+1
+A. The State Board of Osteopathic Examiners is hereby given
+1
+2
+quasi-judicial powers while sitting as a Board for the purpose of
+2
+3
+revoking, suspending, or imposing other disciplinary actions upon
+3
+4
+the license of osteopathic physicians or surgeons of this state.
+4
+5
+B. To the extent necessary to allow the Board the power to
+5
+6
+enforce disciplinary actions imposed by the Board, in the exercise
+6
+7
+of its authority, the Board may punish willful violations of its
+7
+8
+orders and impose additional penalties as allowed by Section 638 of
+8
+9
+Title 59 of the Oklahoma Statutes.
+9
+10
+
+Section 139:
+SECTION 17. AMENDATORY 59 O.S. 2021, Section 641, is
+10
+11
+amended to read as follows:
+11
+12
+
+Section 140:
+Section 641. A. All persons legally licensed to practice
+12
+13
+osteopathic medicine in this state, on or before the first day of
+13
+14
+July of each year, shall apply to the secretary-treasurer of the
+14
+15
+Board, on forms furnished thereby, for a renewal certificate of
+15
+16
+registration entitling such licensee to practice osteopathic
+16
+17
+medicine and surgery in Oklahoma during the next ensuing fiscal
+17
+18
+year.
+18
+19
+B. The State Board of Osteopathic Examiners may prescribe
+19
+20
+through rule the necessary information required relevant to a
+20
+21
+licensee’s professional activity including, but not limited to:
+21
+22
+
+Section 141:
+1. Any action taken against the licensee for acts or conduct
+22
+23
+similar to acts or conduct described in the Oklahoma Osteopathic
+23
+24
+Medicine Act as grounds for disciplinary action;
+24
+Req. No. 462 Page 33
+1
+
+Section 142:
+2. Any adverse judgement, settlement, or award against the
+1
+2
+licensee arising from a professional liability claim;
+2
+3
+
+Section 143:
+3. The licensee’s voluntary surrender of or voluntary
+3
+4
+limitation on any license or authorization to practice medicine and
+4
+5
+surgery in any jurisdiction including military, public health, and
+5
+6
+foreign;
+6
+7
+
+Section 144:
+4. Any denial to the licensee of a license or authorization to
+7
+8
+practice medicine and surgery by any jurisdiction including
+8
+9
+military, public health, or foreign;
+9
+10
+
+Section 145:
+5. The licensee’s voluntary resignation from the medical staff
+10
+11
+of any health care institution or voluntary limitation of the
+11
+12
+licensee’s staff privileges at such an institution if that action
+12
+13
+occurred while the licensee was under formal or informal
+13
+14
+investigation by the institution or a committee thereof for any
+14
+15
+reason related to alleged medical incompetence, unprofessional
+15
+16
+conduct, or mental or physical impairment;
+16
+17
+
+Section 146:
+6. The licensee’s voluntary resignation or withdrawal from a
+17
+18
+national, state, or county medical society, association, or
+18
+19
+organization if that action occurred while the licensee was under
+19
+20
+formal or informal investigation or review by that body for any
+20
+21
+reason related to possible medical incompetence, unprofessional or
+21
+22
+unethical conduct, or mental or physical impairment;
+22
+23
+
+Section 147:
+7. Whether the licensee has had any health conditions that may
+23
+24
+affect his or her ability to practice safely. Disclosures shall
+24
+Req. No. 462 Page 34
+1
+focus on current impairments that directly affect clinical
+1
+2
+competence or adversely affect ability to practice medicine in a
+2
+3
+competent, ethical, and professional manner, not on past or managed
+3
+4
+health conditions that do not impair professional duties; and
+4
+5
+
+Section 148:
+8. The licensee’s completion of continuing medical education or
+5
+6
+other forms of professional maintenance or evaluation, including
+6
+7
+specialty board certification or recertification, during the
+7
+8
+previous registration period.
+8
+9
+C. 1. Each application shall be accompanied by a renewal fee
+9
+10
+in an amount sufficient to cover the cost and expense incurred by
+10
+11
+the State Board of Osteopathic Examiners, for a renewal of the
+11
+12
+person’s certificate to practice osteopathic medicine.
+12
+13
+
+Section 149:
+2. The Board may provide for the late renewal of a license upon
+13
+14
+payment of a late fee in accordance with Board rules.
+14
+15
+C. D. 1. In addition to the payment of the annual renewal fee
+15
+16
+each licensee applying for a renewal of the certificate shall
+16
+17
+furnish to the State Board of Osteopathic Examiners proof that the
+17
+18
+person has attended at least two (2) days of the annual educational
+18
+19
+program conducted by the Oklahoma Osteopathic Association, or its
+19
+20
+equivalent, as determined by the Board, in the fiscal year preceding
+20
+21
+the application for a renewal; provided, the Board may excuse the
+21
+22
+failure of the licensee to attend the educational program in the
+22
+23
+case of illness or other unavoidable casualty rendering it
+23
+24
+24
+Req. No. 462 Page 35
+1
+impossible for the licensee to have attended the educational program
+1
+2
+or its equivalent.
+2
+3
+
+Section 150:
+2. The Board shall require that the licensee receive not less
+3
+4
+than one (1) hour of education in pain management or one (1) hour of
+4
+5
+education in opioid use or addiction each year preceding an
+5
+6
+application for renewal of a license, unless the licensee has
+6
+7
+demonstrated to the satisfaction of the Board that the licensee does
+7
+8
+not currently hold a valid federal Drug Enforcement Administration
+8
+9
+registration number. Such education may be held at the annual
+9
+10
+educational program referenced in paragraph 1 of this subsection.
+10
+11
+D. E. The secretary of the State Board of Osteopathic Examiners
+11
+12
+shall send a written notice to every person holding a legal
+12
+13
+certificate to practice osteopathic medicine in this state, at least
+13
+14
+thirty (30) days prior to the first day of July each year, directed
+14
+15
+to the last-known address of the licensee, notifying the licensee
+15
+16
+that it will be necessary for the licensee to pay the renewal
+16
+17
+license fee as herein provided, and proper forms shall accompany the
+17
+18
+notice upon which the licensee shall make application for renewal of
+18
+19
+the certificate.
+19
+20
+F. The licensee shall attest to the veracity of the application
+20
+21
+form for license renewal. Failure to report fully and correctly
+21
+22
+shall be grounds for disciplinary action by the Board.
+22
+23
+G. The Board shall establish a system for reviewing renewal
+23
+24
+forms. The Board may initiate investigations and disciplinary
+24
+Req. No. 462 Page 36
+1
+proceedings based on information submitted by licensees for license
+1
+2
+renewal.
+2
+3
+
+Section 151:
+SECTION 18. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 641.1 of Title 59, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. All osteopathic physicians in active practice licensed by
+6
+7
+the State Board of Osteopathic Examiners shall maintain a policy for
+7
+8
+professional malpractice liability insurance; provided, however,
+8
+9
+that such requirement shall not apply to osteopathic physicians:
+9
+10
+
+Section 152:
+1. Covered by a group or hospital malpractice insurance policy;
+10
+11
+
+Section 153:
+2. Practicing in a state facility subject to The Governmental
+11
+12
+Tort Claims Act, Section 151 et seq. of Title 51 of the Oklahoma
+12
+13
+Statutes;
+13
+14
+
+Section 154:
+3. Practicing in a federal facility subject to the Federal Tort
+14
+15
+Claims Act;
+15
+16
+
+Section 155:
+4. Providing care as a volunteer under a special volunteer
+16
+17
+license pursuant to Section 635.1 of Title 59 of the Oklahoma
+17
+18
+Statutes or a temporary critical need license under Section 6011 of
+18
+19
+Title 59 of the Oklahoma Statutes;
+19
+20
+
+Section 156:
+5. Providing care as a retired osteopathic physician with a
+20
+21
+valid license in a volunteer, nonpaid capacity;
+21
+22
+
+Section 157:
+6. Practicing or residing in another state or country, who will
+22
+23
+not practice within this state during the license renewal year. An
+23
+24
+osteopathic physician that is residing but not practicing in this
+24
+Req. No. 462 Page 37
+1
+state but wishes to maintain an active license may sign an affidavit
+1
+2
+stating that the osteopathic physician is not practicing osteopathic
+2
+3
+medicine, listing the specific dates during which the osteopathic
+3
+4
+physician will not practice. The osteopathic physician must notify
+4
+5
+the Board in writing and provide proof of malpractice insurance no
+5
+6
+less than ten (10) days prior to resuming practice; or
+6
+7
+
+Section 158:
+7. An osteopathic physician may petition the Board to be
+7
+8
+temporarily exempted due to health, injury, or other personal
+8
+9
+exigent circumstance during the year. A signed and sworn affidavit
+9
+10
+and other documentation may be required by the Board. The Board at
+10
+11
+its discretion may exempt an osteopathic physician for a specific
+11
+12
+stated period of time.
+12
+13
+B. The State Board of Osteopathic Examiners may promulgate
+13
+14
+rules as necessary to carry out the provisions of this section
+14
+15
+including, but not limited to, minimum requirements for professional
+15
+16
+malpractice liability insurance policies and penalties for
+16
+17
+noncompliance.
+17
+18
+
+Section 159:
+SECTION 19. AMENDATORY 59 O.S. 2021, Section 642, is
+18
+19
+amended to read as follows:
+19
+20
+
+Section 160:
+Section 642. A. If any licensee shall fail to comply with the
+20
+21
+requirements of Section 641 of this title or this section and such
+21
+22
+license is allowed to lapse, the licensee shall, upon order of the
+22
+23
+State Board of Osteopathic Examiners, forfeit the right to practice
+23
+24
+osteopathic medicine in this state and the license and certificate
+24
+Req. No. 462 Page 38
+1
+shall be canceled, provided, however, that the Board may reinstate
+1
+2
+such person upon the payment of all fees due, plus a penalty fee in
+2
+3
+the amount fixed by the State Board of Osteopathic Examiners not to
+3
+4
+exceed twice the amount of the license renewal fees as determined by
+4
+5
+the Board and upon the presentation of satisfactory evidence of the
+5
+6
+attendance at an educational program as provided for in Sections 637
+6
+7
+and 641 of this title and such other proof of professional conduct
+7
+8
+as prescribed by rule. The State Board of Osteopathic Examiners
+8
+9
+shall not place the license of any person authorized to practice
+9
+10
+osteopathic medicine in this state on inactive status.
+10
+11
+B. Any licensee whose reregistration application is rejected by
+11
+12
+the Board, shall have the right to appeal from such action to the
+12
+13
+district court of the county of residence. If the licensee does not
+13
+14
+reside or practice in this state, appeal shall be to the Oklahoma
+14
+15
+County District Court.
+15
+16
+C. Licensees who retire from such practice or desire to request
+16
+17
+cancellation of their license shall file with the State Board of
+17
+18
+Osteopathic Examiners an affidavit, on a form to be furnished by the
+18
+19
+Board, which states the date of retirement and such other facts to
+19
+20
+verify the retirement or other reasons for cancellation as the Board
+20
+21
+may deem necessary and the license shall be canceled. If a licensee
+21
+22
+desires to re-engage the practice, the licensee shall reinstate the
+22
+23
+license as provided for in Sections 637 and 641 of this title and
+23
+24
+subsection A of this section.
+24
+Req. No. 462 Page 39
+1
+
+Section 161:
+SECTION 20. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 642.1 of Title 59, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. Every person licensed to practice osteopathic medicine by
+4
+5
+the State Board of Osteopathic Examiners shall report within
+5
+6
+fourteen (14) days any criminal investigation in a jurisdiction
+6
+7
+which concerns that person.
+7
+8
+B. Every person licensed to practice osteopathic medicine by
+8
+9
+the Board shall report within fourteen (14) days and action taken to
+9
+10
+limit their license, credentials, or other authorization to practice
+10
+11
+osteopathic medicine.
+11
+12
+C. If a person licensed to practice osteopathic medicine in
+12
+13
+this state voluntarily resigns from the staff of a health care
+13
+14
+institution, or voluntarily limits that person’s own staff
+14
+15
+privileges at a health care institution or fails to reapply for
+15
+16
+hospital or staff privileges at a health care institution, the
+16
+17
+person shall report in writing such conduct to the Board within
+17
+18
+fourteen (14) days. If the conduct occurs while the person is under
+18
+19
+formal investigation by the institution or a committee thereof for
+19
+20
+any reason related to possible unprofessional conduct or possible
+20
+21
+inability to practice osteopathic medicine, that conduct shall be
+21
+22
+included in the report.
+22
+23
+D. Every person to whom a license to practice osteopathic
+23
+24
+medicine is issued has a duty to report to the Board, within thirty
+24
+Req. No. 462 Page 40
+1
+(30) days, all information concerning medical malpractice claims
+1
+2
+settled or adjudicated to final judgment.
+2
+3
+
+Section 162:
+SECTION 21. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 642.2 of Title 59, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. Every person licensed to practice osteopathic medicine by
+6
+7
+the State Board of Osteopathic Examiners shall report to the Board
+7
+8
+information that the reporting person reasonably believes indicates
+8
+9
+that a person licensed to practice medicine in this state is, or may
+9
+10
+be, engaged in unprofessional conduct or may be unable to practice
+10
+11
+medicine with reasonable skill or safety to patients.
+11
+12
+B. An individual, institution, agency, or organization required
+12
+13
+to report under this section who does so in good faith is not
+13
+14
+subject to civil damages for reporting.
+14
+15
+C. Upon receiving a complaint involving potential criminal
+15
+16
+conduct, the Board shall promptly report the complaint to
+16
+17
+appropriate law enforcement agencies.
+17
+18
+
+Section 163:
+SECTION 22. AMENDATORY 59 O.S. 2021, Section 643, is
+18
+19
+amended to read as follows:
+19
+20
+
+Section 164:
+Section 643. The funds received pursuant to the Oklahoma
+20
+21
+Osteopathic Medicine Act or the Oklahoma Abortion-Inducing Drug
+21
+22
+Certification Program Act shall be deposited to the credit of the
+22
+23
+State Board of Osteopathic Examiners Revolving Fund and may be
+23
+24
+expended by the State Board of Osteopathic Examiners and under its
+24
+Req. No. 462 Page 41
+1
+direction in assisting in the enforcement of the laws of this state
+1
+2
+prohibiting the unlawful practice of osteopathic medicine, assisting
+2
+3
+in the support of a peer assistance program, administering
+3
+4
+continuing education programs to ensure the safety and well-being of
+4
+5
+patients, sponsoring resident physician training, and for the
+5
+6
+dissemination of information to prevent the violation of such laws,
+6
+7
+and for the purchasing of supplies and such other expense as is
+7
+8
+necessary to properly carry out the provisions of the Oklahoma
+8
+9
+Osteopathic Medicine Act or the Oklahoma Abortion-Inducing Drug
+9
+10
+Certification Program Act.
+10
+11
+
+Section 165:
+SECTION 23. AMENDATORY 59 O.S. 2021, Section 644, is
+11
+12
+amended to read as follows:
+12
+13
+
+Section 166:
+Section 644. There is hereby created in the State Treasury a
+13
+14
+revolving fund for the State Board of Osteopathic Examiners, to be
+14
+15
+designated the “State Board of Osteopathic Examiner’s Revolving
+15
+16
+Fund”. The fund shall be a continuing fund, not subject to fiscal
+16
+17
+year limitations, and shall consist of all monies received by the
+17
+18
+Board pursuant to the provisions of the Oklahoma Osteopathic
+18
+19
+Medicine Act or the Oklahoma Abortion-Inducing Drug Certification
+19
+20
+Program Act. All monies accruing to the credit of said the fund are
+20
+21
+hereby appropriated and may be budgeted and expended by the Board
+21
+22
+for the purpose of enforcing the laws of this state which prohibit
+22
+23
+the unlawful practice of osteopathic medicine, for the dissemination
+23
+24
+of information to prevent the violation of such laws and, for the
+24
+Req. No. 462 Page 42
+1
+purchase of supplies and such other expense as is necessary to
+1
+2
+properly implement the provisions of the Oklahoma Osteopathic
+2
+3
+Medicine Act or the Oklahoma Abortion-Inducing Drug Certification
+3
+4
+Program Act, and for any other purpose specified in Section 643 of
+4
+5
+this title. Expenditures from said fund shall be made upon warrants
+5
+6
+issued by the State Treasurer against claims signed by an authorized
+6
+7
+employee or employees of the State Board of Osteopathic Examiners
+7
+8
+and filed as prescribed by law with the Director of the Office of
+8
+9
+Management and Enterprise Services for approval and payment.
+9
+10
+
+Section 167:
+SECTION 24. AMENDATORY 59 O.S. 2021, Section 645, is
+10
+11
+amended to read as follows:
+11
+12
+
+Section 168:
+Section 645. A. The State Board of Osteopathic Examiners shall
+12
+13
+adopt such rules as may be necessary to implement the provisions of
+13
+14
+the Oklahoma Osteopathic Medicine Act and may establish fees
+14
+15
+authorized but not specified in the Oklahoma Osteopathic Medicine
+15
+16
+Act.
+16
+17
+B. The Board shall promulgate rules to identify essential
+17
+18
+elements of education and practice necessary to protect the public.
+18
+19
+C. The Board may prescribe by rule administrative remedies,
+19
+20
+disciplinary actions, sanctions, and administrative procedures to
+20
+21
+provide remedies and disciplinary actions for licensee violations of
+21
+22
+statutory or regulatory prescribed unprofessional conduct, to
+22
+23
+include fines up to the limits otherwise prescribed by statute or
+23
+24
+rule.
+24
+Req. No. 462 Page 43
+1
+D. The Board may provide by rule procedures for the licensee to
+1
+2
+contest or dispute any administrative action, procedures for
+2
+3
+resolution of any such contest or dispute, and appropriate
+3
+4
+protection of private information consistent with state and federal
+4
+5
+law.
+5
+6
+
+Section 169:
+SECTION 25. REPEALER 59 O.S. 2021, Section 631, is
+6
+7
+hereby repealed.
+7
+8
+
+Section 170:
+SECTION 26. It being immediately necessary for the preservation
+8
+9
+of the public peace, health or safety, an emergency is hereby
+9
+10
+declared to exist, by reason whereof this act shall take effect and
+10
+11
+be in full force from and after its passage and approval.
+11
+12
+12
+13
+60-1-462 DC 1/19/2025 5:46:10 AM
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 462 Page 44
+[DELETED:  P B H]
+[DELETED:  P]
+[DELETED:  P f]
+[DELETED:  P f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P o u]
+[DELETED:  P w d m a s]
+[DELETED:  P e t f f]
+[DELETED:  P v f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P D 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 929 By: Haste
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the practice of osteopathic
+7
+medicine; amending 59 O.S. 2021, Section 621, which
+8
+relates to definitions; adding and modifying
+8
+definitions; amending 59 O.S. 2021, Section 622,
+9
+which relates to osteopathic physician license;
+9
+modifying certain license requirements and
+10
+procedures; amending 59 O.S. 2021, Section 624, as
+10
+amended by Section 1, Chapter 190, O.S.L. 2024 (59
+11
+O.S. Supp. 2024, Section 624), which relates to the
+11
+State Board of Osteopathic Examiners; modifying
+12
+membership of the Board; specifying mission of the
+12
+Board; deleting certain Board requirement; providing
+13
+for quorum; amending 59 O.S. 2021, Section 625, which
+13
+relates to oath of members; removing certain oath and
+14
+membership requirements; amending 59 O.S. 2021,
+14
+Section 626, which relates to organization of the
+15
+Board; modifying title and duties of certain
+15
+position; modifying provisions relating to hiring and
+16
+compensation; providing for Board subpoena; amending
+16
+59 O.S. 2021, Section 627, which relates to record of
+17
+proceedings; modifying and removing requirements
+17
+related to publicly available records; requiring
+18
+certain notice by physician; establishing powers and
+18
+duties of the Board; amending 59 O.S. 2021, Section
+19
+632, which relates to examination; modifying and
+19
+removing certain examination requirements;
+20
+authorizing criminal background checks for certain
+20
+purpose; providing background check procedures;
+21
+limiting applicability of certain provisions and
+21
+disclosure of certain information; amending 59 O.S.
+22
+2021, Section 633, as amended by Section 5, Chapter
+22
+262, O.S.L. 2022 (59 O.S. Supp. 2024, Section 633),
+23
+which relates to licensure; modifying, adding, and
+23
+removing special license types; providing for certain
+24
+restrictions; amending 59 O.S. 2021, Section 634,
+24
+Req. No. 462 Page 1
+
+1
+which relates to reciprocal license; removing certain
+1
+exception; amending 59 O.S. 2021, Section 635.1,
+2
+which relates to special volunteer medical license;
+2
+removing certain exception; amending 59 O.S. 2021,
+3
+Section 635.3, which relates to resident training
+3
+license; expanding term of license; creating
+4
+osteopathic faculty license; stating minimum
+4
+requirements; limiting effect and term of license;
+5
+amending 59 O.S. 2021, Section 637, as amended by
+5
+Section 5, Chapter 150, O.S.L. 2023 (59 O.S. Supp.
+6
+2024, Section 637), which relates to disciplinary
+6
+action; broadening certain powers of the Board;
+7
+adding grounds for disciplinary action; stipulating
+7
+certain requirements and procedures for assessment of
+8
+penalties; specifying certain burdens of proof;
+8
+limiting availability of license reinstatement;
+9
+modifying certain rulemaking authority; providing for
+9
+reconsideration of certain orders; authorizing
+10
+certain appeals; granting quasi-judicial powers to
+10
+the Board; authorizing certain penalties; amending 59
+11
+O.S. 2021, Section 641, which relates to license
+11
+renewal; conforming language; authorizing certain
+12
+rules; providing for late renewal; requiring certain
+12
+attestation; providing for establishment of certain
+13
+system and investigations; requiring certain
+13
+malpractice liability insurance; providing
+14
+exceptions; authorizing promulgation of certain
+14
+rules; amending 59 O.S. 2021, Section 642, which
+15
+relates to penalties; modifying conditions for
+15
+license reinstatement; providing for certain appeals;
+16
+imposing certain reporting duties on licensees and
+16
+the Board; amending 59 O.S. 2021, Section 643, which
+17
+relates to use of funds; broadening allowed uses;
+17
+amending 59 O.S. 2021, Section 644, which relates to
+18
+the State Board of Osteopathic Examiner’s Revolving
+18
+Fund; conforming language; amending 59 O.S. 2021,
+19
+Section 645, which relates to rules; authorizing and
+19
+requiring promulgation of certain rules; updating
+20
+statutory language and references; repealing 59 O.S.
+20
+2021, Section 631, which relates to definition;
+21
+providing for codification; and declaring an
+21
+emergency.
+22
+22
+23
+23
+24
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+24
+Req. No. 462 Page 2
+
+1
+SECTION 1. AMENDATORY 59 O.S. 2021, Section 621, is
+1
+2
+amended to read as follows:
+2
+3
+Section 621. As used in the Oklahoma Osteopathic Medicine Act:
+3
+4
+1. “Board” means the State Board of Osteopathic Examiners;
+4
+5
+2. “Osteopathic medicine” means a patient-centered system of
+5
+6
+health care founded by Andrew Taylor Still, M.D., D.O., and based on
+6
+7
+the theory that the body is capable of making its own remedies
+7
+8
+against disease and other toxic conditions when it is in normal
+8
+9
+structural relationship and has favorable environmental conditions
+9
+10
+and adequate nutrition. Osteopathic medicine emphasizes prevention
+10
+11
+and wellness and utilizes generally accepted physical,
+11
+12
+pharmacological and surgical methods of diagnosis and therapy while
+12
+13
+placing strong emphasis on the importance of body mechanics and
+13
+14
+manipulative methods to detect and correct faulty structure and
+14
+15
+function;
+15
+16
+3. “Osteopathic physician” means a person who is licensed to
+16
+17
+practice osteopathic medicine in this state; and
+17
+18
+4. “School of osteopathic medicine” or “college of osteopathic
+18
+19
+medicine” means a legally chartered school or college accredited by
+19
+20
+the Commission on Osteopathic College Accreditation requiring:
+20
+21
+a. for admission to its courses of study, a preliminary
+21
+22
+education equal to the requirements established by the
+22
+23
+Bureau of Professional Education of the American
+23
+24
+Osteopathic Association, and
+24
+Req. No. 462 Page 3
+
+1
+b. for granting the D.O. degree, Doctor of Osteopathic
+1
+2
+Medicine, actual attendance at such osteopathic school
+2
+3
+or college and demonstration of successful completion
+3
+4
+of the curriculum and recommendation for graduation.
+4
+5
+SECTION 2. AMENDATORY 59 O.S. 2021, Section 622, is
+5
+6
+amended to read as follows:
+6
+7
+Section 622. A. 1. Except as otherwise provided by this
+7
+8
+section, it shall be unlawful for any person to practice as an
+8
+9
+osteopathic physician and surgeon in this state, without a license
+9
+10
+to do so, issued by the State Board of Osteopathic Examiners;
+10
+11
+provided, that any license or certificate issued under the laws of
+11
+12
+this state, authorizing its holder to practice osteopathic medicine,
+12
+13
+shall remain in full force and effect. Persons who hold themselves
+13
+14
+out as osteopathic physicians in this state without a license issued
+14
+15
+by the State Board of Osteopathic Examiners submit themselves to the
+15
+16
+jurisdiction of the State Board of Osteopathic Examiners.
+16
+17
+2. Osteopathic physicians engaged in postgraduate training
+17
+18
+beyond the internship year, also known as PGY-1, shall be licensed.
+18
+19
+Osteopathic physicians engaged in the internship or PGY-1 year may
+19
+20
+be eligible for shall be issued a resident training license and all
+20
+21
+other postgraduate students shall be issued an advanced resident
+21
+22
+training license.
+22
+23
+3. Osteopathic physicians engaged in interventional pain
+23
+24
+management pursuant to the Oklahoma Interventional Pain Management
+24
+Req. No. 462 Page 4
+
+1
+and Treatment Act shall be licensed by the State Board of
+1
+2
+Osteopathic Examiners.
+2
+3
+B. 1. A person within or outside of this state who performs
+3
+4
+through electronic communications diagnostic or treatment services
+4
+5
+or other medical services within the scope of practice of an
+5
+6
+osteopathic physician and surgeon, including but not limited to,
+6
+7
+stroke prevention and treatment, for any patient whose condition is
+7
+8
+being diagnosed or treated within this state shall be licensed in
+8
+9
+this state, pursuant to the provisions of the Oklahoma Osteopathic
+9
+10
+Medicine Act. However, in such cases, a nonresident osteopathic
+10
+11
+physician who, while located outside this state, consults on an
+11
+12
+irregular basis with a physician who is located in this state is not
+12
+13
+required to be licensed in this state.
+13
+14
+2. Any osteopathic physician licensed in this state who engages
+14
+15
+in the practice of medicine or the prescription of drugs, devices,
+15
+16
+or treatments via electronic means may do so only in the context of
+16
+17
+an appropriate physician/patient relationship wherein a proper
+17
+18
+patient record is maintained including, at the minimum, a current
+18
+19
+history and physical.
+19
+20
+3. Any commissioned medical officer of the armed forces of the
+20
+21
+United States or medical officer of the United States Public Health
+21
+22
+Service or the Veterans Administration of the United States, in the
+22
+23
+discharge of official duties and/or whose practice is confined
+23
+24
+entirely within federally controlled facilities, who is fully
+24
+Req. No. 462 Page 5
+
+1
+licensed to practice osteopathic medicine and surgery in one or more
+1
+2
+jurisdictions of the United States shall not be required to be
+2
+3
+licensed in this state pursuant to the Oklahoma Osteopathic Medicine
+3
+4
+Act, unless the person already holds an osteopathic medical license
+4
+5
+in this state pursuant to the Oklahoma Osteopathic Medicine Act. In
+5
+6
+such case, the medical officer shall be subject to the Oklahoma
+6
+7
+Osteopathic Medicine Act.
+7
+8
+4. A person who performs any of the functions covered by this
+8
+9
+subsection submits themselves to the jurisdiction of the courts of
+9
+10
+this state for the purposes of any cause of action resulting from
+10
+11
+the functions performed.
+11
+12
+C. A hospital, as defined in Section 1-701 of Title 63 of the
+12
+13
+Oklahoma Statutes, or a related institution, as such terms are
+13
+14
+defined in Section 1-701 of Title 63 of the Oklahoma Statutes, which
+14
+15
+has the principal purpose or function of providing hospital or
+15
+16
+medical care, including but not limited to any corporation,
+16
+17
+association, trust, or other organization organized and operated for
+17
+18
+such purpose, may employ one or more persons who are duly licensed
+18
+19
+to practice osteopathic medicine in this state without being
+19
+20
+regarded as itself practicing osteopathic medicine within the
+20
+21
+meaning and provisions of this section. The employment by the
+21
+22
+hospital or related institution of any person who is duly licensed
+22
+23
+shall not, in and of itself, be considered as an act of
+23
+24
+unprofessional conduct by the person so employed. Nothing provided
+24
+Req. No. 462 Page 6
+
+1
+herein shall eliminate, limit or restrict the liability for any act
+1
+2
+or failure to act of any hospital, any hospital’s employees or
+2
+3
+persons duly licensed to practice osteopathic medicine.
+3
+4
+D. Nothing in the Oklahoma Osteopathic Medicine Act shall be
+4
+5
+construed as to require an osteopathic physician to secure an
+5
+6
+Osteopathic Continuous Certification (OCC) as a condition of
+6
+7
+licensure, reimbursement, employment or admitting privileges at a
+7
+8
+hospital in this state. For the purposes of this subsection,
+8
+9
+“Osteopathic Continuous Certification (OCC)” shall mean a continuing
+9
+10
+education program measuring core competencies in the practice of
+10
+11
+medicine and surgery and approved by a nationally-recognized
+11
+12
+accrediting organization.
+12
+13
+SECTION 3. AMENDATORY 59 O.S. 2021, Section 624, as
+13
+14
+amended by Section 1, Chapter 190, O.S.L. 2024 (59 O.S. Supp. 2024,
+14
+15
+Section 624), is amended to read as follows:
+15
+16
+Section 624. A. There is hereby re-created created the State
+16
+17
+Board of Osteopathic Examiners.
+17
+18
+B. The State Board of Osteopathic Examiners shall consist of
+18
+19
+eight (8) examiners appointed by the Governor, two of whom shall may
+19
+20
+be lay persons. The remaining examiners shall be regularly licensed
+20
+21
+osteopathic physicians in good standing in this state who have been
+21
+22
+so engaged for a period of at least five (5) years immediately prior
+22
+23
+to their appointment. The osteopathic physician examiners shall be
+23
+24
+appointed by the Governor from a list of not less than six names
+24
+Req. No. 462 Page 7
+
+1
+submitted to the Governor by the Oklahoma Osteopathic Association
+1
+2
+annually, and any present member of the Board of Examiners shall be
+2
+3
+appointed to fill out the unexpired term. All appointments made to
+3
+4
+the Board shall be for terms of seven (7) years. In the event of a
+4
+5
+vacancy brought about for any reason, the post so vacated shall be
+5
+6
+filled from a list of not less than six names submitted by the
+6
+7
+Oklahoma Osteopathic Association.
+7
+8
+C. The mission of the Board shall be to:
+8
+9
+1. Safeguard public health by ensuring the highest standards of
+9
+10
+osteopathic medical practice and ethical standards;
+10
+11
+2. Uphold the integrity of the profession through continuing
+11
+12
+education, diligent licensing and regulation, and continuous
+12
+13
+oversight of osteopathic physicians and surgeons; and
+13
+14
+3. Promote the principles of osteopathic medicine, enhance the
+14
+15
+access and quality of patient care particularly in rural and
+15
+16
+underserved areas, and protect the residents of this state through
+16
+17
+effective governance, sound public policy, and enforcement of
+17
+18
+ethical and professional standards.
+18
+19
+D. The Board shall have and use a common seal, and make and
+19
+20
+adopt all necessary rules relating to the enforcement of the
+20
+21
+provisions of the Oklahoma Osteopathic Medicine Act. Each Board
+21
+22
+member shall receive the daily per diem rate for state employees.
+22
+23
+Travel expenses allowed under the State Travel Reimbursement Act
+23
+24
+shall also be provided to Board members traveling more than fifty
+24
+Req. No. 462 Page 8
+
+1
+(50) miles to the location of all regular and special Board
+1
+2
+meetings.
+2
+3
+E. A majority of the members of the Board shall constitute a
+3
+4
+quorum for the transaction of business.
+4
+5
+SECTION 4. AMENDATORY 59 O.S. 2021, Section 625, is
+5
+6
+amended to read as follows:
+6
+7
+Section 625. Each member of said Board the State Board of
+7
+8
+Osteopathic Examiners shall, before entering upon the duties of the
+8
+9
+office, take the oath of office prescribed by the Constitution
+9
+10
+before someone qualified to administer oaths, and shall, except for
+10
+11
+the lay person, make oath that the member is a legally qualified
+11
+12
+practitioner of osteopathic medicine in this state; and that the
+12
+13
+member has been engaged in the active practice of osteopathic
+13
+14
+medicine in this state at least five (5) years preceding the
+14
+15
+appointment of such member.
+15
+16
+SECTION 5. AMENDATORY 59 O.S. 2021, Section 626, is
+16
+17
+amended to read as follows:
+17
+18
+Section 626. A. 1. The State Board of Osteopathic Examiners
+18
+19
+shall, immediately after the members have qualified, elect a
+19
+20
+president, vice-president and secretary-treasurer secretary.
+20
+21
+2. The president of said Board shall preside at all meetings of
+21
+22
+the Board and perform such other duties as the Board by its rule may
+22
+23
+prescribe.
+23
+24
+24
+Req. No. 462 Page 9
+
+1
+3. The vice-president shall perform all the duties of the
+1
+2
+president, during the president’s absence or disability.
+2
+3
+4. The secretary-treasurer secretary shall keep ensure a record
+3
+4
+is kept of all proceedings of the Board and perform such other
+4
+5
+duties as are prescribed in the Oklahoma Osteopathic Medicine Act,
+5
+6
+or which may be prescribed by said Board. It shall be the duty of
+6
+7
+the secretary-treasurer to receive and care for all monies coming
+7
+8
+into the hands of said Board, and to pay out the same upon orders of
+8
+9
+the Board.
+9
+10
+B. The State Board and such employees as determined by the
+10
+11
+Board shall be bonded as required by Sections 85.26 through 85.31 of
+11
+12
+Title 74 of the Oklahoma Statutes.
+12
+13
+C. The State Board may expend such funds as are necessary in
+13
+14
+implementing the duties of the Board. The Board may hire:
+14
+15
+1. An executive director and, who may hire all necessary
+15
+16
+administrative, clerical and stenographic assistance as the Board
+16
+17
+shall deem necessary at a salary to be fixed by the Board and
+17
+18
+consistent with a budget to be fixed by the Board;
+18
+19
+2. An attorney, on a case-by-case basis, to represent the Board
+19
+20
+in legal matters and to assist authorized state and county officers
+20
+21
+in prosecuting or restraining violations of the provisions of the
+21
+22
+Oklahoma Osteopathic Medicine Act. The Board shall fix the
+22
+23
+compensation of said attorney; and
+23
+24
+24
+Req. No. 462 Page 10
+
+1
+3. One or more investigators, at least one of whom shall be
+1
+2
+certified by the Council on Law Enforcement Education and Training
+2
+3
+as a peace officer, as may be necessary to implement the provisions
+3
+4
+of the Oklahoma Osteopathic Medicine Act at an annual salary to be
+4
+5
+fixed by the Board, and may authorize necessary expenses. In
+5
+6
+addition, the investigators may investigate and inspect, through use
+6
+7
+of a Board subpoena, the nonfinancial business records of all
+7
+8
+persons licensed pursuant to the Oklahoma Osteopathic Medicine Act
+8
+9
+in order to determine whether or not licensees are in compliance
+9
+10
+with the Oklahoma Osteopathic Medicine Act and the Uniform
+10
+11
+Controlled Dangerous Substances Act or any other law, rule of the
+11
+12
+State of Oklahoma or any federal law or rule affecting the practice
+12
+13
+of osteopathic medicine.
+13
+14
+D. Any licensee or applicant for license subject to the
+14
+15
+provisions of the Oklahoma Osteopathic Medicine Act shall be deemed
+15
+16
+to have given consent to after presented with a Board subpoena by
+16
+17
+any duly authorized employee or agent of the Board to access, enter,
+17
+18
+or inspect the records, either on-site or at the Board office, or
+18
+19
+facilities of such licensee or applicant subject to the Oklahoma
+19
+20
+Osteopathic Medicine Act. Refusal Unless the Board subpoena is
+20
+21
+legally challenged, refusal to allow such access, entry, or
+21
+22
+inspection may constitute grounds for the denial, nonrenewal,
+22
+23
+suspension, or revocation of a license. Upon refusal of such
+23
+24
+access, entry, or inspection, pursuant to this section, the Board or
+24
+Req. No. 462 Page 11
+
+1
+a duly authorized representative may make application for and to
+1
+2
+enforce the Board subpoena or to obtain a search warrant from the
+2
+3
+district court where the facility or records are located to allow
+3
+4
+such access, entry, or inspection.
+4
+5
+SECTION 6. AMENDATORY 59 O.S. 2021, Section 627, is
+5
+6
+amended to read as follows:
+6
+7
+Section 627. A. The State Board of Osteopathic Examiners shall
+7
+8
+preserve a record of its proceedings which shall be kept
+8
+9
+electronically and open to public inspection at all reasonable
+9
+10
+times, showing:.
+10
+11
+B. The official register of licensed physicians available to
+11
+12
+the public shall include:
+12
+13
+1. The name, age gender, license type, license status, and
+13
+14
+place of residence practice of each applicant licensee;
+14
+15
+2. The time spent in the study of osteopathic medicine;
+15
+16
+3. The year and school from which degrees were granted;
+16
+17
+4. Its proceeding relative to the issuance, refusal, renewal,
+17
+18
+suspension, or revocation of licenses applied for, and issued
+18
+19
+pursuant to the Oklahoma Osteopathic Medicine Act; and
+19
+20
+5. The name, known place of business and residence, and the
+20
+21
+date and number of license of each registered osteopathic physician
+21
+22
+and surgeon practice specialty of each licensee and indication of
+22
+23
+whether the licensee is board certified in such specialty; and
+23
+24
+24
+Req. No. 462 Page 12
+
+1
+3. Whether the licensee has had disciplinary action taken on
+1
+2
+his or her Oklahoma license.
+2
+3
+The register shall be prima facie evidence of all matters
+3
+4
+contained therein.
+4
+5
+B. The secretary of said Board shall on the first of March of
+5
+6
+each year submit an official copy of said register to the Secretary
+6
+7
+of State for permanent record. A certified copy of said register,
+7
+8
+or any part thereof, with the hand and seal of the secretary of said
+8
+9
+State Board of Osteopathic Examiners, or the Secretary of State,
+9
+10
+shall be admitted in evidence in all courts of the state.
+10
+11
+C. It To ensure the accuracy of Board records, it shall be the
+11
+12
+responsibility of each osteopathic physician licensed under this act
+12
+13
+the Oklahoma Osteopathic Medicine Act to provide notify the Board
+13
+14
+with a notice of any change of address within fourteen (14) business
+14
+15
+days after any relocation of practice activity to the physician’s
+15
+16
+registry information.
+16
+17
+SECTION 7. NEW LAW A new section of law to be codified
+17
+18
+in the Oklahoma Statutes as Section 628.1 of Title 59, unless there
+18
+19
+is created a duplication in numbering, reads as follows:
+19
+20
+The State Board of Osteopathic Examiners shall have the power
+20
+21
+to:
+21
+22
+1. Adopt and prescribe the use of a common seal;
+22
+23
+2. Hold regular meetings at times to be fixed by the president
+23
+24
+of the Board in accordance with the provisions of the Oklahoma Open
+24
+Req. No. 462 Page 13
+
+1
+Meeting Act. In addition, the president may call such special and
+1
+2
+other meetings in accordance with the provisions of the Oklahoma
+2
+3
+Open Meeting Act;
+3
+4
+3. Promulgate rules necessary, expedient, or appropriate to the
+4
+5
+governance, performance, enforcement, or carrying out of any of the
+5
+6
+purposes, objectives, or provisions of the Oklahoma Osteopathic
+6
+7
+Medicine Act or to promulgate rules regarding the professional
+7
+8
+standards of the practice of osteopathic medicine;
+8
+9
+4. Initiate and prosecute administrative, civil, or criminal
+9
+10
+actions and proceedings necessary under the Oklahoma Osteopathic
+10
+11
+Medicine Act;
+11
+12
+5. Appoint authorized agents to make inspections or
+12
+13
+investigations and to perform other services for the Board;
+13
+14
+6. Sell, exchange, or dispose of property as provided by state
+14
+15
+law;
+15
+16
+7. Have jurisdiction over all matters affecting the practice of
+16
+17
+osteopathic medicine, and shall have continuing jurisdiction to
+17
+18
+reopen any actions taken by the Board;
+18
+19
+8. Institute collection proceedings against licensees,
+19
+20
+applicants, and other entities under its jurisdiction. This
+20
+21
+authority includes the right to impose penalties for nonpayment;
+21
+22
+9. Employ, appoint, or contract and fix the duties and
+22
+23
+compensation of the executive director and other personnel, either
+23
+24
+24
+Req. No. 462 Page 14
+
+1
+on full-time, part-time, or contractual basis, as deemed necessary
+1
+2
+by the Board;
+2
+3
+10. Fix the qualifications of the personnel at the Board;
+3
+4
+11. Accept and use grants of money and other property from any
+4
+5
+source;
+5
+6
+12. Advise, consult, cooperate, and enter into agreements or
+6
+7
+contracts;
+7
+8
+13. Revoke, suspend, or deny any license, permit, or charter
+8
+9
+issued by the Board if the Board finds any violation of the Oklahoma
+9
+10
+Osteopathic Medicine Act or any rule promulgated by the Board;
+10
+11
+14. Prescribe forms of application, certification, licenses,
+11
+12
+charters, permits, and other forms as may be necessary to carry out
+12
+13
+the provisions of the Oklahoma Osteopathic Medicine Act;
+13
+14
+15. Set renewal dates for any licenses, permits, or
+14
+15
+certificates issued by the Board by notifying licensees in writing
+15
+16
+of the expiration and renewal date being assigned to the licensee
+16
+17
+and permittee and by making an appropriate adjustment in the fee
+17
+18
+charged for the license, permit, or certificate;
+18
+19
+16. Establish and collect fees for licenses, permits, charters,
+19
+20
+certificates, and services provided. The fees shall be promulgated
+20
+21
+in accordance with the Administrative Procedures Act and shall be
+21
+22
+fair and equitable to all parties concerned;
+22
+23
+17. Adopt official professional standards of conduct;
+23
+24
+24
+Req. No. 462 Page 15
+
+1
+18. Apply to the district court for a temporary or permanent
+1
+2
+injunction or any other remedy restraining any person from violating
+2
+3
+the Oklahoma Osteopathic Medicine Act;
+3
+4
+19. Increase its efforts to ensure the safety and well-being of
+4
+5
+patients through administration of continuing education programs;
+5
+6
+20. Establish agency special accounts through the Office of
+6
+7
+Management and Enterprise Services and the Office of the State
+7
+8
+Treasurer as necessary for the collection and distribution of funds,
+8
+9
+including funds of sponsors and registration fees related to
+9
+10
+conferences, meetings, and continuing education and resident
+10
+11
+physician training; and
+11
+12
+21. Exercise all incidental powers which are necessary and
+12
+13
+proper to implement and administer the purposes of the Oklahoma
+13
+14
+Osteopathic Medicine Act.
+14
+15
+SECTION 8. AMENDATORY 59 O.S. 2021, Section 632, is
+15
+16
+amended to read as follows:
+16
+17
+Section 632. A. The examination of those who desire to
+17
+18
+practice as osteopathic physicians shall embrace those general
+18
+19
+subjects and topics, a knowledge of which is commonly and generally
+19
+20
+required of candidates for a D.O. degree, Doctor of Osteopathy or
+20
+21
+Doctor of Osteopathic Medicine, by accredited osteopathic colleges
+21
+22
+in the United States. An examination furnished by the National
+22
+23
+Board of Osteopathic Medical Examiners shall be deemed to fulfill
+23
+24
+this requirement.
+24
+Req. No. 462 Page 16
+
+1
+B. The applicant may be accepted who has successfully completed
+1
+2
+the examination sequence of the National Board of Osteopathic
+2
+3
+Medical Examiners and meets all other requirements as prescribed by
+3
+4
+the State Board of Osteopathic Examiners through rule.
+4
+5
+C. The State Board of Osteopathic Examiners shall have
+5
+6
+exclusive power and authority to determine the qualifications and
+6
+7
+fitness of all applicants for admission to practice osteopathic
+7
+8
+medicine in this state. The Board shall require that each applicant
+8
+9
+submit to a national criminal history record check as defined in
+9
+10
+Section 150.9 of Title 74 of the Oklahoma Statutes. The Board shall
+10
+11
+not disseminate criminal history record information resulting from
+11
+12
+the background check outside of this state.
+12
+13
+D. 1. The Board is authorized to obtain a national criminal
+13
+14
+history background check on physician applicants seeking a letter of
+14
+15
+qualification for purposes of registration for expedited licensure
+15
+16
+through the Interstate Medical Licensure Compact pursuant to Section
+16
+17
+493.7 of this title.
+17
+18
+2. Oklahoma physician applicants seeking a letter of
+18
+19
+qualification under the Compact shall be fingerprinted for the
+19
+20
+national criminal history background check. Applicant fingerprints
+20
+21
+shall be submitted to the Oklahoma State Bureau of Investigation and
+21
+22
+the national criminal history background check shall be conducted in
+22
+23
+accordance with Section 150.9 of Title 74 of the Oklahoma Statutes.
+23
+24
+24
+Req. No. 462 Page 17
+
+1
+The Bureau shall return national criminal history results to the
+1
+2
+Board.
+2
+3
+3. Results obtained from the national criminal history
+3
+4
+background check shall be used solely for the screening of physician
+4
+5
+applicants and shall be retained by the Board. The Board shall not
+5
+6
+disseminate criminal history record information resulting from the
+6
+7
+background check.
+7
+8
+4. This subsection shall only apply to Oklahoma physician
+8
+9
+applicants seeking an expedited license under the Compact.
+9
+10
+SECTION 9. AMENDATORY 59 O.S. 2021, Section 633, as
+10
+11
+amended by Section 5, Chapter 262, O.S.L. 2022 (59 O.S. Supp. 2024,
+11
+12
+Section 633), is amended to read as follows:
+12
+13
+Section 633. A. Each applicant who has met all requirements
+13
+14
+for licensure shall be issued a license to practice as an
+14
+15
+osteopathic physician and surgeon. Upon application, the State
+15
+16
+Board of Osteopathic Examiners may also issue special licenses,
+16
+17
+permits, warrants, and certificates including, but not limited to,
+17
+18
+a:
+18
+19
+1. Temporary License license;
+19
+20
+2. Resident Training License training license;
+20
+21
+3. Telemedicine License;
+21
+22
+4. Military Spouse License; or Advanced resident training
+22
+23
+license;
+23
+24
+4. Full unrestricted or advanced resident training license; or
+24
+Req. No. 462 Page 18
+
+1
+5. Temporary critical need license under Section 1 of this act
+1
+2
+Section 6011 of this title.
+2
+3
+B. The Board shall, through rule, establish restrictions for
+3
+4
+special licenses including, but not limited to, training licenses,
+4
+5
+to ensure that the holder practices only under appropriate
+5
+6
+circumstances as set by the Board.
+6
+7
+SECTION 10. AMENDATORY 59 O.S. 2021, Section 634, is
+7
+8
+amended to read as follows:
+8
+9
+Section 634. The State Board of Osteopathic Examiners may issue
+9
+10
+a license without examination to a practitioner who is currently
+10
+11
+licensed in any country, state, territory or province, upon the
+11
+12
+following conditions:
+12
+13
+1. That the requirements of registration in the country, state,
+13
+14
+territory or province in which the applicant is licensed are deemed
+14
+15
+by the State Board to have been equivalent to the requirements of
+15
+16
+registration in force in this state at the date of such license;
+16
+17
+2. That the applicant has no disciplinary matters pending
+17
+18
+against him in any country, state, territory or province; and
+18
+19
+3. That the license being reciprocated must have been obtained
+19
+20
+by an examination in that country, state, territory or province
+20
+21
+deemed by the Board to be equivalent to that used by the Board, or
+21
+22
+obtained by examination of the National Board of Osteopathic Medical
+22
+23
+Examiners.
+23
+24
+24
+Req. No. 462 Page 19
+
+1
+SECTION 11. AMENDATORY 59 O.S. 2021, Section 635.1, is
+1
+2
+amended to read as follows:
+2
+3
+Section 635.1. A. There is established a special volunteer
+3
+4
+medical license for physicians who are retired from active practice
+4
+5
+and wish to donate their expertise for the medical care and
+5
+6
+treatment of indigent and needy persons of the state. The special
+6
+7
+volunteer medical license shall may be:
+7
+8
+1. Issued by the State Board of Osteopathic Examiners to
+8
+9
+eligible physicians;
+9
+10
+2. Issued without a payment of an application fee, license fee
+10
+11
+or renewal fee;
+11
+12
+3. Issued or renewed without any continuing education
+12
+13
+requirements;
+13
+14
+4. Issued for a fiscal year or part thereof; and
+14
+15
+5. 4. Renewable annually upon approval of the Board.
+15
+16
+B. A physician must meet the following requirements to be
+16
+17
+eligible for a special volunteer medical license:
+17
+18
+1. Completion of a special volunteer medical license
+18
+19
+application, including documentation of the physician’s osteopathic
+19
+20
+school graduation and practice history;
+20
+21
+2. Documentation that the physician has been previously issued
+21
+22
+a full and unrestricted license to practice medicine in Oklahoma or
+22
+23
+in another state of the United States and that he or she has never
+23
+24
+24
+Req. No. 462 Page 20
+
+1
+been the subject of any medical disciplinary action in any
+1
+2
+jurisdiction;
+2
+3
+3. Acknowledgement and documentation that the physician’s
+3
+4
+practice under the special volunteer medical license will be
+4
+5
+exclusively and totally devoted to providing medical care to needy
+5
+6
+and indigent persons in Oklahoma or to providing care under the
+6
+7
+Oklahoma Medical Reserve Corps; and
+7
+8
+4. Acknowledgement and documentation that the physician will
+8
+9
+not receive or have the expectation to receive any payment or
+9
+10
+compensation, either direct or indirect, for any medical services
+10
+11
+rendered under the special volunteer medical license.
+11
+12
+SECTION 12. AMENDATORY 59 O.S. 2021, Section 635.3, is
+12
+13
+amended to read as follows:
+13
+14
+Section 635.3. A. There is established in this state a
+14
+15
+resident training license for medical school graduates during their
+15
+16
+internship or first postgraduate year (PGY-1). The resident
+16
+17
+training license shall be:
+17
+18
+1. Issued by the State Board of Osteopathic Examiners to
+18
+19
+eligible physicians;
+19
+20
+2. Issued without any continuing education requirements; and
+20
+21
+3. Issued for no more than one (1) year; and
+21
+22
+4. Nonrenewable unless renewal is specifically approved by the
+22
+23
+State Board of Osteopathic Examiners.
+23
+24
+24
+Req. No. 462 Page 21
+
+1
+B. If the physician’s resident training program specifically
+1
+2
+approves the resident to have prescribing authority, the resident
+2
+3
+training license shall permit the physician to apply for prescribing
+3
+4
+privileges from state or federal authorities.
+4
+5
+C. The resident training license shall not permit:
+5
+6
+1. The physician to practice medicine beyond the scope allowed
+6
+7
+by the physician’s training program; or
+7
+8
+2. The licensee to practice independent of the residency
+8
+9
+program;.
+9
+10
+D. The resident training license is not a prerequisite to
+10
+11
+participation in any internship or PGY-1 training program.
+11
+12
+E. Any person holding a resident training license is not
+12
+13
+guaranteed subsequent full or advanced resident licensure in
+13
+14
+Oklahoma this state as an osteopathic physician.
+14
+15
+F. Any application for full licensure shall be adjudged by the
+15
+16
+Board on its own merits including training, education and personal
+16
+17
+background.
+17
+18
+G. A physician shall meet the following requirements to be
+18
+19
+eligible for a resident training license:
+19
+20
+1. Completion of a resident training license application;
+20
+21
+2. Payment of the application fee; and
+21
+22
+3. Documentation from the applicant’s Oklahoma training program
+22
+23
+recommending the physician and stating the applicant meets all the
+23
+24
+requirements for such licensure.
+24
+Req. No. 462 Page 22
+
+1
+SECTION 13. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 635.4 of Title 59, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. The State Board of Osteopathic Examiners may issue an
+4
+5
+osteopathic faculty license without examination to an individual who
+5
+6
+remits an electronic application and fee, as set by the Board, who:
+6
+7
+1. Demonstrates to the Board that he or she is currently
+7
+8
+licensed to practice osteopathic medicine in another jurisdiction in
+8
+9
+the United States;
+9
+10
+2. Demonstrates to the Board that he or she is a graduate of an
+10
+11
+accredited school of osteopathic medicine; and
+11
+12
+3. Has completed the requirements of general licensure as
+12
+13
+defined by the Board.
+13
+14
+B. The license shall authorize the holder to practice only in
+14
+15
+conjunction with his or her teaching duties at an accredited school
+15
+16
+of osteopathic medicine or in its affiliated teaching hospitals or
+16
+17
+clinics.
+17
+18
+C. Such license shall automatically expire upon termination of
+18
+19
+the holder’s relationship with the school or after a period of
+19
+20
+twenty-four (24) months, whichever occurs first.
+20
+21
+SECTION 14. AMENDATORY 59 O.S. 2021, Section 637, as
+21
+22
+amended by Section 5, Chapter 150, O.S.L. 2023 (59 O.S. Supp. 2024,
+22
+23
+Section 637), is amended to read as follows:
+23
+24
+24
+Req. No. 462 Page 23
+
+1
+Section 637. A. The State Board of Osteopathic Examiners may
+1
+2
+institute disciplinary action, enforce sanctions, or refuse to admit
+2
+3
+a person to an examination or may refuse to issue or reinstate or
+3
+4
+may suspend or revoke any license issued or reinstated by the Board
+4
+5
+upon proof that the applicant or holder of such a license:
+5
+6
+1. Has obtained a license, license renewal or authorization to
+6
+7
+sit for an examination, as the case may be, through fraud,
+7
+8
+deception, misrepresentation or bribery; or has been granted a
+8
+9
+license, license renewal or authorization to sit for an examination
+9
+10
+based upon a material mistake of fact;
+10
+11
+2. Has engaged in the use or employment of dishonesty, fraud,
+11
+12
+misrepresentation, false promise, false pretense, unethical conduct
+12
+13
+or unprofessional conduct, as may be determined by the Board, in the
+13
+14
+performance of the functions or duties of an osteopathic physician,
+14
+15
+including but not limited to the following:
+15
+16
+a. obtaining or attempting to obtain any fee, charge,
+16
+17
+tuition or other compensation by fraud, deception or
+17
+18
+misrepresentation; willfully and continually
+18
+19
+overcharging or overtreating patients; or charging for
+19
+20
+visits to the physician’s office which did not occur
+20
+21
+or for services which were not rendered,
+21
+22
+b. using intimidation, coercion or deception to obtain or
+22
+23
+retain a patient or discourage the use of a second
+23
+24
+opinion or consultation,
+24
+Req. No. 462 Page 24
+
+1
+c. willfully performing inappropriate or unnecessary
+1
+2
+treatment, diagnostic tests or osteopathic medical or
+2
+3
+surgical services,
+3
+4
+d. delegating professional responsibilities to a person
+4
+5
+who is not qualified by training, skill, competency,
+5
+6
+age, experience or licensure to perform them, noting
+6
+7
+that delegation may only occur within an appropriate
+7
+8
+doctor-patient relationship, wherein a proper patient
+8
+9
+record is maintained including, but not limited to, at
+9
+10
+the minimum, a current history and physical,
+10
+11
+e. misrepresenting that any disease, ailment, or
+11
+12
+infirmity can be cured by a method, procedure,
+12
+13
+treatment, medicine or device,
+13
+14
+f. acting in a manner which results in final disciplinary
+14
+15
+action by any professional society or association or
+15
+16
+hospital or medical staff of such hospital in this or
+16
+17
+any other state, whether agreed to voluntarily or not,
+17
+18
+if the action was in any way related to professional
+18
+19
+conduct, professional competence, malpractice or any
+19
+20
+other violation of the Oklahoma Osteopathic Medicine
+20
+21
+Act,
+21
+22
+g. signing a blank prescription form; or dispensing,
+22
+23
+prescribing, administering or otherwise distributing
+23
+24
+any drug, controlled substance or other treatment
+24
+Req. No. 462 Page 25
+
+1
+without sufficient examination or the establishment of
+1
+2
+a physician-patient relationship, or for other than
+2
+3
+medically accepted therapeutic or experimental or
+3
+4
+investigational purpose duly authorized by a state or
+4
+5
+federal agency, or not in good faith to relieve pain
+5
+6
+and suffering, or not to treat an ailment, physical
+6
+7
+infirmity or disease, or violating any state or
+7
+8
+federal law on controlled dangerous substances
+8
+9
+including, but not limited to, prescribing, dispensing
+9
+10
+or administering opioid drugs in excess of the maximum
+10
+11
+limits authorized in Section 2-309I of Title 63 of the
+11
+12
+Oklahoma Statutes,
+12
+13
+h. engaging in any sexual activity within a physician-
+13
+14
+patient relationship,
+14
+15
+i. terminating the care of a patient without adequate
+15
+16
+notice or without making other arrangements for the
+16
+17
+continued care of the patient,
+17
+18
+j. failing to furnish a copy of a patient’s medical
+18
+19
+records upon a proper request from the patient or
+19
+20
+legal agent of the patient or another physician; or
+20
+21
+failing to comply with any other law relating to
+21
+22
+medical records,
+22
+23
+k. failing to comply with any subpoena issued by the
+23
+24
+Board,
+24
+Req. No. 462 Page 26
+
+1
+l. violating a probation agreement or order with this
+1
+2
+Board or any other agency, and
+2
+3
+m. failing to keep complete and accurate records of
+3
+4
+purchase and disposal of controlled drugs or narcotic
+4
+5
+drugs;
+5
+6
+3. Has engaged in gross negligence, gross malpractice or gross
+6
+7
+incompetence;
+7
+8
+4. Has engaged in repeated acts of negligence, malpractice or
+8
+9
+incompetence;
+9
+10
+5. Has been finally adjudicated and found guilty, or entered a
+10
+11
+plea of guilty or nolo contendere in a criminal prosecution, for any
+11
+12
+offense reasonably related to the qualifications, functions or
+12
+13
+duties of an osteopathic physician, whether or not sentence is
+13
+14
+imposed, and regardless of the pendency of an appeal;
+14
+15
+6. Has had the authority to engage in the activities regulated
+15
+16
+by the Board revoked, suspended, restricted, modified or limited, or
+16
+17
+has been reprimanded, warned or censured, probated or otherwise
+17
+18
+disciplined by any other state or federal agency whether or not
+18
+19
+voluntarily agreed to by the physician including, but not limited
+19
+20
+to, the denial of licensure, surrender of the license, permit or
+20
+21
+authority, allowing the license, permit or authority to expire or
+21
+22
+lapse, or discontinuing or limiting the practice of osteopathic
+22
+23
+medicine pending disposition of a complaint or completion of an
+23
+24
+investigation;
+24
+Req. No. 462 Page 27
+
+1
+7. Has violated or failed to comply with provisions of any act
+1
+2
+or regulation administered by the Board;
+2
+3
+8. Is incapable, for medical or psychiatric or any other good
+3
+4
+cause, of discharging the functions of an osteopathic physician in a
+4
+5
+manner consistent with the public’s health, safety and welfare;
+5
+6
+9. Has been guilty of advertising by means of knowingly false
+6
+7
+or deceptive statements;
+7
+8
+10. Has been guilty of advertising, practicing, or attempting
+8
+9
+to practice under a name other than one’s own;
+9
+10
+11. Has violated or refused to comply with a lawful order of
+10
+11
+the Board;
+11
+12
+12. Has been guilty of habitual drunkenness, or habitual
+12
+13
+addiction to the use of morphine, cocaine or other habit-forming
+13
+14
+drugs;
+14
+15
+13. Has been guilty of personal offensive behavior, which would
+15
+16
+include, but not be limited to, obscenity, lewdness, and
+16
+17
+molestation;
+17
+18
+14. Has performed an abortion as defined by Section 1-730 of
+18
+19
+Title 63 of the Oklahoma Statutes, except for an abortion necessary
+19
+20
+to prevent the death of the mother or to prevent substantial or
+20
+21
+irreversible physical impairment of the mother that substantially
+21
+22
+increases the risk of death. The performance of an abortion on the
+22
+23
+basis of the mental or emotional health of the mother shall be a
+23
+24
+violation of this paragraph, notwithstanding a claim or diagnosis
+24
+Req. No. 462 Page 28
+
+1
+that the woman may engage in conduct which she intends to result in
+1
+2
+her death. The Board shall impose a penalty as provided in this
+2
+3
+section and in Section 637.1 of this title on a licensee who
+3
+4
+violates this paragraph. The penalty shall include, but not be
+4
+5
+limited to, suspension of the license for a period not less than one
+5
+6
+(1) year;
+6
+7
+15. Has been adjudicated to be insane, or incompetent, or
+7
+8
+admitted to an institution for the treatment of psychiatric
+8
+9
+disorders; or
+9
+10
+16. Has knowingly provided gender transition procedures as
+10
+11
+defined in Section 1 of this act Section 2607.1 of Title 63 of the
+11
+12
+Oklahoma Statutes to a child;
+12
+13
+17. Has violated any of the provisions of the Oklahoma Pharmacy
+13
+14
+Act, which shall be punishable by appropriate actions established in
+14
+15
+rules promulgated by the Board; or
+15
+16
+18. Has breached the American Osteopathic Association Code of
+16
+17
+Ethics or the Osteopathic Oath.
+17
+18
+B. The Board may enter an order denying licensure or imposing
+18
+19
+any of the penalties as prescribed by rule against any applicant for
+19
+20
+licensure or licensee who is found guilty of violating any provision
+20
+21
+of subsection A of this section. In determining what action is
+21
+22
+appropriate, the Board shall first consider what sanctions are
+22
+23
+necessary to protect the public or to compensate the patient. Only
+23
+24
+after those sanctions have been imposed may the Board consider and
+24
+Req. No. 462 Page 29
+
+1
+include in the order requirements designed to rehabilitate the
+1
+2
+physician. All costs associated with compliance with orders issued
+2
+3
+under this subsection shall be the obligation of the physician.
+3
+4
+C. In any administrative action against a physician which does
+4
+5
+not involve revocation or suspension of a license, the Board shall
+5
+6
+have the burden, by the greater weight of the evidence, to establish
+6
+7
+the existence of grounds for disciplinary action. The Board shall
+7
+8
+establish grounds for revocation or suspension of license by clear
+8
+9
+and convincing evidence.
+9
+10
+D. The Board shall not reinstate the license or certificate of
+10
+11
+an osteopathic physician, or cause a license or certificate to be
+11
+12
+issued to a person it has deemed unqualified, until such time as it
+12
+13
+is satisfied that he or she has complied with all the terms and
+13
+14
+conditions set forth in the final order and that such person is
+14
+15
+capable of safely engaging in the practice of osteopathic medicine.
+15
+16
+However, the Board shall not issue a license to, or reinstate the
+16
+17
+license of, any osteopathic physician found by the Board to have
+17
+18
+committed repeated medical malpractice, regardless of the extent to
+18
+19
+which the licensee or prospective licensee has complied with all
+19
+20
+terms and conditions set forth in the final order or is capable of
+20
+21
+safely engaging in the practice of osteopathic medicine.
+21
+22
+E. The State Board of Osteopathic Examiners shall neither
+22
+23
+refuse to renew, nor suspend, nor revoke any license, however, for
+23
+24
+any of these causes, unless the person accused has been given at
+24
+Req. No. 462 Page 30
+
+1
+least twenty (20) days’ notice in writing of the charge against him
+1
+2
+or her and a public hearing by the Board; provided, three-fourths
+2
+3
+(3/4) of a quorum present at a meeting may vote to suspend a license
+3
+4
+in an emergency situation if the licensee affected is provided a
+4
+5
+public hearing within thirty (30) days of the emergency suspension.
+5
+6
+C. F. The State Board of Osteopathic Examiners shall have the
+6
+7
+power to order or subpoena the attendance of witnesses, the
+7
+8
+inspection of records and premises and the production of relevant
+8
+9
+books and papers for the investigation of matters that may come
+9
+10
+before them. The presiding officer of the Board or his or her
+10
+11
+designee shall have the authority to compel the giving of testimony
+11
+12
+as is conferred on courts of justice.
+12
+13
+D. G. Any osteopathic physician in this state whose license to
+13
+14
+practice osteopathic medicine is revoked or suspended under this
+14
+15
+section shall have the right to seek judicial review of a ruling of
+15
+16
+the Board pursuant to the Administrative Procedures Act.
+16
+17
+E. H. The Board may enact rules and regulations pursuant to the
+17
+18
+Administrative Procedures Act setting out additional acts of
+18
+19
+unprofessional conduct, which acts shall be grounds for refusal to
+19
+20
+issue or reinstate, or for action to condition, suspend or revoke a
+20
+21
+license necessary or appropriate to the performance, enforcement, or
+21
+22
+carrying out of any of the purposes, objectives, or provisions of
+22
+23
+this section.
+23
+24
+24
+Req. No. 462 Page 31
+
+1
+SECTION 15. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 637.2 of Title 59, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. At any time after the State Board of Osteopathic Examiners
+4
+5
+has revoked or suspended the license to practice osteopathic
+5
+6
+medicine or surgery of any person, the Board, upon its own motion
+6
+7
+and of its own authority and right, may reconsider such order and
+7
+8
+decision for any reason deemed by it to be sufficient and may, in
+8
+9
+its discretion, reinstate the license of such person.
+9
+10
+B. At any time after the expiration of twelve (12) months from
+10
+11
+the date the license of any person to practice osteopathic medicine
+11
+12
+or surgery has been revoked with the right to reapply, or at any
+12
+13
+time after the expiration of six (6) months from the date the
+13
+14
+license of any person to practice osteopathic medicine or surgery
+14
+15
+has been suspended by the Board, such person whose license has been
+15
+16
+so revoked or suspended may file an application with the executive
+16
+17
+director of the Board, together with an application fee set by the
+17
+18
+Board, to reinstate the license. The Board may further prescribe
+18
+19
+through rule a process in which an application to reinstate may be
+19
+20
+pursued.
+20
+21
+SECTION 16. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 637.3 of Title 59, unless there
+22
+23
+is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 462 Page 32
+
+1
+A. The State Board of Osteopathic Examiners is hereby given
+1
+2
+quasi-judicial powers while sitting as a Board for the purpose of
+2
+3
+revoking, suspending, or imposing other disciplinary actions upon
+3
+4
+the license of osteopathic physicians or surgeons of this state.
+4
+5
+B. To the extent necessary to allow the Board the power to
+5
+6
+enforce disciplinary actions imposed by the Board, in the exercise
+6
+7
+of its authority, the Board may punish willful violations of its
+7
+8
+orders and impose additional penalties as allowed by Section 638 of
+8
+9
+Title 59 of the Oklahoma Statutes.
+9
+10
+SECTION 17. AMENDATORY 59 O.S. 2021, Section 641, is
+10
+11
+amended to read as follows:
+11
+12
+Section 641. A. All persons legally licensed to practice
+12
+13
+osteopathic medicine in this state, on or before the first day of
+13
+14
+July of each year, shall apply to the secretary-treasurer of the
+14
+15
+Board, on forms furnished thereby, for a renewal certificate of
+15
+16
+registration entitling such licensee to practice osteopathic
+16
+17
+medicine and surgery in Oklahoma during the next ensuing fiscal
+17
+18
+year.
+18
+19
+B. The State Board of Osteopathic Examiners may prescribe
+19
+20
+through rule the necessary information required relevant to a
+20
+21
+licensee’s professional activity including, but not limited to:
+21
+22
+1. Any action taken against the licensee for acts or conduct
+22
+23
+similar to acts or conduct described in the Oklahoma Osteopathic
+23
+24
+Medicine Act as grounds for disciplinary action;
+24
+Req. No. 462 Page 33
+
+1
+2. Any adverse judgement, settlement, or award against the
+1
+2
+licensee arising from a professional liability claim;
+2
+3
+3. The licensee’s voluntary surrender of or voluntary
+3
+4
+limitation on any license or authorization to practice medicine and
+4
+5
+surgery in any jurisdiction including military, public health, and
+5
+6
+foreign;
+6
+7
+4. Any denial to the licensee of a license or authorization to
+7
+8
+practice medicine and surgery by any jurisdiction including
+8
+9
+military, public health, or foreign;
+9
+10
+5. The licensee’s voluntary resignation from the medical staff
+10
+11
+of any health care institution or voluntary limitation of the
+11
+12
+licensee’s staff privileges at such an institution if that action
+12
+13
+occurred while the licensee was under formal or informal
+13
+14
+investigation by the institution or a committee thereof for any
+14
+15
+reason related to alleged medical incompetence, unprofessional
+15
+16
+conduct, or mental or physical impairment;
+16
+17
+6. The licensee’s voluntary resignation or withdrawal from a
+17
+18
+national, state, or county medical society, association, or
+18
+19
+organization if that action occurred while the licensee was under
+19
+20
+formal or informal investigation or review by that body for any
+20
+21
+reason related to possible medical incompetence, unprofessional or
+21
+22
+unethical conduct, or mental or physical impairment;
+22
+23
+7. Whether the licensee has had any health conditions that may
+23
+24
+affect his or her ability to practice safely. Disclosures shall
+24
+Req. No. 462 Page 34
+
+1
+focus on current impairments that directly affect clinical
+1
+2
+competence or adversely affect ability to practice medicine in a
+2
+3
+competent, ethical, and professional manner, not on past or managed
+3
+4
+health conditions that do not impair professional duties; and
+4
+5
+8. The licensee’s completion of continuing medical education or
+5
+6
+other forms of professional maintenance or evaluation, including
+6
+7
+specialty board certification or recertification, during the
+7
+8
+previous registration period.
+8
+9
+C. 1. Each application shall be accompanied by a renewal fee
+9
+10
+in an amount sufficient to cover the cost and expense incurred by
+10
+11
+the State Board of Osteopathic Examiners, for a renewal of the
+11
+12
+person’s certificate to practice osteopathic medicine.
+12
+13
+2. The Board may provide for the late renewal of a license upon
+13
+14
+payment of a late fee in accordance with Board rules.
+14
+15
+C. D. 1. In addition to the payment of the annual renewal fee
+15
+16
+each licensee applying for a renewal of the certificate shall
+16
+17
+furnish to the State Board of Osteopathic Examiners proof that the
+17
+18
+person has attended at least two (2) days of the annual educational
+18
+19
+program conducted by the Oklahoma Osteopathic Association, or its
+19
+20
+equivalent, as determined by the Board, in the fiscal year preceding
+20
+21
+the application for a renewal; provided, the Board may excuse the
+21
+22
+failure of the licensee to attend the educational program in the
+22
+23
+case of illness or other unavoidable casualty rendering it
+23
+24
+24
+Req. No. 462 Page 35
+
+1
+impossible for the licensee to have attended the educational program
+1
+2
+or its equivalent.
+2
+3
+2. The Board shall require that the licensee receive not less
+3
+4
+than one (1) hour of education in pain management or one (1) hour of
+4
+5
+education in opioid use or addiction each year preceding an
+5
+6
+application for renewal of a license, unless the licensee has
+6
+7
+demonstrated to the satisfaction of the Board that the licensee does
+7
+8
+not currently hold a valid federal Drug Enforcement Administration
+8
+9
+registration number. Such education may be held at the annual
+9
+10
+educational program referenced in paragraph 1 of this subsection.
+10
+11
+D. E. The secretary of the State Board of Osteopathic Examiners
+11
+12
+shall send a written notice to every person holding a legal
+12
+13
+certificate to practice osteopathic medicine in this state, at least
+13
+14
+thirty (30) days prior to the first day of July each year, directed
+14
+15
+to the last-known address of the licensee, notifying the licensee
+15
+16
+that it will be necessary for the licensee to pay the renewal
+16
+17
+license fee as herein provided, and proper forms shall accompany the
+17
+18
+notice upon which the licensee shall make application for renewal of
+18
+19
+the certificate.
+19
+20
+F. The licensee shall attest to the veracity of the application
+20
+21
+form for license renewal. Failure to report fully and correctly
+21
+22
+shall be grounds for disciplinary action by the Board.
+22
+23
+G. The Board shall establish a system for reviewing renewal
+23
+24
+forms. The Board may initiate investigations and disciplinary
+24
+Req. No. 462 Page 36
+
+1
+proceedings based on information submitted by licensees for license
+1
+2
+renewal.
+2
+3
+SECTION 18. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 641.1 of Title 59, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. All osteopathic physicians in active practice licensed by
+6
+7
+the State Board of Osteopathic Examiners shall maintain a policy for
+7
+8
+professional malpractice liability insurance; provided, however,
+8
+9
+that such requirement shall not apply to osteopathic physicians:
+9
+10
+1. Covered by a group or hospital malpractice insurance policy;
+10
+11
+2. Practicing in a state facility subject to The Governmental
+11
+12
+Tort Claims Act, Section 151 et seq. of Title 51 of the Oklahoma
+12
+13
+Statutes;
+13
+14
+3. Practicing in a federal facility subject to the Federal Tort
+14
+15
+Claims Act;
+15
+16
+4. Providing care as a volunteer under a special volunteer
+16
+17
+license pursuant to Section 635.1 of Title 59 of the Oklahoma
+17
+18
+Statutes or a temporary critical need license under Section 6011 of
+18
+19
+Title 59 of the Oklahoma Statutes;
+19
+20
+5. Providing care as a retired osteopathic physician with a
+20
+21
+valid license in a volunteer, nonpaid capacity;
+21
+22
+6. Practicing or residing in another state or country, who will
+22
+23
+not practice within this state during the license renewal year. An
+23
+24
+osteopathic physician that is residing but not practicing in this
+24
+Req. No. 462 Page 37
+
+1
+state but wishes to maintain an active license may sign an affidavit
+1
+2
+stating that the osteopathic physician is not practicing osteopathic
+2
+3
+medicine, listing the specific dates during which the osteopathic
+3
+4
+physician will not practice. The osteopathic physician must notify
+4
+5
+the Board in writing and provide proof of malpractice insurance no
+5
+6
+less than ten (10) days prior to resuming practice; or
+6
+7
+7. An osteopathic physician may petition the Board to be
+7
+8
+temporarily exempted due to health, injury, or other personal
+8
+9
+exigent circumstance during the year. A signed and sworn affidavit
+9
+10
+and other documentation may be required by the Board. The Board at
+10
+11
+its discretion may exempt an osteopathic physician for a specific
+11
+12
+stated period of time.
+12
+13
+B. The State Board of Osteopathic Examiners may promulgate
+13
+14
+rules as necessary to carry out the provisions of this section
+14
+15
+including, but not limited to, minimum requirements for professional
+15
+16
+malpractice liability insurance policies and penalties for
+16
+17
+noncompliance.
+17
+18
+SECTION 19. AMENDATORY 59 O.S. 2021, Section 642, is
+18
+19
+amended to read as follows:
+19
+20
+Section 642. A. If any licensee shall fail to comply with the
+20
+21
+requirements of Section 641 of this title or this section and such
+21
+22
+license is allowed to lapse, the licensee shall, upon order of the
+22
+23
+State Board of Osteopathic Examiners, forfeit the right to practice
+23
+24
+osteopathic medicine in this state and the license and certificate
+24
+Req. No. 462 Page 38
+
+1
+shall be canceled, provided, however, that the Board may reinstate
+1
+2
+such person upon the payment of all fees due, plus a penalty fee in
+2
+3
+the amount fixed by the State Board of Osteopathic Examiners not to
+3
+4
+exceed twice the amount of the license renewal fees as determined by
+4
+5
+the Board and upon the presentation of satisfactory evidence of the
+5
+6
+attendance at an educational program as provided for in Sections 637
+6
+7
+and 641 of this title and such other proof of professional conduct
+7
+8
+as prescribed by rule. The State Board of Osteopathic Examiners
+8
+9
+shall not place the license of any person authorized to practice
+9
+10
+osteopathic medicine in this state on inactive status.
+10
+11
+B. Any licensee whose reregistration application is rejected by
+11
+12
+the Board, shall have the right to appeal from such action to the
+12
+13
+district court of the county of residence. If the licensee does not
+13
+14
+reside or practice in this state, appeal shall be to the Oklahoma
+14
+15
+County District Court.
+15
+16
+C. Licensees who retire from such practice or desire to request
+16
+17
+cancellation of their license shall file with the State Board of
+17
+18
+Osteopathic Examiners an affidavit, on a form to be furnished by the
+18
+19
+Board, which states the date of retirement and such other facts to
+19
+20
+verify the retirement or other reasons for cancellation as the Board
+20
+21
+may deem necessary and the license shall be canceled. If a licensee
+21
+22
+desires to re-engage the practice, the licensee shall reinstate the
+22
+23
+license as provided for in Sections 637 and 641 of this title and
+23
+24
+subsection A of this section.
+24
+Req. No. 462 Page 39
+
+1
+SECTION 20. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 642.1 of Title 59, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. Every person licensed to practice osteopathic medicine by
+4
+5
+the State Board of Osteopathic Examiners shall report within
+5
+6
+fourteen (14) days any criminal investigation in a jurisdiction
+6
+7
+which concerns that person.
+7
+8
+B. Every person licensed to practice osteopathic medicine by
+8
+9
+the Board shall report within fourteen (14) days and action taken to
+9
+10
+limit their license, credentials, or other authorization to practice
+10
+11
+osteopathic medicine.
+11
+12
+C. If a person licensed to practice osteopathic medicine in
+12
+13
+this state voluntarily resigns from the staff of a health care
+13
+14
+institution, or voluntarily limits that person’s own staff
+14
+15
+privileges at a health care institution or fails to reapply for
+15
+16
+hospital or staff privileges at a health care institution, the
+16
+17
+person shall report in writing such conduct to the Board within
+17
+18
+fourteen (14) days. If the conduct occurs while the person is under
+18
+19
+formal investigation by the institution or a committee thereof for
+19
+20
+any reason related to possible unprofessional conduct or possible
+20
+21
+inability to practice osteopathic medicine, that conduct shall be
+21
+22
+included in the report.
+22
+23
+D. Every person to whom a license to practice osteopathic
+23
+24
+medicine is issued has a duty to report to the Board, within thirty
+24
+Req. No. 462 Page 40
+
+1
+(30) days, all information concerning medical malpractice claims
+1
+2
+settled or adjudicated to final judgment.
+2
+3
+SECTION 21. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 642.2 of Title 59, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. Every person licensed to practice osteopathic medicine by
+6
+7
+the State Board of Osteopathic Examiners shall report to the Board
+7
+8
+information that the reporting person reasonably believes indicates
+8
+9
+that a person licensed to practice medicine in this state is, or may
+9
+10
+be, engaged in unprofessional conduct or may be unable to practice
+10
+11
+medicine with reasonable skill or safety to patients.
+11
+12
+B. An individual, institution, agency, or organization required
+12
+13
+to report under this section who does so in good faith is not
+13
+14
+subject to civil damages for reporting.
+14
+15
+C. Upon receiving a complaint involving potential criminal
+15
+16
+conduct, the Board shall promptly report the complaint to
+16
+17
+appropriate law enforcement agencies.
+17
+18
+SECTION 22. AMENDATORY 59 O.S. 2021, Section 643, is
+18
+19
+amended to read as follows:
+19
+20
+Section 643. The funds received pursuant to the Oklahoma
+20
+21
+Osteopathic Medicine Act or the Oklahoma Abortion-Inducing Drug
+21
+22
+Certification Program Act shall be deposited to the credit of the
+22
+23
+State Board of Osteopathic Examiners Revolving Fund and may be
+23
+24
+expended by the State Board of Osteopathic Examiners and under its
+24
+Req. No. 462 Page 41
+
+1
+direction in assisting in the enforcement of the laws of this state
+1
+2
+prohibiting the unlawful practice of osteopathic medicine, assisting
+2
+3
+in the support of a peer assistance program, administering
+3
+4
+continuing education programs to ensure the safety and well-being of
+4
+5
+patients, sponsoring resident physician training, and for the
+5
+6
+dissemination of information to prevent the violation of such laws,
+6
+7
+and for the purchasing of supplies and such other expense as is
+7
+8
+necessary to properly carry out the provisions of the Oklahoma
+8
+9
+Osteopathic Medicine Act or the Oklahoma Abortion-Inducing Drug
+9
+10
+Certification Program Act.
+10
+11
+SECTION 23. AMENDATORY 59 O.S. 2021, Section 644, is
+11
+12
+amended to read as follows:
+12
+13
+Section 644. There is hereby created in the State Treasury a
+13
+14
+revolving fund for the State Board of Osteopathic Examiners, to be
+14
+15
+designated the “State Board of Osteopathic Examiner’s Revolving
+15
+16
+Fund”. The fund shall be a continuing fund, not subject to fiscal
+16
+17
+year limitations, and shall consist of all monies received by the
+17
+18
+Board pursuant to the provisions of the Oklahoma Osteopathic
+18
+19
+Medicine Act or the Oklahoma Abortion-Inducing Drug Certification
+19
+20
+Program Act. All monies accruing to the credit of said the fund are
+20
+21
+hereby appropriated and may be budgeted and expended by the Board
+21
+22
+for the purpose of enforcing the laws of this state which prohibit
+22
+23
+the unlawful practice of osteopathic medicine, for the dissemination
+23
+24
+of information to prevent the violation of such laws and, for the
+24
+Req. No. 462 Page 42
+
+1
+purchase of supplies and such other expense as is necessary to
+1
+2
+properly implement the provisions of the Oklahoma Osteopathic
+2
+3
+Medicine Act or the Oklahoma Abortion-Inducing Drug Certification
+3
+4
+Program Act, and for any other purpose specified in Section 643 of
+4
+5
+this title. Expenditures from said fund shall be made upon warrants
+5
+6
+issued by the State Treasurer against claims signed by an authorized
+6
+7
+employee or employees of the State Board of Osteopathic Examiners
+7
+8
+and filed as prescribed by law with the Director of the Office of
+8
+9
+Management and Enterprise Services for approval and payment.
+9
+10
+SECTION 24. AMENDATORY 59 O.S. 2021, Section 645, is
+10
+11
+amended to read as follows:
+11
+12
+Section 645. A. The State Board of Osteopathic Examiners shall
+12
+13
+adopt such rules as may be necessary to implement the provisions of
+13
+14
+the Oklahoma Osteopathic Medicine Act and may establish fees
+14
+15
+authorized but not specified in the Oklahoma Osteopathic Medicine
+15
+16
+Act.
+16
+17
+B. The Board shall promulgate rules to identify essential
+17
+18
+elements of education and practice necessary to protect the public.
+18
+19
+C. The Board may prescribe by rule administrative remedies,
+19
+20
+disciplinary actions, sanctions, and administrative procedures to
+20
+21
+provide remedies and disciplinary actions for licensee violations of
+21
+22
+statutory or regulatory prescribed unprofessional conduct, to
+22
+23
+include fines up to the limits otherwise prescribed by statute or
+23
+24
+rule.
+24
+Req. No. 462 Page 43
+
+1
+D. The Board may provide by rule procedures for the licensee to
+1
+2
+contest or dispute any administrative action, procedures for
+2
+3
+resolution of any such contest or dispute, and appropriate
+3
+4
+protection of private information consistent with state and federal
+4
+5
+law.
+5
+6
+SECTION 25. REPEALER 59 O.S. 2021, Section 631, is
+6
+7
+hereby repealed.
+7
+8
+SECTION 26. It being immediately necessary for the preservation
+8
+9
+of the public peace, health or safety, an emergency is hereby
+9
+10
+declared to exist, by reason whereof this act shall take effect and
+10
+11
+be in full force from and after its passage and approval.
+11
+12
+12
+13
+60-1-462 DC 1/19/2025 5:46:10 AM
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 462 Page 44
+
+[DELETED:  P B H]
+[DELETED:  P]
+[DELETED:  P f]
+[DELETED:  P f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P o u]
+[DELETED:  P w d m a s]
+[DELETED:  P e t f f]
+[DELETED:  P v f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P D 1]
