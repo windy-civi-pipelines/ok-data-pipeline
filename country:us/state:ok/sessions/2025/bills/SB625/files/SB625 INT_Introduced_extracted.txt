@@ -1,0 +1,3634 @@
+Title: SENATE BILL 625 By: Howard
+Official Title: SENATE BILL 625 By: Howard
+Number of Sections: 41
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Oklahoma Discovery Code;
+7
+amending 12 O.S. 2021, Section 3226, which relates to
+8
+general provisions governing discovery; requiring
+8
+production of commercial litigation funding agreement
+9
+upon request; prohibiting admissibility of certain
+9
+information as evidence; requiring certain
+10
+certification with production of agreement; providing
+10
+exception; defining terms; providing for
+11
+codification; and providing an effective date.
+11
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+
+Section 2:
+SECTION 1. AMENDATORY 12 O.S. 2021, Section 3226, is
+15
+16
+amended to read as follows:
+16
+17
+
+Section 3:
+Section 3226. A. DISCOVERY METHODS; INITIAL DISCLOSURES.
+17
+18
+
+Section 4:
+1. DISCOVERY METHODS. Parties may obtain discovery regarding
+18
+19
+any matter that is relevant to any party’s claim or defense by one
+19
+20
+or more of the following methods: Depositions upon oral examination
+20
+21
+or written questions; written interrogatories; production of
+21
+22
+documents or things or permission to enter upon land or other
+22
+23
+property, for inspection and other purposes; physical and mental
+23
+24
+examinations; requests for admission; authorizations for release of
+24
+Req. No. 847 Page 1
+1
+records; and otherwise by court order upon showing of good cause.
+1
+2
+Except as provided in this section or unless the court orders
+2
+3
+otherwise under this section, the frequency of use of these methods
+3
+4
+is not limited.
+4
+5
+
+Section 5:
+2. INITIAL DISCLOSURES.
+5
+6
+a. Except in categories of proceedings specified in
+6
+7
+subparagraph b of this paragraph, or to the extent
+7
+8
+otherwise stipulated or directed by order, a party,
+8
+9
+without awaiting a discovery request, shall provide to
+9
+10
+other parties a computation of any category of damages
+10
+11
+claimed by the disclosing party, making available for
+11
+12
+inspection and copying the documents or other
+12
+13
+evidentiary material, not privileged or protected from
+13
+14
+disclosure, on which such computation is based,
+14
+15
+including materials bearing on the nature and extent
+15
+16
+of injuries suffered. Subject to subsection B of this
+16
+17
+
+Section 6:
+section, in any action in which physical or mental
+17
+18
+injury is claimed, the party making the claim shall
+18
+19
+provide to the other parties a release or
+19
+20
+authorization allowing the parties to obtain relevant
+20
+21
+medical records and bills, and, when relevant, a
+21
+22
+release or authorization for employment and scholastic
+22
+23
+records.
+23
+24
+24
+Req. No. 847 Page 2
+1
+b. The following categories of proceedings are exempt
+1
+2
+from initial disclosure under subparagraph a of this
+2
+3
+paragraph:
+3
+4
+(1) an action for review of an administrative record,
+4
+5
+(2) a petition for habeas corpus or other proceeding
+5
+6
+to challenge a criminal conviction or sentence,
+6
+7
+(3) an action brought without counsel by a person in
+7
+8
+custody of the United States, a state, or a state
+8
+9
+subdivision,
+9
+10
+(4) an action to enforce or quash an administrative
+10
+11
+summons or subpoena,
+11
+12
+(5) an action by the United States to recover benefit
+12
+13
+payments,
+13
+14
+(6) an action by the United States to collect on a
+14
+15
+student loan guaranteed by the United States,
+15
+16
+(7) a proceeding ancillary to proceedings in other
+16
+17
+courts, and
+17
+18
+(8) an action to enforce an arbitration award.
+18
+19
+c. Disclosures required under this paragraph shall be
+19
+20
+made at or within sixty (60) days after service unless
+20
+21
+a different time is set by stipulation or court order,
+21
+22
+or unless a party objects that initial disclosures are
+22
+23
+not appropriate in the circumstances of the action and
+23
+24
+states the objection in a motion filed with the court.
+24
+Req. No. 847 Page 3
+1
+In ruling on the objection, the court shall determine
+1
+2
+what disclosures, if any, are to be made and set the
+2
+3
+time for disclosure. A party shall make its initial
+3
+4
+disclosures based on the information then readily
+4
+5
+available to it and is not excused from making its
+5
+6
+disclosures because it has not fully completed its
+6
+7
+investigation of the case or because it challenges the
+7
+8
+sufficiency of another party’s disclosures or because
+8
+9
+another party has not made its disclosures.
+9
+10
+B. DISCOVERY SCOPE AND LIMITS. Unless otherwise limited by
+10
+11
+order of the court in accordance with the Oklahoma Discovery Code,
+11
+12
+the scope of discovery is as follows:
+12
+13
+
+Section 7:
+1. IN GENERAL.
+13
+14
+a. Parties may obtain discovery regarding any matter, not
+14
+15
+privileged, which is relevant to any party’s claim or
+15
+16
+defense, reasonably calculated to lead to the
+16
+17
+discovery of admissible evidence and proportional to
+17
+18
+the needs of the case, considering the importance of
+18
+19
+the issues at stake in the action, the amount in
+19
+20
+controversy, the parties’ relative access to relevant
+20
+21
+information, the parties’ resources, the importance of
+21
+22
+the discovery in resolving the issues, and whether the
+22
+23
+burden or expense of the proposed discovery outweighs
+23
+24
+its likely benefit. Information within this scope of
+24
+Req. No. 847 Page 4
+1
+discovery need not be admissible in evidence to be
+1
+2
+discoverable.
+2
+3
+b. A party shall produce upon request pursuant to Section
+3
+4
+3234 of this title, any insurance agreement under
+4
+5
+which any person carrying on an insurance business may
+5
+6
+be liable to satisfy part or all of a judgment which
+6
+7
+may be entered in the action or to indemnify or
+7
+8
+reimburse for payments made to satisfy the judgment.
+8
+9
+Information concerning the insurance agreement is not
+9
+10
+by reason of disclosure admissible in evidence at
+10
+11
+trial. For purposes of this section, an application
+11
+12
+for insurance shall not be treated as a part of an
+12
+13
+insurance agreement.
+13
+14
+c. A party shall produce upon request, pursuant to
+14
+15
+
+Section 8:
+Section 3234 of this title, any commercial litigation
+15
+16
+funding agreement as defined in Section 2 of this act.
+16
+17
+Information related to the commercial litigation
+17
+18
+funding agreement is not by reason of disclosure
+18
+19
+admissible as evidence at trial. Production of a
+19
+20
+commercial litigation funding agreement shall include
+20
+21
+a certification by sworn affidavit by the producing
+21
+22
+party as to whether any funds encumbered by the terms
+22
+23
+of the agreement have been or will be sourced from a
+23
+24
+foreign state or agency or instrumentality of a
+24
+Req. No. 847 Page 5
+1
+foreign state as defined in 28 U.S.C., Section 1603,
+1
+2
+as amended. Certification that discloses that a
+2
+3
+foreign state or agency or instrumentality of a
+3
+4
+foreign state is such a source shall include the
+4
+5
+identity of the foreign state, agency, or
+5
+6
+instrumentality that is the source of the funds. Such
+6
+7
+certification shall be supplemented or corrected by
+7
+8
+the producing party within thirty (30) days in the
+8
+9
+event the certification becomes incomplete or
+9
+10
+inaccurate in a material respect. A consumer
+10
+11
+litigation funding agreement as defined in Section 3-
+11
+12
+801 of Title 14A of the Oklahoma Statutes shall be
+12
+13
+exempt from the provisions of this subparagraph.
+13
+14
+d. If a commercial litigation funding agreement as
+14
+15
+defined in Section 2 of this act, has been requested,
+15
+16
+a party shall also produce, upon request pursuant to
+16
+17
+
+Section 9:
+Sections 3234 and 3236 of this title, a certification
+17
+18
+by sworn affidavit by the producing party that
+18
+19
+identifies whether the party is an entity controlled
+19
+20
+by a foreign adversary. The certification shall also
+20
+21
+include an admission or denial as to whether the party
+21
+22
+is under the control or direction of an entity
+22
+23
+controlled by a foreign adversary and whether the
+23
+24
+party will allow access to any documents or
+24
+Req. No. 847 Page 6
+1
+information arising in the litigation not generally
+1
+2
+available to the public to an entity controlled by a
+2
+3
+foreign adversary. In the event that the producing
+3
+4
+party admits that an entity controlled by a foreign
+4
+5
+adversary may access any documents or information
+5
+6
+arising in the litigation not generally available to
+6
+7
+the public, the party shall specify the persons who
+7
+8
+will have access to such documents or information.
+8
+9
+Further, if the party receives funding pursuant to a
+9
+10
+commercial litigation funding agreement as defined in
+10
+11
+
+Section 10:
+Section 2 of this act, the certification shall include
+11
+12
+a statement that the funding was not sourced from an
+12
+13
+entity controlled by a foreign adversary.
+13
+14
+
+Section 11:
+2. LIMITATIONS ON FREQUENCY AND EXTENT.
+14
+15
+a. By order, the court may alter the limits on the length
+15
+16
+of depositions under Section 3230 of this title, on
+16
+17
+the number of interrogatories under Section 3233 of
+17
+18
+this title, on the number of requests to produce under
+18
+19
+
+Section 12:
+Section 3234 of this title, or on the number of
+19
+20
+requests for admission under Section 3236 of this
+20
+21
+title.
+21
+22
+b. A party is not required to provide discovery of
+22
+23
+electronically stored information from sources that
+23
+24
+the party identifies as not reasonably accessible
+24
+Req. No. 847 Page 7
+1
+because of undue burden or cost. On motion to compel
+1
+2
+discovery or for a protective order, the party from
+2
+3
+whom discovery is sought must show that the
+3
+4
+information is not reasonably accessible because of
+4
+5
+undue burden or cost. If that showing is made, the
+5
+6
+court may order discovery from such sources if the
+6
+7
+requesting party shows good cause, considering the
+7
+8
+limitations of subparagraph c of this paragraph. The
+8
+9
+court may specify conditions for the discovery.
+9
+10
+c. On motion or on its own, the court shall limit the
+10
+11
+frequency or extent of discovery otherwise allowed if
+11
+12
+it determines that:
+12
+13
+(1) the discovery sought is unreasonably cumulative
+13
+14
+or duplicative, or can be obtained from some
+14
+15
+other source that is more convenient, less
+15
+16
+burdensome, or less expensive,
+16
+17
+(2) the party seeking discovery has had ample
+17
+18
+opportunity to obtain the information by
+18
+19
+discovery in the action, or
+19
+20
+(3) the proposed discovery is outside the scope
+20
+21
+permitted by subparagraph a of paragraph 1 of
+21
+22
+this subsection.
+22
+23
+d. If an officer, director or managing agent of a
+23
+24
+corporation or a government official is served with
+24
+Req. No. 847 Page 8
+1
+notice of a deposition or subpoena regarding a matter
+1
+2
+about which he or she has no knowledge, he or she may
+2
+3
+submit at a reasonable time prior to the date of the
+3
+4
+deposition an affidavit to the noticing party so
+4
+5
+stating and identifying a person within the
+5
+6
+corporation or government entity who has knowledge of
+6
+7
+the subject matter involved in the pending action.
+7
+8
+Notwithstanding such affidavit, the noticing party may
+8
+9
+proceed with the deposition, subject to the noticed
+9
+10
+witness’s right to seek a protective order.
+10
+11
+
+Section 13:
+3. TRIAL PREPARATION: MATERIALS.
+11
+12
+a. Unless as provided by paragraph 4 of this subsection,
+12
+13
+a party may not discover documents and tangible things
+13
+14
+that are prepared in anticipation of litigation or for
+14
+15
+trial by or for another party or its representative,
+15
+16
+including the other party’s attorney, consultant,
+16
+17
+surety, indemnitor, insurer or agent. Subject to
+17
+18
+paragraph 4 of this subsection, such materials may be
+18
+19
+discovered if:
+19
+20
+(1) they are otherwise discoverable under paragraph 1
+20
+21
+of this subsection, and
+21
+22
+(2) the party shows that it has substantial need for
+22
+23
+the materials to prepare its case and cannot,
+23
+24
+24
+Req. No. 847 Page 9
+1
+without undue hardship, obtain their substantial
+1
+2
+equivalent by other means.
+2
+3
+b. If the court orders discovery of such materials, the
+3
+4
+court shall protect against disclosure of the mental
+4
+5
+impressions, conclusions, opinions or legal theories
+5
+6
+of a party’s attorney or other representative
+6
+7
+concerning the litigation.
+7
+8
+c. A party or other person may, upon request and without
+8
+9
+the required showing, obtain the person’s own previous
+9
+10
+statement about the action or its subject matter. If
+10
+11
+the request is refused, the person may move for a
+11
+12
+court order, and the provisions of paragraph 4 of
+12
+13
+subsection A of Section 3237 of this title apply to
+13
+14
+the award of expenses. A previous statement is
+14
+15
+either:
+15
+16
+(1) a written statement that the person has signed or
+16
+17
+otherwise adopted or approved, or
+17
+18
+(2) a contemporaneous stenographic, mechanical,
+18
+19
+electrical, or other recording, or a
+19
+20
+transcription thereof, which recites
+20
+21
+substantially verbatim the person’s oral
+21
+22
+statement.
+22
+23
+
+Section 14:
+4. TRIAL PREPARATION: EXPERTS.
+23
+24
+24
+Req. No. 847 Page 10
+1
+a. Discovery of facts known and opinions held by experts,
+1
+2
+otherwise discoverable under the provisions of
+2
+3
+paragraph 1 of this subsection and acquired or
+3
+4
+developed in anticipation of litigation or for trial,
+4
+5
+may be obtained only as follows:
+5
+6
+(1) a party may, through interrogatories, require any
+6
+7
+other party to identify each person whom that
+7
+8
+other party expects to call as an expert witness
+8
+9
+at trial and give the address at which that
+9
+10
+expert witness may be located,
+10
+11
+(2) after disclosure of the names and addresses of
+11
+12
+the expert witnesses, the other party expects to
+12
+13
+call as witnesses, the party, who has requested
+13
+14
+disclosure, may depose any such expert witnesses
+14
+15
+subject to scope of this section. Prior to
+15
+16
+taking the deposition the party must give notice
+16
+17
+as required in subsections A and C of Section
+17
+18
+3230 of this title, and
+18
+19
+(3) in addition to taking the depositions of expert
+19
+20
+witnesses the party may, through interrogatories,
+20
+21
+require the party who expects to call the expert
+21
+22
+witnesses to state the subject matter on which
+22
+23
+each expert witness is expected to testify; the
+23
+24
+substance of the facts and opinions to which the
+24
+Req. No. 847 Page 11
+1
+expert is expected to testify and a summary of
+1
+2
+the grounds for each opinion; the qualifications
+2
+3
+of each expert witness, including a list of all
+3
+4
+publications authored by the expert witness
+4
+5
+within the preceding ten (10) years; the
+5
+6
+compensation to be paid to the expert witness for
+6
+7
+the testimony and preparation for the testimony;
+7
+8
+and a listing of any other cases in which the
+8
+9
+expert witness has testified as an expert at
+9
+10
+trial or by deposition within the preceding four
+10
+11
+(4) years. An interrogatory seeking the
+11
+12
+information specified above shall be treated as a
+12
+13
+single interrogatory for purposes of the
+13
+14
+limitation on the number of interrogatories in
+14
+15
+
+Section 15:
+Section 3233 of this title.
+15
+16
+b. The protection provided by paragraph 3 of this
+16
+17
+subsection extends to communications between the
+17
+18
+party’s attorney and any expert witness retained or
+18
+19
+specially employed to provide expert testimony in the
+19
+20
+case or whose duties as the party’s employee regularly
+20
+21
+involve giving expert testimony, except to the extent
+21
+22
+that the communications:
+22
+23
+(1) relate to compensation for the expert’s study or
+23
+24
+testimony,
+24
+Req. No. 847 Page 12
+1
+(2) identify facts or data that the party’s attorney
+1
+2
+provided and that the expert considered in
+2
+3
+forming the opinions to be expressed, or
+3
+4
+(3) identify assumptions that the party’s attorney
+4
+5
+provided and that the expert relied upon in
+5
+6
+forming the opinions to be expressed.
+6
+7
+c. A party may not, by interrogatories or deposition,
+7
+8
+discover facts known or opinions held by an expert who
+8
+9
+has been retained or specially employed by another
+9
+10
+party in anticipation of litigation or to prepare for
+10
+11
+trial and who is not expected to be called as a
+11
+12
+witness at trial, except as provided in Section 3235
+12
+13
+of this title or upon a showing of exceptional
+13
+14
+circumstances under which it is impracticable for the
+14
+15
+party to obtain facts or opinions on the same subject
+15
+16
+by other means.
+16
+17
+d. Unless manifest injustice would result:
+17
+18
+(1) the court shall require that the party seeking
+18
+19
+discovery pay the expert a reasonable fee for
+19
+20
+time spent in responding to discovery under
+20
+21
+division (2) of subparagraph a of this paragraph
+21
+22
+and subparagraph c of this paragraph, and
+22
+23
+(2) the court shall require that the party seeking
+23
+24
+discovery with respect to discovery obtained
+24
+Req. No. 847 Page 13
+1
+under subparagraph c of this paragraph, pay the
+1
+2
+other party a fair portion of the fees and
+2
+3
+expenses reasonably incurred by the latter party
+3
+4
+in obtaining facts and opinions from the expert.
+4
+5
+
+Section 16:
+5. CLAIMS OF PRIVILEGE OR PROTECTION OF TRIAL PREPARATION
+5
+6
+MATERIALS.
+6
+7
+a. When a party withholds information otherwise
+7
+8
+discoverable under the Oklahoma Discovery Code by
+8
+9
+claiming that it is privileged or subject to
+9
+10
+protection as trial preparation material, the party
+10
+11
+shall make the claim expressly and shall describe the
+11
+12
+nature of the documents, communications, or things not
+12
+13
+produced or disclosed in a manner that, without
+13
+14
+revealing information itself privileged or protected,
+14
+15
+will enable other parties to assess the applicability
+15
+16
+of the privilege or protection.
+16
+17
+b. If information produced in discovery is subject to a
+17
+18
+claim of privilege or of protection as trial
+18
+19
+preparation material, the party making the claim may
+19
+20
+notify any party that received the information of the
+20
+21
+claim and the basis for it. After being notified, a
+21
+22
+party shall promptly return, sequester, or destroy the
+22
+23
+specified information and any copies the party has;
+23
+24
+shall not use or disclose the information until the
+24
+Req. No. 847 Page 14
+1
+claim is resolved; shall take reasonable steps to
+1
+2
+retrieve the information if the party has disclosed it
+2
+3
+before being notified; and may promptly present the
+3
+4
+information to the court under seal for a
+4
+5
+determination of the claim. The producing party shall
+5
+6
+preserve the information until the claim is resolved.
+6
+7
+This mechanism is procedural only and does not alter
+7
+8
+the standards governing whether the information is
+8
+9
+privileged or subject to protection as trial
+9
+10
+preparation material or whether such privilege or
+10
+11
+protection has been waived.
+11
+12
+C. PROTECTIVE ORDERS.
+12
+13
+
+Section 17:
+1. Upon motion by a party or by the person from whom discovery
+13
+14
+is sought, accompanied by a certification that the movant has in
+14
+15
+good faith conferred or attempted to confer, either in person or by
+15
+16
+telephone, with other affected parties in an effort to resolve the
+16
+17
+dispute without court action, and for good cause shown, the court in
+17
+18
+which the action is pending or on matters relating to a deposition,
+18
+19
+the district court in the county where the deposition is to be taken
+19
+20
+may enter any order which justice requires to protect a party or
+20
+21
+person from annoyance, harassment, embarrassment, oppression or
+21
+22
+undue delay, burden or expense, including one or more of the
+22
+23
+following:
+23
+24
+a. that the discovery not be had,
+24
+Req. No. 847 Page 15
+1
+b. that the discovery may be had only on specified terms
+1
+2
+and conditions, including a designation of the time,
+2
+3
+place or the allocation of expenses,
+3
+4
+c. that the discovery may be had only by a method of
+4
+5
+discovery other than that selected by the party
+5
+6
+seeking discovery,
+6
+7
+d. that certain matters not be inquired into, or that the
+7
+8
+scope of the disclosure or discovery be limited to
+8
+9
+certain matters,
+9
+10
+e. that discovery be conducted with no one present except
+10
+11
+persons designated by the court,
+11
+12
+f. that a deposition after being sealed be opened only by
+12
+13
+order of the court,
+13
+14
+g. that a trade secret or other confidential research,
+14
+15
+development or commercial information not be disclosed
+15
+16
+or be disclosed only in a designated way, and
+16
+17
+h. that the parties simultaneously file specified
+17
+18
+documents or information enclosed in sealed envelopes
+18
+19
+to be opened as directed by the court.
+19
+20
+
+Section 18:
+2. If the motion for a protective order is denied in whole or
+20
+21
+in part, the court may, on such terms and conditions as are just,
+21
+22
+order that any party or person provide or permit discovery. The
+22
+23
+provisions of paragraph 4 of subsection A of Section 3237 of this
+23
+24
+title apply to the award of expenses incurred in relation to the
+24
+Req. No. 847 Page 16
+1
+motion. Any protective order of the court which has the effect of
+1
+2
+removing any material obtained by discovery from the public record
+2
+3
+shall contain the following:
+3
+4
+a. a statement that the court has determined it is
+4
+5
+necessary in the interests of justice to remove the
+5
+6
+material from the public record,
+6
+7
+b. specific identification of the material which is to be
+7
+8
+removed or withdrawn from the public record, or which
+8
+9
+is to be filed but not placed in the public record,
+9
+10
+and
+10
+11
+c. a requirement that any party obtaining a protective
+11
+12
+order place the protected material in a sealed manila
+12
+13
+envelope clearly marked with the caption and case
+13
+14
+number and is clearly marked with the word
+14
+15
+“CONFIDENTIAL”, and stating the date the order was
+15
+16
+entered and the name of the judge entering the order.
+16
+17
+This requirement may also be satisfied by requiring
+17
+18
+the party to file the documents pursuant to the
+18
+19
+procedure for electronically filing sealed or
+19
+20
+confidential documents approved for electronic filing
+20
+21
+in the courts of this state.
+21
+22
+
+Section 19:
+3. No protective order entered after the filing and
+22
+23
+microfilming of documents of any kind shall be construed to require
+23
+24
+the microfilm record of such filing to be amended in any fashion.
+24
+Req. No. 847 Page 17
+1
+
+Section 20:
+4. The party or counsel which has received the protective order
+1
+2
+shall be responsible for promptly presenting the order to
+2
+3
+appropriate court clerk personnel for appropriate action.
+3
+4
+
+Section 21:
+5. All documents produced or testimony given under a protective
+4
+5
+order shall be retained in the office of counsel until required by
+5
+6
+the court to be filed in the case.
+6
+7
+
+Section 22:
+6. Counsel for the respective parties shall be responsible for
+7
+8
+informing witnesses, as necessary, of the contents of the protective
+8
+9
+order.
+9
+10
+
+Section 23:
+7. When a case is filed in which a party intends to seek a
+10
+11
+protective order removing material from the public record, the
+11
+12
+plaintiff(s) and defendant(s) shall be initially designated on the
+12
+13
+petition under pseudonym such as “John or Jane Doe”, or “Roe”, and
+13
+14
+the petition shall clearly indicate that the party designations are
+14
+15
+fictitious. The party seeking confidentiality or other order
+15
+16
+removing the case, in whole or in part, from the public record,
+16
+17
+shall immediately present application to the court, seeking
+17
+18
+instructions for the conduct of the case, including confidentiality
+18
+19
+of the records.
+19
+20
+D. SEQUENCE AND TIMING OF DISCOVERY. Unless the parties
+20
+21
+stipulate or the court orders otherwise for the convenience of
+21
+22
+parties and witnesses and in the interests of justice, methods of
+22
+23
+discovery may be used in any sequence. The fact that a party is
+23
+24
+24
+Req. No. 847 Page 18
+1
+conducting discovery, whether by deposition or otherwise, shall not
+1
+2
+operate to delay discovery by any other party.
+2
+3
+E. SUPPLEMENTATION OF RESPONSES. A party who has responded to
+3
+4
+a request for discovery with a response that was complete when it
+4
+5
+was made is under no duty to supplement the response to include
+5
+6
+information thereafter acquired, except as follows:
+6
+7
+
+Section 24:
+1. A party is under a duty seasonably to supplement the
+7
+8
+response with respect to any question directly addressed to:
+8
+9
+a. the identity and location of persons having knowledge
+9
+10
+of discoverable matters, and
+10
+11
+b. the identity of each person expected to be called as
+11
+12
+an expert witness at trial, the subject matter on
+12
+13
+which the person is expected to testify, and the
+13
+14
+substance of the testimony of the person;
+14
+15
+
+Section 25:
+2. A party is under a duty seasonably to amend a prior response
+15
+16
+to an interrogatory, request for production, or request for
+16
+17
+admission if the party obtains information upon the basis of which:
+17
+18
+a. (1) the party knows that the response was incorrect
+18
+19
+in some material respect when made, or
+19
+20
+(2) the party knows that the response, which was
+20
+21
+correct when made, is no longer true in some
+21
+22
+material respect, and
+22
+23
+23
+24
+24
+Req. No. 847 Page 19
+1
+b. the additional or corrective information has not
+1
+2
+otherwise been made known to the other parties during
+2
+3
+the discovery process or in writing; and
+3
+4
+
+Section 26:
+3. A duty to supplement responses may be imposed by order of
+4
+5
+the court, agreement of the parties, or at any time prior to trial
+5
+6
+through new requests for supplementation of prior responses.
+6
+7
+F. DISCOVERY CONFERENCE. At any time after commencement of an
+7
+8
+action, the court may direct the attorneys for the parties to appear
+8
+9
+for a conference on the subject of discovery. The court shall do so
+9
+10
+upon motion by the attorney for any party if the motion includes:
+10
+11
+
+Section 27:
+1. A statement of the issues as they then appear;
+11
+12
+
+Section 28:
+2. A proposed plan and schedule of discovery;
+12
+13
+
+Section 29:
+3. Any limitations proposed to be placed on discovery;
+13
+14
+
+Section 30:
+4. Any other proposed orders with respect to discovery; and
+14
+15
+
+Section 31:
+5. A statement showing that the attorney making the motion has
+15
+16
+made a reasonable effort to reach agreement with opposing attorneys
+16
+17
+on the matters set forth in the motion.
+17
+18
+Each party and his attorney are under a duty to participate in
+18
+19
+good faith in the framing of a discovery plan if a plan is proposed
+19
+20
+by the attorney for any party. Notice of the motion shall be served
+20
+21
+on all parties. Objections or additions to matters set forth in the
+21
+22
+motion shall be served not later than ten (10) days after service of
+22
+23
+the motion.
+23
+24
+24
+Req. No. 847 Page 20
+1
+Following the discovery conference, the court shall enter an
+1
+2
+order tentatively identifying the issues for discovery purposes,
+2
+3
+establishing a plan and schedule for discovery, setting limitations
+3
+4
+on discovery, if any; and determining such other matters, including
+4
+5
+the allocation of expenses, as are necessary for the proper
+5
+6
+management of discovery in the action. In preparing the plan for
+6
+7
+discovery the court shall protect the parties from excessive or
+7
+8
+abusive use of discovery. An order shall be altered or amended
+8
+9
+whenever justice so requires.
+9
+10
+Subject to the right of a party who properly moves for a
+10
+11
+discovery conference to prompt convening of the conference, the
+11
+12
+court may combine the discovery conference with a pretrial
+12
+13
+conference.
+13
+14
+G. SIGNING OF DISCOVERY REQUESTS, RESPONSES AND OBJECTIONS.
+14
+15
+Every request for discovery, response or objection thereto made by a
+15
+16
+party represented by an attorney shall be signed by at least one of
+16
+17
+the party’s attorneys of record in the party’s individual name whose
+17
+18
+address shall be stated. A party who is not represented by an
+18
+19
+attorney shall sign the request, response or objection and state the
+19
+20
+party’s address. The signature of the attorney or party constitutes
+20
+21
+a certification that the party has read the request, response or
+21
+22
+objection, and that it is:
+22
+23
+
+Section 32:
+1. To the best of the party’s knowledge, information and belief
+23
+24
+formed after a reasonable inquiry consistent with the Oklahoma
+24
+Req. No. 847 Page 21
+1
+Discovery Code and warranted by existing law or a good faith
+1
+2
+argument for the extension, modification or reversal of existing
+2
+3
+law;
+3
+4
+
+Section 33:
+2. Interposed in good faith and not primarily to cause delay or
+4
+5
+for any other improper purpose; and
+5
+6
+
+Section 34:
+3. Not unreasonable or unduly burdensome or expensive, given
+6
+7
+the nature and complexity of the case, the discovery already had in
+7
+8
+the case, the amount in controversy, and other values at stake in
+8
+9
+the litigation. If a request, response or objection is not signed,
+9
+10
+it shall be deemed ineffective.
+10
+11
+If a certification is made in violation of the provisions of
+11
+12
+this subsection, the court, upon motion or upon its own initiative,
+12
+13
+shall impose upon the person who made the certification, the party
+13
+14
+on whose behalf the request, response or objection is made, or both,
+14
+15
+an appropriate sanction, which may include an order to pay to the
+15
+16
+amount of the reasonable expenses occasioned thereby, including a
+16
+17
+reasonable attorney fee.
+17
+18
+
+Section 35:
+SECTION 2. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 3226.2 of Title 12, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+As used in the Oklahoma Discovery Code:
+21
+22
+
+Section 36:
+1. “Commercial litigation funder” means any person or entity,
+22
+23
+other than an attorney permitted to charge a contingent fee
+23
+24
+representing a party, that enters into a contract establishing a
+24
+Req. No. 847 Page 22
+1
+right to receive compensation that is contingent on and sourced from
+1
+2
+any proceeds of the civil action by settlement, judgment, or
+2
+3
+otherwise. Commercial litigation funder shall not include a
+3
+4
+consumer litigation funder as defined in Section 3-801 of Title 14A
+4
+5
+of the Oklahoma Statutes;
+5
+6
+
+Section 37:
+2. “Commercial litigation funding agreement” means an agreement
+6
+7
+under which the commercial litigation funder is granted a right to
+7
+8
+receive compensation contingent on and sourced from any proceeds of
+8
+9
+a civil action by settlement, judgment, or otherwise. A commercial
+9
+10
+litigation funding agreement shall not include:
+10
+11
+a. funding provided by an attorney to a client as
+11
+12
+authorized by the Oklahoma Rules of Professional
+12
+13
+Conduct, Appendix 3–A of Chapter 1 of Title 5 of the
+13
+14
+Oklahoma Statutes, unless such funds are encumbered
+14
+15
+pursuant to a commercial litigation funding agreement,
+15
+16
+or
+16
+17
+b. a consumer litigation funding agreement as defined in
+17
+18
+
+Section 38:
+Section 3-801 of Title 14A of the Oklahoma Statutes;
+18
+19
+
+Section 39:
+3. “Entity controlled by a foreign adversary” means, with
+19
+20
+respect to a person, whether a human being or bodies politic or
+20
+21
+corporate, that such person is:
+21
+22
+a. a foreign person that is a national of, is
+22
+23
+headquartered in, has its principal place of business
+23
+24
+24
+Req. No. 847 Page 23
+1
+in, or is organized under the law of a foreign
+1
+2
+adversary country,
+2
+3
+b. a body corporate with respect to which a foreign
+3
+4
+person or combination of foreign persons described in
+4
+5
+subparagraph a of this paragraph directly or
+5
+6
+indirectly owns at least 20 percent (20%) of such
+6
+7
+body, or
+7
+8
+c. a person subject to the direction or control of a
+8
+9
+foreign person or entity described in subparagraph a
+9
+10
+or b of this paragraph; and
+10
+11
+
+Section 40:
+4. “Foreign adversary country” means a country identified in 10
+11
+12
+U.S.C., Section 4872(d)(2).
+12
+13
+
+Section 41:
+SECTION 3. This act shall become effective November 1, 2025.
+13
+14
+14
+15
+60-1-847 TEK 1/19/2025 5:40:16 AM
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 847 Page 24
+[DELETED:  P B H]
+[DELETED:  P E]
+[DELETED:  P T a a a a a a a a D]
+[DELETED:  P P]
+[DELETED:  P A A]
+[DELETED:  P I]
+[DELETED:  P B A]
+[DELETED:  P O t t t I]
+[DELETED:  P U t t]
+[DELETED:  P I A a a]
+[DELETED:  P D a a i]
+[DELETED:  P T r]
+[DELETED:  P i i A U t t]
+[DELETED:  P W I]
+[DELETED:  P t]
+[DELETED:  P t t t t t t t]
+[DELETED:  P a s a]
+[DELETED:  P]
+[DELETED:  P t t ( t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P f a a]
+[DELETED:  P a a T 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 625 By: Howard
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Oklahoma Discovery Code;
+7
+amending 12 O.S. 2021, Section 3226, which relates to
+8
+general provisions governing discovery; requiring
+8
+production of commercial litigation funding agreement
+9
+upon request; prohibiting admissibility of certain
+9
+information as evidence; requiring certain
+10
+certification with production of agreement; providing
+10
+exception; defining terms; providing for
+11
+codification; and providing an effective date.
+11
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+SECTION 1. AMENDATORY 12 O.S. 2021, Section 3226, is
+15
+16
+amended to read as follows:
+16
+17
+Section 3226. A. DISCOVERY METHODS; INITIAL DISCLOSURES.
+17
+18
+1. DISCOVERY METHODS. Parties may obtain discovery regarding
+18
+19
+any matter that is relevant to any party’s claim or defense by one
+19
+20
+or more of the following methods: Depositions upon oral examination
+20
+21
+or written questions; written interrogatories; production of
+21
+22
+documents or things or permission to enter upon land or other
+22
+23
+property, for inspection and other purposes; physical and mental
+23
+24
+examinations; requests for admission; authorizations for release of
+24
+Req. No. 847 Page 1
+
+1
+records; and otherwise by court order upon showing of good cause.
+1
+2
+Except as provided in this section or unless the court orders
+2
+3
+otherwise under this section, the frequency of use of these methods
+3
+4
+is not limited.
+4
+5
+2. INITIAL DISCLOSURES.
+5
+6
+a. Except in categories of proceedings specified in
+6
+7
+subparagraph b of this paragraph, or to the extent
+7
+8
+otherwise stipulated or directed by order, a party,
+8
+9
+without awaiting a discovery request, shall provide to
+9
+10
+other parties a computation of any category of damages
+10
+11
+claimed by the disclosing party, making available for
+11
+12
+inspection and copying the documents or other
+12
+13
+evidentiary material, not privileged or protected from
+13
+14
+disclosure, on which such computation is based,
+14
+15
+including materials bearing on the nature and extent
+15
+16
+of injuries suffered. Subject to subsection B of this
+16
+17
+section, in any action in which physical or mental
+17
+18
+injury is claimed, the party making the claim shall
+18
+19
+provide to the other parties a release or
+19
+20
+authorization allowing the parties to obtain relevant
+20
+21
+medical records and bills, and, when relevant, a
+21
+22
+release or authorization for employment and scholastic
+22
+23
+records.
+23
+24
+24
+Req. No. 847 Page 2
+
+1
+b. The following categories of proceedings are exempt
+1
+2
+from initial disclosure under subparagraph a of this
+2
+3
+paragraph:
+3
+4
+(1) an action for review of an administrative record,
+4
+5
+(2) a petition for habeas corpus or other proceeding
+5
+6
+to challenge a criminal conviction or sentence,
+6
+7
+(3) an action brought without counsel by a person in
+7
+8
+custody of the United States, a state, or a state
+8
+9
+subdivision,
+9
+10
+(4) an action to enforce or quash an administrative
+10
+11
+summons or subpoena,
+11
+12
+(5) an action by the United States to recover benefit
+12
+13
+payments,
+13
+14
+(6) an action by the United States to collect on a
+14
+15
+student loan guaranteed by the United States,
+15
+16
+(7) a proceeding ancillary to proceedings in other
+16
+17
+courts, and
+17
+18
+(8) an action to enforce an arbitration award.
+18
+19
+c. Disclosures required under this paragraph shall be
+19
+20
+made at or within sixty (60) days after service unless
+20
+21
+a different time is set by stipulation or court order,
+21
+22
+or unless a party objects that initial disclosures are
+22
+23
+not appropriate in the circumstances of the action and
+23
+24
+states the objection in a motion filed with the court.
+24
+Req. No. 847 Page 3
+
+1
+In ruling on the objection, the court shall determine
+1
+2
+what disclosures, if any, are to be made and set the
+2
+3
+time for disclosure. A party shall make its initial
+3
+4
+disclosures based on the information then readily
+4
+5
+available to it and is not excused from making its
+5
+6
+disclosures because it has not fully completed its
+6
+7
+investigation of the case or because it challenges the
+7
+8
+sufficiency of another party’s disclosures or because
+8
+9
+another party has not made its disclosures.
+9
+10
+B. DISCOVERY SCOPE AND LIMITS. Unless otherwise limited by
+10
+11
+order of the court in accordance with the Oklahoma Discovery Code,
+11
+12
+the scope of discovery is as follows:
+12
+13
+1. IN GENERAL.
+13
+14
+a. Parties may obtain discovery regarding any matter, not
+14
+15
+privileged, which is relevant to any party’s claim or
+15
+16
+defense, reasonably calculated to lead to the
+16
+17
+discovery of admissible evidence and proportional to
+17
+18
+the needs of the case, considering the importance of
+18
+19
+the issues at stake in the action, the amount in
+19
+20
+controversy, the parties’ relative access to relevant
+20
+21
+information, the parties’ resources, the importance of
+21
+22
+the discovery in resolving the issues, and whether the
+22
+23
+burden or expense of the proposed discovery outweighs
+23
+24
+its likely benefit. Information within this scope of
+24
+Req. No. 847 Page 4
+
+1
+discovery need not be admissible in evidence to be
+1
+2
+discoverable.
+2
+3
+b. A party shall produce upon request pursuant to Section
+3
+4
+3234 of this title, any insurance agreement under
+4
+5
+which any person carrying on an insurance business may
+5
+6
+be liable to satisfy part or all of a judgment which
+6
+7
+may be entered in the action or to indemnify or
+7
+8
+reimburse for payments made to satisfy the judgment.
+8
+9
+Information concerning the insurance agreement is not
+9
+10
+by reason of disclosure admissible in evidence at
+10
+11
+trial. For purposes of this section, an application
+11
+12
+for insurance shall not be treated as a part of an
+12
+13
+insurance agreement.
+13
+14
+c. A party shall produce upon request, pursuant to
+14
+15
+Section 3234 of this title, any commercial litigation
+15
+16
+funding agreement as defined in Section 2 of this act.
+16
+17
+Information related to the commercial litigation
+17
+18
+funding agreement is not by reason of disclosure
+18
+19
+admissible as evidence at trial. Production of a
+19
+20
+commercial litigation funding agreement shall include
+20
+21
+a certification by sworn affidavit by the producing
+21
+22
+party as to whether any funds encumbered by the terms
+22
+23
+of the agreement have been or will be sourced from a
+23
+24
+foreign state or agency or instrumentality of a
+24
+Req. No. 847 Page 5
+
+1
+foreign state as defined in 28 U.S.C., Section 1603,
+1
+2
+as amended. Certification that discloses that a
+2
+3
+foreign state or agency or instrumentality of a
+3
+4
+foreign state is such a source shall include the
+4
+5
+identity of the foreign state, agency, or
+5
+6
+instrumentality that is the source of the funds. Such
+6
+7
+certification shall be supplemented or corrected by
+7
+8
+the producing party within thirty (30) days in the
+8
+9
+event the certification becomes incomplete or
+9
+10
+inaccurate in a material respect. A consumer
+10
+11
+litigation funding agreement as defined in Section 3-
+11
+12
+801 of Title 14A of the Oklahoma Statutes shall be
+12
+13
+exempt from the provisions of this subparagraph.
+13
+14
+d. If a commercial litigation funding agreement as
+14
+15
+defined in Section 2 of this act, has been requested,
+15
+16
+a party shall also produce, upon request pursuant to
+16
+17
+Sections 3234 and 3236 of this title, a certification
+17
+18
+by sworn affidavit by the producing party that
+18
+19
+identifies whether the party is an entity controlled
+19
+20
+by a foreign adversary. The certification shall also
+20
+21
+include an admission or denial as to whether the party
+21
+22
+is under the control or direction of an entity
+22
+23
+controlled by a foreign adversary and whether the
+23
+24
+party will allow access to any documents or
+24
+Req. No. 847 Page 6
+
+1
+information arising in the litigation not generally
+1
+2
+available to the public to an entity controlled by a
+2
+3
+foreign adversary. In the event that the producing
+3
+4
+party admits that an entity controlled by a foreign
+4
+5
+adversary may access any documents or information
+5
+6
+arising in the litigation not generally available to
+6
+7
+the public, the party shall specify the persons who
+7
+8
+will have access to such documents or information.
+8
+9
+Further, if the party receives funding pursuant to a
+9
+10
+commercial litigation funding agreement as defined in
+10
+11
+Section 2 of this act, the certification shall include
+11
+12
+a statement that the funding was not sourced from an
+12
+13
+entity controlled by a foreign adversary.
+13
+14
+2. LIMITATIONS ON FREQUENCY AND EXTENT.
+14
+15
+a. By order, the court may alter the limits on the length
+15
+16
+of depositions under Section 3230 of this title, on
+16
+17
+the number of interrogatories under Section 3233 of
+17
+18
+this title, on the number of requests to produce under
+18
+19
+Section 3234 of this title, or on the number of
+19
+20
+requests for admission under Section 3236 of this
+20
+21
+title.
+21
+22
+b. A party is not required to provide discovery of
+22
+23
+electronically stored information from sources that
+23
+24
+the party identifies as not reasonably accessible
+24
+Req. No. 847 Page 7
+
+1
+because of undue burden or cost. On motion to compel
+1
+2
+discovery or for a protective order, the party from
+2
+3
+whom discovery is sought must show that the
+3
+4
+information is not reasonably accessible because of
+4
+5
+undue burden or cost. If that showing is made, the
+5
+6
+court may order discovery from such sources if the
+6
+7
+requesting party shows good cause, considering the
+7
+8
+limitations of subparagraph c of this paragraph. The
+8
+9
+court may specify conditions for the discovery.
+9
+10
+c. On motion or on its own, the court shall limit the
+10
+11
+frequency or extent of discovery otherwise allowed if
+11
+12
+it determines that:
+12
+13
+(1) the discovery sought is unreasonably cumulative
+13
+14
+or duplicative, or can be obtained from some
+14
+15
+other source that is more convenient, less
+15
+16
+burdensome, or less expensive,
+16
+17
+(2) the party seeking discovery has had ample
+17
+18
+opportunity to obtain the information by
+18
+19
+discovery in the action, or
+19
+20
+(3) the proposed discovery is outside the scope
+20
+21
+permitted by subparagraph a of paragraph 1 of
+21
+22
+this subsection.
+22
+23
+d. If an officer, director or managing agent of a
+23
+24
+corporation or a government official is served with
+24
+Req. No. 847 Page 8
+
+1
+notice of a deposition or subpoena regarding a matter
+1
+2
+about which he or she has no knowledge, he or she may
+2
+3
+submit at a reasonable time prior to the date of the
+3
+4
+deposition an affidavit to the noticing party so
+4
+5
+stating and identifying a person within the
+5
+6
+corporation or government entity who has knowledge of
+6
+7
+the subject matter involved in the pending action.
+7
+8
+Notwithstanding such affidavit, the noticing party may
+8
+9
+proceed with the deposition, subject to the noticed
+9
+10
+witness’s right to seek a protective order.
+10
+11
+3. TRIAL PREPARATION: MATERIALS.
+11
+12
+a. Unless as provided by paragraph 4 of this subsection,
+12
+13
+a party may not discover documents and tangible things
+13
+14
+that are prepared in anticipation of litigation or for
+14
+15
+trial by or for another party or its representative,
+15
+16
+including the other party’s attorney, consultant,
+16
+17
+surety, indemnitor, insurer or agent. Subject to
+17
+18
+paragraph 4 of this subsection, such materials may be
+18
+19
+discovered if:
+19
+20
+(1) they are otherwise discoverable under paragraph 1
+20
+21
+of this subsection, and
+21
+22
+(2) the party shows that it has substantial need for
+22
+23
+the materials to prepare its case and cannot,
+23
+24
+24
+Req. No. 847 Page 9
+
+1
+without undue hardship, obtain their substantial
+1
+2
+equivalent by other means.
+2
+3
+b. If the court orders discovery of such materials, the
+3
+4
+court shall protect against disclosure of the mental
+4
+5
+impressions, conclusions, opinions or legal theories
+5
+6
+of a party’s attorney or other representative
+6
+7
+concerning the litigation.
+7
+8
+c. A party or other person may, upon request and without
+8
+9
+the required showing, obtain the person’s own previous
+9
+10
+statement about the action or its subject matter. If
+10
+11
+the request is refused, the person may move for a
+11
+12
+court order, and the provisions of paragraph 4 of
+12
+13
+subsection A of Section 3237 of this title apply to
+13
+14
+the award of expenses. A previous statement is
+14
+15
+either:
+15
+16
+(1) a written statement that the person has signed or
+16
+17
+otherwise adopted or approved, or
+17
+18
+(2) a contemporaneous stenographic, mechanical,
+18
+19
+electrical, or other recording, or a
+19
+20
+transcription thereof, which recites
+20
+21
+substantially verbatim the person’s oral
+21
+22
+statement.
+22
+23
+4. TRIAL PREPARATION: EXPERTS.
+23
+24
+24
+Req. No. 847 Page 10
+
+1
+a. Discovery of facts known and opinions held by experts,
+1
+2
+otherwise discoverable under the provisions of
+2
+3
+paragraph 1 of this subsection and acquired or
+3
+4
+developed in anticipation of litigation or for trial,
+4
+5
+may be obtained only as follows:
+5
+6
+(1) a party may, through interrogatories, require any
+6
+7
+other party to identify each person whom that
+7
+8
+other party expects to call as an expert witness
+8
+9
+at trial and give the address at which that
+9
+10
+expert witness may be located,
+10
+11
+(2) after disclosure of the names and addresses of
+11
+12
+the expert witnesses, the other party expects to
+12
+13
+call as witnesses, the party, who has requested
+13
+14
+disclosure, may depose any such expert witnesses
+14
+15
+subject to scope of this section. Prior to
+15
+16
+taking the deposition the party must give notice
+16
+17
+as required in subsections A and C of Section
+17
+18
+3230 of this title, and
+18
+19
+(3) in addition to taking the depositions of expert
+19
+20
+witnesses the party may, through interrogatories,
+20
+21
+require the party who expects to call the expert
+21
+22
+witnesses to state the subject matter on which
+22
+23
+each expert witness is expected to testify; the
+23
+24
+substance of the facts and opinions to which the
+24
+Req. No. 847 Page 11
+
+1
+expert is expected to testify and a summary of
+1
+2
+the grounds for each opinion; the qualifications
+2
+3
+of each expert witness, including a list of all
+3
+4
+publications authored by the expert witness
+4
+5
+within the preceding ten (10) years; the
+5
+6
+compensation to be paid to the expert witness for
+6
+7
+the testimony and preparation for the testimony;
+7
+8
+and a listing of any other cases in which the
+8
+9
+expert witness has testified as an expert at
+9
+10
+trial or by deposition within the preceding four
+10
+11
+(4) years. An interrogatory seeking the
+11
+12
+information specified above shall be treated as a
+12
+13
+single interrogatory for purposes of the
+13
+14
+limitation on the number of interrogatories in
+14
+15
+Section 3233 of this title.
+15
+16
+b. The protection provided by paragraph 3 of this
+16
+17
+subsection extends to communications between the
+17
+18
+party’s attorney and any expert witness retained or
+18
+19
+specially employed to provide expert testimony in the
+19
+20
+case or whose duties as the party’s employee regularly
+20
+21
+involve giving expert testimony, except to the extent
+21
+22
+that the communications:
+22
+23
+(1) relate to compensation for the expert’s study or
+23
+24
+testimony,
+24
+Req. No. 847 Page 12
+
+1
+(2) identify facts or data that the party’s attorney
+1
+2
+provided and that the expert considered in
+2
+3
+forming the opinions to be expressed, or
+3
+4
+(3) identify assumptions that the party’s attorney
+4
+5
+provided and that the expert relied upon in
+5
+6
+forming the opinions to be expressed.
+6
+7
+c. A party may not, by interrogatories or deposition,
+7
+8
+discover facts known or opinions held by an expert who
+8
+9
+has been retained or specially employed by another
+9
+10
+party in anticipation of litigation or to prepare for
+10
+11
+trial and who is not expected to be called as a
+11
+12
+witness at trial, except as provided in Section 3235
+12
+13
+of this title or upon a showing of exceptional
+13
+14
+circumstances under which it is impracticable for the
+14
+15
+party to obtain facts or opinions on the same subject
+15
+16
+by other means.
+16
+17
+d. Unless manifest injustice would result:
+17
+18
+(1) the court shall require that the party seeking
+18
+19
+discovery pay the expert a reasonable fee for
+19
+20
+time spent in responding to discovery under
+20
+21
+division (2) of subparagraph a of this paragraph
+21
+22
+and subparagraph c of this paragraph, and
+22
+23
+(2) the court shall require that the party seeking
+23
+24
+discovery with respect to discovery obtained
+24
+Req. No. 847 Page 13
+
+1
+under subparagraph c of this paragraph, pay the
+1
+2
+other party a fair portion of the fees and
+2
+3
+expenses reasonably incurred by the latter party
+3
+4
+in obtaining facts and opinions from the expert.
+4
+5
+5. CLAIMS OF PRIVILEGE OR PROTECTION OF TRIAL PREPARATION
+5
+6
+MATERIALS.
+6
+7
+a. When a party withholds information otherwise
+7
+8
+discoverable under the Oklahoma Discovery Code by
+8
+9
+claiming that it is privileged or subject to
+9
+10
+protection as trial preparation material, the party
+10
+11
+shall make the claim expressly and shall describe the
+11
+12
+nature of the documents, communications, or things not
+12
+13
+produced or disclosed in a manner that, without
+13
+14
+revealing information itself privileged or protected,
+14
+15
+will enable other parties to assess the applicability
+15
+16
+of the privilege or protection.
+16
+17
+b. If information produced in discovery is subject to a
+17
+18
+claim of privilege or of protection as trial
+18
+19
+preparation material, the party making the claim may
+19
+20
+notify any party that received the information of the
+20
+21
+claim and the basis for it. After being notified, a
+21
+22
+party shall promptly return, sequester, or destroy the
+22
+23
+specified information and any copies the party has;
+23
+24
+shall not use or disclose the information until the
+24
+Req. No. 847 Page 14
+
+1
+claim is resolved; shall take reasonable steps to
+1
+2
+retrieve the information if the party has disclosed it
+2
+3
+before being notified; and may promptly present the
+3
+4
+information to the court under seal for a
+4
+5
+determination of the claim. The producing party shall
+5
+6
+preserve the information until the claim is resolved.
+6
+7
+This mechanism is procedural only and does not alter
+7
+8
+the standards governing whether the information is
+8
+9
+privileged or subject to protection as trial
+9
+10
+preparation material or whether such privilege or
+10
+11
+protection has been waived.
+11
+12
+C. PROTECTIVE ORDERS.
+12
+13
+1. Upon motion by a party or by the person from whom discovery
+13
+14
+is sought, accompanied by a certification that the movant has in
+14
+15
+good faith conferred or attempted to confer, either in person or by
+15
+16
+telephone, with other affected parties in an effort to resolve the
+16
+17
+dispute without court action, and for good cause shown, the court in
+17
+18
+which the action is pending or on matters relating to a deposition,
+18
+19
+the district court in the county where the deposition is to be taken
+19
+20
+may enter any order which justice requires to protect a party or
+20
+21
+person from annoyance, harassment, embarrassment, oppression or
+21
+22
+undue delay, burden or expense, including one or more of the
+22
+23
+following:
+23
+24
+a. that the discovery not be had,
+24
+Req. No. 847 Page 15
+
+1
+b. that the discovery may be had only on specified terms
+1
+2
+and conditions, including a designation of the time,
+2
+3
+place or the allocation of expenses,
+3
+4
+c. that the discovery may be had only by a method of
+4
+5
+discovery other than that selected by the party
+5
+6
+seeking discovery,
+6
+7
+d. that certain matters not be inquired into, or that the
+7
+8
+scope of the disclosure or discovery be limited to
+8
+9
+certain matters,
+9
+10
+e. that discovery be conducted with no one present except
+10
+11
+persons designated by the court,
+11
+12
+f. that a deposition after being sealed be opened only by
+12
+13
+order of the court,
+13
+14
+g. that a trade secret or other confidential research,
+14
+15
+development or commercial information not be disclosed
+15
+16
+or be disclosed only in a designated way, and
+16
+17
+h. that the parties simultaneously file specified
+17
+18
+documents or information enclosed in sealed envelopes
+18
+19
+to be opened as directed by the court.
+19
+20
+2. If the motion for a protective order is denied in whole or
+20
+21
+in part, the court may, on such terms and conditions as are just,
+21
+22
+order that any party or person provide or permit discovery. The
+22
+23
+provisions of paragraph 4 of subsection A of Section 3237 of this
+23
+24
+title apply to the award of expenses incurred in relation to the
+24
+Req. No. 847 Page 16
+
+1
+motion. Any protective order of the court which has the effect of
+1
+2
+removing any material obtained by discovery from the public record
+2
+3
+shall contain the following:
+3
+4
+a. a statement that the court has determined it is
+4
+5
+necessary in the interests of justice to remove the
+5
+6
+material from the public record,
+6
+7
+b. specific identification of the material which is to be
+7
+8
+removed or withdrawn from the public record, or which
+8
+9
+is to be filed but not placed in the public record,
+9
+10
+and
+10
+11
+c. a requirement that any party obtaining a protective
+11
+12
+order place the protected material in a sealed manila
+12
+13
+envelope clearly marked with the caption and case
+13
+14
+number and is clearly marked with the word
+14
+15
+“CONFIDENTIAL”, and stating the date the order was
+15
+16
+entered and the name of the judge entering the order.
+16
+17
+This requirement may also be satisfied by requiring
+17
+18
+the party to file the documents pursuant to the
+18
+19
+procedure for electronically filing sealed or
+19
+20
+confidential documents approved for electronic filing
+20
+21
+in the courts of this state.
+21
+22
+3. No protective order entered after the filing and
+22
+23
+microfilming of documents of any kind shall be construed to require
+23
+24
+the microfilm record of such filing to be amended in any fashion.
+24
+Req. No. 847 Page 17
+
+1
+4. The party or counsel which has received the protective order
+1
+2
+shall be responsible for promptly presenting the order to
+2
+3
+appropriate court clerk personnel for appropriate action.
+3
+4
+5. All documents produced or testimony given under a protective
+4
+5
+order shall be retained in the office of counsel until required by
+5
+6
+the court to be filed in the case.
+6
+7
+6. Counsel for the respective parties shall be responsible for
+7
+8
+informing witnesses, as necessary, of the contents of the protective
+8
+9
+order.
+9
+10
+7. When a case is filed in which a party intends to seek a
+10
+11
+protective order removing material from the public record, the
+11
+12
+plaintiff(s) and defendant(s) shall be initially designated on the
+12
+13
+petition under pseudonym such as “John or Jane Doe”, or “Roe”, and
+13
+14
+the petition shall clearly indicate that the party designations are
+14
+15
+fictitious. The party seeking confidentiality or other order
+15
+16
+removing the case, in whole or in part, from the public record,
+16
+17
+shall immediately present application to the court, seeking
+17
+18
+instructions for the conduct of the case, including confidentiality
+18
+19
+of the records.
+19
+20
+D. SEQUENCE AND TIMING OF DISCOVERY. Unless the parties
+20
+21
+stipulate or the court orders otherwise for the convenience of
+21
+22
+parties and witnesses and in the interests of justice, methods of
+22
+23
+discovery may be used in any sequence. The fact that a party is
+23
+24
+24
+Req. No. 847 Page 18
+
+1
+conducting discovery, whether by deposition or otherwise, shall not
+1
+2
+operate to delay discovery by any other party.
+2
+3
+E. SUPPLEMENTATION OF RESPONSES. A party who has responded to
+3
+4
+a request for discovery with a response that was complete when it
+4
+5
+was made is under no duty to supplement the response to include
+5
+6
+information thereafter acquired, except as follows:
+6
+7
+1. A party is under a duty seasonably to supplement the
+7
+8
+response with respect to any question directly addressed to:
+8
+9
+a. the identity and location of persons having knowledge
+9
+10
+of discoverable matters, and
+10
+11
+b. the identity of each person expected to be called as
+11
+12
+an expert witness at trial, the subject matter on
+12
+13
+which the person is expected to testify, and the
+13
+14
+substance of the testimony of the person;
+14
+15
+2. A party is under a duty seasonably to amend a prior response
+15
+16
+to an interrogatory, request for production, or request for
+16
+17
+admission if the party obtains information upon the basis of which:
+17
+18
+a. (1) the party knows that the response was incorrect
+18
+19
+in some material respect when made, or
+19
+20
+(2) the party knows that the response, which was
+20
+21
+correct when made, is no longer true in some
+21
+22
+material respect, and
+22
+23
+23
+24
+24
+Req. No. 847 Page 19
+
+1
+b. the additional or corrective information has not
+1
+2
+otherwise been made known to the other parties during
+2
+3
+the discovery process or in writing; and
+3
+4
+3. A duty to supplement responses may be imposed by order of
+4
+5
+the court, agreement of the parties, or at any time prior to trial
+5
+6
+through new requests for supplementation of prior responses.
+6
+7
+F. DISCOVERY CONFERENCE. At any time after commencement of an
+7
+8
+action, the court may direct the attorneys for the parties to appear
+8
+9
+for a conference on the subject of discovery. The court shall do so
+9
+10
+upon motion by the attorney for any party if the motion includes:
+10
+11
+1. A statement of the issues as they then appear;
+11
+12
+2. A proposed plan and schedule of discovery;
+12
+13
+3. Any limitations proposed to be placed on discovery;
+13
+14
+4. Any other proposed orders with respect to discovery; and
+14
+15
+5. A statement showing that the attorney making the motion has
+15
+16
+made a reasonable effort to reach agreement with opposing attorneys
+16
+17
+on the matters set forth in the motion.
+17
+18
+Each party and his attorney are under a duty to participate in
+18
+19
+good faith in the framing of a discovery plan if a plan is proposed
+19
+20
+by the attorney for any party. Notice of the motion shall be served
+20
+21
+on all parties. Objections or additions to matters set forth in the
+21
+22
+motion shall be served not later than ten (10) days after service of
+22
+23
+the motion.
+23
+24
+24
+Req. No. 847 Page 20
+
+1
+Following the discovery conference, the court shall enter an
+1
+2
+order tentatively identifying the issues for discovery purposes,
+2
+3
+establishing a plan and schedule for discovery, setting limitations
+3
+4
+on discovery, if any; and determining such other matters, including
+4
+5
+the allocation of expenses, as are necessary for the proper
+5
+6
+management of discovery in the action. In preparing the plan for
+6
+7
+discovery the court shall protect the parties from excessive or
+7
+8
+abusive use of discovery. An order shall be altered or amended
+8
+9
+whenever justice so requires.
+9
+10
+Subject to the right of a party who properly moves for a
+10
+11
+discovery conference to prompt convening of the conference, the
+11
+12
+court may combine the discovery conference with a pretrial
+12
+13
+conference.
+13
+14
+G. SIGNING OF DISCOVERY REQUESTS, RESPONSES AND OBJECTIONS.
+14
+15
+Every request for discovery, response or objection thereto made by a
+15
+16
+party represented by an attorney shall be signed by at least one of
+16
+17
+the party’s attorneys of record in the party’s individual name whose
+17
+18
+address shall be stated. A party who is not represented by an
+18
+19
+attorney shall sign the request, response or objection and state the
+19
+20
+party’s address. The signature of the attorney or party constitutes
+20
+21
+a certification that the party has read the request, response or
+21
+22
+objection, and that it is:
+22
+23
+1. To the best of the party’s knowledge, information and belief
+23
+24
+formed after a reasonable inquiry consistent with the Oklahoma
+24
+Req. No. 847 Page 21
+
+1
+Discovery Code and warranted by existing law or a good faith
+1
+2
+argument for the extension, modification or reversal of existing
+2
+3
+law;
+3
+4
+2. Interposed in good faith and not primarily to cause delay or
+4
+5
+for any other improper purpose; and
+5
+6
+3. Not unreasonable or unduly burdensome or expensive, given
+6
+7
+the nature and complexity of the case, the discovery already had in
+7
+8
+the case, the amount in controversy, and other values at stake in
+8
+9
+the litigation. If a request, response or objection is not signed,
+9
+10
+it shall be deemed ineffective.
+10
+11
+If a certification is made in violation of the provisions of
+11
+12
+this subsection, the court, upon motion or upon its own initiative,
+12
+13
+shall impose upon the person who made the certification, the party
+13
+14
+on whose behalf the request, response or objection is made, or both,
+14
+15
+an appropriate sanction, which may include an order to pay to the
+15
+16
+amount of the reasonable expenses occasioned thereby, including a
+16
+17
+reasonable attorney fee.
+17
+18
+SECTION 2. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 3226.2 of Title 12, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+As used in the Oklahoma Discovery Code:
+21
+22
+1. “Commercial litigation funder” means any person or entity,
+22
+23
+other than an attorney permitted to charge a contingent fee
+23
+24
+representing a party, that enters into a contract establishing a
+24
+Req. No. 847 Page 22
+
+1
+right to receive compensation that is contingent on and sourced from
+1
+2
+any proceeds of the civil action by settlement, judgment, or
+2
+3
+otherwise. Commercial litigation funder shall not include a
+3
+4
+consumer litigation funder as defined in Section 3-801 of Title 14A
+4
+5
+of the Oklahoma Statutes;
+5
+6
+2. “Commercial litigation funding agreement” means an agreement
+6
+7
+under which the commercial litigation funder is granted a right to
+7
+8
+receive compensation contingent on and sourced from any proceeds of
+8
+9
+a civil action by settlement, judgment, or otherwise. A commercial
+9
+10
+litigation funding agreement shall not include:
+10
+11
+a. funding provided by an attorney to a client as
+11
+12
+authorized by the Oklahoma Rules of Professional
+12
+13
+Conduct, Appendix 3–A of Chapter 1 of Title 5 of the
+13
+14
+Oklahoma Statutes, unless such funds are encumbered
+14
+15
+pursuant to a commercial litigation funding agreement,
+15
+16
+or
+16
+17
+b. a consumer litigation funding agreement as defined in
+17
+18
+Section 3-801 of Title 14A of the Oklahoma Statutes;
+18
+19
+3. “Entity controlled by a foreign adversary” means, with
+19
+20
+respect to a person, whether a human being or bodies politic or
+20
+21
+corporate, that such person is:
+21
+22
+a. a foreign person that is a national of, is
+22
+23
+headquartered in, has its principal place of business
+23
+24
+24
+Req. No. 847 Page 23
+
+1
+in, or is organized under the law of a foreign
+1
+2
+adversary country,
+2
+3
+b. a body corporate with respect to which a foreign
+3
+4
+person or combination of foreign persons described in
+4
+5
+subparagraph a of this paragraph directly or
+5
+6
+indirectly owns at least 20 percent (20%) of such
+6
+7
+body, or
+7
+8
+c. a person subject to the direction or control of a
+8
+9
+foreign person or entity described in subparagraph a
+9
+10
+or b of this paragraph; and
+10
+11
+4. “Foreign adversary country” means a country identified in 10
+11
+12
+U.S.C., Section 4872(d)(2).
+12
+13
+SECTION 3. This act shall become effective November 1, 2025.
+13
+14
+14
+15
+60-1-847 TEK 1/19/2025 5:40:16 AM
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 847 Page 24
+
+[DELETED:  P B H]
+[DELETED:  P E]
+[DELETED:  P T a a a a a a a a D]
+[DELETED:  P P]
+[DELETED:  P A A]
+[DELETED:  P I]
+[DELETED:  P B A]
+[DELETED:  P O t t t I]
+[DELETED:  P U t t]
+[DELETED:  P I A a a]
+[DELETED:  P D a a i]
+[DELETED:  P T r]
+[DELETED:  P i i A U t t]
+[DELETED:  P W I]
+[DELETED:  P t]
+[DELETED:  P t t t t t t t]
+[DELETED:  P a s a]
+[DELETED:  P]
+[DELETED:  P t t ( t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P f a a]
+[DELETED:  P a a T 1]

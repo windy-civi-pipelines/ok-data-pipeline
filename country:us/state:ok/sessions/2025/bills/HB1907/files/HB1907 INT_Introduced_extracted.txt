@@ -1,0 +1,1175 @@
+Title: 3 HOUSE BILL 1907 By: Alonso-Sandoval
+Official Title: 3 HOUSE BILL 1907 By: Alonso-Sandoval
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to the environment; creating the
+Battery Stewardship Act; defining terms; restricting
+8 the sale of certain batteries unless in compliance;
+making certain exceptions; requiring submittal of
+9 certain plan for review; requiring operation under
+certain plan; limiting term of plan; listing
+10 requirements of plan; requiring certain calculation
+of cost; requiring payment of certain annual fee;
+11 requiring deposit of collected fees into certain
+fund; authorizing adjustment of certain fee;
+12 requiring certain annual report; listing certain
+report content requirements; requiring certain public
+13 awareness survey; stating survey requirements;
+requiring certain audit; stating audit requirements;
+14 requiring submission of audit results; requiring
+certain materials be provided; requiring the
+15 collection and recycling of certain batteries;
+authorizing certain separate collection facilities;
+16 requiring convenient collection points; requiring
+certain targets be met; requiring annual reports
+17 contain certain details; listing details; providing
+for certain punishments; requiring certain
+18 collections be used; creating penalty for certain
+improper disposal; allowing certain requirements to
+19 be met by certain participation; requiring Department
+of Environmental Quality to make certain
+20 determination; requiring certain notification;
+providing for the submission of revised plan;
+21 allowing certain plans to be deemed approved if no
+action taken; prohibiting amendments to plan unless
+22 approved; authorizing Department to require certain
+amendments to approved plans; authorizing the
+23 revocation of certain plans; authorizing Department
+to make certain determination; requiring Department
+24 maintain certain plans and plan information on its
+Req. No. 11185 Page 1
+1 website; requiring Department promote certain public
+participation; stating certain information shall not
+2 be made public; allowing for certain information to
+be summarized or redacted; making certain exception;
+3 requiring each county have certain facility;
+providing certain alternatives; requiring Department
+4 provide certain report; stating report requirements;
+authorizing the promulgation of rules; authorizing
+5 certain reimbursement; allowing reimbursement after
+certain occurrences; allowing request of certain
+6 independent audit; requiring payment of certain costs
+and requested reimbursement; authorizing certain
+7 cause of action if certain conditions are met;
+establishing fine for violations; providing for
+8 codification; and providing an effective date.
+9
+10
+11 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12 SECTION 1. NEW LAW A new section of law to be codified
+13 in the Oklahoma Statutes as Section 2120 of Title 27A, unless there
+14 is created a duplication in numbering, reads as follows:
+15 This act shall be known and may be cited as the "Battery
+16 Stewardship Act".
+17 SECTION 2. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 2121 of Title 27A, unless there
+19 is created a duplication in numbering, reads as follows:
+20 As used in the Battery Stewardship Act:
+21 1. "Department" means the Oklahoma Department of Environmental
+22 Quality or its successor agency;
+23 2. "Collection rate" means the total weight of covered
+24 batteries collected in this state by a producer in a calendar year
+Req. No. 11185 Page 2
+1 divi ded by the average annual weight of covered batteries estimated
+2 to have been sold in this state by that producer during the same
+3 calendar year and the previous two (2) calendar years;
+4 3. "Covered battery" means a portable battery or a medium
+5 format battery, regardless of the end user, sold for:
+6 a. residential purposes,
+7 b. commercial, industrial, institutional purposes,
+8 hereinafter referred to as "B2B batteries" or
+9 "Business-to-Business batteries".
+10 4. "Covered battery" does not include any of the following:
+11 a. a battery, contained in a medical device that is
+12 regulated under the federal Food, Drug, and Cosmetic
+13 Act, 21 U.S.C., Sections 301 to 394, that is not
+14 designed or marketed for sale or resale at retail
+15 locations for personal use,
+16 b. a battery that contains an electrolyte as a free
+17 liquid,
+18 c. a lead acid battery,
+19 d. a vehicle battery, or
+20 e. a battery in a battery-containing product that is not
+21 intended or designed to be easily removable from the
+22 battery-containing product;
+23 5. "Covered Entities" means:
+24
+Req. No. 11185 Page 3
+1 a. producers who are manufacturers, importers, or
+2 distributors of covered batteries sold in Oklahoma,
+3 b. retailers who are entities selling covered batteries
+4 directly to consumers or businesses in Oklahoma, and
+5 c. end users who are:
+6 (1) residential consumers, or
+7 (2) businesses that are organizations purchasing
+8 batteries for commercial, industrial, or
+9 institutional purposes.
+10 6. "Medium-format battery" means the following primary or
+11 rechargeable covered batteries:
+12 a. for rechargeable batteries, a battery weighing more
+13 than 11 pounds or having a rating of more than 300
+14 watt-hours, or both, and no more than 25 pounds and
+15 having a rating of no more than 2,000 watt-hours, or
+16 b. for primary batteries, a battery weighing at least 4.4
+17 pounds, but not more than 25 pounds.
+18 7. "Portable battery" means the following primary or
+19 rechargeable covered batteries:
+20 a. for rechargeable batteries, a battery weighing no more
+21 than 11 pounds and having a rating of no more than 300
+22 watt-hours, or
+23 b. for primary batteries, a battery weighing no more than
+24 4.4 pounds.
+Req. No. 11185 Page 4
+1 8. "Primary battery" means a battery that is not capable of
+2 being recharged.
+3 9. "Producer" means a person that sells, offers for sale, or
+4 distributes for sale a covered battery in or into this state and
+5 that qualifies as any of the following:
+6 a. if the covered battery is sold under a brand of the
+7 battery's manufacturer, the person that manufactures
+8 the battery,
+9 b. if the covered battery is sold under a retail brand or
+10 under a brand owned by a person other than the
+11 battery's manufacturer, the person that owns the
+12 brand,
+13 c. if subparagraphs a and b of this paragraph do not
+14 apply, the person that is the licensee of a brand or
+15 trademark under which the covered battery is sold,
+16 offered for sale, or distributed for sale in or into
+17 this state, regardless of whether the trademark is
+18 registered in this state,
+19 d. if subparagraphs a, b, or c of this paragraph do not
+20 apply to any person within the United States, the
+21 person that is the importer of record for the covered
+22 battery into the United States for the purpose of
+23 selling, offering for sale, or distributing for sale
+24 the battery in or into this state, and
+Req. No. 11185 Page 5
+1 e. if subparagraphs a, b, c, or d of this paragraph do
+2 not apply to any person with a commercial presence in
+3 this state, the person who first sells, offers for
+4 sale, or distributes for sale the covered battery in
+5 or into this state;
+6 10. "Rechargeable battery" means a battery that contains one or
+7 more voltaic or galvanic cells electrically connected to produce
+8 electric energy and that is designed to be recharged;
+9 11 "Recycling" means preparing covered batteries for use in
+10 manufacturing processes or for recovery of usable materials and
+11 delivering the materials for use. Recycling does not include
+12 destruction by incineration or other processes or land disposal of
+13 recyclable materials and does not include reuse, repair, or any
+14 other process through which batteries are returned in their original
+15 form; and
+16 12. "Retailer" means a person who offers a battery for sale in
+17 this state by any means, including via online sales.
+18 SECTION 3. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 2122 of Title 27A, unless there
+20 is created a duplication in numbering, reads as follows:
+21 A. Beginning on January 1, 2027, no producer may sell, offer
+22 for sale, or distribute for sale in or into this state any covered
+23 battery unless the producer is in compliance with the requirements
+24 of Section 4 of this act.
+Req. No. 11185 Page 6
+1 B. Beginning on January 1, 2027, no retailer may sell or offer
+2 for sale in this state any covered battery unless the producer of
+3 the battery is in compliance with the requirements of Section 4 of
+4 this act. This paragraph does not apply to covered batteries for
+5 which any of the following apply:
+6 1. The retailer purchases the covered battery before January 1,
+7 2027, and sells the battery on or before January 1, 2028; or
+8 2. If the producer's battery stewardship plan under Section 4
+9 of this act is expired or has been revoked, the retailer purchased
+10 the covered battery before the producer's battery stewardship plan
+11 expired or was revoked.
+12 SECTION 4. NEW LAW A new section of law to be codified
+13 in the Oklahoma Statutes as Section 2123 of Title 27A, unless there
+14 is created a duplication in numbering, reads as follows:
+15 A. No later than June 1, 2026, each producer shall submit a
+16 battery stewardship plan to the Department of Environmental Quality
+17 for review. No later than January 1, 2027, each producer shall
+18 operate under an approved battery stewardship plan. A battery
+19 stewardship plan submitted to the Department shall have a term of no
+20 more than five (5) years and shall include all of the following:
+21 1. If the producer is a member of a battery stewardship
+22 organization pursuant to Section 5 of this act, the names and
+23 contact information for each of the producers in the battery
+24 stewardship organization;
+Req. No. 11185 Page 7
+1 2. The brands of all of the covered batteries that the producer
+2 sells, offers for sale, or distributes for sale in or into this
+3 state. All such brands shall be covered by the battery stewardship
+4 plan;
+5 3. Provisions for collecting covered batteries at no cost to
+6 the end user, regardless of the brand or producer of the covered
+7 battery and provisions for collecting damaged, defective, or
+8 recalled batteries considering storage container requirements or
+9 other safety measures;
+10 4. A process for providing packaging, consistent with any state
+11 and federal requirements related to transporting hazardous
+12 materials, for the safe collection and transportation of covered
+13 batteries. Such packaging shall be provided at no cost if the
+14 purpose of the packaging will be to collect and transport damaged,
+15 defective, or recalled covered batteries;
+16 5. A process for allowing retailers, municipalities, and solid
+17 waste facilities to opt in to being a collection facility under the
+18 plan;
+19 6. The name, address, and contact information of at least one
+20 (1) collection facility in each county in this state that will
+21 provide covered battery collection throughout the calendar year;
+22 7. The name, address, and contact information of any
+23 transporter or contractor that will collect covered batteries from
+24 collection facilities and a statement as to whether such
+Req. No. 11185 Page 8
+1 tran sporters or contractors have obtained the necessary state and
+2 federal licenses for transporting batteries; and the name, address,
+3 and contact information of any recycling facility that will process
+4 the collected batteries;
+5 8. A provision that ensures that each collection facility will
+6 accept up to one hundred covered batteries per person per visit. A
+7 collection facility may agree to accept more covered batteries per
+8 person per visit;
+9 9. A method for responsibly managing collected covered
+10 batteries to ensure that all of the components of collected
+11 batteries are recycled, to the extent economically and technically
+12 feasible, and that any components or batteries that cannot be
+13 recycled are properly disposed of;
+14 10. A description of an education and outreach program that the
+15 producer will undertake to provide notice of the producer's covered
+16 battery collection program to businesses, municipalities, solid
+17 waste facilities, retailers, and transporters; to provide
+18 information about available safety training for collection
+19 facilities; and to notify the public that there is a free covered
+20 battery collection program and the location of collection
+21 facilities. If more than one producer has an approved battery
+22 stewardship plan, all producers with an approved battery stewardship
+23 plan shall coordinate in carrying out their education and outreach
+24 programs;
+Req. No. 11185 Page 9
+1 11. A description of how the producer will develop strategies,
+2 in consultation with the Department and other relevant parties, for
+3 collecting covered batteries in areas and communities that face
+4 environmental justice challenges associated with waste management;
+5 12. A procedure for collecting and providing reimbursement
+6 pursuant to Section 7 of this act;
+7 13. a. each battery stewardship plan shall include
+8 performance goals that measure, on an annual basis,
+9 the achievements of the program. Performance goals
+10 must take into consideration technical feasibility and
+11 economic practicality in achieving continuous,
+12 meaningful progress in improving:
+13 (1) the rate of battery collection for recycling in
+14 Oklahoma,
+15 (2) the recycling efficiency of the program, and
+16 (3) public awareness of the program;
+17 b. the performance goals established in each battery
+18 stewardship plan shall include, but are not limited
+19 to:
+20 (1) target collection rates,
+21 (2) target recycling efficiency rates of at least
+22 sixty percent (60%) for rechargeable batteries
+23 and at least seventy percent (70%) for primary
+24 batteries, and
+Req. No. 11185 Page 10
+1 (3) goals for public awareness, convenience, and
+2 accessibility that meet or exceed the minimum
+3 requirements established in Oklahoma Statute.
+4 15. A description of how the producer and the collection
+5 facilities identified in the plan will implement the program
+6 described in the plan, including providing products and equipment to
+7 collection facilities to set up a collection site and providing for
+8 the management and transportation of collected covered batteries;
+9 and
+10 16. Methods for safe recycling or disposal that adhere to
+11 environmental, transportation, and Occupational Safety and Health
+12 Administration (OSHA) standards and regulations.
+13 B. The Department of Environmental Quality shall calculate the
+14 total cost of administering and implementing the battery stewardship
+15 program on an annual basis. This cost may include, but not be
+16 limited to, public education and outreach efforts, administrative
+17 expenses incurred by the Department, and compliance monitoring and
+18 enforcement activities. A producer operating under an approved
+19 battery stewardship plan shall pay an annual fee determined by the
+20 Department based on market share of covered batteries sold in the
+21 state during the preceding calendar year. Fees paid under this
+22 subsection shall be deposited into the Department of Environmental
+23 Quality Revolving Fund established pursuant to Section 2-3-401 of
+24 Title 27A of the Oklahoma Statutes. The Department may adjust the
+Req. No. 11185 Page 11
+1 amou nt of this fee as necessary to maintain the program under this
+2 section.
+3 C. No later than March 1, 2028, and annually thereafter, a
+4 producer shall submit to the Department a report that contains all
+5 of the following:
+6 1. The total weight of covered batteries collected by the
+7 producer in the previous calendar year;
+8 2. The estimated percentage of the total weight under paragraph
+9 1 of this subsection that is attributable to rechargeable batteries;
+10 3. The estimated percentage of the total weight under paragraph
+11 1 of this subsection that is attributable to producers that are not
+12 operating under an approved battery stewardship plan under this
+13 section;
+14 4. The collection rate achieved by the producer in the previous
+15 calendar year;
+16 5. The estimated total weight of covered batteries sold,
+17 offered for sale, or distributed for sale in or into this state by
+18 the producer in the previous three (3) calendar years;
+19 6. The location and contact information for each collection
+20 facility and collection site that collected covered batteries under
+21 the producer's approved battery stewardship plan in the previous
+22 calendar year;
+23 7. Examples and descriptions of educational materials provided
+24 and outreach activities conducted by the producer in the previous
+Req. No. 11185 Page 12
+1 cale ndar year to increase covered battery collection, and a
+2 description of how the producer coordinated with other producers
+3 with approved battery stewardship plans in carrying out its
+4 education and outreach program;
+5 8. A description of how collected covered batteries were
+6 managed in the previous calendar year;
+7 9. Any material amendment to the producer's battery stewardship
+8 plan approved by the Department under Section 6 of this act in the
+9 previous calendar year;
+10 10. The producer's cost of implementing its battery stewardship
+11 plan in the previous calendar year, including the costs of
+12 collection, recycling, education, and outreach; and
+13 11. Any information deemed necessary by the Department to
+14 measure the program’s progress toward environmental and operational
+15 goals, identify areas for improvement, and ensure that producers and
+16 the battery stewardship organization are fulfilling their
+17 obligations under the stewardship plan.
+18 D. During the first year of implementing an approved battery
+19 stewardship plan, and two (2) years thereafter, a producer shall
+20 conduct a statistically significant survey of public awareness of
+21 the battery stewardship plan and its implementation. The results of
+22 the survey shall identify communities that have disparities in
+23 awareness and that need additional education and outreach.
+24
+Req. No. 11185 Page 13
+1 E. After five (5) years of implementing an approved battery
+2 stewardship plan, a producer shall contract with an independent
+3 third party to conduct a one-time audit of the battery stewardship
+4 plan and its implementation. The audit shall examine the financial
+5 self-sufficiency and effectiveness of the battery stewardship plan
+6 in collecting and recycling covered batteries; examine the cost-
+7 effectiveness of the battery stewardship plan; and compare the
+8 battery stewardship plan to other covered battery collection plans
+9 in other jurisdictions. The auditor shall submit the results of the
+10 audit directly to the Department and provide a copy to the producer.
+11 F. A producer that supplies covered batteries to a retailer
+12 shall provide the retailer with educational materials describing
+13 collection opportunities for those batteries.
+14 G. 1. Producers shall ensure the collection and recycling of
+15 all covered batteries sold, including Business-to-Business (B2B)
+16 batteries under the stewardship plan. Producers may establish
+17 separate collection systems tailored to B2B batteries, provided
+18 these systems ensure accessible recycling options for businesses,
+19 comply with recycling efficiency and environmental standards as
+20 specified by the program, and include options for direct collection
+21 or scheduled pickup for large-volume battery users.
+22 2. Producers shall provide convenient collection points for
+23 residential and B2B batteries, including drop-off locations
+24 accessible to businesses and direct collection options for
+Req. No. 11185 Page 14
+1 busi nesses generating large volumes of battery waste. All collected
+2 batteries, including B2B batteries, shall meet the program's
+3 recycling efficiency targets.
+4 3. Producers shall include the following details regarding B2B
+5 batteries in their annual reports:
+6 a. total weight of B2B batteries collected and recycled,
+7 b. industries or sectors served under the B2B battery
+8 program,
+9 c. performance metrics, including recycling efficiency
+10 rates for B2B batteries,
+11 d. challenges encountered in managing B2B battery waste
+12 and steps taken to address them, and
+13 e. a summary of B2B battery recycling performance to
+14 ensure transparency and accountability.
+15 4. Failure to include B2B batteries in the program or meet
+16 established performance targets may result in financial penalties
+17 proportional to the uncollected or unrecycled volume of B2B
+18 batteries or suspension of sales privileges within the state until
+19 compliance is achieved, or both.
+20 5. Businesses shall utilize the designated collection systems
+21 for B2B batteries.
+22 6. Improper disposal of B2B batteries shall be subject to
+23 penalties under existing hazardous waste regulations.
+24
+Req. No. 11185 Page 15
+1 SECTION 5. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 2124 of Title 27A, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A producer may meet the requirements under Section 4 of this act
+5 by participating in a battery stewardship organization, made up of
+6 at least five producers, that complies with the requirements of
+7 Section 4 of this act on behalf of the producer. A battery
+8 stewardship organization may exercise the rights under Sections 7
+9 and 8 of this act on behalf of any of the producers participating in
+10 the organization.
+11 SECTION 6. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 2125 of Title 27A, unless there
+13 is created a duplication in numbering, reads as follows:
+14 A. Within ninety (90) days after receiving a complete proposed
+15 battery stewardship plan under subsection A of Section 4 of this
+16 act, not including any time required for public comment and hearing
+17 under subsection D of this section, the Department of Environmental
+18 Quality shall determine whether the proposed plan complies with the
+19 requirements under subsection A of Section 4 of this act. If the
+20 proposed plan complies with the requirements under subsection A of
+21 Section 4 of this act, the Department may approve the plan and shall
+22 notify the producer of the approval in writing. If the proposed
+23 plan does not comply with the requirements under subsection A of
+24 Section 4 of this act, the Department shall deny the plan and notify
+Req. No. 11185 Page 16
+1 the producer of the denial in writing; the producer shall have
+2 forty-five (45) days after receiving a denial to submit a revised
+3 plan to the Department for approval. A proposed plan that is not
+4 approved or denied by the Department within ninety (90) days shall
+5 be deemed approved.
+6 B. A producer may not amend an approved battery stewardship
+7 plan unless the proposed amendments are approved by the Department
+8 in writing. The Department may require a producer to amend an
+9 approved plan.
+10 C. The Department may revoke an approved battery stewardship
+11 plan if the Department determines that the producer is not complying
+12 with the approved plan and the producer fails to comply with or
+13 amend the plan within a reasonable time after receiving a request to
+14 do so from the Department.
+15 D. The Department shall determine whether public comment is
+16 necessary for battery stewardship plans.
+17 E. Subject to subsection G of this section, the Department
+18 shall maintain on its website all of the following:
+19 1. A copy of all approved battery stewardship plans;
+20 2. The names of producers with approved battery stewardship
+21 plans; and
+22 3. A list of brands of covered batteries listed in approved
+23 battery stewardship plans under subsection A of Section 4 of this
+24 act.
+Req. No. 11185 Page 17
+1 F. The Department shall promote public participation in the
+2 collection and recycling of covered batteries through education and
+3 outreach activities which shall include, but shall not be limited
+4 to, safe battery recycling practices, handling techniques,
+5 collection locations, available services, and the importance and
+6 impact of battery recycling.
+7 G. Information submitted to the Department under this section
+8 that is a protected trade secret shall not be open to public
+9 inspection and copying. The Department may publish such information
+10 in a summary or aggregated form that does not identify individual
+11 producers or retailers. The Department may require a producer, as
+12 part of a report submitted under subsection C of Section 4 of this
+13 act, to omit or redact trade secret information. The total weight
+14 of covered batteries collected under an approved battery stewardship
+15 plan is not a protected trade secret.
+16 H. Each county shall have at least one year-round collection
+17 facility. Additional facilities may be required based upon review
+18 of population density, geographic distribution, and estimated waste
+19 volume, as determined by the Department of Environmental Quality.
+20 For counties with low population density or minimal waste volume,
+21 alternative collection methods, such as mobile collection events,
+22 partnerships with retailers, or mail-back programs, may fulfill
+23 collection facility requirements.
+24
+Req. No. 11185 Page 18
+1 I. No later than July 1, 2028, and every two (2) years
+2 thereafter, the Department shall provide a report on the program
+3 under this section to the Legislature and to the Governor. The
+4 Department shall include in the report a summary of annual reports
+5 received under subsection C of Section 4 of this act and any
+6 recommendations for changes to the program under this section.
+7 J. The Department may promulgate rules to implement and
+8 administer this section.
+9 SECTION 7. NEW LAW A new section of law to be codified
+10 in the Oklahoma Statutes as Section 2126 of Title 27A, unless there
+11 is created a duplication in numbering, reads as follows:
+12 A. A producer operating under an approved battery stewardship
+13 plan that collects covered batteries that are not included under the
+14 producer's approved plan is entitled to reimbursement from the
+15 producer of the collected batteries for reasonable costs incurred in
+16 collecting, handling, recycling, or properly disposing of such
+17 batteries. A producer may request reimbursement only after the
+18 producer has met the collection rate performance goal included in
+19 the producer's approved battery stewardship plan. Reimbursement may
+20 be requested only for costs actually incurred in the collection,
+21 transport, recycling, and other methods proper of disposal of
+22 covered batteries identified in the producer's approved battery
+23 stewardship plan, and reasonable administrative costs.
+24
+Req. No. 11185 Page 19
+1 B. A producer that receives a request for reimbursement under
+2 this subsection may, prior to payment and within thirty (30) days of
+3 receiving the request for reimbursement, request an independent
+4 audit of the requested reimbursement costs. If the independent
+5 audit confirms that the requested reimbursement costs are
+6 reasonable, the producer requesting the audit shall pay the cost of
+7 the audit and the amount of the reimbursement requested. If the
+8 independent audit finds that the reimbursement request, or any
+9 portion thereof, was not reasonable, the producer that submitted the
+10 reimbursement request shall pay the cost of the audit. The producer
+11 requesting the audit shall only be required to pay the portion of
+12 the reimbursement costs that the independent audit determines to be
+13 reasonable.
+14 SECTION 8. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 2127 of Title 27A, unless there
+16 is created a duplication in numbering, reads as follows:
+17 A producer operating under an approved battery stewardship plan
+18 that is in compliance with the requirements under Section 4 of this
+19 act may bring a civil action against another producer for costs
+20 incurred in collecting, handling, recycling, or properly disposing
+21 of covered batteries produced by the other producer, if all of the
+22 following apply:
+23
+24
+Req. No. 11185 Page 20
+1 1. The producer bringing the action has incurred more than One
+2 Thousand Dollars ($1,000.00) in actual costs that are reimbursable
+3 under Section 7 of this act;
+4 2. The producer against whom the action is brought can be
+5 identified as the producer of the collected covered batteries, from
+6 a brand or marking on the collected batteries or from other
+7 information available; and
+8 3. The producer bringing the action submitted a request for
+9 reimbursement under Section 7 of this act and did not receive
+10 reimbursement within ninety (90) days if no independent audit was
+11 requested or within sixty (60) days after completion of an
+12 independent audit if an audit was requested and the independent
+13 audit confirmed that the requested reimbursement costs are
+14 reasonable.
+15 SECTION 9. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 2128 of Title 27A, unless there
+17 is created a duplication in numbering, reads as follows:
+18 Any producer or retailer that violates the provisions of this
+19 act may be fined by the Department of Environmental Quality up to
+20 Ten Thousand Dollars ($10,000.00) for each violation.
+21 SECTION 10. This act shall become effective November 1, 2025.
+22
+23 60-1-11185 JBH 01/16/25
+24
+Req. No. 11185 Page 21
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P r c a a a a a]
+[DELETED:  P p r e r b f f f f]
+[DELETED:  P i i i i]
+[DELETED:  P i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P e t t p t t t]
+[DELETED:  P g]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t i p c a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P J 0]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 HOUSE BILL 1907 By: Alonso-Sandoval
+4
+5
+6 AS INTRODUCED
+7 An Act relating to the environment; creating the
+Battery Stewardship Act; defining terms; restricting
+8 the sale of certain batteries unless in compliance;
+making certain exceptions; requiring submittal of
+9 certain plan for review; requiring operation under
+certain plan; limiting term of plan; listing
+10 requirements of plan; requiring certain calculation
+of cost; requiring payment of certain annual fee;
+11 requiring deposit of collected fees into certain
+fund; authorizing adjustment of certain fee;
+12 requiring certain annual report; listing certain
+report content requirements; requiring certain public
+13 awareness survey; stating survey requirements;
+requiring certain audit; stating audit requirements;
+14 requiring submission of audit results; requiring
+certain materials be provided; requiring the
+15 collection and recycling of certain batteries;
+authorizing certain separate collection facilities;
+16 requiring convenient collection points; requiring
+certain targets be met; requiring annual reports
+17 contain certain details; listing details; providing
+for certain punishments; requiring certain
+18 collections be used; creating penalty for certain
+improper disposal; allowing certain requirements to
+19 be met by certain participation; requiring Department
+of Environmental Quality to make certain
+20 determination; requiring certain notification;
+providing for the submission of revised plan;
+21 allowing certain plans to be deemed approved if no
+action taken; prohibiting amendments to plan unless
+22 approved; authorizing Department to require certain
+amendments to approved plans; authorizing the
+23 revocation of certain plans; authorizing Department
+to make certain determination; requiring Department
+24 maintain certain plans and plan information on its
+Req. No. 11185 Page 1
+
+1 website; requiring Department promote certain public
+participation; stating certain information shall not
+2 be made public; allowing for certain information to
+be summarized or redacted; making certain exception;
+3 requiring each county have certain facility;
+providing certain alternatives; requiring Department
+4 provide certain report; stating report requirements;
+authorizing the promulgation of rules; authorizing
+5 certain reimbursement; allowing reimbursement after
+certain occurrences; allowing request of certain
+6 independent audit; requiring payment of certain costs
+and requested reimbursement; authorizing certain
+7 cause of action if certain conditions are met;
+establishing fine for violations; providing for
+8 codification; and providing an effective date.
+9
+10
+11 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12 SECTION 1. NEW LAW A new section of law to be codified
+13 in the Oklahoma Statutes as Section 2120 of Title 27A, unless there
+14 is created a duplication in numbering, reads as follows:
+15 This act shall be known and may be cited as the "Battery
+16 Stewardship Act".
+17 SECTION 2. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 2121 of Title 27A, unless there
+19 is created a duplication in numbering, reads as follows:
+20 As used in the Battery Stewardship Act:
+21 1. "Department" means the Oklahoma Department of Environmental
+22 Quality or its successor agency;
+23 2. "Collection rate" means the total weight of covered
+24 batteries collected in this state by a producer in a calendar year
+Req. No. 11185 Page 2
+
+1 divi ded by the average annual weight of covered batteries estimated
+2 to have been sold in this state by that producer during the same
+3 calendar year and the previous two (2) calendar years;
+4 3. "Covered battery" means a portable battery or a medium
+5 format battery, regardless of the end user, sold for:
+6 a. residential purposes,
+7 b. commercial, industrial, institutional purposes,
+8 hereinafter referred to as "B2B batteries" or
+9 "Business-to-Business batteries".
+10 4. "Covered battery" does not include any of the following:
+11 a. a battery, contained in a medical device that is
+12 regulated under the federal Food, Drug, and Cosmetic
+13 Act, 21 U.S.C., Sections 301 to 394, that is not
+14 designed or marketed for sale or resale at retail
+15 locations for personal use,
+16 b. a battery that contains an electrolyte as a free
+17 liquid,
+18 c. a lead acid battery,
+19 d. a vehicle battery, or
+20 e. a battery in a battery-containing product that is not
+21 intended or designed to be easily removable from the
+22 battery-containing product;
+23 5. "Covered Entities" means:
+24
+Req. No. 11185 Page 3
+
+1 a. producers who are manufacturers, importers, or
+2 distributors of covered batteries sold in Oklahoma,
+3 b. retailers who are entities selling covered batteries
+4 directly to consumers or businesses in Oklahoma, and
+5 c. end users who are:
+6 (1) residential consumers, or
+7 (2) businesses that are organizations purchasing
+8 batteries for commercial, industrial, or
+9 institutional purposes.
+10 6. "Medium-format battery" means the following primary or
+11 rechargeable covered batteries:
+12 a. for rechargeable batteries, a battery weighing more
+13 than 11 pounds or having a rating of more than 300
+14 watt-hours, or both, and no more than 25 pounds and
+15 having a rating of no more than 2,000 watt-hours, or
+16 b. for primary batteries, a battery weighing at least 4.4
+17 pounds, but not more than 25 pounds.
+18 7. "Portable battery" means the following primary or
+19 rechargeable covered batteries:
+20 a. for rechargeable batteries, a battery weighing no more
+21 than 11 pounds and having a rating of no more than 300
+22 watt-hours, or
+23 b. for primary batteries, a battery weighing no more than
+24 4.4 pounds.
+Req. No. 11185 Page 4
+
+1 8. "Primary battery" means a battery that is not capable of
+2 being recharged.
+3 9. "Producer" means a person that sells, offers for sale, or
+4 distributes for sale a covered battery in or into this state and
+5 that qualifies as any of the following:
+6 a. if the covered battery is sold under a brand of the
+7 battery's manufacturer, the person that manufactures
+8 the battery,
+9 b. if the covered battery is sold under a retail brand or
+10 under a brand owned by a person other than the
+11 battery's manufacturer, the person that owns the
+12 brand,
+13 c. if subparagraphs a and b of this paragraph do not
+14 apply, the person that is the licensee of a brand or
+15 trademark under which the covered battery is sold,
+16 offered for sale, or distributed for sale in or into
+17 this state, regardless of whether the trademark is
+18 registered in this state,
+19 d. if subparagraphs a, b, or c of this paragraph do not
+20 apply to any person within the United States, the
+21 person that is the importer of record for the covered
+22 battery into the United States for the purpose of
+23 selling, offering for sale, or distributing for sale
+24 the battery in or into this state, and
+Req. No. 11185 Page 5
+
+1 e. if subparagraphs a, b, c, or d of this paragraph do
+2 not apply to any person with a commercial presence in
+3 this state, the person who first sells, offers for
+4 sale, or distributes for sale the covered battery in
+5 or into this state;
+6 10. "Rechargeable battery" means a battery that contains one or
+7 more voltaic or galvanic cells electrically connected to produce
+8 electric energy and that is designed to be recharged;
+9 11 "Recycling" means preparing covered batteries for use in
+10 manufacturing processes or for recovery of usable materials and
+11 delivering the materials for use. Recycling does not include
+12 destruction by incineration or other processes or land disposal of
+13 recyclable materials and does not include reuse, repair, or any
+14 other process through which batteries are returned in their original
+15 form; and
+16 12. "Retailer" means a person who offers a battery for sale in
+17 this state by any means, including via online sales.
+18 SECTION 3. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 2122 of Title 27A, unless there
+20 is created a duplication in numbering, reads as follows:
+21 A. Beginning on January 1, 2027, no producer may sell, offer
+22 for sale, or distribute for sale in or into this state any covered
+23 battery unless the producer is in compliance with the requirements
+24 of Section 4 of this act.
+Req. No. 11185 Page 6
+
+1 B. Beginning on January 1, 2027, no retailer may sell or offer
+2 for sale in this state any covered battery unless the producer of
+3 the battery is in compliance with the requirements of Section 4 of
+4 this act. This paragraph does not apply to covered batteries for
+5 which any of the following apply:
+6 1. The retailer purchases the covered battery before January 1,
+7 2027, and sells the battery on or before January 1, 2028; or
+8 2. If the producer's battery stewardship plan under Section 4
+9 of this act is expired or has been revoked, the retailer purchased
+10 the covered battery before the producer's battery stewardship plan
+11 expired or was revoked.
+12 SECTION 4. NEW LAW A new section of law to be codified
+13 in the Oklahoma Statutes as Section 2123 of Title 27A, unless there
+14 is created a duplication in numbering, reads as follows:
+15 A. No later than June 1, 2026, each producer shall submit a
+16 battery stewardship plan to the Department of Environmental Quality
+17 for review. No later than January 1, 2027, each producer shall
+18 operate under an approved battery stewardship plan. A battery
+19 stewardship plan submitted to the Department shall have a term of no
+20 more than five (5) years and shall include all of the following:
+21 1. If the producer is a member of a battery stewardship
+22 organization pursuant to Section 5 of this act, the names and
+23 contact information for each of the producers in the battery
+24 stewardship organization;
+Req. No. 11185 Page 7
+
+1 2. The brands of all of the covered batteries that the producer
+2 sells, offers for sale, or distributes for sale in or into this
+3 state. All such brands shall be covered by the battery stewardship
+4 plan;
+5 3. Provisions for collecting covered batteries at no cost to
+6 the end user, regardless of the brand or producer of the covered
+7 battery and provisions for collecting damaged, defective, or
+8 recalled batteries considering storage container requirements or
+9 other safety measures;
+10 4. A process for providing packaging, consistent with any state
+11 and federal requirements related to transporting hazardous
+12 materials, for the safe collection and transportation of covered
+13 batteries. Such packaging shall be provided at no cost if the
+14 purpose of the packaging will be to collect and transport damaged,
+15 defective, or recalled covered batteries;
+16 5. A process for allowing retailers, municipalities, and solid
+17 waste facilities to opt in to being a collection facility under the
+18 plan;
+19 6. The name, address, and contact information of at least one
+20 (1) collection facility in each county in this state that will
+21 provide covered battery collection throughout the calendar year;
+22 7. The name, address, and contact information of any
+23 transporter or contractor that will collect covered batteries from
+24 collection facilities and a statement as to whether such
+Req. No. 11185 Page 8
+
+1 tran sporters or contractors have obtained the necessary state and
+2 federal licenses for transporting batteries; and the name, address,
+3 and contact information of any recycling facility that will process
+4 the collected batteries;
+5 8. A provision that ensures that each collection facility will
+6 accept up to one hundred covered batteries per person per visit. A
+7 collection facility may agree to accept more covered batteries per
+8 person per visit;
+9 9. A method for responsibly managing collected covered
+10 batteries to ensure that all of the components of collected
+11 batteries are recycled, to the extent economically and technically
+12 feasible, and that any components or batteries that cannot be
+13 recycled are properly disposed of;
+14 10. A description of an education and outreach program that the
+15 producer will undertake to provide notice of the producer's covered
+16 battery collection program to businesses, municipalities, solid
+17 waste facilities, retailers, and transporters; to provide
+18 information about available safety training for collection
+19 facilities; and to notify the public that there is a free covered
+20 battery collection program and the location of collection
+21 facilities. If more than one producer has an approved battery
+22 stewardship plan, all producers with an approved battery stewardship
+23 plan shall coordinate in carrying out their education and outreach
+24 programs;
+Req. No. 11185 Page 9
+
+1 11. A description of how the producer will develop strategies,
+2 in consultation with the Department and other relevant parties, for
+3 collecting covered batteries in areas and communities that face
+4 environmental justice challenges associated with waste management;
+5 12. A procedure for collecting and providing reimbursement
+6 pursuant to Section 7 of this act;
+7 13. a. each battery stewardship plan shall include
+8 performance goals that measure, on an annual basis,
+9 the achievements of the program. Performance goals
+10 must take into consideration technical feasibility and
+11 economic practicality in achieving continuous,
+12 meaningful progress in improving:
+13 (1) the rate of battery collection for recycling in
+14 Oklahoma,
+15 (2) the recycling efficiency of the program, and
+16 (3) public awareness of the program;
+17 b. the performance goals established in each battery
+18 stewardship plan shall include, but are not limited
+19 to:
+20 (1) target collection rates,
+21 (2) target recycling efficiency rates of at least
+22 sixty percent (60%) for rechargeable batteries
+23 and at least seventy percent (70%) for primary
+24 batteries, and
+Req. No. 11185 Page 10
+
+1 (3) goals for public awareness, convenience, and
+2 accessibility that meet or exceed the minimum
+3 requirements established in Oklahoma Statute.
+4 15. A description of how the producer and the collection
+5 facilities identified in the plan will implement the program
+6 described in the plan, including providing products and equipment to
+7 collection facilities to set up a collection site and providing for
+8 the management and transportation of collected covered batteries;
+9 and
+10 16. Methods for safe recycling or disposal that adhere to
+11 environmental, transportation, and Occupational Safety and Health
+12 Administration (OSHA) standards and regulations.
+13 B. The Department of Environmental Quality shall calculate the
+14 total cost of administering and implementing the battery stewardship
+15 program on an annual basis. This cost may include, but not be
+16 limited to, public education and outreach efforts, administrative
+17 expenses incurred by the Department, and compliance monitoring and
+18 enforcement activities. A producer operating under an approved
+19 battery stewardship plan shall pay an annual fee determined by the
+20 Department based on market share of covered batteries sold in the
+21 state during the preceding calendar year. Fees paid under this
+22 subsection shall be deposited into the Department of Environmental
+23 Quality Revolving Fund established pursuant to Section 2-3-401 of
+24 Title 27A of the Oklahoma Statutes. The Department may adjust the
+Req. No. 11185 Page 11
+
+1 amou nt of this fee as necessary to maintain the program under this
+2 section.
+3 C. No later than March 1, 2028, and annually thereafter, a
+4 producer shall submit to the Department a report that contains all
+5 of the following:
+6 1. The total weight of covered batteries collected by the
+7 producer in the previous calendar year;
+8 2. The estimated percentage of the total weight under paragraph
+9 1 of this subsection that is attributable to rechargeable batteries;
+10 3. The estimated percentage of the total weight under paragraph
+11 1 of this subsection that is attributable to producers that are not
+12 operating under an approved battery stewardship plan under this
+13 section;
+14 4. The collection rate achieved by the producer in the previous
+15 calendar year;
+16 5. The estimated total weight of covered batteries sold,
+17 offered for sale, or distributed for sale in or into this state by
+18 the producer in the previous three (3) calendar years;
+19 6. The location and contact information for each collection
+20 facility and collection site that collected covered batteries under
+21 the producer's approved battery stewardship plan in the previous
+22 calendar year;
+23 7. Examples and descriptions of educational materials provided
+24 and outreach activities conducted by the producer in the previous
+Req. No. 11185 Page 12
+
+1 cale ndar year to increase covered battery collection, and a
+2 description of how the producer coordinated with other producers
+3 with approved battery stewardship plans in carrying out its
+4 education and outreach program;
+5 8. A description of how collected covered batteries were
+6 managed in the previous calendar year;
+7 9. Any material amendment to the producer's battery stewardship
+8 plan approved by the Department under Section 6 of this act in the
+9 previous calendar year;
+10 10. The producer's cost of implementing its battery stewardship
+11 plan in the previous calendar year, including the costs of
+12 collection, recycling, education, and outreach; and
+13 11. Any information deemed necessary by the Department to
+14 measure the program’s progress toward environmental and operational
+15 goals, identify areas for improvement, and ensure that producers and
+16 the battery stewardship organization are fulfilling their
+17 obligations under the stewardship plan.
+18 D. During the first year of implementing an approved battery
+19 stewardship plan, and two (2) years thereafter, a producer shall
+20 conduct a statistically significant survey of public awareness of
+21 the battery stewardship plan and its implementation. The results of
+22 the survey shall identify communities that have disparities in
+23 awareness and that need additional education and outreach.
+24
+Req. No. 11185 Page 13
+
+1 E. After five (5) years of implementing an approved battery
+2 stewardship plan, a producer shall contract with an independent
+3 third party to conduct a one-time audit of the battery stewardship
+4 plan and its implementation. The audit shall examine the financial
+5 self-sufficiency and effectiveness of the battery stewardship plan
+6 in collecting and recycling covered batteries; examine the cost-
+7 effectiveness of the battery stewardship plan; and compare the
+8 battery stewardship plan to other covered battery collection plans
+9 in other jurisdictions. The auditor shall submit the results of the
+10 audit directly to the Department and provide a copy to the producer.
+11 F. A producer that supplies covered batteries to a retailer
+12 shall provide the retailer with educational materials describing
+13 collection opportunities for those batteries.
+14 G. 1. Producers shall ensure the collection and recycling of
+15 all covered batteries sold, including Business-to-Business (B2B)
+16 batteries under the stewardship plan. Producers may establish
+17 separate collection systems tailored to B2B batteries, provided
+18 these systems ensure accessible recycling options for businesses,
+19 comply with recycling efficiency and environmental standards as
+20 specified by the program, and include options for direct collection
+21 or scheduled pickup for large-volume battery users.
+22 2. Producers shall provide convenient collection points for
+23 residential and B2B batteries, including drop-off locations
+24 accessible to businesses and direct collection options for
+Req. No. 11185 Page 14
+
+1 busi nesses generating large volumes of battery waste. All collected
+2 batteries, including B2B batteries, shall meet the program's
+3 recycling efficiency targets.
+4 3. Producers shall include the following details regarding B2B
+5 batteries in their annual reports:
+6 a. total weight of B2B batteries collected and recycled,
+7 b. industries or sectors served under the B2B battery
+8 program,
+9 c. performance metrics, including recycling efficiency
+10 rates for B2B batteries,
+11 d. challenges encountered in managing B2B battery waste
+12 and steps taken to address them, and
+13 e. a summary of B2B battery recycling performance to
+14 ensure transparency and accountability.
+15 4. Failure to include B2B batteries in the program or meet
+16 established performance targets may result in financial penalties
+17 proportional to the uncollected or unrecycled volume of B2B
+18 batteries or suspension of sales privileges within the state until
+19 compliance is achieved, or both.
+20 5. Businesses shall utilize the designated collection systems
+21 for B2B batteries.
+22 6. Improper disposal of B2B batteries shall be subject to
+23 penalties under existing hazardous waste regulations.
+24
+Req. No. 11185 Page 15
+
+1 SECTION 5. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 2124 of Title 27A, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A producer may meet the requirements under Section 4 of this act
+5 by participating in a battery stewardship organization, made up of
+6 at least five producers, that complies with the requirements of
+7 Section 4 of this act on behalf of the producer. A battery
+8 stewardship organization may exercise the rights under Sections 7
+9 and 8 of this act on behalf of any of the producers participating in
+10 the organization.
+11 SECTION 6. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 2125 of Title 27A, unless there
+13 is created a duplication in numbering, reads as follows:
+14 A. Within ninety (90) days after receiving a complete proposed
+15 battery stewardship plan under subsection A of Section 4 of this
+16 act, not including any time required for public comment and hearing
+17 under subsection D of this section, the Department of Environmental
+18 Quality shall determine whether the proposed plan complies with the
+19 requirements under subsection A of Section 4 of this act. If the
+20 proposed plan complies with the requirements under subsection A of
+21 Section 4 of this act, the Department may approve the plan and shall
+22 notify the producer of the approval in writing. If the proposed
+23 plan does not comply with the requirements under subsection A of
+24 Section 4 of this act, the Department shall deny the plan and notify
+Req. No. 11185 Page 16
+
+1 the producer of the denial in writing; the producer shall have
+2 forty-five (45) days after receiving a denial to submit a revised
+3 plan to the Department for approval. A proposed plan that is not
+4 approved or denied by the Department within ninety (90) days shall
+5 be deemed approved.
+6 B. A producer may not amend an approved battery stewardship
+7 plan unless the proposed amendments are approved by the Department
+8 in writing. The Department may require a producer to amend an
+9 approved plan.
+10 C. The Department may revoke an approved battery stewardship
+11 plan if the Department determines that the producer is not complying
+12 with the approved plan and the producer fails to comply with or
+13 amend the plan within a reasonable time after receiving a request to
+14 do so from the Department.
+15 D. The Department shall determine whether public comment is
+16 necessary for battery stewardship plans.
+17 E. Subject to subsection G of this section, the Department
+18 shall maintain on its website all of the following:
+19 1. A copy of all approved battery stewardship plans;
+20 2. The names of producers with approved battery stewardship
+21 plans; and
+22 3. A list of brands of covered batteries listed in approved
+23 battery stewardship plans under subsection A of Section 4 of this
+24 act.
+Req. No. 11185 Page 17
+
+1 F. The Department shall promote public participation in the
+2 collection and recycling of covered batteries through education and
+3 outreach activities which shall include, but shall not be limited
+4 to, safe battery recycling practices, handling techniques,
+5 collection locations, available services, and the importance and
+6 impact of battery recycling.
+7 G. Information submitted to the Department under this section
+8 that is a protected trade secret shall not be open to public
+9 inspection and copying. The Department may publish such information
+10 in a summary or aggregated form that does not identify individual
+11 producers or retailers. The Department may require a producer, as
+12 part of a report submitted under subsection C of Section 4 of this
+13 act, to omit or redact trade secret information. The total weight
+14 of covered batteries collected under an approved battery stewardship
+15 plan is not a protected trade secret.
+16 H. Each county shall have at least one year-round collection
+17 facility. Additional facilities may be required based upon review
+18 of population density, geographic distribution, and estimated waste
+19 volume, as determined by the Department of Environmental Quality.
+20 For counties with low population density or minimal waste volume,
+21 alternative collection methods, such as mobile collection events,
+22 partnerships with retailers, or mail-back programs, may fulfill
+23 collection facility requirements.
+24
+Req. No. 11185 Page 18
+
+1 I. No later than July 1, 2028, and every two (2) years
+2 thereafter, the Department shall provide a report on the program
+3 under this section to the Legislature and to the Governor. The
+4 Department shall include in the report a summary of annual reports
+5 received under subsection C of Section 4 of this act and any
+6 recommendations for changes to the program under this section.
+7 J. The Department may promulgate rules to implement and
+8 administer this section.
+9 SECTION 7. NEW LAW A new section of law to be codified
+10 in the Oklahoma Statutes as Section 2126 of Title 27A, unless there
+11 is created a duplication in numbering, reads as follows:
+12 A. A producer operating under an approved battery stewardship
+13 plan that collects covered batteries that are not included under the
+14 producer's approved plan is entitled to reimbursement from the
+15 producer of the collected batteries for reasonable costs incurred in
+16 collecting, handling, recycling, or properly disposing of such
+17 batteries. A producer may request reimbursement only after the
+18 producer has met the collection rate performance goal included in
+19 the producer's approved battery stewardship plan. Reimbursement may
+20 be requested only for costs actually incurred in the collection,
+21 transport, recycling, and other methods proper of disposal of
+22 covered batteries identified in the producer's approved battery
+23 stewardship plan, and reasonable administrative costs.
+24
+Req. No. 11185 Page 19
+
+1 B. A producer that receives a request for reimbursement under
+2 this subsection may, prior to payment and within thirty (30) days of
+3 receiving the request for reimbursement, request an independent
+4 audit of the requested reimbursement costs. If the independent
+5 audit confirms that the requested reimbursement costs are
+6 reasonable, the producer requesting the audit shall pay the cost of
+7 the audit and the amount of the reimbursement requested. If the
+8 independent audit finds that the reimbursement request, or any
+9 portion thereof, was not reasonable, the producer that submitted the
+10 reimbursement request shall pay the cost of the audit. The producer
+11 requesting the audit shall only be required to pay the portion of
+12 the reimbursement costs that the independent audit determines to be
+13 reasonable.
+14 SECTION 8. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 2127 of Title 27A, unless there
+16 is created a duplication in numbering, reads as follows:
+17 A producer operating under an approved battery stewardship plan
+18 that is in compliance with the requirements under Section 4 of this
+19 act may bring a civil action against another producer for costs
+20 incurred in collecting, handling, recycling, or properly disposing
+21 of covered batteries produced by the other producer, if all of the
+22 following apply:
+23
+24
+Req. No. 11185 Page 20
+
+1 1. The producer bringing the action has incurred more than One
+2 Thousand Dollars ($1,000.00) in actual costs that are reimbursable
+3 under Section 7 of this act;
+4 2. The producer against whom the action is brought can be
+5 identified as the producer of the collected covered batteries, from
+6 a brand or marking on the collected batteries or from other
+7 information available; and
+8 3. The producer bringing the action submitted a request for
+9 reimbursement under Section 7 of this act and did not receive
+10 reimbursement within ninety (90) days if no independent audit was
+11 requested or within sixty (60) days after completion of an
+12 independent audit if an audit was requested and the independent
+13 audit confirmed that the requested reimbursement costs are
+14 reasonable.
+15 SECTION 9. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 2128 of Title 27A, unless there
+17 is created a duplication in numbering, reads as follows:
+18 Any producer or retailer that violates the provisions of this
+19 act may be fined by the Department of Environmental Quality up to
+20 Ten Thousand Dollars ($10,000.00) for each violation.
+21 SECTION 10. This act shall become effective November 1, 2025.
+22
+23 60-1-11185 JBH 01/16/25
+24
+Req. No. 11185 Page 21
+
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P r c a a a a a]
+[DELETED:  P p r e r b f f f f]
+[DELETED:  P i i i i]
+[DELETED:  P i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P e t t p t t t]
+[DELETED:  P g]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t i p c a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P J 0]

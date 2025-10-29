@@ -1,0 +1,1073 @@
+Title: SENATE BILL 909 By: Daniels
+Official Title: SENATE BILL 909 By: Daniels
+Number of Sections: 17
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to telecommunications; creating the
+7
+Secure Telecommunications Act of 2025; providing
+8
+short title; stating legislative intent; defining
+8
+terms; prohibiting certain critical
+9
+telecommunications infrastructure equipment;
+9
+requiring removal and replacement of certain
+10
+prohibited equipment; stating that removal,
+10
+discontinuation, or replacement of prohibited
+11
+equipment shall not require additional permits
+11
+provided certain conditions are met; requiring the
+12
+filing of certain form; requiring payment of certain
+12
+registration fee by certain date and then annually;
+13
+requiring registration prior to providing service;
+13
+authorizing Corporation Commission to prescribe
+14
+certain registration form; requiring provider furnish
+14
+certain person’s contact information; requiring
+15
+payment of registration fee at time of submission of
+15
+certain form; authorizing Commission to set certain
+16
+fee; limiting amount of fee; requiring certain
+16
+information be kept current; requiring certain
+17
+notification if information changes; requiring
+17
+certain annual certification; providing for
+18
+administrative fines for certain violations;
+18
+providing that failure to comply shall result in
+19
+forfeiture of certain funds; providing for
+19
+codification; providing an effective date; and
+20
+declaring an emergency.
+20
+21
+21
+22
+22
+23
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23
+24
+24
+Req. No. 1042 Page 1
+1
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 146.1 of Title 17, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+This act shall be known and may be cited as the “Secure
+4
+5
+Telecommunications Act of 2025”.
+5
+6
+
+Section 3:
+SECTION 2. NEW LAW A new section of law to be codified
+6
+7
+in the Oklahoma Statutes as Section 146.2 of Title 17, unless there
+7
+8
+is created a duplication in numbering, reads as follows:
+8
+9
+As used in this act:
+9
+10
+
+Section 4:
+1. “Critical telecommunications infrastructure” shall mean all
+10
+11
+physical broadband infrastructure and equipment which supports the
+11
+12
+transmission of information of a user’s choosing, regardless of the
+12
+13
+transmission medium or technology employed that connects to a
+13
+14
+network which permits the end user to engage in communications
+14
+15
+including, but not limited to, service provided directly to:
+15
+16
+a. the public, or
+16
+17
+b. such classes of users as to be effectively available
+17
+18
+directly to the public;
+18
+19
+
+Section 5:
+2. “Federally banned corporation” shall mean any company or
+19
+20
+designated equipment currently banned or at any point hereto banned
+20
+21
+at the federal level. This shall include, but not be limited to,
+21
+22
+bans resulting from the following federal agencies and acts:
+22
+23
+a. the Federal Communications Commission including, but
+23
+24
+not limited to, any equipment or service deemed to
+24
+Req. No. 1042 Page 2
+1
+pose a threat to national security identified on the
+1
+2
+Covered List developed pursuant to 47 C.F.R., Section
+2
+3
+
+Section 6:
+1.50002, as such act existed July 1, 2024, and
+3
+4
+published by the Public Safety and Homeland Security
+4
+5
+Bureau of the Federal Communications Commission
+5
+6
+pursuant to the federal Secure and Trusted
+6
+7
+Communications Networks Act of 2019, 47 U.S.C.,
+7
+8
+
+Section 7:
+Section 1601 et seq., as such act existed on July 1,
+8
+9
+2024,
+9
+10
+b. the U.S. Department of Commerce,
+10
+11
+c. the Cybersecurity and Infrastructure Security Agency,
+11
+12
+d. the Federal Acquisition Security Council, and
+12
+13
+e. Section 889 of the John S. McCain National Defense
+13
+14
+Authorization Act for Fiscal Year 2019 [Pub. L. 115-
+14
+15
+232];
+15
+16
+
+Section 8:
+3. “Foreign adversary” shall mean any country designated by the
+16
+17
+United States Secretary of State as hostile or a Country of
+17
+18
+Particular Concern (CPC); and
+18
+19
+
+Section 9:
+4. “Telecommunications provider” shall mean any corporation,
+19
+20
+public or private, which operates any system which supports the
+20
+21
+transmission of information of a user’s choosing regardless of the
+21
+22
+transmission medium or technology employed that connects to a
+22
+23
+network which permits the end user to engage in communications
+23
+24
+including, but not limited to, service provided directly to:
+24
+Req. No. 1042 Page 3
+1
+a. the public, or
+1
+2
+b. such classes of users as to be effectively available
+2
+3
+directly to the public.
+3
+4
+
+Section 10:
+SECTION 3. NEW LAW A new section of law to be codified
+4
+5
+in the Oklahoma Statutes as Section 146.3 of Title 17, unless there
+5
+6
+is created a duplication in numbering, reads as follows:
+6
+7
+A. All critical telecommunications infrastructure located
+7
+8
+within or serving this state shall not utilize any equipment
+8
+9
+manufactured by a federally banned corporation, nor any equipment
+9
+10
+banned at the federal level.
+10
+11
+B. All critical telecommunications infrastructure located
+11
+12
+within or serving this state shall not utilize any equipment
+12
+13
+manufactured in or by, including any equipment whose critical or
+13
+14
+necessary components are manufactured in or by a foreign adversary,
+14
+15
+a state-owned enterprise of a foreign adversary, or a company
+15
+16
+domiciled within a foreign adversary.
+16
+17
+C. All critical telecommunications infrastructure in operation
+17
+18
+within or serving this state, to include any critical
+18
+19
+telecommunications infrastructure which is not permanently disabled,
+19
+20
+shall have all equipment prohibited by subsection A or B of this
+20
+21
+
+Section 11:
+section removed and replaced with equipment which is not prohibited
+21
+22
+by subsection A or B of this section. Any telecommunications
+22
+23
+provider that removes, discontinues, or replaces any prohibited
+23
+24
+telecommunications equipment or service shall not be required to
+24
+Req. No. 1042 Page 4
+1
+obtain any additional permits from any state agency or political
+1
+2
+subdivision for the removal, discontinuance, or replacement of such
+2
+3
+communications equipment or service as long as the state agency or
+3
+4
+political subdivision is properly notified of the necessary
+4
+5
+replacements and the replacement communications equipment is similar
+5
+6
+to the existing communications equipment.
+6
+7
+
+Section 12:
+SECTION 4. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 146.4 of Title 17, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. Any telecommunications provider providing service in this
+10
+11
+state shall file a registration form with and pay a registration fee
+11
+12
+to the Corporation Commission by September 1, 2025, and then on
+12
+13
+January 1 of each year henceforth. Any communications provider
+13
+14
+shall register with the Commission prior to providing service. The
+14
+15
+Commission shall prescribe the registration form to be filed
+15
+16
+pursuant to this section.
+16
+17
+B. A telecommunications provider shall provide the Commission
+17
+18
+with the name, address, telephone number, and email address of a
+18
+19
+person with managerial responsibility for the provider’s operations
+19
+20
+within this state.
+20
+21
+C. A telecommunications provider shall:
+21
+22
+
+Section 13:
+1. Submit a registration fee at the time the registration form
+22
+23
+is submitted. The Commission shall set the fee in an amount
+23
+24
+24
+Req. No. 1042 Page 5
+1
+sufficient to cover the costs of administering the registration
+1
+2
+process, but such fee shall not exceed Fifty Dollars ($50.00);
+2
+3
+
+Section 14:
+2. Keep the information required by this section current and
+3
+4
+notify the Commission of any changes to such information within
+4
+5
+sixty (60) days after the change; and
+5
+6
+
+Section 15:
+3. Certify to the Commission by January 1 each year that all
+6
+7
+critical telecommunications equipment and infrastructure within its
+7
+8
+operation does not use or provide any communications equipment or
+8
+9
+service prohibited pursuant to Section 3 of this act.
+9
+10
+D. The Commission shall administratively fine any
+10
+11
+telecommunications provider which violates this section with a fine
+11
+12
+no less than Ten Thousand Dollars ($10,000.00) per day and no
+12
+13
+greater than One Hundred Thousand Dollars ($100,000.00) per day of
+13
+14
+noncompliance.
+14
+15
+E. The Commission shall administratively fine any
+15
+16
+telecommunications provider which knowingly submits a false
+16
+17
+registration form described in this section with a fine no less than
+17
+18
+Ten Thousand Dollars ($10,000.00) per day and no greater than One
+18
+19
+Hundred Thousand Dollars ($100,000.00) per day of noncompliance.
+19
+20
+F. Any telecommunications provider that fails to comply with
+20
+21
+this section is prohibited from receiving any state or local funds
+21
+22
+for the development or support of new or existing critical
+22
+23
+telecommunications infrastructure, including the Oklahoma Universal
+23
+24
+Service Fund, and is prohibited from receiving any federal funds
+24
+Req. No. 1042 Page 6
+1
+subject to distribution by state or local governments for the
+1
+2
+development or support of new or existing critical
+2
+3
+telecommunications infrastructure.
+3
+4
+
+Section 16:
+SECTION 5. This act shall become effective July 1, 2025.
+4
+5
+
+Section 17:
+SECTION 6. It being immediately necessary for the preservation
+5
+6
+of the public peace, health or safety, an emergency is hereby
+6
+7
+declared to exist, by reason whereof this act shall take effect and
+7
+8
+be in full force from and after its passage and approval.
+8
+9
+9
+10
+60-1-1042 CN 1/19/2025 5:45:45 AM
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1042 Page 7
+[DELETED:  P B D]
+[DELETED:  P t s t]
+[DELETED:  P t t t S]
+[DELETED:  P t s]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 909 By: Daniels
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to telecommunications; creating the
+7
+Secure Telecommunications Act of 2025; providing
+8
+short title; stating legislative intent; defining
+8
+terms; prohibiting certain critical
+9
+telecommunications infrastructure equipment;
+9
+requiring removal and replacement of certain
+10
+prohibited equipment; stating that removal,
+10
+discontinuation, or replacement of prohibited
+11
+equipment shall not require additional permits
+11
+provided certain conditions are met; requiring the
+12
+filing of certain form; requiring payment of certain
+12
+registration fee by certain date and then annually;
+13
+requiring registration prior to providing service;
+13
+authorizing Corporation Commission to prescribe
+14
+certain registration form; requiring provider furnish
+14
+certain person’s contact information; requiring
+15
+payment of registration fee at time of submission of
+15
+certain form; authorizing Commission to set certain
+16
+fee; limiting amount of fee; requiring certain
+16
+information be kept current; requiring certain
+17
+notification if information changes; requiring
+17
+certain annual certification; providing for
+18
+administrative fines for certain violations;
+18
+providing that failure to comply shall result in
+19
+forfeiture of certain funds; providing for
+19
+codification; providing an effective date; and
+20
+declaring an emergency.
+20
+21
+21
+22
+22
+23
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23
+24
+24
+Req. No. 1042 Page 1
+
+1
+SECTION 1. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 146.1 of Title 17, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+This act shall be known and may be cited as the “Secure
+4
+5
+Telecommunications Act of 2025”.
+5
+6
+SECTION 2. NEW LAW A new section of law to be codified
+6
+7
+in the Oklahoma Statutes as Section 146.2 of Title 17, unless there
+7
+8
+is created a duplication in numbering, reads as follows:
+8
+9
+As used in this act:
+9
+10
+1. “Critical telecommunications infrastructure” shall mean all
+10
+11
+physical broadband infrastructure and equipment which supports the
+11
+12
+transmission of information of a user’s choosing, regardless of the
+12
+13
+transmission medium or technology employed that connects to a
+13
+14
+network which permits the end user to engage in communications
+14
+15
+including, but not limited to, service provided directly to:
+15
+16
+a. the public, or
+16
+17
+b. such classes of users as to be effectively available
+17
+18
+directly to the public;
+18
+19
+2. “Federally banned corporation” shall mean any company or
+19
+20
+designated equipment currently banned or at any point hereto banned
+20
+21
+at the federal level. This shall include, but not be limited to,
+21
+22
+bans resulting from the following federal agencies and acts:
+22
+23
+a. the Federal Communications Commission including, but
+23
+24
+not limited to, any equipment or service deemed to
+24
+Req. No. 1042 Page 2
+
+1
+pose a threat to national security identified on the
+1
+2
+Covered List developed pursuant to 47 C.F.R., Section
+2
+3
+1.50002, as such act existed July 1, 2024, and
+3
+4
+published by the Public Safety and Homeland Security
+4
+5
+Bureau of the Federal Communications Commission
+5
+6
+pursuant to the federal Secure and Trusted
+6
+7
+Communications Networks Act of 2019, 47 U.S.C.,
+7
+8
+Section 1601 et seq., as such act existed on July 1,
+8
+9
+2024,
+9
+10
+b. the U.S. Department of Commerce,
+10
+11
+c. the Cybersecurity and Infrastructure Security Agency,
+11
+12
+d. the Federal Acquisition Security Council, and
+12
+13
+e. Section 889 of the John S. McCain National Defense
+13
+14
+Authorization Act for Fiscal Year 2019 [Pub. L. 115-
+14
+15
+232];
+15
+16
+3. “Foreign adversary” shall mean any country designated by the
+16
+17
+United States Secretary of State as hostile or a Country of
+17
+18
+Particular Concern (CPC); and
+18
+19
+4. “Telecommunications provider” shall mean any corporation,
+19
+20
+public or private, which operates any system which supports the
+20
+21
+transmission of information of a user’s choosing regardless of the
+21
+22
+transmission medium or technology employed that connects to a
+22
+23
+network which permits the end user to engage in communications
+23
+24
+including, but not limited to, service provided directly to:
+24
+Req. No. 1042 Page 3
+
+1
+a. the public, or
+1
+2
+b. such classes of users as to be effectively available
+2
+3
+directly to the public.
+3
+4
+SECTION 3. NEW LAW A new section of law to be codified
+4
+5
+in the Oklahoma Statutes as Section 146.3 of Title 17, unless there
+5
+6
+is created a duplication in numbering, reads as follows:
+6
+7
+A. All critical telecommunications infrastructure located
+7
+8
+within or serving this state shall not utilize any equipment
+8
+9
+manufactured by a federally banned corporation, nor any equipment
+9
+10
+banned at the federal level.
+10
+11
+B. All critical telecommunications infrastructure located
+11
+12
+within or serving this state shall not utilize any equipment
+12
+13
+manufactured in or by, including any equipment whose critical or
+13
+14
+necessary components are manufactured in or by a foreign adversary,
+14
+15
+a state-owned enterprise of a foreign adversary, or a company
+15
+16
+domiciled within a foreign adversary.
+16
+17
+C. All critical telecommunications infrastructure in operation
+17
+18
+within or serving this state, to include any critical
+18
+19
+telecommunications infrastructure which is not permanently disabled,
+19
+20
+shall have all equipment prohibited by subsection A or B of this
+20
+21
+section removed and replaced with equipment which is not prohibited
+21
+22
+by subsection A or B of this section. Any telecommunications
+22
+23
+provider that removes, discontinues, or replaces any prohibited
+23
+24
+telecommunications equipment or service shall not be required to
+24
+Req. No. 1042 Page 4
+
+1
+obtain any additional permits from any state agency or political
+1
+2
+subdivision for the removal, discontinuance, or replacement of such
+2
+3
+communications equipment or service as long as the state agency or
+3
+4
+political subdivision is properly notified of the necessary
+4
+5
+replacements and the replacement communications equipment is similar
+5
+6
+to the existing communications equipment.
+6
+7
+SECTION 4. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 146.4 of Title 17, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. Any telecommunications provider providing service in this
+10
+11
+state shall file a registration form with and pay a registration fee
+11
+12
+to the Corporation Commission by September 1, 2025, and then on
+12
+13
+January 1 of each year henceforth. Any communications provider
+13
+14
+shall register with the Commission prior to providing service. The
+14
+15
+Commission shall prescribe the registration form to be filed
+15
+16
+pursuant to this section.
+16
+17
+B. A telecommunications provider shall provide the Commission
+17
+18
+with the name, address, telephone number, and email address of a
+18
+19
+person with managerial responsibility for the provider’s operations
+19
+20
+within this state.
+20
+21
+C. A telecommunications provider shall:
+21
+22
+1. Submit a registration fee at the time the registration form
+22
+23
+is submitted. The Commission shall set the fee in an amount
+23
+24
+24
+Req. No. 1042 Page 5
+
+1
+sufficient to cover the costs of administering the registration
+1
+2
+process, but such fee shall not exceed Fifty Dollars ($50.00);
+2
+3
+2. Keep the information required by this section current and
+3
+4
+notify the Commission of any changes to such information within
+4
+5
+sixty (60) days after the change; and
+5
+6
+3. Certify to the Commission by January 1 each year that all
+6
+7
+critical telecommunications equipment and infrastructure within its
+7
+8
+operation does not use or provide any communications equipment or
+8
+9
+service prohibited pursuant to Section 3 of this act.
+9
+10
+D. The Commission shall administratively fine any
+10
+11
+telecommunications provider which violates this section with a fine
+11
+12
+no less than Ten Thousand Dollars ($10,000.00) per day and no
+12
+13
+greater than One Hundred Thousand Dollars ($100,000.00) per day of
+13
+14
+noncompliance.
+14
+15
+E. The Commission shall administratively fine any
+15
+16
+telecommunications provider which knowingly submits a false
+16
+17
+registration form described in this section with a fine no less than
+17
+18
+Ten Thousand Dollars ($10,000.00) per day and no greater than One
+18
+19
+Hundred Thousand Dollars ($100,000.00) per day of noncompliance.
+19
+20
+F. Any telecommunications provider that fails to comply with
+20
+21
+this section is prohibited from receiving any state or local funds
+21
+22
+for the development or support of new or existing critical
+22
+23
+telecommunications infrastructure, including the Oklahoma Universal
+23
+24
+Service Fund, and is prohibited from receiving any federal funds
+24
+Req. No. 1042 Page 6
+
+1
+subject to distribution by state or local governments for the
+1
+2
+development or support of new or existing critical
+2
+3
+telecommunications infrastructure.
+3
+4
+SECTION 5. This act shall become effective July 1, 2025.
+4
+5
+SECTION 6. It being immediately necessary for the preservation
+5
+6
+of the public peace, health or safety, an emergency is hereby
+6
+7
+declared to exist, by reason whereof this act shall take effect and
+7
+8
+be in full force from and after its passage and approval.
+8
+9
+9
+10
+60-1-1042 CN 1/19/2025 5:45:45 AM
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1042 Page 7
+
+[DELETED:  P B D]
+[DELETED:  P t s t]
+[DELETED:  P t t t S]
+[DELETED:  P t s]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]

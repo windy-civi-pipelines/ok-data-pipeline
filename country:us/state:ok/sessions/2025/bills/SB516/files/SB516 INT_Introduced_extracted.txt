@@ -1,0 +1,749 @@
+Title: SENATE BILL 516 By: Alvord
+Official Title: SENATE BILL 516 By: Alvord
+Number of Sections: 6
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to professions and occupations;
+7
+amending 59 O.S. 2021, Sections 1151.15 and 1151.18,
+8
+which relate to the Roofing Contractor Registration
+8
+Act; modifying certain duties of registrar upon
+9
+receipt of certain complaints to record date received
+9
+and process certain complaint; modernizing direct
+10
+access system requirements; updating statutory
+10
+language; and providing an effective date.
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+
+Section 2:
+SECTION 1. AMENDATORY 59 O.S. 2021, Section 1151.15, is
+14
+15
+amended to read as follows:
+15
+16
+
+Section 3:
+Section 1151.15. A. The Roofing Hearing Board is authorized to
+16
+17
+investigate any written complaint received pursuant to the Roofing
+17
+18
+Contractor Registration Act, including any person to the extent
+18
+19
+necessary to determine if the person is engaged in violations of the
+19
+20
+provisions of the Roofing Contractor Registration Act, including
+20
+21
+unlawful activity of the practice of contracting for roofing work
+21
+22
+without a valid registration, whether the matter is prosecuted
+22
+23
+administratively through the Roofing Hearing Board or referred for
+23
+24
+criminal prosecution. The Board may refer the matter for
+24
+Req. No. 793 Page 1
+1
+prosecution whether or not the person ceases the unlawful practice
+1
+2
+of contracting for roofing work without a valid registration.
+2
+3
+B. Service of the notice of violation or citation may be in
+3
+4
+person or by certified mail at the last-known business address or
+4
+5
+residence address of the person cited.
+5
+6
+C. A notice of violation and citation may contain a cease and
+6
+7
+desist order for residential roofing contractor work if the
+7
+8
+homeowner has been provided the required disclosure and has
+8
+9
+exercised the homeowner’s option to cancel the contract as provided
+9
+10
+in subsection I of Section 1151.5 of this title, or at any time
+10
+11
+during commercial roofing contractor work.
+11
+12
+D. The registrar shall read each complaint received and shall
+12
+13
+enter a notation in the individual roofing contractor’s record
+13
+14
+showing record the date that the verified complaint was received and
+14
+15
+the nature of process the complaint as provided by law. The
+15
+16
+registrar shall notify the roofing contractor against whom the
+16
+17
+complaint is made, in writing, within five (5) days of the receipt
+17
+18
+of the written complaint. The roofing contractor shall have ten
+18
+19
+(10) days to respond, in writing, to the registrar. If a response
+19
+20
+to the complaint is received by the registrar, whether admitting or
+20
+21
+denying the basis of the complaint, a copy of both the complaint and
+21
+22
+the response shall be sent to the district attorney along with the
+22
+23
+results of any investigation by the Board, if the Board does not
+23
+24
+retain the matter and refers the complaint to the district attorney.
+24
+Req. No. 793 Page 2
+1
+If no response is received, the complaint may still be referred to
+1
+2
+the district attorney, along with the results of any investigation
+2
+3
+by the Board. The Board or a Committee of Roofing Examiners member
+3
+4
+is authorized to assist in any investigation of a roofing complaint
+4
+5
+referred to the district attorney, if requested by the district
+5
+6
+attorney. In addition, the registrar shall enter a notation in the
+6
+7
+individual roofing contractor’s record showing the date that the
+7
+8
+roofing contractor’s response was received, if any, and whether the
+8
+9
+response admitted or denied the basis of the complaint.
+9
+10
+E. Following referral of a complaint to the district attorney,
+10
+11
+if the roofing contractor is adjudicated by the court for an act or
+11
+12
+omission specified in subsection A of Section 1151.14 of this title,
+12
+13
+or upon a conviction for any violation of the provisions of the
+13
+14
+Roofing Contractor Registration Act, the registrar, when ordered by
+14
+15
+the court, shall suspend, revoke or deny the roofing contractor’s
+15
+16
+registration for the period of time specified by the court, and if
+16
+17
+the court orders the registration suspended, revoked or denied, and
+17
+18
+yet fails to set the term of such suspension, revocation or denial,
+18
+19
+the period shall be six (6) months.
+19
+20
+F. The registrar shall not renew, reinstate, or issue a new
+20
+21
+roofing contractor registration to any person subject to any term of
+21
+22
+denial, suspension or revocation until such term has been completed,
+22
+23
+and thereafter, the person makes application and pays required fees
+23
+24
+pursuant to Sections 1151.8 and 1151.12 of this title.
+24
+Req. No. 793 Page 3
+1
+G. It shall be unlawful for a person to obtain or attempt to
+1
+2
+obtain a roofing contractor registration certificate under any other
+2
+3
+name during any period when the roofing contractor’s registration is
+3
+4
+suspended or revoked. Upon conviction of a violation of this
+4
+5
+subsection, the person shall be guilty of a misdemeanor as provided
+5
+6
+in Section 1151.3 of this title. A business firm, partnership,
+6
+7
+association, corporation, limited liability company, or other group
+7
+8
+or combination thereof acting as a unit whose registration
+8
+9
+certificate is suspended or revoked includes all of the members,
+9
+10
+partners, officers, and agents acting under that roofing contractor
+10
+11
+registration certificate when such persons are specified on and did
+11
+12
+sign the application or renewal form.
+12
+13
+
+Section 4:
+SECTION 2. AMENDATORY 59 O.S. 2021, Section 1151.18, is
+13
+14
+amended to read as follows:
+14
+15
+
+Section 5:
+Section 1151.18. Upon request, the registrar shall verify a
+15
+16
+roofing contractor registration number to city, county and state
+16
+17
+enforcement officials and to the public. The registrar shall
+17
+18
+establish through the Internet or other technology a verification
+18
+19
+system or direct access system for confirming roofing contractor
+19
+20
+registration certificates and status of registration maintained by
+20
+21
+the Construction Industries Board. The system shall include the
+21
+22
+notation of each complaint received against an individual roofing
+22
+23
+contractor, his or her response to each complaint by noting whether
+23
+24
+the roofing contractor admits or denies the allegation, any court
+24
+Req. No. 793 Page 4
+1
+disposition of a complaint, if known, and any conviction for a
+1
+2
+violation of the provisions of this act. In addition, the system
+2
+3
+may include a notation for any conviction of a criminal violation in
+3
+4
+this state, another state, or the United States when disclosed by a
+4
+5
+criminal history records search on the individual roofing
+5
+6
+contractor. Disclosure of any information through use of the
+6
+7
+roofing contractor registration system or information maintained by
+7
+8
+the registrar shall not be deemed to be an endorsement of any
+8
+9
+roofing contractor or determination of any facts, qualifications,
+9
+10
+information or reputation of any roofing contractor by the
+10
+11
+registrar, the state, the Construction Industries Board, or any of
+11
+12
+their respective agents, officers, employees or assigns.
+12
+13
+
+Section 6:
+SECTION 3. This act shall become effective November 1, 2025.
+13
+14
+14
+15
+60-1-793 CAD 1/19/2025 5:37:53 AM
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 793 Page 5
+[DELETED:  P B A]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 516 By: Alvord
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to professions and occupations;
+7
+amending 59 O.S. 2021, Sections 1151.15 and 1151.18,
+8
+which relate to the Roofing Contractor Registration
+8
+Act; modifying certain duties of registrar upon
+9
+receipt of certain complaints to record date received
+9
+and process certain complaint; modernizing direct
+10
+access system requirements; updating statutory
+10
+language; and providing an effective date.
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+SECTION 1. AMENDATORY 59 O.S. 2021, Section 1151.15, is
+14
+15
+amended to read as follows:
+15
+16
+Section 1151.15. A. The Roofing Hearing Board is authorized to
+16
+17
+investigate any written complaint received pursuant to the Roofing
+17
+18
+Contractor Registration Act, including any person to the extent
+18
+19
+necessary to determine if the person is engaged in violations of the
+19
+20
+provisions of the Roofing Contractor Registration Act, including
+20
+21
+unlawful activity of the practice of contracting for roofing work
+21
+22
+without a valid registration, whether the matter is prosecuted
+22
+23
+administratively through the Roofing Hearing Board or referred for
+23
+24
+criminal prosecution. The Board may refer the matter for
+24
+Req. No. 793 Page 1
+
+1
+prosecution whether or not the person ceases the unlawful practice
+1
+2
+of contracting for roofing work without a valid registration.
+2
+3
+B. Service of the notice of violation or citation may be in
+3
+4
+person or by certified mail at the last-known business address or
+4
+5
+residence address of the person cited.
+5
+6
+C. A notice of violation and citation may contain a cease and
+6
+7
+desist order for residential roofing contractor work if the
+7
+8
+homeowner has been provided the required disclosure and has
+8
+9
+exercised the homeowner’s option to cancel the contract as provided
+9
+10
+in subsection I of Section 1151.5 of this title, or at any time
+10
+11
+during commercial roofing contractor work.
+11
+12
+D. The registrar shall read each complaint received and shall
+12
+13
+enter a notation in the individual roofing contractor’s record
+13
+14
+showing record the date that the verified complaint was received and
+14
+15
+the nature of process the complaint as provided by law. The
+15
+16
+registrar shall notify the roofing contractor against whom the
+16
+17
+complaint is made, in writing, within five (5) days of the receipt
+17
+18
+of the written complaint. The roofing contractor shall have ten
+18
+19
+(10) days to respond, in writing, to the registrar. If a response
+19
+20
+to the complaint is received by the registrar, whether admitting or
+20
+21
+denying the basis of the complaint, a copy of both the complaint and
+21
+22
+the response shall be sent to the district attorney along with the
+22
+23
+results of any investigation by the Board, if the Board does not
+23
+24
+retain the matter and refers the complaint to the district attorney.
+24
+Req. No. 793 Page 2
+
+1
+If no response is received, the complaint may still be referred to
+1
+2
+the district attorney, along with the results of any investigation
+2
+3
+by the Board. The Board or a Committee of Roofing Examiners member
+3
+4
+is authorized to assist in any investigation of a roofing complaint
+4
+5
+referred to the district attorney, if requested by the district
+5
+6
+attorney. In addition, the registrar shall enter a notation in the
+6
+7
+individual roofing contractor’s record showing the date that the
+7
+8
+roofing contractor’s response was received, if any, and whether the
+8
+9
+response admitted or denied the basis of the complaint.
+9
+10
+E. Following referral of a complaint to the district attorney,
+10
+11
+if the roofing contractor is adjudicated by the court for an act or
+11
+12
+omission specified in subsection A of Section 1151.14 of this title,
+12
+13
+or upon a conviction for any violation of the provisions of the
+13
+14
+Roofing Contractor Registration Act, the registrar, when ordered by
+14
+15
+the court, shall suspend, revoke or deny the roofing contractor’s
+15
+16
+registration for the period of time specified by the court, and if
+16
+17
+the court orders the registration suspended, revoked or denied, and
+17
+18
+yet fails to set the term of such suspension, revocation or denial,
+18
+19
+the period shall be six (6) months.
+19
+20
+F. The registrar shall not renew, reinstate, or issue a new
+20
+21
+roofing contractor registration to any person subject to any term of
+21
+22
+denial, suspension or revocation until such term has been completed,
+22
+23
+and thereafter, the person makes application and pays required fees
+23
+24
+pursuant to Sections 1151.8 and 1151.12 of this title.
+24
+Req. No. 793 Page 3
+
+1
+G. It shall be unlawful for a person to obtain or attempt to
+1
+2
+obtain a roofing contractor registration certificate under any other
+2
+3
+name during any period when the roofing contractor’s registration is
+3
+4
+suspended or revoked. Upon conviction of a violation of this
+4
+5
+subsection, the person shall be guilty of a misdemeanor as provided
+5
+6
+in Section 1151.3 of this title. A business firm, partnership,
+6
+7
+association, corporation, limited liability company, or other group
+7
+8
+or combination thereof acting as a unit whose registration
+8
+9
+certificate is suspended or revoked includes all of the members,
+9
+10
+partners, officers, and agents acting under that roofing contractor
+10
+11
+registration certificate when such persons are specified on and did
+11
+12
+sign the application or renewal form.
+12
+13
+SECTION 2. AMENDATORY 59 O.S. 2021, Section 1151.18, is
+13
+14
+amended to read as follows:
+14
+15
+Section 1151.18. Upon request, the registrar shall verify a
+15
+16
+roofing contractor registration number to city, county and state
+16
+17
+enforcement officials and to the public. The registrar shall
+17
+18
+establish through the Internet or other technology a verification
+18
+19
+system or direct access system for confirming roofing contractor
+19
+20
+registration certificates and status of registration maintained by
+20
+21
+the Construction Industries Board. The system shall include the
+21
+22
+notation of each complaint received against an individual roofing
+22
+23
+contractor, his or her response to each complaint by noting whether
+23
+24
+the roofing contractor admits or denies the allegation, any court
+24
+Req. No. 793 Page 4
+
+1
+disposition of a complaint, if known, and any conviction for a
+1
+2
+violation of the provisions of this act. In addition, the system
+2
+3
+may include a notation for any conviction of a criminal violation in
+3
+4
+this state, another state, or the United States when disclosed by a
+4
+5
+criminal history records search on the individual roofing
+5
+6
+contractor. Disclosure of any information through use of the
+6
+7
+roofing contractor registration system or information maintained by
+7
+8
+the registrar shall not be deemed to be an endorsement of any
+8
+9
+roofing contractor or determination of any facts, qualifications,
+9
+10
+information or reputation of any roofing contractor by the
+10
+11
+registrar, the state, the Construction Industries Board, or any of
+11
+12
+their respective agents, officers, employees or assigns.
+12
+13
+SECTION 3. This act shall become effective November 1, 2025.
+13
+14
+14
+15
+60-1-793 CAD 1/19/2025 5:37:53 AM
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 793 Page 5
+
+[DELETED:  P B A]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]

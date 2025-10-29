@@ -1,0 +1,900 @@
+Title: BILL NO. 889 By: Murdock, Bullard,
+Official Title: BILL NO. 889 By: Murdock, Bullard,
+Number of Sections: 1
+Source: versions - Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+1 ENGR OSSED SENATE
+2 Bergstrom, Frix, Jett,
+Grellner, Sacchieri,
+3 McIntosh, and Deevers of
+the Senate
+4
+and
+5
+Lepak of the House
+6
+7
+8 An Act relating to hospitals; defining terms;
+requiring hospitals to make public certain file and
+9 list; stating requirements for list of standard
+charges; requiring certain digital publication of
+10 specified information; requiring certain online
+display of list; stipulating requirements related to
+11 accessibility and formatting of list; requiring
+annual update of list; stating requirements for list
+12 of standard charges and selection of shoppable
+services; requiring list to include certain
+13 information; directing certain display and
+availability of list; authorizing certain compliance
+14 monitoring by the State Department of Health;
+authorizing certain actions for noncompliance;
+15 defining material violation; authorizing issuance of
+certain notice upon certain determination; specifying
+16 certain requirements for corrective action plans;
+prohibiting certain collection actions by
+17 noncompliant hospitals; authorizing certain civil
+actions; imposing certain requirements on hospitals
+18 found noncompliant; providing certain construction;
+repealing 63 O.S. 2021, Sections 1-725.1, 1-725.2, 1-
+19 725.3, 1-725.4, and 1-725.5, which relate to the
+Transparency in Health Care Prices Act; providing for
+20 codification; and providing an effective date.
+21
+22 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23
+24
+ENGR. S. B. NO. 889 Page 1
+1 SECTION 1. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 1-725.11 of Title 63, unless
+3 there is created a duplication in numbering, reads as follows:
+4 As used in this act:
+5 1. “Ancillary service” means a hospital item or service that a
+6 hospital customarily provides as part of a shoppable service;
+7 2. “Chargemaster” means the list of all hospital items or
+8 services maintained by a hospital for which the hospital has
+9 established a charge;
+10 3. “De-identified maximum negotiated charge” means the highest
+11 charge that a hospital has negotiated with all third-party payors
+12 for a hospital item or service;
+13 4. “De-identified minimum negotiated charge” means the lowest
+14 charge that a hospital has negotiated with all third-party payors
+15 for a hospital item or service;
+16 5. “Department” means the State Department of Health;
+17 6. “Discounted cash price” means the charge that applies to an
+18 individual who pays cash, or a cash equivalent, for a hospital item
+19 or service;
+20 7. “Gross charge” means the charge for a hospital item or
+21 service that is reflected on a hospital’s chargemaster, absent any
+22 discounts;
+23 8. “Hospital” means a hospital:
+24
+ENGR. S. B. NO. 889 Page 2
+1 a. licensed under Section 1-702 of Title 63 of the
+2 Oklahoma Statutes, or
+3 b. owned or operated by a state agency;
+4 9. “Hospital items or services” means all items and services,
+5 including individual items and services and service packages, that
+6 may be provided by a hospital to a patient in connection with an
+7 inpatient admission or an outpatient department visit, as
+8 applicable, for which the hospital has established a standard
+9 charge, including:
+10 a. supplies and procedures,
+11 b. room and board,
+12 c. use of the facility and other areas, generally
+13 referred to as facility fees,
+14 d. services of physicians and non-physician
+15 practitioners, generally referred to as professional
+16 charges, and
+17 e. any other item or service for which a hospital has
+18 established a standard charge;
+19 10. “Machine-readable format” means a digital representation of
+20 information in a file that can be imported or read into a computer
+21 system for further processing. The term includes Extensible Markup
+22 Language (.XML), JavaScript Object Notation (.JSON), and Comma-
+23 Separated Values (.CSV) formats;
+24
+ENGR. S. B. NO. 889 Page 3
+1 11. “Payor-specific negotiated charge” means the charge that a
+2 hospital has negotiated with a third-party payor for a hospital item
+3 or service;
+4 12. “Service package” means an aggregation of individual
+5 hospital items or services into a single service with a single
+6 charge;
+7 13. “Shoppable service” means a service that may be scheduled
+8 by a health care consumer in advance;
+9 14. “Standard charge” means the regular rate established by the
+10 hospital for a hospital item or service provided to a specific group
+11 of paying patients. The term includes all of the following, as
+12 defined under this section:
+13 a. the gross charge,
+14 b. the payor-specific negotiated charge,
+15 c. the de-identified minimum negotiated charge,
+16 d. the de-identified maximum negotiated charge, and
+17 e. the discounted cash price; and
+18 15. “Third-party payor” means an entity that is, by statute,
+19 contract, or agreement, legally responsible for payment of a claim
+20 for a hospital item or service.
+21 SECTION 2. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 1-725.12 of Title 63, unless
+23 there is created a duplication in numbering, reads as follows:
+24 Notwithstanding any other law, a hospital shall make public:
+ENGR. S. B. NO. 889 Page 4
+1 1. A digital file in a machine-readable format that contains a
+2 list of all standard charges for all hospital items or services as
+3 described by Section 3 of this act; and
+4 2. A consumer-friendly list of standard charges for a limited
+5 set of shoppable services as provided in Section 4 of this act.
+6 SECTION 3. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 1-725.13 of Title 63, unless
+8 there is created a duplication in numbering, reads as follows:
+9 A. A hospital shall:
+10 1. Maintain a list of all standard charges for all hospital
+11 items or services in accordance with this section; and
+12 2. Ensure the list required under paragraph 1 of this
+13 subsection is available at all times to the public, including by
+14 posting the list electronically in the manner provided by this
+15 section.
+16 B. The standard charges contained in the list required to be
+17 maintained by a hospital under subsection A of this section shall
+18 reflect the standard charges applicable to that location of the
+19 hospital, regardless of whether the hospital operates in more than
+20 one location or operates under the same license as another hospital.
+21 C. The list required under subsection A of this section shall
+22 include the following items, as applicable:
+23 1. A description of each hospital item or service provided by
+24 the hospital;
+ENGR. S. B. NO. 889 Page 5
+1 2. The following charges for each individual hospital item or
+2 service when provided in either an inpatient setting or an
+3 outpatient department setting, as applicable:
+4 a. the gross charge,
+5 b. the de-identified minimum negotiated charge,
+6 c. the de-identified maximum negotiated charge,
+7 d. the discounted cash price, and
+8 e. the payor-specific negotiated charge, listed by the
+9 name of the third-party payor and plan associated with
+10 the charge and displayed in a manner that clearly
+11 associates the charge with each third-party payor and
+12 plan; and
+13 3. Any code used by the hospital for purposes of accounting or
+14 billing for the hospital item or service, including the Current
+15 Procedural Terminology (CPT) code, the Healthcare Common Procedure
+16 Coding System (HCPCS) code, the Diagnosis Related Group (DRG) code,
+17 the National Drug Code (NDC), or other common identifier.
+18 D. The information contained in the list required under
+19 subsection A of this section shall be published in a single digital
+20 file that is in a machine-readable format.
+21 E. The list required under subsection A of this section shall
+22 be displayed in a prominent location on the hospital’s publicly
+23 accessible Internet website. If the hospital operates multiple
+24 locations and maintains a single Internet website, the list required
+ENGR. S. B. NO. 889 Page 6
+1 unde r subsection A of this section shall be posted for each location
+2 the hospital operates in a manner that clearly associates the list
+3 with the applicable location of the hospital.
+4 F. The list required under subsection A of this section shall:
+5 1. Be available:
+6 a. free of charge,
+7 b. without having to establish a user account or
+8 password, and
+9 c. without having to submit personal identifying
+10 information;
+11 2. Be digitally searchable; and
+12 3. Use the Centers for Medicare and Medicaid Services naming
+13 convention specified under 45 C.F.R., Section 180.50.
+14 G. The hospital shall update the list required under subsection
+15 A of this section at least once each year. The hospital shall
+16 clearly indicate the date on which the list was most recently
+17 updated, either on the list or in a manner that is clearly
+18 associated with the list.
+19 SECTION 4. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 1-725.14 of Title 63, unless
+21 there is created a duplication in numbering, reads as follows:
+22 A. Except as provided by subsection C of this section, a
+23 hospital shall maintain and make publicly available a list of the
+24 standard charges described by Section 3 of this act for each of at
+ENGR. S. B. NO. 889 Page 7
+1 leas t three hundred shoppable services provided by the hospital.
+2 The hospital may select the shoppable services to be included in the
+3 list, except that the list shall include:
+4 1. The seventy services specified as shoppable services by the
+5 Centers for Medicare and Medicaid Services; or
+6 2. If the hospital does not provide all of the shoppable
+7 services described by paragraph 1 of this subsection, as many of
+8 those shoppable services the hospital does provide.
+9 B. In selecting a shoppable service for purposes of inclusion
+10 in the list required under subsection A of this section, a hospital
+11 shall consider how frequently the hospital provides the service and
+12 the hospital’s billing rate for that service.
+13 C. If a hospital does not provide three hundred shoppable
+14 services, the hospital shall maintain a list of the total number of
+15 shoppable services that the hospital provides in a manner that
+16 otherwise complies with the requirements of subsection A of this
+17 section.
+18 D. The list required under subsection A or C of this section,
+19 as applicable, shall:
+20 1. Include:
+21 a. a plain-language description of each shoppable service
+22 included on the list,
+23 b. the payor-specific negotiated charge that applies to
+24 each shoppable service included on the list and any
+ENGR. S. B. NO. 889 Page 8
+1 ancillary service, listed by the name of the third-
+2 party payor and plan associated with the charge and
+3 displayed in a manner that clearly associates the
+4 charge with the third-party payor and plan,
+5 c. the discounted cash price that applies to each
+6 shoppable service included on the list and any
+7 ancillary service or, if the hospital does not offer a
+8 discounted cash price for one or more of the shoppable
+9 or ancillary services on the list, the gross charge
+10 for the shoppable service or ancillary service, as
+11 applicable,
+12 d. the de-identified minimum negotiated charge that
+13 applies to each shoppable service included on the list
+14 and any ancillary service,
+15 e. the de-identified maximum negotiated charge that
+16 applies to each shoppable service included on the list
+17 and any ancillary service, and
+18 f. any code used by the hospital for purposes of
+19 accounting or billing for each shoppable service
+20 included on the list and any ancillary service,
+21 including the Current Procedural Terminology (CPT)
+22 code, the Healthcare Common Procedure Coding System
+23 (HCPCS) code, the Diagnosis Related Group (DRG) code,
+24
+ENGR. S. B. NO. 889 Page 9
+1 the National Drug Code (NDC), or other common
+2 identifier; and
+3 2. If applicable:
+4 a. state each location at which the hospital provides the
+5 shoppable service and whether the standard charges
+6 included in the list apply at that location to the
+7 provision of that shoppable service in an inpatient
+8 setting, an outpatient department setting, or in both
+9 of those settings, as applicable, and
+10 b. indicate if one or more of the shoppable services
+11 specified by the Centers for Medicare and Medicaid
+12 Services is not provided by the hospital.
+13 E. The list required under subsection A or C of this section,
+14 as applicable, shall be:
+15 1. Displayed in the manner prescribed by subsection E of
+16 Section 3 of this act for the list required under that section;
+17 2. Available:
+18 a. free of charge,
+19 b. without having to register or establish a user account
+20 or password, and
+21 c. without having to submit personal identifying
+22 information;
+23 3. Searchable by service description, billing code, and payor;
+24 and
+ENGR. S. B. NO. 889 Page 10
+1 4. Updated in the manner prescribed by subsection G of Section
+2 3 of this act for the list required under that section.
+3 F. Notwithstanding any other provision of this section, a
+4 hospital is considered to meet the requirements of this section if
+5 the hospital maintains, as determined by the State Department of
+6 Health, an Internet-based price estimator tool that:
+7 1. Provides a cost estimate for each shoppable service and any
+8 ancillary service included on the list maintained by the hospital
+9 under subsection A of this section;
+10 2. Allows a person to obtain an estimate of the amount the
+11 person will be obligated to pay the hospital if the person elects to
+12 use the hospital to provide the service; and
+13 3. Is:
+14 a. prominently displayed on the hospital’s publicly
+15 accessible Internet website, and
+16 b. accessible to the public:
+17 (1) without charge, and
+18 (2) without having to register or establish a user
+19 account or password.
+20 SECTION 5. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 1-725.15 of Title 63, unless
+22 there is created a duplication in numbering, reads as follows:
+23
+24
+ENGR. S. B. NO. 889 Page 11
+1 A. The State Department of Health may monitor each hospital’s
+2 compliance with the requirements of this act using any of the
+3 following methods:
+4 1. Evaluating complaints made by persons to the Department
+5 regarding noncompliance with this act;
+6 2. Reviewing any analysis prepared regarding noncompliance with
+7 this act; and
+8 3. Auditing the Internet websites of hospitals for compliance
+9 with this act.
+10 B. If the Department determines that a hospital is not in
+11 compliance with a provision of this act, the Department may take any
+12 of the following actions:
+13 1. Provide a written notice to the hospital that clearly
+14 explains the manner in which the hospital is not in compliance with
+15 this act;
+16 2. Request a corrective action plan from the hospital if the
+17 hospital has materially violated a provision of this act, as
+18 determined under Section 6 of this act; and
+19 3. Impose an administrative penalty on the hospital and
+20 publicize the penalty on the Department’s Internet website if the
+21 hospital fails to:
+22 a. respond to the Department’s request to submit a
+23 corrective action plan, or
+24
+ENGR. S. B. NO. 889 Page 12
+1 b. comply with the requirements of a corrective action
+2 plan submitted to the Department.
+3 SECTION 6. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 1-725.16 of Title 63, unless
+5 there is created a duplication in numbering, reads as follows:
+6 A. A hospital materially violates this act if the hospital
+7 fails to publicize:
+8 1. Pricing information as required by Section 2 of this act; or
+9 2. The hospital’s standard charges in the form and manner
+10 required by Sections 3 and 4 of this act.
+11 B. If the State Department of Health determines that a hospital
+12 has materially violated this act, the Department may issue a notice
+13 of material violation to the hospital and request that the hospital
+14 submit a corrective action plan. The notice shall indicate the form
+15 and manner in which the corrective action plan shall be submitted to
+16 the Department, and clearly state the date by which the hospital
+17 shall submit the plan.
+18 C. A hospital that receives a notice under subsection B of this
+19 section shall:
+20 1. Submit a corrective action plan in the form and manner, and
+21 by the specified date, prescribed by the notice of violation; and
+22 2. As soon as practicable after submission of a corrective
+23 action plan to the Department, act to comply with the plan.
+24 D. A corrective action plan submitted to the Department shall:
+ENGR. S. B. NO. 889 Page 13
+1 1. Describe in detail the corrective action the hospital will
+2 take to address any violation identified by the Department in the
+3 notice provided under subsection B of this section; and
+4 2. Provide a date by which the hospital will complete the
+5 corrective action described by paragraph 1 of this subsection.
+6 E. A corrective action plan is subject to review and approval
+7 by the Department. After the Department reviews and approves a
+8 hospital’s corrective action plan, the Department shall monitor and
+9 evaluate the hospital’s compliance with the plan.
+10 F. A hospital is considered to have failed to respond to the
+11 Department’s request to submit a corrective action plan if the
+12 hospital fails to submit a corrective action plan:
+13 1. In the form and manner specified in the notice provided
+14 under subsection B of this section; or
+15 2. By the date specified in the notice provided under
+16 subsection B of this section.
+17 G. A hospital is considered to have failed to comply with a
+18 corrective action plan if the hospital fails to address a violation
+19 within the specified period of time contained in the plan.
+20 SECTION 7. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 1-725.17 of Title 63, unless
+22 there is created a duplication in numbering, reads as follows:
+23 A. A hospital that is not in material compliance with this act
+24 on the date that items or services are purchased from or provided to
+ENGR. S. B. NO. 889 Page 14
+1 a pa tient by the hospital shall not initiate or pursue collection
+2 action against the patient or patient guarantor for a debt owed for
+3 the items or services.
+4 B. If a patient believes that a hospital was not in material
+5 compliance with this act on a date on or after the effective date of
+6 this act that items or services were purchased by or provided to the
+7 patient, and the hospital takes a collection action against the
+8 patient or patient guarantor, the patient or patient guarantor may
+9 file suit to determine if the hospital was materially out of
+10 compliance with this act on the date of service and if the
+11 noncompliance is related to the items or services. The hospital
+12 shall not take a collection action against the patient or patient
+13 guarantor while the lawsuit is pending.
+14 C. A hospital that has been found by a judge or jury to be
+15 materially out of compliance with this act:
+16 1. Shall refund the payor any amount of the debt the payor has
+17 paid and shall pay a penalty to the patient or patient guarantor in
+18 an amount equal to the total amount of the debt;
+19 2. Shall dismiss or cause to be dismissed any court action with
+20 prejudice and pay any reasonable attorney fees and costs incurred by
+21 the patient or patient guarantor relating to the action; and
+22 3. Shall remove or cause to be removed from the patient’s or
+23 patient guarantor’s credit report any report made to a consumer
+24 reporting agency relating to the debt.
+ENGR. S. B. NO. 889 Page 15
+1 D. Nothing in this act:
+2 1. Prohibits a hospital from billing a patient, patient
+3 guarantor, or third-party payor, including a health insurer, for
+4 items or services provided to the patient; or
+5 2. Requires a hospital to refund any payment made to the
+6 hospital for items or services provided to the patient, as long as
+7 no collection action is taken in violation of this act.
+8 SECTION 8. REPEALER 63 O.S. 2021, Sections 1-725.1, 1-
+9 725.2, 1-725.3, 1-725.4, and 1-725.5, are hereby repealed.
+10 SECTION 9. This act shall become effective November 1, 2025.
+11 Passed the Senate the 24th day of March, 2025.
+12
+13
+Presiding Officer of the Senate
+14
+15 Passed the House of Representatives the ____ day of __________,
+16 2025.
+17
+18
+Presiding Officer of the House
+19 of Representatives
+20
+21
+22
+23
+24
+ENGR. S. B. NO. 889 Page 16
+[DELETED:  P B M  a L]
+[DELETED:  P]
+[DELETED:  P l o s r u s a]
+[DELETED:  P t t t t t]
+[DELETED:  P]
+[DELETED:  P t t t t t]
+[DELETED:  P f w w]
+[DELETED:  P a t]
+[DELETED:  P t t t a]
+[DELETED:  P s i f w w]
+[DELETED:  P p a w w]
+[DELETED:  P r]
+[DELETED:  P c]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPPo]
+
+
+================================================================================
+
+Raw Text:
+1 ENGR OSSED SENATE
+BILL NO. 889 By: Murdock, Bullard,
+2 Bergstrom, Frix, Jett,
+Grellner, Sacchieri,
+3 McIntosh, and Deevers of
+the Senate
+4
+and
+5
+Lepak of the House
+6
+7
+8 An Act relating to hospitals; defining terms;
+requiring hospitals to make public certain file and
+9 list; stating requirements for list of standard
+charges; requiring certain digital publication of
+10 specified information; requiring certain online
+display of list; stipulating requirements related to
+11 accessibility and formatting of list; requiring
+annual update of list; stating requirements for list
+12 of standard charges and selection of shoppable
+services; requiring list to include certain
+13 information; directing certain display and
+availability of list; authorizing certain compliance
+14 monitoring by the State Department of Health;
+authorizing certain actions for noncompliance;
+15 defining material violation; authorizing issuance of
+certain notice upon certain determination; specifying
+16 certain requirements for corrective action plans;
+prohibiting certain collection actions by
+17 noncompliant hospitals; authorizing certain civil
+actions; imposing certain requirements on hospitals
+18 found noncompliant; providing certain construction;
+repealing 63 O.S. 2021, Sections 1-725.1, 1-725.2, 1-
+19 725.3, 1-725.4, and 1-725.5, which relate to the
+Transparency in Health Care Prices Act; providing for
+20 codification; and providing an effective date.
+21
+22 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23
+24
+ENGR. S. B. NO. 889 Page 1
+
+1 SECTION 1. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 1-725.11 of Title 63, unless
+3 there is created a duplication in numbering, reads as follows:
+4 As used in this act:
+5 1. “Ancillary service” means a hospital item or service that a
+6 hospital customarily provides as part of a shoppable service;
+7 2. “Chargemaster” means the list of all hospital items or
+8 services maintained by a hospital for which the hospital has
+9 established a charge;
+10 3. “De-identified maximum negotiated charge” means the highest
+11 charge that a hospital has negotiated with all third-party payors
+12 for a hospital item or service;
+13 4. “De-identified minimum negotiated charge” means the lowest
+14 charge that a hospital has negotiated with all third-party payors
+15 for a hospital item or service;
+16 5. “Department” means the State Department of Health;
+17 6. “Discounted cash price” means the charge that applies to an
+18 individual who pays cash, or a cash equivalent, for a hospital item
+19 or service;
+20 7. “Gross charge” means the charge for a hospital item or
+21 service that is reflected on a hospital’s chargemaster, absent any
+22 discounts;
+23 8. “Hospital” means a hospital:
+24
+ENGR. S. B. NO. 889 Page 2
+
+1 a. licensed under Section 1-702 of Title 63 of the
+2 Oklahoma Statutes, or
+3 b. owned or operated by a state agency;
+4 9. “Hospital items or services” means all items and services,
+5 including individual items and services and service packages, that
+6 may be provided by a hospital to a patient in connection with an
+7 inpatient admission or an outpatient department visit, as
+8 applicable, for which the hospital has established a standard
+9 charge, including:
+10 a. supplies and procedures,
+11 b. room and board,
+12 c. use of the facility and other areas, generally
+13 referred to as facility fees,
+14 d. services of physicians and non-physician
+15 practitioners, generally referred to as professional
+16 charges, and
+17 e. any other item or service for which a hospital has
+18 established a standard charge;
+19 10. “Machine-readable format” means a digital representation of
+20 information in a file that can be imported or read into a computer
+21 system for further processing. The term includes Extensible Markup
+22 Language (.XML), JavaScript Object Notation (.JSON), and Comma-
+23 Separated Values (.CSV) formats;
+24
+ENGR. S. B. NO. 889 Page 3
+
+1 11. “Payor-specific negotiated charge” means the charge that a
+2 hospital has negotiated with a third-party payor for a hospital item
+3 or service;
+4 12. “Service package” means an aggregation of individual
+5 hospital items or services into a single service with a single
+6 charge;
+7 13. “Shoppable service” means a service that may be scheduled
+8 by a health care consumer in advance;
+9 14. “Standard charge” means the regular rate established by the
+10 hospital for a hospital item or service provided to a specific group
+11 of paying patients. The term includes all of the following, as
+12 defined under this section:
+13 a. the gross charge,
+14 b. the payor-specific negotiated charge,
+15 c. the de-identified minimum negotiated charge,
+16 d. the de-identified maximum negotiated charge, and
+17 e. the discounted cash price; and
+18 15. “Third-party payor” means an entity that is, by statute,
+19 contract, or agreement, legally responsible for payment of a claim
+20 for a hospital item or service.
+21 SECTION 2. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 1-725.12 of Title 63, unless
+23 there is created a duplication in numbering, reads as follows:
+24 Notwithstanding any other law, a hospital shall make public:
+ENGR. S. B. NO. 889 Page 4
+
+1 1. A digital file in a machine-readable format that contains a
+2 list of all standard charges for all hospital items or services as
+3 described by Section 3 of this act; and
+4 2. A consumer-friendly list of standard charges for a limited
+5 set of shoppable services as provided in Section 4 of this act.
+6 SECTION 3. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 1-725.13 of Title 63, unless
+8 there is created a duplication in numbering, reads as follows:
+9 A. A hospital shall:
+10 1. Maintain a list of all standard charges for all hospital
+11 items or services in accordance with this section; and
+12 2. Ensure the list required under paragraph 1 of this
+13 subsection is available at all times to the public, including by
+14 posting the list electronically in the manner provided by this
+15 section.
+16 B. The standard charges contained in the list required to be
+17 maintained by a hospital under subsection A of this section shall
+18 reflect the standard charges applicable to that location of the
+19 hospital, regardless of whether the hospital operates in more than
+20 one location or operates under the same license as another hospital.
+21 C. The list required under subsection A of this section shall
+22 include the following items, as applicable:
+23 1. A description of each hospital item or service provided by
+24 the hospital;
+ENGR. S. B. NO. 889 Page 5
+
+1 2. The following charges for each individual hospital item or
+2 service when provided in either an inpatient setting or an
+3 outpatient department setting, as applicable:
+4 a. the gross charge,
+5 b. the de-identified minimum negotiated charge,
+6 c. the de-identified maximum negotiated charge,
+7 d. the discounted cash price, and
+8 e. the payor-specific negotiated charge, listed by the
+9 name of the third-party payor and plan associated with
+10 the charge and displayed in a manner that clearly
+11 associates the charge with each third-party payor and
+12 plan; and
+13 3. Any code used by the hospital for purposes of accounting or
+14 billing for the hospital item or service, including the Current
+15 Procedural Terminology (CPT) code, the Healthcare Common Procedure
+16 Coding System (HCPCS) code, the Diagnosis Related Group (DRG) code,
+17 the National Drug Code (NDC), or other common identifier.
+18 D. The information contained in the list required under
+19 subsection A of this section shall be published in a single digital
+20 file that is in a machine-readable format.
+21 E. The list required under subsection A of this section shall
+22 be displayed in a prominent location on the hospital’s publicly
+23 accessible Internet website. If the hospital operates multiple
+24 locations and maintains a single Internet website, the list required
+ENGR. S. B. NO. 889 Page 6
+
+1 unde r subsection A of this section shall be posted for each location
+2 the hospital operates in a manner that clearly associates the list
+3 with the applicable location of the hospital.
+4 F. The list required under subsection A of this section shall:
+5 1. Be available:
+6 a. free of charge,
+7 b. without having to establish a user account or
+8 password, and
+9 c. without having to submit personal identifying
+10 information;
+11 2. Be digitally searchable; and
+12 3. Use the Centers for Medicare and Medicaid Services naming
+13 convention specified under 45 C.F.R., Section 180.50.
+14 G. The hospital shall update the list required under subsection
+15 A of this section at least once each year. The hospital shall
+16 clearly indicate the date on which the list was most recently
+17 updated, either on the list or in a manner that is clearly
+18 associated with the list.
+19 SECTION 4. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 1-725.14 of Title 63, unless
+21 there is created a duplication in numbering, reads as follows:
+22 A. Except as provided by subsection C of this section, a
+23 hospital shall maintain and make publicly available a list of the
+24 standard charges described by Section 3 of this act for each of at
+ENGR. S. B. NO. 889 Page 7
+
+1 leas t three hundred shoppable services provided by the hospital.
+2 The hospital may select the shoppable services to be included in the
+3 list, except that the list shall include:
+4 1. The seventy services specified as shoppable services by the
+5 Centers for Medicare and Medicaid Services; or
+6 2. If the hospital does not provide all of the shoppable
+7 services described by paragraph 1 of this subsection, as many of
+8 those shoppable services the hospital does provide.
+9 B. In selecting a shoppable service for purposes of inclusion
+10 in the list required under subsection A of this section, a hospital
+11 shall consider how frequently the hospital provides the service and
+12 the hospital’s billing rate for that service.
+13 C. If a hospital does not provide three hundred shoppable
+14 services, the hospital shall maintain a list of the total number of
+15 shoppable services that the hospital provides in a manner that
+16 otherwise complies with the requirements of subsection A of this
+17 section.
+18 D. The list required under subsection A or C of this section,
+19 as applicable, shall:
+20 1. Include:
+21 a. a plain-language description of each shoppable service
+22 included on the list,
+23 b. the payor-specific negotiated charge that applies to
+24 each shoppable service included on the list and any
+ENGR. S. B. NO. 889 Page 8
+
+1 ancillary service, listed by the name of the third-
+2 party payor and plan associated with the charge and
+3 displayed in a manner that clearly associates the
+4 charge with the third-party payor and plan,
+5 c. the discounted cash price that applies to each
+6 shoppable service included on the list and any
+7 ancillary service or, if the hospital does not offer a
+8 discounted cash price for one or more of the shoppable
+9 or ancillary services on the list, the gross charge
+10 for the shoppable service or ancillary service, as
+11 applicable,
+12 d. the de-identified minimum negotiated charge that
+13 applies to each shoppable service included on the list
+14 and any ancillary service,
+15 e. the de-identified maximum negotiated charge that
+16 applies to each shoppable service included on the list
+17 and any ancillary service, and
+18 f. any code used by the hospital for purposes of
+19 accounting or billing for each shoppable service
+20 included on the list and any ancillary service,
+21 including the Current Procedural Terminology (CPT)
+22 code, the Healthcare Common Procedure Coding System
+23 (HCPCS) code, the Diagnosis Related Group (DRG) code,
+24
+ENGR. S. B. NO. 889 Page 9
+
+1 the National Drug Code (NDC), or other common
+2 identifier; and
+3 2. If applicable:
+4 a. state each location at which the hospital provides the
+5 shoppable service and whether the standard charges
+6 included in the list apply at that location to the
+7 provision of that shoppable service in an inpatient
+8 setting, an outpatient department setting, or in both
+9 of those settings, as applicable, and
+10 b. indicate if one or more of the shoppable services
+11 specified by the Centers for Medicare and Medicaid
+12 Services is not provided by the hospital.
+13 E. The list required under subsection A or C of this section,
+14 as applicable, shall be:
+15 1. Displayed in the manner prescribed by subsection E of
+16 Section 3 of this act for the list required under that section;
+17 2. Available:
+18 a. free of charge,
+19 b. without having to register or establish a user account
+20 or password, and
+21 c. without having to submit personal identifying
+22 information;
+23 3. Searchable by service description, billing code, and payor;
+24 and
+ENGR. S. B. NO. 889 Page 10
+
+1 4. Updated in the manner prescribed by subsection G of Section
+2 3 of this act for the list required under that section.
+3 F. Notwithstanding any other provision of this section, a
+4 hospital is considered to meet the requirements of this section if
+5 the hospital maintains, as determined by the State Department of
+6 Health, an Internet-based price estimator tool that:
+7 1. Provides a cost estimate for each shoppable service and any
+8 ancillary service included on the list maintained by the hospital
+9 under subsection A of this section;
+10 2. Allows a person to obtain an estimate of the amount the
+11 person will be obligated to pay the hospital if the person elects to
+12 use the hospital to provide the service; and
+13 3. Is:
+14 a. prominently displayed on the hospital’s publicly
+15 accessible Internet website, and
+16 b. accessible to the public:
+17 (1) without charge, and
+18 (2) without having to register or establish a user
+19 account or password.
+20 SECTION 5. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 1-725.15 of Title 63, unless
+22 there is created a duplication in numbering, reads as follows:
+23
+24
+ENGR. S. B. NO. 889 Page 11
+
+1 A. The State Department of Health may monitor each hospital’s
+2 compliance with the requirements of this act using any of the
+3 following methods:
+4 1. Evaluating complaints made by persons to the Department
+5 regarding noncompliance with this act;
+6 2. Reviewing any analysis prepared regarding noncompliance with
+7 this act; and
+8 3. Auditing the Internet websites of hospitals for compliance
+9 with this act.
+10 B. If the Department determines that a hospital is not in
+11 compliance with a provision of this act, the Department may take any
+12 of the following actions:
+13 1. Provide a written notice to the hospital that clearly
+14 explains the manner in which the hospital is not in compliance with
+15 this act;
+16 2. Request a corrective action plan from the hospital if the
+17 hospital has materially violated a provision of this act, as
+18 determined under Section 6 of this act; and
+19 3. Impose an administrative penalty on the hospital and
+20 publicize the penalty on the Department’s Internet website if the
+21 hospital fails to:
+22 a. respond to the Department’s request to submit a
+23 corrective action plan, or
+24
+ENGR. S. B. NO. 889 Page 12
+
+1 b. comply with the requirements of a corrective action
+2 plan submitted to the Department.
+3 SECTION 6. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 1-725.16 of Title 63, unless
+5 there is created a duplication in numbering, reads as follows:
+6 A. A hospital materially violates this act if the hospital
+7 fails to publicize:
+8 1. Pricing information as required by Section 2 of this act; or
+9 2. The hospital’s standard charges in the form and manner
+10 required by Sections 3 and 4 of this act.
+11 B. If the State Department of Health determines that a hospital
+12 has materially violated this act, the Department may issue a notice
+13 of material violation to the hospital and request that the hospital
+14 submit a corrective action plan. The notice shall indicate the form
+15 and manner in which the corrective action plan shall be submitted to
+16 the Department, and clearly state the date by which the hospital
+17 shall submit the plan.
+18 C. A hospital that receives a notice under subsection B of this
+19 section shall:
+20 1. Submit a corrective action plan in the form and manner, and
+21 by the specified date, prescribed by the notice of violation; and
+22 2. As soon as practicable after submission of a corrective
+23 action plan to the Department, act to comply with the plan.
+24 D. A corrective action plan submitted to the Department shall:
+ENGR. S. B. NO. 889 Page 13
+
+1 1. Describe in detail the corrective action the hospital will
+2 take to address any violation identified by the Department in the
+3 notice provided under subsection B of this section; and
+4 2. Provide a date by which the hospital will complete the
+5 corrective action described by paragraph 1 of this subsection.
+6 E. A corrective action plan is subject to review and approval
+7 by the Department. After the Department reviews and approves a
+8 hospital’s corrective action plan, the Department shall monitor and
+9 evaluate the hospital’s compliance with the plan.
+10 F. A hospital is considered to have failed to respond to the
+11 Department’s request to submit a corrective action plan if the
+12 hospital fails to submit a corrective action plan:
+13 1. In the form and manner specified in the notice provided
+14 under subsection B of this section; or
+15 2. By the date specified in the notice provided under
+16 subsection B of this section.
+17 G. A hospital is considered to have failed to comply with a
+18 corrective action plan if the hospital fails to address a violation
+19 within the specified period of time contained in the plan.
+20 SECTION 7. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 1-725.17 of Title 63, unless
+22 there is created a duplication in numbering, reads as follows:
+23 A. A hospital that is not in material compliance with this act
+24 on the date that items or services are purchased from or provided to
+ENGR. S. B. NO. 889 Page 14
+
+1 a pa tient by the hospital shall not initiate or pursue collection
+2 action against the patient or patient guarantor for a debt owed for
+3 the items or services.
+4 B. If a patient believes that a hospital was not in material
+5 compliance with this act on a date on or after the effective date of
+6 this act that items or services were purchased by or provided to the
+7 patient, and the hospital takes a collection action against the
+8 patient or patient guarantor, the patient or patient guarantor may
+9 file suit to determine if the hospital was materially out of
+10 compliance with this act on the date of service and if the
+11 noncompliance is related to the items or services. The hospital
+12 shall not take a collection action against the patient or patient
+13 guarantor while the lawsuit is pending.
+14 C. A hospital that has been found by a judge or jury to be
+15 materially out of compliance with this act:
+16 1. Shall refund the payor any amount of the debt the payor has
+17 paid and shall pay a penalty to the patient or patient guarantor in
+18 an amount equal to the total amount of the debt;
+19 2. Shall dismiss or cause to be dismissed any court action with
+20 prejudice and pay any reasonable attorney fees and costs incurred by
+21 the patient or patient guarantor relating to the action; and
+22 3. Shall remove or cause to be removed from the patient’s or
+23 patient guarantor’s credit report any report made to a consumer
+24 reporting agency relating to the debt.
+ENGR. S. B. NO. 889 Page 15
+
+1 D. Nothing in this act:
+2 1. Prohibits a hospital from billing a patient, patient
+3 guarantor, or third-party payor, including a health insurer, for
+4 items or services provided to the patient; or
+5 2. Requires a hospital to refund any payment made to the
+6 hospital for items or services provided to the patient, as long as
+7 no collection action is taken in violation of this act.
+8 SECTION 8. REPEALER 63 O.S. 2021, Sections 1-725.1, 1-
+9 725.2, 1-725.3, 1-725.4, and 1-725.5, are hereby repealed.
+10 SECTION 9. This act shall become effective November 1, 2025.
+11 Passed the Senate the 24th day of March, 2025.
+12
+13
+Presiding Officer of the Senate
+14
+15 Passed the House of Representatives the ____ day of __________,
+16 2025.
+17
+18
+Presiding Officer of the House
+19 of Representatives
+20
+21
+22
+23
+24
+ENGR. S. B. NO. 889 Page 16
+
+[DELETED:  P B M  a L]
+[DELETED:  P]
+[DELETED:  P l o s r u s a]
+[DELETED:  P t t t t t]
+[DELETED:  P]
+[DELETED:  P t t t t t]
+[DELETED:  P f w w]
+[DELETED:  P a t]
+[DELETED:  P t t t a]
+[DELETED:  P s i f w w]
+[DELETED:  P p a w w]
+[DELETED:  P r]
+[DELETED:  P c]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPPo]

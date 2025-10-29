@@ -1,0 +1,1365 @@
+Title: SENATE BILL 1047 By: McIntosh
+Official Title: SENATE BILL 1047 By: McIntosh
+Number of Sections: 28
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to health insurance; creating the
+7
+Oklahoma Surprise Medical Billing Act; providing
+8
+short title; defining terms; disallowing certain
+8
+billing procedure; requiring reimbursement for
+9
+certain health care service; prohibiting cost
+9
+incurrence greater than certain cost-sharing
+10
+obligation; directing rule promulgation; requiring
+10
+certain verification; providing for fines and fees;
+11
+providing for codification; and providing an
+11
+effective date.
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+15
+16
+in the Oklahoma Statutes as Section 6063 of Title 36, unless there
+16
+17
+is created a duplication in numbering, reads as follows:
+17
+18
+This act shall be known and may be cited as the “Oklahoma
+18
+19
+Surprise Medical Billing Act”.
+19
+20
+
+Section 3:
+SECTION 2. NEW LAW A new section of law to be codified
+20
+21
+in the Oklahoma Statutes as Section 6063.1 of Title 36, unless there
+21
+22
+is created a duplication in numbering, reads as follows:
+22
+23
+As used in this section:
+23
+24
+24
+Req. No. 975 Page 1
+1
+
+Section 4:
+1. “Surprise bill” means a bill issued by an out-of-network
+1
+2
+provider or out-of-network facility to an enrollee of a health
+2
+3
+benefit plan for health care services in an amount that exceeds the
+3
+4
+enrollee’s cost-sharing obligation applicable for the same health
+4
+5
+care services if the services had been provided by an in-network
+5
+6
+provider or in-network facility and are rendered in the following
+6
+7
+circumstances:
+7
+8
+a. emergency care provided by an out-of-network provider
+8
+9
+or out-of-network facility, or
+9
+10
+b. nonemergency health care services rendered by an out-
+10
+11
+of-network provider at an in-network facility;
+11
+12
+
+Section 5:
+2. “Claim” means a request from a provider for payment for
+12
+13
+health care services rendered to the enrollee of a health benefit
+13
+14
+plan;
+14
+15
+
+Section 6:
+3. “Covered person” means:
+15
+16
+a. an enrollee, policyholder, or subscriber,
+16
+17
+b. the enrolled dependent of an enrollee, policyholder,
+17
+18
+or subscriber, or
+18
+19
+c. another individual participating in a health benefit
+19
+20
+plan;
+20
+21
+
+Section 7:
+4. “Health benefit plan” means a health benefit plan as defined
+21
+22
+pursuant to Section 6060.4 of Title 36 of the Oklahoma Statutes;
+22
+23
+
+Section 8:
+5. “Health care service” means any service, supply, or
+23
+24
+procedure rendered for the diagnosis, prevention, treatment, cure,
+24
+Req. No. 975 Page 2
+1
+or relief of a health condition, illness, injury, or other disease,
+1
+2
+including physical or behavioral health services, to the extent it
+2
+3
+is covered by a health benefit plan;
+3
+4
+
+Section 9:
+6. “Emergency care” means a health care procedure, treatment,
+4
+5
+service, or ambulance transportation service delivered to a covered
+5
+6
+person after the sudden onset of medical or behavioral health
+6
+7
+condition symptoms of sufficient severity that, without immediate
+7
+8
+medical attention, regardless of eventual diagnosis, could be
+8
+9
+expected by a reasonable layperson to result in impairment of a
+9
+10
+person’s physical or mental health, the health or safety of a fetus
+10
+11
+or pregnant person, bodily function of a bodily organ or part, or
+11
+12
+disfigurement to a person;
+12
+13
+
+Section 10:
+7. “Minimum benefit standard” means the eightieth percentile of
+13
+14
+all allowed amounts for the same or similar health care service
+14
+15
+furnished by an in-network provider or in-network facility as
+15
+16
+reported in an independent benchmarking database maintained by a
+16
+17
+nonprofit organization specified by the Insurance Commissioner. The
+17
+18
+nonprofit organization shall not be financially affiliated with a
+18
+19
+health benefit plan or provider. The calculation of the eightieth
+19
+20
+percentile of all allowed amounts shall be reflected by claims paid
+20
+21
+during the most recent calendar year;
+21
+22
+
+Section 11:
+8. “Provider” means a health care professional that is not a
+22
+23
+facility and is licensed to furnish health care services in this
+23
+24
+state;
+24
+Req. No. 975 Page 3
+1
+
+Section 12:
+9. “In-network provider” means a provider that is under express
+1
+2
+contract with a health benefit plan or a health benefit plan’s
+2
+3
+contractor or subcontractor providing health care services to
+3
+4
+enrollees of the plan;
+4
+5
+
+Section 13:
+10. “Out-of-network provider” means a provider that is not
+5
+6
+contracted with a health benefit plan for network participation;
+6
+7
+
+Section 14:
+11. “Facility” means a licensed entity providing health care
+7
+8
+services, including:
+8
+9
+a. a general, special, psychiatric, or rehabilitation
+9
+10
+hospital,
+10
+11
+b. an ambulatory surgical center,
+11
+12
+c. a cancer treatment center,
+12
+13
+d. a birth center,
+13
+14
+e. an inpatient, outpatient, or residential drug and
+14
+15
+alcohol treatment center,
+15
+16
+f. a laboratory, diagnostic, or other outpatient medical
+16
+17
+service or testing center,
+17
+18
+g. a health care provider’s office or clinic,
+18
+19
+h. an urgent care center, or
+19
+20
+i. any other therapeutic health care setting;
+20
+21
+
+Section 15:
+12. “In-network facility” means a facility that is under
+21
+22
+express contract with a health insurance carrier or a health
+22
+23
+insurance carrier’s contractor or subcontractor to provide health
+23
+24
+care services to enrollees of a plan;
+24
+Req. No. 975 Page 4
+1
+
+Section 16:
+13. “Out-of-network facility” means a facility that is not
+1
+2
+contracted with a health benefit plan for network participation;
+2
+3
+
+Section 17:
+14. “Allowed amount” means the contractually agreed-upon amount
+3
+4
+paid by a health benefit plan to an in-network provider or in-
+4
+5
+network facility in the health benefit plan network; and
+5
+6
+
+Section 18:
+15. “Health insurance carrier” or “carrier” means an entity
+6
+7
+subject to state insurance laws, including a health insurance
+7
+8
+company, a health maintenance organization, a hospital and health
+8
+9
+service corporation, a provider service network, a nonprofit health
+9
+10
+care plan, or any other entity that contracts or offers to contract,
+10
+11
+or enters into agreements to provide, deliver, arrange for, pay for,
+11
+12
+or reimburse any cost of health care services, or that provides,
+12
+13
+offers, or administers a health benefit policy or managed health
+13
+14
+care plan in this state.
+14
+15
+
+Section 19:
+SECTION 3. NEW LAW A new section of law to be codified
+15
+16
+in the Oklahoma Statutes as Section 6063.2 of Title 36, unless there
+16
+17
+is created a duplication in numbering, reads as follows:
+17
+18
+A. An out-of-network provider or out-of-network facility shall
+18
+19
+not surprise bill a covered person for emergency care. If a covered
+19
+20
+person pays an out-of-network provider or out-of-network facility an
+20
+21
+amount that is greater than allowed by this section, the out-of-
+21
+22
+network provider or out-of-network facility shall render a refund to
+22
+23
+the covered person within thirty (30) days.
+23
+24
+24
+Req. No. 975 Page 5
+1
+B. A health insurance carrier shall directly reimburse an out-
+1
+2
+of-network provider or out-of-network facility for emergency care at
+2
+3
+the minimum benefit standard, or a mutually agreed upon amount, no
+3
+4
+later than:
+4
+5
+
+Section 20:
+1. Thirty (30) days after the date the health benefit plan
+5
+6
+receives an electronic clean claim for such care that includes all
+6
+7
+information necessary for the carrier to pay the claim; or
+7
+8
+
+Section 21:
+2. Forty-five (45) days after the date the carrier receives a
+8
+9
+nonelectronic clean claim for such care that includes all
+9
+10
+information necessary for the carrier to pay the claim.
+10
+11
+C. A health insurance carrier shall ensure that a covered
+11
+12
+person who is rendered emergency care by an out-of-network provider
+12
+13
+or out-of-network facility shall incur no greater cost-sharing
+13
+14
+obligations than the covered person would have incurred if those
+14
+15
+health care services were rendered by an in-network provider or in-
+15
+16
+network facility.
+16
+17
+D. An out-of-network provider shall not surprise bill a covered
+17
+18
+person for health care services that are not emergency care and are
+18
+19
+rendered at an in-network facility. If a covered person pays an
+19
+20
+out-of-network provider an amount that is greater than allowed by
+20
+21
+this section, the out-of-network provider shall render a refund to
+21
+22
+the covered person within thirty (30) days.
+22
+23
+E. A health insurance carrier shall directly reimburse an out-
+23
+24
+of-network provider for health care services that are not emergency
+24
+Req. No. 975 Page 6
+1
+care and are rendered at an in-network facility the minimum benefit
+1
+2
+standard, or mutually agreed to amount, no later than:
+2
+3
+
+Section 22:
+1. Thirty (30) days after the date the carrier receives an
+3
+4
+electronic clean claim for such services that includes all
+4
+5
+information necessary for the carrier to pay the claim; or
+5
+6
+
+Section 23:
+2. Forty-five (45) days after the date the carrier receives a
+6
+7
+nonelectronic clean claim for such services that includes all
+7
+8
+information necessary for the carrier to pay the claim.
+8
+9
+F. A health insurance carrier shall ensure that a covered
+9
+10
+person who is rendered health care services that are not emergency
+10
+11
+care by an out-of-network provider at an in-network facility shall
+11
+12
+incur no greater cost-sharing obligations than the covered person
+12
+13
+would have incurred if those health care services were rendered by
+13
+14
+an in-network provider.
+14
+15
+G. The Insurance Commissioner shall promulgate rules for
+15
+16
+verifying the minimum benefit standard which may be requested by an
+16
+17
+out-of-network provider or out-of-network facility that has rendered
+17
+18
+health care services in accordance with this act.
+18
+19
+
+Section 24:
+1. Verification of the minimum benefit standard shall only be
+19
+20
+requested if reimbursement has been received from a carrier and no
+20
+21
+more than thirty (30) days have elapsed since the date payment was
+21
+22
+received.
+22
+23
+23
+24
+24
+Req. No. 975 Page 7
+1
+
+Section 25:
+2. Request for verification of the minimum benefit standard may
+1
+2
+be requested for bundled claims provided none of the claims were
+2
+3
+paid more than thirty (30) days since the date payment was received.
+3
+4
+
+Section 26:
+3. The Insurance Commissioner shall ensure that verification of
+4
+5
+the minimum benefit standard is provided to an out-of-network
+5
+6
+provider or out-of-network facility no later than fifteen (15) days
+6
+7
+after a request has been initiated.
+7
+8
+
+Section 27:
+4. If the Insurance Commissioner determines that the amount
+8
+9
+reimbursed by the carrier is less than the minimum benefit standard,
+9
+10
+the carrier shall be required to compensate the out-of-network
+10
+11
+provider or out-of-network facility the difference between the
+11
+12
+amount initially paid and the verified minimum benefit standard no
+12
+13
+later than fifteen (15) days after the date the Insurance
+13
+14
+Commissioner has verified the minimum benefit standard.
+14
+15
+H. A health insurance carrier that fails to reimburse for
+15
+16
+health care services at the minimum benefit standard shall be
+16
+17
+subject to a penalty that is calculated as the difference between
+17
+18
+the minimum benefit standard and the amount billed by the out-of-
+18
+19
+network provider or out-of-network facility that requested
+19
+20
+verification of the minimum benefit standard. Fifty percent (50%)
+20
+21
+of the calculated penalty shall be made payable to the out-of-
+21
+22
+network provider or out-of-network facility and the remaining fifty
+22
+23
+percent (50%) shall be made payable to the Oklahoma Health Insurance
+23
+24
+High Risk Pool.
+24
+Req. No. 975 Page 8
+1
+A carrier may be subject to additional fines and penalties, as
+1
+2
+determined by the Commissioner, if a pattern of underpayment has
+2
+3
+been determined.
+3
+4
+
+Section 28:
+SECTION 4. This act shall become effective November 1, 2025.
+4
+5
+5
+6
+60-1-975 CAD 1/16/2025 2:41:22 PM
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 975 Page 9
+[DELETED:  P B M]
+[DELETED:  P e n a t a]
+[DELETED:  P]
+[DELETED:  P a a a a a a a a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 1047 By: McIntosh
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to health insurance; creating the
+7
+Oklahoma Surprise Medical Billing Act; providing
+8
+short title; defining terms; disallowing certain
+8
+billing procedure; requiring reimbursement for
+9
+certain health care service; prohibiting cost
+9
+incurrence greater than certain cost-sharing
+10
+obligation; directing rule promulgation; requiring
+10
+certain verification; providing for fines and fees;
+11
+providing for codification; and providing an
+11
+effective date.
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+SECTION 1. NEW LAW A new section of law to be codified
+15
+16
+in the Oklahoma Statutes as Section 6063 of Title 36, unless there
+16
+17
+is created a duplication in numbering, reads as follows:
+17
+18
+This act shall be known and may be cited as the “Oklahoma
+18
+19
+Surprise Medical Billing Act”.
+19
+20
+SECTION 2. NEW LAW A new section of law to be codified
+20
+21
+in the Oklahoma Statutes as Section 6063.1 of Title 36, unless there
+21
+22
+is created a duplication in numbering, reads as follows:
+22
+23
+As used in this section:
+23
+24
+24
+Req. No. 975 Page 1
+
+1
+1. “Surprise bill” means a bill issued by an out-of-network
+1
+2
+provider or out-of-network facility to an enrollee of a health
+2
+3
+benefit plan for health care services in an amount that exceeds the
+3
+4
+enrollee’s cost-sharing obligation applicable for the same health
+4
+5
+care services if the services had been provided by an in-network
+5
+6
+provider or in-network facility and are rendered in the following
+6
+7
+circumstances:
+7
+8
+a. emergency care provided by an out-of-network provider
+8
+9
+or out-of-network facility, or
+9
+10
+b. nonemergency health care services rendered by an out-
+10
+11
+of-network provider at an in-network facility;
+11
+12
+2. “Claim” means a request from a provider for payment for
+12
+13
+health care services rendered to the enrollee of a health benefit
+13
+14
+plan;
+14
+15
+3. “Covered person” means:
+15
+16
+a. an enrollee, policyholder, or subscriber,
+16
+17
+b. the enrolled dependent of an enrollee, policyholder,
+17
+18
+or subscriber, or
+18
+19
+c. another individual participating in a health benefit
+19
+20
+plan;
+20
+21
+4. “Health benefit plan” means a health benefit plan as defined
+21
+22
+pursuant to Section 6060.4 of Title 36 of the Oklahoma Statutes;
+22
+23
+5. “Health care service” means any service, supply, or
+23
+24
+procedure rendered for the diagnosis, prevention, treatment, cure,
+24
+Req. No. 975 Page 2
+
+1
+or relief of a health condition, illness, injury, or other disease,
+1
+2
+including physical or behavioral health services, to the extent it
+2
+3
+is covered by a health benefit plan;
+3
+4
+6. “Emergency care” means a health care procedure, treatment,
+4
+5
+service, or ambulance transportation service delivered to a covered
+5
+6
+person after the sudden onset of medical or behavioral health
+6
+7
+condition symptoms of sufficient severity that, without immediate
+7
+8
+medical attention, regardless of eventual diagnosis, could be
+8
+9
+expected by a reasonable layperson to result in impairment of a
+9
+10
+person’s physical or mental health, the health or safety of a fetus
+10
+11
+or pregnant person, bodily function of a bodily organ or part, or
+11
+12
+disfigurement to a person;
+12
+13
+7. “Minimum benefit standard” means the eightieth percentile of
+13
+14
+all allowed amounts for the same or similar health care service
+14
+15
+furnished by an in-network provider or in-network facility as
+15
+16
+reported in an independent benchmarking database maintained by a
+16
+17
+nonprofit organization specified by the Insurance Commissioner. The
+17
+18
+nonprofit organization shall not be financially affiliated with a
+18
+19
+health benefit plan or provider. The calculation of the eightieth
+19
+20
+percentile of all allowed amounts shall be reflected by claims paid
+20
+21
+during the most recent calendar year;
+21
+22
+8. “Provider” means a health care professional that is not a
+22
+23
+facility and is licensed to furnish health care services in this
+23
+24
+state;
+24
+Req. No. 975 Page 3
+
+1
+9. “In-network provider” means a provider that is under express
+1
+2
+contract with a health benefit plan or a health benefit plan’s
+2
+3
+contractor or subcontractor providing health care services to
+3
+4
+enrollees of the plan;
+4
+5
+10. “Out-of-network provider” means a provider that is not
+5
+6
+contracted with a health benefit plan for network participation;
+6
+7
+11. “Facility” means a licensed entity providing health care
+7
+8
+services, including:
+8
+9
+a. a general, special, psychiatric, or rehabilitation
+9
+10
+hospital,
+10
+11
+b. an ambulatory surgical center,
+11
+12
+c. a cancer treatment center,
+12
+13
+d. a birth center,
+13
+14
+e. an inpatient, outpatient, or residential drug and
+14
+15
+alcohol treatment center,
+15
+16
+f. a laboratory, diagnostic, or other outpatient medical
+16
+17
+service or testing center,
+17
+18
+g. a health care provider’s office or clinic,
+18
+19
+h. an urgent care center, or
+19
+20
+i. any other therapeutic health care setting;
+20
+21
+12. “In-network facility” means a facility that is under
+21
+22
+express contract with a health insurance carrier or a health
+22
+23
+insurance carrier’s contractor or subcontractor to provide health
+23
+24
+care services to enrollees of a plan;
+24
+Req. No. 975 Page 4
+
+1
+13. “Out-of-network facility” means a facility that is not
+1
+2
+contracted with a health benefit plan for network participation;
+2
+3
+14. “Allowed amount” means the contractually agreed-upon amount
+3
+4
+paid by a health benefit plan to an in-network provider or in-
+4
+5
+network facility in the health benefit plan network; and
+5
+6
+15. “Health insurance carrier” or “carrier” means an entity
+6
+7
+subject to state insurance laws, including a health insurance
+7
+8
+company, a health maintenance organization, a hospital and health
+8
+9
+service corporation, a provider service network, a nonprofit health
+9
+10
+care plan, or any other entity that contracts or offers to contract,
+10
+11
+or enters into agreements to provide, deliver, arrange for, pay for,
+11
+12
+or reimburse any cost of health care services, or that provides,
+12
+13
+offers, or administers a health benefit policy or managed health
+13
+14
+care plan in this state.
+14
+15
+SECTION 3. NEW LAW A new section of law to be codified
+15
+16
+in the Oklahoma Statutes as Section 6063.2 of Title 36, unless there
+16
+17
+is created a duplication in numbering, reads as follows:
+17
+18
+A. An out-of-network provider or out-of-network facility shall
+18
+19
+not surprise bill a covered person for emergency care. If a covered
+19
+20
+person pays an out-of-network provider or out-of-network facility an
+20
+21
+amount that is greater than allowed by this section, the out-of-
+21
+22
+network provider or out-of-network facility shall render a refund to
+22
+23
+the covered person within thirty (30) days.
+23
+24
+24
+Req. No. 975 Page 5
+
+1
+B. A health insurance carrier shall directly reimburse an out-
+1
+2
+of-network provider or out-of-network facility for emergency care at
+2
+3
+the minimum benefit standard, or a mutually agreed upon amount, no
+3
+4
+later than:
+4
+5
+1. Thirty (30) days after the date the health benefit plan
+5
+6
+receives an electronic clean claim for such care that includes all
+6
+7
+information necessary for the carrier to pay the claim; or
+7
+8
+2. Forty-five (45) days after the date the carrier receives a
+8
+9
+nonelectronic clean claim for such care that includes all
+9
+10
+information necessary for the carrier to pay the claim.
+10
+11
+C. A health insurance carrier shall ensure that a covered
+11
+12
+person who is rendered emergency care by an out-of-network provider
+12
+13
+or out-of-network facility shall incur no greater cost-sharing
+13
+14
+obligations than the covered person would have incurred if those
+14
+15
+health care services were rendered by an in-network provider or in-
+15
+16
+network facility.
+16
+17
+D. An out-of-network provider shall not surprise bill a covered
+17
+18
+person for health care services that are not emergency care and are
+18
+19
+rendered at an in-network facility. If a covered person pays an
+19
+20
+out-of-network provider an amount that is greater than allowed by
+20
+21
+this section, the out-of-network provider shall render a refund to
+21
+22
+the covered person within thirty (30) days.
+22
+23
+E. A health insurance carrier shall directly reimburse an out-
+23
+24
+of-network provider for health care services that are not emergency
+24
+Req. No. 975 Page 6
+
+1
+care and are rendered at an in-network facility the minimum benefit
+1
+2
+standard, or mutually agreed to amount, no later than:
+2
+3
+1. Thirty (30) days after the date the carrier receives an
+3
+4
+electronic clean claim for such services that includes all
+4
+5
+information necessary for the carrier to pay the claim; or
+5
+6
+2. Forty-five (45) days after the date the carrier receives a
+6
+7
+nonelectronic clean claim for such services that includes all
+7
+8
+information necessary for the carrier to pay the claim.
+8
+9
+F. A health insurance carrier shall ensure that a covered
+9
+10
+person who is rendered health care services that are not emergency
+10
+11
+care by an out-of-network provider at an in-network facility shall
+11
+12
+incur no greater cost-sharing obligations than the covered person
+12
+13
+would have incurred if those health care services were rendered by
+13
+14
+an in-network provider.
+14
+15
+G. The Insurance Commissioner shall promulgate rules for
+15
+16
+verifying the minimum benefit standard which may be requested by an
+16
+17
+out-of-network provider or out-of-network facility that has rendered
+17
+18
+health care services in accordance with this act.
+18
+19
+1. Verification of the minimum benefit standard shall only be
+19
+20
+requested if reimbursement has been received from a carrier and no
+20
+21
+more than thirty (30) days have elapsed since the date payment was
+21
+22
+received.
+22
+23
+23
+24
+24
+Req. No. 975 Page 7
+
+1
+2. Request for verification of the minimum benefit standard may
+1
+2
+be requested for bundled claims provided none of the claims were
+2
+3
+paid more than thirty (30) days since the date payment was received.
+3
+4
+3. The Insurance Commissioner shall ensure that verification of
+4
+5
+the minimum benefit standard is provided to an out-of-network
+5
+6
+provider or out-of-network facility no later than fifteen (15) days
+6
+7
+after a request has been initiated.
+7
+8
+4. If the Insurance Commissioner determines that the amount
+8
+9
+reimbursed by the carrier is less than the minimum benefit standard,
+9
+10
+the carrier shall be required to compensate the out-of-network
+10
+11
+provider or out-of-network facility the difference between the
+11
+12
+amount initially paid and the verified minimum benefit standard no
+12
+13
+later than fifteen (15) days after the date the Insurance
+13
+14
+Commissioner has verified the minimum benefit standard.
+14
+15
+H. A health insurance carrier that fails to reimburse for
+15
+16
+health care services at the minimum benefit standard shall be
+16
+17
+subject to a penalty that is calculated as the difference between
+17
+18
+the minimum benefit standard and the amount billed by the out-of-
+18
+19
+network provider or out-of-network facility that requested
+19
+20
+verification of the minimum benefit standard. Fifty percent (50%)
+20
+21
+of the calculated penalty shall be made payable to the out-of-
+21
+22
+network provider or out-of-network facility and the remaining fifty
+22
+23
+percent (50%) shall be made payable to the Oklahoma Health Insurance
+23
+24
+High Risk Pool.
+24
+Req. No. 975 Page 8
+
+1
+A carrier may be subject to additional fines and penalties, as
+1
+2
+determined by the Commissioner, if a pattern of underpayment has
+2
+3
+been determined.
+3
+4
+SECTION 4. This act shall become effective November 1, 2025.
+4
+5
+5
+6
+60-1-975 CAD 1/16/2025 2:41:22 PM
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 975 Page 9
+
+[DELETED:  P B M]
+[DELETED:  P e n a t a]
+[DELETED:  P]
+[DELETED:  P a a a a a a a a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]

@@ -1,0 +1,3230 @@
+Title: 4 SENATE BILL NO. 179 By: Bullard
+Official Title: 4 SENATE BILL NO. 179 By: Bullard
+Number of Sections: 5
+Source: versions - Committee Amendment
+Media Type: application/pdf
+Strikethrough Detection: 60 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 COMMITTEE SUBSTITUTE
+FOR
+5
+6
+7 COMMITTEE SUBSTITUTE
+8 An Act relating to information technology; directing
+state agencies to maintain information technology
+9 services; requiring reporting; amending 19 O.S. 2021,
+
+Section 2:
+Section 1505, as amended by Section 3, Chapter 94,
+10 O.S.L. 2022 (19 O.S. Supp. 2024, Section 1505), which
+relates to county purchasing; conforming language;
+11 amending 62 O.S. 2021, Sections 34.11.1, as amended
+by Section 1, Chapter 193, O.S.L. 2024, 34.20.1,
+12 34.23, 34.24, 34.27, 34.31, and 34.32, as amended by
+
+Section 3:
+Section 25, Chapter 228, O.S.L. 2022 (62 O.S. Supp.
+13 2024, Sections 34.11.1 and 34.32), which relate to
+the Oklahoma State Finance Act; conforming language;
+14 amending 74 O.S. 2021, Section 85.5, as amended by
+
+Section 4:
+Section 1, Chapter 102, O.S.L. 2024 (74 O.S. Supp.
+15 2024, Section 85.5), which relates to state
+purchasing; conforming language; updating statutory
+16 language; updating statutory references; providing
+for codification; repealing 62 O.S. 2021, Sections
+17 34.11.8, 34.12, as amended by Section 2, Chapter 74,
+O.S.L. 2022, 34.13, 34.15, 34.19, 34.20, 34.21,
+18 34.22, 34.26, 34.28, 34.30, 34.33, 35.1, 35.2, 35.3,
+
+Section 5:
+35.4, 35.5, 35.6, 35.6.1, 35.6.2, 35.7, 35.8, and
+19 35.9 (62 O.S. Supp. 2024, Section 34.12), which
+relate to the Oklahoma State Finance Act and the
+20 Information Technology Consolidation and Coordination
+Act; providing an effective date; and declaring an
+21 emergency.
+22
+23
+24 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+Req. No. 1632 Page 1
+1 SECTION 1. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 35.10 of Title 62, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. 1. On and after the effective date of this act, all state
+5 agencies shall be responsible for their information technology
+6 services. Provided, however, all cybersecurity duties shall be
+7 maintained by the Information Services Division of the Office of
+8 Management and Enterprise Services.
+9 2. The Information Services Division of the Office of
+10 Management and Enterprise Services shall transfer to each state
+11 agency all data, records, and other information regarding the
+12 agency’s information technology services rendered prior to the
+13 effective date of this act. The Chief Information Officer of this
+14 state and the Information Services Division shall advise agencies as
+15 needed regarding the requisition of information technology services,
+16 and any other services as requested by the agency.
+17 B. Each state agency shall submit an electronic report to the
+18 Governor and the Chief Information Officer annually, not later than
+19 December 31 of each calendar year, detailing the status of the
+20 information technology services rendered to the agency and any other
+21 information as deemed necessary by the Governor and the Chief
+22 Information Officer.
+23
+24
+Req. No. 1632 Page 2
+1 SECTION 2. AMENDATORY 19 O.S. 2021, Section 1505, as
+2 amended by Section 3, Chapter 94, O.S.L. 2022 (19 O.S. Supp. 2024,
+3 Section 1505), is amended to read as follows:
+4 Section 1505. The following procedures shall be used by
+5 counties for the requisition, purchase, lease-purchase, rental, and
+6 receipt of supplies, materials, road and bridge construction
+7 services, equipment, and information technology and
+8 telecommunication goods and services for the maintenance, operation,
+9 and capital expenditures of county government unless otherwise
+10 provided for by law.
+11 A. The procedure for requisitioning items for county offices
+12 shall be as follows:
+13 1. The requesting department shall prepare a requisition form
+14 in triplicate. The requisition shall contain any specifications for
+15 an item as deemed necessary by the requesting department. The form
+16 shall be prescribed by the State Auditor and Inspector;
+17 2. The requesting department shall retain a copy of the
+18 requisition and forward the original requisition and a copy to the
+19 county purchasing agent; and
+20 3. Upon receipt of the requisition, the county purchasing
+21 agent, within two (2) working days, shall begin the bidding and
+22 purchasing process as provided for in this section. Nothing in this
+23 section shall prohibit the transfer of supplies, materials, or
+24
+Req. No. 1632 Page 3
+1 equi pment between county departments upon a written agreement
+2 between county officers.
+3 B. The bid procedure for selecting a vendor for the purchase,
+4 lease-purchase, or rental of supplies, materials, equipment, and
+5 information technology and telecommunication goods and services used
+6 by a county shall be as follows:
+7 1. The county purchasing agent shall request written
+8 recommendations from all county officers pertaining to needed or
+9 commonly used supplies, materials, road and bridge construction
+10 services, equipment, and information technology and
+11 telecommunication goods and services. From such recommendations and
+12 available requisition, purchase, or inventory records, the county
+13 purchasing agent shall prepare a list of items needed or commonly
+14 used by county officers. The county purchasing agent shall request
+15 from the Purchasing Division or from the Information Services
+16 Division in the case of information technology and telecommunication
+17 goods and services of the Office of Management and Enterprise
+18 Services all contracts quoting the price the state is paying for the
+19 items. The county purchasing agent shall either request the
+20 Purchasing Division or the Information Services Division of the
+21 Office of Management and Enterprise Services, as applicable, to make
+22 the purchase for the county or the county purchasing agent shall
+23 solicit bids for unit prices on the items for periods of not to
+24 exceed twelve (12) months in the manner described in paragraph 2 of
+Req. No. 1632 Page 4
+1 this subsection. If the county purchasing agent receives a
+2 requisition for an item for which the county purchasing agent does
+3 not have a current bid, the county purchasing agent shall request
+4 from the Purchasing Division or the Information Services Division of
+5 the Office of Management and Enterprise Services, as applicable, all
+6 contracts quoting the price the state is paying for the item. The
+7 county purchasing agent shall either request the Purchasing Division
+8 or the Information Services Division of the Office of Management and
+9 Enterprise Services, as applicable, to make the purchase for the
+10 county or the county purchasing agent shall solicit bids in the
+11 manner described in paragraph 2 of this subsection. Nothing in this
+12 paragraph shall prohibit bids from being taken on an item currently
+13 on a twelve-month bid list, at any time deemed necessary by the
+14 county purchasing agent. Whenever the county purchasing agent deems
+15 it necessary to take a bid on an item currently on a twelve-month
+16 bid list, the reason for the bid shall be entered into the minutes
+17 of the board of county commissioners;
+18 2. Bids shall be solicited by mailing or emailing a notice to
+19 all persons or firms who have made a written request of the county
+20 purchasing agent that they be notified of such bid solicitation and
+21 to all other persons or firms who might reasonably be expected to
+22 submit bids. Notice of solicitation of bids shall also be published
+23 one time in a newspaper of general circulation in the county.
+24 Notices shall be mailed and published at least ten (10) days prior
+Req. No. 1632 Page 5
+1 to t he date on which the bids are opened. Proof of the mailing or
+2 emailing shall be made by the affidavit of the person mailing or
+3 emailing the request for bids and shall be made a part of the
+4 official records of the county purchasing agent. The notice shall
+5 specify whether the county will consider written bids, electronic
+6 bids, or both; the decision to exclusively consider either written
+7 bids or electronic bids shall be determined pursuant to an
+8 affirmative vote of the board of county commissioners. Whenever any
+9 prospective supplier or vendor dealing in or listing for sale any
+10 particular item or article required to be purchased or acquired by
+11 sealed bids fails to enter or offer a sealed bid for three
+12 successive bid solicitations, the name of the supplier or vendor may
+13 be dropped from the mailing lists of the board of county
+14 commissioners;
+15 3. The sealed bids received from vendors and the state contract
+16 price received from the applicable Purchasing Division of the Office
+17 of Management and Enterprise Services shall be given to the county
+18 clerk by the county purchasing agent. The county clerk shall
+19 forward the sealed bids and state contract price, if any, to the
+20 board of county commissioners;
+21 4. The board of county commissioners, in an open meeting, shall
+22 open the sealed bids and compare them to the state contract price.
+23 The board of county commissioners shall select the lowest and best
+24 bid based upon, if applicable, the availability of material and
+Req. No. 1632 Page 6
+1 tran sportation cost to the job site within thirty (30) days of the
+2 meeting. For any special item not included on the list of needed or
+3 commonly used items, the requisitioning official shall review the
+4 bids and submit a written recommendation to the board before final
+5 approval. The board of county commissioners shall keep a written
+6 record of the meeting as required by law, and any time the lowest
+7 bid was not considered to be the lowest and best bid, the reason for
+8 such conclusion shall be recorded. Whenever the board of county
+9 commissioners rejects the written recommendation of the
+10 requisitioning official pertaining to a special item, the reasons
+11 for the rejection shall be entered in their minutes and stated in a
+12 letter to the requisitioning official and county purchasing agent;
+13 5. The county purchasing agent shall notify the successful
+14 bidders and shall maintain a copy of the notification. The county
+15 purchasing agent shall prepare and maintain a vendors list
+16 specifying the successful bidders and shall notify each county
+17 officer of the list. The county purchasing agent may remove any
+18 vendor from such list who refuses to provide goods or services as
+19 provided by contract if the removal is authorized by the board of
+20 county commissioners. The county purchasing agent may make
+21 purchases from the successful bidders for a price at or below the
+22 bid price. If a vendor who is the low bidder cannot or will not
+23 sell goods or services as required by a county bid contract, the
+24 county purchasing agent may make a one-time purchase from the next
+Req. No. 1632 Page 7
+1 lowe st or best quote or take quotations as provided in paragraph 6
+2 of this subsection; provided, however, such purchase does not exceed
+3 Twenty-five Thousand Dollars ($25,000.00) as the amount specified in
+4 subparagraph a of paragraph 3 of subsection A of Section 1501 of
+5 this title; and
+6 6. When bids have been solicited as provided for by law and no
+7 bids have been received, the procedure shall be as follows:
+8 a. the county purchasing agent shall determine if
+9 potential vendors are willing to commit to a firm
+10 price for a reduced period of time, and, if such is
+11 the case, the bid procedure described in this
+12 subsection shall be followed,
+13 b. if vendors are not willing to commit to a firm price
+14 for a reduced period, the purchasing agent shall
+15 solicit and record at least three quotes of current
+16 prices available to the county and authorize the
+17 purchase of goods or services based on the lowest and
+18 best quote as it becomes necessary to acquire such
+19 goods or services. The quotes shall be recorded on a
+20 form prescribed by the State Auditor and Inspector and
+21 shall be attached to the purchase order and filed with
+22 the county clerk’s copy of the purchase order. Any
+23 time the lowest quote was not considered to be the
+24 lowest and best quote, the reason for this conclusion
+Req. No. 1632 Page 8
+1 shall be recorded by the county purchasing agent and
+2 transmitted to the county clerk, or
+3 c. if three quotes are not available, a memorandum to the
+4 county clerk from the county purchasing agent shall
+5 describe the basis upon which a purchase is
+6 authorized. The memorandum shall state the reasons
+7 why the price for such a purchase is the lowest and
+8 best under the circumstances. The county clerk shall
+9 then attach the memorandum to the county clerk’s copy
+10 of the purchase order and file both in the office of
+11 the county clerk.
+12 C. After selection of a vendor, the procedure for the purchase,
+13 lease-purchase, or rental of supplies, materials, road and bridge
+14 construction services, equipment, and information technology and
+15 telecommunication goods and services used by a county shall be as
+16 follows:
+17 1. The county purchasing agent shall prepare a purchase order
+18 in quadruplicate and submit it with a copy of the requisition to the
+19 county clerk;
+20 2. The county clerk shall then encumber the amount stated on
+21 the purchase order and assign a sequential number to the purchase
+22 order;
+23
+24
+Req. No. 1632 Page 9
+1 3. If there is an unencumbered balance in the appropriation
+2 made for that purpose by the county excise board, the county clerk
+3 shall so certify in the following form:
+4 “I hereby certify that the amount of this encumbrance has been
+5 entered against the designated appropriation accounts and that this
+6 encumbrance is within the authorized available balance of the
+7 appropriation.
+8 Dated this ________ day of ________, 20__.
+9 ________________________________
+10 County Clerk/Deputy
+11 of _____________________ County.”.
+12 In instances where it is impossible to ascertain the exact amount of
+13 the indebtedness sought to be incurred at the time of recording the
+14 encumbrance, an estimated amount may be used. No purchase order
+15 shall be valid unless signed by the county purchasing agent and
+16 certified by the county clerk; and
+17 4. The county clerk shall file the original purchase order and
+18 return three copies to the county purchasing agent who shall file a
+19 copy, retain a copy for the county road and bridge inventory officer
+20 if the purchase order is for the purchase of equipment, supplies, or
+21 materials for the construction or maintenance of roads and bridges,
+22 and submit the other copy to the receiving officer of the requesting
+23 department.
+24
+Req. No. 1632 Page 10
+1 D. 1. The procedure for the purchase of supplies, materials,
+2 equipment, and information technology and telecommunication goods
+3 and services at public auction or by sealed bid to be used by a
+4 county shall be as follows:
+5 a. the county purchasing agent shall prepare a purchase
+6 order in quadruplicate and submit it with a copy of
+7 the requisition to the county clerk,
+8 b. the county clerk shall then encumber the amount stated
+9 on the purchase order and assign a sequential number
+10 to the purchase order,
+11 c. if there is an unencumbered balance in the
+12 appropriation made for that purpose by the county
+13 excise board, the county clerk shall so certify in the
+14 following form:
+15 “I hereby certify that the amount of this encumbrance
+16 has been entered against the designated appropriation
+17 accounts and that this encumbrance is within the
+18 authorized available balance of the appropriation.
+19 Dated this ________ day of ________, 20__.
+20 ________________________________
+21 County Clerk/Deputy
+22 of _____________________ County.”.
+23 In instances where it is impossible to ascertain the
+24 exact amount of the indebtedness sought to be incurred
+Req. No. 1632 Page 11
+1 at the time of recording the encumbrance, an estimated
+2 amount may be used. No purchase order shall be valid
+3 unless signed by the county purchasing agent and
+4 certified by the county clerk, and
+5 d. the county clerk shall file the original purchase
+6 order and return three copies to the county purchasing
+7 agent who shall file a copy, retain a copy for the
+8 county road and bridge inventory officer if the
+9 purchase order is for the purchase of equipment,
+10 supplies, or materials for the construction or
+11 maintenance of roads and bridges, and submit the other
+12 copy to the receiving officer of the requesting
+13 department.
+14 2. The procedure for the purchase of supplies, materials, and
+15 equipment at a public auction when the purchase will be made with
+16 the proceeds from the sale of county property at the same public
+17 auction are is as follows:
+18 a. the purchasing agent shall cause such items being sold
+19 to be appraised in the manner determined in Section
+20 421.1 of this title,
+21 b. the county purchasing agent shall prepare a purchase
+22 order in quadruplicate and submit it with a copy of
+23 the requisition to the county clerk,
+24
+Req. No. 1632 Page 12
+1 c. the county clerk shall then encumber the amount of the
+2 appraised value and any additional funds obligated by
+3 the county on the purchase order and assign a
+4 sequential number to the purchase order,
+5 d. the county clerk shall certify that the amount of the
+6 encumbrance is equal to the appraised value of the
+7 item being sold plus any additional funds obligated by
+8 the county. In effect, the recording of the
+9 encumbrance is an estimate that is authorized by law.
+10 No purchase order shall be valid unless signed by the
+11 county purchasing agent and certified by the county
+12 clerk,
+13 e. the county clerk shall file the original purchase
+14 order and return three copies to the county purchasing
+15 agent who shall file a copy, retain a copy for the
+16 county road and bridge inventory officer if the
+17 purchase order is for the purchase of equipment,
+18 supplies, or materials for the construction or
+19 maintenance of roads and bridges, and submit the other
+20 copy to the receiving officer of the requesting
+21 department, and
+22 f. a purchase shall not be bid until such time that the
+23 appraised item or items are sold. Any item or items
+24 purchased shall not exceed the appraised value plus
+Req. No. 1632 Page 13
+1 any additional funds obligated by the county or the
+2 actual selling price of the item or items, whichever
+3 is the lesser amount.
+4 E. The procedure for the receipt of items shall be as follows:
+5 1. A receiving officer for the requesting department shall be
+6 responsible for receiving all items delivered to that department;
+7 2. Upon the delivery of an item, the receiving officer shall
+8 determine if a purchase order exists for the item being delivered;
+9 3. If no such purchase order has been provided, the receiving
+10 officer shall refuse delivery of the item;
+11 4. If a purchase order is on file, the receiving officer shall
+12 obtain a delivery ticket, bill of lading, or other delivery document
+13 and compare it with the purchase order. If any item is back-
+14 ordered, the back order and estimated date of delivery shall be
+15 noted in the receiving report;
+16 5. The receiving officer shall complete a receiving report in
+17 quadruplicate which shall state the quantity and quality of goods
+18 delivered. The receiving report form shall be prescribed by the
+19 State Auditor and Inspector. The person delivering the goods shall
+20 acknowledge the delivery by signature, noting the date and time;
+21 6. The receiving officer shall file the original receiving
+22 report and submit:
+23 a. a copy of the purchase order and a copy of the
+24 receiving report to the county purchasing agent, and
+Req. No. 1632 Page 14
+1 b. a copy of the receiving report with the delivery
+2 documentation to the county clerk;
+3 7. The county purchasing agent shall file a copy of the
+4 purchase order and a copy of the receiving report;
+5 8. Upon receipt of the original receiving report and the
+6 delivery documentation, the county clerk shall maintain a file until
+7 such time as an invoice is received from the vendor;
+8 9. The invoice shall state the name and address of the vendor
+9 and must be sufficiently itemized to clearly describe each item
+10 purchased, the unit price when applicable, the number or volume of
+11 each item purchased, the total price, the total purchase price, and
+12 the date of the purchase;
+13 10. Upon receipt of an invoice, the county clerk shall compare
+14 the following documents:
+15 a. requisition,
+16 b. purchase order,
+17 c. invoice with noncollusion affidavit as required by
+18 law,
+19 d. receiving report, and
+20 e. delivery document.
+21 The documents shall be available for public inspection during
+22 regular business hours; and
+23
+24
+Req. No. 1632 Page 15
+1 11. If the documents conform as to the quantity and quality of
+2 the items, the county clerk shall prepare a warrant for payment
+3 according to procedures provided for by law.
+4 F. The following procedures are for the processing of purchase
+5 orders:
+6 1. The purchasing agent shall be allowed up to three (3) days
+7 to process purchase orders to be presented to the board of county
+8 commissioners for consideration and payment. Nothing herein shall
+9 prevent the purchasing agent from processing or the board of county
+10 commissioners from consideration and payment of utilities, travel
+11 claims, and payroll claims;
+12 2. The board of county commissioners shall consider the
+13 purchase orders so presented and act upon the purchase orders, by
+14 allowing in full or in part or by holding for further information or
+15 disallowing the same. The disposition of purchase orders shall be
+16 indicated by the board of county commissioners, showing the amounts
+17 allowed or disallowed, and shall be signed by at least two members
+18 of the board of county commissioners. Any claim held over for
+19 further information shall be acted upon by allowing or disallowing
+20 same at any future meeting of the board held within seventy-five
+21 (75) days from the date of filing of the purchase order. Any
+22 purchase order not acted upon within the seventy-five (75) days from
+23 the date of filing shall be deemed to have been disallowed, but such
+24
+Req. No. 1632 Page 16
+1 disa llowance shall not prevent the refiling of the purchase order at
+2 the proper time; and
+3 3. Whenever any allowance, either in whole or in part, is made
+4 upon any purchase order presented to the board of county
+5 commissioners and is accepted by the person making the claim, such
+6 allowance shall be a full settlement of the entire purchase order
+7 and provided that the cashing of warrant shall be considered as
+8 acceptance by the claimant.
+9 G. The procedure upon consumption or disposal of supplies,
+10 materials, or equipment shall be as follows:
+11 1. For consumable road or bridge items or materials, a
+12 quarterly report of the road and bridge projects completed during
+13 such period shall be prepared and kept on file by the consuming
+14 department. The quarterly report may be prepared and kept
+15 electronically by the consuming department. The report shall
+16 contain a record of the date, the place, and the purpose for the use
+17 of the road or bridge items or materials. For purposes of
+18 identifying county bridges, the board of county commissioners shall
+19 number each bridge subject to its jurisdiction; and
+20 2. For disposal of all equipment and information technology and
+21 telecommunication goods which originally cost more than Five Hundred
+22 Dollars ($500.00), resolution of disposal shall be submitted by the
+23 officer on a form prescribed by the Office of the State Auditor and
+24 Inspector’s Office Inspector to the board of county commissioners.
+Req. No. 1632 Page 17
+1 The approval of the resolution of disposal shall be entered into the
+2 minutes of the board.
+3 H. Inventory forms and reports shall be retained for not less
+4 than two (2) years after all audit requirements for the state and
+5 federal government have been fulfilled and after any pending
+6 litigation involving the forms and reports has been resolved.
+7 I. The procedures provided for in this section shall not apply
+8 when a county officer certifies that an emergency exists requiring
+9 an immediate expenditure of funds. Such an expenditure of funds
+10 shall not exceed Five Thousand Dollars ($5,000.00). The county
+11 officer shall give the county purchasing agent a written explanation
+12 of the emergency. The county purchasing agent shall attach the
+13 written explanation to the purchase order. The purchases shall be
+14 paid by attaching a properly itemized invoice, as described in this
+15 section, to a purchase order which has been prepared by the county
+16 purchasing agent and submitting them to the county clerk for filing,
+17 encumbering, and consideration for payment by the board of county
+18 commissioners.
+19 J. The county purchasing agent may authorize county purchasing
+20 officers to make acquisitions through the state purchase card
+21 program as authorized by the State Purchasing Director in accordance
+22 with Section 85.5 of Title 74 of the Oklahoma Statutes and defined
+23 in Section 85.2 of Title 74 of the Oklahoma Statutes. Purchase
+24 cardholders A purchase cardholder shall sign a purchase card
+Req. No. 1632 Page 18
+1 agre ement prior to becoming a cardholder and attend purchase card
+2 procedure training as required by the State Purchasing Director.
+3 Complete descriptions of purchases made by county government
+4 entities shall be published through the state transparency portal
+5 pursuant to Section 85.33B of Title 74 of the Oklahoma Statutes, and
+6 as warrants required to be published pursuant to Sections 444 and
+7 445 of this title.
+8 K. Nothing in this section shall prohibit counties from
+9 providing material and/or services bids on the twelve-month bid list
+10 to all road and bridge projects and contracts. All non-road and
+11 bridge related construction contracts shall refer to subsection A of
+12 Section 103 of Title 61 of the Oklahoma Statutes.
+13 SECTION 3. AMENDATORY 62 O.S. 2021, Section 34.11.1, as
+14 amended by Section 1, Chapter 193, O.S.L. 2024 (62 O.S. Supp. 2024,
+15 Section 34.11.1), is amended to read as follows:
+16 Section 34.11.1. A. There is hereby created the position of
+17 Chief Information Officer who shall be appointed by the Governor.
+18 The Chief Information Officer, in addition to having authority over
+19 the Information Services Division of the Office of Management and
+20 Enterprise Services, shall also serve as Secretary of Information
+21 Technology and Telecommunications or successor cabinet position and
+22 shall have jurisdictional areas of responsibility related to
+23 information technology and telecommunications systems of all state
+24 agencies as provided for in state law. The salary of the Chief
+Req. No. 1632 Page 19
+1 Info rmation Officer shall not be less than One Hundred Thirty
+2 Thousand Dollars ($130,000.00) or more than One Hundred Sixty
+3 Thousand Dollars ($160,000.00).
+4 B. Any person appointed to the position of Chief Information
+5 Officer shall meet the following eligibility requirements:
+6 1. A baccalaureate degree in Computer Information Systems,
+7 Information Systems or Technology Management, Business
+8 Administration, Finance, or other similar degree;
+9 2. A minimum of ten (10) years of professional experience with
+10 responsibilities for management and support of information systems
+11 and information technology, including seven (7) years of direct
+12 management of a major information technology operation;
+13 3. Familiarity with local and wide-area wide area network
+14 design, implementation, and operation;
+15 4. Experience with data and voice convergence service
+16 offerings;
+17 5. Experience in developing technology budgets;
+18 6. Experience in developing requests for proposal and
+19 administering the bid process;
+20 7. Experience managing professional staff, teams, and
+21 consultants;
+22 8. Knowledge of telecommunications operations;
+23
+24
+Req. No. 1632 Page 20
+1 9. Ability to develop and set strategic direction for
+2 information technology and telecommunications and to manage daily
+3 development and operations functions;
+4 10. An effective communicator who is able to build consensus;
+5 11. Ability to analyze and resolve complex issues, both logical
+6 and interpersonal;
+7 12. Effective verbal and written communications skills and
+8 effective presentation skills, geared toward coordination and
+9 education;
+10 13. Ability to negotiate and defuse conflict; and
+11 14. A self-motivator, independent, cooperative, flexible and
+12 creative.
+13 C. The salary and any other expenses for the Chief Information
+14 Officer shall be budgeted as a separate line item through the Office
+15 of Management and Enterprise Services. The operating expenses of
+16 the Information Services Division shall be set by the Chief
+17 Information Officer and shall be budgeted as a separate line item
+18 through the Office of Management and Enterprise Services. The
+19 Office of Management and Enterprise Services shall provide adequate
+20 office space, equipment and support necessary to enable the Chief
+21 Information Officer to carry out the information technology and
+22 telecommunications duties and responsibilities of the Chief
+23 Information Officer and the Information Services Division.
+24
+Req. No. 1632 Page 21
+1 D. 1. Within twelve (12) months of appointment, the first
+2 Chief Information Officer shall complete an assessment, which shall
+3 be modified annually pursuant to Section 35.5 of this title, of the
+4 implementation of the transfer, coordination, and modernization of
+5 all information technology and telecommunication systems of all
+6 state agencies in the state as provided for in the Oklahoma
+7 Information Services Act. The assessment shall include the
+8 information technology and telecommunications systems of all
+9 institutions within The Oklahoma State System of Higher Education,
+10 the Oklahoma State Regents for Higher Education and the
+11 telecommunications network known as OneNet as assembled and
+12 submitted by the Oklahoma Higher Education Chief Information
+13 Officer, as designated by the Oklahoma State Regents for Higher
+14 Education.
+15 2. Within twelve (12) months of appointment, the first Chief
+16 Information Officer shall issue a report setting out a plan of
+17 action which will include the following:
+18 a. define the shared service model organization structure
+19 and the reporting relationship of the recommended
+20 organization,
+21 b. the implementation of an information technology and
+22 telecommunications shared services model that defines
+23 the statewide infrastructure environment needed by
+24 most state agencies that is not specific to individual
+Req. No. 1632 Page 22
+1 agencies and the shared applications that are utilized
+2 across multiple agencies,
+3 c. define the services that shall be in the shared
+4 services model under the control of the Information
+5 Services Division of the Office of Management and
+6 Enterprise Services,
+7 d. define the roadmap to implement the proposed shared
+8 services model. The roadmap shall include
+9 recommendations on the transfer, coordination, and
+10 modernization of all information technology and
+11 telecommunication systems of all the state agencies in
+12 the state,
+13 e. recommendations on the reallocation of information
+14 technology and telecommunication resources and
+15 personnel,
+16 f. a cost benefit analysis to support the recommendations
+17 on the reallocation of information technology and
+18 telecommunication resources and personnel,
+19 g. a calculation of the net savings realized through the
+20 reallocation and consolidation of information
+21 technology and telecommunication resources and
+22 personnel after compensating for the cost of
+23 contracting with a private consultant as authorized in
+24 paragraph 4 of this subsection, implementing the plan
+Req. No. 1632 Page 23
+1 of action, and ongoing costs of the Information
+2 Services Division of the Office of Management and
+3 Enterprise Services, and
+4 h. the information required in subsection B of Section
+5 35.5 of this title.
+6 3. The plan of action report shall be presented to the
+7 Governor, Speaker of the Oklahoma House of Representatives, and the
+8 President Pro Tempore of the Oklahoma State Senate.
+9 4. The Chief Information Officer may contract with a private
+10 consultant or consultants to assist in the assessment and
+11 development of the plan of action report as required in this
+12 subsection.
+13 E. The Chief Information Officer shall be authorized to employ
+14 personnel, fix the duties and compensation of the personnel, not
+15 otherwise prescribed by law, and otherwise direct the work of the
+16 personnel in performing the function and accomplishing the purposes
+17 of the Information Services Division of the Office of Management and
+18 Enterprise Services.
+19 F. E. The Information Services Division of the Office of
+20 Management and Enterprise Services shall be responsible for the
+21 following duties: cybersecurity duties and services to state
+22 agencies and political subdivisions.
+23 1. Formulate and implement the information technology strategy
+24 for all state agencies;
+Req. No. 1632 Page 24
+1 2. Define, design, and implement a shared services statewide
+2 infrastructure and application environment for information
+3 technology and telecommunications for all state agencies;
+4 3. Direct the development and operation of a scalable
+5 telecommunications infrastructure that supports data and voice
+6 communications reliability, integrity, and security;
+7 4. Supervise the applications development process for those
+8 applications that are utilized across multiple agencies;
+9 5. Provide direction for the professional development of
+10 information technology staff of state agencies and oversee the
+11 professional development of the staff of the Information Services
+12 Division of the Office of Management and Enterprise Services;
+13 6. Evaluate all technology and telecommunication investment
+14 choices for all state agencies;
+15 7. Create a plan to ensure alignment of current systems, tools,
+16 and processes with the strategic information technology plan for all
+17 state agencies;
+18 8. Set direction and provide oversight for the support and
+19 continuous upgrading of the current information technology and
+20 telecommunication infrastructure in the state in support of enhanced
+21 reliability, user service levels, and security;
+22 9. Direct the development, implementation, and management of
+23 appropriate standards, policies and procedures to ensure the success
+24 of state information technology and telecommunication initiatives;
+Req. No. 1632 Page 25
+1 10. Recruit, hire and transfer the required technical staff in
+2 the Information Services Division of the Office of Management and
+3 Enterprise Services to support the services provided by the Division
+4 and the execution of the strategic information technology plan;
+5 11. Establish, maintain, and enforce information technology and
+6 telecommunication standards;
+7 12. Delegate, coordinate, and review all work to ensure quality
+8 and efficient operation of the Information Services Division of the
+9 Office of Management and Enterprise Services;
+10 13. Create and implement a communication plan that disseminates
+11 pertinent information to state agencies on standards, policies,
+12 procedures, service levels, project status, and other important
+13 information to customers of the Information Services Division of the
+14 Office of Management and Enterprise Services and provide for agency
+15 feedback and performance evaluation by customers of the Division;
+16 14. Develop and implement training programs for state agencies
+17 using the shared services of the Information Services Division of
+18 the Office of Management and Enterprise Services and recommend
+19 training programs to state agencies on information technology and
+20 telecommunication systems, products and procedures;
+21 15. Provide counseling, performance evaluation, training,
+22 motivation, discipline, and assign duties for employees of the
+23 Information Services Division of the Office of Management and
+24 Enterprise Services;
+Req. No. 1632 Page 26
+1 16. For all state agencies, approve the purchasing of all
+2 information technology and telecommunication services and approve
+3 the purchase of any information technology and telecommunication
+4 product except the following:
+5 a. a purchase less than or equal to Five Thousand Dollars
+6 ($5,000.00) if such product is purchased using a state
+7 purchase card and the product is listed on either the
+8 Approved Hardware or Approved Software list located on
+9 the Office of Management and Enterprise Services
+10 website, or
+11 b. a purchase over Five Thousand Dollars ($5,000.00) and
+12 less than or equal to Twenty-five Thousand Dollars
+13 ($25,000.00) if such product is purchased using a
+14 state purchase card, the product is listed on an
+15 information technology or telecommunications statewide
+16 contract, and the product is listed on either the
+17 Approved Hardware or Approved Software list located on
+18 the Office of Management and Enterprise Services
+19 website;
+20 17. Develop and enforce an overall infrastructure architecture
+21 strategy and associated roadmaps for desktop, network, server,
+22 storage, and statewide management systems for state agencies;
+23 18. Effectively manage the design, implementation and support
+24 of complex, highly available infrastructure to ensure optimal
+Req. No. 1632 Page 27
+1 perf ormance, on-time delivery of features, and new products, and
+2 scalable growth;
+3 19. Define and implement a governance model for requesting
+4 services and monitoring service level metrics for all shared
+5 services; and
+6 20. Create the budget for the Information Services Division of
+7 the Office of Management and Enterprise Services to be submitted to
+8 the Legislature each year.
+9 G. The State Governmental Technology Applications Review Board
+10 shall provide ongoing oversight of the implementation of the plan of
+11 action required in subsection D of this section. Any proposed
+12 amendments to the plan of action shall be approved by the Board
+13 prior to adoption.
+14 H. 1. The Chief Information Officer shall act as the
+15 Information Technology and Telecommunications Purchasing Director
+16 for all state agencies and shall be responsible for the procurement
+17 of all information technology and telecommunication software,
+18 hardware, equipment, peripheral devices, maintenance, consulting
+19 services, high technology systems, and other related information
+20 technology, data processing, telecommunication and related
+21 peripherals and services for all state agencies. The Chief
+22 Information Officer shall establish, implement, and enforce policies
+23 and procedures for the procurement of information technology and
+24 telecommunication software, hardware, equipment, peripheral devices,
+Req. No. 1632 Page 28
+1 main tenance, consulting services, high technology systems, and other
+2 related information technology, data processing, telecommunication
+3 and related peripherals and services by purchase, lease-purchase,
+4 lease with option to purchase, lease and rental for all state
+5 agencies. The procurement policies and procedures established by
+6 the Chief Information Officer shall be consistent with The Oklahoma
+7 Central Purchasing Act.
+8 2. The Chief Information Officer, or any employee or agent of
+9 the Chief Information Officer acting within the scope of delegated
+10 authority, shall have the same power and authority regarding the
+11 procurement of all information technology and telecommunication
+12 products and services as outlined in paragraph 1 of this subsection
+13 for all state agencies as the State Purchasing Director has for all
+14 acquisitions used or consumed by state agencies as established in
+15 The Oklahoma Central Purchasing Act. Such authority shall,
+16 consistent with the authority granted to the State Purchasing
+17 Director pursuant to Section 85.10 of Title 74 of the Oklahoma
+18 Statutes, include the power to designate financial or proprietary
+19 information submitted by a bidder confidential and reject all
+20 requests to disclose the information so designated, if the Chief
+21 Information Officer requires the bidder to submit the financial or
+22 proprietary information with a bid, proposal, or quotation.
+23 I. The Information Services Division of the Office of
+24 Management and Enterprise Services and the Chief Information Officer
+Req. No. 1632 Page 29
+1 shal l be subject to the Oklahoma Central Purchasing Act for the
+2 approval and purchase of all equipment, products, and services and
+3 shall also be subject to the requirements of the Public Competitive
+4 Bidding Act of 1974, the Oklahoma Lighting Energy Conservation Act
+5 and the Public Building Construction and Planning Act. The Chief
+6 Information Officer shall be authorized to delegate all or some of
+7 the procurement of information technology and telecommunication
+8 products and services and construction of facilities and
+9 telecommunication networks to another state entity if the Chief
+10 Information Officer determines it to be cost-effective and in the
+11 best interest of the state. The Chief Information Officer shall
+12 have authority to designate information technology and
+13 telecommunication contracts as statewide contracts and mandatory
+14 statewide contracts pursuant to Section 85.5 of Title 74 of the
+15 Oklahoma Statutes and to negotiate consolidation contracts,
+16 enterprise agreements and high technology systems contracts. Any
+17 contract entered into by a state agency for which the Chief
+18 Information Officer has not acted as the Information Technology and
+19 Telecommunications Purchasing Director as required in this
+20 subsection or subsection H of this section, shall be deemed to be
+21 unenforceable and the Office of Management and Enterprise Services
+22 shall not process any claim associated with the provisions thereof.
+23 J. F. The Chief Information Officer shall establish, implement,
+24 and enforce policies and procedure for the development and
+Req. No. 1632 Page 30
+1 proc urement of an interoperable radio communications system for
+2 state agencies. The Chief Information Officer shall work with local
+3 governmental entities in developing the interoperable radio
+4 communications system.
+5 K. G. The Chief Information Officer shall develop and implement
+6 a plan to utilize open source technology and products for the
+7 information technology and telecommunication systems of all state
+8 agencies.
+9 L. H. All state agencies and authorities of this state and all
+10 officers and employees of those entities shall work and cooperate
+11 with and lend assistance to the Chief Information Officer and the
+12 Information Services Division of the Office of Management and
+13 Enterprise Services and provide any and all information requested by
+14 the Chief Information Officer.
+15 M. The Chief Information Officer shall prepare an annual report
+16 detailing the ongoing net saving attributable to the reallocation
+17 and consolidation of information technology and telecommunication
+18 resources and personnel and shall submit the report to the Governor,
+19 the Speaker of the Oklahoma House of Representatives, and the
+20 President Pro Tempore of the Oklahoma State Senate.
+21 N. For purposes of the Oklahoma Information Services Act,
+22 unless otherwise provided for, “state agencies” shall include any
+23 office, officer, bureau, board, commission, counsel, unit, division,
+24 body, authority or institution of the executive branch of state
+Req. No. 1632 Page 31
+1 gove rnment, whether elected or appointed; provided, except with
+2 respect to the provisions of subsection D of this section, the term
+3 “state agencies” shall not include institutions within The Oklahoma
+4 State System of Higher Education, the Oklahoma State Regents for
+5 Higher Education and the telecommunications network known as OneNet.
+6 O. As used in this section:
+7 1. “High technology system” means advanced technological
+8 equipment, software, communication lines, and services for the
+9 processing, storing, and retrieval of information by a state agency;
+10 2. “Consolidation contract” means a contract for several state
+11 or public agencies for the purpose of purchasing information
+12 technology and telecommunication goods and services; and
+13 3. “Enterprise agreement” means an agreement for information
+14 technology or telecommunication goods and services with a supplier
+15 who manufactures, develops and designs products and provides
+16 services that are used by one or more state agencies.
+17 SECTION 4. AMENDATORY 62 O.S. 2021, Section 34.20.1, is
+18 amended to read as follows:
+19 Section 34.20.1. A. The Office of Management and Enterprise
+20 Services shall recognize as a statewide contract an unencumbered
+21 contract consummated in on behalf of the telecommunications network
+22 known as OneNet by the Oklahoma State Regents for Higher Education
+23 or any other state entity assigned responsibility for OneNet;
+24 provided, said recognition shall require recommendation by the
+Req. No. 1632 Page 32
+1 Info rmation Services Division of the Office of Management and
+2 Enterprise Services. The Office of Management and Enterprise
+3 Services shall not subject purchases pursuant to said such contracts
+4 to any quantity limit.
+5 B. For purchases that require review of the purchase
+6 requisition by the Information Services Division of the Office of
+7 Management and Enterprise Services and that are not available on a
+8 statewide contract but are available from a General Services
+9 Administration (GSA) schedule or contract, or are available from a
+10 GSA schedule or contract at a lesser price than from a state
+11 contract, state agencies may, with the approval of the Information
+12 Services Division, purchase from the vendor or vendors on the GSA
+13 schedule or contract.
+14 C. The Oklahoma State Regents for Higher Education and any
+15 other state entity assigned responsibility for OneNet are authorized
+16 to negotiate for education or government discounts from published
+17 price listings and to make contracts at such prices subject to
+18 adjustment for price increases nationally published.
+19 SECTION 5. AMENDATORY 62 O.S. 2021, Section 34.23, is
+20 amended to read as follows:
+21 Section 34.23. A. There is hereby created a wide area
+22 telecommunications network to be known and referred to as the
+23 “Oklahoma Government Telecommunications Network (OGTN)”. The OGTN
+24
+Req. No. 1632 Page 33
+1 shal l consist of the telecommunications systems and networks of
+2 educational entities and agencies of state government.
+3 B. Notwithstanding the provisions of subsection A of this
+4 section:
+5 1. The Oklahoma State Regents for Higher Education may continue
+6 to operate, maintain and enhance the State Regents Educational
+7 Telecommunications Network, subject to the provisions of the
+8 Oklahoma Information Services Act known as OneNet. The Oklahoma
+9 State Regents for Higher Education shall submit all plans for the
+10 enhancement of the State Regents Educational Telecommunications
+11 Network OneNet to the Information Services Division of the Office of
+12 Management and Enterprise Services (OMES) for review and approval
+13 within the context of the statewide telecommunications network
+14 provided for in subsection C of this section and shall participate
+15 with the Information Services Division in joint efforts to provide
+16 services for the OGTN; and
+17 2. The Department of Public Safety may continue to operate,
+18 maintain and enhance the statewide law enforcement data
+19 communications network provided for in Section 2-124 of Title 47 of
+20 the Oklahoma Statutes, subject to the provisions of the Oklahoma
+21 Information Services Act. The Department of Public Safety shall
+22 submit all plans for the enhancement of the statewide law
+23 enforcement data communications network to the Information Services
+24 Division of the Office of Management and Enterprise Services for
+Req. No. 1632 Page 34
+1 revi ew and approval and shall participate with the Information
+2 Services Division in joint efforts to provide services for the OGTN.
+3 C. The Information Services Division Office of Management and
+4 Enterprise Services shall be responsible for developing, operating
+5 and maintaining the OGTN. The purposes of the OGTN shall include
+6 the following:
+7 1. Development of a comprehensive, unified statewide
+8 telecommunications network to effectively, efficiently, and securely
+9 meet the communication needs of educational entities and agencies of
+10 state government;
+11 2. Effective and efficient utilization of existing
+12 telecommunications systems operated by educational entities and
+13 agencies of state government; and
+14 3. Elimination and prevention of unnecessarily duplicative
+15 telecommunications systems operated by educational entities and
+16 agencies of state government.
+17 D. In developing, operating and maintaining the OGTN, the
+18 Information Services Division OMES shall:
+19 1. Develop a statewide master plan for meeting the
+20 communications needs of educational entities and of agencies of
+21 state government. To facilitate the development of a statewide
+22 master plan as provided for in this paragraph:
+23 a. the Oklahoma State Regents for Higher Education shall
+24 submit a report annually to the Chief Information
+Req. No. 1632 Page 35
+1 Officer identifying the telecommunications plans of
+2 each member of The Oklahoma State System of Higher
+3 Education. For purposes of developing such report,
+4 each member shall cooperate with and submit to the
+5 State Regents a plan of its telecommunications needs,
+6 including, but not limited to, Internet, eGovernment,
+7 as referenced in Sections 34.24 and 34.25 of this
+8 title, any interactive video plans, the purchase of
+9 informational data bases, software for manipulation of
+10 bibliographic records, and the use of
+11 telecommunications equipment or services,
+12 b. the State Superintendent of Public Instruction shall
+13 submit a report annually to the Chief Information
+14 Officer identifying the telecommunications plans of
+15 the public common school system of the state. For
+16 purposes of developing such report, the respective
+17 public elementary and secondary schools shall
+18 cooperate with and submit to the State Superintendent
+19 a plan of their telecommunications needs, including,
+20 but not limited to, Internet, eGovernment, any
+21 interactive video plans, the purchase of informational
+22 data bases, software for manipulation of bibliographic
+23 records, and the use of telecommunications equipment
+24 or services,
+Req. No. 1632 Page 36
+1 c. the Director of the Oklahoma Department of Career and
+2 Technology Education shall submit a report annually to
+3 the Chief Information Officer identifying the
+4 telecommunications plans of technology center school
+5 districts. For purposes of developing such report,
+6 each technology center school district as defined in
+7 Section 14-108 of Title 70 of the Oklahoma Statutes
+8 shall cooperate with and submit to the Director of the
+9 Oklahoma Department of Career and Technology Education
+10 a plan of its telecommunications needs, including, but
+11 not limited to, Internet, eGovernment, any interactive
+12 video plans, the purchase of informational data bases,
+13 software for manipulation of bibliographic records,
+14 and the use of telecommunications equipment or
+15 services,
+16 d. the chief administrative officer of each state agency
+17 of the executive branch shall submit a plan annually
+18 to the Chief Information Officer identifying the
+19 telecommunications needs of the state agency,
+20 including, but not limited to, Internet, eGovernment,
+21 any interactive video plans, the purchase of
+22 informational data bases, software for manipulation of
+23 bibliographic records, and the use of
+24 telecommunications equipment or services, and
+Req. No. 1632 Page 37
+1 e. the Director of the Oklahoma Department of Libraries
+2 shall submit a report annually to the Chief
+3 Information Officer identifying the telecommunications
+4 plans of public libraries and public library systems.
+5 For purposes of developing such report, the chief
+6 administrative officer of any public library or public
+7 library system not otherwise required to submit a plan
+8 of its telecommunications needs pursuant to the
+9 provisions of this paragraph shall cooperate with and
+10 submit annually to the Director of the Oklahoma
+11 Department of Libraries a plan of its
+12 telecommunications needs, including, but not limited
+13 to, Internet, eGovernment, any interactive video
+14 plans, the purchase of informational data bases,
+15 software for manipulation of bibliographic records,
+16 and the use of telecommunications equipment or
+17 services. To assure inclusion in the report of the
+18 plans of the telecommunications needs of any library
+19 that is a part of any member of The Oklahoma State
+20 System of Higher Education, a public elementary or
+21 secondary school, or technology center school
+22 district, all such plans relating to libraries
+23 received by the Oklahoma State Regents for Higher
+24 Education, the State Superintendent of Higher
+Req. No. 1632 Page 38
+1 Education Public Instruction, and the State Director
+2 of the Oklahoma Department of Career and Technology
+3 Education shall be submitted to the Director of the
+4 Oklahoma Department of Libraries by the respective
+5 recipients thereof as soon as practicable after
+6 receipt. The Director of the Oklahoma Department of
+7 Libraries shall certify to the Information Services
+8 Division that such plans are consistent with the plan
+9 developed by the Oklahoma Library Technology Network
+10 or explain any inconsistencies therewith;
+11 2. Identify the most cost-effective means of meeting the
+12 telecommunications needs of educational entities and of agencies of
+13 state government;
+14 3. Develop minimum mandatory standards and protocols for
+15 equipment, facilities and services of the OGTN;
+16 4. Evaluate the advantages and disadvantages of utilizing
+17 equipment, facilities, and services of both private entities and
+18 those owned and operated by the state; and
+19 5. Recommend a fee structure to provide for the operation and
+20 maintenance of the OGTN.
+21 SECTION 6. AMENDATORY 62 O.S. 2021, Section 34.24, is
+22 amended to read as follows:
+23 Section 34.24. A. In order to be at the forefront of
+24 electronic commerce and provide constituents, agencies and out-of-
+Req. No. 1632 Page 39
+1 stat e users with state-of-the-art electronic commerce and Internet
+2 tools, the State of Oklahoma state recognizes the need for a state
+3 portal system connecting state agency websites and information
+4 systems.
+5 B. The Information Services Division of the Office of
+6 Management and Enterprise Services shall manage the installation,
+7 maintenance and administration of the state portal system.
+8 C. For purposes of this section and Section 34.27 of this
+9 title, a “portal system” shall mean a system that hosts and connects
+10 to a collection of online government and public services and serves
+11 as the single point of access to state government services,
+12 information, and transaction processing with a common enterprise
+13 wide user interface allowing navigation among the services.
+14 SECTION 7. AMENDATORY 62 O.S. 2021, Section 34.27, is
+15 amended to read as follows:
+16 Section 34.27. A. There is hereby established the State
+17 Governmental Technology Applications Review Board. The Board shall
+18 be composed of the following members:
+19 1. The Director of the Office of Management and Enterprise
+20 Services or a designee;
+21 2. Four representatives from different state agencies, boards,
+22 commissions, or authorities to be appointed by the Governor, at
+23 least one of which shall be employed by a law enforcement agency;
+24
+Req. No. 1632 Page 40
+1 3. Two members who are not state government employees to be
+2 appointed by the Speaker of the House of Representatives; and
+3 4. Two members who are not state government employees to be
+4 appointed by the President Pro Tempore of the Senate.
+5 B. Members of the Board shall serve for terms of two (2) years.
+6 The Board shall select a chair from among its members.
+7 C. Members of the Board shall not receive compensation for
+8 serving on the Board, but shall be reimbursed for travel expenses
+9 incurred in the performance of their duties by their respective
+10 agencies or appointing authority in accordance with the State Travel
+11 Reimbursement Act.
+12 D. Notwithstanding any other section of law, any member of the
+13 Board attending a meeting via teleconference shall be counted as
+14 being present in person and shall count toward the determination of
+15 whether a quorum of the Board is present at the meeting.
+16 E. The Board shall have the duty and responsibility of:
+17 1. Reviewing for approval all convenience fees and merchant
+18 fees as defined in Section 34.25 of this title and changes in
+19 convenience fees and merchant fees charged by state agencies,
+20 boards, commissions, or authorities;
+21 2. Monitoring all portal systems and applications for portal
+22 systems created by state agencies, boards, commissions, or
+23 authorities, reviewing portal systems applications approved or
+24 denied by the Information Services Division of the Office of
+Req. No. 1632 Page 41
+1 Mana gement and Enterprise Services, and making recommendations to
+2 the Legislature and Governor to encourage greater use of the open-
+3 systems concept as is defined in Section 34.26 of this title;
+4 3. Granting an exemption for a specific license or permit to a
+5 state agency from the requirements of Section 34.24.1 of this title.
+6 The exemption shall be limited in time as warranted by the
+7 circumstances. The Board shall grant the exemption only if
+8 presented compelling evidence that the issuance of the license or
+9 permit requires the provision of information that cannot be provided
+10 through an online licensing or permitting process and that the
+11 failure of the applicant to provide the information would create a
+12 significant risk to the integrity of the license or permit. The
+13 exemption provided for in this paragraph shall not apply to license
+14 renewals pursuant to the Oklahoma Vehicle License and Registration
+15 Act;
+16 4. Providing ongoing oversight of implementation of the plan of
+17 action developed by the Chief Information Officer pursuant to
+18 Section 34.11.1 of this title and approving any amendments to the
+19 plan of action;
+20 5. Approving charges to state agencies established by the
+21 Information Services Division pursuant to Section 35.5 of this title
+22 for shared services as defined in Section 35.3 of this title;
+23 6. Functioning in an advisory capacity to the Chief Information
+24 Officer; and
+Req. No. 1632 Page 42
+1 7. 5. Approving a plan by which public elementary and secondary
+2 schools of the state may recover the cost of instructional
+3 technology resources issued by the schools.
+4 SECTION 8. AMENDATORY 62 O.S. 2021, Section 34.31, is
+5 amended to read as follows:
+6 Section 34.31. A. No state agency, as defined by Section 250.3
+7 of Title 75 of the Oklahoma Statutes in subsection E of this
+8 section, nor the Purchasing Division of the Office of Management and
+9 Enterprise Services nor the Information Services Division of the
+10 Office of Management and Enterprise Services, unless otherwise
+11 provided by federal law, shall enter into a contract for the
+12 acquisition of customized computer software developed or modified
+13 exclusively for the agency or the state, unless the vendor agrees to
+14 place into escrow with an independent third party the source code
+15 for the software and/or modifications.
+16 B. The vendor must agree to place the source code for the
+17 software and any upgrades supplied to an agency in escrow with a
+18 third party acceptable to the agency and to enter into a customary
+19 source code escrow agreement which includes a provision that
+20 entitles the agency to receive everything held in escrow upon the
+21 occurrence of any of the following:
+22 1. A bona fide material default of the obligations of the
+23 vendor under the agreement with the agency;
+24
+Req. No. 1632 Page 43
+1 2. An assignment by the vendor for the benefit of its
+2 creditors;
+3 3. A failure by the vendor to pay, or an admission by the
+4 vendor of its inability to pay, its debts as they mature;
+5 4. The filing of a petition in bankruptcy by or against the
+6 vendor when such petition is not dismissed within sixty (60) days of
+7 the filing date;
+8 5. The appointment of a receiver, liquidator or trustee
+9 appointed for any substantial part of the vendor’s property;
+10 6. The inability or unwillingness of the vendor to provide the
+11 maintenance and support services in accordance with the agreement
+12 with the agency; or
+13 7. The ceasing of a vendor of maintenance and support of the
+14 software.
+15 The fees of any third-party escrow agent subject to this section
+16 shall be borne by the vendor.
+17 C. The State Purchasing Director or a procurement officer of a
+18 state agency shall not process any state agency request for the
+19 customization, modernization, or development of computer software
+20 unless the proposed vendor provides documentation that complies with
+21 subsections A and B of this section.
+22 D. The State Purchasing Director shall provide advice and
+23 assistance, as may be required, in order for state agencies to
+24 comply with the provisions of this section.
+Req. No. 1632 Page 44
+1 E. As used in this section:
+2 1. “State agency” shall include all state agencies, whether
+3 subject to The the Oklahoma Central Purchasing Act or not, except
+4 the Oklahoma Lottery Commission; and
+5 2. “Source code” means the programming instruction for a
+6 computer program in its original form, created by a programmer with
+7 a text editor or a visual programming tool and saved in a file.
+8 SECTION 9. AMENDATORY 62 O.S. 2021, Section 34.32, as
+9 amended by Section 25, Chapter 228, O.S.L. 2022 (62 O.S. Supp. 2024,
+10 Section 34.32), is amended to read as follows:
+11 Section 34.32. A. The Information Services Division of the
+12 Office of Management and Enterprise Services shall create a standard
+13 security risk assessment for state agency information technology
+14 systems that complies with the International Organization for
+15 Standardization (ISO) and the International Electrotechnical
+16 Commission (IEC) Information Technology - Code of Practice for
+17 Security Management Information security, cybersecurity and privacy
+18 protection – Information security controls (ISO/IEC 27002).
+19 B. Each state agency that has an information technology system
+20 shall obtain an information security risk assessment to identify
+21 vulnerabilities associated with the information system. The
+22 Information Services Division of the Office of Management and
+23 Enterprise Services shall approve not less than two firms which
+24
+Req. No. 1632 Page 45
+1 stat e agencies may choose from to conduct the information security
+2 risk assessment.
+3 C. A state agency with an information technology system that is
+4 not consolidated under the Information Technology Consolidation and
+5 Coordination Act or that is otherwise retained by the agency shall
+6 additionally be required to have an information security audit
+7 conducted by a firm approved by the Information Services Division
+8 that is based upon the most current version of the NIST Cyber-
+9 Security Cybersecurity Framework, and shall submit a final report of
+10 the information security risk assessment and information security
+11 audit findings to the Information Services Division each year on a
+12 schedule set by the Information Services Division. Agencies shall
+13 also submit a list of remedies and a timeline for the repair of any
+14 deficiencies to the Information Services Division within ten (10)
+15 days of the completion of the audit. The final information security
+16 risk assessment report shall identify, prioritize, and document
+17 information security vulnerabilities for each of the state agencies
+18 assessed. The Information Services Division may assist agencies in
+19 repairing any vulnerabilities to ensure compliance in a timely
+20 manner.
+21 D. Subject to the provisions of subsection C of Section 34.12
+22 of this title, the Information Services Division shall report the
+23 results of the state agency assessments and information security
+24 audit findings required pursuant to this section to the Governor,
+Req. No. 1632 Page 46
+1 the Speaker of the House of Representatives, and the President Pro
+2 Tempore of the Senate by the first day of January of each year. Any
+3 state agency with an information technology system that is not
+4 consolidated under the Information Technology Consolidation and
+5 Coordination Act that cannot comply with the provisions of this
+6 section shall consolidate under the Information Technology
+7 Consolidation and Coordination Act.
+8 E. This section shall not apply to state agencies subject to
+9 mandatory North American Electric Reliability Corporation (NERC)
+10 cybersecurity standards and institutions within The Oklahoma State
+11 System of Higher Education, the Social Security Disability
+12 Determination Services Division of the State Department of
+13 Rehabilitation Services, and the Oklahoma State Regents for Higher
+14 Education and the telecommunications network known as OneNet that
+15 follow the International Organization for Standardization (ISO), the
+16 Oklahoma Military Department (OMD) of the State of Oklahoma, and the
+17 International Electrotechnical Commission (IEC)-Security techniques-
+18 Code of Practice for Information Security Controls Information
+19 security, cybersecurity and privacy protection – Information
+20 security controls or National Institute of Standards and Technology.
+21 SECTION 10. AMENDATORY 74 O.S. 2021, Section 85.5, as
+22 amended by Section 1, Chapter 102, O.S.L. 2024 (74 O.S. Supp. 2024,
+23 Section 85.5), is amended to read as follows:
+24
+Req. No. 1632 Page 47
+1 Section 85.5. A. Except as otherwise provided in this section,
+2 the State Purchasing Director, under the supervision of the Director
+3 of the Office of Management and Enterprise Services, shall have sole
+4 and exclusive authority and responsibility for all acquisitions by
+5 state agencies. In order to carry out the powers and duties of the
+6 Chief Information Officer and the Information Services Division, the
+7 Chief Information Officer shall have sole and exclusive authority
+8 and responsibility for all acquisitions of information and
+9 telecommunications technology, equipment, software, products and
+10 related peripherals and services by state agencies. Public
+11 construction contracts are awarded pursuant to Title 61 of the
+12 Oklahoma Statutes and are not subject to the Oklahoma Central
+13 Purchasing Act.
+14 B. Every state agency shall determine its own quantitative
+15 needs for acquisitions and the general class or nature of the
+16 acquisitions. The State Purchasing Director, after consultation
+17 with the requisitioning state agency, shall have authority to
+18 determine the particular brand, model or other specific
+19 classification of each acquisition and to draft or invoke pursuant
+20 to the Oklahoma Central Purchasing Act specifications establishing
+21 the requirements for all necessary contracts or purchase orders.
+22 C. The Director of the Office of Management and Enterprise
+23 Services shall have authority and responsibility to promulgate rules
+24
+Req. No. 1632 Page 48
+1 in c onnection with provisions of the Oklahoma Central Purchasing Act
+2 for:
+3 1. The time, manner, authentication and form of making
+4 requisitions for acquisitions;
+5 2. Inspection, analysis and testing of acquisitions or samples
+6 bidders submit prior to contract award;
+7 3. The form and manner of submission for bids or proposals a
+8 bidder submits and the manner of accepting and opening bids or
+9 proposals;
+10 4. The conditions under which the Office of Management and
+11 Enterprise Services shall require written contracts for
+12 acquisitions, the conditions under which acquisitions may be made on
+13 an open account basis, and the conditions and manner of negotiating
+14 such contracts;
+15 5. Obtaining acquisitions produced by state institutions;
+16 6. Conditions under which any of the rules herein authorized
+17 may be waived;
+18 7. The amounts of and deposits on any bond or other surety
+19 required to be submitted with a bid or contract for the furnishing
+20 of acquisitions and the conditions under which such bond or other
+21 surety shall be required;
+22 8. The manner and conditions of delivery, which shall include
+23 the designation of the common carrier of property to be used to
+24 transport acquisitions whenever a common carrier is used, and the
+Req. No. 1632 Page 49
+1 acce ptance, or rejection, including check of quantities, of any
+2 acquisitions;
+3 9. The form of any estimate, order or other information
+4 required in connection with an acquisition;
+5 10. State agency acquisitions not exceeding the acquisition
+6 threshold amount requiring competitive bid to ensure
+7 competitiveness, fairness, compliance with the Oklahoma Central
+8 Purchasing Act and Section 3001 et seq. of this title, which relates
+9 to the State Use Committee Advisory Council. The rules shall
+10 include separate provisions based on acquisition amounts as follows:
+11 a. state agencies shall make acquisitions not exceeding
+12 Twenty-five Thousand Dollars ($25,000.00), provided
+13 the acquisition process is fair and reasonable and is
+14 conducted pursuant to rules authorized pursuant to
+15 this section, and
+16 b. state agencies with certified procurement officers and
+17 internal purchasing procedures found compliant by the
+18 State Purchasing Director may make acquisitions in
+19 excess of the fair and reasonable acquisition
+20 threshold amount provided for in this section and not
+21 exceeding Two Hundred Fifty Thousand Dollars
+22 ($250,000.00), pursuant to rules authorized by this
+23 section;
+24
+Req. No. 1632 Page 50
+1 11. Training by the State Purchasing Director of state agency
+2 procurement officers;
+3 12. Review and audit by the State Purchasing Director of state
+4 agency acquisitions;
+5 13. The conditions for increasing acquisition limits for state
+6 agencies which have had a prior reduction in acquisition limit by
+7 the Director of the Office of Management and Enterprise Services;
+8 14. Use of a state purchase card to make acquisitions;
+9 15. Any other matter or practice which relates to the
+10 responsibilities of the State Purchasing Director;
+11 16. Conditions for determination and authorization of
+12 acquisition threshold amounts of state agencies;
+13 17. The form and manner of verification by suppliers that the
+14 supplier is eligible to do business in the State of Oklahoma this
+15 state and has obtained all necessary permits and licenses, pursuant
+16 to applicable provisions of law; and
+17 18. Payment procedure rules for state agencies to adhere to
+18 regarding statewide contracts.
+19 D. The State Purchasing Director shall provide training for
+20 state agency procurement officials, and other procurement staff, and
+21 is authorized to require retraining of such procurement personnel
+22 found not to be in compliance with provisions of the Oklahoma
+23 Central Purchasing Act or associated rules. The training may
+24 include any matters related to state procurement practices. State
+Req. No. 1632 Page 51
+1 agen cy purchasing officials that demonstrate proficiency shall be
+2 certified as “certified procurement officers” by the State
+3 Purchasing Director and shall be authorized to make acquisitions
+4 pursuant to provisions of the Oklahoma Central Purchasing Act and
+5 associated rules. The State Purchasing Director may assess a fee to
+6 state agencies for the training that does not exceed each state
+7 agency’s pro rata share of the costs the State Purchasing Director
+8 incurs to provide the training.
+9 E. The State Purchasing Director shall review state agency
+10 acquisitions for the purposes of:
+11 1. Ensuring state agency compliance with provisions of the
+12 Oklahoma Central Purchasing Act;
+13 2. Ensuring state agency compliance with rules promulgated by
+14 the Office of Management and Enterprise Services pursuant to the
+15 Oklahoma Central Purchasing Act;
+16 3. Ensuring state agency compliance with provisions of Section
+17 3001 et seq. of this title pertaining to the State Use Committee
+18 Advisory Council;
+19 4. Reporting any acquisition by any state agency found not to
+20 be in compliance with those sections or rules to the Director of the
+21 Office of Management and Enterprise Services;
+22 5. A determination by the State Purchasing Director to reduce a
+23 state agency’s acquisition authority amount when the state agency is
+24 found not to be in compliance with the Oklahoma Central Purchasing
+Req. No. 1632 Page 52
+1 Act or associated rules or requirements of the State Purchasing
+2 Director pursuant to this section; and
+3 6. A determination by the State Purchasing Director to increase
+4 a state agency’s acquisition authority amount after the agency cures
+5 deficiencies in connection with a prior reduction in the authority
+6 amount by the State Purchasing Director.
+7 F. Based on written findings and when recommended by the State
+8 Purchasing Director, the Director of the Office of Management and
+9 Enterprise Services may:
+10 1. Transmit written findings by the State Purchasing Director
+11 to the State Auditor and Inspector for further investigation,
+12 indicating purchasing procedures that do not conform to the Oklahoma
+13 Central Purchasing Act or associated rules; or
+14 2. Transmit to the Attorney General or the State Auditor and
+15 Inspector for further investigation a report made by the State
+16 Purchasing Director that the Director of the Office of Management
+17 and Enterprise Services reasonably believes indicates that an action
+18 that constitutes a criminal violation pursuant to the Oklahoma
+19 Central Purchasing Act or other laws has been taken by any state
+20 agency, state agency official, bidder or supplier.
+21 G. 1. Pursuant to the requirements of the Oklahoma Central
+22 Purchasing Act, the State Purchasing Director shall have authority
+23 to enter into any statewide, multistate or multigovernmental
+24 contract. The state entity designated by law, as specified in
+Req. No. 1632 Page 53
+1 Sect ion 1010.3 of Title 56 of the Oklahoma Statutes, shall
+2 participate in the purchase of pharmaceuticals available through
+3 such multistate or multigovernmental contracts entered into by the
+4 State Purchasing Director.
+5 2. Whenever it appears advantageous to the state or to any
+6 state agency to purchase or otherwise acquire any acquisition which
+7 may be offered for sale by the United States government or any
+8 agency thereof, the State Purchasing Director may execute a contract
+9 for the acquisition with the federal government or federal agency
+10 and may also utilize contracts awarded by other governmental
+11 agencies including, but not limited to, agencies of the United
+12 States of America.
+13 3. The State Purchasing Director may designate, for use by
+14 state agencies, contracts described in this subsection and contracts
+15 awarded on behalf of one or more state agencies.
+16 4. Prior to exercising the authority to cancel a contract, the
+17 State Purchasing Director may authorize renegotiation of an existing
+18 contract with an incumbent supplier for the purposes of obtaining
+19 more favorable terms for the state.
+20 5. The State Purchasing Director shall have the authority to
+21 designate certain contracts for state agencies as statewide
+22 contracts and mandatory statewide contracts. In order to carry out
+23 the powers and duties of the Chief Information Officer and
+24 Information Services Division, the Chief Information Officer shall
+Req. No. 1632 Page 54
+1 have the authority to designate certain information technology and
+2 telecommunication contracts as statewide contracts and mandatory
+3 statewide contracts and may negotiate consolidation contracts,
+4 enterprise agreements and high technology system contracts in lieu
+5 of or in conjunction with competitive bidding procedures to reduce
+6 acquisition cost.
+7 6. The State Purchasing Director may publish such
+8 specifications relating to materials, supplies, equipment and
+9 services to be acquired for the state as may best promote
+10 competition and apprise potential suppliers of the type of product
+11 desired.
+12 H. 1. The State Purchasing Director may develop and test new
+13 contracting policies, procedures and innovations that hold potential
+14 for making state procurement more effective and efficient and
+15 identify, and make recommendations to the Legislature of, any
+16 appropriate changes in law. Such development and testing, proof of
+17 concept, pilot project or other similar test shall not be considered
+18 an acquisition subject to the Oklahoma Central Purchasing Act.
+19 2. The State Purchasing Director is authorized to explore and
+20 investigate cost savings in energy, resource usage and maintenance
+21 contracts and to identify and negotiate contract solutions
+22 including, but not limited to, pilot projects to achieve cost
+23 savings for this state.
+24
+Req. No. 1632 Page 55
+1 I. The State Purchasing Director shall endeavor to satisfy
+2 state agencies in terms of cost, quality and timeliness of the
+3 delivery of acquisitions by using bidders who have a record of
+4 successful past performance, promoting competition, minimizing
+5 administrative operating costs and conducting business with
+6 integrity, fairness and openness.
+7 J. The State Purchasing Director shall undertake the following:
+8 1. The use of electronic commerce pursuant to the Oklahoma
+9 Online Bidding Act for solicitation, notification and other
+10 purchasing processes;
+11 2. Monitoring rules promulgated pursuant to the Oklahoma
+12 Central Purchasing Act to ensure that the rules satisfy the
+13 interests of the state, are clear and succinct and encourage
+14 efficiency in purchasing processes;
+15 3. A program to identify suppliers’ performance records;
+16 4. Development of criteria for the use of sealed bid
+17 contracting procedures, negotiated contracting procedures, selection
+18 of types of contracts, postaward administration of purchase orders
+19 and contracts, addendums, termination of contracts and contract
+20 pricing;
+21 5. Continual improvement in the quality of the performance of
+22 the Purchasing Division through training programs, management
+23 seminars, development of benchmarks and key management indicators,
+24 and development of standard provisions, clauses and forms;
+Req. No. 1632 Page 56
+1 6. The State Purchasing Director shall prescribe standardized
+2 contract forms and all other forms or certifications requisite or
+3 deemed necessary by the State Purchasing Director to effectuate the
+4 provisions of the Oklahoma Central Purchasing Act and associated
+5 rules;
+6 7. Development of programs to improve customer relations
+7 through training, improved communications and appointment of
+8 technical representatives;
+9 8. Provide for public two-way communication between procurement
+10 officers and potential bidders who have questions regarding a
+11 request for proposal or invitation to bid; and
+12 9. Determine whether and to what extent information included in
+13 a bid or similar offer is confidential and reject all requests to
+14 disclose the information so designated.
+15 K. The State Purchasing Director may utilize and authorize
+16 state agencies to utilize reverse auctions to obtain acquisitions.
+17 L. Prior to the award of a contract to a supplier, the State
+18 Purchasing Director shall verify, pursuant to applicable provisions
+19 of law, that the supplier is eligible to do business in this state
+20 by confirming registration with the Secretary of State and franchise
+21 tax payment status pursuant to Sections 1203 and 1204 of Title 68 of
+22 the Oklahoma Statutes. The provisions of this subsection shall be
+23 applicable only if the contract amount is Two Hundred Fifty Thousand
+24 Dollars ($250,000.00) or greater.
+Req. No. 1632 Page 57
+1 M. On an annual basis, the State Purchasing Director shall
+2 transmit to the Governor, Speaker of the House of Representatives
+3 and President Pro Tempore of the Senate a report documenting the
+4 savings realized by each agency through the application of best
+5 spend practices including the collection and tracking of spend data,
+6 strategic sourcing programs and implementation of managed and
+7 mandatory statewide contracts and include in the report information
+8 regarding emergency acquisitions.
+9 N. The acquisition threshold amount applicable to an
+10 acquisition made pursuant to this act the Oklahoma Central
+11 Purchasing Act or associated rules shall not apply to state agency
+12 purchases; provided, the State Purchasing Director determines the
+13 agency has subject matter experts on staff having the specialized
+14 expertise to purchase goods or services, the agency possesses the
+15 necessary legal and procurement staff to procure and monitor the
+16 contracts and provided the Director of the Office of Management and
+17 Enterprise Services shall certify that the proposed purchase does
+18 not conflict with consolidated statewide spend initiatives.
+19 1. Nothing in this subsection shall give an agency authority to
+20 issue statewide, multistate or multigovernmental contracts.
+21 2. Agencies making purchases pursuant to this subsection shall:
+22 a. be responsible for contracts awarded pursuant to this
+23 subsection, which includes, but may not be limited to,
+24 contract management, protest costs, all costs
+Req. No. 1632 Page 58
+1 connected with or incurred as a result of the
+2 contract, including legal representation,
+3 b. comply with rules and policies of the Office of
+4 Management and Enterprise Services, and
+5 c. report contracts issued pursuant to this subsection to
+6 the Office of Management and Enterprise Services,
+7 Central Purchasing Division, on a quarterly basis.
+8 3. Purchases made in accordance with this subsection shall be
+9 made pursuant to rules authorized by this section.
+10 O. The State Purchasing Director, with approval by the Director
+11 of the Office of Management and Enterprise Services, is authorized
+12 to make use of any state laboratories for the tests and analyses
+13 authorized in this section wherever practicable and to use private
+14 laboratories or the laboratories of another government agency if it
+15 is impracticable to use state laboratories. The State Purchasing
+16 Director is further authorized to cooperate in test and analysis
+17 programs or agreements with other states or the United States
+18 government and to accept federal funds and funds donated by private
+19 endowments or foundations for the purpose of participation in such
+20 testing programs.
+21 P. The State Purchasing Director shall require all contractors
+22 or subcontractors who have entered into a contract with a public
+23 employer to submit an affidavit that the contractor or subcontractor
+24 is in compliance with the provisions of Section 1313 of Title 25 of
+Req. No. 1632 Page 59
+1 the Oklahoma Statutes. If the State Purchasing Director determines
+2 that a contractor or subcontractor has knowingly submitted a false
+3 affidavit:
+4 1. The contractor or subcontractor shall be liable for an
+5 administrative penalty of Five Thousand Dollars ($5,000.00) for the
+6 first offense, which shall increase by Two Thousand Dollars
+7 ($2,000.00) for each subsequent offense; and
+8 2. The public employer or the Office of Management and
+9 Enterprise Services may terminate the contract with the contractor
+10 or subcontractor.
+11 SECTION 11. REPEALER 62 O.S. 2021, Sections 34.11.8,
+12 34.12, as amended by Section 2, Chapter 74, O.S.L. 2022, 34.13,
+13 34.15, 34.19, 34.20, 34.21, 34.22, 34.26, 34.28, 34.30, 34.33, 35.1,
+14 35.2, 35.3, 35.4, 35.5, 35.6, 35.6.1, 35.6.2, 35.7, 35.8, and 35.9
+15 (62 O.S. Supp. 2024, Section 34.12), are hereby repealed.
+16 SECTION 12. This act shall become effective July 1, 2025.
+17 SECTION 13. It being immediately necessary for the preservation
+18 of the public peace, health or safety, an emergency is hereby
+19 declared to exist, by reason whereof this act shall take effect and
+20 be in full force from and after its passage and approval.
+21
+22 60-1-1632 RD 2/6/2025 4:39:38 PM
+23
+24
+Req. No. 1632 Page 60
+[DELETED:  PS B B]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t i]
+[DELETED:  P i]
+[DELETED:  P]
+[DELETED:  P t t i]
+[DELETED:  P t t t]
+[DELETED:  P t t t a]
+[DELETED:  P a]
+[DELETED:  P a r p i r d]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P d t]
+[DELETED:  P d d r a a]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t]
+[DELETED:  P t]
+[DELETED:  P t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P s s]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P b]
+[DELETED:  P c r]
+[DELETED:  P R 2]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 COMMITTEE SUBSTITUTE
+FOR
+4 SENATE BILL NO. 179 By: Bullard
+5
+6
+7 COMMITTEE SUBSTITUTE
+8 An Act relating to information technology; directing
+state agencies to maintain information technology
+9 services; requiring reporting; amending 19 O.S. 2021,
+Section 1505, as amended by Section 3, Chapter 94,
+10 O.S.L. 2022 (19 O.S. Supp. 2024, Section 1505), which
+relates to county purchasing; conforming language;
+11 amending 62 O.S. 2021, Sections 34.11.1, as amended
+by Section 1, Chapter 193, O.S.L. 2024, 34.20.1,
+12 34.23, 34.24, 34.27, 34.31, and 34.32, as amended by
+Section 25, Chapter 228, O.S.L. 2022 (62 O.S. Supp.
+13 2024, Sections 34.11.1 and 34.32), which relate to
+the Oklahoma State Finance Act; conforming language;
+14 amending 74 O.S. 2021, Section 85.5, as amended by
+Section 1, Chapter 102, O.S.L. 2024 (74 O.S. Supp.
+15 2024, Section 85.5), which relates to state
+purchasing; conforming language; updating statutory
+16 language; updating statutory references; providing
+for codification; repealing 62 O.S. 2021, Sections
+17 34.11.8, 34.12, as amended by Section 2, Chapter 74,
+O.S.L. 2022, 34.13, 34.15, 34.19, 34.20, 34.21,
+18 34.22, 34.26, 34.28, 34.30, 34.33, 35.1, 35.2, 35.3,
+35.4, 35.5, 35.6, 35.6.1, 35.6.2, 35.7, 35.8, and
+19 35.9 (62 O.S. Supp. 2024, Section 34.12), which
+relate to the Oklahoma State Finance Act and the
+20 Information Technology Consolidation and Coordination
+Act; providing an effective date; and declaring an
+21 emergency.
+22
+23
+24 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+Req. No. 1632 Page 1
+
+1 SECTION 1. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 35.10 of Title 62, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. 1. On and after the effective date of this act, all state
+5 agencies shall be responsible for their information technology
+6 services. Provided, however, all cybersecurity duties shall be
+7 maintained by the Information Services Division of the Office of
+8 Management and Enterprise Services.
+9 2. The Information Services Division of the Office of
+10 Management and Enterprise Services shall transfer to each state
+11 agency all data, records, and other information regarding the
+12 agency’s information technology services rendered prior to the
+13 effective date of this act. The Chief Information Officer of this
+14 state and the Information Services Division shall advise agencies as
+15 needed regarding the requisition of information technology services,
+16 and any other services as requested by the agency.
+17 B. Each state agency shall submit an electronic report to the
+18 Governor and the Chief Information Officer annually, not later than
+19 December 31 of each calendar year, detailing the status of the
+20 information technology services rendered to the agency and any other
+21 information as deemed necessary by the Governor and the Chief
+22 Information Officer.
+23
+24
+Req. No. 1632 Page 2
+
+1 SECTION 2. AMENDATORY 19 O.S. 2021, Section 1505, as
+2 amended by Section 3, Chapter 94, O.S.L. 2022 (19 O.S. Supp. 2024,
+3 Section 1505), is amended to read as follows:
+4 Section 1505. The following procedures shall be used by
+5 counties for the requisition, purchase, lease-purchase, rental, and
+6 receipt of supplies, materials, road and bridge construction
+7 services, equipment, and information technology and
+8 telecommunication goods and services for the maintenance, operation,
+9 and capital expenditures of county government unless otherwise
+10 provided for by law.
+11 A. The procedure for requisitioning items for county offices
+12 shall be as follows:
+13 1. The requesting department shall prepare a requisition form
+14 in triplicate. The requisition shall contain any specifications for
+15 an item as deemed necessary by the requesting department. The form
+16 shall be prescribed by the State Auditor and Inspector;
+17 2. The requesting department shall retain a copy of the
+18 requisition and forward the original requisition and a copy to the
+19 county purchasing agent; and
+20 3. Upon receipt of the requisition, the county purchasing
+21 agent, within two (2) working days, shall begin the bidding and
+22 purchasing process as provided for in this section. Nothing in this
+23 section shall prohibit the transfer of supplies, materials, or
+24
+Req. No. 1632 Page 3
+
+1 equi pment between county departments upon a written agreement
+2 between county officers.
+3 B. The bid procedure for selecting a vendor for the purchase,
+4 lease-purchase, or rental of supplies, materials, equipment, and
+5 information technology and telecommunication goods and services used
+6 by a county shall be as follows:
+7 1. The county purchasing agent shall request written
+8 recommendations from all county officers pertaining to needed or
+9 commonly used supplies, materials, road and bridge construction
+10 services, equipment, and information technology and
+11 telecommunication goods and services. From such recommendations and
+12 available requisition, purchase, or inventory records, the county
+13 purchasing agent shall prepare a list of items needed or commonly
+14 used by county officers. The county purchasing agent shall request
+15 from the Purchasing Division or from the Information Services
+16 Division in the case of information technology and telecommunication
+17 goods and services of the Office of Management and Enterprise
+18 Services all contracts quoting the price the state is paying for the
+19 items. The county purchasing agent shall either request the
+20 Purchasing Division or the Information Services Division of the
+21 Office of Management and Enterprise Services, as applicable, to make
+22 the purchase for the county or the county purchasing agent shall
+23 solicit bids for unit prices on the items for periods of not to
+24 exceed twelve (12) months in the manner described in paragraph 2 of
+Req. No. 1632 Page 4
+
+1 this subsection. If the county purchasing agent receives a
+2 requisition for an item for which the county purchasing agent does
+3 not have a current bid, the county purchasing agent shall request
+4 from the Purchasing Division or the Information Services Division of
+5 the Office of Management and Enterprise Services, as applicable, all
+6 contracts quoting the price the state is paying for the item. The
+7 county purchasing agent shall either request the Purchasing Division
+8 or the Information Services Division of the Office of Management and
+9 Enterprise Services, as applicable, to make the purchase for the
+10 county or the county purchasing agent shall solicit bids in the
+11 manner described in paragraph 2 of this subsection. Nothing in this
+12 paragraph shall prohibit bids from being taken on an item currently
+13 on a twelve-month bid list, at any time deemed necessary by the
+14 county purchasing agent. Whenever the county purchasing agent deems
+15 it necessary to take a bid on an item currently on a twelve-month
+16 bid list, the reason for the bid shall be entered into the minutes
+17 of the board of county commissioners;
+18 2. Bids shall be solicited by mailing or emailing a notice to
+19 all persons or firms who have made a written request of the county
+20 purchasing agent that they be notified of such bid solicitation and
+21 to all other persons or firms who might reasonably be expected to
+22 submit bids. Notice of solicitation of bids shall also be published
+23 one time in a newspaper of general circulation in the county.
+24 Notices shall be mailed and published at least ten (10) days prior
+Req. No. 1632 Page 5
+
+1 to t he date on which the bids are opened. Proof of the mailing or
+2 emailing shall be made by the affidavit of the person mailing or
+3 emailing the request for bids and shall be made a part of the
+4 official records of the county purchasing agent. The notice shall
+5 specify whether the county will consider written bids, electronic
+6 bids, or both; the decision to exclusively consider either written
+7 bids or electronic bids shall be determined pursuant to an
+8 affirmative vote of the board of county commissioners. Whenever any
+9 prospective supplier or vendor dealing in or listing for sale any
+10 particular item or article required to be purchased or acquired by
+11 sealed bids fails to enter or offer a sealed bid for three
+12 successive bid solicitations, the name of the supplier or vendor may
+13 be dropped from the mailing lists of the board of county
+14 commissioners;
+15 3. The sealed bids received from vendors and the state contract
+16 price received from the applicable Purchasing Division of the Office
+17 of Management and Enterprise Services shall be given to the county
+18 clerk by the county purchasing agent. The county clerk shall
+19 forward the sealed bids and state contract price, if any, to the
+20 board of county commissioners;
+21 4. The board of county commissioners, in an open meeting, shall
+22 open the sealed bids and compare them to the state contract price.
+23 The board of county commissioners shall select the lowest and best
+24 bid based upon, if applicable, the availability of material and
+Req. No. 1632 Page 6
+
+1 tran sportation cost to the job site within thirty (30) days of the
+2 meeting. For any special item not included on the list of needed or
+3 commonly used items, the requisitioning official shall review the
+4 bids and submit a written recommendation to the board before final
+5 approval. The board of county commissioners shall keep a written
+6 record of the meeting as required by law, and any time the lowest
+7 bid was not considered to be the lowest and best bid, the reason for
+8 such conclusion shall be recorded. Whenever the board of county
+9 commissioners rejects the written recommendation of the
+10 requisitioning official pertaining to a special item, the reasons
+11 for the rejection shall be entered in their minutes and stated in a
+12 letter to the requisitioning official and county purchasing agent;
+13 5. The county purchasing agent shall notify the successful
+14 bidders and shall maintain a copy of the notification. The county
+15 purchasing agent shall prepare and maintain a vendors list
+16 specifying the successful bidders and shall notify each county
+17 officer of the list. The county purchasing agent may remove any
+18 vendor from such list who refuses to provide goods or services as
+19 provided by contract if the removal is authorized by the board of
+20 county commissioners. The county purchasing agent may make
+21 purchases from the successful bidders for a price at or below the
+22 bid price. If a vendor who is the low bidder cannot or will not
+23 sell goods or services as required by a county bid contract, the
+24 county purchasing agent may make a one-time purchase from the next
+Req. No. 1632 Page 7
+
+1 lowe st or best quote or take quotations as provided in paragraph 6
+2 of this subsection; provided, however, such purchase does not exceed
+3 Twenty-five Thousand Dollars ($25,000.00) as the amount specified in
+4 subparagraph a of paragraph 3 of subsection A of Section 1501 of
+5 this title; and
+6 6. When bids have been solicited as provided for by law and no
+7 bids have been received, the procedure shall be as follows:
+8 a. the county purchasing agent shall determine if
+9 potential vendors are willing to commit to a firm
+10 price for a reduced period of time, and, if such is
+11 the case, the bid procedure described in this
+12 subsection shall be followed,
+13 b. if vendors are not willing to commit to a firm price
+14 for a reduced period, the purchasing agent shall
+15 solicit and record at least three quotes of current
+16 prices available to the county and authorize the
+17 purchase of goods or services based on the lowest and
+18 best quote as it becomes necessary to acquire such
+19 goods or services. The quotes shall be recorded on a
+20 form prescribed by the State Auditor and Inspector and
+21 shall be attached to the purchase order and filed with
+22 the county clerk’s copy of the purchase order. Any
+23 time the lowest quote was not considered to be the
+24 lowest and best quote, the reason for this conclusion
+Req. No. 1632 Page 8
+
+1 shall be recorded by the county purchasing agent and
+2 transmitted to the county clerk, or
+3 c. if three quotes are not available, a memorandum to the
+4 county clerk from the county purchasing agent shall
+5 describe the basis upon which a purchase is
+6 authorized. The memorandum shall state the reasons
+7 why the price for such a purchase is the lowest and
+8 best under the circumstances. The county clerk shall
+9 then attach the memorandum to the county clerk’s copy
+10 of the purchase order and file both in the office of
+11 the county clerk.
+12 C. After selection of a vendor, the procedure for the purchase,
+13 lease-purchase, or rental of supplies, materials, road and bridge
+14 construction services, equipment, and information technology and
+15 telecommunication goods and services used by a county shall be as
+16 follows:
+17 1. The county purchasing agent shall prepare a purchase order
+18 in quadruplicate and submit it with a copy of the requisition to the
+19 county clerk;
+20 2. The county clerk shall then encumber the amount stated on
+21 the purchase order and assign a sequential number to the purchase
+22 order;
+23
+24
+Req. No. 1632 Page 9
+
+1 3. If there is an unencumbered balance in the appropriation
+2 made for that purpose by the county excise board, the county clerk
+3 shall so certify in the following form:
+4 “I hereby certify that the amount of this encumbrance has been
+5 entered against the designated appropriation accounts and that this
+6 encumbrance is within the authorized available balance of the
+7 appropriation.
+8 Dated this ________ day of ________, 20__.
+9 ________________________________
+10 County Clerk/Deputy
+11 of _____________________ County.”.
+12 In instances where it is impossible to ascertain the exact amount of
+13 the indebtedness sought to be incurred at the time of recording the
+14 encumbrance, an estimated amount may be used. No purchase order
+15 shall be valid unless signed by the county purchasing agent and
+16 certified by the county clerk; and
+17 4. The county clerk shall file the original purchase order and
+18 return three copies to the county purchasing agent who shall file a
+19 copy, retain a copy for the county road and bridge inventory officer
+20 if the purchase order is for the purchase of equipment, supplies, or
+21 materials for the construction or maintenance of roads and bridges,
+22 and submit the other copy to the receiving officer of the requesting
+23 department.
+24
+Req. No. 1632 Page 10
+
+1 D. 1. The procedure for the purchase of supplies, materials,
+2 equipment, and information technology and telecommunication goods
+3 and services at public auction or by sealed bid to be used by a
+4 county shall be as follows:
+5 a. the county purchasing agent shall prepare a purchase
+6 order in quadruplicate and submit it with a copy of
+7 the requisition to the county clerk,
+8 b. the county clerk shall then encumber the amount stated
+9 on the purchase order and assign a sequential number
+10 to the purchase order,
+11 c. if there is an unencumbered balance in the
+12 appropriation made for that purpose by the county
+13 excise board, the county clerk shall so certify in the
+14 following form:
+15 “I hereby certify that the amount of this encumbrance
+16 has been entered against the designated appropriation
+17 accounts and that this encumbrance is within the
+18 authorized available balance of the appropriation.
+19 Dated this ________ day of ________, 20__.
+20 ________________________________
+21 County Clerk/Deputy
+22 of _____________________ County.”.
+23 In instances where it is impossible to ascertain the
+24 exact amount of the indebtedness sought to be incurred
+Req. No. 1632 Page 11
+
+1 at the time of recording the encumbrance, an estimated
+2 amount may be used. No purchase order shall be valid
+3 unless signed by the county purchasing agent and
+4 certified by the county clerk, and
+5 d. the county clerk shall file the original purchase
+6 order and return three copies to the county purchasing
+7 agent who shall file a copy, retain a copy for the
+8 county road and bridge inventory officer if the
+9 purchase order is for the purchase of equipment,
+10 supplies, or materials for the construction or
+11 maintenance of roads and bridges, and submit the other
+12 copy to the receiving officer of the requesting
+13 department.
+14 2. The procedure for the purchase of supplies, materials, and
+15 equipment at a public auction when the purchase will be made with
+16 the proceeds from the sale of county property at the same public
+17 auction are is as follows:
+18 a. the purchasing agent shall cause such items being sold
+19 to be appraised in the manner determined in Section
+20 421.1 of this title,
+21 b. the county purchasing agent shall prepare a purchase
+22 order in quadruplicate and submit it with a copy of
+23 the requisition to the county clerk,
+24
+Req. No. 1632 Page 12
+
+1 c. the county clerk shall then encumber the amount of the
+2 appraised value and any additional funds obligated by
+3 the county on the purchase order and assign a
+4 sequential number to the purchase order,
+5 d. the county clerk shall certify that the amount of the
+6 encumbrance is equal to the appraised value of the
+7 item being sold plus any additional funds obligated by
+8 the county. In effect, the recording of the
+9 encumbrance is an estimate that is authorized by law.
+10 No purchase order shall be valid unless signed by the
+11 county purchasing agent and certified by the county
+12 clerk,
+13 e. the county clerk shall file the original purchase
+14 order and return three copies to the county purchasing
+15 agent who shall file a copy, retain a copy for the
+16 county road and bridge inventory officer if the
+17 purchase order is for the purchase of equipment,
+18 supplies, or materials for the construction or
+19 maintenance of roads and bridges, and submit the other
+20 copy to the receiving officer of the requesting
+21 department, and
+22 f. a purchase shall not be bid until such time that the
+23 appraised item or items are sold. Any item or items
+24 purchased shall not exceed the appraised value plus
+Req. No. 1632 Page 13
+
+1 any additional funds obligated by the county or the
+2 actual selling price of the item or items, whichever
+3 is the lesser amount.
+4 E. The procedure for the receipt of items shall be as follows:
+5 1. A receiving officer for the requesting department shall be
+6 responsible for receiving all items delivered to that department;
+7 2. Upon the delivery of an item, the receiving officer shall
+8 determine if a purchase order exists for the item being delivered;
+9 3. If no such purchase order has been provided, the receiving
+10 officer shall refuse delivery of the item;
+11 4. If a purchase order is on file, the receiving officer shall
+12 obtain a delivery ticket, bill of lading, or other delivery document
+13 and compare it with the purchase order. If any item is back-
+14 ordered, the back order and estimated date of delivery shall be
+15 noted in the receiving report;
+16 5. The receiving officer shall complete a receiving report in
+17 quadruplicate which shall state the quantity and quality of goods
+18 delivered. The receiving report form shall be prescribed by the
+19 State Auditor and Inspector. The person delivering the goods shall
+20 acknowledge the delivery by signature, noting the date and time;
+21 6. The receiving officer shall file the original receiving
+22 report and submit:
+23 a. a copy of the purchase order and a copy of the
+24 receiving report to the county purchasing agent, and
+Req. No. 1632 Page 14
+
+1 b. a copy of the receiving report with the delivery
+2 documentation to the county clerk;
+3 7. The county purchasing agent shall file a copy of the
+4 purchase order and a copy of the receiving report;
+5 8. Upon receipt of the original receiving report and the
+6 delivery documentation, the county clerk shall maintain a file until
+7 such time as an invoice is received from the vendor;
+8 9. The invoice shall state the name and address of the vendor
+9 and must be sufficiently itemized to clearly describe each item
+10 purchased, the unit price when applicable, the number or volume of
+11 each item purchased, the total price, the total purchase price, and
+12 the date of the purchase;
+13 10. Upon receipt of an invoice, the county clerk shall compare
+14 the following documents:
+15 a. requisition,
+16 b. purchase order,
+17 c. invoice with noncollusion affidavit as required by
+18 law,
+19 d. receiving report, and
+20 e. delivery document.
+21 The documents shall be available for public inspection during
+22 regular business hours; and
+23
+24
+Req. No. 1632 Page 15
+
+1 11. If the documents conform as to the quantity and quality of
+2 the items, the county clerk shall prepare a warrant for payment
+3 according to procedures provided for by law.
+4 F. The following procedures are for the processing of purchase
+5 orders:
+6 1. The purchasing agent shall be allowed up to three (3) days
+7 to process purchase orders to be presented to the board of county
+8 commissioners for consideration and payment. Nothing herein shall
+9 prevent the purchasing agent from processing or the board of county
+10 commissioners from consideration and payment of utilities, travel
+11 claims, and payroll claims;
+12 2. The board of county commissioners shall consider the
+13 purchase orders so presented and act upon the purchase orders, by
+14 allowing in full or in part or by holding for further information or
+15 disallowing the same. The disposition of purchase orders shall be
+16 indicated by the board of county commissioners, showing the amounts
+17 allowed or disallowed, and shall be signed by at least two members
+18 of the board of county commissioners. Any claim held over for
+19 further information shall be acted upon by allowing or disallowing
+20 same at any future meeting of the board held within seventy-five
+21 (75) days from the date of filing of the purchase order. Any
+22 purchase order not acted upon within the seventy-five (75) days from
+23 the date of filing shall be deemed to have been disallowed, but such
+24
+Req. No. 1632 Page 16
+
+1 disa llowance shall not prevent the refiling of the purchase order at
+2 the proper time; and
+3 3. Whenever any allowance, either in whole or in part, is made
+4 upon any purchase order presented to the board of county
+5 commissioners and is accepted by the person making the claim, such
+6 allowance shall be a full settlement of the entire purchase order
+7 and provided that the cashing of warrant shall be considered as
+8 acceptance by the claimant.
+9 G. The procedure upon consumption or disposal of supplies,
+10 materials, or equipment shall be as follows:
+11 1. For consumable road or bridge items or materials, a
+12 quarterly report of the road and bridge projects completed during
+13 such period shall be prepared and kept on file by the consuming
+14 department. The quarterly report may be prepared and kept
+15 electronically by the consuming department. The report shall
+16 contain a record of the date, the place, and the purpose for the use
+17 of the road or bridge items or materials. For purposes of
+18 identifying county bridges, the board of county commissioners shall
+19 number each bridge subject to its jurisdiction; and
+20 2. For disposal of all equipment and information technology and
+21 telecommunication goods which originally cost more than Five Hundred
+22 Dollars ($500.00), resolution of disposal shall be submitted by the
+23 officer on a form prescribed by the Office of the State Auditor and
+24 Inspector’s Office Inspector to the board of county commissioners.
+Req. No. 1632 Page 17
+
+1 The approval of the resolution of disposal shall be entered into the
+2 minutes of the board.
+3 H. Inventory forms and reports shall be retained for not less
+4 than two (2) years after all audit requirements for the state and
+5 federal government have been fulfilled and after any pending
+6 litigation involving the forms and reports has been resolved.
+7 I. The procedures provided for in this section shall not apply
+8 when a county officer certifies that an emergency exists requiring
+9 an immediate expenditure of funds. Such an expenditure of funds
+10 shall not exceed Five Thousand Dollars ($5,000.00). The county
+11 officer shall give the county purchasing agent a written explanation
+12 of the emergency. The county purchasing agent shall attach the
+13 written explanation to the purchase order. The purchases shall be
+14 paid by attaching a properly itemized invoice, as described in this
+15 section, to a purchase order which has been prepared by the county
+16 purchasing agent and submitting them to the county clerk for filing,
+17 encumbering, and consideration for payment by the board of county
+18 commissioners.
+19 J. The county purchasing agent may authorize county purchasing
+20 officers to make acquisitions through the state purchase card
+21 program as authorized by the State Purchasing Director in accordance
+22 with Section 85.5 of Title 74 of the Oklahoma Statutes and defined
+23 in Section 85.2 of Title 74 of the Oklahoma Statutes. Purchase
+24 cardholders A purchase cardholder shall sign a purchase card
+Req. No. 1632 Page 18
+
+1 agre ement prior to becoming a cardholder and attend purchase card
+2 procedure training as required by the State Purchasing Director.
+3 Complete descriptions of purchases made by county government
+4 entities shall be published through the state transparency portal
+5 pursuant to Section 85.33B of Title 74 of the Oklahoma Statutes, and
+6 as warrants required to be published pursuant to Sections 444 and
+7 445 of this title.
+8 K. Nothing in this section shall prohibit counties from
+9 providing material and/or services bids on the twelve-month bid list
+10 to all road and bridge projects and contracts. All non-road and
+11 bridge related construction contracts shall refer to subsection A of
+12 Section 103 of Title 61 of the Oklahoma Statutes.
+13 SECTION 3. AMENDATORY 62 O.S. 2021, Section 34.11.1, as
+14 amended by Section 1, Chapter 193, O.S.L. 2024 (62 O.S. Supp. 2024,
+15 Section 34.11.1), is amended to read as follows:
+16 Section 34.11.1. A. There is hereby created the position of
+17 Chief Information Officer who shall be appointed by the Governor.
+18 The Chief Information Officer, in addition to having authority over
+19 the Information Services Division of the Office of Management and
+20 Enterprise Services, shall also serve as Secretary of Information
+21 Technology and Telecommunications or successor cabinet position and
+22 shall have jurisdictional areas of responsibility related to
+23 information technology and telecommunications systems of all state
+24 agencies as provided for in state law. The salary of the Chief
+Req. No. 1632 Page 19
+
+1 Info rmation Officer shall not be less than One Hundred Thirty
+2 Thousand Dollars ($130,000.00) or more than One Hundred Sixty
+3 Thousand Dollars ($160,000.00).
+4 B. Any person appointed to the position of Chief Information
+5 Officer shall meet the following eligibility requirements:
+6 1. A baccalaureate degree in Computer Information Systems,
+7 Information Systems or Technology Management, Business
+8 Administration, Finance, or other similar degree;
+9 2. A minimum of ten (10) years of professional experience with
+10 responsibilities for management and support of information systems
+11 and information technology, including seven (7) years of direct
+12 management of a major information technology operation;
+13 3. Familiarity with local and wide-area wide area network
+14 design, implementation, and operation;
+15 4. Experience with data and voice convergence service
+16 offerings;
+17 5. Experience in developing technology budgets;
+18 6. Experience in developing requests for proposal and
+19 administering the bid process;
+20 7. Experience managing professional staff, teams, and
+21 consultants;
+22 8. Knowledge of telecommunications operations;
+23
+24
+Req. No. 1632 Page 20
+
+1 9. Ability to develop and set strategic direction for
+2 information technology and telecommunications and to manage daily
+3 development and operations functions;
+4 10. An effective communicator who is able to build consensus;
+5 11. Ability to analyze and resolve complex issues, both logical
+6 and interpersonal;
+7 12. Effective verbal and written communications skills and
+8 effective presentation skills, geared toward coordination and
+9 education;
+10 13. Ability to negotiate and defuse conflict; and
+11 14. A self-motivator, independent, cooperative, flexible and
+12 creative.
+13 C. The salary and any other expenses for the Chief Information
+14 Officer shall be budgeted as a separate line item through the Office
+15 of Management and Enterprise Services. The operating expenses of
+16 the Information Services Division shall be set by the Chief
+17 Information Officer and shall be budgeted as a separate line item
+18 through the Office of Management and Enterprise Services. The
+19 Office of Management and Enterprise Services shall provide adequate
+20 office space, equipment and support necessary to enable the Chief
+21 Information Officer to carry out the information technology and
+22 telecommunications duties and responsibilities of the Chief
+23 Information Officer and the Information Services Division.
+24
+Req. No. 1632 Page 21
+
+1 D. 1. Within twelve (12) months of appointment, the first
+2 Chief Information Officer shall complete an assessment, which shall
+3 be modified annually pursuant to Section 35.5 of this title, of the
+4 implementation of the transfer, coordination, and modernization of
+5 all information technology and telecommunication systems of all
+6 state agencies in the state as provided for in the Oklahoma
+7 Information Services Act. The assessment shall include the
+8 information technology and telecommunications systems of all
+9 institutions within The Oklahoma State System of Higher Education,
+10 the Oklahoma State Regents for Higher Education and the
+11 telecommunications network known as OneNet as assembled and
+12 submitted by the Oklahoma Higher Education Chief Information
+13 Officer, as designated by the Oklahoma State Regents for Higher
+14 Education.
+15 2. Within twelve (12) months of appointment, the first Chief
+16 Information Officer shall issue a report setting out a plan of
+17 action which will include the following:
+18 a. define the shared service model organization structure
+19 and the reporting relationship of the recommended
+20 organization,
+21 b. the implementation of an information technology and
+22 telecommunications shared services model that defines
+23 the statewide infrastructure environment needed by
+24 most state agencies that is not specific to individual
+Req. No. 1632 Page 22
+
+1 agencies and the shared applications that are utilized
+2 across multiple agencies,
+3 c. define the services that shall be in the shared
+4 services model under the control of the Information
+5 Services Division of the Office of Management and
+6 Enterprise Services,
+7 d. define the roadmap to implement the proposed shared
+8 services model. The roadmap shall include
+9 recommendations on the transfer, coordination, and
+10 modernization of all information technology and
+11 telecommunication systems of all the state agencies in
+12 the state,
+13 e. recommendations on the reallocation of information
+14 technology and telecommunication resources and
+15 personnel,
+16 f. a cost benefit analysis to support the recommendations
+17 on the reallocation of information technology and
+18 telecommunication resources and personnel,
+19 g. a calculation of the net savings realized through the
+20 reallocation and consolidation of information
+21 technology and telecommunication resources and
+22 personnel after compensating for the cost of
+23 contracting with a private consultant as authorized in
+24 paragraph 4 of this subsection, implementing the plan
+Req. No. 1632 Page 23
+
+1 of action, and ongoing costs of the Information
+2 Services Division of the Office of Management and
+3 Enterprise Services, and
+4 h. the information required in subsection B of Section
+5 35.5 of this title.
+6 3. The plan of action report shall be presented to the
+7 Governor, Speaker of the Oklahoma House of Representatives, and the
+8 President Pro Tempore of the Oklahoma State Senate.
+9 4. The Chief Information Officer may contract with a private
+10 consultant or consultants to assist in the assessment and
+11 development of the plan of action report as required in this
+12 subsection.
+13 E. The Chief Information Officer shall be authorized to employ
+14 personnel, fix the duties and compensation of the personnel, not
+15 otherwise prescribed by law, and otherwise direct the work of the
+16 personnel in performing the function and accomplishing the purposes
+17 of the Information Services Division of the Office of Management and
+18 Enterprise Services.
+19 F. E. The Information Services Division of the Office of
+20 Management and Enterprise Services shall be responsible for the
+21 following duties: cybersecurity duties and services to state
+22 agencies and political subdivisions.
+23 1. Formulate and implement the information technology strategy
+24 for all state agencies;
+Req. No. 1632 Page 24
+
+1 2. Define, design, and implement a shared services statewide
+2 infrastructure and application environment for information
+3 technology and telecommunications for all state agencies;
+4 3. Direct the development and operation of a scalable
+5 telecommunications infrastructure that supports data and voice
+6 communications reliability, integrity, and security;
+7 4. Supervise the applications development process for those
+8 applications that are utilized across multiple agencies;
+9 5. Provide direction for the professional development of
+10 information technology staff of state agencies and oversee the
+11 professional development of the staff of the Information Services
+12 Division of the Office of Management and Enterprise Services;
+13 6. Evaluate all technology and telecommunication investment
+14 choices for all state agencies;
+15 7. Create a plan to ensure alignment of current systems, tools,
+16 and processes with the strategic information technology plan for all
+17 state agencies;
+18 8. Set direction and provide oversight for the support and
+19 continuous upgrading of the current information technology and
+20 telecommunication infrastructure in the state in support of enhanced
+21 reliability, user service levels, and security;
+22 9. Direct the development, implementation, and management of
+23 appropriate standards, policies and procedures to ensure the success
+24 of state information technology and telecommunication initiatives;
+Req. No. 1632 Page 25
+
+1 10. Recruit, hire and transfer the required technical staff in
+2 the Information Services Division of the Office of Management and
+3 Enterprise Services to support the services provided by the Division
+4 and the execution of the strategic information technology plan;
+5 11. Establish, maintain, and enforce information technology and
+6 telecommunication standards;
+7 12. Delegate, coordinate, and review all work to ensure quality
+8 and efficient operation of the Information Services Division of the
+9 Office of Management and Enterprise Services;
+10 13. Create and implement a communication plan that disseminates
+11 pertinent information to state agencies on standards, policies,
+12 procedures, service levels, project status, and other important
+13 information to customers of the Information Services Division of the
+14 Office of Management and Enterprise Services and provide for agency
+15 feedback and performance evaluation by customers of the Division;
+16 14. Develop and implement training programs for state agencies
+17 using the shared services of the Information Services Division of
+18 the Office of Management and Enterprise Services and recommend
+19 training programs to state agencies on information technology and
+20 telecommunication systems, products and procedures;
+21 15. Provide counseling, performance evaluation, training,
+22 motivation, discipline, and assign duties for employees of the
+23 Information Services Division of the Office of Management and
+24 Enterprise Services;
+Req. No. 1632 Page 26
+
+1 16. For all state agencies, approve the purchasing of all
+2 information technology and telecommunication services and approve
+3 the purchase of any information technology and telecommunication
+4 product except the following:
+5 a. a purchase less than or equal to Five Thousand Dollars
+6 ($5,000.00) if such product is purchased using a state
+7 purchase card and the product is listed on either the
+8 Approved Hardware or Approved Software list located on
+9 the Office of Management and Enterprise Services
+10 website, or
+11 b. a purchase over Five Thousand Dollars ($5,000.00) and
+12 less than or equal to Twenty-five Thousand Dollars
+13 ($25,000.00) if such product is purchased using a
+14 state purchase card, the product is listed on an
+15 information technology or telecommunications statewide
+16 contract, and the product is listed on either the
+17 Approved Hardware or Approved Software list located on
+18 the Office of Management and Enterprise Services
+19 website;
+20 17. Develop and enforce an overall infrastructure architecture
+21 strategy and associated roadmaps for desktop, network, server,
+22 storage, and statewide management systems for state agencies;
+23 18. Effectively manage the design, implementation and support
+24 of complex, highly available infrastructure to ensure optimal
+Req. No. 1632 Page 27
+
+1 perf ormance, on-time delivery of features, and new products, and
+2 scalable growth;
+3 19. Define and implement a governance model for requesting
+4 services and monitoring service level metrics for all shared
+5 services; and
+6 20. Create the budget for the Information Services Division of
+7 the Office of Management and Enterprise Services to be submitted to
+8 the Legislature each year.
+9 G. The State Governmental Technology Applications Review Board
+10 shall provide ongoing oversight of the implementation of the plan of
+11 action required in subsection D of this section. Any proposed
+12 amendments to the plan of action shall be approved by the Board
+13 prior to adoption.
+14 H. 1. The Chief Information Officer shall act as the
+15 Information Technology and Telecommunications Purchasing Director
+16 for all state agencies and shall be responsible for the procurement
+17 of all information technology and telecommunication software,
+18 hardware, equipment, peripheral devices, maintenance, consulting
+19 services, high technology systems, and other related information
+20 technology, data processing, telecommunication and related
+21 peripherals and services for all state agencies. The Chief
+22 Information Officer shall establish, implement, and enforce policies
+23 and procedures for the procurement of information technology and
+24 telecommunication software, hardware, equipment, peripheral devices,
+Req. No. 1632 Page 28
+
+1 main tenance, consulting services, high technology systems, and other
+2 related information technology, data processing, telecommunication
+3 and related peripherals and services by purchase, lease-purchase,
+4 lease with option to purchase, lease and rental for all state
+5 agencies. The procurement policies and procedures established by
+6 the Chief Information Officer shall be consistent with The Oklahoma
+7 Central Purchasing Act.
+8 2. The Chief Information Officer, or any employee or agent of
+9 the Chief Information Officer acting within the scope of delegated
+10 authority, shall have the same power and authority regarding the
+11 procurement of all information technology and telecommunication
+12 products and services as outlined in paragraph 1 of this subsection
+13 for all state agencies as the State Purchasing Director has for all
+14 acquisitions used or consumed by state agencies as established in
+15 The Oklahoma Central Purchasing Act. Such authority shall,
+16 consistent with the authority granted to the State Purchasing
+17 Director pursuant to Section 85.10 of Title 74 of the Oklahoma
+18 Statutes, include the power to designate financial or proprietary
+19 information submitted by a bidder confidential and reject all
+20 requests to disclose the information so designated, if the Chief
+21 Information Officer requires the bidder to submit the financial or
+22 proprietary information with a bid, proposal, or quotation.
+23 I. The Information Services Division of the Office of
+24 Management and Enterprise Services and the Chief Information Officer
+Req. No. 1632 Page 29
+
+1 shal l be subject to the Oklahoma Central Purchasing Act for the
+2 approval and purchase of all equipment, products, and services and
+3 shall also be subject to the requirements of the Public Competitive
+4 Bidding Act of 1974, the Oklahoma Lighting Energy Conservation Act
+5 and the Public Building Construction and Planning Act. The Chief
+6 Information Officer shall be authorized to delegate all or some of
+7 the procurement of information technology and telecommunication
+8 products and services and construction of facilities and
+9 telecommunication networks to another state entity if the Chief
+10 Information Officer determines it to be cost-effective and in the
+11 best interest of the state. The Chief Information Officer shall
+12 have authority to designate information technology and
+13 telecommunication contracts as statewide contracts and mandatory
+14 statewide contracts pursuant to Section 85.5 of Title 74 of the
+15 Oklahoma Statutes and to negotiate consolidation contracts,
+16 enterprise agreements and high technology systems contracts. Any
+17 contract entered into by a state agency for which the Chief
+18 Information Officer has not acted as the Information Technology and
+19 Telecommunications Purchasing Director as required in this
+20 subsection or subsection H of this section, shall be deemed to be
+21 unenforceable and the Office of Management and Enterprise Services
+22 shall not process any claim associated with the provisions thereof.
+23 J. F. The Chief Information Officer shall establish, implement,
+24 and enforce policies and procedure for the development and
+Req. No. 1632 Page 30
+
+1 proc urement of an interoperable radio communications system for
+2 state agencies. The Chief Information Officer shall work with local
+3 governmental entities in developing the interoperable radio
+4 communications system.
+5 K. G. The Chief Information Officer shall develop and implement
+6 a plan to utilize open source technology and products for the
+7 information technology and telecommunication systems of all state
+8 agencies.
+9 L. H. All state agencies and authorities of this state and all
+10 officers and employees of those entities shall work and cooperate
+11 with and lend assistance to the Chief Information Officer and the
+12 Information Services Division of the Office of Management and
+13 Enterprise Services and provide any and all information requested by
+14 the Chief Information Officer.
+15 M. The Chief Information Officer shall prepare an annual report
+16 detailing the ongoing net saving attributable to the reallocation
+17 and consolidation of information technology and telecommunication
+18 resources and personnel and shall submit the report to the Governor,
+19 the Speaker of the Oklahoma House of Representatives, and the
+20 President Pro Tempore of the Oklahoma State Senate.
+21 N. For purposes of the Oklahoma Information Services Act,
+22 unless otherwise provided for, “state agencies” shall include any
+23 office, officer, bureau, board, commission, counsel, unit, division,
+24 body, authority or institution of the executive branch of state
+Req. No. 1632 Page 31
+
+1 gove rnment, whether elected or appointed; provided, except with
+2 respect to the provisions of subsection D of this section, the term
+3 “state agencies” shall not include institutions within The Oklahoma
+4 State System of Higher Education, the Oklahoma State Regents for
+5 Higher Education and the telecommunications network known as OneNet.
+6 O. As used in this section:
+7 1. “High technology system” means advanced technological
+8 equipment, software, communication lines, and services for the
+9 processing, storing, and retrieval of information by a state agency;
+10 2. “Consolidation contract” means a contract for several state
+11 or public agencies for the purpose of purchasing information
+12 technology and telecommunication goods and services; and
+13 3. “Enterprise agreement” means an agreement for information
+14 technology or telecommunication goods and services with a supplier
+15 who manufactures, develops and designs products and provides
+16 services that are used by one or more state agencies.
+17 SECTION 4. AMENDATORY 62 O.S. 2021, Section 34.20.1, is
+18 amended to read as follows:
+19 Section 34.20.1. A. The Office of Management and Enterprise
+20 Services shall recognize as a statewide contract an unencumbered
+21 contract consummated in on behalf of the telecommunications network
+22 known as OneNet by the Oklahoma State Regents for Higher Education
+23 or any other state entity assigned responsibility for OneNet;
+24 provided, said recognition shall require recommendation by the
+Req. No. 1632 Page 32
+
+1 Info rmation Services Division of the Office of Management and
+2 Enterprise Services. The Office of Management and Enterprise
+3 Services shall not subject purchases pursuant to said such contracts
+4 to any quantity limit.
+5 B. For purchases that require review of the purchase
+6 requisition by the Information Services Division of the Office of
+7 Management and Enterprise Services and that are not available on a
+8 statewide contract but are available from a General Services
+9 Administration (GSA) schedule or contract, or are available from a
+10 GSA schedule or contract at a lesser price than from a state
+11 contract, state agencies may, with the approval of the Information
+12 Services Division, purchase from the vendor or vendors on the GSA
+13 schedule or contract.
+14 C. The Oklahoma State Regents for Higher Education and any
+15 other state entity assigned responsibility for OneNet are authorized
+16 to negotiate for education or government discounts from published
+17 price listings and to make contracts at such prices subject to
+18 adjustment for price increases nationally published.
+19 SECTION 5. AMENDATORY 62 O.S. 2021, Section 34.23, is
+20 amended to read as follows:
+21 Section 34.23. A. There is hereby created a wide area
+22 telecommunications network to be known and referred to as the
+23 “Oklahoma Government Telecommunications Network (OGTN)”. The OGTN
+24
+Req. No. 1632 Page 33
+
+1 shal l consist of the telecommunications systems and networks of
+2 educational entities and agencies of state government.
+3 B. Notwithstanding the provisions of subsection A of this
+4 section:
+5 1. The Oklahoma State Regents for Higher Education may continue
+6 to operate, maintain and enhance the State Regents Educational
+7 Telecommunications Network, subject to the provisions of the
+8 Oklahoma Information Services Act known as OneNet. The Oklahoma
+9 State Regents for Higher Education shall submit all plans for the
+10 enhancement of the State Regents Educational Telecommunications
+11 Network OneNet to the Information Services Division of the Office of
+12 Management and Enterprise Services (OMES) for review and approval
+13 within the context of the statewide telecommunications network
+14 provided for in subsection C of this section and shall participate
+15 with the Information Services Division in joint efforts to provide
+16 services for the OGTN; and
+17 2. The Department of Public Safety may continue to operate,
+18 maintain and enhance the statewide law enforcement data
+19 communications network provided for in Section 2-124 of Title 47 of
+20 the Oklahoma Statutes, subject to the provisions of the Oklahoma
+21 Information Services Act. The Department of Public Safety shall
+22 submit all plans for the enhancement of the statewide law
+23 enforcement data communications network to the Information Services
+24 Division of the Office of Management and Enterprise Services for
+Req. No. 1632 Page 34
+
+1 revi ew and approval and shall participate with the Information
+2 Services Division in joint efforts to provide services for the OGTN.
+3 C. The Information Services Division Office of Management and
+4 Enterprise Services shall be responsible for developing, operating
+5 and maintaining the OGTN. The purposes of the OGTN shall include
+6 the following:
+7 1. Development of a comprehensive, unified statewide
+8 telecommunications network to effectively, efficiently, and securely
+9 meet the communication needs of educational entities and agencies of
+10 state government;
+11 2. Effective and efficient utilization of existing
+12 telecommunications systems operated by educational entities and
+13 agencies of state government; and
+14 3. Elimination and prevention of unnecessarily duplicative
+15 telecommunications systems operated by educational entities and
+16 agencies of state government.
+17 D. In developing, operating and maintaining the OGTN, the
+18 Information Services Division OMES shall:
+19 1. Develop a statewide master plan for meeting the
+20 communications needs of educational entities and of agencies of
+21 state government. To facilitate the development of a statewide
+22 master plan as provided for in this paragraph:
+23 a. the Oklahoma State Regents for Higher Education shall
+24 submit a report annually to the Chief Information
+Req. No. 1632 Page 35
+
+1 Officer identifying the telecommunications plans of
+2 each member of The Oklahoma State System of Higher
+3 Education. For purposes of developing such report,
+4 each member shall cooperate with and submit to the
+5 State Regents a plan of its telecommunications needs,
+6 including, but not limited to, Internet, eGovernment,
+7 as referenced in Sections 34.24 and 34.25 of this
+8 title, any interactive video plans, the purchase of
+9 informational data bases, software for manipulation of
+10 bibliographic records, and the use of
+11 telecommunications equipment or services,
+12 b. the State Superintendent of Public Instruction shall
+13 submit a report annually to the Chief Information
+14 Officer identifying the telecommunications plans of
+15 the public common school system of the state. For
+16 purposes of developing such report, the respective
+17 public elementary and secondary schools shall
+18 cooperate with and submit to the State Superintendent
+19 a plan of their telecommunications needs, including,
+20 but not limited to, Internet, eGovernment, any
+21 interactive video plans, the purchase of informational
+22 data bases, software for manipulation of bibliographic
+23 records, and the use of telecommunications equipment
+24 or services,
+Req. No. 1632 Page 36
+
+1 c. the Director of the Oklahoma Department of Career and
+2 Technology Education shall submit a report annually to
+3 the Chief Information Officer identifying the
+4 telecommunications plans of technology center school
+5 districts. For purposes of developing such report,
+6 each technology center school district as defined in
+7 Section 14-108 of Title 70 of the Oklahoma Statutes
+8 shall cooperate with and submit to the Director of the
+9 Oklahoma Department of Career and Technology Education
+10 a plan of its telecommunications needs, including, but
+11 not limited to, Internet, eGovernment, any interactive
+12 video plans, the purchase of informational data bases,
+13 software for manipulation of bibliographic records,
+14 and the use of telecommunications equipment or
+15 services,
+16 d. the chief administrative officer of each state agency
+17 of the executive branch shall submit a plan annually
+18 to the Chief Information Officer identifying the
+19 telecommunications needs of the state agency,
+20 including, but not limited to, Internet, eGovernment,
+21 any interactive video plans, the purchase of
+22 informational data bases, software for manipulation of
+23 bibliographic records, and the use of
+24 telecommunications equipment or services, and
+Req. No. 1632 Page 37
+
+1 e. the Director of the Oklahoma Department of Libraries
+2 shall submit a report annually to the Chief
+3 Information Officer identifying the telecommunications
+4 plans of public libraries and public library systems.
+5 For purposes of developing such report, the chief
+6 administrative officer of any public library or public
+7 library system not otherwise required to submit a plan
+8 of its telecommunications needs pursuant to the
+9 provisions of this paragraph shall cooperate with and
+10 submit annually to the Director of the Oklahoma
+11 Department of Libraries a plan of its
+12 telecommunications needs, including, but not limited
+13 to, Internet, eGovernment, any interactive video
+14 plans, the purchase of informational data bases,
+15 software for manipulation of bibliographic records,
+16 and the use of telecommunications equipment or
+17 services. To assure inclusion in the report of the
+18 plans of the telecommunications needs of any library
+19 that is a part of any member of The Oklahoma State
+20 System of Higher Education, a public elementary or
+21 secondary school, or technology center school
+22 district, all such plans relating to libraries
+23 received by the Oklahoma State Regents for Higher
+24 Education, the State Superintendent of Higher
+Req. No. 1632 Page 38
+
+1 Education Public Instruction, and the State Director
+2 of the Oklahoma Department of Career and Technology
+3 Education shall be submitted to the Director of the
+4 Oklahoma Department of Libraries by the respective
+5 recipients thereof as soon as practicable after
+6 receipt. The Director of the Oklahoma Department of
+7 Libraries shall certify to the Information Services
+8 Division that such plans are consistent with the plan
+9 developed by the Oklahoma Library Technology Network
+10 or explain any inconsistencies therewith;
+11 2. Identify the most cost-effective means of meeting the
+12 telecommunications needs of educational entities and of agencies of
+13 state government;
+14 3. Develop minimum mandatory standards and protocols for
+15 equipment, facilities and services of the OGTN;
+16 4. Evaluate the advantages and disadvantages of utilizing
+17 equipment, facilities, and services of both private entities and
+18 those owned and operated by the state; and
+19 5. Recommend a fee structure to provide for the operation and
+20 maintenance of the OGTN.
+21 SECTION 6. AMENDATORY 62 O.S. 2021, Section 34.24, is
+22 amended to read as follows:
+23 Section 34.24. A. In order to be at the forefront of
+24 electronic commerce and provide constituents, agencies and out-of-
+Req. No. 1632 Page 39
+
+1 stat e users with state-of-the-art electronic commerce and Internet
+2 tools, the State of Oklahoma state recognizes the need for a state
+3 portal system connecting state agency websites and information
+4 systems.
+5 B. The Information Services Division of the Office of
+6 Management and Enterprise Services shall manage the installation,
+7 maintenance and administration of the state portal system.
+8 C. For purposes of this section and Section 34.27 of this
+9 title, a “portal system” shall mean a system that hosts and connects
+10 to a collection of online government and public services and serves
+11 as the single point of access to state government services,
+12 information, and transaction processing with a common enterprise
+13 wide user interface allowing navigation among the services.
+14 SECTION 7. AMENDATORY 62 O.S. 2021, Section 34.27, is
+15 amended to read as follows:
+16 Section 34.27. A. There is hereby established the State
+17 Governmental Technology Applications Review Board. The Board shall
+18 be composed of the following members:
+19 1. The Director of the Office of Management and Enterprise
+20 Services or a designee;
+21 2. Four representatives from different state agencies, boards,
+22 commissions, or authorities to be appointed by the Governor, at
+23 least one of which shall be employed by a law enforcement agency;
+24
+Req. No. 1632 Page 40
+
+1 3. Two members who are not state government employees to be
+2 appointed by the Speaker of the House of Representatives; and
+3 4. Two members who are not state government employees to be
+4 appointed by the President Pro Tempore of the Senate.
+5 B. Members of the Board shall serve for terms of two (2) years.
+6 The Board shall select a chair from among its members.
+7 C. Members of the Board shall not receive compensation for
+8 serving on the Board, but shall be reimbursed for travel expenses
+9 incurred in the performance of their duties by their respective
+10 agencies or appointing authority in accordance with the State Travel
+11 Reimbursement Act.
+12 D. Notwithstanding any other section of law, any member of the
+13 Board attending a meeting via teleconference shall be counted as
+14 being present in person and shall count toward the determination of
+15 whether a quorum of the Board is present at the meeting.
+16 E. The Board shall have the duty and responsibility of:
+17 1. Reviewing for approval all convenience fees and merchant
+18 fees as defined in Section 34.25 of this title and changes in
+19 convenience fees and merchant fees charged by state agencies,
+20 boards, commissions, or authorities;
+21 2. Monitoring all portal systems and applications for portal
+22 systems created by state agencies, boards, commissions, or
+23 authorities, reviewing portal systems applications approved or
+24 denied by the Information Services Division of the Office of
+Req. No. 1632 Page 41
+
+1 Mana gement and Enterprise Services, and making recommendations to
+2 the Legislature and Governor to encourage greater use of the open-
+3 systems concept as is defined in Section 34.26 of this title;
+4 3. Granting an exemption for a specific license or permit to a
+5 state agency from the requirements of Section 34.24.1 of this title.
+6 The exemption shall be limited in time as warranted by the
+7 circumstances. The Board shall grant the exemption only if
+8 presented compelling evidence that the issuance of the license or
+9 permit requires the provision of information that cannot be provided
+10 through an online licensing or permitting process and that the
+11 failure of the applicant to provide the information would create a
+12 significant risk to the integrity of the license or permit. The
+13 exemption provided for in this paragraph shall not apply to license
+14 renewals pursuant to the Oklahoma Vehicle License and Registration
+15 Act;
+16 4. Providing ongoing oversight of implementation of the plan of
+17 action developed by the Chief Information Officer pursuant to
+18 Section 34.11.1 of this title and approving any amendments to the
+19 plan of action;
+20 5. Approving charges to state agencies established by the
+21 Information Services Division pursuant to Section 35.5 of this title
+22 for shared services as defined in Section 35.3 of this title;
+23 6. Functioning in an advisory capacity to the Chief Information
+24 Officer; and
+Req. No. 1632 Page 42
+
+1 7. 5. Approving a plan by which public elementary and secondary
+2 schools of the state may recover the cost of instructional
+3 technology resources issued by the schools.
+4 SECTION 8. AMENDATORY 62 O.S. 2021, Section 34.31, is
+5 amended to read as follows:
+6 Section 34.31. A. No state agency, as defined by Section 250.3
+7 of Title 75 of the Oklahoma Statutes in subsection E of this
+8 section, nor the Purchasing Division of the Office of Management and
+9 Enterprise Services nor the Information Services Division of the
+10 Office of Management and Enterprise Services, unless otherwise
+11 provided by federal law, shall enter into a contract for the
+12 acquisition of customized computer software developed or modified
+13 exclusively for the agency or the state, unless the vendor agrees to
+14 place into escrow with an independent third party the source code
+15 for the software and/or modifications.
+16 B. The vendor must agree to place the source code for the
+17 software and any upgrades supplied to an agency in escrow with a
+18 third party acceptable to the agency and to enter into a customary
+19 source code escrow agreement which includes a provision that
+20 entitles the agency to receive everything held in escrow upon the
+21 occurrence of any of the following:
+22 1. A bona fide material default of the obligations of the
+23 vendor under the agreement with the agency;
+24
+Req. No. 1632 Page 43
+
+1 2. An assignment by the vendor for the benefit of its
+2 creditors;
+3 3. A failure by the vendor to pay, or an admission by the
+4 vendor of its inability to pay, its debts as they mature;
+5 4. The filing of a petition in bankruptcy by or against the
+6 vendor when such petition is not dismissed within sixty (60) days of
+7 the filing date;
+8 5. The appointment of a receiver, liquidator or trustee
+9 appointed for any substantial part of the vendor’s property;
+10 6. The inability or unwillingness of the vendor to provide the
+11 maintenance and support services in accordance with the agreement
+12 with the agency; or
+13 7. The ceasing of a vendor of maintenance and support of the
+14 software.
+15 The fees of any third-party escrow agent subject to this section
+16 shall be borne by the vendor.
+17 C. The State Purchasing Director or a procurement officer of a
+18 state agency shall not process any state agency request for the
+19 customization, modernization, or development of computer software
+20 unless the proposed vendor provides documentation that complies with
+21 subsections A and B of this section.
+22 D. The State Purchasing Director shall provide advice and
+23 assistance, as may be required, in order for state agencies to
+24 comply with the provisions of this section.
+Req. No. 1632 Page 44
+
+1 E. As used in this section:
+2 1. “State agency” shall include all state agencies, whether
+3 subject to The the Oklahoma Central Purchasing Act or not, except
+4 the Oklahoma Lottery Commission; and
+5 2. “Source code” means the programming instruction for a
+6 computer program in its original form, created by a programmer with
+7 a text editor or a visual programming tool and saved in a file.
+8 SECTION 9. AMENDATORY 62 O.S. 2021, Section 34.32, as
+9 amended by Section 25, Chapter 228, O.S.L. 2022 (62 O.S. Supp. 2024,
+10 Section 34.32), is amended to read as follows:
+11 Section 34.32. A. The Information Services Division of the
+12 Office of Management and Enterprise Services shall create a standard
+13 security risk assessment for state agency information technology
+14 systems that complies with the International Organization for
+15 Standardization (ISO) and the International Electrotechnical
+16 Commission (IEC) Information Technology - Code of Practice for
+17 Security Management Information security, cybersecurity and privacy
+18 protection – Information security controls (ISO/IEC 27002).
+19 B. Each state agency that has an information technology system
+20 shall obtain an information security risk assessment to identify
+21 vulnerabilities associated with the information system. The
+22 Information Services Division of the Office of Management and
+23 Enterprise Services shall approve not less than two firms which
+24
+Req. No. 1632 Page 45
+
+1 stat e agencies may choose from to conduct the information security
+2 risk assessment.
+3 C. A state agency with an information technology system that is
+4 not consolidated under the Information Technology Consolidation and
+5 Coordination Act or that is otherwise retained by the agency shall
+6 additionally be required to have an information security audit
+7 conducted by a firm approved by the Information Services Division
+8 that is based upon the most current version of the NIST Cyber-
+9 Security Cybersecurity Framework, and shall submit a final report of
+10 the information security risk assessment and information security
+11 audit findings to the Information Services Division each year on a
+12 schedule set by the Information Services Division. Agencies shall
+13 also submit a list of remedies and a timeline for the repair of any
+14 deficiencies to the Information Services Division within ten (10)
+15 days of the completion of the audit. The final information security
+16 risk assessment report shall identify, prioritize, and document
+17 information security vulnerabilities for each of the state agencies
+18 assessed. The Information Services Division may assist agencies in
+19 repairing any vulnerabilities to ensure compliance in a timely
+20 manner.
+21 D. Subject to the provisions of subsection C of Section 34.12
+22 of this title, the Information Services Division shall report the
+23 results of the state agency assessments and information security
+24 audit findings required pursuant to this section to the Governor,
+Req. No. 1632 Page 46
+
+1 the Speaker of the House of Representatives, and the President Pro
+2 Tempore of the Senate by the first day of January of each year. Any
+3 state agency with an information technology system that is not
+4 consolidated under the Information Technology Consolidation and
+5 Coordination Act that cannot comply with the provisions of this
+6 section shall consolidate under the Information Technology
+7 Consolidation and Coordination Act.
+8 E. This section shall not apply to state agencies subject to
+9 mandatory North American Electric Reliability Corporation (NERC)
+10 cybersecurity standards and institutions within The Oklahoma State
+11 System of Higher Education, the Social Security Disability
+12 Determination Services Division of the State Department of
+13 Rehabilitation Services, and the Oklahoma State Regents for Higher
+14 Education and the telecommunications network known as OneNet that
+15 follow the International Organization for Standardization (ISO), the
+16 Oklahoma Military Department (OMD) of the State of Oklahoma, and the
+17 International Electrotechnical Commission (IEC)-Security techniques-
+18 Code of Practice for Information Security Controls Information
+19 security, cybersecurity and privacy protection – Information
+20 security controls or National Institute of Standards and Technology.
+21 SECTION 10. AMENDATORY 74 O.S. 2021, Section 85.5, as
+22 amended by Section 1, Chapter 102, O.S.L. 2024 (74 O.S. Supp. 2024,
+23 Section 85.5), is amended to read as follows:
+24
+Req. No. 1632 Page 47
+
+1 Section 85.5. A. Except as otherwise provided in this section,
+2 the State Purchasing Director, under the supervision of the Director
+3 of the Office of Management and Enterprise Services, shall have sole
+4 and exclusive authority and responsibility for all acquisitions by
+5 state agencies. In order to carry out the powers and duties of the
+6 Chief Information Officer and the Information Services Division, the
+7 Chief Information Officer shall have sole and exclusive authority
+8 and responsibility for all acquisitions of information and
+9 telecommunications technology, equipment, software, products and
+10 related peripherals and services by state agencies. Public
+11 construction contracts are awarded pursuant to Title 61 of the
+12 Oklahoma Statutes and are not subject to the Oklahoma Central
+13 Purchasing Act.
+14 B. Every state agency shall determine its own quantitative
+15 needs for acquisitions and the general class or nature of the
+16 acquisitions. The State Purchasing Director, after consultation
+17 with the requisitioning state agency, shall have authority to
+18 determine the particular brand, model or other specific
+19 classification of each acquisition and to draft or invoke pursuant
+20 to the Oklahoma Central Purchasing Act specifications establishing
+21 the requirements for all necessary contracts or purchase orders.
+22 C. The Director of the Office of Management and Enterprise
+23 Services shall have authority and responsibility to promulgate rules
+24
+Req. No. 1632 Page 48
+
+1 in c onnection with provisions of the Oklahoma Central Purchasing Act
+2 for:
+3 1. The time, manner, authentication and form of making
+4 requisitions for acquisitions;
+5 2. Inspection, analysis and testing of acquisitions or samples
+6 bidders submit prior to contract award;
+7 3. The form and manner of submission for bids or proposals a
+8 bidder submits and the manner of accepting and opening bids or
+9 proposals;
+10 4. The conditions under which the Office of Management and
+11 Enterprise Services shall require written contracts for
+12 acquisitions, the conditions under which acquisitions may be made on
+13 an open account basis, and the conditions and manner of negotiating
+14 such contracts;
+15 5. Obtaining acquisitions produced by state institutions;
+16 6. Conditions under which any of the rules herein authorized
+17 may be waived;
+18 7. The amounts of and deposits on any bond or other surety
+19 required to be submitted with a bid or contract for the furnishing
+20 of acquisitions and the conditions under which such bond or other
+21 surety shall be required;
+22 8. The manner and conditions of delivery, which shall include
+23 the designation of the common carrier of property to be used to
+24 transport acquisitions whenever a common carrier is used, and the
+Req. No. 1632 Page 49
+
+1 acce ptance, or rejection, including check of quantities, of any
+2 acquisitions;
+3 9. The form of any estimate, order or other information
+4 required in connection with an acquisition;
+5 10. State agency acquisitions not exceeding the acquisition
+6 threshold amount requiring competitive bid to ensure
+7 competitiveness, fairness, compliance with the Oklahoma Central
+8 Purchasing Act and Section 3001 et seq. of this title, which relates
+9 to the State Use Committee Advisory Council. The rules shall
+10 include separate provisions based on acquisition amounts as follows:
+11 a. state agencies shall make acquisitions not exceeding
+12 Twenty-five Thousand Dollars ($25,000.00), provided
+13 the acquisition process is fair and reasonable and is
+14 conducted pursuant to rules authorized pursuant to
+15 this section, and
+16 b. state agencies with certified procurement officers and
+17 internal purchasing procedures found compliant by the
+18 State Purchasing Director may make acquisitions in
+19 excess of the fair and reasonable acquisition
+20 threshold amount provided for in this section and not
+21 exceeding Two Hundred Fifty Thousand Dollars
+22 ($250,000.00), pursuant to rules authorized by this
+23 section;
+24
+Req. No. 1632 Page 50
+
+1 11. Training by the State Purchasing Director of state agency
+2 procurement officers;
+3 12. Review and audit by the State Purchasing Director of state
+4 agency acquisitions;
+5 13. The conditions for increasing acquisition limits for state
+6 agencies which have had a prior reduction in acquisition limit by
+7 the Director of the Office of Management and Enterprise Services;
+8 14. Use of a state purchase card to make acquisitions;
+9 15. Any other matter or practice which relates to the
+10 responsibilities of the State Purchasing Director;
+11 16. Conditions for determination and authorization of
+12 acquisition threshold amounts of state agencies;
+13 17. The form and manner of verification by suppliers that the
+14 supplier is eligible to do business in the State of Oklahoma this
+15 state and has obtained all necessary permits and licenses, pursuant
+16 to applicable provisions of law; and
+17 18. Payment procedure rules for state agencies to adhere to
+18 regarding statewide contracts.
+19 D. The State Purchasing Director shall provide training for
+20 state agency procurement officials, and other procurement staff, and
+21 is authorized to require retraining of such procurement personnel
+22 found not to be in compliance with provisions of the Oklahoma
+23 Central Purchasing Act or associated rules. The training may
+24 include any matters related to state procurement practices. State
+Req. No. 1632 Page 51
+
+1 agen cy purchasing officials that demonstrate proficiency shall be
+2 certified as “certified procurement officers” by the State
+3 Purchasing Director and shall be authorized to make acquisitions
+4 pursuant to provisions of the Oklahoma Central Purchasing Act and
+5 associated rules. The State Purchasing Director may assess a fee to
+6 state agencies for the training that does not exceed each state
+7 agency’s pro rata share of the costs the State Purchasing Director
+8 incurs to provide the training.
+9 E. The State Purchasing Director shall review state agency
+10 acquisitions for the purposes of:
+11 1. Ensuring state agency compliance with provisions of the
+12 Oklahoma Central Purchasing Act;
+13 2. Ensuring state agency compliance with rules promulgated by
+14 the Office of Management and Enterprise Services pursuant to the
+15 Oklahoma Central Purchasing Act;
+16 3. Ensuring state agency compliance with provisions of Section
+17 3001 et seq. of this title pertaining to the State Use Committee
+18 Advisory Council;
+19 4. Reporting any acquisition by any state agency found not to
+20 be in compliance with those sections or rules to the Director of the
+21 Office of Management and Enterprise Services;
+22 5. A determination by the State Purchasing Director to reduce a
+23 state agency’s acquisition authority amount when the state agency is
+24 found not to be in compliance with the Oklahoma Central Purchasing
+Req. No. 1632 Page 52
+
+1 Act or associated rules or requirements of the State Purchasing
+2 Director pursuant to this section; and
+3 6. A determination by the State Purchasing Director to increase
+4 a state agency’s acquisition authority amount after the agency cures
+5 deficiencies in connection with a prior reduction in the authority
+6 amount by the State Purchasing Director.
+7 F. Based on written findings and when recommended by the State
+8 Purchasing Director, the Director of the Office of Management and
+9 Enterprise Services may:
+10 1. Transmit written findings by the State Purchasing Director
+11 to the State Auditor and Inspector for further investigation,
+12 indicating purchasing procedures that do not conform to the Oklahoma
+13 Central Purchasing Act or associated rules; or
+14 2. Transmit to the Attorney General or the State Auditor and
+15 Inspector for further investigation a report made by the State
+16 Purchasing Director that the Director of the Office of Management
+17 and Enterprise Services reasonably believes indicates that an action
+18 that constitutes a criminal violation pursuant to the Oklahoma
+19 Central Purchasing Act or other laws has been taken by any state
+20 agency, state agency official, bidder or supplier.
+21 G. 1. Pursuant to the requirements of the Oklahoma Central
+22 Purchasing Act, the State Purchasing Director shall have authority
+23 to enter into any statewide, multistate or multigovernmental
+24 contract. The state entity designated by law, as specified in
+Req. No. 1632 Page 53
+
+1 Sect ion 1010.3 of Title 56 of the Oklahoma Statutes, shall
+2 participate in the purchase of pharmaceuticals available through
+3 such multistate or multigovernmental contracts entered into by the
+4 State Purchasing Director.
+5 2. Whenever it appears advantageous to the state or to any
+6 state agency to purchase or otherwise acquire any acquisition which
+7 may be offered for sale by the United States government or any
+8 agency thereof, the State Purchasing Director may execute a contract
+9 for the acquisition with the federal government or federal agency
+10 and may also utilize contracts awarded by other governmental
+11 agencies including, but not limited to, agencies of the United
+12 States of America.
+13 3. The State Purchasing Director may designate, for use by
+14 state agencies, contracts described in this subsection and contracts
+15 awarded on behalf of one or more state agencies.
+16 4. Prior to exercising the authority to cancel a contract, the
+17 State Purchasing Director may authorize renegotiation of an existing
+18 contract with an incumbent supplier for the purposes of obtaining
+19 more favorable terms for the state.
+20 5. The State Purchasing Director shall have the authority to
+21 designate certain contracts for state agencies as statewide
+22 contracts and mandatory statewide contracts. In order to carry out
+23 the powers and duties of the Chief Information Officer and
+24 Information Services Division, the Chief Information Officer shall
+Req. No. 1632 Page 54
+
+1 have the authority to designate certain information technology and
+2 telecommunication contracts as statewide contracts and mandatory
+3 statewide contracts and may negotiate consolidation contracts,
+4 enterprise agreements and high technology system contracts in lieu
+5 of or in conjunction with competitive bidding procedures to reduce
+6 acquisition cost.
+7 6. The State Purchasing Director may publish such
+8 specifications relating to materials, supplies, equipment and
+9 services to be acquired for the state as may best promote
+10 competition and apprise potential suppliers of the type of product
+11 desired.
+12 H. 1. The State Purchasing Director may develop and test new
+13 contracting policies, procedures and innovations that hold potential
+14 for making state procurement more effective and efficient and
+15 identify, and make recommendations to the Legislature of, any
+16 appropriate changes in law. Such development and testing, proof of
+17 concept, pilot project or other similar test shall not be considered
+18 an acquisition subject to the Oklahoma Central Purchasing Act.
+19 2. The State Purchasing Director is authorized to explore and
+20 investigate cost savings in energy, resource usage and maintenance
+21 contracts and to identify and negotiate contract solutions
+22 including, but not limited to, pilot projects to achieve cost
+23 savings for this state.
+24
+Req. No. 1632 Page 55
+
+1 I. The State Purchasing Director shall endeavor to satisfy
+2 state agencies in terms of cost, quality and timeliness of the
+3 delivery of acquisitions by using bidders who have a record of
+4 successful past performance, promoting competition, minimizing
+5 administrative operating costs and conducting business with
+6 integrity, fairness and openness.
+7 J. The State Purchasing Director shall undertake the following:
+8 1. The use of electronic commerce pursuant to the Oklahoma
+9 Online Bidding Act for solicitation, notification and other
+10 purchasing processes;
+11 2. Monitoring rules promulgated pursuant to the Oklahoma
+12 Central Purchasing Act to ensure that the rules satisfy the
+13 interests of the state, are clear and succinct and encourage
+14 efficiency in purchasing processes;
+15 3. A program to identify suppliers’ performance records;
+16 4. Development of criteria for the use of sealed bid
+17 contracting procedures, negotiated contracting procedures, selection
+18 of types of contracts, postaward administration of purchase orders
+19 and contracts, addendums, termination of contracts and contract
+20 pricing;
+21 5. Continual improvement in the quality of the performance of
+22 the Purchasing Division through training programs, management
+23 seminars, development of benchmarks and key management indicators,
+24 and development of standard provisions, clauses and forms;
+Req. No. 1632 Page 56
+
+1 6. The State Purchasing Director shall prescribe standardized
+2 contract forms and all other forms or certifications requisite or
+3 deemed necessary by the State Purchasing Director to effectuate the
+4 provisions of the Oklahoma Central Purchasing Act and associated
+5 rules;
+6 7. Development of programs to improve customer relations
+7 through training, improved communications and appointment of
+8 technical representatives;
+9 8. Provide for public two-way communication between procurement
+10 officers and potential bidders who have questions regarding a
+11 request for proposal or invitation to bid; and
+12 9. Determine whether and to what extent information included in
+13 a bid or similar offer is confidential and reject all requests to
+14 disclose the information so designated.
+15 K. The State Purchasing Director may utilize and authorize
+16 state agencies to utilize reverse auctions to obtain acquisitions.
+17 L. Prior to the award of a contract to a supplier, the State
+18 Purchasing Director shall verify, pursuant to applicable provisions
+19 of law, that the supplier is eligible to do business in this state
+20 by confirming registration with the Secretary of State and franchise
+21 tax payment status pursuant to Sections 1203 and 1204 of Title 68 of
+22 the Oklahoma Statutes. The provisions of this subsection shall be
+23 applicable only if the contract amount is Two Hundred Fifty Thousand
+24 Dollars ($250,000.00) or greater.
+Req. No. 1632 Page 57
+
+1 M. On an annual basis, the State Purchasing Director shall
+2 transmit to the Governor, Speaker of the House of Representatives
+3 and President Pro Tempore of the Senate a report documenting the
+4 savings realized by each agency through the application of best
+5 spend practices including the collection and tracking of spend data,
+6 strategic sourcing programs and implementation of managed and
+7 mandatory statewide contracts and include in the report information
+8 regarding emergency acquisitions.
+9 N. The acquisition threshold amount applicable to an
+10 acquisition made pursuant to this act the Oklahoma Central
+11 Purchasing Act or associated rules shall not apply to state agency
+12 purchases; provided, the State Purchasing Director determines the
+13 agency has subject matter experts on staff having the specialized
+14 expertise to purchase goods or services, the agency possesses the
+15 necessary legal and procurement staff to procure and monitor the
+16 contracts and provided the Director of the Office of Management and
+17 Enterprise Services shall certify that the proposed purchase does
+18 not conflict with consolidated statewide spend initiatives.
+19 1. Nothing in this subsection shall give an agency authority to
+20 issue statewide, multistate or multigovernmental contracts.
+21 2. Agencies making purchases pursuant to this subsection shall:
+22 a. be responsible for contracts awarded pursuant to this
+23 subsection, which includes, but may not be limited to,
+24 contract management, protest costs, all costs
+Req. No. 1632 Page 58
+
+1 connected with or incurred as a result of the
+2 contract, including legal representation,
+3 b. comply with rules and policies of the Office of
+4 Management and Enterprise Services, and
+5 c. report contracts issued pursuant to this subsection to
+6 the Office of Management and Enterprise Services,
+7 Central Purchasing Division, on a quarterly basis.
+8 3. Purchases made in accordance with this subsection shall be
+9 made pursuant to rules authorized by this section.
+10 O. The State Purchasing Director, with approval by the Director
+11 of the Office of Management and Enterprise Services, is authorized
+12 to make use of any state laboratories for the tests and analyses
+13 authorized in this section wherever practicable and to use private
+14 laboratories or the laboratories of another government agency if it
+15 is impracticable to use state laboratories. The State Purchasing
+16 Director is further authorized to cooperate in test and analysis
+17 programs or agreements with other states or the United States
+18 government and to accept federal funds and funds donated by private
+19 endowments or foundations for the purpose of participation in such
+20 testing programs.
+21 P. The State Purchasing Director shall require all contractors
+22 or subcontractors who have entered into a contract with a public
+23 employer to submit an affidavit that the contractor or subcontractor
+24 is in compliance with the provisions of Section 1313 of Title 25 of
+Req. No. 1632 Page 59
+
+1 the Oklahoma Statutes. If the State Purchasing Director determines
+2 that a contractor or subcontractor has knowingly submitted a false
+3 affidavit:
+4 1. The contractor or subcontractor shall be liable for an
+5 administrative penalty of Five Thousand Dollars ($5,000.00) for the
+6 first offense, which shall increase by Two Thousand Dollars
+7 ($2,000.00) for each subsequent offense; and
+8 2. The public employer or the Office of Management and
+9 Enterprise Services may terminate the contract with the contractor
+10 or subcontractor.
+11 SECTION 11. REPEALER 62 O.S. 2021, Sections 34.11.8,
+12 34.12, as amended by Section 2, Chapter 74, O.S.L. 2022, 34.13,
+13 34.15, 34.19, 34.20, 34.21, 34.22, 34.26, 34.28, 34.30, 34.33, 35.1,
+14 35.2, 35.3, 35.4, 35.5, 35.6, 35.6.1, 35.6.2, 35.7, 35.8, and 35.9
+15 (62 O.S. Supp. 2024, Section 34.12), are hereby repealed.
+16 SECTION 12. This act shall become effective July 1, 2025.
+17 SECTION 13. It being immediately necessary for the preservation
+18 of the public peace, health or safety, an emergency is hereby
+19 declared to exist, by reason whereof this act shall take effect and
+20 be in full force from and after its passage and approval.
+21
+22 60-1-1632 RD 2/6/2025 4:39:38 PM
+23
+24
+Req. No. 1632 Page 60
+
+[DELETED:  PS B B]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t i]
+[DELETED:  P i]
+[DELETED:  P]
+[DELETED:  P t t i]
+[DELETED:  P t t t]
+[DELETED:  P t t t a]
+[DELETED:  P a]
+[DELETED:  P a r p i r d]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P d t]
+[DELETED:  P d d r a a]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t]
+[DELETED:  P t]
+[DELETED:  P t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P s s]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P b]
+[DELETED:  P c r]
+[DELETED:  P R 2]
