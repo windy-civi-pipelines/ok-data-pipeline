@@ -1,0 +1,519 @@
+Title: 2 ENGROSSED SENATE BILL NO. 224 By: Seifried of the Senate
+Official Title: 2 ENGROSSED SENATE BILL NO. 224 By: Seifried of the Senate
+Number of Sections: 1
+Source: versions - Amended And Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1 ENGR OSSED HOUSE AMENDMENT
+TO
+3 and
+4 Caldwell (Chad) of the
+House
+5
+6
+7 [ legislative intent - data system - duties -
+Governance Council - committees - data-sharing
+8 agreement - grants and funding - promulgation of
+rules – noncodification - codification - effective
+9 date –
+emergency ]
+10
+11
+12 NOTE: Emergency failed
+13 AUTHOR: Add the following House Coauthor: Waldron
+14 AMENDMENT NO. 1. Page 1, lines 6 through 8 1/2, restore the title
+15 Passed the House of Representatives the 1st day of May, 2025.
+16
+17
+18 Presiding Officer of the House of
+Representatives
+19
+20 Passed the Senate the ____ day of __________, 2025.
+21
+22
+23 Presiding Officer of the Senate
+24
+ENGR. H. A. to ENGR. S. B. NO. 224 Page 1
+1 ENGR OSSED SENATE
+BILL NO. 224 By: Seifried of the Senate
+2
+and
+3
+Caldwell (Chad) of the
+4 House
+5
+6 [ legislative intent - data system - duties -
+Governance Council - committees - data-sharing
+7 agreement - grants and funding - promulgation of
+rules – noncodification - codification - effective
+8 date –
+emergency ]
+9
+10
+11 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12 SECTION 1. NEW LAW A new section of law not to be
+13 codified in the Oklahoma Statutes reads as follows:
+14 A. It is the intent of the Legislature to ensure educational
+15 excellence in this state by making informed decisions in support of
+16 students in this state, their education, and the future
+17 contributions they will make to the workforce.
+18 B. The Legislature finds that a responsible government ensures
+19 that taxpayer dollars are expended in the manner directed by the
+20 Legislature and are providing a return on investment for Oklahoma’s
+21 future.
+22 C. To protect the hard-earned dollars of taxpayers in this
+23 state, the Legislature must be able to comprehensively evaluate
+24 student and workforce data to make decisions and reforms where
+ENGR. S. B. NO. 224 Page 1
+1 nece ssary while safeguarding the confidential information of
+2 Oklahomans.
+3 SECTION 2. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 3-180 of Title 70, unless there
+5 is created a duplication in numbering, reads as follows:
+6 A. There is hereby created the Oklahoma Education and Workforce
+7 Efficiency Data System (EDS) as a secure system for the de-
+8 identification, exchange, and matching of education and workforce
+9 data among approved entities. The purpose of the EDS shall be to
+10 provide state agencies, legislators, and other approved users with
+11 access to de-identified data on early childhood education,
+12 elementary and secondary education, workforce training, and
+13 employment outcomes to improve education and workforce outcomes and
+14 increase the return on investment for taxpayer funds.
+15 B. The EDS shall have the ability to:
+16 1. Access, ingest, integrate, and transform a variety of data
+17 types to and from the Oklahoma Workforce Commission, the Oklahoma
+18 Department of Career and Technology Education, the State Department
+19 of Education, the Oklahoma Employment Security Commission (OESC),
+20 the Oklahoma State Regents for Higher Education, the Regional
+21 University System of Oklahoma (RUSO), the Office of Educational
+22 Quality and Accountability (OEQA), and any other agency that
+23 collects critical employment or education data;
+24
+ENGR. S. B. NO. 224 Page 2
+1 2. Be designed to allow additional agencies to integrate their
+2 data in the future;
+3 3. Implement identity management capabilities to create unique
+4 identifiers to restrict personally identifiable information while
+5 linking early childhood education, elementary and secondary
+6 education, postsecondary education, and workforce data;
+7 4. Enable data governance, auditing, and tracking of data edits
+8 and changes by authorized users;
+9 5. Support advanced analytics capabilities including, but not
+10 limited to, artificial intelligence, machine learning, forecasting,
+11 and data mining, as well as the use of business intelligence tools
+12 such as data visualization and dashboards; and
+13 6. Ensure compliance with the Family Educational Rights and
+14 Privacy Act of 1974 (FERPA), the Student Data Accessibility,
+15 Transparency and Accountability Act of 2013, and other applicable
+16 privacy laws.
+17 C. The EDS shall not:
+18 1. Serve the same purpose as the state student identification
+19 system required by subsection E of Section 18-200.1 of Title 70 of
+20 the Oklahoma Statutes;
+21 2. Directly report data to federal agencies; provided, however,
+22 state agencies participating in the EDS may use matched data from
+23 the EDS to fulfill federally mandated reporting requirements
+24 including, but not limited to, compliance with the Workforce
+ENGR. S. B. NO. 224 Page 3
+1 Inno vation and Opportunity Act, the Carl D. Perkins Career and
+2 Technical Education Act of 2006 as reauthorized by the Strengthening
+3 Career and Technical Education for the 21st Century Act, the
+4 Workforce Data Quality Initiative, and other workforce- and
+5 education-related federal grant programs. Any data used for such
+6 purposes shall be de-identified or aggregated before submission,
+7 unless federal law explicitly requires otherwise; or
+8 3. Collect personal data including, but not limited to, the
+9 religion of an individual and his or her parent or legal guardian;
+10 the political affiliation of an individual and his or her parent or
+11 legal guardian; the health insurance status of an individual and his
+12 or her parent or legal guardian; and medical information relating to
+13 an individual and his or her parent or legal guardian.
+14 D. The EDS shall provide controlled access to approved external
+15 partners including researchers or vendors, ensuring compliance with
+16 privacy protections. Data access shall be granted through a formal
+17 data-sharing agreement submitted to the Efficiency Data System
+18 Governance Council created pursuant to Section 3 of this act, with
+19 guidelines on usage and restrictions to safeguard personally
+20 identifiable information.
+21 SECTION 3. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 3-181 of Title 70, unless there
+23 is created a duplication in numbering, reads as follows:
+24
+ENGR. S. B. NO. 224 Page 4
+1 A. There is hereby created the Efficiency Data System
+2 Governance Council to oversee the development, implementation, and
+3 operation of the Oklahoma Education and Workforce Efficiency Data
+4 System (EDS) created pursuant to Section 2 of this act. The Council
+5 may create committees, as needed, to delegate and carry out its
+6 duties.
+7 B. The Council shall be comprised of nine (9) voting members as
+8 follows:
+9 1. The Executive Director of the Oklahoma Workforce Commission,
+10 or his or her designee;
+11 2. The Chancellor of Higher Education, or his or her designee;
+12 3. The Director of the Oklahoma Department of Career and
+13 Technology Education, or his or her designee;
+14 4. The Superintendent of Public Instruction, or his or her
+15 designee;
+16 5. The Executive Director of the Oklahoma Employment Security
+17 Commission, or his or her designee;
+18 6. The Executive Director of the Office of Educational Quality
+19 and Accountability, or his or her designee;
+20 7. The Chief Executive Officer of the Regional University
+21 System of Oklahoma (RUSO), or his or her designee;
+22 8. One data privacy and security expert who is familiar with
+23 the Family Educational Rights and Privacy Act of 1974 (FERPA), the
+24 Health Insurance Portability and Accountability Act (HIPAA) of 1996,
+ENGR. S. B. NO. 224 Page 5
+1 and national privacy standards, appointed by the Commission for
+2 Educational Quality and Accountability; and
+3 9. One member of the public with expertise in workforce or
+4 education policy, data analysis, or government efficiency, appointed
+5 by the Governor.
+6 C. The Efficiency Data System Governance Council may include
+7 non-voting members from additional state agencies, institutions of
+8 higher education, or stakeholder groups as needed to provide
+9 subject-matter expertise.
+10 D. The Efficiency Data System Governance Council shall:
+11 1. Oversee all aspects of data governance including approving
+12 data access policies, privacy standards, and data-sharing
+13 agreements;
+14 2. Identify and prioritize critical data elements and datasets
+15 for initial integration in the system by June 30, 2026;
+16 3. Outline a process to approve and onboard new agencies to the
+17 EDS;
+18 4. Select a vendor for the development and maintenance of the
+19 EDS, ensuring the vendor meets the system requirements and technical
+20 specifications approved by the Efficiency Data System Governance
+21 Council by June 30, 2026. Funding and procurement responsibilities
+22 shall be assigned to the Commission for Educational Quality and
+23 Accountability, with the EDS housed within the Office of Educational
+24 Quality and Accountability;
+ENGR. S. B. NO. 224 Page 6
+1 5. Electronically submit an annual progress report to the
+2 Governor, the President Pro Tempore of the Senate, and the Speaker
+3 of the House of Representatives summarizing the progress of the EDS,
+4 completed milestones, next steps, challenges, and recommendations
+5 for improvements. The first report shall be submitted by June 30,
+6 2026; and
+7 6. Ensure the EDS is operational and includes critical datasets
+8 no later than June 30, 2027.
+9 E. By June 30, 2026, each agency participating in the EDS shall
+10 enter into a data-sharing agreement with the Efficiency Data System
+11 Governance Council. The agreement shall include:
+12 1. Data-sharing protocols;
+13 2. Data elements shared;
+14 3. Data elements requested;
+15 4. Roles and responsibilities for the participating agency and
+16 the Council; and
+17 5. Privacy and security standards.
+18 F. The EDS shall be funded through:
+19 1. State appropriations provided to the Office of Educational
+20 Quality and Accountability for the specific purpose of procuring and
+21 maintaining the EDS;
+22 2. Federal grants including, but not limited to, funding
+23 opportunities from the Workforce Data Quality Initiative or other
+24 federal programs;
+ENGR. S. B. NO. 224 Page 7
+1 3. Cost-sharing agreements or user fees approved by the
+2 Efficiency Data System Governance Council; and
+3 4. Public or private sources, provided such funds are
+4 consistent with the purpose and goal of the EDS.
+5 G. The Commission for Educational Quality and Accountability
+6 may promulgate rules to implement the provisions of this act.
+7 SECTION 4. This act shall become effective July 1, 2025.
+8 SECTION 5. It being immediately necessary for the preservation
+9 of the public peace, health, or safety, an emergency is hereby
+10 declared to exist, by reason whereof this act shall take effect and
+11 be in full force from and after its passage and approval.
+12 Passed the Senate the 25th day of March, 2025.
+13
+14
+Presiding Officer of the Senate
+15
+16 Passed the House of Representatives the ____ day of __________,
+17 2025.
+18
+19
+Presiding Officer of the House
+20 of Representatives
+21
+22
+23
+24
+ENGR. S. B. NO. 224 Page 8
+[DELETED:  PT B S  a CeR]
+[DELETED:  P B S  a Ce]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPPo]
+
+
+================================================================================
+
+Raw Text:
+1 ENGR OSSED HOUSE AMENDMENT
+TO
+2 ENGROSSED SENATE BILL NO. 224 By: Seifried of the Senate
+3 and
+4 Caldwell (Chad) of the
+House
+5
+6
+7 [ legislative intent - data system - duties -
+Governance Council - committees - data-sharing
+8 agreement - grants and funding - promulgation of
+rules – noncodification - codification - effective
+9 date –
+emergency ]
+10
+11
+12 NOTE: Emergency failed
+13 AUTHOR: Add the following House Coauthor: Waldron
+14 AMENDMENT NO. 1. Page 1, lines 6 through 8 1/2, restore the title
+15 Passed the House of Representatives the 1st day of May, 2025.
+16
+17
+18 Presiding Officer of the House of
+Representatives
+19
+20 Passed the Senate the ____ day of __________, 2025.
+21
+22
+23 Presiding Officer of the Senate
+24
+ENGR. H. A. to ENGR. S. B. NO. 224 Page 1
+
+1 ENGR OSSED SENATE
+BILL NO. 224 By: Seifried of the Senate
+2
+and
+3
+Caldwell (Chad) of the
+4 House
+5
+6 [ legislative intent - data system - duties -
+Governance Council - committees - data-sharing
+7 agreement - grants and funding - promulgation of
+rules – noncodification - codification - effective
+8 date –
+emergency ]
+9
+10
+11 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12 SECTION 1. NEW LAW A new section of law not to be
+13 codified in the Oklahoma Statutes reads as follows:
+14 A. It is the intent of the Legislature to ensure educational
+15 excellence in this state by making informed decisions in support of
+16 students in this state, their education, and the future
+17 contributions they will make to the workforce.
+18 B. The Legislature finds that a responsible government ensures
+19 that taxpayer dollars are expended in the manner directed by the
+20 Legislature and are providing a return on investment for Oklahoma’s
+21 future.
+22 C. To protect the hard-earned dollars of taxpayers in this
+23 state, the Legislature must be able to comprehensively evaluate
+24 student and workforce data to make decisions and reforms where
+ENGR. S. B. NO. 224 Page 1
+
+1 nece ssary while safeguarding the confidential information of
+2 Oklahomans.
+3 SECTION 2. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 3-180 of Title 70, unless there
+5 is created a duplication in numbering, reads as follows:
+6 A. There is hereby created the Oklahoma Education and Workforce
+7 Efficiency Data System (EDS) as a secure system for the de-
+8 identification, exchange, and matching of education and workforce
+9 data among approved entities. The purpose of the EDS shall be to
+10 provide state agencies, legislators, and other approved users with
+11 access to de-identified data on early childhood education,
+12 elementary and secondary education, workforce training, and
+13 employment outcomes to improve education and workforce outcomes and
+14 increase the return on investment for taxpayer funds.
+15 B. The EDS shall have the ability to:
+16 1. Access, ingest, integrate, and transform a variety of data
+17 types to and from the Oklahoma Workforce Commission, the Oklahoma
+18 Department of Career and Technology Education, the State Department
+19 of Education, the Oklahoma Employment Security Commission (OESC),
+20 the Oklahoma State Regents for Higher Education, the Regional
+21 University System of Oklahoma (RUSO), the Office of Educational
+22 Quality and Accountability (OEQA), and any other agency that
+23 collects critical employment or education data;
+24
+ENGR. S. B. NO. 224 Page 2
+
+1 2. Be designed to allow additional agencies to integrate their
+2 data in the future;
+3 3. Implement identity management capabilities to create unique
+4 identifiers to restrict personally identifiable information while
+5 linking early childhood education, elementary and secondary
+6 education, postsecondary education, and workforce data;
+7 4. Enable data governance, auditing, and tracking of data edits
+8 and changes by authorized users;
+9 5. Support advanced analytics capabilities including, but not
+10 limited to, artificial intelligence, machine learning, forecasting,
+11 and data mining, as well as the use of business intelligence tools
+12 such as data visualization and dashboards; and
+13 6. Ensure compliance with the Family Educational Rights and
+14 Privacy Act of 1974 (FERPA), the Student Data Accessibility,
+15 Transparency and Accountability Act of 2013, and other applicable
+16 privacy laws.
+17 C. The EDS shall not:
+18 1. Serve the same purpose as the state student identification
+19 system required by subsection E of Section 18-200.1 of Title 70 of
+20 the Oklahoma Statutes;
+21 2. Directly report data to federal agencies; provided, however,
+22 state agencies participating in the EDS may use matched data from
+23 the EDS to fulfill federally mandated reporting requirements
+24 including, but not limited to, compliance with the Workforce
+ENGR. S. B. NO. 224 Page 3
+
+1 Inno vation and Opportunity Act, the Carl D. Perkins Career and
+2 Technical Education Act of 2006 as reauthorized by the Strengthening
+3 Career and Technical Education for the 21st Century Act, the
+4 Workforce Data Quality Initiative, and other workforce- and
+5 education-related federal grant programs. Any data used for such
+6 purposes shall be de-identified or aggregated before submission,
+7 unless federal law explicitly requires otherwise; or
+8 3. Collect personal data including, but not limited to, the
+9 religion of an individual and his or her parent or legal guardian;
+10 the political affiliation of an individual and his or her parent or
+11 legal guardian; the health insurance status of an individual and his
+12 or her parent or legal guardian; and medical information relating to
+13 an individual and his or her parent or legal guardian.
+14 D. The EDS shall provide controlled access to approved external
+15 partners including researchers or vendors, ensuring compliance with
+16 privacy protections. Data access shall be granted through a formal
+17 data-sharing agreement submitted to the Efficiency Data System
+18 Governance Council created pursuant to Section 3 of this act, with
+19 guidelines on usage and restrictions to safeguard personally
+20 identifiable information.
+21 SECTION 3. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 3-181 of Title 70, unless there
+23 is created a duplication in numbering, reads as follows:
+24
+ENGR. S. B. NO. 224 Page 4
+
+1 A. There is hereby created the Efficiency Data System
+2 Governance Council to oversee the development, implementation, and
+3 operation of the Oklahoma Education and Workforce Efficiency Data
+4 System (EDS) created pursuant to Section 2 of this act. The Council
+5 may create committees, as needed, to delegate and carry out its
+6 duties.
+7 B. The Council shall be comprised of nine (9) voting members as
+8 follows:
+9 1. The Executive Director of the Oklahoma Workforce Commission,
+10 or his or her designee;
+11 2. The Chancellor of Higher Education, or his or her designee;
+12 3. The Director of the Oklahoma Department of Career and
+13 Technology Education, or his or her designee;
+14 4. The Superintendent of Public Instruction, or his or her
+15 designee;
+16 5. The Executive Director of the Oklahoma Employment Security
+17 Commission, or his or her designee;
+18 6. The Executive Director of the Office of Educational Quality
+19 and Accountability, or his or her designee;
+20 7. The Chief Executive Officer of the Regional University
+21 System of Oklahoma (RUSO), or his or her designee;
+22 8. One data privacy and security expert who is familiar with
+23 the Family Educational Rights and Privacy Act of 1974 (FERPA), the
+24 Health Insurance Portability and Accountability Act (HIPAA) of 1996,
+ENGR. S. B. NO. 224 Page 5
+
+1 and national privacy standards, appointed by the Commission for
+2 Educational Quality and Accountability; and
+3 9. One member of the public with expertise in workforce or
+4 education policy, data analysis, or government efficiency, appointed
+5 by the Governor.
+6 C. The Efficiency Data System Governance Council may include
+7 non-voting members from additional state agencies, institutions of
+8 higher education, or stakeholder groups as needed to provide
+9 subject-matter expertise.
+10 D. The Efficiency Data System Governance Council shall:
+11 1. Oversee all aspects of data governance including approving
+12 data access policies, privacy standards, and data-sharing
+13 agreements;
+14 2. Identify and prioritize critical data elements and datasets
+15 for initial integration in the system by June 30, 2026;
+16 3. Outline a process to approve and onboard new agencies to the
+17 EDS;
+18 4. Select a vendor for the development and maintenance of the
+19 EDS, ensuring the vendor meets the system requirements and technical
+20 specifications approved by the Efficiency Data System Governance
+21 Council by June 30, 2026. Funding and procurement responsibilities
+22 shall be assigned to the Commission for Educational Quality and
+23 Accountability, with the EDS housed within the Office of Educational
+24 Quality and Accountability;
+ENGR. S. B. NO. 224 Page 6
+
+1 5. Electronically submit an annual progress report to the
+2 Governor, the President Pro Tempore of the Senate, and the Speaker
+3 of the House of Representatives summarizing the progress of the EDS,
+4 completed milestones, next steps, challenges, and recommendations
+5 for improvements. The first report shall be submitted by June 30,
+6 2026; and
+7 6. Ensure the EDS is operational and includes critical datasets
+8 no later than June 30, 2027.
+9 E. By June 30, 2026, each agency participating in the EDS shall
+10 enter into a data-sharing agreement with the Efficiency Data System
+11 Governance Council. The agreement shall include:
+12 1. Data-sharing protocols;
+13 2. Data elements shared;
+14 3. Data elements requested;
+15 4. Roles and responsibilities for the participating agency and
+16 the Council; and
+17 5. Privacy and security standards.
+18 F. The EDS shall be funded through:
+19 1. State appropriations provided to the Office of Educational
+20 Quality and Accountability for the specific purpose of procuring and
+21 maintaining the EDS;
+22 2. Federal grants including, but not limited to, funding
+23 opportunities from the Workforce Data Quality Initiative or other
+24 federal programs;
+ENGR. S. B. NO. 224 Page 7
+
+1 3. Cost-sharing agreements or user fees approved by the
+2 Efficiency Data System Governance Council; and
+3 4. Public or private sources, provided such funds are
+4 consistent with the purpose and goal of the EDS.
+5 G. The Commission for Educational Quality and Accountability
+6 may promulgate rules to implement the provisions of this act.
+7 SECTION 4. This act shall become effective July 1, 2025.
+8 SECTION 5. It being immediately necessary for the preservation
+9 of the public peace, health, or safety, an emergency is hereby
+10 declared to exist, by reason whereof this act shall take effect and
+11 be in full force from and after its passage and approval.
+12 Passed the Senate the 25th day of March, 2025.
+13
+14
+Presiding Officer of the Senate
+15
+16 Passed the House of Representatives the ____ day of __________,
+17 2025.
+18
+19
+Presiding Officer of the House
+20 of Representatives
+21
+22
+23
+24
+ENGR. S. B. NO. 224 Page 8
+
+[DELETED:  PT B S  a CeR]
+[DELETED:  P B S  a Ce]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPPo]

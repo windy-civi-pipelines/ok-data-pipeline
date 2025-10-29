@@ -1,0 +1,4081 @@
+Title: SENATE BILL 596 By: Jett
+Official Title: SENATE BILL 596 By: Jett
+Number of Sections: 46
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to asset forfeiture transparency;
+7
+amending 51 O.S. 2021, Section 24A.8, as amended by
+8
+
+Section 2:
+Section 1, Chapter 12, O.S.L. 2022 (51 O.S. Supp.
+8
+2024, Section 24A.8), which relates to law
+9
+enforcement records; making certain reports available
+9
+for public inspection; amending 63 O.S. 2021, Section
+10
+2-506, which relates to seizure of property;
+10
+requiring submission of certain report; requiring
+11
+publication of report on certain website; updating
+11
+statutory language; and providing an effective date.
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+
+Section 3:
+SECTION 1. AMENDATORY 51 O.S. 2021, Section 24A.8, as
+15
+16
+amended by Section 1, Chapter 12, O.S.L. 2022 (51 O.S. Supp. 2024,
+16
+17
+
+Section 4:
+Section 24A.8), is amended to read as follows:
+17
+18
+
+Section 5:
+Section 24A.8. A. Law enforcement agencies shall make
+18
+19
+available for public inspection and copying, if kept, the following
+19
+20
+records:
+20
+21
+
+Section 6:
+1. An arrestee description, including the name, date of birth,
+21
+22
+address, race, sex, physical description, and occupation of the
+22
+23
+arrestee;
+23
+24
+24
+Req. No. 346 Page 1
+1
+
+Section 7:
+2. Facts concerning the arrest, including the cause of arrest
+1
+2
+and the name of the arresting officer;
+2
+3
+
+Section 8:
+3. A chronological list of all incidents, including initial
+3
+4
+offense report information showing the offense, date, time, general
+4
+5
+location, officer, and a brief summary of what occurred;
+5
+6
+
+Section 9:
+4. Radio logs, including a chronological listing of the calls
+6
+7
+dispatched;
+7
+8
+
+Section 10:
+5. Conviction information, including the name of any person
+8
+9
+convicted of a criminal offense;
+9
+10
+
+Section 11:
+6. Disposition of all warrants, including orders signed by a
+10
+11
+judge of any court commanding a law enforcement officer to arrest a
+11
+12
+particular person;
+12
+13
+
+Section 12:
+7. A crime summary, including an agency summary of crimes
+13
+14
+reported and public calls for service by classification or nature
+14
+15
+and number;
+15
+16
+
+Section 13:
+8. Jail registers, including jail blotter data or jail booking
+16
+17
+information recorded on persons at the time of incarceration showing
+17
+18
+the name of each prisoner with the date and cause of commitment, the
+18
+19
+authority committing the prisoner, whether committed for a criminal
+19
+20
+offense, a description of the prisoner, and the date or manner of
+20
+21
+discharge or escape of the prisoner;
+21
+22
+
+Section 14:
+9. Annual reports submitted pursuant to subsection T of Section
+22
+23
+2-506 of Title 63 of the Oklahoma Statutes;
+23
+24
+24
+Req. No. 346 Page 2
+1
+
+Section 15:
+10. Audio and video recordings from recording equipment
+1
+2
+attached to law enforcement vehicles or associated audio recordings
+2
+3
+from recording equipment on the person of a law enforcement officer;
+3
+4
+provided, the law enforcement agency may, before releasing any audio
+4
+5
+or video recording provided for in this paragraph, redact or obscure
+5
+6
+specific portions of the recording which:
+6
+7
+a. depict the death of a person or a dead body, unless
+7
+8
+the death was effected by a law enforcement officer,
+8
+9
+b. depict nudity,
+9
+10
+c. would identify minors under the age of sixteen (16)
+10
+11
+years or would undermine any requirement to keep
+11
+12
+certain juvenile records confidential as provided for
+12
+13
+in Title 10A of the Oklahoma Statutes,
+13
+14
+d. depict acts of severe violence resulting in great
+14
+15
+bodily injury, as defined in Section 11-904 of Title
+15
+16
+47 of the Oklahoma Statutes, against persons that are
+16
+17
+clearly visible, unless the act of severe violence was
+17
+18
+effected by a law enforcement officer,
+18
+19
+e. depict great bodily injury, as defined in Section 11-
+19
+20
+904 of Title 47 of the Oklahoma Statutes, unless the
+20
+21
+great bodily injury was effected by a law enforcement
+21
+22
+officer,
+22
+23
+f. include personal medical information that is not
+23
+24
+already public,
+24
+Req. No. 346 Page 3
+1
+g. would undermine the assertion of a privilege provided
+1
+2
+in Section 1-109 or Section 3-428 of Title 43A of the
+2
+3
+Oklahoma Statutes for detention or transportation for
+3
+4
+mental health evaluation or treatment or drug or
+4
+5
+alcohol detoxification purposes,
+5
+6
+h. include personal information other than the name or
+6
+7
+license plate number of a person not arrested, cited,
+7
+8
+charged or issued a written warning. Such personal
+8
+9
+information shall include any government-issued
+9
+10
+identification number, date of birth, address or
+10
+11
+financial information, or
+11
+12
+i. reveal the identity of law enforcement officers who
+12
+13
+have become subject to internal investigation by the
+13
+14
+law enforcement agency as a result of an event
+14
+15
+depicted in the recording. The option to protect the
+15
+16
+identity of a law enforcement officer shall not be
+16
+17
+available to the law enforcement agency after the law
+17
+18
+enforcement agency has concluded the investigation and
+18
+19
+rendered a decision as to final disciplinary action.
+19
+20
+At such time when an investigation has concluded and
+20
+21
+the law enforcement agency has rendered its decision
+21
+22
+as to final disciplinary action, the portions of the
+22
+23
+recordings previously withheld as provided for in this
+23
+24
+subparagraph shall be available for public inspection
+24
+Req. No. 346 Page 4
+1
+and copying. The audio and video recordings withheld
+1
+2
+as provided for in this subparagraph shall be
+2
+3
+available for public inspection and copying before the
+3
+4
+conclusion of the investigation if the investigation
+4
+5
+lasts for an unreasonable amount of time; and
+5
+6
+
+Section 16:
+10. 11. a. Audio and video recordings from recording
+6
+7
+equipment attached to the person of a law enforcement
+7
+8
+officer that depict:
+8
+9
+(1) the use of any physical force or violence by a
+9
+10
+law enforcement officer,
+10
+11
+(2) pursuits of any kind,
+11
+12
+(3) traffic stops,
+12
+13
+(4) any person being arrested, cited, charged or
+13
+14
+issued a written warning,
+14
+15
+(5) events that directly led to any person being
+15
+16
+arrested, cited, charged or receiving a written
+16
+17
+warning,
+17
+18
+(6) detentions of any length for the purpose of
+18
+19
+investigation,
+19
+20
+(7) any exercise of authority by a law enforcement
+20
+21
+officer that deprives a citizen of his or her
+21
+22
+liberty,
+22
+23
+23
+24
+24
+Req. No. 346 Page 5
+1
+(8) actions by a law enforcement officer that have
+1
+2
+become the cause of an investigation or charges
+2
+3
+being filed,
+3
+4
+(9) recordings in the public interest that may
+4
+5
+materially aid a determination of whether law
+5
+6
+enforcement officers are appropriately performing
+6
+7
+their duties as public servants, or
+7
+8
+(10) any contextual events occurring before or after
+8
+9
+the events depicted in divisions (1) through (9)
+9
+10
+of this subparagraph.
+10
+11
+b. Notwithstanding the provisions of subparagraph a of
+11
+12
+this paragraph, the law enforcement agency may, before
+12
+13
+releasing any audio or video recording provided for in
+13
+14
+this paragraph, redact or obscure specific portions of
+14
+15
+the recording that:
+15
+16
+(1) depict the death of a person or a dead body,
+16
+17
+unless the death was effected by a law
+17
+18
+enforcement officer,
+18
+19
+(2) depict nudity,
+19
+20
+(3) would identify minors under the age of sixteen
+20
+21
+(16) years or would undermine any requirement to
+21
+22
+keep certain juvenile records confidential as
+22
+23
+provided for in Title 10A of the Oklahoma
+23
+24
+Statutes,
+24
+Req. No. 346 Page 6
+1
+(4) depict acts of severe violence resulting in great
+1
+2
+bodily injury, as defined in Section 11-904 of
+2
+3
+Title 47 of the Oklahoma Statutes, against
+3
+4
+persons that are clearly visible, unless the act
+4
+5
+of severe violence was effected by a law
+5
+6
+enforcement officer,
+6
+7
+(5) depict great bodily injury, as defined in Section
+7
+8
+11-904 of Title 47 of the Oklahoma Statutes,
+8
+9
+unless the great bodily injury was effected by a
+9
+10
+law enforcement officer,
+10
+11
+(6) include personal medical information that is not
+11
+12
+already public,
+12
+13
+(7) undermine the assertion of a privilege as
+13
+14
+provided in Section 1-109 or Section 3-428 of
+14
+15
+Title 43A of the Oklahoma Statutes for detention
+15
+16
+or transportation for mental health evaluation or
+16
+17
+treatment or drug or alcohol detoxification
+17
+18
+purposes,
+18
+19
+(8) identify alleged victims of sex crimes or
+19
+20
+domestic violence,
+20
+21
+(9) identify any person who provides information to
+21
+22
+law enforcement or the information provided by
+22
+23
+that person when that person requests anonymity
+23
+24
+or where disclosure of the identity of the person
+24
+Req. No. 346 Page 7
+1
+or the information provided could reasonably be
+1
+2
+expected to threaten or endanger the physical
+2
+3
+safety or property of the person or the physical
+3
+4
+safety or property of others,
+4
+5
+(10) undermine the assertion of a privilege to keep
+5
+6
+the identity of an informer confidential as
+6
+7
+provided for in Section 2510 of Title 12 of the
+7
+8
+Oklahoma Statutes,
+8
+9
+(11) include personal information other than the name
+9
+10
+or license plate number of a person not
+10
+11
+officially arrested, cited, charged or issued a
+11
+12
+written warning. Such personal information shall
+12
+13
+include any government-issued identification
+13
+14
+number, date of birth, address or financial
+14
+15
+information,
+15
+16
+(12) include information that would materially
+16
+17
+compromise an ongoing criminal investigation or
+17
+18
+ongoing criminal prosecution, provided that:
+18
+19
+(a) ten (10) days following the formal
+19
+20
+arraignment or initial appearance, whichever
+20
+21
+occurs first, of a person charged in the
+21
+22
+case in question, the recording shall be
+22
+23
+made available for public inspection and
+23
+24
+copying with no redaction of the portions
+24
+Req. No. 346 Page 8
+1
+that were temporarily withheld by reliance
+1
+2
+on this division. Provided, before
+2
+3
+potential release of a recording as provided
+3
+4
+for in this subdivision, the prosecutor or
+4
+5
+legal representative of the person charged
+5
+6
+may request from the appropriate district
+6
+7
+court an extension of time during which the
+7
+8
+recording may be withheld under the
+8
+9
+provisions of this division. When a request
+9
+10
+for an extension of time has been filed with
+10
+11
+the court, the recording in question may be
+11
+12
+withheld until the court has issued a
+12
+13
+ruling. Such requests for an extension of
+13
+14
+the time during which the recording may be
+14
+15
+withheld may be made on the grounds that
+15
+16
+release of the recording will materially
+16
+17
+compromise an ongoing criminal investigation
+17
+18
+or criminal prosecution or on the grounds
+18
+19
+that release of the recording will
+19
+20
+materially compromise the right of an
+20
+21
+accused to a fair trial that has yet to
+21
+22
+begin. Courts considering such requests
+22
+23
+shall conduct a hearing and consider whether
+23
+24
+the interests of the public outweigh the
+24
+Req. No. 346 Page 9
+1
+interests asserted by the parties. In
+1
+2
+response to such requests, the court shall
+2
+3
+order that the recording be made available
+3
+4
+for public inspection and copying with no
+4
+5
+redaction of the portions that were
+5
+6
+temporarily withheld by reliance on this
+6
+7
+division or order an extension of time
+7
+8
+during which the recording may be withheld
+8
+9
+under the provisions of this division.
+9
+10
+Provided further, each such time extension
+10
+11
+shall only be ordered by the court for an
+11
+12
+additional six-month period of time or less
+12
+13
+and cumulative time extensions shall not add
+13
+14
+up to more than eighteen (18) months, or
+14
+15
+(b) in the event that one hundred twenty (120)
+15
+16
+days expire from the date of the events
+16
+17
+depicted in the recording without any person
+17
+18
+being criminally charged in the case in
+18
+19
+question and release of a recording or
+19
+20
+portions of a recording have been denied on
+20
+21
+the grounds provided for in this division,
+21
+22
+an appeal of such denial may be made to the
+22
+23
+appropriate district court. In situations
+23
+24
+where one hundred twenty (120) days have
+24
+Req. No. 346 Page 10
+1
+expired since the creation of the recording,
+1
+2
+criminal charges have not been filed against
+2
+3
+a person and the recording is being withheld
+3
+4
+on the grounds provided for in this
+4
+5
+division, courts considering appeals to the
+5
+6
+use of the provisions of this division for
+6
+7
+temporarily withholding a recording shall
+7
+8
+conduct a hearing and consider whether the
+8
+9
+interests of the public outweigh the
+9
+10
+interests of the parties protected by this
+10
+11
+division. In response to such appeals, the
+11
+12
+district court shall order that the
+12
+13
+recording be made available for public
+13
+14
+inspection and copying with no redaction of
+14
+15
+the portions that were temporarily withheld
+15
+16
+by reliance on this division or order an
+16
+17
+extension of time during which the recording
+17
+18
+may be withheld under the provisions of this
+18
+19
+division. An order granting an extension of
+19
+20
+time shall be applicable to the recording
+20
+21
+against all appellants for the duration of
+21
+22
+the extension. Provided, each such time
+22
+23
+extension shall only be ordered by the
+23
+24
+district court for an additional twelve-
+24
+Req. No. 346 Page 11
+1
+month period of time or less and cumulative
+1
+2
+time extensions shall not add up to more
+2
+3
+than three (3) years. Provided, charges
+3
+4
+being filed against a person in the case in
+4
+5
+question automatically cancels any extension
+5
+6
+of time. A new request for an extension of
+6
+7
+time following an arraignment or initial
+7
+8
+appearance may be requested by the parties
+8
+9
+on the grounds and under the terms provided
+9
+10
+for in subdivision (a) of this division.
+10
+11
+The options presented in this division to
+11
+12
+potentially withhold a recording or portions of a
+12
+13
+recording on the grounds provided for in this
+13
+14
+division shall expire in totality four (4) years
+14
+15
+after the recording was made at which time all
+15
+16
+recordings previously withheld on the grounds
+16
+17
+provided for in this division shall be made
+17
+18
+available for public inspection and copying, or
+18
+19
+(13) reveal the identity of law enforcement officers
+19
+20
+who have become subject to internal investigation
+20
+21
+by the law enforcement agency as a result of an
+21
+22
+event depicted in the recording. The option to
+22
+23
+protect the identity of a law enforcement officer
+23
+24
+shall not be available to the law enforcement
+24
+Req. No. 346 Page 12
+1
+agency after the law enforcement agency has
+1
+2
+concluded the investigation and rendered a
+2
+3
+decision as to final disciplinary action. At
+3
+4
+such time when an investigation has concluded and
+4
+5
+the law enforcement agency has rendered its
+5
+6
+decision as to final disciplinary action, the
+6
+7
+portions of the recordings previously withheld as
+7
+8
+provided for in this division shall be available
+8
+9
+for public inspection and copying. The audio and
+9
+10
+video recordings withheld on the grounds provided
+10
+11
+for in this division shall be available for
+11
+12
+public inspection and copying before the
+12
+13
+conclusion of the investigation if the
+13
+14
+investigation lasts for an unreasonable amount of
+14
+15
+time.
+15
+16
+B. 1. Except for the records listed in subsection A of this
+16
+17
+
+Section 17:
+section and those made open by other state or local laws, law
+17
+18
+enforcement agencies may deny access to law enforcement records
+18
+19
+except where a court finds that the public interest or the interest
+19
+20
+of an individual outweighs the reason for denial. The provisions of
+20
+21
+this section shall not operate to deny access to law enforcement
+21
+22
+records if such records have been previously made available to the
+22
+23
+public as provided in the Oklahoma Open Records Act or as otherwise
+23
+24
+provided by law.
+24
+Req. No. 346 Page 13
+1
+
+Section 18:
+2. a. A law enforcement agency shall deny access to any
+1
+2
+audio or video recording that depicts the death of a
+2
+3
+law enforcement officer who was acting in the course
+3
+4
+of his or her official duties including any related
+4
+5
+acts or events immediately preceding or subsequent to
+5
+6
+the acts or events that caused or otherwise relate to
+6
+7
+the death, except where a court finds that the public
+7
+8
+interest or the interest of an individual outweighs
+8
+9
+the reason for denial. Provided, however, a law
+9
+10
+enforcement agency may allow a family member of the
+10
+11
+deceased law enforcement officer to hear or view such
+11
+12
+audio or video recording under protocols established
+12
+13
+by the law enforcement agency. For the purposes of
+13
+14
+this subparagraph, “family member” means a spouse,
+14
+15
+adult child, parent or sibling of the deceased law
+15
+16
+enforcement officer.
+16
+17
+b. Nothing in subparagraph a of this paragraph shall be
+17
+18
+construed to prohibit the prosecution and defense
+18
+19
+counsel from access to such audio or video recordings
+19
+20
+or the use of such recordings as evidence in a legal
+20
+21
+proceeding.
+21
+22
+C. Nothing contained in this section imposes any new
+22
+23
+recordkeeping requirements. Law enforcement records shall be kept
+23
+24
+for as long as is now or may hereafter be specified by law. Absent
+24
+Req. No. 346 Page 14
+1
+a legal requirement for the keeping of a law enforcement record for
+1
+2
+a specific time period, law enforcement agencies shall maintain
+2
+3
+their records for so long as needed for administrative purposes.
+3
+4
+D. Registration files maintained by the Department of
+4
+5
+Corrections pursuant to the provisions of the Sex Offenders
+5
+6
+Registration Act shall be made available for public inspection in a
+6
+7
+manner to be determined by the Department.
+7
+8
+E. The Council on Law Enforcement Education and Training
+8
+9
+(C.L.E.E.T.) shall keep confidential all records it maintains
+9
+10
+pursuant to Section 3311 of Title 70 of the Oklahoma Statutes and
+10
+11
+deny release of records relating to any employed or certified full-
+11
+12
+time officer, reserve officer, retired officer or other person;
+12
+13
+teacher lesson plans, tests and other teaching materials; and
+13
+14
+personal communications concerning individual students except under
+14
+15
+the following circumstances:
+15
+16
+
+Section 19:
+1. To verify the current certification status of any peace
+16
+17
+officer;
+17
+18
+
+Section 20:
+2. As may be required to perform the duties imposed by Section
+18
+19
+3311 of Title 70 of the Oklahoma Statutes;
+19
+20
+
+Section 21:
+3. To provide to any peace officer copies of the records of
+20
+21
+that peace officer upon submitting a written request;
+21
+22
+
+Section 22:
+4. To provide, upon written request, to any law enforcement
+22
+23
+agency conducting an official investigation, copies of the records
+23
+24
+of any peace officer who is the subject of such investigation;
+24
+Req. No. 346 Page 15
+1
+
+Section 23:
+5. To provide final orders of administrative proceedings where
+1
+2
+an adverse action was taken against a peace officer; and
+2
+3
+
+Section 24:
+6. Pursuant to an order of the district court of the State of
+3
+4
+Oklahoma.
+4
+5
+F. The Department of Public Safety shall keep confidential:
+5
+6
+
+Section 25:
+1. All records it maintains pursuant to its authority under
+6
+7
+Title 47 of the Oklahoma Statutes relating to the Oklahoma Highway
+7
+8
+Patrol Division, the Communications Division, and other divisions of
+8
+9
+the Department relating to:
+9
+10
+a. training, lesson plans, teaching materials, tests and
+10
+11
+test results,
+11
+12
+b. policies, procedures and operations, any of which are
+12
+13
+of a tactical nature, and
+13
+14
+c. the following information from radio logs:
+14
+15
+(1) telephone numbers,
+15
+16
+(2) addresses other than the location of incidents to
+16
+17
+which officers are dispatched, and
+17
+18
+(3) personal information which is contrary to the
+18
+19
+provisions of the Driver’s Privacy Protection
+19
+20
+Act, 18 United States Code, Sections 2721 through
+20
+21
+2725; and
+21
+22
+
+Section 26:
+2. For the purpose of preventing identity theft and invasion of
+22
+23
+law enforcement computer systems, except as provided in Title 47 of
+23
+24
+the Oklahoma Statutes, all driving records.
+24
+Req. No. 346 Page 16
+1
+
+Section 27:
+SECTION 2. AMENDATORY 63 O.S. 2021, Section 2-506, is
+1
+2
+amended to read as follows:
+2
+3
+
+Section 28:
+Section 2-506. A. Any peace officer of this state shall seize
+3
+4
+the following property:
+4
+5
+
+Section 29:
+1. Any property described in subsection A of Section 2-503 of
+5
+6
+this title. Such property shall be held as evidence until a
+6
+7
+forfeiture has been declared or release ordered, except for property
+7
+8
+described in paragraphs 1, 2 and 3 of subsection A of Section 2-503
+8
+9
+of this title, or in the case of money, coins, and currency,
+9
+10
+deposited as provided in subsection E of Section 2-503 of this
+10
+11
+title; provided, any money, coins and currency taken or detained
+11
+12
+pursuant to this section may be deposited in an interest-bearing
+12
+13
+account by or at the direction of the district attorney in the
+13
+14
+office of the county treasurer if the district attorney determines
+14
+15
+the currency is not to be held as evidence. All interest earned on
+15
+16
+such monies shall be returned to the claimant or forfeited with the
+16
+17
+money, coins and currency which was taken or detained as provided by
+17
+18
+law;
+18
+19
+
+Section 30:
+2. Any property described in subsection B of Section 2-503 of
+19
+20
+this title; or
+20
+21
+
+Section 31:
+3. Any property described in subsection C of Section 2-503 of
+21
+22
+this title.
+22
+23
+B. Notice of seizure and intended forfeiture proceeding shall
+23
+24
+be filed in the office of the clerk of the district court for the
+24
+Req. No. 346 Page 17
+1
+county wherein such property is seized and shall be given all owners
+1
+2
+and parties in interest. Notwithstanding any other provision of
+2
+3
+law, no filing fees shall be assessed by the court clerk for the
+3
+4
+filing of any forfeiture action.
+4
+5
+C. Notice shall be given by the agency seeking forfeiture
+5
+6
+according to one of the following methods:
+6
+7
+
+Section 32:
+1. Upon each owner or party in interest whose right, title or
+7
+8
+interest is of record in the Tax Commission, by mailing a copy of
+8
+9
+the notice by certified mail to the address as given upon the
+9
+10
+records of the Tax Commission;
+10
+11
+
+Section 33:
+2. Upon each owner or party in interest whose name and address
+11
+12
+is known to the attorney in the office of the agency prosecuting the
+12
+13
+action to recover unpaid fines, by mailing a copy of the notice by
+13
+14
+registered mail to the last-known address; or
+14
+15
+
+Section 34:
+3. Upon all other owners or interested parties, whose addresses
+15
+16
+are unknown, but who are believed to have an interest in the
+16
+17
+property, by one publication in a newspaper of general circulation
+17
+18
+in the county where the seizure was made.
+18
+19
+D. Within forty-five (45) days after the mailing or publication
+19
+20
+of the notice, the owner of the property and any other party in
+20
+21
+interest or claimant may file a verified answer and claim to the
+21
+22
+property described in the notice of seizure and of the intended
+22
+23
+forfeiture proceeding.
+23
+24
+24
+Req. No. 346 Page 18
+1
+E. If at the end of forty-five (45) days after the notice has
+1
+2
+been mailed or published there is no verified answer on file, the
+2
+3
+court shall hear evidence upon the fact of the unlawful use and
+3
+4
+shall order the property forfeited to the state, if such fact is
+4
+5
+proved. Except as otherwise provided for in Section 2-503 of this
+5
+6
+title, any such property shall be forfeited to the state and sold
+6
+7
+under judgment of the court pursuant to the provisions of Section 2-
+7
+8
+508 of this title.
+8
+9
+F. If a verified answer is filed, the forfeiture proceeding
+9
+10
+shall be set for hearing.
+10
+11
+G. At a hearing in a proceeding against property described in
+11
+12
+paragraphs 3 through 9 of subsection A or subsections B and C of
+12
+13
+
+Section 35:
+Section 2-503 of this title, the requirements set forth in said the
+13
+14
+paragraph or subsection, respectively, shall be satisfied by the
+14
+15
+state by a preponderance of the evidence.
+15
+16
+H. The claimant of any right, title, or interest in the
+16
+17
+property may prove a lien, mortgage, or conditional sales contract
+17
+18
+to be a bona fide or innocent ownership interest and that such
+18
+19
+right, title, or interest was created without any knowledge or
+19
+20
+reason to believe that the property was being, or was to be, used
+20
+21
+for the purpose charged.
+21
+22
+I. In the event of such proof, the court shall order the
+22
+23
+property released to the bona fide or innocent owner, lien holder,
+23
+24
+mortgagee or vendor if the amount due him is equal to, or in excess
+24
+Req. No. 346 Page 19
+1
+of, the value of the property as of the date of the seizure, it
+1
+2
+being the intention of this section to forfeit only the right, title
+2
+3
+or interest of the purchaser.
+3
+4
+J. If the amount due to such person is less than the value of
+4
+5
+the property, or if no bona fide claim is established, the property
+5
+6
+shall be forfeited to the state and sold under judgment of the
+6
+7
+court, as provided for in Section 2-508 of this title, except as
+7
+8
+otherwise provided for in Section 2-503 of this title.
+8
+9
+K. Property taken or detained under this section shall not be
+9
+10
+repleviable, but shall be deemed to be in the custody of the office
+10
+11
+of the district attorney of the county wherein the property was
+11
+12
+seized, subject only to the orders and decrees of the court or the
+12
+13
+official having jurisdiction thereof; said the official shall
+13
+14
+maintain a true and accurate inventory and record of all such
+14
+15
+property seized under the provisions of this section. The
+15
+16
+provisions of this subsection shall not apply to property taken or
+16
+17
+detained by the Oklahoma State Bureau of Narcotics and Dangerous
+17
+18
+Drugs Control, the Department of Public Safety, the Oklahoma State
+18
+19
+Bureau of Investigation, the Alcoholic Beverage Laws Enforcement
+19
+20
+Commission, the Department of Corrections or the Office of the
+20
+21
+Attorney General. Property taken or detained by the Oklahoma State
+21
+22
+Bureau of Narcotics and Dangerous Drugs Control, the Department of
+22
+23
+Public Safety, the Oklahoma State Bureau of Investigation, the
+23
+24
+Alcoholic Beverage Laws Enforcement Commission, the Department of
+24
+Req. No. 346 Page 20
+1
+Corrections or the Office of the Attorney General shall be subject
+1
+2
+to the provisions of subsections E and F of Section 2-503 of this
+2
+3
+title.
+3
+4
+L. The proceeds of the sale of any property not taken or
+4
+5
+detained by the Oklahoma State Bureau of Narcotics and Dangerous
+5
+6
+Drugs Control, the Department of Public Safety, the Oklahoma State
+6
+7
+Bureau of Investigation, the Alcoholic Beverage Laws Enforcement
+7
+8
+Commission, the Department of Corrections or the Office of the
+8
+9
+Attorney General shall be distributed as follows, in the order
+9
+10
+indicated:
+10
+11
+
+Section 36:
+1. To the bona fide or innocent purchaser, conditional sales
+11
+12
+vendor or mortgagee of the property, if any, up to the amount of his
+12
+13
+or her interest in the property, when the court declaring the
+13
+14
+forfeiture orders a distribution to such person;
+14
+15
+
+Section 37:
+2. To the payment of the actual expenses of preserving the
+15
+16
+property and legitimate costs related to the civil forfeiture
+16
+17
+proceedings. For purposes of this paragraph, the term “legitimate
+17
+18
+costs” shall not include court costs associated with any civil
+18
+19
+forfeiture proceeding; and
+19
+20
+
+Section 38:
+3. The balance to a revolving fund in the office of the county
+20
+21
+treasurer of the county wherein the property was seized, said the
+21
+22
+fund to be used as a revolving fund solely for enforcement of
+22
+23
+controlled dangerous substances laws, drug abuse prevention and drug
+23
+24
+abuse education, and maintained by the district attorney in his or
+24
+Req. No. 346 Page 21
+1
+her discretion for those purposes with a yearly accounting to the
+1
+2
+board of county commissioners in whose county the fund is
+2
+3
+established and to the District Attorneys Council; provided, one
+3
+4
+hundred percent (100%) of the balance of the proceeds of such sale
+4
+5
+of property forfeited due to nonpayment of a fine imposed pursuant
+5
+6
+to the provisions of Section 2-415 of this title shall be
+6
+7
+apportioned as provided in Section 2-416 of this title. The
+7
+8
+revolving fund shall be audited by the State Auditor and Inspector
+8
+9
+at least every two (2) years in the manner provided in Section 171
+9
+10
+of Title 19 of the Oklahoma Statutes. Said The audit shall include,
+10
+11
+but not be limited to, a compliance audit. A district attorney may
+11
+12
+enter into agreements with municipal, tribal, county or state
+12
+13
+agencies to return to such an agency a percentage of proceeds of the
+13
+14
+sale of any property seized by the agency and forfeited under the
+14
+15
+provisions of this section. The District Attorneys Council shall
+15
+16
+adopt guidelines which ensure that such agencies receive a
+16
+17
+reasonable percentage of such proceeds, considering the relative
+17
+18
+contribution of each agency to the drug enforcement and prosecution
+18
+19
+operations relating to the seizure. In formulating said the
+19
+20
+guidelines, the District Attorneys Council shall examine federal
+20
+21
+guidelines on asset distribution and use said the guidelines as a
+21
+22
+basis for establishing guidelines for this state. The Attorney
+22
+23
+General is hereby authorized to mediate disputes between district
+23
+24
+attorneys and such agencies concerning the application of said the
+24
+Req. No. 346 Page 22
+1
+guidelines in particular instances. Any agency that receives
+1
+2
+proceeds from an asset distribution shall maintain a true and
+2
+3
+accurate record of all such assets.
+3
+4
+M. Whenever any vehicle, airplane or vessel is forfeited under
+4
+5
+the Uniform Controlled Dangerous Substances Act, the district court
+5
+6
+of jurisdiction may order that the vehicle, airplane or vessel
+6
+7
+seized may be retained by the state, county or city law enforcement
+7
+8
+agency which seized the vehicle, airplane or vessel for its official
+8
+9
+use.
+9
+10
+N. If the court finds that the state failed to satisfy the
+10
+11
+required showing provided for in subsection G of this section, the
+11
+12
+court shall order the property released to the owner or owners.
+12
+13
+O. Except as provided for in subsection Q of this section, a
+13
+14
+bona fide or innocent owner, lien holder, mortgagee or vendor that
+14
+15
+recovers property pursuant to this section shall not be liable for
+15
+16
+storage fees.
+16
+17
+P. Except as provided for in subsection Q of this section,
+17
+18
+storage fees shall be paid by the agency which is processing the
+18
+19
+seizure and forfeiture from funds generated by seizure and
+19
+20
+forfeiture actions.
+20
+21
+Q. The bona fide or innocent owner, lien holder, mortgagee or
+21
+22
+vendor shall reclaim subject seized property within thirty (30) days
+22
+23
+of written notice from the seizing agency. If such person fails to
+23
+24
+24
+Req. No. 346 Page 23
+1
+reclaim the property within the thirty-day time period, then storage
+1
+2
+fees may be assessed against their secured interest.
+2
+3
+R. 1. At any hearing held relevant to this section, a report
+3
+4
+of the findings of the laboratory of the Oklahoma State Bureau of
+4
+5
+Investigation, the medical examiner’s report of investigation or
+5
+6
+autopsy report, or a laboratory report from a forensic laboratory
+6
+7
+operated by the State of Oklahoma or any political subdivision
+7
+8
+thereof, which has been made available to the accused by the office
+8
+9
+of the district attorney or other party to the forfeiture at least
+9
+10
+five (5) days prior to the hearing, with reference to all or part of
+10
+11
+the evidence submitted, when certified as correct by the persons
+11
+12
+making the report shall be received as evidence of the facts and
+12
+13
+findings stated, if relevant and otherwise admissible in evidence.
+13
+14
+If such report is deemed relevant by the forfeiture applicant or the
+14
+15
+respondent, the court shall admit such report without the testimony
+15
+16
+of the person making the report, unless the court, pursuant to this
+16
+17
+subsection, orders such person to appear.
+17
+18
+
+Section 39:
+2. When any alleged controlled dangerous substance has been
+18
+19
+submitted to the laboratory of the OSBI for analysis, and such
+19
+20
+analysis shows that the submitted material is a controlled dangerous
+20
+21
+substance, the distribution of which constitutes a felony under the
+21
+22
+laws of this state, no portion of such substance shall be released
+22
+23
+to any other person or laboratory except to the criminal justice
+23
+24
+agency originally submitting the substance to the OSBI for analysis,
+24
+Req. No. 346 Page 24
+1
+absent an order of a district court. The defendant shall
+1
+2
+additionally be required to submit to the court a procedure for
+2
+3
+transfer and analysis of the subject material to ensure the
+3
+4
+integrity of the sample and to prevent the material from being used
+4
+5
+in any illegal manner.
+5
+6
+
+Section 40:
+3. The court, upon motion of either party, shall order the
+6
+7
+attendance of any person preparing a report submitted as evidence in
+7
+8
+the hearing when it appears there is a substantial likelihood that
+8
+9
+material evidence not contained in said the report may be produced
+9
+10
+by the testimony of any person having prepared a report. The
+10
+11
+hearing shall be held and, if sustained, an order issued not less
+11
+12
+than five (5) days prior to the time when the testimony shall be
+12
+13
+required.
+13
+14
+
+Section 41:
+4. If within five (5) days prior to the hearing or during a
+14
+15
+hearing, a motion is made pursuant to this section requiring a
+15
+16
+person having prepared a report to testify, the court may hear a
+16
+17
+report or other evidence but shall continue the hearing until such
+17
+18
+time notice of the motion and hearing is given to the person making
+18
+19
+the report, the motion is heard, and, if sustained, the testimony
+19
+20
+ordered can be given.
+20
+21
+S. In any forfeiture proceeding under this chapter in which the
+21
+22
+defendant or claimant prevails, the court may order the plaintiff
+22
+23
+processing the seizure and forfeiture to pay from funds generated by
+23
+24
+seizure and forfeiture actions:
+24
+Req. No. 346 Page 25
+1
+
+Section 42:
+1. Reasonable attorney fees and other litigation costs
+1
+2
+reasonably incurred by the defendant or claimant directly related to
+2
+3
+the claim on which the defendant or claimant prevailed;
+3
+4
+
+Section 43:
+2. Postjudgment interest; and
+4
+5
+
+Section 44:
+3. In cases involving currency or other negotiable instruments:
+5
+6
+a. interest actually paid to the state from the date of
+6
+7
+seizure or arrest of the property that resulted from
+7
+8
+the investment of the property in an interest-bearing
+8
+9
+account or instrument, and
+9
+10
+b. an imputed amount of interest that such currency,
+10
+11
+instruments, or proceeds would have earned at the rate
+11
+12
+applicable to the thirty-day Treasury Bill, for any
+12
+13
+period during which no interest was paid, not
+13
+14
+including any period when the property reasonably was
+14
+15
+in use as evidence in an official proceeding or in
+15
+16
+conducting scientific tests for the purpose of
+16
+17
+collecting evidence, commencing fifteen (15) days
+17
+18
+after the property was seized by a law enforcement
+18
+19
+agency or was turned over to a law enforcement agency
+19
+20
+by a federal law enforcement authority.
+20
+21
+T. Any law enforcement agency seizing property pursuant to this
+21
+22
+
+Section 45:
+section shall electronically submit an annual report by February 1
+22
+23
+of each year identifying the property seized and the disposition of
+23
+24
+such property to the Governor, the President Pro Tempore of the
+24
+Req. No. 346 Page 26
+1
+Senate, the Speaker of the House of Representatives, and the Office
+1
+2
+of the State Auditor and Inspector. All reports and data submitted
+2
+3
+pursuant to this subsection shall be published on the data.ok.gov
+3
+4
+website.
+4
+5
+
+Section 46:
+SECTION 3. This act shall become effective November 1, 2025.
+5
+6
+6
+7
+60-1-346 TEK 1/19/2025 5:39:36 AM
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 346 Page 27
+[DELETED:  P B J]
+[DELETED:  P]
+[DELETED:  P d d w d d i]
+[DELETED:  P w i r]
+[DELETED:  P a A t p t a e d a]
+[DELETED:  P a r a N d d w]
+[DELETED:  P d d i u i i]
+[DELETED:  P u i i t]
+[DELETED:  P]
+[DELETED:  P i]
+[DELETED:  P]
+[DELETED:  P r]
+[DELETED:  P]
+[DELETED:  P a A N]
+[DELETED:  P]
+[DELETED:  P t p t t a p]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P i a]
+[DELETED:  P T 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 596 By: Jett
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to asset forfeiture transparency;
+7
+amending 51 O.S. 2021, Section 24A.8, as amended by
+8
+Section 1, Chapter 12, O.S.L. 2022 (51 O.S. Supp.
+8
+2024, Section 24A.8), which relates to law
+9
+enforcement records; making certain reports available
+9
+for public inspection; amending 63 O.S. 2021, Section
+10
+2-506, which relates to seizure of property;
+10
+requiring submission of certain report; requiring
+11
+publication of report on certain website; updating
+11
+statutory language; and providing an effective date.
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+SECTION 1. AMENDATORY 51 O.S. 2021, Section 24A.8, as
+15
+16
+amended by Section 1, Chapter 12, O.S.L. 2022 (51 O.S. Supp. 2024,
+16
+17
+Section 24A.8), is amended to read as follows:
+17
+18
+Section 24A.8. A. Law enforcement agencies shall make
+18
+19
+available for public inspection and copying, if kept, the following
+19
+20
+records:
+20
+21
+1. An arrestee description, including the name, date of birth,
+21
+22
+address, race, sex, physical description, and occupation of the
+22
+23
+arrestee;
+23
+24
+24
+Req. No. 346 Page 1
+
+1
+2. Facts concerning the arrest, including the cause of arrest
+1
+2
+and the name of the arresting officer;
+2
+3
+3. A chronological list of all incidents, including initial
+3
+4
+offense report information showing the offense, date, time, general
+4
+5
+location, officer, and a brief summary of what occurred;
+5
+6
+4. Radio logs, including a chronological listing of the calls
+6
+7
+dispatched;
+7
+8
+5. Conviction information, including the name of any person
+8
+9
+convicted of a criminal offense;
+9
+10
+6. Disposition of all warrants, including orders signed by a
+10
+11
+judge of any court commanding a law enforcement officer to arrest a
+11
+12
+particular person;
+12
+13
+7. A crime summary, including an agency summary of crimes
+13
+14
+reported and public calls for service by classification or nature
+14
+15
+and number;
+15
+16
+8. Jail registers, including jail blotter data or jail booking
+16
+17
+information recorded on persons at the time of incarceration showing
+17
+18
+the name of each prisoner with the date and cause of commitment, the
+18
+19
+authority committing the prisoner, whether committed for a criminal
+19
+20
+offense, a description of the prisoner, and the date or manner of
+20
+21
+discharge or escape of the prisoner;
+21
+22
+9. Annual reports submitted pursuant to subsection T of Section
+22
+23
+2-506 of Title 63 of the Oklahoma Statutes;
+23
+24
+24
+Req. No. 346 Page 2
+
+1
+10. Audio and video recordings from recording equipment
+1
+2
+attached to law enforcement vehicles or associated audio recordings
+2
+3
+from recording equipment on the person of a law enforcement officer;
+3
+4
+provided, the law enforcement agency may, before releasing any audio
+4
+5
+or video recording provided for in this paragraph, redact or obscure
+5
+6
+specific portions of the recording which:
+6
+7
+a. depict the death of a person or a dead body, unless
+7
+8
+the death was effected by a law enforcement officer,
+8
+9
+b. depict nudity,
+9
+10
+c. would identify minors under the age of sixteen (16)
+10
+11
+years or would undermine any requirement to keep
+11
+12
+certain juvenile records confidential as provided for
+12
+13
+in Title 10A of the Oklahoma Statutes,
+13
+14
+d. depict acts of severe violence resulting in great
+14
+15
+bodily injury, as defined in Section 11-904 of Title
+15
+16
+47 of the Oklahoma Statutes, against persons that are
+16
+17
+clearly visible, unless the act of severe violence was
+17
+18
+effected by a law enforcement officer,
+18
+19
+e. depict great bodily injury, as defined in Section 11-
+19
+20
+904 of Title 47 of the Oklahoma Statutes, unless the
+20
+21
+great bodily injury was effected by a law enforcement
+21
+22
+officer,
+22
+23
+f. include personal medical information that is not
+23
+24
+already public,
+24
+Req. No. 346 Page 3
+
+1
+g. would undermine the assertion of a privilege provided
+1
+2
+in Section 1-109 or Section 3-428 of Title 43A of the
+2
+3
+Oklahoma Statutes for detention or transportation for
+3
+4
+mental health evaluation or treatment or drug or
+4
+5
+alcohol detoxification purposes,
+5
+6
+h. include personal information other than the name or
+6
+7
+license plate number of a person not arrested, cited,
+7
+8
+charged or issued a written warning. Such personal
+8
+9
+information shall include any government-issued
+9
+10
+identification number, date of birth, address or
+10
+11
+financial information, or
+11
+12
+i. reveal the identity of law enforcement officers who
+12
+13
+have become subject to internal investigation by the
+13
+14
+law enforcement agency as a result of an event
+14
+15
+depicted in the recording. The option to protect the
+15
+16
+identity of a law enforcement officer shall not be
+16
+17
+available to the law enforcement agency after the law
+17
+18
+enforcement agency has concluded the investigation and
+18
+19
+rendered a decision as to final disciplinary action.
+19
+20
+At such time when an investigation has concluded and
+20
+21
+the law enforcement agency has rendered its decision
+21
+22
+as to final disciplinary action, the portions of the
+22
+23
+recordings previously withheld as provided for in this
+23
+24
+subparagraph shall be available for public inspection
+24
+Req. No. 346 Page 4
+
+1
+and copying. The audio and video recordings withheld
+1
+2
+as provided for in this subparagraph shall be
+2
+3
+available for public inspection and copying before the
+3
+4
+conclusion of the investigation if the investigation
+4
+5
+lasts for an unreasonable amount of time; and
+5
+6
+10. 11. a. Audio and video recordings from recording
+6
+7
+equipment attached to the person of a law enforcement
+7
+8
+officer that depict:
+8
+9
+(1) the use of any physical force or violence by a
+9
+10
+law enforcement officer,
+10
+11
+(2) pursuits of any kind,
+11
+12
+(3) traffic stops,
+12
+13
+(4) any person being arrested, cited, charged or
+13
+14
+issued a written warning,
+14
+15
+(5) events that directly led to any person being
+15
+16
+arrested, cited, charged or receiving a written
+16
+17
+warning,
+17
+18
+(6) detentions of any length for the purpose of
+18
+19
+investigation,
+19
+20
+(7) any exercise of authority by a law enforcement
+20
+21
+officer that deprives a citizen of his or her
+21
+22
+liberty,
+22
+23
+23
+24
+24
+Req. No. 346 Page 5
+
+1
+(8) actions by a law enforcement officer that have
+1
+2
+become the cause of an investigation or charges
+2
+3
+being filed,
+3
+4
+(9) recordings in the public interest that may
+4
+5
+materially aid a determination of whether law
+5
+6
+enforcement officers are appropriately performing
+6
+7
+their duties as public servants, or
+7
+8
+(10) any contextual events occurring before or after
+8
+9
+the events depicted in divisions (1) through (9)
+9
+10
+of this subparagraph.
+10
+11
+b. Notwithstanding the provisions of subparagraph a of
+11
+12
+this paragraph, the law enforcement agency may, before
+12
+13
+releasing any audio or video recording provided for in
+13
+14
+this paragraph, redact or obscure specific portions of
+14
+15
+the recording that:
+15
+16
+(1) depict the death of a person or a dead body,
+16
+17
+unless the death was effected by a law
+17
+18
+enforcement officer,
+18
+19
+(2) depict nudity,
+19
+20
+(3) would identify minors under the age of sixteen
+20
+21
+(16) years or would undermine any requirement to
+21
+22
+keep certain juvenile records confidential as
+22
+23
+provided for in Title 10A of the Oklahoma
+23
+24
+Statutes,
+24
+Req. No. 346 Page 6
+
+1
+(4) depict acts of severe violence resulting in great
+1
+2
+bodily injury, as defined in Section 11-904 of
+2
+3
+Title 47 of the Oklahoma Statutes, against
+3
+4
+persons that are clearly visible, unless the act
+4
+5
+of severe violence was effected by a law
+5
+6
+enforcement officer,
+6
+7
+(5) depict great bodily injury, as defined in Section
+7
+8
+11-904 of Title 47 of the Oklahoma Statutes,
+8
+9
+unless the great bodily injury was effected by a
+9
+10
+law enforcement officer,
+10
+11
+(6) include personal medical information that is not
+11
+12
+already public,
+12
+13
+(7) undermine the assertion of a privilege as
+13
+14
+provided in Section 1-109 or Section 3-428 of
+14
+15
+Title 43A of the Oklahoma Statutes for detention
+15
+16
+or transportation for mental health evaluation or
+16
+17
+treatment or drug or alcohol detoxification
+17
+18
+purposes,
+18
+19
+(8) identify alleged victims of sex crimes or
+19
+20
+domestic violence,
+20
+21
+(9) identify any person who provides information to
+21
+22
+law enforcement or the information provided by
+22
+23
+that person when that person requests anonymity
+23
+24
+or where disclosure of the identity of the person
+24
+Req. No. 346 Page 7
+
+1
+or the information provided could reasonably be
+1
+2
+expected to threaten or endanger the physical
+2
+3
+safety or property of the person or the physical
+3
+4
+safety or property of others,
+4
+5
+(10) undermine the assertion of a privilege to keep
+5
+6
+the identity of an informer confidential as
+6
+7
+provided for in Section 2510 of Title 12 of the
+7
+8
+Oklahoma Statutes,
+8
+9
+(11) include personal information other than the name
+9
+10
+or license plate number of a person not
+10
+11
+officially arrested, cited, charged or issued a
+11
+12
+written warning. Such personal information shall
+12
+13
+include any government-issued identification
+13
+14
+number, date of birth, address or financial
+14
+15
+information,
+15
+16
+(12) include information that would materially
+16
+17
+compromise an ongoing criminal investigation or
+17
+18
+ongoing criminal prosecution, provided that:
+18
+19
+(a) ten (10) days following the formal
+19
+20
+arraignment or initial appearance, whichever
+20
+21
+occurs first, of a person charged in the
+21
+22
+case in question, the recording shall be
+22
+23
+made available for public inspection and
+23
+24
+copying with no redaction of the portions
+24
+Req. No. 346 Page 8
+
+1
+that were temporarily withheld by reliance
+1
+2
+on this division. Provided, before
+2
+3
+potential release of a recording as provided
+3
+4
+for in this subdivision, the prosecutor or
+4
+5
+legal representative of the person charged
+5
+6
+may request from the appropriate district
+6
+7
+court an extension of time during which the
+7
+8
+recording may be withheld under the
+8
+9
+provisions of this division. When a request
+9
+10
+for an extension of time has been filed with
+10
+11
+the court, the recording in question may be
+11
+12
+withheld until the court has issued a
+12
+13
+ruling. Such requests for an extension of
+13
+14
+the time during which the recording may be
+14
+15
+withheld may be made on the grounds that
+15
+16
+release of the recording will materially
+16
+17
+compromise an ongoing criminal investigation
+17
+18
+or criminal prosecution or on the grounds
+18
+19
+that release of the recording will
+19
+20
+materially compromise the right of an
+20
+21
+accused to a fair trial that has yet to
+21
+22
+begin. Courts considering such requests
+22
+23
+shall conduct a hearing and consider whether
+23
+24
+the interests of the public outweigh the
+24
+Req. No. 346 Page 9
+
+1
+interests asserted by the parties. In
+1
+2
+response to such requests, the court shall
+2
+3
+order that the recording be made available
+3
+4
+for public inspection and copying with no
+4
+5
+redaction of the portions that were
+5
+6
+temporarily withheld by reliance on this
+6
+7
+division or order an extension of time
+7
+8
+during which the recording may be withheld
+8
+9
+under the provisions of this division.
+9
+10
+Provided further, each such time extension
+10
+11
+shall only be ordered by the court for an
+11
+12
+additional six-month period of time or less
+12
+13
+and cumulative time extensions shall not add
+13
+14
+up to more than eighteen (18) months, or
+14
+15
+(b) in the event that one hundred twenty (120)
+15
+16
+days expire from the date of the events
+16
+17
+depicted in the recording without any person
+17
+18
+being criminally charged in the case in
+18
+19
+question and release of a recording or
+19
+20
+portions of a recording have been denied on
+20
+21
+the grounds provided for in this division,
+21
+22
+an appeal of such denial may be made to the
+22
+23
+appropriate district court. In situations
+23
+24
+where one hundred twenty (120) days have
+24
+Req. No. 346 Page 10
+
+1
+expired since the creation of the recording,
+1
+2
+criminal charges have not been filed against
+2
+3
+a person and the recording is being withheld
+3
+4
+on the grounds provided for in this
+4
+5
+division, courts considering appeals to the
+5
+6
+use of the provisions of this division for
+6
+7
+temporarily withholding a recording shall
+7
+8
+conduct a hearing and consider whether the
+8
+9
+interests of the public outweigh the
+9
+10
+interests of the parties protected by this
+10
+11
+division. In response to such appeals, the
+11
+12
+district court shall order that the
+12
+13
+recording be made available for public
+13
+14
+inspection and copying with no redaction of
+14
+15
+the portions that were temporarily withheld
+15
+16
+by reliance on this division or order an
+16
+17
+extension of time during which the recording
+17
+18
+may be withheld under the provisions of this
+18
+19
+division. An order granting an extension of
+19
+20
+time shall be applicable to the recording
+20
+21
+against all appellants for the duration of
+21
+22
+the extension. Provided, each such time
+22
+23
+extension shall only be ordered by the
+23
+24
+district court for an additional twelve-
+24
+Req. No. 346 Page 11
+
+1
+month period of time or less and cumulative
+1
+2
+time extensions shall not add up to more
+2
+3
+than three (3) years. Provided, charges
+3
+4
+being filed against a person in the case in
+4
+5
+question automatically cancels any extension
+5
+6
+of time. A new request for an extension of
+6
+7
+time following an arraignment or initial
+7
+8
+appearance may be requested by the parties
+8
+9
+on the grounds and under the terms provided
+9
+10
+for in subdivision (a) of this division.
+10
+11
+The options presented in this division to
+11
+12
+potentially withhold a recording or portions of a
+12
+13
+recording on the grounds provided for in this
+13
+14
+division shall expire in totality four (4) years
+14
+15
+after the recording was made at which time all
+15
+16
+recordings previously withheld on the grounds
+16
+17
+provided for in this division shall be made
+17
+18
+available for public inspection and copying, or
+18
+19
+(13) reveal the identity of law enforcement officers
+19
+20
+who have become subject to internal investigation
+20
+21
+by the law enforcement agency as a result of an
+21
+22
+event depicted in the recording. The option to
+22
+23
+protect the identity of a law enforcement officer
+23
+24
+shall not be available to the law enforcement
+24
+Req. No. 346 Page 12
+
+1
+agency after the law enforcement agency has
+1
+2
+concluded the investigation and rendered a
+2
+3
+decision as to final disciplinary action. At
+3
+4
+such time when an investigation has concluded and
+4
+5
+the law enforcement agency has rendered its
+5
+6
+decision as to final disciplinary action, the
+6
+7
+portions of the recordings previously withheld as
+7
+8
+provided for in this division shall be available
+8
+9
+for public inspection and copying. The audio and
+9
+10
+video recordings withheld on the grounds provided
+10
+11
+for in this division shall be available for
+11
+12
+public inspection and copying before the
+12
+13
+conclusion of the investigation if the
+13
+14
+investigation lasts for an unreasonable amount of
+14
+15
+time.
+15
+16
+B. 1. Except for the records listed in subsection A of this
+16
+17
+section and those made open by other state or local laws, law
+17
+18
+enforcement agencies may deny access to law enforcement records
+18
+19
+except where a court finds that the public interest or the interest
+19
+20
+of an individual outweighs the reason for denial. The provisions of
+20
+21
+this section shall not operate to deny access to law enforcement
+21
+22
+records if such records have been previously made available to the
+22
+23
+public as provided in the Oklahoma Open Records Act or as otherwise
+23
+24
+provided by law.
+24
+Req. No. 346 Page 13
+
+1
+2. a. A law enforcement agency shall deny access to any
+1
+2
+audio or video recording that depicts the death of a
+2
+3
+law enforcement officer who was acting in the course
+3
+4
+of his or her official duties including any related
+4
+5
+acts or events immediately preceding or subsequent to
+5
+6
+the acts or events that caused or otherwise relate to
+6
+7
+the death, except where a court finds that the public
+7
+8
+interest or the interest of an individual outweighs
+8
+9
+the reason for denial. Provided, however, a law
+9
+10
+enforcement agency may allow a family member of the
+10
+11
+deceased law enforcement officer to hear or view such
+11
+12
+audio or video recording under protocols established
+12
+13
+by the law enforcement agency. For the purposes of
+13
+14
+this subparagraph, “family member” means a spouse,
+14
+15
+adult child, parent or sibling of the deceased law
+15
+16
+enforcement officer.
+16
+17
+b. Nothing in subparagraph a of this paragraph shall be
+17
+18
+construed to prohibit the prosecution and defense
+18
+19
+counsel from access to such audio or video recordings
+19
+20
+or the use of such recordings as evidence in a legal
+20
+21
+proceeding.
+21
+22
+C. Nothing contained in this section imposes any new
+22
+23
+recordkeeping requirements. Law enforcement records shall be kept
+23
+24
+for as long as is now or may hereafter be specified by law. Absent
+24
+Req. No. 346 Page 14
+
+1
+a legal requirement for the keeping of a law enforcement record for
+1
+2
+a specific time period, law enforcement agencies shall maintain
+2
+3
+their records for so long as needed for administrative purposes.
+3
+4
+D. Registration files maintained by the Department of
+4
+5
+Corrections pursuant to the provisions of the Sex Offenders
+5
+6
+Registration Act shall be made available for public inspection in a
+6
+7
+manner to be determined by the Department.
+7
+8
+E. The Council on Law Enforcement Education and Training
+8
+9
+(C.L.E.E.T.) shall keep confidential all records it maintains
+9
+10
+pursuant to Section 3311 of Title 70 of the Oklahoma Statutes and
+10
+11
+deny release of records relating to any employed or certified full-
+11
+12
+time officer, reserve officer, retired officer or other person;
+12
+13
+teacher lesson plans, tests and other teaching materials; and
+13
+14
+personal communications concerning individual students except under
+14
+15
+the following circumstances:
+15
+16
+1. To verify the current certification status of any peace
+16
+17
+officer;
+17
+18
+2. As may be required to perform the duties imposed by Section
+18
+19
+3311 of Title 70 of the Oklahoma Statutes;
+19
+20
+3. To provide to any peace officer copies of the records of
+20
+21
+that peace officer upon submitting a written request;
+21
+22
+4. To provide, upon written request, to any law enforcement
+22
+23
+agency conducting an official investigation, copies of the records
+23
+24
+of any peace officer who is the subject of such investigation;
+24
+Req. No. 346 Page 15
+
+1
+5. To provide final orders of administrative proceedings where
+1
+2
+an adverse action was taken against a peace officer; and
+2
+3
+6. Pursuant to an order of the district court of the State of
+3
+4
+Oklahoma.
+4
+5
+F. The Department of Public Safety shall keep confidential:
+5
+6
+1. All records it maintains pursuant to its authority under
+6
+7
+Title 47 of the Oklahoma Statutes relating to the Oklahoma Highway
+7
+8
+Patrol Division, the Communications Division, and other divisions of
+8
+9
+the Department relating to:
+9
+10
+a. training, lesson plans, teaching materials, tests and
+10
+11
+test results,
+11
+12
+b. policies, procedures and operations, any of which are
+12
+13
+of a tactical nature, and
+13
+14
+c. the following information from radio logs:
+14
+15
+(1) telephone numbers,
+15
+16
+(2) addresses other than the location of incidents to
+16
+17
+which officers are dispatched, and
+17
+18
+(3) personal information which is contrary to the
+18
+19
+provisions of the Driver’s Privacy Protection
+19
+20
+Act, 18 United States Code, Sections 2721 through
+20
+21
+2725; and
+21
+22
+2. For the purpose of preventing identity theft and invasion of
+22
+23
+law enforcement computer systems, except as provided in Title 47 of
+23
+24
+the Oklahoma Statutes, all driving records.
+24
+Req. No. 346 Page 16
+
+1
+SECTION 2. AMENDATORY 63 O.S. 2021, Section 2-506, is
+1
+2
+amended to read as follows:
+2
+3
+Section 2-506. A. Any peace officer of this state shall seize
+3
+4
+the following property:
+4
+5
+1. Any property described in subsection A of Section 2-503 of
+5
+6
+this title. Such property shall be held as evidence until a
+6
+7
+forfeiture has been declared or release ordered, except for property
+7
+8
+described in paragraphs 1, 2 and 3 of subsection A of Section 2-503
+8
+9
+of this title, or in the case of money, coins, and currency,
+9
+10
+deposited as provided in subsection E of Section 2-503 of this
+10
+11
+title; provided, any money, coins and currency taken or detained
+11
+12
+pursuant to this section may be deposited in an interest-bearing
+12
+13
+account by or at the direction of the district attorney in the
+13
+14
+office of the county treasurer if the district attorney determines
+14
+15
+the currency is not to be held as evidence. All interest earned on
+15
+16
+such monies shall be returned to the claimant or forfeited with the
+16
+17
+money, coins and currency which was taken or detained as provided by
+17
+18
+law;
+18
+19
+2. Any property described in subsection B of Section 2-503 of
+19
+20
+this title; or
+20
+21
+3. Any property described in subsection C of Section 2-503 of
+21
+22
+this title.
+22
+23
+B. Notice of seizure and intended forfeiture proceeding shall
+23
+24
+be filed in the office of the clerk of the district court for the
+24
+Req. No. 346 Page 17
+
+1
+county wherein such property is seized and shall be given all owners
+1
+2
+and parties in interest. Notwithstanding any other provision of
+2
+3
+law, no filing fees shall be assessed by the court clerk for the
+3
+4
+filing of any forfeiture action.
+4
+5
+C. Notice shall be given by the agency seeking forfeiture
+5
+6
+according to one of the following methods:
+6
+7
+1. Upon each owner or party in interest whose right, title or
+7
+8
+interest is of record in the Tax Commission, by mailing a copy of
+8
+9
+the notice by certified mail to the address as given upon the
+9
+10
+records of the Tax Commission;
+10
+11
+2. Upon each owner or party in interest whose name and address
+11
+12
+is known to the attorney in the office of the agency prosecuting the
+12
+13
+action to recover unpaid fines, by mailing a copy of the notice by
+13
+14
+registered mail to the last-known address; or
+14
+15
+3. Upon all other owners or interested parties, whose addresses
+15
+16
+are unknown, but who are believed to have an interest in the
+16
+17
+property, by one publication in a newspaper of general circulation
+17
+18
+in the county where the seizure was made.
+18
+19
+D. Within forty-five (45) days after the mailing or publication
+19
+20
+of the notice, the owner of the property and any other party in
+20
+21
+interest or claimant may file a verified answer and claim to the
+21
+22
+property described in the notice of seizure and of the intended
+22
+23
+forfeiture proceeding.
+23
+24
+24
+Req. No. 346 Page 18
+
+1
+E. If at the end of forty-five (45) days after the notice has
+1
+2
+been mailed or published there is no verified answer on file, the
+2
+3
+court shall hear evidence upon the fact of the unlawful use and
+3
+4
+shall order the property forfeited to the state, if such fact is
+4
+5
+proved. Except as otherwise provided for in Section 2-503 of this
+5
+6
+title, any such property shall be forfeited to the state and sold
+6
+7
+under judgment of the court pursuant to the provisions of Section 2-
+7
+8
+508 of this title.
+8
+9
+F. If a verified answer is filed, the forfeiture proceeding
+9
+10
+shall be set for hearing.
+10
+11
+G. At a hearing in a proceeding against property described in
+11
+12
+paragraphs 3 through 9 of subsection A or subsections B and C of
+12
+13
+Section 2-503 of this title, the requirements set forth in said the
+13
+14
+paragraph or subsection, respectively, shall be satisfied by the
+14
+15
+state by a preponderance of the evidence.
+15
+16
+H. The claimant of any right, title, or interest in the
+16
+17
+property may prove a lien, mortgage, or conditional sales contract
+17
+18
+to be a bona fide or innocent ownership interest and that such
+18
+19
+right, title, or interest was created without any knowledge or
+19
+20
+reason to believe that the property was being, or was to be, used
+20
+21
+for the purpose charged.
+21
+22
+I. In the event of such proof, the court shall order the
+22
+23
+property released to the bona fide or innocent owner, lien holder,
+23
+24
+mortgagee or vendor if the amount due him is equal to, or in excess
+24
+Req. No. 346 Page 19
+
+1
+of, the value of the property as of the date of the seizure, it
+1
+2
+being the intention of this section to forfeit only the right, title
+2
+3
+or interest of the purchaser.
+3
+4
+J. If the amount due to such person is less than the value of
+4
+5
+the property, or if no bona fide claim is established, the property
+5
+6
+shall be forfeited to the state and sold under judgment of the
+6
+7
+court, as provided for in Section 2-508 of this title, except as
+7
+8
+otherwise provided for in Section 2-503 of this title.
+8
+9
+K. Property taken or detained under this section shall not be
+9
+10
+repleviable, but shall be deemed to be in the custody of the office
+10
+11
+of the district attorney of the county wherein the property was
+11
+12
+seized, subject only to the orders and decrees of the court or the
+12
+13
+official having jurisdiction thereof; said the official shall
+13
+14
+maintain a true and accurate inventory and record of all such
+14
+15
+property seized under the provisions of this section. The
+15
+16
+provisions of this subsection shall not apply to property taken or
+16
+17
+detained by the Oklahoma State Bureau of Narcotics and Dangerous
+17
+18
+Drugs Control, the Department of Public Safety, the Oklahoma State
+18
+19
+Bureau of Investigation, the Alcoholic Beverage Laws Enforcement
+19
+20
+Commission, the Department of Corrections or the Office of the
+20
+21
+Attorney General. Property taken or detained by the Oklahoma State
+21
+22
+Bureau of Narcotics and Dangerous Drugs Control, the Department of
+22
+23
+Public Safety, the Oklahoma State Bureau of Investigation, the
+23
+24
+Alcoholic Beverage Laws Enforcement Commission, the Department of
+24
+Req. No. 346 Page 20
+
+1
+Corrections or the Office of the Attorney General shall be subject
+1
+2
+to the provisions of subsections E and F of Section 2-503 of this
+2
+3
+title.
+3
+4
+L. The proceeds of the sale of any property not taken or
+4
+5
+detained by the Oklahoma State Bureau of Narcotics and Dangerous
+5
+6
+Drugs Control, the Department of Public Safety, the Oklahoma State
+6
+7
+Bureau of Investigation, the Alcoholic Beverage Laws Enforcement
+7
+8
+Commission, the Department of Corrections or the Office of the
+8
+9
+Attorney General shall be distributed as follows, in the order
+9
+10
+indicated:
+10
+11
+1. To the bona fide or innocent purchaser, conditional sales
+11
+12
+vendor or mortgagee of the property, if any, up to the amount of his
+12
+13
+or her interest in the property, when the court declaring the
+13
+14
+forfeiture orders a distribution to such person;
+14
+15
+2. To the payment of the actual expenses of preserving the
+15
+16
+property and legitimate costs related to the civil forfeiture
+16
+17
+proceedings. For purposes of this paragraph, the term “legitimate
+17
+18
+costs” shall not include court costs associated with any civil
+18
+19
+forfeiture proceeding; and
+19
+20
+3. The balance to a revolving fund in the office of the county
+20
+21
+treasurer of the county wherein the property was seized, said the
+21
+22
+fund to be used as a revolving fund solely for enforcement of
+22
+23
+controlled dangerous substances laws, drug abuse prevention and drug
+23
+24
+abuse education, and maintained by the district attorney in his or
+24
+Req. No. 346 Page 21
+
+1
+her discretion for those purposes with a yearly accounting to the
+1
+2
+board of county commissioners in whose county the fund is
+2
+3
+established and to the District Attorneys Council; provided, one
+3
+4
+hundred percent (100%) of the balance of the proceeds of such sale
+4
+5
+of property forfeited due to nonpayment of a fine imposed pursuant
+5
+6
+to the provisions of Section 2-415 of this title shall be
+6
+7
+apportioned as provided in Section 2-416 of this title. The
+7
+8
+revolving fund shall be audited by the State Auditor and Inspector
+8
+9
+at least every two (2) years in the manner provided in Section 171
+9
+10
+of Title 19 of the Oklahoma Statutes. Said The audit shall include,
+10
+11
+but not be limited to, a compliance audit. A district attorney may
+11
+12
+enter into agreements with municipal, tribal, county or state
+12
+13
+agencies to return to such an agency a percentage of proceeds of the
+13
+14
+sale of any property seized by the agency and forfeited under the
+14
+15
+provisions of this section. The District Attorneys Council shall
+15
+16
+adopt guidelines which ensure that such agencies receive a
+16
+17
+reasonable percentage of such proceeds, considering the relative
+17
+18
+contribution of each agency to the drug enforcement and prosecution
+18
+19
+operations relating to the seizure. In formulating said the
+19
+20
+guidelines, the District Attorneys Council shall examine federal
+20
+21
+guidelines on asset distribution and use said the guidelines as a
+21
+22
+basis for establishing guidelines for this state. The Attorney
+22
+23
+General is hereby authorized to mediate disputes between district
+23
+24
+attorneys and such agencies concerning the application of said the
+24
+Req. No. 346 Page 22
+
+1
+guidelines in particular instances. Any agency that receives
+1
+2
+proceeds from an asset distribution shall maintain a true and
+2
+3
+accurate record of all such assets.
+3
+4
+M. Whenever any vehicle, airplane or vessel is forfeited under
+4
+5
+the Uniform Controlled Dangerous Substances Act, the district court
+5
+6
+of jurisdiction may order that the vehicle, airplane or vessel
+6
+7
+seized may be retained by the state, county or city law enforcement
+7
+8
+agency which seized the vehicle, airplane or vessel for its official
+8
+9
+use.
+9
+10
+N. If the court finds that the state failed to satisfy the
+10
+11
+required showing provided for in subsection G of this section, the
+11
+12
+court shall order the property released to the owner or owners.
+12
+13
+O. Except as provided for in subsection Q of this section, a
+13
+14
+bona fide or innocent owner, lien holder, mortgagee or vendor that
+14
+15
+recovers property pursuant to this section shall not be liable for
+15
+16
+storage fees.
+16
+17
+P. Except as provided for in subsection Q of this section,
+17
+18
+storage fees shall be paid by the agency which is processing the
+18
+19
+seizure and forfeiture from funds generated by seizure and
+19
+20
+forfeiture actions.
+20
+21
+Q. The bona fide or innocent owner, lien holder, mortgagee or
+21
+22
+vendor shall reclaim subject seized property within thirty (30) days
+22
+23
+of written notice from the seizing agency. If such person fails to
+23
+24
+24
+Req. No. 346 Page 23
+
+1
+reclaim the property within the thirty-day time period, then storage
+1
+2
+fees may be assessed against their secured interest.
+2
+3
+R. 1. At any hearing held relevant to this section, a report
+3
+4
+of the findings of the laboratory of the Oklahoma State Bureau of
+4
+5
+Investigation, the medical examiner’s report of investigation or
+5
+6
+autopsy report, or a laboratory report from a forensic laboratory
+6
+7
+operated by the State of Oklahoma or any political subdivision
+7
+8
+thereof, which has been made available to the accused by the office
+8
+9
+of the district attorney or other party to the forfeiture at least
+9
+10
+five (5) days prior to the hearing, with reference to all or part of
+10
+11
+the evidence submitted, when certified as correct by the persons
+11
+12
+making the report shall be received as evidence of the facts and
+12
+13
+findings stated, if relevant and otherwise admissible in evidence.
+13
+14
+If such report is deemed relevant by the forfeiture applicant or the
+14
+15
+respondent, the court shall admit such report without the testimony
+15
+16
+of the person making the report, unless the court, pursuant to this
+16
+17
+subsection, orders such person to appear.
+17
+18
+2. When any alleged controlled dangerous substance has been
+18
+19
+submitted to the laboratory of the OSBI for analysis, and such
+19
+20
+analysis shows that the submitted material is a controlled dangerous
+20
+21
+substance, the distribution of which constitutes a felony under the
+21
+22
+laws of this state, no portion of such substance shall be released
+22
+23
+to any other person or laboratory except to the criminal justice
+23
+24
+agency originally submitting the substance to the OSBI for analysis,
+24
+Req. No. 346 Page 24
+
+1
+absent an order of a district court. The defendant shall
+1
+2
+additionally be required to submit to the court a procedure for
+2
+3
+transfer and analysis of the subject material to ensure the
+3
+4
+integrity of the sample and to prevent the material from being used
+4
+5
+in any illegal manner.
+5
+6
+3. The court, upon motion of either party, shall order the
+6
+7
+attendance of any person preparing a report submitted as evidence in
+7
+8
+the hearing when it appears there is a substantial likelihood that
+8
+9
+material evidence not contained in said the report may be produced
+9
+10
+by the testimony of any person having prepared a report. The
+10
+11
+hearing shall be held and, if sustained, an order issued not less
+11
+12
+than five (5) days prior to the time when the testimony shall be
+12
+13
+required.
+13
+14
+4. If within five (5) days prior to the hearing or during a
+14
+15
+hearing, a motion is made pursuant to this section requiring a
+15
+16
+person having prepared a report to testify, the court may hear a
+16
+17
+report or other evidence but shall continue the hearing until such
+17
+18
+time notice of the motion and hearing is given to the person making
+18
+19
+the report, the motion is heard, and, if sustained, the testimony
+19
+20
+ordered can be given.
+20
+21
+S. In any forfeiture proceeding under this chapter in which the
+21
+22
+defendant or claimant prevails, the court may order the plaintiff
+22
+23
+processing the seizure and forfeiture to pay from funds generated by
+23
+24
+seizure and forfeiture actions:
+24
+Req. No. 346 Page 25
+
+1
+1. Reasonable attorney fees and other litigation costs
+1
+2
+reasonably incurred by the defendant or claimant directly related to
+2
+3
+the claim on which the defendant or claimant prevailed;
+3
+4
+2. Postjudgment interest; and
+4
+5
+3. In cases involving currency or other negotiable instruments:
+5
+6
+a. interest actually paid to the state from the date of
+6
+7
+seizure or arrest of the property that resulted from
+7
+8
+the investment of the property in an interest-bearing
+8
+9
+account or instrument, and
+9
+10
+b. an imputed amount of interest that such currency,
+10
+11
+instruments, or proceeds would have earned at the rate
+11
+12
+applicable to the thirty-day Treasury Bill, for any
+12
+13
+period during which no interest was paid, not
+13
+14
+including any period when the property reasonably was
+14
+15
+in use as evidence in an official proceeding or in
+15
+16
+conducting scientific tests for the purpose of
+16
+17
+collecting evidence, commencing fifteen (15) days
+17
+18
+after the property was seized by a law enforcement
+18
+19
+agency or was turned over to a law enforcement agency
+19
+20
+by a federal law enforcement authority.
+20
+21
+T. Any law enforcement agency seizing property pursuant to this
+21
+22
+section shall electronically submit an annual report by February 1
+22
+23
+of each year identifying the property seized and the disposition of
+23
+24
+such property to the Governor, the President Pro Tempore of the
+24
+Req. No. 346 Page 26
+
+1
+Senate, the Speaker of the House of Representatives, and the Office
+1
+2
+of the State Auditor and Inspector. All reports and data submitted
+2
+3
+pursuant to this subsection shall be published on the data.ok.gov
+3
+4
+website.
+4
+5
+SECTION 3. This act shall become effective November 1, 2025.
+5
+6
+6
+7
+60-1-346 TEK 1/19/2025 5:39:36 AM
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 346 Page 27
+
+[DELETED:  P B J]
+[DELETED:  P]
+[DELETED:  P d d w d d i]
+[DELETED:  P w i r]
+[DELETED:  P a A t p t a e d a]
+[DELETED:  P a r a N d d w]
+[DELETED:  P d d i u i i]
+[DELETED:  P u i i t]
+[DELETED:  P]
+[DELETED:  P i]
+[DELETED:  P]
+[DELETED:  P r]
+[DELETED:  P]
+[DELETED:  P a A N]
+[DELETED:  P]
+[DELETED:  P t p t t a p]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P i a]
+[DELETED:  P T 1]
