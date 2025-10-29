@@ -1,0 +1,3333 @@
+Title: An Act
+Official Title: An Act
+Number of Sections: 150
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Strikethrough Detection: 41 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED HOUSE
+BILL NO. 1965 By: Williams of the House
+and
+Bullard and Pederson of the
+Senate
+An Act relating to children; amending 10A O.S. 2021,
+
+Section 2:
+Sections 1-1-105, 1-4-502, as amended by Section 1,
+Chapter 363, O.S.L. 2023, 1-4-704, as amended by
+
+Section 3:
+Section 1, Chapter 31, O.S.L. 2023, 1-4-902, and 1-4-
+904 (10A O.S. Supp. 2024, Sections 1-4-502 and 1-4-
+704), which relate to the Oklahoma Children's Code;
+modifying definitions; defining term; providing
+procedure if certain jury trial is waived; requiring
+consideration of circumstances when preparing an
+individualized service plan; requiring reunification
+services as part of certain service plans; providing
+for filing petition or motion for termination of
+parental rights by the district attorney in certain
+circumstances; providing circumstance in which a
+court may terminate the rights of a parent to a
+child; providing exceptions; amending 10A O.S. 2021,
+
+Section 4:
+Section 2-2-104.1, which relates to diversion
+services; requiring provision of diversion services
+prior to filing certain petition or upon assumption
+of certain custody; clarifying appropriate diversion
+service programs; requiring evaluation and
+publication of certain recidivism rates by the Office
+of Juvenile Affairs; requiring published data to be
+unidentifiable to specific individuals; amending 30
+O.S. 2021, Section 2-101, which relates to
+appointment of guardian of a minor; requiring certain
+preferences in appointment of guardian of a minor;
+updating statutory language; updating statutory
+references; and providing an effective date.
+SUBJECT: Children
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+Section 5:
+SECTION 1. AMENDATORY 10A O.S. 2021, Section 1-1-105, is
+amended to read as follows:
+
+Section 6:
+Section 1-1-105. When used in the Oklahoma Children’s Code,
+unless the context otherwise requires:
+
+Section 7:
+1. “Abandonment” means:
+a. the willful intent by words, actions, or omissions not
+to return for a child, or
+b. the failure to maintain a significant parental
+relationship with a child through visitation or
+communication in which incidental or token visits or
+communication are not considered significant, or
+c. the failure to respond to notice of deprived
+proceedings;
+
+Section 8:
+2. “Abuse” means harm or threatened harm to the health, safety,
+or welfare of a child by a person responsible for the child’s
+health, safety, or welfare, including, but not limited to,
+nonaccidental physical or mental injury, sexual abuse, or sexual
+exploitation. Provided, however, that nothing contained in the
+Oklahoma Children’s Code shall prohibit any parent from using
+ordinary force as a means of discipline including, but not limited
+to, spanking, switching, or paddling.
+a. “Harm or threatened harm to the health or, safety, or
+welfare of a child” means any real or threatened
+physical, mental, or emotional injury or damage to the
+body or mind that is not accidental including, but not
+limited to, sexual abuse, sexual exploitation,
+neglect, or dependency.
+b. “Sexual abuse” includes but is not limited to rape,
+incest, and lewd or indecent acts or proposals made to
+a child, as defined by law, by a person responsible
+for the health, safety, or welfare of the child.
+c. “Sexual exploitation” includes but is not limited to
+allowing, permitting, encouraging, or forcing a child
+ENR. H. B. NO. 1965 Page 2
+to engage in prostitution, as defined by law, by any
+person eighteen (18) years of age or older or by a
+person responsible for the health, safety, or welfare
+of a child, or allowing, permitting, encouraging, or
+engaging in the lewd, obscene, or pornographic, as
+defined by law, photographing, filming, or depicting
+of a child in those acts by a person responsible for
+the health, safety, and welfare of the child;
+
+Section 9:
+3. “Adjudication” means a finding by the court that the
+allegations in a petition alleging that a child is deprived are
+supported by a preponderance of the evidence;
+
+Section 10:
+4. “Adjudicatory hearing” means a hearing by the court as
+provided by Section 1-4-601 of this title;
+
+Section 11:
+5. “Age-appropriate or developmentally appropriate” means:
+a. activities or items that are generally accepted as
+suitable for children of the same age or level of
+maturity or that are determined to be developmentally
+appropriate for a child, based on the development of
+cognitive, emotional, physical, and behavioral
+capacities that are typical for an age or age group,
+and
+b. in the case of a specific child, activities or items
+that are suitable for that child based on the
+developmental stages attained by the child with
+respect to the cognitive, emotional, physical, and
+behavioral capacities of the specific child.
+In the event that any age-related activities have implications
+relative to the academic curriculum of a child, nothing in this
+paragraph shall be construed to authorize an officer or employee of
+the federal government to mandate, direct, or control a state or
+local educational agency, or the specific instructional content,
+academic achievement standards and assessments, curriculum, or
+program of instruction of a school;
+
+Section 12:
+6. “Assessment” means a comprehensive review of child safety
+and evaluation of family functioning and protective capacities that
+is conducted in response to a child abuse or neglect referral that
+does not allege a serious and immediate safety threat to a child;
+ENR. H. B. NO. 1965 Page 3
+
+Section 13:
+7. “Behavioral health” means mental health, substance abuse, or
+co-occurring mental health and substance abuse diagnoses, and the
+continuum of mental health, substance abuse, or co-occurring mental
+health and substance abuse treatment;
+
+Section 14:
+8. “Child” means any unmarried person under eighteen (18) years
+of age;
+
+Section 15:
+9. “Child advocacy center” means a center and the
+multidisciplinary child abuse team of which it is a member that is
+accredited by the National Children’s Alliance or that is completing
+a sixth year of reaccreditation. Child advocacy centers shall be
+classified, based on the child population of a district attorney’s
+district, as follows:
+a. nonurban centers in districts with child populations
+that are less than sixty thousand (60,000), and
+b. midlevel mid-level nonurban centers in districts with
+child populations equal to or greater than sixty
+thousand (60,000), but not including Oklahoma and
+Tulsa Counties;
+
+Section 16:
+10. “Child with a disability” means any child who has a
+physical or mental impairment which substantially limits one or more
+of the major life activities of the child, or who is regarded as
+having such an impairment by a competent medical professional;
+
+Section 17:
+11. “Child-placing agency” means an agency that arranges for or
+places a child in a foster family home, family-style living program,
+group home, adoptive home, or a successful adulthood program;
+
+Section 18:
+12. “Children’s emergency resource center” means a community-
+based program that may provide emergency care and a safe and
+structured homelike environment or a host home for children
+providing food, clothing, shelter and hygiene products to each child
+served; after-school tutoring; counseling services; life-skills
+training; transition services; assessments; family reunification;
+respite care; transportation to or from school, doctors’
+appointments, visitations and other social, school, court or other
+activities when necessary; and a stable environment for children in
+crisis who are in custody of the Department of Human Services if
+permitted under the Department’s policies and regulations, or who
+have been voluntarily placed by a parent or custodian during a
+temporary crisis;
+ENR. H. B. NO. 1965 Page 4
+
+Section 19:
+13. “Community-based services” or “community-based programs”
+means services or programs which maintain community participation or
+supervision in their planning, operation, and evaluation.
+Community-based services and programs may include, but are not
+limited to, emergency shelter, crisis intervention, group work, case
+supervision, job placement, recruitment and training of volunteers,
+consultation, medical, educational, home-based services, vocational,
+social, preventive and psychological guidance, training, counseling,
+early intervention and diversionary substance abuse treatment,
+sexual abuse treatment, transitional living, independent living, and
+other related services and programs;
+
+Section 20:
+14. “Concurrent permanency planning” means, when indicated, the
+implementation of two plans for a child entering foster care. One
+plan focuses on reuniting the parent and child; the other seeks to
+find a permanent out-of-home placement for the child with both plans
+being pursued simultaneously;
+
+Section 21:
+15. “Court-appointed special advocate” or “CASA” means a
+responsible adult volunteer who has been trained and is supervised
+by a court-appointed special advocate program recognized by the
+court, and when appointed by the court, serves as an officer of the
+court in the capacity as a guardian ad litem;
+
+Section 22:
+16. “Court-appointed special advocate program” means an
+organized program, administered by either an independent, not-for-
+profit corporation, a dependent project of an independent, not-for-
+profit corporation or a unit of local government, which recruits,
+screens, trains, assigns, supervises and supports volunteers to be
+available for appointment by the court as guardians ad litem;
+
+Section 23:
+17. “Custodian” means an individual other than a parent, legal
+guardian or Indian custodian, to whom legal custody of the child has
+been awarded by the court. As used in this title, the term
+“custodian” custodian shall not mean the Department of Human
+Services;
+
+Section 24:
+18. “Day treatment” means a nonresidential program which
+provides intensive services to a child who resides in the child’s
+own home, the home of a relative, a group home, a foster home, or a
+residential child care facility. Day treatment programs include,
+but are not limited to, educational services;
+
+Section 25:
+19. “Department” means the Department of Human Services;
+ENR. H. B. NO. 1965 Page 5
+
+Section 26:
+20. “Dependency” means a child who is homeless or without
+proper care or guardianship through no fault of his or her parent,
+legal guardian, or custodian;
+
+Section 27:
+21. “Deprived child” means a child:
+a. who is for any reason destitute, homeless, or
+abandoned,
+b. who does not have the proper parental care or
+guardianship,
+c. who has been abused, or neglected, or is dependent,
+d. whose home is an unfit place for the child by reason
+of depravity on the part of the parent or legal
+guardian of the child, or other person responsible for
+the health or welfare of the child,
+e. who is a child in need of special care and treatment
+because of the child’s physical or mental condition,
+and the child’s parents, legal guardian, or other
+custodian is unable or willfully fails to provide such
+special care and treatment. As used in this
+paragraph, a child in need of special care and
+treatment includes, but is not limited to, a child who
+at birth tests positive for alcohol or a controlled
+dangerous substance and who, pursuant to a drug or
+alcohol screen of the child and an assessment of the
+parent, is determined to be at risk of harm or
+threatened harm to the health or, safety, or welfare
+of a child,
+f. who is a child with a disability deprived of the
+nutrition necessary to sustain life or of the medical
+treatment necessary to remedy or relieve a life-
+threatening medical condition in order to cause or
+allow the death of the child if such nutrition or
+medical treatment is generally provided to similarly
+situated children without a disability or children
+with disabilities; provided that no medical treatment
+shall be necessary if, in the reasonable medical
+judgment of the attending physician, such treatment
+would be futile in saving the life of the child,
+ENR. H. B. NO. 1965 Page 6
+g. who, due to improper parental care and guardianship,
+is absent from school as specified in Section 10-106
+of Title 70 of the Oklahoma Statutes, if the child is
+subject to compulsory school attendance,
+h. whose parent, legal guardian or custodian for good
+cause desires to be relieved of custody,
+i. who has been born to a parent whose parental rights to
+another child have been involuntarily terminated by
+the court and the conditions which led to the making
+of the finding, which resulted in the termination of
+the parental rights of the parent to the other child,
+have not been corrected, or
+j. whose parent, legal guardian, or custodian has
+subjected another child to abuse or neglect or has
+allowed another child to be subjected to abuse or
+neglect and is currently a respondent in a deprived
+proceeding.
+Nothing in the Oklahoma Children’s Code shall be construed to
+mean a child is deprived for the sole reason the parent, legal
+guardian, or person having custody or control of a child, in good
+faith, selects and depends upon spiritual means alone through
+prayer, in accordance with the tenets and practice of a recognized
+church or religious denomination, for the treatment or cure of
+disease or remedial care of such child.
+Evidence of material, educational or cultural disadvantage as
+compared to other children shall not be sufficient to prove that a
+child is deprived; the state shall prove that the child is deprived
+as defined pursuant to this title.
+Nothing contained in this paragraph shall prevent a court from
+immediately assuming custody of a child and ordering whatever action
+may be necessary, including medical treatment, to protect the
+child’s health or welfare;
+
+Section 28:
+22. “Dispositional hearing” means a hearing by the court as
+provided by Section 1-4-706 of this title;
+
+Section 29:
+23. “Drug-endangered child” means a child who is at risk of
+suffering physical, psychological or sexual harm as a result of the
+ENR. H. B. NO. 1965 Page 7
+use, possession, distribution, manufacture or cultivation of
+controlled substances, or the attempt of any of these acts, by a
+person responsible for the health, safety or welfare of the child,
+as defined in this section. This term includes circumstances
+wherein the substance abuse of the person responsible for the
+health, safety or welfare of the child interferes with that person’s
+ability to parent and provide a safe and nurturing environment for
+the child;
+
+Section 30:
+24. “Emergency custody” means the custody of a child prior to
+adjudication of the child following issuance of an order of the
+district court pursuant to Section 1-4-201 of this title or
+following issuance of an order of the district court pursuant to an
+emergency custody hearing, as specified by Section 1-4-203 of this
+title;
+
+Section 31:
+25. “Facility” means a place, an institution, a building or
+part thereof, a set of buildings, or an area whether or not
+enclosing a building or set of buildings used for the lawful custody
+and treatment of children;
+
+Section 32:
+26. “Failure to protect” means failure to take reasonable
+action to remedy or prevent child abuse or neglect, and includes the
+conduct of a nonabusing parent or guardian who knows the identity of
+the abuser or the person neglecting the child, but lies, conceals or
+fails to report the child abuse or neglect or otherwise take
+reasonable action to end the abuse or neglect;
+
+Section 33:
+27. “Family-style living program” means a residential program
+providing sustained care and supervision to residents in a homelike
+environment not located in a building used for commercial activity;
+
+Section 34:
+28. “Foster care” or “foster care services” means continuous
+twenty-four-hour care and supportive services provided for a child
+in foster placement including, but not limited to, the care,
+supervision, guidance, and rearing of a foster child by the foster
+parent;
+
+Section 35:
+29. “Foster family home” means the private residence of a
+foster parent who provides foster care services to a child. Such
+term shall include a nonkinship foster family home, a therapeutic
+foster family home, or the home of a relative or other kinship care
+home;
+ENR. H. B. NO. 1965 Page 8
+
+Section 36:
+30. “Foster parent eligibility assessment” includes a criminal
+background investigation including, but not limited to, a national
+criminal history records search based upon the submission of
+fingerprints, home assessments, and any other assessment required by
+the Department of Human Services, the Office of Juvenile Affairs, or
+any child-placing agency pursuant to the provisions of the Oklahoma
+Child Care Facilities Licensing Act;
+
+Section 37:
+31. “Guardian ad litem” means a person appointed by the court
+pursuant to the provisions of Section 1-4-306 of this title having
+those duties and responsibilities as set forth in that section. The
+term “guardian ad litem” guardian ad litem shall refer to a court-
+appointed special advocate as well as to any other person appointed
+pursuant to the provisions of Section 1-4-306 of this title to serve
+as a guardian ad litem;
+
+Section 38:
+32. “Guardian ad litem of the estate of the child” means a
+person appointed by the court to protect the property interests of a
+child pursuant to Section 1-8-108 of this title;
+
+Section 39:
+33. “Group home” means a residential facility licensed by the
+Department to provide full-time care and community-based services
+for more than five but fewer than thirteen children;
+
+Section 40:
+34. “Harm or threatened harm to the health or safety of a
+child” means any real or threatened physical, mental, or emotional
+injury or damage to the body or mind that is not accidental
+including, but not limited to, sexual abuse, sexual exploitation,
+neglect, or dependency;
+
+Section 41:
+35. “Heinous and shocking abuse” includes, but is not limited
+to, aggravated physical abuse that results in serious bodily,
+mental, or emotional injury. “Serious bodily injury” means injury
+that involves:
+a. a substantial risk of death,
+b. extreme physical pain,
+c. protracted disfigurement,
+d. a loss or impairment of the function of a body member,
+organ, or mental faculty,
+ENR. H. B. NO. 1965 Page 9
+e. an injury to an internal or external organ or the
+body,
+f. a bone fracture,
+g. sexual abuse or sexual exploitation,
+h. chronic abuse including, but not limited to, physical,
+emotional, or sexual abuse, or sexual exploitation
+which is repeated or continuing,
+i. torture that includes, but is not limited to,
+inflicting, participating in or assisting in
+inflicting intense physical or emotional pain upon a
+child repeatedly over a period of time for the purpose
+of coercing or terrorizing a child or for the purpose
+of satisfying the craven, cruel, or prurient desires
+of the perpetrator or another person, or
+j. any other similar aggravated circumstance;
+
+Section 42:
+36. “Heinous and shocking neglect” includes, but is not limited
+to:
+a. chronic neglect that includes, but is not limited to,
+a persistent pattern of family functioning in which
+the caregiver has not met or sustained the basic needs
+of a child which results in harm to the child,
+b. neglect that has resulted in a diagnosis of the child
+as a failure to thrive,
+c. an act or failure to act by a parent that results in
+the death or near death of a child or sibling, serious
+physical or emotional harm, sexual abuse, or sexual
+exploitation, or presents an imminent risk of serious
+harm to a child, or
+d. any other similar aggravating circumstance;
+
+Section 43:
+37. “Individualized service plan” means a document written
+pursuant to Section 1-4-704 of this title that has the same meaning
+as “service plan” or “treatment plan” where those terms are used in
+the Oklahoma Children’s Code;
+ENR. H. B. NO. 1965 Page 10
+
+Section 44:
+38. “Infant” means a child who is twelve (12) months of age or
+younger;
+
+Section 45:
+39. “Institution” means a residential facility offering care
+and treatment for more than twenty residents;
+
+Section 46:
+40. a. “Investigation” means a response to an allegation of
+abuse or neglect that involves a serious and immediate
+threat to the safety of the child, making it necessary
+to determine:
+(1) the current safety of a child and the risk of
+subsequent abuse or neglect, and
+(2) whether child abuse or neglect occurred and
+whether the family needs prevention- and
+intervention-related services.
+b. “Investigation” Investigation results in a written
+response stating one of the following findings:
+(1) “substantiated” means the Department has
+determined, after an investigation of a report of
+child abuse or neglect and based upon some
+credible evidence, that child abuse or neglect
+has occurred. When child abuse or neglect is
+substantiated, the Department may recommend:
+(a) court intervention if the Department finds
+the health, safety, or welfare of the child
+is threatened, or
+(b) child abuse and neglect prevention- and
+intervention-related services for the child,
+parents or persons responsible for the care
+of the child if court intervention is not
+determined to be necessary,
+(2) “unsubstantiated” means the Department has
+determined, after an investigation of a report of
+child abuse or neglect, that insufficient
+evidence exists to fully determine whether child
+abuse or neglect has occurred. If child abuse or
+neglect is unsubstantiated, the Department may
+recommend, when determined to be necessary, that
+ENR. H. B. NO. 1965 Page 11
+the parents or persons responsible for the care
+of the child obtain child abuse and neglect
+prevention- and intervention-related services, or
+(3) “ruled out” means a report in which a child
+protective services specialist has determined,
+after an investigation of a report of child abuse
+or neglect, that no child abuse or neglect has
+occurred;
+
+Section 47:
+41. “Kinship care” means full-time care of a child by a kinship
+relation;
+
+Section 48:
+42. “Kinship guardianship” means a permanent guardianship as
+defined in this section;
+
+Section 49:
+43. “Kinship relation” or “kinship relationship” means
+relatives, stepparents, or other responsible adults who have a bond
+or tie with a child and/or or to whom has been ascribed a family
+relationship role with the child’s parents or the child; provided,
+however, in cases where the Indian Child Welfare Act applies, the
+definitions contained in 25 U.S.C., Section 1903 shall control;
+
+Section 50:
+44. “Mental health facility” means a mental health or substance
+abuse treatment facility as defined by the Inpatient Mental Health
+and Substance Abuse Treatment of Minors Act;
+
+Section 51:
+45. “Minor” means the same as the term “child” child as defined
+in this section;
+
+Section 52:
+46. “Minor in need of treatment” means a child in need of
+mental health or substance abuse treatment as defined by the
+Inpatient Mental Health and Substance Abuse Treatment of Minors Act;
+
+Section 53:
+47. “Multidisciplinary child abuse team” means any team
+established pursuant to Section 1-9-102 of this title of three or
+more persons who are trained in the prevention, identification,
+investigation, prosecution, and treatment of physical and sexual
+child abuse and who are qualified to facilitate a broad range of
+prevention- and intervention-related services and services related
+to child abuse. For purposes of this definition, “freestanding”
+means a team not used by a child advocacy center for its
+accreditation;
+ENR. H. B. NO. 1965 Page 12
+
+Section 54:
+48. “Near death” means a child is in serious or critical
+condition, as certified by a physician, as a result of abuse or
+neglect;
+
+Section 55:
+49. a. “Neglect” means:
+(1) the failure or omission to provide any of the
+following:
+(a) adequate nurturance and affection, food,
+clothing, shelter, sanitation, hygiene, or
+appropriate education,
+(b) medical, dental, or behavioral health care,
+(c) supervision or appropriate caretakers to
+protect the child from harm or threatened
+harm of which any reasonable and prudent
+person responsible for the child’s health,
+safety or welfare would be aware, or
+(d) special care made necessary for the child’s
+health and safety by the physical or mental
+condition of the child,
+(2) the failure or omission to protect a child from
+exposure to any of the following:
+(a) the use, possession, sale, or manufacture of
+illegal drugs,
+(b) illegal activities, or
+(c) sexual acts or materials that are not age-
+appropriate, or
+(3) abandonment.
+b. “Neglect” Neglect shall not mean a child who engages
+in independent activities, except if the person
+responsible for the child’s health, safety or welfare
+willfully disregards any harm or threatened harm to
+the child, given the child’s level of maturity,
+physical condition or mental abilities. Such
+independent activities include but are not limited to:
+ENR. H. B. NO. 1965 Page 13
+(1) traveling to and from school including by
+walking, running or bicycling,
+(2) traveling to and from nearby commercial or
+recreational facilities,
+(3) engaging in outdoor play,
+(4) remaining at home unattended for a reasonable
+amount of time,
+(5) remaining in a vehicle if the temperature inside
+the vehicle is not or will not become dangerously
+hot or cold, except under the conditions
+described in Section 11-1119 of Title 47 of the
+Oklahoma Statutes, or
+(6) engaging in similar activities alone or with
+other children.
+Nothing in this paragraph shall be construed to mean a child is
+abused or neglected for the sole reason the parent, legal guardian
+or person having custody or control of a child, in good faith,
+selects and depends upon spiritual means alone through prayer, in
+accordance with the tenets and practice of a recognized church or
+religious denomination, for the treatment or cure of disease or
+remedial care of such child. Nothing contained in this paragraph
+shall prevent a court from immediately assuming custody of a child,
+pursuant to the Oklahoma Children’s Code, and ordering whatever
+action may be necessary, including medical treatment, to protect the
+child’s health or welfare;
+
+Section 56:
+50. “Permanency hearing” means a hearing by the court pursuant
+to Section 1-4-811 of this title;
+
+Section 57:
+51. “Permanent custody” means the court-ordered custody of an
+adjudicated deprived child when a parent-child relationship no
+longer exists due to termination of parental rights or due to the
+death of a parent or parents;
+
+Section 58:
+52. “Permanent guardianship” means a judicially created
+relationship between a child, a kinship relation of the child, or
+other adult established pursuant to the provisions of Section 1-4-
+709 of this title;
+ENR. H. B. NO. 1965 Page 14
+
+Section 59:
+53. “Person responsible for a child’s health, safety, or
+welfare” includes a parent; a legal guardian; custodian; a foster
+parent; a person eighteen (18) years of age or older with whom the
+child’s parent cohabitates or any other adult residing in the home
+of the child; an agent or employee of a public or private
+residential home, institution, facility or day treatment program as
+defined in Section 175.20 of Title 10 of the Oklahoma Statutes; or
+an owner, operator, or employee of a child care facility as defined
+by Section 402 of Title 10 of the Oklahoma Statutes;
+
+Section 60:
+54. “Plan of safe care” means a plan developed for an infant
+with Neonatal Abstinence Syndrome or a Fetal Alcohol Spectrum
+Disorder upon release from the care of a health care provider that
+addresses the health and substance use treatment needs of the infant
+and mother or caregiver;
+
+Section 61:
+55. “Protective custody” means custody of a child taken by a
+law enforcement officer or designated employee of the court without
+a court order;
+
+Section 62:
+56. “Putative father” means an alleged father as that term is
+defined in Section 7700-102 of Title 10 of the Oklahoma Statutes;
+
+Section 63:
+57. “Qualified residential treatment program” means a program
+that:
+a. has a trauma-informed treatment model that is designed
+to address the needs including clinical needs as
+appropriate, of children with serious emotional or
+behavioral disorders or disturbances and, with respect
+to a child, is able to implement the treatment
+identified for the child from a required assessment,
+b. has registered or licensed nursing staff and other
+licensed clinical staff who:
+(1) provide care within the scope of their practice
+as defined by the laws of this state,
+(2) are on-site according to the treatment model
+referred to in subparagraph a of this paragraph,
+and
+ENR. H. B. NO. 1965 Page 15
+(3) are available twenty-four (24) hours a day and
+seven (7) days a week,
+c. to the extent appropriate, and in accordance with the
+child’s best interest, facilitates participation of
+family members in the child’s treatment program,
+d. facilitates outreach to the family members of the
+child including siblings, documents how the outreach
+is made including contact information, and maintains
+contact information for any known biological family of
+the child,
+e. documents how family members are integrated into the
+treatment process for the child including post-
+discharge, and how sibling connections are maintained,
+f. provides discharge planning and family-based aftercare
+support for at least six (6) months post-discharge,
+and
+g. is licensed and accredited by any of the following
+independent, not-for-profit organizations:
+(1) The the Commission on Accreditation of
+Rehabilitation Facilities (CARF),
+(2) The the Joint Commission on Accreditation of
+Healthcare Organizations (JCAHO),
+(3) The the Council on Accreditation (COA), or
+(4) any other federally approved independent, not-
+for-profit accrediting organization;
+
+Section 64:
+58. “Reasonable and prudent parent standard” means the standard
+characterized by careful and sensible parental decisions that
+maintain the health, safety, and best interests of a child while at
+the same time encouraging the emotional and developmental growth of
+the child. This standard shall be used by the child’s caregiver
+when determining whether to allow a child to participate in
+extracurricular, enrichment, cultural, and social activities. For
+purposes of this definition, the term “caregiver” means a foster
+parent with whom a child in foster care has been placed, a
+representative of a group home where a child has been placed or a
+ENR. H. B. NO. 1965 Page 16
+designated official for a residential child care facility where a
+child in foster care has been placed;
+
+Section 65:
+59. “Relative” means a grandparent, great-grandparent, brother
+or sister of whole or half blood, aunt, uncle or any other person
+related to the child;
+
+Section 66:
+60. “Residential child care facility” means a twenty-four-hour
+residential facility where children live together with or are
+supervised by adults who are not their parents or relatives;
+
+Section 67:
+61. “Review hearing” means a hearing by the court pursuant to
+
+Section 68:
+Section 1-4-807 of this title;
+
+Section 69:
+62. “Risk” means the likelihood that an incident of child abuse
+or neglect will occur in the future;
+
+Section 70:
+63. “Safety threat” means the threat of serious harm due to
+child abuse or neglect occurring in the present or in the very near
+future and without the intervention of another person, a child would
+likely or in all probability sustain severe or permanent disability
+or injury, illness, or death;
+
+Section 71:
+64. “Safety analysis” means action taken by the Department in
+response to a report of alleged child abuse or neglect that may
+include an assessment or investigation based upon an analysis of the
+information received according to priority guidelines and other
+criteria adopted by the Department;
+
+Section 72:
+65. “Safety evaluation” means evaluation of a child’s situation
+by the Department using a structured, evidence-based tool to
+determine if the child is subject to a safety threat;
+
+Section 73:
+66. “Secure facility” means a facility which is designed and
+operated to ensure that all entrances and exits from the facility
+are subject to the exclusive control of the staff of the facility,
+whether or not the juvenile being detained has freedom of movement
+within the perimeter of the facility, or a facility which relies on
+locked rooms and buildings, fences, or physical restraint in order
+to control behavior of its residents;
+
+Section 74:
+67. “Sibling” means a biologically or legally related brother
+or sister of a child. This includes an individual who satisfies at
+least one of the following conditions with respect to a child:
+ENR. H. B. NO. 1965 Page 17
+a. the individual is considered by state law to be a
+sibling of the child, or
+b. the individual would have been considered a sibling
+under state law but for a termination or other
+disruption of parental rights, such as the death of a
+parent;
+
+Section 75:
+68. “Specialized foster care” means foster care provided to a
+child in a foster home or agency-contracted home which:
+a. has been certified by the Developmental Disabilities
+Services Division of the Department of Human Services,
+b. is monitored by the Division, and
+c. is funded through the Home- Home and Community-Based
+Waiver Services Program administered by the Division;
+
+Section 76:
+69. “Successful adulthood program” means a program specifically
+designed to assist a child to enhance those skills and abilities
+necessary for successful adult living. A successful adulthood
+program may include, but shall not be limited to, such features as
+minimal direct staff supervision, and the provision of supportive
+services to assist children with activities necessary for finding an
+appropriate place of residence, completing an education or
+vocational training, obtaining employment, or obtaining other
+similar services;
+
+Section 77:
+70. “Temporary custody” means court-ordered custody of an
+adjudicated deprived child;
+
+Section 78:
+71. “Therapeutic foster family home” means a foster family home
+which provides specific treatment services, pursuant to a
+therapeutic foster care contract, which are designed to remedy
+social and behavioral problems of a foster child residing in the
+home;
+
+Section 79:
+72. “Time-limited reunification services” means reunification
+services provided only during the period of fifteen (15) months that
+begins on the date the child is considered to have entered foster
+care;
+ENR. H. B. NO. 1965 Page 18
+
+Section 80:
+73. “Trafficking in persons” means sex trafficking or severe
+forms of trafficking in persons as described in Section 7102 of
+Title 22 of the United States Code:
+a. “sex trafficking” means the recruitment, harboring,
+transportation, provision, obtaining, patronizing or
+soliciting of a person for the purpose of a commercial
+sex act, and
+b. “severe forms of trafficking in persons” means:
+(1) sex trafficking in which a commercial sex act is
+induced by force, fraud, or coercion, or in which
+the person induced to perform such act has not
+attained eighteen (18) years of age, or
+(2) the recruitment, harboring, transportation,
+provision, obtaining, patronizing or soliciting
+of a person for labor or services, through the
+use of force, fraud, or coercion for the purpose
+of subjection to involuntary servitude, peonage,
+debt bondage, or slavery;
+
+Section 81:
+73. 74. “Transitional living program” means a residential
+program that may be attached to an existing facility or operated
+solely for the purpose of assisting children to develop the skills
+and abilities necessary for successful adult living. The program
+may include, but shall not be limited to, reduced staff supervision,
+vocational training, educational services, employment and employment
+training, and other appropriate independent living skills training
+as a part of the transitional living program; and
+
+Section 82:
+74. 75. “Voluntary foster care placement” means the temporary
+placement of a child by the parent, legal guardian or custodian of
+the child in foster care pursuant to a signed placement agreement
+between the Department or a child-placing agency and the child’s
+parent, legal guardian or custodian.
+
+Section 83:
+SECTION 2. AMENDATORY 10A O.S. 2021, Section 1-4-502, as
+amended by Section 1, Chapter 363, O.S.L. 2023 (10A O.S. Supp. 2024,
+
+Section 84:
+Section 1-4-502), is amended to read as follows:
+
+Section 85:
+Section 1-4-502. A. A parent entitled to service of summons,
+the state or a child shall have the right to demand a trial by jury
+ENR. H. B. NO. 1965 Page 19
+on the sole issue of termination of parental rights only in the
+following circumstances:
+
+Section 86:
+1. When the initial petition to determine if a child is
+deprived also contains a request for termination of parental rights
+in which case the court shall determine if the child should be
+adjudicated deprived and, if so, the jury shall determine if
+parental rights should be terminated; or
+
+Section 87:
+2. When, following a hearing in which the child is adjudicated
+deprived, a request for termination of parental rights is filed by
+the state or the child.
+B. The demand for a jury trial shall be granted unless waived,
+or the court on its own motion may call a jury to try any
+termination of parental rights case.
+C. 1. If the jury trial to determine whether parental rights
+should be terminated is waived, the court shall issue a scheduling
+order within thirty (30) days. A bench trial shall commence within
+ninety (90) days of the issuance of the scheduling order unless the
+court issues a written order with findings of fact supporting a
+determination that there exists an exceptional circumstance to
+support the delay or that the parties and the guardian ad litem, if
+any, agree to such continuance.
+
+Section 88:
+2. Upon a demand for a trial by jury, the court shall issue a
+scheduling order within thirty (30) days. A jury trial shall
+commence within six (6) months of the issuance of the scheduling
+order unless the court issues a written order with findings of fact
+supporting a determination that there exists an exceptional
+circumstance to support the delay or that the parties and the
+guardian ad litem, if any, agree to such continuance. The jury
+shall consist of six (6) persons. A party who requests a jury trial
+and fails to appear in person for such trial, after proper notice
+and without good cause, may be deemed by the court to have waived
+the right to such jury trial, and the termination of parental rights
+shall be by nonjury trial unless another party demands a jury trial
+or the court determines on its own motion to try the case to a jury.
+
+Section 89:
+SECTION 3. AMENDATORY 10A O.S. 2021, Section 1-4-704, as
+amended by Section 1, Chapter 31, O.S.L. 2023 (10A O.S. Supp. 2024,
+
+Section 90:
+Section 1-4-704), is amended to read as follows:
+ENR. H. B. NO. 1965 Page 20
+
+Section 91:
+Section 1-4-704. A. The Department of Human Services or a
+licensed child-placing agency shall prepare and maintain a written
+individualized service plan for any child that has been adjudicated
+to be a deprived child.
+B. The plan shall be furnished to the court within thirty (30)
+days after the adjudication of the child and shall be made available
+to counsel for the parties and any applicable tribe by the
+Department or the licensed child-placing agency having custody of
+the child or responsibility for the supervision of the case.
+C. 1. The individualized service plan shall be based upon a
+comprehensive assessment and evaluation of the child and family and
+shall be developed with the participation of the parent, legal
+guardian, or legal custodian of the child, the attorney for the
+child, the guardian ad litem for the child, if any, the child’s
+tribe, and the child, if appropriate. The health and safety of the
+child shall be the paramount concern in the development of the plan.
+
+Section 92:
+2. If any part of the plan is disputed or not approved by the
+court, an evidentiary hearing may be held and at its conclusion, the
+court shall determine the content of the individualized service plan
+in accord with the evidence presented and the best interests of the
+child.
+
+Section 93:
+3. When approved by the court, each individualized service plan
+shall be incorporated and made a part of the dispositional order of
+the court.
+
+Section 94:
+4. The plan shall be signed by:
+a. the parent or parents or legal guardian of the child,
+b. the attorney for the parent or parents or legal
+guardian of the child,
+c. the child’s attorney,
+d. the guardian ad litem of the child, which may be a
+court-appointed special advocate,
+e. a representative of the child’s tribe,
+f. the child, if possible, and
+ENR. H. B. NO. 1965 Page 21
+g. the Department or other responsible agency.
+D. 1. Every service plan prepared shall be individualized and
+specific to each child and the family of the child and shall require
+consideration of each child’s and family’s circumstances, including,
+but not limited to, the parents’ work schedule, mode of
+transportation, and distance from their place of living and place of
+work to service providers.
+
+Section 95:
+2. The individualized service plan shall be written in simple
+and clear English. If English is not the principal language of the
+parent, legal guardian, or custodian of the child, and such person
+is unable to read or comprehend the English language, to the extent
+possible the plan shall be written in the principal language of the
+person.
+
+Section 96:
+3. The individualized service plan may be modified based on
+changing circumstances consistent with the correction of the
+conditions that led to the adjudication of the child or other
+conditions inconsistent with the health, safety, or welfare of the
+child.
+
+Section 97:
+4. The individualized service plan shall be measurable,
+realistic and consistent with the requirements of other court
+orders.
+E. The individualized service plan shall include, but not be
+limited to:
+
+Section 98:
+1. A history of the child and family, including identification
+of the problems or conditions leading to the deprived child
+adjudication and the changes the parent or parents must make in
+order for the child to safely remain in or return to the home;
+
+Section 99:
+2. Identification of time-limited reunification services to be
+provided to the parent, legal guardian, or legal custodian,
+stepparent, other adult person living in the home, or other family
+members. Provided, however, that such reunification services shall
+be part of any individualized service plan for the period of fifteen
+(15) months that begins on the date the child entered foster care.
+If a parent has not corrected the circumstances which led the child
+to be adjudicated to be a deprived child after such period of
+fifteen (15) months and if the court makes a finding pursuant to
+paragraph 16 of subsection B of Section 1-4-904 of this title, then
+a petition or motion for termination of parental rights shall be
+ENR. H. B. NO. 1965 Page 22
+filed by the district attorney pursuant to Section 1-4-902 of this
+title;
+
+Section 100:
+3. Identification of the specific services to be provided to
+the child including, but not limited to, educational, vocational
+educational, medical, drug or alcohol abuse treatment, or counseling
+or other treatment services. The most recent available health and
+educational records of the child shall be provided to the court upon
+the court’s request including:
+a. the names and addresses of the child’s health and
+educational providers,
+b. the child’s grade-level performance,
+c. the child’s school record,
+d. a record of the child’s immunizations,
+e. the child’s known medical problems, including any
+known communicable diseases,
+f. the child’s medications, and
+g. any other relevant health and education information;
+
+Section 101:
+4. A schedule of the frequency of services and the means by
+which delivery of the services will be assured or, as necessary, the
+proposed means by which support services or other assistance will be
+provided to enable the parent or the child to obtain the services;
+
+Section 102:
+5. The name of the social worker assigned to the case;
+
+Section 103:
+6. A projected date for the completion of the individualized
+service plan;
+
+Section 104:
+7. Performance criteria that will measure the progress of the
+child and family toward completion of the individualized service
+plan including, but not limited to, time frames for achieving
+objectives and addressing the identified problems;
+
+Section 105:
+8. The name and business address of the attorney representing
+the child;
+ENR. H. B. NO. 1965 Page 23
+
+Section 106:
+9. If the child is placed outside the home, the individualized
+service plan shall further provide:
+a. the sequence and time frame for services to be
+provided to the parent, the child, and if the child is
+placed in foster care, the foster parent, to
+facilitate the child’s return home or to another
+permanent placement,
+b. a description of the child’s placement and explanation
+about whether it is the least-restrictive placement
+available and in as close proximity as possible to the
+home of the parent or parents or legal guardian of the
+child when the case plan is reunification, and how the
+placement is consistent with the best interests and
+special needs of the child,
+c. a description of any services or resources that were
+requested by the child or the parent or legal guardian
+of the child since the date of the child’s placement,
+and whether those services or resources were provided
+and if not, the basis for the denial of the services
+or resources,
+d. efforts to be made by the parent of the child and the
+Department to enable the child to return to his or her
+home,
+e. a description of the transition planning for a
+successful adulthood for a child age fourteen (14)
+years of age or older that includes how the following
+objectives will be met:
+(1) education, vocational, or employment planning,
+(2) health care planning and medical coverage,
+(3) transportation including, where appropriate,
+assisting the child in obtaining a driver
+license,
+(4) money management,
+(5) planning for housing,
+ENR. H. B. NO. 1965 Page 24
+(6) social and recreational skills, and
+(7) establishing and maintaining connections with the
+child’s family and community,
+f. for a child in placement due solely or in part to the
+child’s behavioral health or medical health issues,
+diagnostic and assessment information, specific
+services relating to meeting the applicable behavioral
+health and medical care needs of the child, and
+desired treatment outcomes,
+g. a plan and schedule for regular and frequent
+visitation for the child and the child’s parent or
+parents or legal guardian and siblings, unless the
+court has determined that visitation, even if
+supervised, would be harmful to the child, and
+h. a plan for ensuring the educational stability of the
+child while in out-of-home placement, including:
+(1) assurances that the placement of the child
+considers the appropriateness of the current
+educational setting and the proximity to the
+school in which the child was enrolled at the
+time of placement, and
+(2) where appropriate, an assurance that the
+Department has coordinated with appropriate local
+educational agencies to ensure that the child
+remains in the school in which the child was
+enrolled at the time of placement, or
+(3) if remaining in the school in which the child was
+enrolled at the time of placement is not in the
+best interests of the child, assurances by the
+Department and the local educational agencies to
+provide immediate and appropriate enrollment in a
+new school with all of the educational records of
+the child provided to the school; and
+
+Section 107:
+10. The permanency plan for the child, the reason for selection
+of that plan and a description of the steps being taken by the
+Department to finalize the plan.
+ENR. H. B. NO. 1965 Page 25
+a. When the permanency plan is adoption or legal
+guardianship, the Department shall describe, at a
+minimum, child-specific recruitment efforts such as
+relative searches conducted and the use of state,
+regional, and national adoption exchanges to
+facilitate the orderly and timely placement of the
+child, whether in or outside of the state.
+b. When the child is age fourteen (14) years of age or
+older, the permanency plan and any revision or
+addition to the plan, shall include planning for the
+transition of the child to a successful adulthood.
+F. Each individualized service plan shall specifically provide
+for the safety of the child, in accordance with state and federal
+law, and clearly define what actions or precautions will, or may, be
+necessary to provide for the safety and protection of the child.
+G. The individualized service plan shall include the following
+statement:
+TO THE PARENT: THIS IS A VERY IMPORTANT DOCUMENT. ITS PURPOSE
+IS TO HELP YOU PROVIDE YOUR CHILD WITH A SAFE HOME WITHIN THE
+REASONABLE PERIOD SPECIFIED IN THE PLAN. IF YOU ARE UNWILLING OR
+UNABLE TO PROVIDE YOUR CHILD WITH A SAFE HOME OR ATTEND COURT
+HEARINGS, YOUR PARENTAL AND CUSTODIAL DUTIES AND RIGHTS MAY BE
+RESTRICTED OR TERMINATED OR YOUR CHILD MAY NOT BE RETURNED TO YOU.
+H. Whenever a child who is subject to the provisions of this
+
+Section 108:
+section is committed for inpatient behavioral health or substance
+abuse treatment pursuant to the Inpatient Mental Health and
+Substance Abuse Treatment of Minors Act, the individualized service
+plan shall be amended as necessary and appropriate, including, but
+not limited to, identification of the treatment and services to be
+provided to the child and the child’s family upon discharge of the
+child from inpatient behavioral health or substance abuse treatment.
+I. Prior to adjudication, a parent or legal guardian may
+voluntarily participate in services related to the behaviors and
+conditions that led to the filing of a deprived petition.
+Participation in such services shall not be construed as an
+admission that the child is deprived and shall not be used as
+evidence for the purpose of adjudication or disposition.
+ENR. H. B. NO. 1965 Page 26
+
+Section 109:
+SECTION 4. AMENDATORY 10A O.S. 2021, Section 1-4-902, is
+amended to read as follows:
+
+Section 110:
+Section 1-4-902. A. The district attorney shall file a
+petition or motion for termination of the parent-child relationship
+and parental rights with respect to a child or shall join in the
+petition or motion, if filed by the child’s attorney, in any of the
+following circumstances:
+
+Section 111:
+1. Prior to the end of the fifteenth month when a child has
+been placed in foster care by the Department of Human Services for
+fifteen (15) of the most recent twenty-two (22) months. For
+purposes of this paragraph, a child shall be considered to have
+entered foster care on the earlier of:
+a. the date of adjudication as a deprived child, or
+b. the date that is sixty (60) days after the date on
+which the child is removed from the home;
+
+Section 112:
+2. No later than sixty (60) days after a child has been
+judicially determined to be an abandoned infant;
+
+Section 113:
+3. No later than sixty (60) days after a court has determined
+that reasonable efforts to reunite are not required due to a felony
+conviction of a parent of any of the following acts:
+a. permitting a child to participate in pornography child
+sexual abuse material,
+b. rape, or rape by instrumentation,
+c. lewd molestation of a child under sixteen (16) years
+of age,
+d. child abuse or neglect,
+e. enabling child abuse or neglect,
+f. causing the death of a child as a result of the
+physical or sexual abuse or chronic abuse or chronic
+neglect of the child,
+ENR. H. B. NO. 1965 Page 27
+g. causing the death of a sibling of the child as a
+result of the physical or sexual abuse or chronic
+abuse or chronic neglect of the child’s sibling,
+h. murder of any child or aiding or abetting, attempting,
+conspiring in, or soliciting to commit murder of any
+child,
+i. voluntary manslaughter of any child,
+j. a felony assault that has resulted in serious bodily
+injury to the child or another child of the parent, or
+k. murder or voluntary manslaughter of the child’s parent
+or aiding or abetting, attempting, conspiring in, or
+soliciting to commit murder of the child’s parent; or
+
+Section 114:
+4. No later than ninety (90) days after the court has ordered
+the individualized service plan if the parent has made no measurable
+progress in correcting the conditions which caused the child to be
+adjudicated deprived; or
+
+Section 115:
+5. After a period of fifteen (15) months if a parent has not
+corrected the circumstances which led the child to be adjudicated to
+be a deprived child and if the court makes a finding pursuant to
+paragraph 16 of subsection B of Section 1-4-904 of this title.
+B. If any of the following conditions exist, the district
+attorney is not required to file a petition as provided in
+subsection A of this section for a deprived child:
+
+Section 116:
+1. At the option of the Department or by order of the court,
+the child is properly being cared for by a relative;
+
+Section 117:
+2. The Department has documented a compelling reason for
+determining that filing a petition to terminate parental rights
+would not serve the best interests of the child that may include
+consideration of any of the following circumstances:
+a. the parents or legal guardians have maintained a
+relationship with the child and the child would
+benefit from continuing this relationship,
+ENR. H. B. NO. 1965 Page 28
+b. the child, who is twelve (12) years of age or older,
+objects to the termination of the parent-child legal
+relationship,
+c. the foster parents of the child are unable to adopt
+the child because of exceptional circumstances which
+do not include an unwillingness to accept legal
+responsibility for the child but are willing and
+capable of providing the child with a stable and
+permanent environment, and the removal of the child
+from the physical custody of the foster parents would
+be seriously detrimental to the emotional well-being
+of the child because the child has substantial
+psychological ties to the foster parents,
+d. the child is not capable of achieving stability if
+placed in a family setting, or
+e. the child is an unaccompanied, refugee minor and the
+situation regarding the child involves international
+legal issues or compelling foreign policy issues; or
+
+Section 118:
+3. The state has not provided to the family of the child,
+consistent with the time period in the state case plan, services
+that the state deems necessary for the safe return of the child to
+the child’s home, if reasonable efforts are required to be made with
+respect to the child.
+
+Section 119:
+SECTION 5. AMENDATORY 10A O.S. 2021, Section 1-4-904, is
+amended to read as follows:
+
+Section 120:
+Section 1-4-904. A. A court shall not terminate the rights of
+a parent to a child unless:
+
+Section 121:
+1. The child has been adjudicated to be deprived either prior
+to or concurrently with a proceeding to terminate parental rights;
+and
+
+Section 122:
+2. Termination of parental rights is in the best interests of
+the child.
+B. The court may terminate the rights of a parent to a child
+based upon the following legal grounds:
+ENR. H. B. NO. 1965 Page 29
+
+Section 123:
+1. Upon the duly acknowledged written consent of a parent, who
+voluntarily agrees to termination of parental rights.
+a. The voluntary consent for termination of parental
+rights shall be signed under oath and recorded before
+a judge of a court of competent jurisdiction and
+accompanied by the judge’s certificate that the terms
+and consequences of the consent were fully explained
+in detail in English and were fully understood by the
+parent or that the consent was translated into a
+language that the parent understood.
+b. A voluntary consent for termination of parental rights
+is effective when it is signed and may not be revoked
+except upon clear and convincing evidence that the
+consent was executed by reason of fraud or duress.
+c. However, notwithstanding the provisions in this
+paragraph, in any proceeding for a voluntary
+termination of parental rights to an Indian child, the
+consent of the parent may be withdrawn for any reason
+at any time prior to the entry of a final decree of
+termination. Any consent given prior to, or within
+ten (10) days after, the birth of an Indian child
+shall not be valid;
+
+Section 124:
+2. A finding that a parent who is entitled to custody of the
+child has abandoned the child;
+
+Section 125:
+3. A finding that the child is an abandoned infant;
+
+Section 126:
+4. A finding that the parent of a child:
+a. has voluntarily placed physical custody of the child
+with the Department of Human Services or with a child-
+placing agency for out-of-home placement,
+b. has not complied with the placement agreement, and
+c. has not demonstrated during such period a firm
+intention to resume physical custody of the child or
+to make permanent legal arrangements for the care of
+the child;
+
+Section 127:
+5. A finding that:
+ENR. H. B. NO. 1965 Page 30
+a. the parent has failed to correct the condition which
+led to the deprived adjudication of the child, and
+b. the parent has been given at least three (3) months to
+correct the condition;
+
+Section 128:
+6. A finding that:
+a. the rights of the parent to another child have been
+terminated, and
+b. the conditions that led to the prior termination of
+parental rights have not been corrected;
+
+Section 129:
+7. A finding that a parent who does not have custody of the
+child has, for at least six (6) out of the twelve (12) months
+immediately preceding the filing of the petition or motion for
+termination of parental rights, willfully failed or refused or has
+neglected to contribute to the support of the child:
+a. as specified by an order entered by a court of
+competent jurisdiction adjudicating the duty, amount
+and manner of support, or
+b. where an order of child support does not exist,
+according to the financial ability of the parent to
+contribute to the child’s support.
+Incidental or token support shall not be construed or considered in
+establishing whether a parent has maintained or contributed to the
+support of the child;
+
+Section 130:
+8. A finding that the parent has been convicted in a court of
+competent jurisdiction in any state of any of the following acts:
+a. permitting a child to participate in pornography child
+sexual abuse material,
+b. rape, or rape by instrumentation,
+c. lewd molestation of a child under sixteen (16) years
+of age,
+d. child abuse or neglect,
+ENR. H. B. NO. 1965 Page 31
+e. enabling child abuse or neglect,
+f. causing the death of a child as a result of the
+physical or sexual abuse or chronic abuse or chronic
+neglect of the child,
+g. causing the death of a sibling of the child as a
+result of the physical or sexual abuse or chronic
+abuse or chronic neglect of the child’s sibling,
+h. murder of any child or aiding or abetting, attempting,
+conspiring, or soliciting to commit murder of any
+child,
+i. voluntary manslaughter of any child,
+j. a felony assault that has resulted in serious bodily
+injury to the child or another child of the parents,
+or
+k. murder or voluntary manslaughter of the child’s parent
+or aiding or abetting, attempting, conspiring, or
+soliciting to commit murder of the child’s parent;
+
+Section 131:
+9. A finding that the parent has abused or neglected any child
+or failed to protect any child from abuse or neglect that is heinous
+or shocking;
+
+Section 132:
+10. A finding that the parent has previously abused or
+neglected the child or a sibling of the child or failed to protect
+the child or a sibling of the child from abuse or neglect and the
+child or a sibling of the child has been subjected to subsequent
+abuse;
+
+Section 133:
+11. A finding that the child was conceived as a result of rape
+perpetrated by the parent whose rights are sought to be terminated;
+
+Section 134:
+12. A finding that the parent whose rights are sought to be
+terminated is incarcerated, and the continuation of parental rights
+would result in harm to the child based on consideration of the
+following factors, among others:
+a. the duration of incarceration and its detrimental
+effect on the parent/child relationship,
+ENR. H. B. NO. 1965 Page 32
+b. any previous convictions resulting in involuntary
+confinement in a secure facility,
+c. the parent’s history of criminal behavior, including
+crimes against children,
+d. the age of the child,
+e. any evidence of abuse or neglect or failure to protect
+from abuse or neglect of the child or siblings of the
+child by the parent,
+f. the current relationship between the parent and the
+child, and
+g. the manner in which the parent has exercised parental
+rights and duties in the past.
+Provided, that the incarceration of a parent shall not in and of
+itself be sufficient to deprive a parent of parental rights;
+
+Section 135:
+13. A finding that all of the following exist:
+a. the parent has a diagnosed cognitive disorder, an
+extreme physical incapacity, or a medical condition,
+including behavioral health, which renders the parent
+incapable of adequately and appropriately exercising
+parental rights, duties, and responsibilities within a
+reasonable time considering the age of the child, and
+b. allowing the parent to have custody would cause the
+child actual harm or harm in the near future.
+A parent’s refusal or pattern of noncompliance with treatment,
+therapy, medication, or assistance from outside the home can be used
+as evidence that the parent is incapable of adequately and
+appropriately exercising parental rights, duties, and
+responsibilities.
+A finding that a parent has a diagnosed cognitive disorder, an
+extreme physical incapacity, or a medical condition, including
+behavioral health or substance dependency, shall not in and of
+itself deprive the parent of parental rights;
+ENR. H. B. NO. 1965 Page 33
+
+Section 136:
+14. A finding that:
+a. the condition that led to the deprived adjudication
+has been the subject of a previous deprived
+adjudication of this child or a sibling of this child,
+and
+b. the parent has been given an opportunity to correct
+the conditions which led to the determination of the
+initial deprived child;
+
+Section 137:
+15. A finding that there exists a substantial erosion of the
+relationship between the parent and child caused at least in part by
+the parent’s serious or aggravated neglect of the child, physical or
+sexual abuse or exploitation of the child, a prolonged and
+unreasonable absence of the parent from the child or an unreasonable
+failure by the parent to visit or communicate in a meaningful way
+with the child;
+
+Section 138:
+16. A finding that a child four (4) years of age or older at
+the time of placement has been placed in foster care by the
+Department of Human Services for fifteen (15) of the most recent
+twenty-two (22) months preceding the filing of the petition or
+motion for termination of parental rights and the child cannot, at
+the time of the filing of the petition or motion, be safely returned
+to the home of the parent. For purposes of this paragraph, a child
+shall be considered to have entered foster care on the earlier of:
+a. the adjudication date, or
+b. the date that is sixty (60) days after the date on
+which the child is removed from the home
+has been in foster care for not less than fifteen (15) months of the
+most recent twenty-two (22) months and that the parent has not
+corrected the circumstances which led the child to be adjudicated to
+be a deprived child, unless:
+a. a parent has made substantial progress toward
+eliminating the problem that caused the child’s
+placement in foster care, it is likely that the child
+will be able to safely return to the parent’s home
+within ninety (90) days, and the child’s return to the
+parent’s home will be in the child’s best interests,
+ENR. H. B. NO. 1965 Page 34
+b. the child has a close and positive relationship with a
+parent and a permanent plan that does not include
+termination of parental rights will provide the most
+secure and appropriate placement for the child,
+c. the child is twelve (12) years of age or older, is
+firmly opposed to termination of parental rights, and
+is likely to disrupt an attempt to place the child
+with an adoptive family,
+d. a parent is terminally ill but in remission, does not
+want parental rights to be terminated, and has
+designated a guardian for the child,
+e. the child is not capable of functioning if placed in a
+family setting. In such a case, the court shall
+reevaluate the status of the child every ninety (90)
+days unless there is a court determination that the
+child cannot be placed in a family setting,
+f. the child is an unaccompanied, refugee minor and the
+case involves international legal issues or compelling
+foreign policy issues,
+g. adoption is not an appropriate plan for the child,
+h. the parent’s incarceration constitutes the primary
+factor in the child’s placement in substitute care and
+termination of parental rights is not in the child’s
+best interest, or
+i. the parent’s participation in a court-ordered
+residential substance abuse treatment program
+constitutes the primary factor in the child’s
+placement in substitute care and termination of
+parental rights is not in the child’s best interest.
+For purposes of this paragraph, a child shall be considered to
+have entered foster care on the earlier of the adjudication date, or
+the date that is sixty (60) days after the date on which the child
+is removed from the home.
+The court may also consider circumstances of the failure of the
+parent to develop and maintain a parental bond with the child in a
+meaningful, supportive manner, and whether allowing the parent to
+ENR. H. B. NO. 1965 Page 35
+have custody would likely cause the child actual serious
+psychological harm or harm in the near future as a result of the
+removal of the child from the substitute caregiver due to the
+existence of a strong and positive bond between the child and
+caregiver; and
+
+Section 139:
+17. A finding that a child younger than four (4) years of age
+at the time of placement has been placed in foster care by the
+Department of Human Services for at least six (6) of the twelve (12)
+months preceding the filing of the petition or motion for
+termination of parental rights and the child cannot be safely
+returned to the home of the parent.
+a. For purposes of this paragraph, a child shall be
+considered to have entered foster care on the earlier
+of:
+(1) the adjudication date, or
+(2) the date that is sixty (60) days after the date
+on which the child is removed from the home.
+b. For purposes of this paragraph, the court may
+consider:
+(1) circumstances of the failure of the parent to
+develop and maintain a parental bond with the
+child in a meaningful, supportive manner, and
+(2) whether allowing the parent to have custody would
+likely cause the child actual serious
+psychological harm or harm in the near future as
+a result of the removal of the child from the
+substitute caregiver due to the existence of a
+strong, positive bond between the child and
+caregiver.
+C. An order directing the termination of parental rights is a
+final appealable order.
+D. The provisions of this section shall not apply to adoption
+proceedings and actions to terminate parental rights which do not
+involve a petition for deprived status of the child. Such
+proceedings and actions shall be governed by the Oklahoma Adoption
+Code.
+ENR. H. B. NO. 1965 Page 36
+
+Section 140:
+SECTION 6. AMENDATORY 10A O.S. 2021, Section 2-2-104.1,
+is amended to read as follows:
+
+Section 141:
+Section 2-2-104.1. A. Diversion services shall be offered to
+children who are at risk of being the subject of a child-in-need-of-
+supervision petition. Diversion services shall be designed to
+provide an immediate response to families in crisis and to divert
+children from court proceedings. Diversion services may be provided
+by outside agencies as designated by the district courts, juvenile
+bureaus, court employees, or a combination thereof. If a child
+would be charged with a delinquent act as a result of a first-time
+offense which would be a misdemeanor if committed by an adult,
+diversion services shall be provided prior to the district attorney
+filing a petition alleging the child to be in need of supervision or
+upon the assumption of custody pursuant to Section 2-2-101 of this
+title.
+B. Diversion services shall clearly document diligent attempts
+to provide appropriate services to the child and the family of the
+child unless it is determined that there is no substantial
+likelihood that the child and family of the child will benefit from
+further diversion attempts.
+C. Where the primary issue is truancy, steps taken by the
+school district to improve the attendance or conduct of the child in
+school shall be reviewed and attempts to engage the school district
+in further diversion attempts shall be made if it appears that such
+attempts will be beneficial to the child.
+D. Efforts to prevent the filing of the petition may extend
+until it is determined that there is no substantial likelihood that
+the child and family of the child will benefit from further
+attempts. Efforts at diversion may continue after the filing of the
+petition where it is determined that the child and family of the
+child will benefit therefrom.
+E. A child-in-need-of-supervision petition shall not be filed
+during the period that the designated agency, juvenile bureau, or
+court employee is providing the diversion services. A finding that
+the case has been successfully diverted shall constitute presumptive
+evidence that the underlying allegations have been successfully
+resolved.
+ENR. H. B. NO. 1965 Page 37
+F. The designated agency, juvenile bureau, or court employee
+shall promptly give written notice to the child and family of the
+child whenever attempts to prevent the filing of the petition have
+terminated and shall indicate in the notice whether the efforts were
+successful or whether a child-in-need-of-supervision petition should
+be filed with the court. A petition may or may not be filed where
+diversion services have been terminated because the parent or other
+person legally responsible for the child failed to consent to the
+diversion plan or failed to actively participate in the services
+provided.
+G. Diversion services shall include, but not be limited to,
+Functional Family Therapy, first-time offender programs, community-
+at-risk services, or other similar programs.
+H. The Office of Juvenile Affairs shall evaluate the rate of
+recidivism for children who are offered diversion services and shall
+publish the rate publicly in the Office’s annual report. Data
+disclosed in the annual report shall be unidentifiable to an
+individual.
+
+Section 142:
+SECTION 7. AMENDATORY 30 O.S. 2021, Section 2-101, is
+amended to read as follows:
+
+Section 143:
+Section 2-101. A. The court of each county, when it appears
+necessary or convenient, may appoint guardians for the persons and
+estates, or either, or both of them, of minors. When appointing
+guardians, preference shall be given to relatives and persons who
+have a kinship relationship with the minor.
+B. Such appointment may be made on the verified petition of a
+relative or other person in behalf of such minor.
+C. 1. Before making the appointment, the court may receive an
+investigation and report regarding the background and home of the
+prospective guardian. The investigation and report of the
+prospective guardian and placement restrictions and requirements
+shall be made pursuant to the requirements of the Oklahoma Adoption
+Code. In determining whether to require a home study pursuant to
+the provisions of this paragraph, the court shall balance the need
+for a home study to protect the best interests of the minor with the
+ability of the prospective guardian to pay for the home study.
+
+Section 144:
+2. a. Costs of the home study shall be assessed against any
+private child-placing agency having custody of the
+ENR. H. B. NO. 1965 Page 38
+child, or the person having legal custody of the child
+or the prospective guardians of the child.
+b. (1) For any child in the custody of the Department of
+Human Services or the Department of Juvenile
+Justice Office of Juvenile Affairs, the
+applicable Department shall conduct or provide
+for the home study for such child as required by
+the Oklahoma Children’s Code or the Oklahoma
+Juvenile Code.
+(2) The Department of Human Services or the
+Department of Juvenile Justice Office of Juvenile
+Affairs shall not be required by any court to
+conduct or provide for a home study and report to
+the court on guardianship placements for any
+child that is not in the custody of either
+Department.
+
+Section 145:
+3. An order appointing a guardian of the minor who has a parent
+living or other person legally responsible for the child shall
+comply with the provisions of Section 2-108 of this title.
+
+Section 146:
+4. Except in the case of an emergency guardianship placement,
+the court shall receive a background check for a prospective
+guardian and all other household members eighteen (18) years of age
+and older, consisting of a review of a national fingerprint-based
+criminal background check or an Oklahoma State Bureau of
+Investigation name-based criminal history background check, a search
+of the Department of Corrections’ files maintained pursuant to the
+Sex Offenders Registration Act, and a search of the child abuse and
+neglect information system (CANIS) maintained for review by
+authorized entities by the Department of Human Services. The
+Department may charge a fee not to exceed Thirty-five Dollars
+($35.00) for each search performed pursuant to this paragraph. In
+the case of an emergency placement, the court may waive the
+requirement for a CANIS search if it cannot be obtained in a
+reasonable time and the court determines that it is in the minor’s
+best interest that the CANIS search be waived.
+D. In addition, before making the appointment, the court must
+cause notice of the hearing on the petition for appointment of a
+guardian for a minor to be given in the form required by the court
+to the minor if the minor has attained the age of fourteen (14) as
+ENR. H. B. NO. 1965 Page 39
+of the date the petition is filed. The court shall also cause
+notice to be sent to the following persons:
+
+Section 147:
+1. The then-living parents of the minor and any other person
+having custody of the minor, if such parent or person is not one of
+the petitioners;
+
+Section 148:
+2. If the minor has no then-living parent, then to one of the
+then-living grandparents who is not one of the petitioners and who
+is not married to one of the petitioners; and
+
+Section 149:
+3. If there is no such then-living grandparent or if there is
+no such then-living grandparent whose address is known to the
+petitioner, then notice shall be given to an adult relative, if any,
+of the minor residing in the county in which the petition was filed.
+E. Such notice shall be mailed to each person entitled to
+notice pursuant to this section, at that person’s address as last-
+known to the petitioner, at least ten (10) days prior to the date
+set by the court for hearing on the petition. Provided, the court
+may direct a shorter notice period if the court deems such shorter
+notice period to be appropriate under the circumstances. If there
+is no person other than the minor who is entitled to notice, or if
+the address of any person, other than the minor, who is entitled to
+notice is not known to the petitioner, the petition shall so allege.
+The court may direct that notice, other than notice to the minor if
+the minor has attained the age of fourteen (14), be waived or be
+given to any person or persons other than the minor in such manner
+as the court determines and directs.
+
+Section 150:
+SECTION 8. This act shall become effective November 1, 2025.
+ENR. H. B. NO. 1965 Page 40
+Passed the House of Representatives the 21st day of May, 2025.
+Presiding Officer of the House
+of Representatives
+Passed the Senate the 7th day of May, 2025.
+Presiding Officer of the Senate
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. H. B. NO. 1965 Page 41
+[DELETED:  B W  a B]
+[DELETED:  P t t t “ “ “]
+[DELETED:  P a i]
+[DELETED:  P n m]
+[DELETED:  P]
+[DELETED:  P w w w w w w]
+[DELETED:  P w w w w]
+[DELETED:  P]
+[DELETED:  P a e p a]
+[DELETED:  P a a s c t a c n a a]
+[DELETED:  P a “ t w “ “ c c “]
+[DELETED:  P “]
+[DELETED:  P a “ t a m s s t t i s a “]
+[DELETED:  P t t e r r e]
+[DELETED:  P h h p a]
+[DELETED:  P a t f d p i T T T a]
+[DELETED:  P]
+[DELETED:  P t t h i i]
+[DELETED:  P “ “ s t]
+[DELETED:  P]
+[DELETED:  P t t t t a t]
+[DELETED:  P t]
+[DELETED:  P t t t a t t a]
+[DELETED:  P t a a e a e h t m p]
+[DELETED:  P s e f a a a w i]
+[DELETED:  P W W]
+[DELETED:  P t t p r l c e c]
+[DELETED:  P c m v a m t]
+[DELETED:  P t t t t]
+[DELETED:  P T A H h h h]
+[DELETED:  P t t t t a w p r l c]
+[DELETED:  P e c c m v a m t]
+[DELETED:  P a t t a t t t a]
+[DELETED:  P t t t t a]
+[DELETED:  P t t a t t a t t]
+[DELETED:  P F t t F c w]
+[DELETED:  P]
+[DELETED:  P a C]
+[DELETED:  P ( F T]
+[DELETED:  P]
+[DELETED:  PPoP_G]
+
+
+================================================================================
+
+Raw Text:
+An Act
+ENROLLED HOUSE
+BILL NO. 1965 By: Williams of the House
+and
+Bullard and Pederson of the
+Senate
+An Act relating to children; amending 10A O.S. 2021,
+Sections 1-1-105, 1-4-502, as amended by Section 1,
+Chapter 363, O.S.L. 2023, 1-4-704, as amended by
+Section 1, Chapter 31, O.S.L. 2023, 1-4-902, and 1-4-
+904 (10A O.S. Supp. 2024, Sections 1-4-502 and 1-4-
+704), which relate to the Oklahoma Children's Code;
+modifying definitions; defining term; providing
+procedure if certain jury trial is waived; requiring
+consideration of circumstances when preparing an
+individualized service plan; requiring reunification
+services as part of certain service plans; providing
+for filing petition or motion for termination of
+parental rights by the district attorney in certain
+circumstances; providing circumstance in which a
+court may terminate the rights of a parent to a
+child; providing exceptions; amending 10A O.S. 2021,
+Section 2-2-104.1, which relates to diversion
+services; requiring provision of diversion services
+prior to filing certain petition or upon assumption
+of certain custody; clarifying appropriate diversion
+service programs; requiring evaluation and
+publication of certain recidivism rates by the Office
+of Juvenile Affairs; requiring published data to be
+unidentifiable to specific individuals; amending 30
+O.S. 2021, Section 2-101, which relates to
+appointment of guardian of a minor; requiring certain
+preferences in appointment of guardian of a minor;
+updating statutory language; updating statutory
+references; and providing an effective date.
+SUBJECT: Children
+
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1. AMENDATORY 10A O.S. 2021, Section 1-1-105, is
+amended to read as follows:
+Section 1-1-105. When used in the Oklahoma Children’s Code,
+unless the context otherwise requires:
+1. “Abandonment” means:
+a. the willful intent by words, actions, or omissions not
+to return for a child, or
+b. the failure to maintain a significant parental
+relationship with a child through visitation or
+communication in which incidental or token visits or
+communication are not considered significant, or
+c. the failure to respond to notice of deprived
+proceedings;
+2. “Abuse” means harm or threatened harm to the health, safety,
+or welfare of a child by a person responsible for the child’s
+health, safety, or welfare, including, but not limited to,
+nonaccidental physical or mental injury, sexual abuse, or sexual
+exploitation. Provided, however, that nothing contained in the
+Oklahoma Children’s Code shall prohibit any parent from using
+ordinary force as a means of discipline including, but not limited
+to, spanking, switching, or paddling.
+a. “Harm or threatened harm to the health or, safety, or
+welfare of a child” means any real or threatened
+physical, mental, or emotional injury or damage to the
+body or mind that is not accidental including, but not
+limited to, sexual abuse, sexual exploitation,
+neglect, or dependency.
+b. “Sexual abuse” includes but is not limited to rape,
+incest, and lewd or indecent acts or proposals made to
+a child, as defined by law, by a person responsible
+for the health, safety, or welfare of the child.
+c. “Sexual exploitation” includes but is not limited to
+allowing, permitting, encouraging, or forcing a child
+ENR. H. B. NO. 1965 Page 2
+
+to engage in prostitution, as defined by law, by any
+person eighteen (18) years of age or older or by a
+person responsible for the health, safety, or welfare
+of a child, or allowing, permitting, encouraging, or
+engaging in the lewd, obscene, or pornographic, as
+defined by law, photographing, filming, or depicting
+of a child in those acts by a person responsible for
+the health, safety, and welfare of the child;
+3. “Adjudication” means a finding by the court that the
+allegations in a petition alleging that a child is deprived are
+supported by a preponderance of the evidence;
+4. “Adjudicatory hearing” means a hearing by the court as
+provided by Section 1-4-601 of this title;
+5. “Age-appropriate or developmentally appropriate” means:
+a. activities or items that are generally accepted as
+suitable for children of the same age or level of
+maturity or that are determined to be developmentally
+appropriate for a child, based on the development of
+cognitive, emotional, physical, and behavioral
+capacities that are typical for an age or age group,
+and
+b. in the case of a specific child, activities or items
+that are suitable for that child based on the
+developmental stages attained by the child with
+respect to the cognitive, emotional, physical, and
+behavioral capacities of the specific child.
+In the event that any age-related activities have implications
+relative to the academic curriculum of a child, nothing in this
+paragraph shall be construed to authorize an officer or employee of
+the federal government to mandate, direct, or control a state or
+local educational agency, or the specific instructional content,
+academic achievement standards and assessments, curriculum, or
+program of instruction of a school;
+6. “Assessment” means a comprehensive review of child safety
+and evaluation of family functioning and protective capacities that
+is conducted in response to a child abuse or neglect referral that
+does not allege a serious and immediate safety threat to a child;
+ENR. H. B. NO. 1965 Page 3
+
+7. “Behavioral health” means mental health, substance abuse, or
+co-occurring mental health and substance abuse diagnoses, and the
+continuum of mental health, substance abuse, or co-occurring mental
+health and substance abuse treatment;
+8. “Child” means any unmarried person under eighteen (18) years
+of age;
+9. “Child advocacy center” means a center and the
+multidisciplinary child abuse team of which it is a member that is
+accredited by the National Children’s Alliance or that is completing
+a sixth year of reaccreditation. Child advocacy centers shall be
+classified, based on the child population of a district attorney’s
+district, as follows:
+a. nonurban centers in districts with child populations
+that are less than sixty thousand (60,000), and
+b. midlevel mid-level nonurban centers in districts with
+child populations equal to or greater than sixty
+thousand (60,000), but not including Oklahoma and
+Tulsa Counties;
+10. “Child with a disability” means any child who has a
+physical or mental impairment which substantially limits one or more
+of the major life activities of the child, or who is regarded as
+having such an impairment by a competent medical professional;
+11. “Child-placing agency” means an agency that arranges for or
+places a child in a foster family home, family-style living program,
+group home, adoptive home, or a successful adulthood program;
+12. “Children’s emergency resource center” means a community-
+based program that may provide emergency care and a safe and
+structured homelike environment or a host home for children
+providing food, clothing, shelter and hygiene products to each child
+served; after-school tutoring; counseling services; life-skills
+training; transition services; assessments; family reunification;
+respite care; transportation to or from school, doctors’
+appointments, visitations and other social, school, court or other
+activities when necessary; and a stable environment for children in
+crisis who are in custody of the Department of Human Services if
+permitted under the Department’s policies and regulations, or who
+have been voluntarily placed by a parent or custodian during a
+temporary crisis;
+ENR. H. B. NO. 1965 Page 4
+
+13. “Community-based services” or “community-based programs”
+means services or programs which maintain community participation or
+supervision in their planning, operation, and evaluation.
+Community-based services and programs may include, but are not
+limited to, emergency shelter, crisis intervention, group work, case
+supervision, job placement, recruitment and training of volunteers,
+consultation, medical, educational, home-based services, vocational,
+social, preventive and psychological guidance, training, counseling,
+early intervention and diversionary substance abuse treatment,
+sexual abuse treatment, transitional living, independent living, and
+other related services and programs;
+14. “Concurrent permanency planning” means, when indicated, the
+implementation of two plans for a child entering foster care. One
+plan focuses on reuniting the parent and child; the other seeks to
+find a permanent out-of-home placement for the child with both plans
+being pursued simultaneously;
+15. “Court-appointed special advocate” or “CASA” means a
+responsible adult volunteer who has been trained and is supervised
+by a court-appointed special advocate program recognized by the
+court, and when appointed by the court, serves as an officer of the
+court in the capacity as a guardian ad litem;
+16. “Court-appointed special advocate program” means an
+organized program, administered by either an independent, not-for-
+profit corporation, a dependent project of an independent, not-for-
+profit corporation or a unit of local government, which recruits,
+screens, trains, assigns, supervises and supports volunteers to be
+available for appointment by the court as guardians ad litem;
+17. “Custodian” means an individual other than a parent, legal
+guardian or Indian custodian, to whom legal custody of the child has
+been awarded by the court. As used in this title, the term
+“custodian” custodian shall not mean the Department of Human
+Services;
+18. “Day treatment” means a nonresidential program which
+provides intensive services to a child who resides in the child’s
+own home, the home of a relative, a group home, a foster home, or a
+residential child care facility. Day treatment programs include,
+but are not limited to, educational services;
+19. “Department” means the Department of Human Services;
+ENR. H. B. NO. 1965 Page 5
+
+20. “Dependency” means a child who is homeless or without
+proper care or guardianship through no fault of his or her parent,
+legal guardian, or custodian;
+21. “Deprived child” means a child:
+a. who is for any reason destitute, homeless, or
+abandoned,
+b. who does not have the proper parental care or
+guardianship,
+c. who has been abused, or neglected, or is dependent,
+d. whose home is an unfit place for the child by reason
+of depravity on the part of the parent or legal
+guardian of the child, or other person responsible for
+the health or welfare of the child,
+e. who is a child in need of special care and treatment
+because of the child’s physical or mental condition,
+and the child’s parents, legal guardian, or other
+custodian is unable or willfully fails to provide such
+special care and treatment. As used in this
+paragraph, a child in need of special care and
+treatment includes, but is not limited to, a child who
+at birth tests positive for alcohol or a controlled
+dangerous substance and who, pursuant to a drug or
+alcohol screen of the child and an assessment of the
+parent, is determined to be at risk of harm or
+threatened harm to the health or, safety, or welfare
+of a child,
+f. who is a child with a disability deprived of the
+nutrition necessary to sustain life or of the medical
+treatment necessary to remedy or relieve a life-
+threatening medical condition in order to cause or
+allow the death of the child if such nutrition or
+medical treatment is generally provided to similarly
+situated children without a disability or children
+with disabilities; provided that no medical treatment
+shall be necessary if, in the reasonable medical
+judgment of the attending physician, such treatment
+would be futile in saving the life of the child,
+ENR. H. B. NO. 1965 Page 6
+
+g. who, due to improper parental care and guardianship,
+is absent from school as specified in Section 10-106
+of Title 70 of the Oklahoma Statutes, if the child is
+subject to compulsory school attendance,
+h. whose parent, legal guardian or custodian for good
+cause desires to be relieved of custody,
+i. who has been born to a parent whose parental rights to
+another child have been involuntarily terminated by
+the court and the conditions which led to the making
+of the finding, which resulted in the termination of
+the parental rights of the parent to the other child,
+have not been corrected, or
+j. whose parent, legal guardian, or custodian has
+subjected another child to abuse or neglect or has
+allowed another child to be subjected to abuse or
+neglect and is currently a respondent in a deprived
+proceeding.
+Nothing in the Oklahoma Children’s Code shall be construed to
+mean a child is deprived for the sole reason the parent, legal
+guardian, or person having custody or control of a child, in good
+faith, selects and depends upon spiritual means alone through
+prayer, in accordance with the tenets and practice of a recognized
+church or religious denomination, for the treatment or cure of
+disease or remedial care of such child.
+Evidence of material, educational or cultural disadvantage as
+compared to other children shall not be sufficient to prove that a
+child is deprived; the state shall prove that the child is deprived
+as defined pursuant to this title.
+Nothing contained in this paragraph shall prevent a court from
+immediately assuming custody of a child and ordering whatever action
+may be necessary, including medical treatment, to protect the
+child’s health or welfare;
+22. “Dispositional hearing” means a hearing by the court as
+provided by Section 1-4-706 of this title;
+23. “Drug-endangered child” means a child who is at risk of
+suffering physical, psychological or sexual harm as a result of the
+ENR. H. B. NO. 1965 Page 7
+
+use, possession, distribution, manufacture or cultivation of
+controlled substances, or the attempt of any of these acts, by a
+person responsible for the health, safety or welfare of the child,
+as defined in this section. This term includes circumstances
+wherein the substance abuse of the person responsible for the
+health, safety or welfare of the child interferes with that person’s
+ability to parent and provide a safe and nurturing environment for
+the child;
+24. “Emergency custody” means the custody of a child prior to
+adjudication of the child following issuance of an order of the
+district court pursuant to Section 1-4-201 of this title or
+following issuance of an order of the district court pursuant to an
+emergency custody hearing, as specified by Section 1-4-203 of this
+title;
+25. “Facility” means a place, an institution, a building or
+part thereof, a set of buildings, or an area whether or not
+enclosing a building or set of buildings used for the lawful custody
+and treatment of children;
+26. “Failure to protect” means failure to take reasonable
+action to remedy or prevent child abuse or neglect, and includes the
+conduct of a nonabusing parent or guardian who knows the identity of
+the abuser or the person neglecting the child, but lies, conceals or
+fails to report the child abuse or neglect or otherwise take
+reasonable action to end the abuse or neglect;
+27. “Family-style living program” means a residential program
+providing sustained care and supervision to residents in a homelike
+environment not located in a building used for commercial activity;
+28. “Foster care” or “foster care services” means continuous
+twenty-four-hour care and supportive services provided for a child
+in foster placement including, but not limited to, the care,
+supervision, guidance, and rearing of a foster child by the foster
+parent;
+29. “Foster family home” means the private residence of a
+foster parent who provides foster care services to a child. Such
+term shall include a nonkinship foster family home, a therapeutic
+foster family home, or the home of a relative or other kinship care
+home;
+ENR. H. B. NO. 1965 Page 8
+
+30. “Foster parent eligibility assessment” includes a criminal
+background investigation including, but not limited to, a national
+criminal history records search based upon the submission of
+fingerprints, home assessments, and any other assessment required by
+the Department of Human Services, the Office of Juvenile Affairs, or
+any child-placing agency pursuant to the provisions of the Oklahoma
+Child Care Facilities Licensing Act;
+31. “Guardian ad litem” means a person appointed by the court
+pursuant to the provisions of Section 1-4-306 of this title having
+those duties and responsibilities as set forth in that section. The
+term “guardian ad litem” guardian ad litem shall refer to a court-
+appointed special advocate as well as to any other person appointed
+pursuant to the provisions of Section 1-4-306 of this title to serve
+as a guardian ad litem;
+32. “Guardian ad litem of the estate of the child” means a
+person appointed by the court to protect the property interests of a
+child pursuant to Section 1-8-108 of this title;
+33. “Group home” means a residential facility licensed by the
+Department to provide full-time care and community-based services
+for more than five but fewer than thirteen children;
+34. “Harm or threatened harm to the health or safety of a
+child” means any real or threatened physical, mental, or emotional
+injury or damage to the body or mind that is not accidental
+including, but not limited to, sexual abuse, sexual exploitation,
+neglect, or dependency;
+35. “Heinous and shocking abuse” includes, but is not limited
+to, aggravated physical abuse that results in serious bodily,
+mental, or emotional injury. “Serious bodily injury” means injury
+that involves:
+a. a substantial risk of death,
+b. extreme physical pain,
+c. protracted disfigurement,
+d. a loss or impairment of the function of a body member,
+organ, or mental faculty,
+ENR. H. B. NO. 1965 Page 9
+
+e. an injury to an internal or external organ or the
+body,
+f. a bone fracture,
+g. sexual abuse or sexual exploitation,
+h. chronic abuse including, but not limited to, physical,
+emotional, or sexual abuse, or sexual exploitation
+which is repeated or continuing,
+i. torture that includes, but is not limited to,
+inflicting, participating in or assisting in
+inflicting intense physical or emotional pain upon a
+child repeatedly over a period of time for the purpose
+of coercing or terrorizing a child or for the purpose
+of satisfying the craven, cruel, or prurient desires
+of the perpetrator or another person, or
+j. any other similar aggravated circumstance;
+36. “Heinous and shocking neglect” includes, but is not limited
+to:
+a. chronic neglect that includes, but is not limited to,
+a persistent pattern of family functioning in which
+the caregiver has not met or sustained the basic needs
+of a child which results in harm to the child,
+b. neglect that has resulted in a diagnosis of the child
+as a failure to thrive,
+c. an act or failure to act by a parent that results in
+the death or near death of a child or sibling, serious
+physical or emotional harm, sexual abuse, or sexual
+exploitation, or presents an imminent risk of serious
+harm to a child, or
+d. any other similar aggravating circumstance;
+37. “Individualized service plan” means a document written
+pursuant to Section 1-4-704 of this title that has the same meaning
+as “service plan” or “treatment plan” where those terms are used in
+the Oklahoma Children’s Code;
+ENR. H. B. NO. 1965 Page 10
+
+38. “Infant” means a child who is twelve (12) months of age or
+younger;
+39. “Institution” means a residential facility offering care
+and treatment for more than twenty residents;
+40. a. “Investigation” means a response to an allegation of
+abuse or neglect that involves a serious and immediate
+threat to the safety of the child, making it necessary
+to determine:
+(1) the current safety of a child and the risk of
+subsequent abuse or neglect, and
+(2) whether child abuse or neglect occurred and
+whether the family needs prevention- and
+intervention-related services.
+b. “Investigation” Investigation results in a written
+response stating one of the following findings:
+(1) “substantiated” means the Department has
+determined, after an investigation of a report of
+child abuse or neglect and based upon some
+credible evidence, that child abuse or neglect
+has occurred. When child abuse or neglect is
+substantiated, the Department may recommend:
+(a) court intervention if the Department finds
+the health, safety, or welfare of the child
+is threatened, or
+(b) child abuse and neglect prevention- and
+intervention-related services for the child,
+parents or persons responsible for the care
+of the child if court intervention is not
+determined to be necessary,
+(2) “unsubstantiated” means the Department has
+determined, after an investigation of a report of
+child abuse or neglect, that insufficient
+evidence exists to fully determine whether child
+abuse or neglect has occurred. If child abuse or
+neglect is unsubstantiated, the Department may
+recommend, when determined to be necessary, that
+ENR. H. B. NO. 1965 Page 11
+
+the parents or persons responsible for the care
+of the child obtain child abuse and neglect
+prevention- and intervention-related services, or
+(3) “ruled out” means a report in which a child
+protective services specialist has determined,
+after an investigation of a report of child abuse
+or neglect, that no child abuse or neglect has
+occurred;
+41. “Kinship care” means full-time care of a child by a kinship
+relation;
+42. “Kinship guardianship” means a permanent guardianship as
+defined in this section;
+43. “Kinship relation” or “kinship relationship” means
+relatives, stepparents, or other responsible adults who have a bond
+or tie with a child and/or or to whom has been ascribed a family
+relationship role with the child’s parents or the child; provided,
+however, in cases where the Indian Child Welfare Act applies, the
+definitions contained in 25 U.S.C., Section 1903 shall control;
+44. “Mental health facility” means a mental health or substance
+abuse treatment facility as defined by the Inpatient Mental Health
+and Substance Abuse Treatment of Minors Act;
+45. “Minor” means the same as the term “child” child as defined
+in this section;
+46. “Minor in need of treatment” means a child in need of
+mental health or substance abuse treatment as defined by the
+Inpatient Mental Health and Substance Abuse Treatment of Minors Act;
+47. “Multidisciplinary child abuse team” means any team
+established pursuant to Section 1-9-102 of this title of three or
+more persons who are trained in the prevention, identification,
+investigation, prosecution, and treatment of physical and sexual
+child abuse and who are qualified to facilitate a broad range of
+prevention- and intervention-related services and services related
+to child abuse. For purposes of this definition, “freestanding”
+means a team not used by a child advocacy center for its
+accreditation;
+ENR. H. B. NO. 1965 Page 12
+
+48. “Near death” means a child is in serious or critical
+condition, as certified by a physician, as a result of abuse or
+neglect;
+49. a. “Neglect” means:
+(1) the failure or omission to provide any of the
+following:
+(a) adequate nurturance and affection, food,
+clothing, shelter, sanitation, hygiene, or
+appropriate education,
+(b) medical, dental, or behavioral health care,
+(c) supervision or appropriate caretakers to
+protect the child from harm or threatened
+harm of which any reasonable and prudent
+person responsible for the child’s health,
+safety or welfare would be aware, or
+(d) special care made necessary for the child’s
+health and safety by the physical or mental
+condition of the child,
+(2) the failure or omission to protect a child from
+exposure to any of the following:
+(a) the use, possession, sale, or manufacture of
+illegal drugs,
+(b) illegal activities, or
+(c) sexual acts or materials that are not age-
+appropriate, or
+(3) abandonment.
+b. “Neglect” Neglect shall not mean a child who engages
+in independent activities, except if the person
+responsible for the child’s health, safety or welfare
+willfully disregards any harm or threatened harm to
+the child, given the child’s level of maturity,
+physical condition or mental abilities. Such
+independent activities include but are not limited to:
+ENR. H. B. NO. 1965 Page 13
+
+(1) traveling to and from school including by
+walking, running or bicycling,
+(2) traveling to and from nearby commercial or
+recreational facilities,
+(3) engaging in outdoor play,
+(4) remaining at home unattended for a reasonable
+amount of time,
+(5) remaining in a vehicle if the temperature inside
+the vehicle is not or will not become dangerously
+hot or cold, except under the conditions
+described in Section 11-1119 of Title 47 of the
+Oklahoma Statutes, or
+(6) engaging in similar activities alone or with
+other children.
+Nothing in this paragraph shall be construed to mean a child is
+abused or neglected for the sole reason the parent, legal guardian
+or person having custody or control of a child, in good faith,
+selects and depends upon spiritual means alone through prayer, in
+accordance with the tenets and practice of a recognized church or
+religious denomination, for the treatment or cure of disease or
+remedial care of such child. Nothing contained in this paragraph
+shall prevent a court from immediately assuming custody of a child,
+pursuant to the Oklahoma Children’s Code, and ordering whatever
+action may be necessary, including medical treatment, to protect the
+child’s health or welfare;
+50. “Permanency hearing” means a hearing by the court pursuant
+to Section 1-4-811 of this title;
+51. “Permanent custody” means the court-ordered custody of an
+adjudicated deprived child when a parent-child relationship no
+longer exists due to termination of parental rights or due to the
+death of a parent or parents;
+52. “Permanent guardianship” means a judicially created
+relationship between a child, a kinship relation of the child, or
+other adult established pursuant to the provisions of Section 1-4-
+709 of this title;
+ENR. H. B. NO. 1965 Page 14
+
+53. “Person responsible for a child’s health, safety, or
+welfare” includes a parent; a legal guardian; custodian; a foster
+parent; a person eighteen (18) years of age or older with whom the
+child’s parent cohabitates or any other adult residing in the home
+of the child; an agent or employee of a public or private
+residential home, institution, facility or day treatment program as
+defined in Section 175.20 of Title 10 of the Oklahoma Statutes; or
+an owner, operator, or employee of a child care facility as defined
+by Section 402 of Title 10 of the Oklahoma Statutes;
+54. “Plan of safe care” means a plan developed for an infant
+with Neonatal Abstinence Syndrome or a Fetal Alcohol Spectrum
+Disorder upon release from the care of a health care provider that
+addresses the health and substance use treatment needs of the infant
+and mother or caregiver;
+55. “Protective custody” means custody of a child taken by a
+law enforcement officer or designated employee of the court without
+a court order;
+56. “Putative father” means an alleged father as that term is
+defined in Section 7700-102 of Title 10 of the Oklahoma Statutes;
+57. “Qualified residential treatment program” means a program
+that:
+a. has a trauma-informed treatment model that is designed
+to address the needs including clinical needs as
+appropriate, of children with serious emotional or
+behavioral disorders or disturbances and, with respect
+to a child, is able to implement the treatment
+identified for the child from a required assessment,
+b. has registered or licensed nursing staff and other
+licensed clinical staff who:
+(1) provide care within the scope of their practice
+as defined by the laws of this state,
+(2) are on-site according to the treatment model
+referred to in subparagraph a of this paragraph,
+and
+ENR. H. B. NO. 1965 Page 15
+
+(3) are available twenty-four (24) hours a day and
+seven (7) days a week,
+c. to the extent appropriate, and in accordance with the
+child’s best interest, facilitates participation of
+family members in the child’s treatment program,
+d. facilitates outreach to the family members of the
+child including siblings, documents how the outreach
+is made including contact information, and maintains
+contact information for any known biological family of
+the child,
+e. documents how family members are integrated into the
+treatment process for the child including post-
+discharge, and how sibling connections are maintained,
+f. provides discharge planning and family-based aftercare
+support for at least six (6) months post-discharge,
+and
+g. is licensed and accredited by any of the following
+independent, not-for-profit organizations:
+(1) The the Commission on Accreditation of
+Rehabilitation Facilities (CARF),
+(2) The the Joint Commission on Accreditation of
+Healthcare Organizations (JCAHO),
+(3) The the Council on Accreditation (COA), or
+(4) any other federally approved independent, not-
+for-profit accrediting organization;
+58. “Reasonable and prudent parent standard” means the standard
+characterized by careful and sensible parental decisions that
+maintain the health, safety, and best interests of a child while at
+the same time encouraging the emotional and developmental growth of
+the child. This standard shall be used by the child’s caregiver
+when determining whether to allow a child to participate in
+extracurricular, enrichment, cultural, and social activities. For
+purposes of this definition, the term “caregiver” means a foster
+parent with whom a child in foster care has been placed, a
+representative of a group home where a child has been placed or a
+ENR. H. B. NO. 1965 Page 16
+
+designated official for a residential child care facility where a
+child in foster care has been placed;
+59. “Relative” means a grandparent, great-grandparent, brother
+or sister of whole or half blood, aunt, uncle or any other person
+related to the child;
+60. “Residential child care facility” means a twenty-four-hour
+residential facility where children live together with or are
+supervised by adults who are not their parents or relatives;
+61. “Review hearing” means a hearing by the court pursuant to
+Section 1-4-807 of this title;
+62. “Risk” means the likelihood that an incident of child abuse
+or neglect will occur in the future;
+63. “Safety threat” means the threat of serious harm due to
+child abuse or neglect occurring in the present or in the very near
+future and without the intervention of another person, a child would
+likely or in all probability sustain severe or permanent disability
+or injury, illness, or death;
+64. “Safety analysis” means action taken by the Department in
+response to a report of alleged child abuse or neglect that may
+include an assessment or investigation based upon an analysis of the
+information received according to priority guidelines and other
+criteria adopted by the Department;
+65. “Safety evaluation” means evaluation of a child’s situation
+by the Department using a structured, evidence-based tool to
+determine if the child is subject to a safety threat;
+66. “Secure facility” means a facility which is designed and
+operated to ensure that all entrances and exits from the facility
+are subject to the exclusive control of the staff of the facility,
+whether or not the juvenile being detained has freedom of movement
+within the perimeter of the facility, or a facility which relies on
+locked rooms and buildings, fences, or physical restraint in order
+to control behavior of its residents;
+67. “Sibling” means a biologically or legally related brother
+or sister of a child. This includes an individual who satisfies at
+least one of the following conditions with respect to a child:
+ENR. H. B. NO. 1965 Page 17
+
+a. the individual is considered by state law to be a
+sibling of the child, or
+b. the individual would have been considered a sibling
+under state law but for a termination or other
+disruption of parental rights, such as the death of a
+parent;
+68. “Specialized foster care” means foster care provided to a
+child in a foster home or agency-contracted home which:
+a. has been certified by the Developmental Disabilities
+Services Division of the Department of Human Services,
+b. is monitored by the Division, and
+c. is funded through the Home- Home and Community-Based
+Waiver Services Program administered by the Division;
+69. “Successful adulthood program” means a program specifically
+designed to assist a child to enhance those skills and abilities
+necessary for successful adult living. A successful adulthood
+program may include, but shall not be limited to, such features as
+minimal direct staff supervision, and the provision of supportive
+services to assist children with activities necessary for finding an
+appropriate place of residence, completing an education or
+vocational training, obtaining employment, or obtaining other
+similar services;
+70. “Temporary custody” means court-ordered custody of an
+adjudicated deprived child;
+71. “Therapeutic foster family home” means a foster family home
+which provides specific treatment services, pursuant to a
+therapeutic foster care contract, which are designed to remedy
+social and behavioral problems of a foster child residing in the
+home;
+72. “Time-limited reunification services” means reunification
+services provided only during the period of fifteen (15) months that
+begins on the date the child is considered to have entered foster
+care;
+ENR. H. B. NO. 1965 Page 18
+
+73. “Trafficking in persons” means sex trafficking or severe
+forms of trafficking in persons as described in Section 7102 of
+Title 22 of the United States Code:
+a. “sex trafficking” means the recruitment, harboring,
+transportation, provision, obtaining, patronizing or
+soliciting of a person for the purpose of a commercial
+sex act, and
+b. “severe forms of trafficking in persons” means:
+(1) sex trafficking in which a commercial sex act is
+induced by force, fraud, or coercion, or in which
+the person induced to perform such act has not
+attained eighteen (18) years of age, or
+(2) the recruitment, harboring, transportation,
+provision, obtaining, patronizing or soliciting
+of a person for labor or services, through the
+use of force, fraud, or coercion for the purpose
+of subjection to involuntary servitude, peonage,
+debt bondage, or slavery;
+73. 74. “Transitional living program” means a residential
+program that may be attached to an existing facility or operated
+solely for the purpose of assisting children to develop the skills
+and abilities necessary for successful adult living. The program
+may include, but shall not be limited to, reduced staff supervision,
+vocational training, educational services, employment and employment
+training, and other appropriate independent living skills training
+as a part of the transitional living program; and
+74. 75. “Voluntary foster care placement” means the temporary
+placement of a child by the parent, legal guardian or custodian of
+the child in foster care pursuant to a signed placement agreement
+between the Department or a child-placing agency and the child’s
+parent, legal guardian or custodian.
+SECTION 2. AMENDATORY 10A O.S. 2021, Section 1-4-502, as
+amended by Section 1, Chapter 363, O.S.L. 2023 (10A O.S. Supp. 2024,
+Section 1-4-502), is amended to read as follows:
+Section 1-4-502. A. A parent entitled to service of summons,
+the state or a child shall have the right to demand a trial by jury
+ENR. H. B. NO. 1965 Page 19
+
+on the sole issue of termination of parental rights only in the
+following circumstances:
+1. When the initial petition to determine if a child is
+deprived also contains a request for termination of parental rights
+in which case the court shall determine if the child should be
+adjudicated deprived and, if so, the jury shall determine if
+parental rights should be terminated; or
+2. When, following a hearing in which the child is adjudicated
+deprived, a request for termination of parental rights is filed by
+the state or the child.
+B. The demand for a jury trial shall be granted unless waived,
+or the court on its own motion may call a jury to try any
+termination of parental rights case.
+C. 1. If the jury trial to determine whether parental rights
+should be terminated is waived, the court shall issue a scheduling
+order within thirty (30) days. A bench trial shall commence within
+ninety (90) days of the issuance of the scheduling order unless the
+court issues a written order with findings of fact supporting a
+determination that there exists an exceptional circumstance to
+support the delay or that the parties and the guardian ad litem, if
+any, agree to such continuance.
+2. Upon a demand for a trial by jury, the court shall issue a
+scheduling order within thirty (30) days. A jury trial shall
+commence within six (6) months of the issuance of the scheduling
+order unless the court issues a written order with findings of fact
+supporting a determination that there exists an exceptional
+circumstance to support the delay or that the parties and the
+guardian ad litem, if any, agree to such continuance. The jury
+shall consist of six (6) persons. A party who requests a jury trial
+and fails to appear in person for such trial, after proper notice
+and without good cause, may be deemed by the court to have waived
+the right to such jury trial, and the termination of parental rights
+shall be by nonjury trial unless another party demands a jury trial
+or the court determines on its own motion to try the case to a jury.
+SECTION 3. AMENDATORY 10A O.S. 2021, Section 1-4-704, as
+amended by Section 1, Chapter 31, O.S.L. 2023 (10A O.S. Supp. 2024,
+Section 1-4-704), is amended to read as follows:
+ENR. H. B. NO. 1965 Page 20
+
+Section 1-4-704. A. The Department of Human Services or a
+licensed child-placing agency shall prepare and maintain a written
+individualized service plan for any child that has been adjudicated
+to be a deprived child.
+B. The plan shall be furnished to the court within thirty (30)
+days after the adjudication of the child and shall be made available
+to counsel for the parties and any applicable tribe by the
+Department or the licensed child-placing agency having custody of
+the child or responsibility for the supervision of the case.
+C. 1. The individualized service plan shall be based upon a
+comprehensive assessment and evaluation of the child and family and
+shall be developed with the participation of the parent, legal
+guardian, or legal custodian of the child, the attorney for the
+child, the guardian ad litem for the child, if any, the child’s
+tribe, and the child, if appropriate. The health and safety of the
+child shall be the paramount concern in the development of the plan.
+2. If any part of the plan is disputed or not approved by the
+court, an evidentiary hearing may be held and at its conclusion, the
+court shall determine the content of the individualized service plan
+in accord with the evidence presented and the best interests of the
+child.
+3. When approved by the court, each individualized service plan
+shall be incorporated and made a part of the dispositional order of
+the court.
+4. The plan shall be signed by:
+a. the parent or parents or legal guardian of the child,
+b. the attorney for the parent or parents or legal
+guardian of the child,
+c. the child’s attorney,
+d. the guardian ad litem of the child, which may be a
+court-appointed special advocate,
+e. a representative of the child’s tribe,
+f. the child, if possible, and
+ENR. H. B. NO. 1965 Page 21
+
+g. the Department or other responsible agency.
+D. 1. Every service plan prepared shall be individualized and
+specific to each child and the family of the child and shall require
+consideration of each child’s and family’s circumstances, including,
+but not limited to, the parents’ work schedule, mode of
+transportation, and distance from their place of living and place of
+work to service providers.
+2. The individualized service plan shall be written in simple
+and clear English. If English is not the principal language of the
+parent, legal guardian, or custodian of the child, and such person
+is unable to read or comprehend the English language, to the extent
+possible the plan shall be written in the principal language of the
+person.
+3. The individualized service plan may be modified based on
+changing circumstances consistent with the correction of the
+conditions that led to the adjudication of the child or other
+conditions inconsistent with the health, safety, or welfare of the
+child.
+4. The individualized service plan shall be measurable,
+realistic and consistent with the requirements of other court
+orders.
+E. The individualized service plan shall include, but not be
+limited to:
+1. A history of the child and family, including identification
+of the problems or conditions leading to the deprived child
+adjudication and the changes the parent or parents must make in
+order for the child to safely remain in or return to the home;
+2. Identification of time-limited reunification services to be
+provided to the parent, legal guardian, or legal custodian,
+stepparent, other adult person living in the home, or other family
+members. Provided, however, that such reunification services shall
+be part of any individualized service plan for the period of fifteen
+(15) months that begins on the date the child entered foster care.
+If a parent has not corrected the circumstances which led the child
+to be adjudicated to be a deprived child after such period of
+fifteen (15) months and if the court makes a finding pursuant to
+paragraph 16 of subsection B of Section 1-4-904 of this title, then
+a petition or motion for termination of parental rights shall be
+ENR. H. B. NO. 1965 Page 22
+
+filed by the district attorney pursuant to Section 1-4-902 of this
+title;
+3. Identification of the specific services to be provided to
+the child including, but not limited to, educational, vocational
+educational, medical, drug or alcohol abuse treatment, or counseling
+or other treatment services. The most recent available health and
+educational records of the child shall be provided to the court upon
+the court’s request including:
+a. the names and addresses of the child’s health and
+educational providers,
+b. the child’s grade-level performance,
+c. the child’s school record,
+d. a record of the child’s immunizations,
+e. the child’s known medical problems, including any
+known communicable diseases,
+f. the child’s medications, and
+g. any other relevant health and education information;
+4. A schedule of the frequency of services and the means by
+which delivery of the services will be assured or, as necessary, the
+proposed means by which support services or other assistance will be
+provided to enable the parent or the child to obtain the services;
+5. The name of the social worker assigned to the case;
+6. A projected date for the completion of the individualized
+service plan;
+7. Performance criteria that will measure the progress of the
+child and family toward completion of the individualized service
+plan including, but not limited to, time frames for achieving
+objectives and addressing the identified problems;
+8. The name and business address of the attorney representing
+the child;
+ENR. H. B. NO. 1965 Page 23
+
+9. If the child is placed outside the home, the individualized
+service plan shall further provide:
+a. the sequence and time frame for services to be
+provided to the parent, the child, and if the child is
+placed in foster care, the foster parent, to
+facilitate the child’s return home or to another
+permanent placement,
+b. a description of the child’s placement and explanation
+about whether it is the least-restrictive placement
+available and in as close proximity as possible to the
+home of the parent or parents or legal guardian of the
+child when the case plan is reunification, and how the
+placement is consistent with the best interests and
+special needs of the child,
+c. a description of any services or resources that were
+requested by the child or the parent or legal guardian
+of the child since the date of the child’s placement,
+and whether those services or resources were provided
+and if not, the basis for the denial of the services
+or resources,
+d. efforts to be made by the parent of the child and the
+Department to enable the child to return to his or her
+home,
+e. a description of the transition planning for a
+successful adulthood for a child age fourteen (14)
+years of age or older that includes how the following
+objectives will be met:
+(1) education, vocational, or employment planning,
+(2) health care planning and medical coverage,
+(3) transportation including, where appropriate,
+assisting the child in obtaining a driver
+license,
+(4) money management,
+(5) planning for housing,
+ENR. H. B. NO. 1965 Page 24
+
+(6) social and recreational skills, and
+(7) establishing and maintaining connections with the
+child’s family and community,
+f. for a child in placement due solely or in part to the
+child’s behavioral health or medical health issues,
+diagnostic and assessment information, specific
+services relating to meeting the applicable behavioral
+health and medical care needs of the child, and
+desired treatment outcomes,
+g. a plan and schedule for regular and frequent
+visitation for the child and the child’s parent or
+parents or legal guardian and siblings, unless the
+court has determined that visitation, even if
+supervised, would be harmful to the child, and
+h. a plan for ensuring the educational stability of the
+child while in out-of-home placement, including:
+(1) assurances that the placement of the child
+considers the appropriateness of the current
+educational setting and the proximity to the
+school in which the child was enrolled at the
+time of placement, and
+(2) where appropriate, an assurance that the
+Department has coordinated with appropriate local
+educational agencies to ensure that the child
+remains in the school in which the child was
+enrolled at the time of placement, or
+(3) if remaining in the school in which the child was
+enrolled at the time of placement is not in the
+best interests of the child, assurances by the
+Department and the local educational agencies to
+provide immediate and appropriate enrollment in a
+new school with all of the educational records of
+the child provided to the school; and
+10. The permanency plan for the child, the reason for selection
+of that plan and a description of the steps being taken by the
+Department to finalize the plan.
+ENR. H. B. NO. 1965 Page 25
+
+a. When the permanency plan is adoption or legal
+guardianship, the Department shall describe, at a
+minimum, child-specific recruitment efforts such as
+relative searches conducted and the use of state,
+regional, and national adoption exchanges to
+facilitate the orderly and timely placement of the
+child, whether in or outside of the state.
+b. When the child is age fourteen (14) years of age or
+older, the permanency plan and any revision or
+addition to the plan, shall include planning for the
+transition of the child to a successful adulthood.
+F. Each individualized service plan shall specifically provide
+for the safety of the child, in accordance with state and federal
+law, and clearly define what actions or precautions will, or may, be
+necessary to provide for the safety and protection of the child.
+G. The individualized service plan shall include the following
+statement:
+TO THE PARENT: THIS IS A VERY IMPORTANT DOCUMENT. ITS PURPOSE
+IS TO HELP YOU PROVIDE YOUR CHILD WITH A SAFE HOME WITHIN THE
+REASONABLE PERIOD SPECIFIED IN THE PLAN. IF YOU ARE UNWILLING OR
+UNABLE TO PROVIDE YOUR CHILD WITH A SAFE HOME OR ATTEND COURT
+HEARINGS, YOUR PARENTAL AND CUSTODIAL DUTIES AND RIGHTS MAY BE
+RESTRICTED OR TERMINATED OR YOUR CHILD MAY NOT BE RETURNED TO YOU.
+H. Whenever a child who is subject to the provisions of this
+section is committed for inpatient behavioral health or substance
+abuse treatment pursuant to the Inpatient Mental Health and
+Substance Abuse Treatment of Minors Act, the individualized service
+plan shall be amended as necessary and appropriate, including, but
+not limited to, identification of the treatment and services to be
+provided to the child and the child’s family upon discharge of the
+child from inpatient behavioral health or substance abuse treatment.
+I. Prior to adjudication, a parent or legal guardian may
+voluntarily participate in services related to the behaviors and
+conditions that led to the filing of a deprived petition.
+Participation in such services shall not be construed as an
+admission that the child is deprived and shall not be used as
+evidence for the purpose of adjudication or disposition.
+ENR. H. B. NO. 1965 Page 26
+
+SECTION 4. AMENDATORY 10A O.S. 2021, Section 1-4-902, is
+amended to read as follows:
+Section 1-4-902. A. The district attorney shall file a
+petition or motion for termination of the parent-child relationship
+and parental rights with respect to a child or shall join in the
+petition or motion, if filed by the child’s attorney, in any of the
+following circumstances:
+1. Prior to the end of the fifteenth month when a child has
+been placed in foster care by the Department of Human Services for
+fifteen (15) of the most recent twenty-two (22) months. For
+purposes of this paragraph, a child shall be considered to have
+entered foster care on the earlier of:
+a. the date of adjudication as a deprived child, or
+b. the date that is sixty (60) days after the date on
+which the child is removed from the home;
+2. No later than sixty (60) days after a child has been
+judicially determined to be an abandoned infant;
+3. No later than sixty (60) days after a court has determined
+that reasonable efforts to reunite are not required due to a felony
+conviction of a parent of any of the following acts:
+a. permitting a child to participate in pornography child
+sexual abuse material,
+b. rape, or rape by instrumentation,
+c. lewd molestation of a child under sixteen (16) years
+of age,
+d. child abuse or neglect,
+e. enabling child abuse or neglect,
+f. causing the death of a child as a result of the
+physical or sexual abuse or chronic abuse or chronic
+neglect of the child,
+ENR. H. B. NO. 1965 Page 27
+
+g. causing the death of a sibling of the child as a
+result of the physical or sexual abuse or chronic
+abuse or chronic neglect of the child’s sibling,
+h. murder of any child or aiding or abetting, attempting,
+conspiring in, or soliciting to commit murder of any
+child,
+i. voluntary manslaughter of any child,
+j. a felony assault that has resulted in serious bodily
+injury to the child or another child of the parent, or
+k. murder or voluntary manslaughter of the child’s parent
+or aiding or abetting, attempting, conspiring in, or
+soliciting to commit murder of the child’s parent; or
+4. No later than ninety (90) days after the court has ordered
+the individualized service plan if the parent has made no measurable
+progress in correcting the conditions which caused the child to be
+adjudicated deprived; or
+5. After a period of fifteen (15) months if a parent has not
+corrected the circumstances which led the child to be adjudicated to
+be a deprived child and if the court makes a finding pursuant to
+paragraph 16 of subsection B of Section 1-4-904 of this title.
+B. If any of the following conditions exist, the district
+attorney is not required to file a petition as provided in
+subsection A of this section for a deprived child:
+1. At the option of the Department or by order of the court,
+the child is properly being cared for by a relative;
+2. The Department has documented a compelling reason for
+determining that filing a petition to terminate parental rights
+would not serve the best interests of the child that may include
+consideration of any of the following circumstances:
+a. the parents or legal guardians have maintained a
+relationship with the child and the child would
+benefit from continuing this relationship,
+ENR. H. B. NO. 1965 Page 28
+
+b. the child, who is twelve (12) years of age or older,
+objects to the termination of the parent-child legal
+relationship,
+c. the foster parents of the child are unable to adopt
+the child because of exceptional circumstances which
+do not include an unwillingness to accept legal
+responsibility for the child but are willing and
+capable of providing the child with a stable and
+permanent environment, and the removal of the child
+from the physical custody of the foster parents would
+be seriously detrimental to the emotional well-being
+of the child because the child has substantial
+psychological ties to the foster parents,
+d. the child is not capable of achieving stability if
+placed in a family setting, or
+e. the child is an unaccompanied, refugee minor and the
+situation regarding the child involves international
+legal issues or compelling foreign policy issues; or
+3. The state has not provided to the family of the child,
+consistent with the time period in the state case plan, services
+that the state deems necessary for the safe return of the child to
+the child’s home, if reasonable efforts are required to be made with
+respect to the child.
+SECTION 5. AMENDATORY 10A O.S. 2021, Section 1-4-904, is
+amended to read as follows:
+Section 1-4-904. A. A court shall not terminate the rights of
+a parent to a child unless:
+1. The child has been adjudicated to be deprived either prior
+to or concurrently with a proceeding to terminate parental rights;
+and
+2. Termination of parental rights is in the best interests of
+the child.
+B. The court may terminate the rights of a parent to a child
+based upon the following legal grounds:
+ENR. H. B. NO. 1965 Page 29
+
+1. Upon the duly acknowledged written consent of a parent, who
+voluntarily agrees to termination of parental rights.
+a. The voluntary consent for termination of parental
+rights shall be signed under oath and recorded before
+a judge of a court of competent jurisdiction and
+accompanied by the judge’s certificate that the terms
+and consequences of the consent were fully explained
+in detail in English and were fully understood by the
+parent or that the consent was translated into a
+language that the parent understood.
+b. A voluntary consent for termination of parental rights
+is effective when it is signed and may not be revoked
+except upon clear and convincing evidence that the
+consent was executed by reason of fraud or duress.
+c. However, notwithstanding the provisions in this
+paragraph, in any proceeding for a voluntary
+termination of parental rights to an Indian child, the
+consent of the parent may be withdrawn for any reason
+at any time prior to the entry of a final decree of
+termination. Any consent given prior to, or within
+ten (10) days after, the birth of an Indian child
+shall not be valid;
+2. A finding that a parent who is entitled to custody of the
+child has abandoned the child;
+3. A finding that the child is an abandoned infant;
+4. A finding that the parent of a child:
+a. has voluntarily placed physical custody of the child
+with the Department of Human Services or with a child-
+placing agency for out-of-home placement,
+b. has not complied with the placement agreement, and
+c. has not demonstrated during such period a firm
+intention to resume physical custody of the child or
+to make permanent legal arrangements for the care of
+the child;
+5. A finding that:
+ENR. H. B. NO. 1965 Page 30
+
+a. the parent has failed to correct the condition which
+led to the deprived adjudication of the child, and
+b. the parent has been given at least three (3) months to
+correct the condition;
+6. A finding that:
+a. the rights of the parent to another child have been
+terminated, and
+b. the conditions that led to the prior termination of
+parental rights have not been corrected;
+7. A finding that a parent who does not have custody of the
+child has, for at least six (6) out of the twelve (12) months
+immediately preceding the filing of the petition or motion for
+termination of parental rights, willfully failed or refused or has
+neglected to contribute to the support of the child:
+a. as specified by an order entered by a court of
+competent jurisdiction adjudicating the duty, amount
+and manner of support, or
+b. where an order of child support does not exist,
+according to the financial ability of the parent to
+contribute to the child’s support.
+Incidental or token support shall not be construed or considered in
+establishing whether a parent has maintained or contributed to the
+support of the child;
+8. A finding that the parent has been convicted in a court of
+competent jurisdiction in any state of any of the following acts:
+a. permitting a child to participate in pornography child
+sexual abuse material,
+b. rape, or rape by instrumentation,
+c. lewd molestation of a child under sixteen (16) years
+of age,
+d. child abuse or neglect,
+ENR. H. B. NO. 1965 Page 31
+
+e. enabling child abuse or neglect,
+f. causing the death of a child as a result of the
+physical or sexual abuse or chronic abuse or chronic
+neglect of the child,
+g. causing the death of a sibling of the child as a
+result of the physical or sexual abuse or chronic
+abuse or chronic neglect of the child’s sibling,
+h. murder of any child or aiding or abetting, attempting,
+conspiring, or soliciting to commit murder of any
+child,
+i. voluntary manslaughter of any child,
+j. a felony assault that has resulted in serious bodily
+injury to the child or another child of the parents,
+or
+k. murder or voluntary manslaughter of the child’s parent
+or aiding or abetting, attempting, conspiring, or
+soliciting to commit murder of the child’s parent;
+9. A finding that the parent has abused or neglected any child
+or failed to protect any child from abuse or neglect that is heinous
+or shocking;
+10. A finding that the parent has previously abused or
+neglected the child or a sibling of the child or failed to protect
+the child or a sibling of the child from abuse or neglect and the
+child or a sibling of the child has been subjected to subsequent
+abuse;
+11. A finding that the child was conceived as a result of rape
+perpetrated by the parent whose rights are sought to be terminated;
+12. A finding that the parent whose rights are sought to be
+terminated is incarcerated, and the continuation of parental rights
+would result in harm to the child based on consideration of the
+following factors, among others:
+a. the duration of incarceration and its detrimental
+effect on the parent/child relationship,
+ENR. H. B. NO. 1965 Page 32
+
+b. any previous convictions resulting in involuntary
+confinement in a secure facility,
+c. the parent’s history of criminal behavior, including
+crimes against children,
+d. the age of the child,
+e. any evidence of abuse or neglect or failure to protect
+from abuse or neglect of the child or siblings of the
+child by the parent,
+f. the current relationship between the parent and the
+child, and
+g. the manner in which the parent has exercised parental
+rights and duties in the past.
+Provided, that the incarceration of a parent shall not in and of
+itself be sufficient to deprive a parent of parental rights;
+13. A finding that all of the following exist:
+a. the parent has a diagnosed cognitive disorder, an
+extreme physical incapacity, or a medical condition,
+including behavioral health, which renders the parent
+incapable of adequately and appropriately exercising
+parental rights, duties, and responsibilities within a
+reasonable time considering the age of the child, and
+b. allowing the parent to have custody would cause the
+child actual harm or harm in the near future.
+A parent’s refusal or pattern of noncompliance with treatment,
+therapy, medication, or assistance from outside the home can be used
+as evidence that the parent is incapable of adequately and
+appropriately exercising parental rights, duties, and
+responsibilities.
+A finding that a parent has a diagnosed cognitive disorder, an
+extreme physical incapacity, or a medical condition, including
+behavioral health or substance dependency, shall not in and of
+itself deprive the parent of parental rights;
+ENR. H. B. NO. 1965 Page 33
+
+14. A finding that:
+a. the condition that led to the deprived adjudication
+has been the subject of a previous deprived
+adjudication of this child or a sibling of this child,
+and
+b. the parent has been given an opportunity to correct
+the conditions which led to the determination of the
+initial deprived child;
+15. A finding that there exists a substantial erosion of the
+relationship between the parent and child caused at least in part by
+the parent’s serious or aggravated neglect of the child, physical or
+sexual abuse or exploitation of the child, a prolonged and
+unreasonable absence of the parent from the child or an unreasonable
+failure by the parent to visit or communicate in a meaningful way
+with the child;
+16. A finding that a child four (4) years of age or older at
+the time of placement has been placed in foster care by the
+Department of Human Services for fifteen (15) of the most recent
+twenty-two (22) months preceding the filing of the petition or
+motion for termination of parental rights and the child cannot, at
+the time of the filing of the petition or motion, be safely returned
+to the home of the parent. For purposes of this paragraph, a child
+shall be considered to have entered foster care on the earlier of:
+a. the adjudication date, or
+b. the date that is sixty (60) days after the date on
+which the child is removed from the home
+has been in foster care for not less than fifteen (15) months of the
+most recent twenty-two (22) months and that the parent has not
+corrected the circumstances which led the child to be adjudicated to
+be a deprived child, unless:
+a. a parent has made substantial progress toward
+eliminating the problem that caused the child’s
+placement in foster care, it is likely that the child
+will be able to safely return to the parent’s home
+within ninety (90) days, and the child’s return to the
+parent’s home will be in the child’s best interests,
+ENR. H. B. NO. 1965 Page 34
+
+b. the child has a close and positive relationship with a
+parent and a permanent plan that does not include
+termination of parental rights will provide the most
+secure and appropriate placement for the child,
+c. the child is twelve (12) years of age or older, is
+firmly opposed to termination of parental rights, and
+is likely to disrupt an attempt to place the child
+with an adoptive family,
+d. a parent is terminally ill but in remission, does not
+want parental rights to be terminated, and has
+designated a guardian for the child,
+e. the child is not capable of functioning if placed in a
+family setting. In such a case, the court shall
+reevaluate the status of the child every ninety (90)
+days unless there is a court determination that the
+child cannot be placed in a family setting,
+f. the child is an unaccompanied, refugee minor and the
+case involves international legal issues or compelling
+foreign policy issues,
+g. adoption is not an appropriate plan for the child,
+h. the parent’s incarceration constitutes the primary
+factor in the child’s placement in substitute care and
+termination of parental rights is not in the child’s
+best interest, or
+i. the parent’s participation in a court-ordered
+residential substance abuse treatment program
+constitutes the primary factor in the child’s
+placement in substitute care and termination of
+parental rights is not in the child’s best interest.
+For purposes of this paragraph, a child shall be considered to
+have entered foster care on the earlier of the adjudication date, or
+the date that is sixty (60) days after the date on which the child
+is removed from the home.
+The court may also consider circumstances of the failure of the
+parent to develop and maintain a parental bond with the child in a
+meaningful, supportive manner, and whether allowing the parent to
+ENR. H. B. NO. 1965 Page 35
+
+have custody would likely cause the child actual serious
+psychological harm or harm in the near future as a result of the
+removal of the child from the substitute caregiver due to the
+existence of a strong and positive bond between the child and
+caregiver; and
+17. A finding that a child younger than four (4) years of age
+at the time of placement has been placed in foster care by the
+Department of Human Services for at least six (6) of the twelve (12)
+months preceding the filing of the petition or motion for
+termination of parental rights and the child cannot be safely
+returned to the home of the parent.
+a. For purposes of this paragraph, a child shall be
+considered to have entered foster care on the earlier
+of:
+(1) the adjudication date, or
+(2) the date that is sixty (60) days after the date
+on which the child is removed from the home.
+b. For purposes of this paragraph, the court may
+consider:
+(1) circumstances of the failure of the parent to
+develop and maintain a parental bond with the
+child in a meaningful, supportive manner, and
+(2) whether allowing the parent to have custody would
+likely cause the child actual serious
+psychological harm or harm in the near future as
+a result of the removal of the child from the
+substitute caregiver due to the existence of a
+strong, positive bond between the child and
+caregiver.
+C. An order directing the termination of parental rights is a
+final appealable order.
+D. The provisions of this section shall not apply to adoption
+proceedings and actions to terminate parental rights which do not
+involve a petition for deprived status of the child. Such
+proceedings and actions shall be governed by the Oklahoma Adoption
+Code.
+ENR. H. B. NO. 1965 Page 36
+
+SECTION 6. AMENDATORY 10A O.S. 2021, Section 2-2-104.1,
+is amended to read as follows:
+Section 2-2-104.1. A. Diversion services shall be offered to
+children who are at risk of being the subject of a child-in-need-of-
+supervision petition. Diversion services shall be designed to
+provide an immediate response to families in crisis and to divert
+children from court proceedings. Diversion services may be provided
+by outside agencies as designated by the district courts, juvenile
+bureaus, court employees, or a combination thereof. If a child
+would be charged with a delinquent act as a result of a first-time
+offense which would be a misdemeanor if committed by an adult,
+diversion services shall be provided prior to the district attorney
+filing a petition alleging the child to be in need of supervision or
+upon the assumption of custody pursuant to Section 2-2-101 of this
+title.
+B. Diversion services shall clearly document diligent attempts
+to provide appropriate services to the child and the family of the
+child unless it is determined that there is no substantial
+likelihood that the child and family of the child will benefit from
+further diversion attempts.
+C. Where the primary issue is truancy, steps taken by the
+school district to improve the attendance or conduct of the child in
+school shall be reviewed and attempts to engage the school district
+in further diversion attempts shall be made if it appears that such
+attempts will be beneficial to the child.
+D. Efforts to prevent the filing of the petition may extend
+until it is determined that there is no substantial likelihood that
+the child and family of the child will benefit from further
+attempts. Efforts at diversion may continue after the filing of the
+petition where it is determined that the child and family of the
+child will benefit therefrom.
+E. A child-in-need-of-supervision petition shall not be filed
+during the period that the designated agency, juvenile bureau, or
+court employee is providing the diversion services. A finding that
+the case has been successfully diverted shall constitute presumptive
+evidence that the underlying allegations have been successfully
+resolved.
+ENR. H. B. NO. 1965 Page 37
+
+F. The designated agency, juvenile bureau, or court employee
+shall promptly give written notice to the child and family of the
+child whenever attempts to prevent the filing of the petition have
+terminated and shall indicate in the notice whether the efforts were
+successful or whether a child-in-need-of-supervision petition should
+be filed with the court. A petition may or may not be filed where
+diversion services have been terminated because the parent or other
+person legally responsible for the child failed to consent to the
+diversion plan or failed to actively participate in the services
+provided.
+G. Diversion services shall include, but not be limited to,
+Functional Family Therapy, first-time offender programs, community-
+at-risk services, or other similar programs.
+H. The Office of Juvenile Affairs shall evaluate the rate of
+recidivism for children who are offered diversion services and shall
+publish the rate publicly in the Office’s annual report. Data
+disclosed in the annual report shall be unidentifiable to an
+individual.
+SECTION 7. AMENDATORY 30 O.S. 2021, Section 2-101, is
+amended to read as follows:
+Section 2-101. A. The court of each county, when it appears
+necessary or convenient, may appoint guardians for the persons and
+estates, or either, or both of them, of minors. When appointing
+guardians, preference shall be given to relatives and persons who
+have a kinship relationship with the minor.
+B. Such appointment may be made on the verified petition of a
+relative or other person in behalf of such minor.
+C. 1. Before making the appointment, the court may receive an
+investigation and report regarding the background and home of the
+prospective guardian. The investigation and report of the
+prospective guardian and placement restrictions and requirements
+shall be made pursuant to the requirements of the Oklahoma Adoption
+Code. In determining whether to require a home study pursuant to
+the provisions of this paragraph, the court shall balance the need
+for a home study to protect the best interests of the minor with the
+ability of the prospective guardian to pay for the home study.
+2. a. Costs of the home study shall be assessed against any
+private child-placing agency having custody of the
+ENR. H. B. NO. 1965 Page 38
+
+child, or the person having legal custody of the child
+or the prospective guardians of the child.
+b. (1) For any child in the custody of the Department of
+Human Services or the Department of Juvenile
+Justice Office of Juvenile Affairs, the
+applicable Department shall conduct or provide
+for the home study for such child as required by
+the Oklahoma Children’s Code or the Oklahoma
+Juvenile Code.
+(2) The Department of Human Services or the
+Department of Juvenile Justice Office of Juvenile
+Affairs shall not be required by any court to
+conduct or provide for a home study and report to
+the court on guardianship placements for any
+child that is not in the custody of either
+Department.
+3. An order appointing a guardian of the minor who has a parent
+living or other person legally responsible for the child shall
+comply with the provisions of Section 2-108 of this title.
+4. Except in the case of an emergency guardianship placement,
+the court shall receive a background check for a prospective
+guardian and all other household members eighteen (18) years of age
+and older, consisting of a review of a national fingerprint-based
+criminal background check or an Oklahoma State Bureau of
+Investigation name-based criminal history background check, a search
+of the Department of Corrections’ files maintained pursuant to the
+Sex Offenders Registration Act, and a search of the child abuse and
+neglect information system (CANIS) maintained for review by
+authorized entities by the Department of Human Services. The
+Department may charge a fee not to exceed Thirty-five Dollars
+($35.00) for each search performed pursuant to this paragraph. In
+the case of an emergency placement, the court may waive the
+requirement for a CANIS search if it cannot be obtained in a
+reasonable time and the court determines that it is in the minor’s
+best interest that the CANIS search be waived.
+D. In addition, before making the appointment, the court must
+cause notice of the hearing on the petition for appointment of a
+guardian for a minor to be given in the form required by the court
+to the minor if the minor has attained the age of fourteen (14) as
+ENR. H. B. NO. 1965 Page 39
+
+of the date the petition is filed. The court shall also cause
+notice to be sent to the following persons:
+1. The then-living parents of the minor and any other person
+having custody of the minor, if such parent or person is not one of
+the petitioners;
+2. If the minor has no then-living parent, then to one of the
+then-living grandparents who is not one of the petitioners and who
+is not married to one of the petitioners; and
+3. If there is no such then-living grandparent or if there is
+no such then-living grandparent whose address is known to the
+petitioner, then notice shall be given to an adult relative, if any,
+of the minor residing in the county in which the petition was filed.
+E. Such notice shall be mailed to each person entitled to
+notice pursuant to this section, at that person’s address as last-
+known to the petitioner, at least ten (10) days prior to the date
+set by the court for hearing on the petition. Provided, the court
+may direct a shorter notice period if the court deems such shorter
+notice period to be appropriate under the circumstances. If there
+is no person other than the minor who is entitled to notice, or if
+the address of any person, other than the minor, who is entitled to
+notice is not known to the petitioner, the petition shall so allege.
+The court may direct that notice, other than notice to the minor if
+the minor has attained the age of fourteen (14), be waived or be
+given to any person or persons other than the minor in such manner
+as the court determines and directs.
+SECTION 8. This act shall become effective November 1, 2025.
+ENR. H. B. NO. 1965 Page 40
+
+Passed the House of Representatives the 21st day of May, 2025.
+Presiding Officer of the House
+of Representatives
+Passed the Senate the 7th day of May, 2025.
+Presiding Officer of the Senate
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. H. B. NO. 1965 Page 41
+
+[DELETED:  B W  a B]
+[DELETED:  P t t t “ “ “]
+[DELETED:  P a i]
+[DELETED:  P n m]
+[DELETED:  P]
+[DELETED:  P w w w w w w]
+[DELETED:  P w w w w]
+[DELETED:  P]
+[DELETED:  P a e p a]
+[DELETED:  P a a s c t a c n a a]
+[DELETED:  P a “ t w “ “ c c “]
+[DELETED:  P “]
+[DELETED:  P a “ t a m s s t t i s a “]
+[DELETED:  P t t e r r e]
+[DELETED:  P h h p a]
+[DELETED:  P a t f d p i T T T a]
+[DELETED:  P]
+[DELETED:  P t t h i i]
+[DELETED:  P “ “ s t]
+[DELETED:  P]
+[DELETED:  P t t t t a t]
+[DELETED:  P t]
+[DELETED:  P t t t a t t a]
+[DELETED:  P t a a e a e h t m p]
+[DELETED:  P s e f a a a w i]
+[DELETED:  P W W]
+[DELETED:  P t t p r l c e c]
+[DELETED:  P c m v a m t]
+[DELETED:  P t t t t]
+[DELETED:  P T A H h h h]
+[DELETED:  P t t t t a w p r l c]
+[DELETED:  P e c c m v a m t]
+[DELETED:  P a t t a t t t a]
+[DELETED:  P t t t t a]
+[DELETED:  P t t a t t a t t]
+[DELETED:  P F t t F c w]
+[DELETED:  P]
+[DELETED:  P a C]
+[DELETED:  P ( F T]
+[DELETED:  P]
+[DELETED:  PPoP_G]

@@ -1,0 +1,126 @@
+Title: 3 HOUSE BILL 1155 By: Cornwell
+Official Title: 3 HOUSE BILL 1155 By: Cornwell
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to the Department of Public Safety;
+requiring Department establish and maintain pursuit
+8 alert system; listing components of system; stating
+when alerts shall be issued; listing requirements of
+9 alerts; authorizing the promulgation of rules;
+providing for codification; and providing an
+10 effective date.
+11
+12
+13
+14 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15 SECTION 1. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 2-140b of Title 47, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. The Department of Public Safety shall establish and maintain
+19 a pursuit alert system to alert drivers of active police pursuits
+20 occurring in their immediate area. The alert system shall include,
+21 but shall not be limited to, the following components:
+22 1. Collaboration with mobile carriers and notification services
+23 to send real-time alerts directly to drivers' mobile phones via text
+24 messages, push notifications, or other mobile communication methods;
+Req. No. 10235 Page 1
+1 2. Integration with any existing highway electronic message
+2 boards in the area to display real-time updates about the location
+3 and direction of an active pursuit;
+4 3. Limitation on the area of notification to a radius around
+5 the pursuit to be determined by the Department.
+6 B. Alerts of a pursuit shall only be issued when a law
+7 enforcement agency confirms that an active pursuit is ongoing, and
+8 that pursuit poses a significant risk to the public and when public
+9 notification is deemed likely to reduce the risk of harm or assist
+10 in the safe resolution of the pursuit.
+11 C. The pursuit alert system shall provide clear, concise and
+12 timely information about the pursuit, such as the make, model, and
+13 color of the vehicle, its last known location, and direction of
+14 travel. Notifications shall be issued in a manner that minimizes
+15 driver distraction and promotes safety. Alerts shall be deactivated
+16 once the pursuit has ended or is no longer a threat to public
+17 safety.
+18 D. The Department is authorized to promulgate any rules
+19 necessary to effectuate the provisions of this section.
+20 SECTION 2. This act shall become effective November 1, 2025.
+21
+22 60-1-10235 JBH 12/12/24
+23
+24
+Req. No. 10235 Page 2
+[DELETED:  P B]
+[DELETED:  P J 1]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 HOUSE BILL 1155 By: Cornwell
+4
+5
+6 AS INTRODUCED
+7 An Act relating to the Department of Public Safety;
+requiring Department establish and maintain pursuit
+8 alert system; listing components of system; stating
+when alerts shall be issued; listing requirements of
+9 alerts; authorizing the promulgation of rules;
+providing for codification; and providing an
+10 effective date.
+11
+12
+13
+14 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15 SECTION 1. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 2-140b of Title 47, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. The Department of Public Safety shall establish and maintain
+19 a pursuit alert system to alert drivers of active police pursuits
+20 occurring in their immediate area. The alert system shall include,
+21 but shall not be limited to, the following components:
+22 1. Collaboration with mobile carriers and notification services
+23 to send real-time alerts directly to drivers' mobile phones via text
+24 messages, push notifications, or other mobile communication methods;
+Req. No. 10235 Page 1
+
+1 2. Integration with any existing highway electronic message
+2 boards in the area to display real-time updates about the location
+3 and direction of an active pursuit;
+4 3. Limitation on the area of notification to a radius around
+5 the pursuit to be determined by the Department.
+6 B. Alerts of a pursuit shall only be issued when a law
+7 enforcement agency confirms that an active pursuit is ongoing, and
+8 that pursuit poses a significant risk to the public and when public
+9 notification is deemed likely to reduce the risk of harm or assist
+10 in the safe resolution of the pursuit.
+11 C. The pursuit alert system shall provide clear, concise and
+12 timely information about the pursuit, such as the make, model, and
+13 color of the vehicle, its last known location, and direction of
+14 travel. Notifications shall be issued in a manner that minimizes
+15 driver distraction and promotes safety. Alerts shall be deactivated
+16 once the pursuit has ended or is no longer a threat to public
+17 safety.
+18 D. The Department is authorized to promulgate any rules
+19 necessary to effectuate the provisions of this section.
+20 SECTION 2. This act shall become effective November 1, 2025.
+21
+22 60-1-10235 JBH 12/12/24
+23
+24
+Req. No. 10235 Page 2
+
+[DELETED:  P B]
+[DELETED:  P J 1]

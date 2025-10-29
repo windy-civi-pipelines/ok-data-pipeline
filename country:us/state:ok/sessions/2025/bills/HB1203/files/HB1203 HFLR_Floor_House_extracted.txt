@@ -1,0 +1,360 @@
+Title: 4 HOUSE BILL 1203 By: Maynard and Hays of the
+Official Title: 4 HOUSE BILL 1203 By: Maynard and Hays of the
+Number of Sections: 1
+Source: versions - Floor (House)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 1st Session of the 60th Legislature (2025)
+House
+5
+and
+6
+Frix of the Senate
+7
+8
+9 AS INTRODUCED
+10 An Act relating to public finance; enacting the
+Strategic Bitcoin Reserve Act; providing definitions;
+11 permitting certain investments by the State
+Treasurer; limiting investments; directing certain
+12 taxes and fees be paid to the State General Fund;
+permitting investment of state retirement funds;
+13 providing for codification; and providing an
+effective date.
+14
+15
+16 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17 SECTION 1. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 89.12 of Title 62, unless there
+19 is created a duplication in numbering, reads as follows:
+20 This act shall be known and may be cited as the "Strategic
+21 Bitcoin Reserve Act".
+22 SECTION 2. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 89.12a of Title 62, unless there
+24 is created a duplication in numbering, reads as follows:
+HB1203 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+1 As used in this act, the following terms shall mean:
+2 1. "Bitcoin" refers to the decentralized digital currency
+3 launched in 2009, based on Satoshi Nakamoto's whitepaper titled
+4 "Bitcoin: A Peer-to-Peer Electronic Cash System". Bitcoin also
+5 refers to the digital asset which is the basis of the bitcoin
+6 exchange-traded product and is regulated by the United States
+7 Securities and Exchange Commission;
+8 2. "Digital asset" means virtual currency, cryptocurrencies,
+9 natively electronic assets, including stablecoins and non-fungible
+10 tokens (NFTs), and other digital-only assets that confer economic,
+11 proprietary, or access rights or powers;
+12 3. "Exchange-traded product (ETP)" refers to any financial
+13 instrument that is approved by the United States Securities and
+14 Exchange Commission, or the Commodities Future Trading Commission,
+15 that is traded on an American regulated exchange and derives its
+16 value from an underlying pool of assets, such as stocks, bonds,
+17 commodities, or indexes;
+18 4. "Private key" means a unique element of cryptographic data,
+19 used for signing transactions on a blockchain, and is known to the
+20 owner of the private key;
+21 5. "Qualified custodian" means any federal or state-chartered
+22 bank, trust company, or special purpose depository institution or a
+23 company regulated by the state which custodies digital assets for an
+24 approved exchange-traded product;
+HB1203 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+1 6. "Secure custody solution" means a technological product or
+2 blended product and service which has all of the following
+3 characteristics:
+4 a. the cryptographic private keys that secure digital
+5 assets are exclusively known by and accessible by the
+6 government entity,
+7 b. the cryptographic private keys that secure digital
+8 assets are exclusively contained within an encrypted
+9 environment and accessible only via end-to-end
+10 encrypted channels,
+11 c. the cryptographic private keys that secure digital
+12 assets are never contained by, accessible by, or
+13 controllable via a smartphone,
+14 d. any hardware that contains the cryptographic private
+15 keys that secure digital assets is maintained in at
+16 least two geographically diversified specially
+17 designated secure data centers,
+18 e. the secure custody solution enforces a multi-party
+19 governance structure for authorizing transactions,
+20 enforces user access controls, and logs all user-
+21 initiated actions,
+22 f. the provider of the secure custody solution has
+23 implemented a disaster recovery protocol that ensures
+24
+HB1203 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+1 customer access to assets in the event the provider
+2 becomes unavailable, and
+3 g. the secure custody solution undergoes regular code
+4 audits and penetration testing from audit firms, and
+5 any identified vulnerabilities should be promptly
+6 remedied;
+7 7. "Stablecoin" means a digital asset that is issued by a
+8 corporation backed by dollars or high-quality liquid assets and is
+9 redeemable, on demand, by the holder, at par for a fixed monetary
+10 value in equivalent United States dollars;
+11 8. "Staking" means the act of committing digital assets for a
+12 period of time to validate and secure a specific blockchain network;
+13 and
+14 9. "Staking as a service" means the provision of technical
+15 staking services, including the operation of nodes and the
+16 associated infrastructure necessary to facilitate participation in
+17 blockchain networks' consensus mechanisms.
+18 SECTION 3. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 89.12b of Title 62, unless there
+20 is created a duplication in numbering, reads as follows:
+21 A. The State Treasurer may invest public funds in bitcoin or
+22 any digital asset with a market cap of over Five Hundred Billion
+23 Dollars ($500,000,000,000.00) averaged over the previous calendar
+24 year, and stablecoins from the following funds:
+HB1203 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+1 1. The State General Fund;
+2 2. The Revenue Stabilization Fund; and
+3 3. The Constitutional Reserve Fund.
+4 B. The amount of public funds that the State Treasurer may
+5 invest in bitcoin or any digital assets with a market cap of over
+6 Five Hundred Billion Dollars (500,000,000,000.00) averaged over the
+7 previous calendar year, and stablecoins may not, at the time the
+8 investment if made, exceed ten percent (10%) of the total amount of
+9 public funds in that account.
+10 C. Any digital assets acquired by any of the funds listed in
+11 subsection A of this section shall be held:
+12 1. Directly by the State Treasurer through the use of a secure
+13 custody solution;
+14 2. On behalf of the state by a qualified custodian; or
+15 3. In the form of an exchange-traded product issued by a
+16 registered investment company.
+17 D. The State Treasurer may only hold stablecoins under this
+18 section that have received the appropriate regulatory approval from
+19 at least one of the competent authorities of the following:
+20 1. The United States of America;
+21 2. Any state of the United States of America;
+22 3. The United Kingdom;
+23 4. The Nation of Japan; or
+24 5. The European Union.
+HB1203 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+1 E. If a digital asset can be staked with the Office of the
+2 State Treasurer retaining legal ownership of the digital asset, the
+3 State Treasurer may engage in staking using a third-party solution.
+4 SECTION 4. NEW LAW A new section of law to be codified
+5 in the Oklahoma Statutes as Section 89.12c of Title 62, unless there
+6 is created a duplication in numbering, reads as follows:
+7 All taxes or fees paid to the state in bitcoin shall be
+8 transferred to the State General Fund. The State General Fund shall
+9 reimburse whatever fund the qualifying digital asset was designated
+10 to with United States currency.
+11 SECTION 5. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 89.12d of Title 62, unless there
+13 is created a duplication in numbering, reads as follows:
+14 Any state retirement fund may hold digital assets directly
+15 through the use of a secure custody solution, store digital assets
+16 with a qualified custodian, or invest digital assets in exchange-
+17 traded products that have been duly registered by either the United
+18 States Securities and Exchange Commission or the Commodities Future
+19 Trading Commission.
+20 SECTION 6. This act shall become effective November 1, 2025.
+21
+22 COMMITTEE REPORT BY: COMMITTEE ON GOVERNMENT OVERSIGHT, dated
+02/25/2025 - DO PASS, As Coauthored.
+23
+24
+HB1203 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+[DELETED:  P B     a F]
+[DELETED:  P]
+[DELETED:  P t t t a t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 1st Session of the 60th Legislature (2025)
+4 HOUSE BILL 1203 By: Maynard and Hays of the
+House
+5
+and
+6
+Frix of the Senate
+7
+8
+9 AS INTRODUCED
+10 An Act relating to public finance; enacting the
+Strategic Bitcoin Reserve Act; providing definitions;
+11 permitting certain investments by the State
+Treasurer; limiting investments; directing certain
+12 taxes and fees be paid to the State General Fund;
+permitting investment of state retirement funds;
+13 providing for codification; and providing an
+effective date.
+14
+15
+16 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17 SECTION 1. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 89.12 of Title 62, unless there
+19 is created a duplication in numbering, reads as follows:
+20 This act shall be known and may be cited as the "Strategic
+21 Bitcoin Reserve Act".
+22 SECTION 2. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 89.12a of Title 62, unless there
+24 is created a duplication in numbering, reads as follows:
+HB1203 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+1 As used in this act, the following terms shall mean:
+2 1. "Bitcoin" refers to the decentralized digital currency
+3 launched in 2009, based on Satoshi Nakamoto's whitepaper titled
+4 "Bitcoin: A Peer-to-Peer Electronic Cash System". Bitcoin also
+5 refers to the digital asset which is the basis of the bitcoin
+6 exchange-traded product and is regulated by the United States
+7 Securities and Exchange Commission;
+8 2. "Digital asset" means virtual currency, cryptocurrencies,
+9 natively electronic assets, including stablecoins and non-fungible
+10 tokens (NFTs), and other digital-only assets that confer economic,
+11 proprietary, or access rights or powers;
+12 3. "Exchange-traded product (ETP)" refers to any financial
+13 instrument that is approved by the United States Securities and
+14 Exchange Commission, or the Commodities Future Trading Commission,
+15 that is traded on an American regulated exchange and derives its
+16 value from an underlying pool of assets, such as stocks, bonds,
+17 commodities, or indexes;
+18 4. "Private key" means a unique element of cryptographic data,
+19 used for signing transactions on a blockchain, and is known to the
+20 owner of the private key;
+21 5. "Qualified custodian" means any federal or state-chartered
+22 bank, trust company, or special purpose depository institution or a
+23 company regulated by the state which custodies digital assets for an
+24 approved exchange-traded product;
+HB1203 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+1 6. "Secure custody solution" means a technological product or
+2 blended product and service which has all of the following
+3 characteristics:
+4 a. the cryptographic private keys that secure digital
+5 assets are exclusively known by and accessible by the
+6 government entity,
+7 b. the cryptographic private keys that secure digital
+8 assets are exclusively contained within an encrypted
+9 environment and accessible only via end-to-end
+10 encrypted channels,
+11 c. the cryptographic private keys that secure digital
+12 assets are never contained by, accessible by, or
+13 controllable via a smartphone,
+14 d. any hardware that contains the cryptographic private
+15 keys that secure digital assets is maintained in at
+16 least two geographically diversified specially
+17 designated secure data centers,
+18 e. the secure custody solution enforces a multi-party
+19 governance structure for authorizing transactions,
+20 enforces user access controls, and logs all user-
+21 initiated actions,
+22 f. the provider of the secure custody solution has
+23 implemented a disaster recovery protocol that ensures
+24
+HB1203 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+1 customer access to assets in the event the provider
+2 becomes unavailable, and
+3 g. the secure custody solution undergoes regular code
+4 audits and penetration testing from audit firms, and
+5 any identified vulnerabilities should be promptly
+6 remedied;
+7 7. "Stablecoin" means a digital asset that is issued by a
+8 corporation backed by dollars or high-quality liquid assets and is
+9 redeemable, on demand, by the holder, at par for a fixed monetary
+10 value in equivalent United States dollars;
+11 8. "Staking" means the act of committing digital assets for a
+12 period of time to validate and secure a specific blockchain network;
+13 and
+14 9. "Staking as a service" means the provision of technical
+15 staking services, including the operation of nodes and the
+16 associated infrastructure necessary to facilitate participation in
+17 blockchain networks' consensus mechanisms.
+18 SECTION 3. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 89.12b of Title 62, unless there
+20 is created a duplication in numbering, reads as follows:
+21 A. The State Treasurer may invest public funds in bitcoin or
+22 any digital asset with a market cap of over Five Hundred Billion
+23 Dollars ($500,000,000,000.00) averaged over the previous calendar
+24 year, and stablecoins from the following funds:
+HB1203 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+1 1. The State General Fund;
+2 2. The Revenue Stabilization Fund; and
+3 3. The Constitutional Reserve Fund.
+4 B. The amount of public funds that the State Treasurer may
+5 invest in bitcoin or any digital assets with a market cap of over
+6 Five Hundred Billion Dollars (500,000,000,000.00) averaged over the
+7 previous calendar year, and stablecoins may not, at the time the
+8 investment if made, exceed ten percent (10%) of the total amount of
+9 public funds in that account.
+10 C. Any digital assets acquired by any of the funds listed in
+11 subsection A of this section shall be held:
+12 1. Directly by the State Treasurer through the use of a secure
+13 custody solution;
+14 2. On behalf of the state by a qualified custodian; or
+15 3. In the form of an exchange-traded product issued by a
+16 registered investment company.
+17 D. The State Treasurer may only hold stablecoins under this
+18 section that have received the appropriate regulatory approval from
+19 at least one of the competent authorities of the following:
+20 1. The United States of America;
+21 2. Any state of the United States of America;
+22 3. The United Kingdom;
+23 4. The Nation of Japan; or
+24 5. The European Union.
+HB1203 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+1 E. If a digital asset can be staked with the Office of the
+2 State Treasurer retaining legal ownership of the digital asset, the
+3 State Treasurer may engage in staking using a third-party solution.
+4 SECTION 4. NEW LAW A new section of law to be codified
+5 in the Oklahoma Statutes as Section 89.12c of Title 62, unless there
+6 is created a duplication in numbering, reads as follows:
+7 All taxes or fees paid to the state in bitcoin shall be
+8 transferred to the State General Fund. The State General Fund shall
+9 reimburse whatever fund the qualifying digital asset was designated
+10 to with United States currency.
+11 SECTION 5. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 89.12d of Title 62, unless there
+13 is created a duplication in numbering, reads as follows:
+14 Any state retirement fund may hold digital assets directly
+15 through the use of a secure custody solution, store digital assets
+16 with a qualified custodian, or invest digital assets in exchange-
+17 traded products that have been duly registered by either the United
+18 States Securities and Exchange Commission or the Commodities Future
+19 Trading Commission.
+20 SECTION 6. This act shall become effective November 1, 2025.
+21
+22 COMMITTEE REPORT BY: COMMITTEE ON GOVERNMENT OVERSIGHT, dated
+02/25/2025 - DO PASS, As Coauthored.
+23
+24
+HB1203 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+[DELETED:  P B     a F]
+[DELETED:  P]
+[DELETED:  P t t t a t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
