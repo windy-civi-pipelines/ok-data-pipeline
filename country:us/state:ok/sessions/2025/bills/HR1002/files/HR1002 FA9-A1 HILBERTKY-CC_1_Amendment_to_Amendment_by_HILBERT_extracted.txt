@@ -1,0 +1,53 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 1
+Source: versions - 1  Amendment to Amendment by HILBERT
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HR1002 FA9-A1 HilbertKy-CC
+1/7/2025 3:15:13 pm
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend amendment number 9 to HR1002
+Page 1 Section 1 Lines 3
+Of the Engrossed Bill
+Adding the following after "Oklahoma House of Representatives":
+", except as authorized for the operations of the House."
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Kyle Hilbert
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+[DELETED: 1 AS C           O S L           ]
+
+
+================================================================================
+
+Raw Text:
+HR1002 FA9-A1 HilbertKy-CC
+1/7/2025 3:15:13 pm
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend amendment number 9 to HR1002
+Of the printed Bill
+Page 1 Section 1 Lines 3
+Of the Engrossed Bill
+Adding the following after "Oklahoma House of Representatives":
+", except as authorized for the operations of the House."
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Kyle Hilbert
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+[DELETED: 1 AS C           O S L           ]

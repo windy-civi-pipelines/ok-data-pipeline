@@ -1,0 +1,572 @@
+Title: 3 HOUSE BILL 1891 By: Lepak
+Official Title: 3 HOUSE BILL 1891 By: Lepak
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to state government; providing
+definitions; permitting the Oklahoma State Treasurer
+8 to invest public funds in certain precious metals and
+digital assets; limiting amount that may be invested;
+9 prescribing manner in which digital assets shall be
+held; clarifying stablecoins must be approved by
+10 certain competent authorities; permitting engaging in
+staking by using a third-party solution; permitting
+11 loaning of certain digital assets; prescribing manner
+in which precious metals shall be held; authorizing
+12 the investment of any state retirement fund in
+certain registered products; authorizing the
+13 Treasurer to create the Digital Asset Property Fund;
+providing purpose of fund; directing Treasurer to
+14 establish process through which fund takes control of
+certain digital assets; proscribing the fund taking
+15 control of digital assets obtained via civil asset
+forfeiture; directing the exchange of digital assets
+16 for certain digital assets or stablecoins; permitting
+fund to stake digital assets through third-party;
+17 directing for certain excess fund to be paid to State
+General Revenue Fund; directing the Treasurer to
+18 establish process for return of certain digital
+assets; permitting use of assets to provide funding
+19 for State Rainy Day Fund; directing Treasurer to
+select a qualified custodian; providing criteria for
+20 selection of qualified custodian; directing the
+Treasurer to conduct study; providing for
+21 codification; and providing an effective date.
+22
+23
+24
+Req. No. 10301 Page 1
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 5001 of Title 62, unless there
+4 is created a duplication in numbering, reads as follows:
+5 As used in this act:
+6 1. "Exchange-traded product (ETP)" means any financial
+7 instrument that is approved by the Securities and Exchange
+8 Commission, the Commodities Future Trading Commission, or the state
+9 Securities Commissioner that is traded on a United States regulated
+10 exchange and derives its value from an underlying pool of assets,
+11 such as stocks, bonds, commodities, or indexes;
+12 2. "Precious metal" means the following, whether in coin,
+13 bullion, or other form:
+14 a. silver,
+15 b. gold, and
+16 c. platinum;
+17 3. "Private key" means a unique element of cryptographic data
+18 used for signing transactions on a blockchain and is known to the
+19 owner of the private element;
+20 4. "Qualified custodian" means any federal or state-chartered
+21 bank, trust company, or special purpose depository institution or a
+22 company regulated by the state which custodies digital assets for
+23 approved exchange traded products;
+24
+Req. No. 10301 Page 2
+1 5. "Secure custody solution" means a technological product or
+2 blended product and service which has all of the following
+3 characteristics:
+4 a. the cryptographic private keys that secure digital
+5 assets are exclusively known by and accessible by the
+6 government entity,
+7 b. the cryptographic private keys that secure digital
+8 assets are exclusively contained within an encrypted
+9 environment and accessible only via end-to-end
+10 encrypted channels,
+11 c. the cryptographic private keys that secure digital
+12 assets are never contained by, accessible by, or
+13 controllable via a smartphone,
+14 d. any hardware that contains the cryptographic private
+15 keys that secure digital assets is maintained in at
+16 least two geographically diversified specially
+17 designated secure data centers,
+18 e. the secure custody solution enforces a multiparty
+19 governance structure for authorizing transactions,
+20 enforces user access controls, and logs all user-
+21 initiated actions,
+22 f. the provider of the secure custody solution has
+23 implemented a disaster recovery protocol that ensures
+24
+Req. No. 10301 Page 3
+1 customer access to assets in the event the provider
+2 becomes unavailable, and
+3 g. the secure custody solution undergoes regular code
+4 audits and penetration testing from audit firms, and
+5 any identified vulnerabilities should be promptly
+6 remedied;
+7 6. "Stablecoin" means a digital asset that is issued by a
+8 corporation backed by a governmental currency or high-quality liquid
+9 assets and is redeemable, on demand, by the holder, at par for a
+10 fixed monetary value in equivalent United States dollars; and
+11 7. "Staking" means the act of committing digital assets for a
+12 period of time to validate and secure a specific blockchain network.
+13 SECTION 2. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 5002 of Title 62, unless there
+15 is created a duplication in numbering, reads as follows:
+16 A. The Oklahoma State Treasurer may invest a portion of public
+17 funds in precious metals, any digital asset with a market cap of
+18 over Five Hundred Billion Dollars ($500,000,000,000.00) averaged
+19 over the previous calendar year, and stablecoins from the following
+20 funds:
+21 1. The State General Revenue Fund;
+22 2. The State Rainy Day Fund; and
+23 3. The State Lottery Fund.
+24
+Req. No. 10301 Page 4
+1 B. The amount of public funds that the Oklahoma State Treasurer
+2 may invest in precious metals, digital assets with a market cap of
+3 over Five Hundred Billion Dollars ($500,000,000,000.00) averaged
+4 over the previous calendar year, and stablecoins may not, at the
+5 time the investment is made, exceed ten percent (10%) of the total
+6 amount of public funds in that account.
+7 C. Any digital assets acquired by any of the funds listed in
+8 subsection A of Section 4 of this act shall be held:
+9 1. Directly by the State Treasurer through the use of a secure
+10 custody solution;
+11 2. On behalf of the state by a qualified custodian; or
+12 3. In the form of an exchange-traded product issued by a
+13 registered investment company that invests exclusively in digital
+14 assets with a market cap of over Five Hundred Billion Dollars
+15 ($500,000,000,000.00) averaged over the previous calendar year.
+16 D. The State Treasurer may only hold stablecoins under this
+17 section that have received the appropriate regulatory approval from
+18 the following competent authorities:
+19 1. The United States of America; or
+20 2. Any state of the United States of America.
+21 E. If a digital asset can be staked with the Office of the
+22 State Treasurer retaining legal ownership of the digital asset, the
+23 State Treasurer may engage in staking using a third-party solution.
+24
+Req. No. 10301 Page 5
+1 F. If a digital asset can be loaned without increasing the
+2 financial risk of the state, the State Treasurer shall be allowed to
+3 loan the digital asset to bring further return to the state through
+4 rules established by the State Treasurer.
+5 G. Any precious metals acquired by any of the funds listed in
+6 subsection A of Section 4 of this act shall be held:
+7 1. As an exchange traded product;
+8 2. In physical form by a qualified custodian; or
+9 3. Directly by the state in physical form or in conjunction
+10 with another state in a rule to be established by the State
+11 Treasurer.
+12 SECTION 3. NEW LAW A new section of law to be codified
+13 in the Oklahoma Statutes as Section 5003 of Title 62, unless there
+14 is created a duplication in numbering, reads as follows:
+15 Any state retirement fund may invest in exchange traded products
+16 that have been duly registered by either the Securities and Exchange
+17 Commission, the Commodity Future Trading Commission, or the State
+18 Securities Office.
+19 SECTION 4. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 5004 of Title 62, unless there
+21 is created a duplication in numbering, reads as follows:
+22 A. The Oklahoma State Treasurer is authorized to create the
+23 Digital Asset Property Fund, which shall be a subsection of the
+24 unclaimed property program.
+Req. No. 10301 Page 6
+1 B. The Digital Asset Property Fund shall exist for the purpose
+2 of holding digital assets that are obtained through criminal asset
+3 forfeiture and returning assets to residents of the state who have
+4 lost control of their digital assets through fraudulent or criminal
+5 activities.
+6 C. The Oklahoma State Treasurer shall establish a process by
+7 rule through which the Digital Asset Property Fund takes control of
+8 digital assets from state law enforcement which has been obtained
+9 through criminal asset forfeiture.
+10 D. The Oklahoma State Treasurer shall establish a process by
+11 rule through which the Digital Asset Property Fund takes control of
+12 digital assets from local law enforcement which has been obtained
+13 through criminal asset forfeiture.
+14 E. The Digital Asset Property Fund shall not take control of
+15 any digital assets obtained via civil asset forfeiture.
+16 F. The Digital Asset Property Fund shall to the best of their
+17 abilities endeavor to keep the digital assets in the original form
+18 when the rightful owner lost control of them.
+19 G. If the Digital Asset Property Fund cannot keep the digital
+20 assets in their original form, it shall exchange all digital assets
+21 obtained in this fund for either:
+22 1. Digital assets which have a market value of Five Hundred
+23 Billion Dollars ($500,000,000,000.00) or more on average during the
+24 previous twelve-month period; or
+Req. No. 10301 Page 7
+1 2. Stablecoins which have received regulatory approval from any
+2 of the following:
+3 a. the United States of America, or
+4 b. any state of the United States of America.
+5 H. The Digital Asset Property Fund shall be able to stake any
+6 digital assets held in this fund through a third-party service.
+7 I. Excess funds earned from interest, staking, or otherwise
+8 authorized activities shall be paid to the State General Revenue
+9 Fund, where, if permissible by law, shall be appropriated for law
+10 enforcement activities related to digital assets.
+11 J. The Oklahoma State Treasurer shall establish by rule a
+12 process for returning digital assets to residents of the state who
+13 have lost their digital assets, after the date of the passage of
+14 this law, through:
+15 1. Fraud;
+16 2. Theft; or
+17 3. Other criminal acts as determined by the Oklahoma State
+18 Treasurer.
+19 K. The Oklahoma State Treasurer at any time may use the assets
+20 in the Digital Asset Property Fund to provide funding for the State
+21 Rainy Day Fund.
+22 L. The State Treasurer shall select a qualified custodian for
+23 the management and safekeeping of digital assets under the Digital
+24
+Req. No. 10301 Page 8
+1 Asse t Property Fund no later than a year after the enactment of this
+2 legislation.
+3 M. A qualified custodian shall be selected based on the ability
+4 of the qualified custodian to provide the following services:
+5 1. Secure storage solutions to ensure the safekeeping of
+6 digital assets, including robust cybersecurity measures to prevent
+7 unauthorized access;
+8 2. Capability to manage private keys associated with digital
+9 assets and ensure the ability to transfer or transact with the
+10 assets when required;
+11 3. Proven experience in handling digital assets, including
+12 cryptocurrencies, stablecoins, fungible tokens, and non-fungible
+13 tokens (NFTs);
+14 4. Compliance with all applicable federal and state regulations
+15 related to digital asset custody;
+16 5. Processes to reunite owners with their assets; and
+17 6. Any other factors the State Treasurer deems relevant.
+18 N. The qualified custodian selected through this process shall
+19 enter into a formal agreement with the Office of the State
+20 Treasurer. This agreement shall specify the custodian’s duties,
+21 obligations, and compensation, as well as terms for termination and
+22 auditing rights by the state.
+23
+24
+Req. No. 10301 Page 9
+1 SECTION 5. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 5005 of Title 62, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. The Oklahoma State Treasurer shall conduct a study analyzing
+5 the role of precious metals and digital assets in augmenting,
+6 stabilizing, and ensuring the economic security and prosperity of
+7 the state, the families and residents of the state, and businesses
+8 in the state.
+9 B. The Oklahoma State Treasurer shall also study how
+10 stablecoins can be used to:
+11 1. Allow the state to send and receive payments at a reduced
+12 cost compared to current methods;
+13 2. Allow the state to have payments settle more quickly than
+14 current methods;
+15 3. Allow the state to earn a return for holding stablecoins;
+16 4. Any other topic related to stablecoins as determined by the
+17 Oklahoma State Treasurer; and
+18 5. The Oklahoma State Treasurer shall post the results of the
+19 study before the next legislative session.
+20 SECTION 6. This act shall become effective November 1, 2025.
+21
+22 60-1-10301 MJ 01/12/25
+23
+24
+Req. No. 10301 Page 10
+[DELETED:  P B]
+[DELETED:  P s g p]
+[DELETED:  P t t t a t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t a. ]
+[DELETED:  P]
+[DELETED:  P M 0]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 1st Session of the 60th Legislature (2025)
+3 HOUSE BILL 1891 By: Lepak
+4
+5
+6 AS INTRODUCED
+7 An Act relating to state government; providing
+definitions; permitting the Oklahoma State Treasurer
+8 to invest public funds in certain precious metals and
+digital assets; limiting amount that may be invested;
+9 prescribing manner in which digital assets shall be
+held; clarifying stablecoins must be approved by
+10 certain competent authorities; permitting engaging in
+staking by using a third-party solution; permitting
+11 loaning of certain digital assets; prescribing manner
+in which precious metals shall be held; authorizing
+12 the investment of any state retirement fund in
+certain registered products; authorizing the
+13 Treasurer to create the Digital Asset Property Fund;
+providing purpose of fund; directing Treasurer to
+14 establish process through which fund takes control of
+certain digital assets; proscribing the fund taking
+15 control of digital assets obtained via civil asset
+forfeiture; directing the exchange of digital assets
+16 for certain digital assets or stablecoins; permitting
+fund to stake digital assets through third-party;
+17 directing for certain excess fund to be paid to State
+General Revenue Fund; directing the Treasurer to
+18 establish process for return of certain digital
+assets; permitting use of assets to provide funding
+19 for State Rainy Day Fund; directing Treasurer to
+select a qualified custodian; providing criteria for
+20 selection of qualified custodian; directing the
+Treasurer to conduct study; providing for
+21 codification; and providing an effective date.
+22
+23
+24
+Req. No. 10301 Page 1
+
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 5001 of Title 62, unless there
+4 is created a duplication in numbering, reads as follows:
+5 As used in this act:
+6 1. "Exchange-traded product (ETP)" means any financial
+7 instrument that is approved by the Securities and Exchange
+8 Commission, the Commodities Future Trading Commission, or the state
+9 Securities Commissioner that is traded on a United States regulated
+10 exchange and derives its value from an underlying pool of assets,
+11 such as stocks, bonds, commodities, or indexes;
+12 2. "Precious metal" means the following, whether in coin,
+13 bullion, or other form:
+14 a. silver,
+15 b. gold, and
+16 c. platinum;
+17 3. "Private key" means a unique element of cryptographic data
+18 used for signing transactions on a blockchain and is known to the
+19 owner of the private element;
+20 4. "Qualified custodian" means any federal or state-chartered
+21 bank, trust company, or special purpose depository institution or a
+22 company regulated by the state which custodies digital assets for
+23 approved exchange traded products;
+24
+Req. No. 10301 Page 2
+
+1 5. "Secure custody solution" means a technological product or
+2 blended product and service which has all of the following
+3 characteristics:
+4 a. the cryptographic private keys that secure digital
+5 assets are exclusively known by and accessible by the
+6 government entity,
+7 b. the cryptographic private keys that secure digital
+8 assets are exclusively contained within an encrypted
+9 environment and accessible only via end-to-end
+10 encrypted channels,
+11 c. the cryptographic private keys that secure digital
+12 assets are never contained by, accessible by, or
+13 controllable via a smartphone,
+14 d. any hardware that contains the cryptographic private
+15 keys that secure digital assets is maintained in at
+16 least two geographically diversified specially
+17 designated secure data centers,
+18 e. the secure custody solution enforces a multiparty
+19 governance structure for authorizing transactions,
+20 enforces user access controls, and logs all user-
+21 initiated actions,
+22 f. the provider of the secure custody solution has
+23 implemented a disaster recovery protocol that ensures
+24
+Req. No. 10301 Page 3
+
+1 customer access to assets in the event the provider
+2 becomes unavailable, and
+3 g. the secure custody solution undergoes regular code
+4 audits and penetration testing from audit firms, and
+5 any identified vulnerabilities should be promptly
+6 remedied;
+7 6. "Stablecoin" means a digital asset that is issued by a
+8 corporation backed by a governmental currency or high-quality liquid
+9 assets and is redeemable, on demand, by the holder, at par for a
+10 fixed monetary value in equivalent United States dollars; and
+11 7. "Staking" means the act of committing digital assets for a
+12 period of time to validate and secure a specific blockchain network.
+13 SECTION 2. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 5002 of Title 62, unless there
+15 is created a duplication in numbering, reads as follows:
+16 A. The Oklahoma State Treasurer may invest a portion of public
+17 funds in precious metals, any digital asset with a market cap of
+18 over Five Hundred Billion Dollars ($500,000,000,000.00) averaged
+19 over the previous calendar year, and stablecoins from the following
+20 funds:
+21 1. The State General Revenue Fund;
+22 2. The State Rainy Day Fund; and
+23 3. The State Lottery Fund.
+24
+Req. No. 10301 Page 4
+
+1 B. The amount of public funds that the Oklahoma State Treasurer
+2 may invest in precious metals, digital assets with a market cap of
+3 over Five Hundred Billion Dollars ($500,000,000,000.00) averaged
+4 over the previous calendar year, and stablecoins may not, at the
+5 time the investment is made, exceed ten percent (10%) of the total
+6 amount of public funds in that account.
+7 C. Any digital assets acquired by any of the funds listed in
+8 subsection A of Section 4 of this act shall be held:
+9 1. Directly by the State Treasurer through the use of a secure
+10 custody solution;
+11 2. On behalf of the state by a qualified custodian; or
+12 3. In the form of an exchange-traded product issued by a
+13 registered investment company that invests exclusively in digital
+14 assets with a market cap of over Five Hundred Billion Dollars
+15 ($500,000,000,000.00) averaged over the previous calendar year.
+16 D. The State Treasurer may only hold stablecoins under this
+17 section that have received the appropriate regulatory approval from
+18 the following competent authorities:
+19 1. The United States of America; or
+20 2. Any state of the United States of America.
+21 E. If a digital asset can be staked with the Office of the
+22 State Treasurer retaining legal ownership of the digital asset, the
+23 State Treasurer may engage in staking using a third-party solution.
+24
+Req. No. 10301 Page 5
+
+1 F. If a digital asset can be loaned without increasing the
+2 financial risk of the state, the State Treasurer shall be allowed to
+3 loan the digital asset to bring further return to the state through
+4 rules established by the State Treasurer.
+5 G. Any precious metals acquired by any of the funds listed in
+6 subsection A of Section 4 of this act shall be held:
+7 1. As an exchange traded product;
+8 2. In physical form by a qualified custodian; or
+9 3. Directly by the state in physical form or in conjunction
+10 with another state in a rule to be established by the State
+11 Treasurer.
+12 SECTION 3. NEW LAW A new section of law to be codified
+13 in the Oklahoma Statutes as Section 5003 of Title 62, unless there
+14 is created a duplication in numbering, reads as follows:
+15 Any state retirement fund may invest in exchange traded products
+16 that have been duly registered by either the Securities and Exchange
+17 Commission, the Commodity Future Trading Commission, or the State
+18 Securities Office.
+19 SECTION 4. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 5004 of Title 62, unless there
+21 is created a duplication in numbering, reads as follows:
+22 A. The Oklahoma State Treasurer is authorized to create the
+23 Digital Asset Property Fund, which shall be a subsection of the
+24 unclaimed property program.
+Req. No. 10301 Page 6
+
+1 B. The Digital Asset Property Fund shall exist for the purpose
+2 of holding digital assets that are obtained through criminal asset
+3 forfeiture and returning assets to residents of the state who have
+4 lost control of their digital assets through fraudulent or criminal
+5 activities.
+6 C. The Oklahoma State Treasurer shall establish a process by
+7 rule through which the Digital Asset Property Fund takes control of
+8 digital assets from state law enforcement which has been obtained
+9 through criminal asset forfeiture.
+10 D. The Oklahoma State Treasurer shall establish a process by
+11 rule through which the Digital Asset Property Fund takes control of
+12 digital assets from local law enforcement which has been obtained
+13 through criminal asset forfeiture.
+14 E. The Digital Asset Property Fund shall not take control of
+15 any digital assets obtained via civil asset forfeiture.
+16 F. The Digital Asset Property Fund shall to the best of their
+17 abilities endeavor to keep the digital assets in the original form
+18 when the rightful owner lost control of them.
+19 G. If the Digital Asset Property Fund cannot keep the digital
+20 assets in their original form, it shall exchange all digital assets
+21 obtained in this fund for either:
+22 1. Digital assets which have a market value of Five Hundred
+23 Billion Dollars ($500,000,000,000.00) or more on average during the
+24 previous twelve-month period; or
+Req. No. 10301 Page 7
+
+1 2. Stablecoins which have received regulatory approval from any
+2 of the following:
+3 a. the United States of America, or
+4 b. any state of the United States of America.
+5 H. The Digital Asset Property Fund shall be able to stake any
+6 digital assets held in this fund through a third-party service.
+7 I. Excess funds earned from interest, staking, or otherwise
+8 authorized activities shall be paid to the State General Revenue
+9 Fund, where, if permissible by law, shall be appropriated for law
+10 enforcement activities related to digital assets.
+11 J. The Oklahoma State Treasurer shall establish by rule a
+12 process for returning digital assets to residents of the state who
+13 have lost their digital assets, after the date of the passage of
+14 this law, through:
+15 1. Fraud;
+16 2. Theft; or
+17 3. Other criminal acts as determined by the Oklahoma State
+18 Treasurer.
+19 K. The Oklahoma State Treasurer at any time may use the assets
+20 in the Digital Asset Property Fund to provide funding for the State
+21 Rainy Day Fund.
+22 L. The State Treasurer shall select a qualified custodian for
+23 the management and safekeeping of digital assets under the Digital
+24
+Req. No. 10301 Page 8
+
+1 Asse t Property Fund no later than a year after the enactment of this
+2 legislation.
+3 M. A qualified custodian shall be selected based on the ability
+4 of the qualified custodian to provide the following services:
+5 1. Secure storage solutions to ensure the safekeeping of
+6 digital assets, including robust cybersecurity measures to prevent
+7 unauthorized access;
+8 2. Capability to manage private keys associated with digital
+9 assets and ensure the ability to transfer or transact with the
+10 assets when required;
+11 3. Proven experience in handling digital assets, including
+12 cryptocurrencies, stablecoins, fungible tokens, and non-fungible
+13 tokens (NFTs);
+14 4. Compliance with all applicable federal and state regulations
+15 related to digital asset custody;
+16 5. Processes to reunite owners with their assets; and
+17 6. Any other factors the State Treasurer deems relevant.
+18 N. The qualified custodian selected through this process shall
+19 enter into a formal agreement with the Office of the State
+20 Treasurer. This agreement shall specify the custodian’s duties,
+21 obligations, and compensation, as well as terms for termination and
+22 auditing rights by the state.
+23
+24
+Req. No. 10301 Page 9
+
+1 SECTION 5. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 5005 of Title 62, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. The Oklahoma State Treasurer shall conduct a study analyzing
+5 the role of precious metals and digital assets in augmenting,
+6 stabilizing, and ensuring the economic security and prosperity of
+7 the state, the families and residents of the state, and businesses
+8 in the state.
+9 B. The Oklahoma State Treasurer shall also study how
+10 stablecoins can be used to:
+11 1. Allow the state to send and receive payments at a reduced
+12 cost compared to current methods;
+13 2. Allow the state to have payments settle more quickly than
+14 current methods;
+15 3. Allow the state to earn a return for holding stablecoins;
+16 4. Any other topic related to stablecoins as determined by the
+17 Oklahoma State Treasurer; and
+18 5. The Oklahoma State Treasurer shall post the results of the
+19 study before the next legislative session.
+20 SECTION 6. This act shall become effective November 1, 2025.
+21
+22 60-1-10301 MJ 01/12/25
+23
+24
+Req. No. 10301 Page 10
+
+[DELETED:  P B]
+[DELETED:  P s g p]
+[DELETED:  P t t t a t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t a. ]
+[DELETED:  P]
+[DELETED:  P M 0]

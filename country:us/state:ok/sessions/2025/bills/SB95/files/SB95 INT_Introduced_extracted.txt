@@ -1,0 +1,3507 @@
+Title: SENATE BILL 95 By: Seifried
+Official Title: SENATE BILL 95 By: Seifried
+Number of Sections: 54
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+AS INTRODUCED
+7
+8
+An Act relating to workers’ compensation; amending
+8
+85A O.S. 2021, Section 2, which relates to
+9
+definitions; defining term; updating statutory
+9
+language; updating statutory references; and
+10
+providing an effective date.
+10
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+
+Section 2:
+SECTION 1. AMENDATORY 85A O.S. 2021, Section 2, is
+14
+15
+amended to read as follows:
+15
+16
+
+Section 3:
+Section 2. As used in the Administrative Workers’ Compensation
+16
+17
+Act:
+17
+18
+
+Section 4:
+1. “Actually dependent” means a surviving spouse, a child or
+18
+19
+any other person who receives one-half (1/2) or more of his or her
+19
+20
+support from the employee;
+20
+21
+
+Section 5:
+2. “Carrier” means any stock company, mutual company, or
+21
+22
+reciprocal or interinsurance exchange authorized to write or carry
+22
+23
+on the business of workers’ compensation insurance in this state.
+23
+24
+Whenever required by the context, the term “carrier” carrier shall
+24
+Req. No. 369 Page 1
+1
+be deemed to include duly qualified self-insureds or self-insured
+1
+2
+groups;
+2
+3
+
+Section 6:
+3. “Case management” means the ongoing coordination, by a case
+3
+4
+manager, of health care services provided to an injured or disabled
+4
+5
+worker, including but not limited to systematically monitoring the
+5
+6
+treatment rendered and the medical progress of the injured or
+6
+7
+disabled worker; ensuring that any treatment plan follows all
+7
+8
+appropriate treatment protocols, utilization controls and practice
+8
+9
+parameters; assessing whether alternative health care services are
+9
+10
+appropriate and delivered in a cost-effective manner based upon
+10
+11
+acceptable medical standards; and ensuring that the injured or
+11
+12
+disabled worker is following the prescribed health care plan;
+12
+13
+
+Section 7:
+4. “Case manager” means a person who is a registered nurse with
+13
+14
+a current, active unencumbered license from the Oklahoma Board of
+14
+15
+Nursing, or possesses one or more of the following certifications
+15
+16
+which indicate the individual has a minimum number of years of case
+16
+17
+management experience, has passed a national competency test and
+17
+18
+regularly obtains continuing education hours to maintain
+18
+19
+certification:
+19
+20
+a. Certified Disability Management Specialist (CDMS),
+20
+21
+b. Certified Case Manager (CCM),
+21
+22
+c. Certified Rehabilitation Registered Nurse (CRRN),
+22
+23
+d. Case Manager - Certified (CMC),
+23
+24
+e. Certified Occupational Health Nurse (COHN), or
+24
+Req. No. 369 Page 2
+1
+f. Certified Occupational Health Nurse Specialist (COHN-
+1
+2
+S);
+2
+3
+
+Section 8:
+5. “Certified workplace medical plan” means an organization of
+3
+4
+health care providers or any other entity, certified by the State
+4
+5
+Commissioner of Health, that is authorized to enter into a
+5
+6
+contractual agreement with an employer, a group self-insurance
+6
+7
+association plan, an employer’s workers’ compensation insurance
+7
+8
+carrier, a third-party administrator or an insured to provide
+8
+9
+medical care under the Administrative Workers’ Compensation Act.
+9
+10
+Certified plans shall only include plans which provide medical
+10
+11
+services and payment for services on a fee-for-service basis to
+11
+12
+medical providers;
+12
+13
+
+Section 9:
+6. “Child” means a natural or adopted son or daughter of the
+13
+14
+employee under eighteen (18) years of age; or a natural or adopted
+14
+15
+son or daughter of an employee eighteen (18) years of age or over
+15
+16
+who is physically or mentally incapable of self-support; or any
+16
+17
+natural or adopted son or daughter of an employee eighteen (18)
+17
+18
+years of age or over who is actually dependent; or any natural or
+18
+19
+adopted son or daughter of an employee between eighteen (18) and
+19
+20
+twenty-three (23) years of age who is enrolled as a full-time
+20
+21
+student in any accredited educational institution. The term “child”
+21
+22
+child includes a posthumous child, a child legally adopted or one
+22
+23
+for whom adoption proceedings are pending at the time of death, an
+23
+24
+24
+Req. No. 369 Page 3
+1
+actually dependent stepchild or an actually dependent acknowledged
+1
+2
+child born out of wedlock;
+2
+3
+
+Section 10:
+7. “Claimant” means a person who claims benefits for an injury
+3
+4
+or occupational disease pursuant to the provisions of the
+4
+5
+Administrative Workers’ Compensation Act;
+5
+6
+
+Section 11:
+8. “Commission” means the Oklahoma Workers’ Compensation
+6
+7
+Commission;
+7
+8
+
+Section 12:
+9. a. “Compensable injury” means damage or harm to the
+8
+9
+physical structure of the body, or damage or harm to
+9
+10
+prosthetic appliances, including eyeglasses, contact
+10
+11
+lenses, or hearing aids, of which the major cause is
+11
+12
+either an accident, cumulative trauma or occupational
+12
+13
+disease arising out of the course and scope of
+13
+14
+employment. An “accident” means an event involving
+14
+15
+factors external to the employee that:
+15
+16
+(1) was unintended, unanticipated, unforeseen,
+16
+17
+unplanned and unexpected,
+17
+18
+(2) occurred at a specifically identifiable time and
+18
+19
+place,
+19
+20
+(3) occurred by chance or from unknown causes, or
+20
+21
+(4) was independent of sickness, mental incapacity,
+21
+22
+bodily infirmity or any other cause.
+22
+23
+b. “Compensable injury” Compensable injury does not
+23
+24
+include:
+24
+Req. No. 369 Page 4
+1
+(1) injury to any active participant in assaults or
+1
+2
+combats which, although they may occur in the
+2
+3
+workplace, are the result of non-employment-
+3
+4
+related hostility or animus of one, both, or all
+4
+5
+of the combatants and which assault or combat
+5
+6
+amounts to a deviation from customary duties;
+6
+7
+provided, however, injuries caused by horseplay
+7
+8
+shall not be considered to be compensable
+8
+9
+injuries, except for innocent victims,
+9
+10
+(2) injury incurred while engaging in or performing
+10
+11
+or as the result of engaging in or performing any
+11
+12
+recreational or social activities for the
+12
+13
+employee’s personal pleasure,
+13
+14
+(3) injury which was inflicted on the employee at a
+14
+15
+time when employment services were not being
+15
+16
+performed or before the employee was hired or
+16
+17
+after the employment relationship was terminated,
+17
+18
+(4) injury if the accident was caused by the use of
+18
+19
+alcohol, illegal drugs, or prescription drugs
+19
+20
+used in contravention of physician’s orders. If
+20
+21
+a biological specimen is collected within twenty-
+21
+22
+four (24) hours of the employee being injured or
+22
+23
+reporting an injury, or if at any time after the
+23
+24
+injury a biological specimen is collected by the
+24
+Req. No. 369 Page 5
+1
+Oklahoma Office of the Chief Medical Examiner if
+1
+2
+the injured employee does not survive for at
+2
+3
+least twenty-four (24) hours after the injury and
+3
+4
+the employee tests positive for intoxication, an
+4
+5
+illegal controlled substance, or a legal
+5
+6
+controlled substance used in contravention to a
+6
+7
+treating physician’s orders, or refuses to
+7
+8
+undergo the drug and alcohol testing, there shall
+8
+9
+be a rebuttable presumption that the injury was
+9
+10
+caused by the use of alcohol, illegal drugs, or
+10
+11
+prescription drugs used in contravention of
+11
+12
+physician’s orders. This presumption may only be
+12
+13
+overcome if the employee proves by clear and
+13
+14
+convincing evidence that his or her state of
+14
+15
+intoxication had no causal relationship to the
+15
+16
+injury,
+16
+17
+(5) any strain, degeneration, damage or harm to, or
+17
+18
+disease or condition of, the eye or
+18
+19
+musculoskeletal structure or other body part
+19
+20
+resulting from the natural results of aging,
+20
+21
+osteoarthritis, arthritis, or degenerative
+21
+22
+process including, but not limited to,
+22
+23
+degenerative joint disease, degenerative disc
+23
+24
+disease, degenerative
+24
+Req. No. 369 Page 6
+1
+spondylosis/spondylolisthesis and spinal
+1
+2
+stenosis, or
+2
+3
+(6) any preexisting condition except when the
+3
+4
+treating physician clearly confirms an
+4
+5
+identifiable and significant aggravation incurred
+5
+6
+in the course and scope of employment.
+6
+7
+c. A compensable injury shall be established by medical
+7
+8
+evidence supported by objective findings as defined in
+8
+9
+paragraph 31 of this section.
+9
+10
+d. The injured employee shall prove by a preponderance of
+10
+11
+the evidence that he or she has suffered a compensable
+11
+12
+injury.
+12
+13
+e. Benefits shall not be payable for a condition which
+13
+14
+results from a non-work-related independent
+14
+15
+intervening cause following a compensable injury which
+15
+16
+causes or prolongs disability, or aggravation, or
+16
+17
+requires treatment. A non-work-related independent
+17
+18
+intervening cause does not require negligence or
+18
+19
+recklessness on the part of a claimant.
+19
+20
+f. An employee who suffers a compensable injury shall be
+20
+21
+entitled to receive compensation as prescribed in this
+21
+22
+act the Administrative Workers’ Compensation Act.
+22
+23
+Notwithstanding other provisions of law, if it is
+23
+24
+determined that a compensable injury did not occur,
+24
+Req. No. 369 Page 7
+1
+the employee shall not be entitled to compensation
+1
+2
+under this act the Administrative Workers’
+2
+3
+Compensation Act;
+3
+4
+
+Section 13:
+10. “Compensation” means the money allowance payable to the
+4
+5
+employee or to his or her dependents and includes the medical
+5
+6
+services and supplies provided for in Section 50 of this title and
+6
+7
+funeral expenses;
+7
+8
+
+Section 14:
+11. “Consequential injury” means injury or harm to a part of
+8
+9
+the body that is a direct result of the injury or medical treatment
+9
+10
+to the part of the body originally injured in the claim. The
+10
+11
+Commission shall not make a finding of a consequential injury unless
+11
+12
+it is established by objective medical evidence that medical
+12
+13
+treatment for such part of the body is required;
+13
+14
+
+Section 15:
+12. “Continuing medical maintenance” means medical treatment
+14
+15
+that is reasonable and necessary to maintain a claimant’s condition
+15
+16
+resulting from the compensable injury or illness after reaching
+16
+17
+maximum medical improvement. Continuing medical maintenance shall
+17
+18
+not include diagnostic tests, surgery, injections, counseling,
+18
+19
+physical therapy, or pain management devices or equipment;
+19
+20
+
+Section 16:
+13. “Course and scope of employment” means an activity of any
+20
+21
+kind or character for which the employee was hired and that relates
+21
+22
+to and derives from the work, business, trade or profession of an
+22
+23
+employer, and is performed by an employee in the furtherance of the
+23
+24
+affairs or business of an employer. The term includes activities
+24
+Req. No. 369 Page 8
+1
+conducted on the premises of an employer or at other locations
+1
+2
+designated by an employer and travel by an employee in furtherance
+2
+3
+of the affairs of an employer that is specifically directed by the
+3
+4
+employer. This term does not include:
+4
+5
+a. an employee’s transportation to and from his or her
+5
+6
+place of employment,
+6
+7
+b. travel by an employee in furtherance of the affairs of
+7
+8
+an employer if the travel is also in furtherance of
+8
+9
+personal or private affairs of the employee,
+9
+10
+c. any injury occurring in a parking lot or other common
+10
+11
+area adjacent to an employer’s place of business
+11
+12
+before the employee clocks in or otherwise begins work
+12
+13
+for the employer or after the employee clocks out or
+13
+14
+otherwise stops work for the employer unless the
+14
+15
+employer owns or maintains exclusive control over the
+15
+16
+area, or
+16
+17
+d. any injury occurring while an employee is on a work
+17
+18
+break, unless the injury occurs while the employee is
+18
+19
+on a work break inside the employer’s facility or in
+19
+20
+an area owned by or exclusively controlled by the
+20
+21
+employer and the work break is authorized by the
+21
+22
+employee’s supervisor;
+22
+23
+
+Section 17:
+14. “Cumulative trauma” means an injury to an employee that is
+23
+24
+caused by the combined effect of repetitive physical activities
+24
+Req. No. 369 Page 9
+1
+extending over a period of time in the course and scope of
+1
+2
+employment. Cumulative trauma shall not mean fatigue, soreness or
+2
+3
+general aches and pain that may have been caused, aggravated,
+3
+4
+exacerbated or accelerated by the employee’s course and scope of
+4
+5
+employment. Cumulative trauma shall have resulted directly and
+5
+6
+independently of all other causes;
+6
+7
+
+Section 18:
+15. “Death” means only death resulting from compensable injury
+7
+8
+as defined in paragraph 9 of this section;
+8
+9
+
+Section 19:
+16. “Disability” means incapacity because of compensable injury
+9
+10
+to earn, in the same or any other employment, substantially the same
+10
+11
+amount of wages the employee was receiving at the time of the
+11
+12
+compensable injury;
+12
+13
+
+Section 20:
+17. “Drive-away operations” includes every person engaged in
+13
+14
+the business of transporting and delivering new or used vehicles by
+14
+15
+driving, either singly or by towbar, saddle-mount or full-mount
+15
+16
+method, or any combination thereof, with or without towing a
+16
+17
+privately owned vehicle;
+17
+18
+
+Section 21:
+18. a. “Employee” means any person, including a minor, in the
+18
+19
+service of an employer under any contract of hire or
+19
+20
+apprenticeship, written or oral, expressed or implied,
+20
+21
+but excluding one whose employment is casual and not
+21
+22
+in the course of the trade, business, profession, or
+22
+23
+occupation of his or her employer and excluding one
+23
+24
+who is required to perform work for a municipality or
+24
+Req. No. 369 Page 10
+1
+county or the state or federal government on having
+1
+2
+been convicted of a criminal offense or while
+2
+3
+incarcerated. “Employee” Employee shall also include
+3
+4
+a member of the Oklahoma National Guard while in the
+4
+5
+performance of duties only while in response to state
+5
+6
+orders and any authorized voluntary or uncompensated
+6
+7
+worker, rendering services as a firefighter, law
+7
+8
+enforcement officer or emergency management worker.
+8
+9
+Travel by a police officer, fireman, or a member of a
+9
+10
+first aid or rescue squad, in responding to and
+10
+11
+returning from an emergency, shall be deemed to be in
+11
+12
+the course of employment.
+12
+13
+b. The term “employee” employee shall not include:
+13
+14
+(1) any person for whom an employer is liable under
+14
+15
+any Act of Congress for providing compensation to
+15
+16
+employees for injuries, disease or death arising
+16
+17
+out of and in the course of employment including,
+17
+18
+but not limited to, the Federal Employees’
+18
+19
+Compensation Act, the Federal Employers’
+19
+20
+Liability Act, the Longshore and Harbor Workers’
+20
+21
+Compensation Act and the Jones Act, to the extent
+21
+22
+his or her employees are subject to such acts,
+22
+23
+(2) any person who is employed in agriculture,
+23
+24
+ranching or horticulture by an employer who had a
+24
+Req. No. 369 Page 11
+1
+gross annual payroll in the preceding calendar
+1
+2
+year of less than One Hundred Thousand Dollars
+2
+3
+($100,000.00) wages for agricultural, ranching or
+3
+4
+horticultural workers, or any person who is
+4
+5
+employed in agriculture, ranching or horticulture
+5
+6
+who is not engaged in operation of motorized
+6
+7
+machines. This exemption applies to any period
+7
+8
+of time for which such employment exists,
+8
+9
+irrespective of whether or not the person is
+9
+10
+employed in other activities for which the
+10
+11
+exemption does not apply. If the person is
+11
+12
+employed for part of a year in exempt activities
+12
+13
+and for part of a year in nonexempt activities,
+13
+14
+the employer shall be responsible for providing
+14
+15
+workers’ compensation only for the period of time
+15
+16
+for which the person is employed in nonexempt
+16
+17
+activities,
+17
+18
+(3) any person who is a licensed real estate sales
+18
+19
+associate or broker, paid on a commission basis,
+19
+20
+(4) any person employed by an employer with five or
+20
+21
+fewer total employees, all of whom are related
+21
+22
+within the second degree by blood or marriage to
+22
+23
+the employer, all of whom are dependents living
+23
+24
+in the household of the employer, or all of whom
+24
+Req. No. 369 Page 12
+1
+are a combination of such relatives and
+1
+2
+dependents. If the employer is not a natural
+2
+3
+person such relative shall be related within the
+3
+4
+second degree by blood or marriage to a person
+4
+5
+who owns fifty percent (50%) or more of the
+5
+6
+employer, or such dependent shall be in the
+6
+7
+household of a person who owns fifty percent
+7
+8
+(50%) or more of the employer,
+8
+9
+(5) any person employed by an employer which is a
+9
+10
+youth sports league which qualifies for exemption
+10
+11
+from federal income taxation pursuant to federal
+11
+12
+law,
+12
+13
+(6) sole proprietors, members of a partnership,
+13
+14
+individuals who are party to a franchise
+14
+15
+agreement as set out by the Federal Trade
+15
+16
+Commission franchise disclosure rule, 16 CFR
+16
+17
+
+Section 22:
+436.1 through 436.11, members of a limited
+17
+18
+liability company who own at least ten percent
+18
+19
+(10%) of the capital of the limited liability
+19
+20
+company or any stockholder-employees of a
+20
+21
+corporation who own ten percent (10%) or more
+21
+22
+stock in the corporation, unless they elect to be
+22
+23
+covered by a policy of insurance covering
+23
+24
+24
+Req. No. 369 Page 13
+1
+benefits under the Administrative Workers’
+1
+2
+Compensation Act,
+2
+3
+(7) any person providing or performing voluntary
+3
+4
+service who receives no wages for the services
+4
+5
+other than meals, drug or alcohol rehabilitative
+5
+6
+therapy, transportation, lodging or reimbursement
+6
+7
+for incidental expenses except for volunteers
+7
+8
+specifically provided for in subparagraph a of
+8
+9
+this paragraph,
+9
+10
+(8) a person, commonly referred to as an owner-
+10
+11
+operator, who owns or leases a truck-tractor or
+11
+12
+truck for hire, if the owner-operator actually
+12
+13
+operates the truck-tractor or truck and if the
+13
+14
+person contracting with the owner-operator is not
+14
+15
+the lessor of the truck-tractor or truck.
+15
+16
+Provided, however, an owner-operator shall not be
+16
+17
+precluded from workers’ compensation coverage
+17
+18
+under the Administrative Workers’ Compensation
+18
+19
+Act if the owner-operator elects to participate
+19
+20
+as a sole proprietor,
+20
+21
+(9) a person referred to as a drive-away owner-
+21
+22
+operator who privately owns and utilizes a tow
+22
+23
+vehicle in drive-away operations and operates
+23
+24
+independently for hire, if the drive-away owner-
+24
+Req. No. 369 Page 14
+1
+operator actually utilizes the tow vehicle and if
+1
+2
+the person contracting with the drive-away owner-
+2
+3
+operator is not the lessor of the tow vehicle.
+3
+4
+Provided, however, a drive-away owner-operator
+4
+5
+shall not be precluded from workers’ compensation
+5
+6
+coverage under the Administrative Workers’
+6
+7
+Compensation Act if the drive-away owner-operator
+7
+8
+elects to participate as a sole proprietor, and
+8
+9
+(10) any person who is employed as a domestic servant
+9
+10
+or as a casual worker in and about a private home
+10
+11
+or household, which private home or household had
+11
+12
+a gross annual payroll in the preceding calendar
+12
+13
+year of less than Fifty Thousand Dollars
+13
+14
+($50,000.00) for such workers, and
+14
+15
+(11) any person engaging in a temporary work
+15
+16
+arrangement that allows the individual to observe
+16
+17
+a work environment and gain work experience
+17
+18
+without the expectation of financial
+18
+19
+compensation;
+19
+20
+
+Section 23:
+19. “Employer” means a natural person, partnership,
+20
+21
+association, limited liability company, corporation, and the legal
+21
+22
+representatives of a deceased employer, or the receiver or trustee
+22
+23
+of a person, partnership, association, corporation, or limited
+23
+24
+liability company, departments, instrumentalities and institutions
+24
+Req. No. 369 Page 15
+1
+of this state and divisions thereof, counties and divisions thereof,
+1
+2
+public trusts, boards of education and incorporated cities or towns
+2
+3
+and divisions thereof, employing a person included within the term
+3
+4
+“employee” employee as defined in this section. Employer may also
+4
+5
+mean the employer’s workers’ compensation insurance carrier, if
+5
+6
+applicable. Except as provided otherwise, this act the
+6
+7
+Administrative Workers’ Compensation Act applies to all public and
+7
+8
+private entities and institutions;
+8
+9
+
+Section 24:
+20. “Employment” includes work or labor in a trade, business,
+9
+10
+occupation or activity carried on by an employer or any authorized
+10
+11
+voluntary or uncompensated worker rendering services as a
+11
+12
+firefighter, peace officer or emergency management worker;
+12
+13
+
+Section 25:
+21. “Evidence-based” means expert-based, literature-supported
+13
+14
+and outcomes validated by well-designed randomized trials when such
+14
+15
+information is available and which uses the best available evidence
+15
+16
+to support medical decision making;
+16
+17
+
+Section 26:
+22. “Gainful employment” means the capacity to perform
+17
+18
+employment for wages for a period of time that is not part-time,
+18
+19
+occasional or sporadic;
+19
+20
+
+Section 27:
+23. “Impaired self-insurer” means a private self-insurer or
+20
+21
+group self-insurance association that fails to pay its workers’
+21
+22
+compensation obligations, or is financially unable to do so and is
+22
+23
+the subject of any proceeding under the Federal Bankruptcy Reform
+23
+24
+Act of 1978, and any subsequent amendments or is the subject of any
+24
+Req. No. 369 Page 16
+1
+proceeding in which a receiver, custodian, liquidator,
+1
+2
+rehabilitator, trustee or similar officer has been appointed by a
+2
+3
+court of competent jurisdiction to act in lieu of or on behalf of
+3
+4
+the self-insurer;
+4
+5
+
+Section 28:
+24. “Incapacity” means inadequate strength or ability to
+5
+6
+perform a work-related task;
+6
+7
+
+Section 29:
+25. “Insurance Commissioner” means the Insurance Commissioner
+7
+8
+of the State of Oklahoma this state;
+8
+9
+
+Section 30:
+26. “Insurance Department” means the Insurance Department of
+9
+10
+the State of Oklahoma this state;
+10
+11
+
+Section 31:
+27. “Major cause” means more than fifty percent (50%) of the
+11
+12
+resulting injury, disease or illness. A finding of major cause
+12
+13
+shall be established by a preponderance of the evidence. A finding
+13
+14
+that the workplace was not a major cause of the injury, disease or
+14
+15
+illness shall not adversely affect the exclusive remedy provisions
+15
+16
+of this act the Administrative Workers’ Compensation Act and shall
+16
+17
+not create a separate cause of action outside this act the
+17
+18
+Administrative Workers’ Compensation Act;
+18
+19
+
+Section 32:
+28. “Maximum medical improvement” means that no further
+19
+20
+material improvement would reasonably be expected from medical
+20
+21
+treatment or the passage of time;
+21
+22
+
+Section 33:
+29. “Medical services” means those services specified in
+22
+23
+
+Section 34:
+Section 50 of this title;
+23
+24
+
+Section 35:
+30. “Misconduct” shall include the following:
+24
+Req. No. 369 Page 17
+1
+a. unexplained absenteeism or tardiness,
+1
+2
+b. willful or wanton indifference to or neglect of the
+2
+3
+duties required,
+3
+4
+c. willful or wanton breach of any duty required by the
+4
+5
+employer,
+5
+6
+d. the mismanagement of a position of employment by
+6
+7
+action or inaction,
+7
+8
+e. actions or omissions that place in jeopardy the
+8
+9
+health, life, or property of self or others,
+9
+10
+f. dishonesty,
+10
+11
+g. wrongdoing,
+11
+12
+h. violation of a law, or
+12
+13
+i. a violation of a policy or rule adopted to ensure
+13
+14
+orderly work or the safety of self or others;
+14
+15
+
+Section 36:
+31. a. (1) “Objective findings” are those findings which
+15
+16
+cannot come under the voluntary control of the
+16
+17
+patient.
+17
+18
+(2) (a) When determining permanent disability, a
+18
+19
+physician, any other medical provider, an
+19
+20
+administrative law judge, the Commission or
+20
+21
+the courts shall not consider complaints of
+21
+22
+pain.
+22
+23
+(b) For the purpose of making permanent
+23
+24
+disability ratings to the spine, physicians
+24
+Req. No. 369 Page 18
+1
+shall use criteria established by the Sixth
+1
+2
+Edition of the American Medical Association
+2
+3
+“Guides to the Evaluation of Permanent
+3
+4
+Impairment”.
+4
+5
+(3) (a) Objective evidence necessary to prove
+5
+6
+permanent disability in occupational hearing
+6
+7
+loss cases may be established by medically
+7
+8
+recognized and accepted clinical diagnostic
+8
+9
+methodologies, including, but not limited
+9
+10
+to, audiological tests that measure air and
+10
+11
+bone conduction thresholds and speech
+11
+12
+discrimination ability.
+12
+13
+(b) Any difference in the baseline hearing
+13
+14
+levels shall be confirmed by subsequent
+14
+15
+testing; provided, however, such test shall
+15
+16
+be given within four (4) weeks of the
+16
+17
+initial baseline hearing level test but not
+17
+18
+before five (5) days after being adjusted
+18
+19
+for presbycusis.
+19
+20
+b. Medical opinions addressing compensability and
+20
+21
+permanent disability shall be stated within a
+21
+22
+reasonable degree of medical certainty;
+22
+23
+23
+24
+24
+Req. No. 369 Page 19
+1
+
+Section 37:
+32. “Official Disability Guidelines” or “ODG” means the current
+1
+2
+edition of the Official Disability Guidelines and the ODG Treatment
+2
+3
+in Workers’ Comp as published by the Work Loss Data Institute;
+3
+4
+
+Section 38:
+33. “Permanent disability” means the extent, expressed as a
+4
+5
+percentage, of the loss of a portion of the total physiological
+5
+6
+capabilities of the human body as established by competent medical
+6
+7
+evidence and based on the Sixth Edition of the American Medical
+7
+8
+Association “Guides to the Evaluation of Permanent Impairment”, if
+8
+9
+the impairment is contained therein;
+9
+10
+
+Section 39:
+34. “Permanent partial disability” means a permanent disability
+10
+11
+or loss of use after maximum medical improvement has been reached
+11
+12
+which prevents the injured employee, who has been released to return
+12
+13
+to work by the treating physician, from returning to his or her pre-
+13
+14
+injury or equivalent job. All evaluations of permanent partial
+14
+15
+disability must be supported by objective findings;
+15
+16
+
+Section 40:
+35. “Permanent total disability” means, based on objective
+16
+17
+findings, incapacity, based upon accidental injury or occupational
+17
+18
+disease, to earn wages in any employment for which the employee may
+18
+19
+become physically suited and reasonably fitted by education,
+19
+20
+training, experience or vocational rehabilitation provided under
+20
+21
+this act the Administrative Workers’ Compensation Act. Loss of both
+21
+22
+hands, both feet, both legs, or both eyes, or any two thereof, shall
+22
+23
+constitute permanent total disability;
+23
+24
+24
+Req. No. 369 Page 20
+1
+
+Section 41:
+36. “Preexisting condition” means any illness, injury, disease,
+1
+2
+or other physical or mental condition, whether or not work-related,
+2
+3
+for which medical advice, diagnosis, care or treatment was
+3
+4
+recommended or received preceding the date of injury;
+4
+5
+
+Section 42:
+37. “Pre-injury or equivalent job” means the job that the
+5
+6
+claimant was working for the employer at the time the injury
+6
+7
+occurred or any other employment offered by the claimant’s employer
+7
+8
+that pays at least one hundred percent (100%) of the employee’s
+8
+9
+average weekly wage;
+9
+10
+
+Section 43:
+38. “Private self-insurer” means a private employer that has
+10
+11
+been authorized to self-insure its workers’ compensation obligations
+11
+12
+pursuant to this act the Administrative Workers’ Compensation Act,
+12
+13
+but does not include group self-insurance associations authorized by
+13
+14
+this act the Administrative Workers’ Compensation Act, or any public
+14
+15
+employer that self-insures pursuant to this act the Administrative
+15
+16
+Workers’ Compensation Act;
+16
+17
+
+Section 44:
+39. “Prosthetic” means an artificial device used to replace a
+17
+18
+part or joint of the body that is lost or injured in an accident or
+18
+19
+illness covered by this act the Administrative Workers’ Compensation
+19
+20
+Act;
+20
+21
+
+Section 45:
+40. “Scheduled member” or “member” means hands, fingers, arms,
+21
+22
+legs, feet, toes, and eyes. In addition, for purposes of the
+22
+23
+Multiple Injury Trust Fund only, “scheduled member” scheduled member
+23
+24
+means hearing impairment;
+24
+Req. No. 369 Page 21
+1
+
+Section 46:
+41. “Scientifically based” involves the application of
+1
+2
+rigorous, systematic, and objective procedures to obtain reliable
+2
+3
+and valid knowledge relevant to medical testing, diagnoses and
+3
+4
+treatment; is adequate to justify the general conclusions drawn; and
+4
+5
+has been accepted by a peer-review journal or approved by a panel of
+5
+6
+independent experts through a comparably rigorous, objective, and
+6
+7
+scientific review;
+7
+8
+
+Section 47:
+42. “State average weekly wage” means the state average weekly
+8
+9
+wage determined by the Oklahoma Employment Security Commission in
+9
+10
+the preceding calendar year. If such determination is not
+10
+11
+available, the Commission shall determine the wage annually after
+11
+12
+reasonable investigation;
+12
+13
+
+Section 48:
+43. “Subcontractor” means a person, firm, corporation or other
+13
+14
+legal entity hired by the general or prime contractor to perform a
+14
+15
+specific task for the completion of a work-related activity;
+15
+16
+
+Section 49:
+44. “Surgery” does not include an injection, or the forcing of
+16
+17
+fluids beneath the skin, for treatment or diagnosis;
+17
+18
+
+Section 50:
+45. “Surviving spouse” means the employee’s spouse by reason of
+18
+19
+a legal marriage recognized by the State of Oklahoma this state or
+19
+20
+under the requirements of a common law marriage in this state, as
+20
+21
+determined by the Oklahoma Workers’ Compensation Commission;
+21
+22
+
+Section 51:
+46. “Temporary partial disability” means an injured employee
+22
+23
+who is temporarily unable to perform his or her job, but may perform
+23
+24
+alternative work offered by the employer;
+24
+Req. No. 369 Page 22
+1
+
+Section 52:
+47. “Time of accident” or “date of accident” means the time or
+1
+2
+date of the occurrence of the accidental incident from which
+2
+3
+compensable injury, disability, or death results; and
+3
+4
+
+Section 53:
+48. “Wages” means money compensation received for employment at
+4
+5
+the time of the accident, including the reasonable value of board,
+5
+6
+rent, housing, lodging, or similar advantage received from the
+6
+7
+employer and includes the amount of tips required to be reported by
+7
+8
+the employer under Section 6053 of the Internal Revenue Code and the
+8
+9
+regulations promulgated pursuant thereto or the amount of actual
+9
+10
+tips reported, whichever amount is greater.
+10
+11
+
+Section 54:
+SECTION 2. This act shall become effective November 1, 2025.
+11
+12
+12
+13
+60-1-369 MR 1/19/2025 5:46:34 AM
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 369 Page 23
+[DELETED:  P B S]
+[DELETED:  P C C C C C]
+[DELETED:  P C]
+[DELETED:  P a “ w o o w “]
+[DELETED:  P i i i i]
+[DELETED:  P a]
+[DELETED:  P a A T B A]
+[DELETED:  P]
+[DELETED:  P a t a a]
+[DELETED:  P a “]
+[DELETED:  P T a a]
+[DELETED:  P a a]
+[DELETED:  P a s]
+[DELETED:  P a a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P u w w t a d w v a a ( “ ( W F]
+[DELETED:  P ( O A M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 95 By: Seifried
+3
+4
+4
+5
+5
+6
+6
+7
+AS INTRODUCED
+7
+8
+An Act relating to workers’ compensation; amending
+8
+85A O.S. 2021, Section 2, which relates to
+9
+definitions; defining term; updating statutory
+9
+language; updating statutory references; and
+10
+providing an effective date.
+10
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+SECTION 1. AMENDATORY 85A O.S. 2021, Section 2, is
+14
+15
+amended to read as follows:
+15
+16
+Section 2. As used in the Administrative Workers’ Compensation
+16
+17
+Act:
+17
+18
+1. “Actually dependent” means a surviving spouse, a child or
+18
+19
+any other person who receives one-half (1/2) or more of his or her
+19
+20
+support from the employee;
+20
+21
+2. “Carrier” means any stock company, mutual company, or
+21
+22
+reciprocal or interinsurance exchange authorized to write or carry
+22
+23
+on the business of workers’ compensation insurance in this state.
+23
+24
+Whenever required by the context, the term “carrier” carrier shall
+24
+Req. No. 369 Page 1
+
+1
+be deemed to include duly qualified self-insureds or self-insured
+1
+2
+groups;
+2
+3
+3. “Case management” means the ongoing coordination, by a case
+3
+4
+manager, of health care services provided to an injured or disabled
+4
+5
+worker, including but not limited to systematically monitoring the
+5
+6
+treatment rendered and the medical progress of the injured or
+6
+7
+disabled worker; ensuring that any treatment plan follows all
+7
+8
+appropriate treatment protocols, utilization controls and practice
+8
+9
+parameters; assessing whether alternative health care services are
+9
+10
+appropriate and delivered in a cost-effective manner based upon
+10
+11
+acceptable medical standards; and ensuring that the injured or
+11
+12
+disabled worker is following the prescribed health care plan;
+12
+13
+4. “Case manager” means a person who is a registered nurse with
+13
+14
+a current, active unencumbered license from the Oklahoma Board of
+14
+15
+Nursing, or possesses one or more of the following certifications
+15
+16
+which indicate the individual has a minimum number of years of case
+16
+17
+management experience, has passed a national competency test and
+17
+18
+regularly obtains continuing education hours to maintain
+18
+19
+certification:
+19
+20
+a. Certified Disability Management Specialist (CDMS),
+20
+21
+b. Certified Case Manager (CCM),
+21
+22
+c. Certified Rehabilitation Registered Nurse (CRRN),
+22
+23
+d. Case Manager - Certified (CMC),
+23
+24
+e. Certified Occupational Health Nurse (COHN), or
+24
+Req. No. 369 Page 2
+
+1
+f. Certified Occupational Health Nurse Specialist (COHN-
+1
+2
+S);
+2
+3
+5. “Certified workplace medical plan” means an organization of
+3
+4
+health care providers or any other entity, certified by the State
+4
+5
+Commissioner of Health, that is authorized to enter into a
+5
+6
+contractual agreement with an employer, a group self-insurance
+6
+7
+association plan, an employer’s workers’ compensation insurance
+7
+8
+carrier, a third-party administrator or an insured to provide
+8
+9
+medical care under the Administrative Workers’ Compensation Act.
+9
+10
+Certified plans shall only include plans which provide medical
+10
+11
+services and payment for services on a fee-for-service basis to
+11
+12
+medical providers;
+12
+13
+6. “Child” means a natural or adopted son or daughter of the
+13
+14
+employee under eighteen (18) years of age; or a natural or adopted
+14
+15
+son or daughter of an employee eighteen (18) years of age or over
+15
+16
+who is physically or mentally incapable of self-support; or any
+16
+17
+natural or adopted son or daughter of an employee eighteen (18)
+17
+18
+years of age or over who is actually dependent; or any natural or
+18
+19
+adopted son or daughter of an employee between eighteen (18) and
+19
+20
+twenty-three (23) years of age who is enrolled as a full-time
+20
+21
+student in any accredited educational institution. The term “child”
+21
+22
+child includes a posthumous child, a child legally adopted or one
+22
+23
+for whom adoption proceedings are pending at the time of death, an
+23
+24
+24
+Req. No. 369 Page 3
+
+1
+actually dependent stepchild or an actually dependent acknowledged
+1
+2
+child born out of wedlock;
+2
+3
+7. “Claimant” means a person who claims benefits for an injury
+3
+4
+or occupational disease pursuant to the provisions of the
+4
+5
+Administrative Workers’ Compensation Act;
+5
+6
+8. “Commission” means the Oklahoma Workers’ Compensation
+6
+7
+Commission;
+7
+8
+9. a. “Compensable injury” means damage or harm to the
+8
+9
+physical structure of the body, or damage or harm to
+9
+10
+prosthetic appliances, including eyeglasses, contact
+10
+11
+lenses, or hearing aids, of which the major cause is
+11
+12
+either an accident, cumulative trauma or occupational
+12
+13
+disease arising out of the course and scope of
+13
+14
+employment. An “accident” means an event involving
+14
+15
+factors external to the employee that:
+15
+16
+(1) was unintended, unanticipated, unforeseen,
+16
+17
+unplanned and unexpected,
+17
+18
+(2) occurred at a specifically identifiable time and
+18
+19
+place,
+19
+20
+(3) occurred by chance or from unknown causes, or
+20
+21
+(4) was independent of sickness, mental incapacity,
+21
+22
+bodily infirmity or any other cause.
+22
+23
+b. “Compensable injury” Compensable injury does not
+23
+24
+include:
+24
+Req. No. 369 Page 4
+
+1
+(1) injury to any active participant in assaults or
+1
+2
+combats which, although they may occur in the
+2
+3
+workplace, are the result of non-employment-
+3
+4
+related hostility or animus of one, both, or all
+4
+5
+of the combatants and which assault or combat
+5
+6
+amounts to a deviation from customary duties;
+6
+7
+provided, however, injuries caused by horseplay
+7
+8
+shall not be considered to be compensable
+8
+9
+injuries, except for innocent victims,
+9
+10
+(2) injury incurred while engaging in or performing
+10
+11
+or as the result of engaging in or performing any
+11
+12
+recreational or social activities for the
+12
+13
+employee’s personal pleasure,
+13
+14
+(3) injury which was inflicted on the employee at a
+14
+15
+time when employment services were not being
+15
+16
+performed or before the employee was hired or
+16
+17
+after the employment relationship was terminated,
+17
+18
+(4) injury if the accident was caused by the use of
+18
+19
+alcohol, illegal drugs, or prescription drugs
+19
+20
+used in contravention of physician’s orders. If
+20
+21
+a biological specimen is collected within twenty-
+21
+22
+four (24) hours of the employee being injured or
+22
+23
+reporting an injury, or if at any time after the
+23
+24
+injury a biological specimen is collected by the
+24
+Req. No. 369 Page 5
+
+1
+Oklahoma Office of the Chief Medical Examiner if
+1
+2
+the injured employee does not survive for at
+2
+3
+least twenty-four (24) hours after the injury and
+3
+4
+the employee tests positive for intoxication, an
+4
+5
+illegal controlled substance, or a legal
+5
+6
+controlled substance used in contravention to a
+6
+7
+treating physician’s orders, or refuses to
+7
+8
+undergo the drug and alcohol testing, there shall
+8
+9
+be a rebuttable presumption that the injury was
+9
+10
+caused by the use of alcohol, illegal drugs, or
+10
+11
+prescription drugs used in contravention of
+11
+12
+physician’s orders. This presumption may only be
+12
+13
+overcome if the employee proves by clear and
+13
+14
+convincing evidence that his or her state of
+14
+15
+intoxication had no causal relationship to the
+15
+16
+injury,
+16
+17
+(5) any strain, degeneration, damage or harm to, or
+17
+18
+disease or condition of, the eye or
+18
+19
+musculoskeletal structure or other body part
+19
+20
+resulting from the natural results of aging,
+20
+21
+osteoarthritis, arthritis, or degenerative
+21
+22
+process including, but not limited to,
+22
+23
+degenerative joint disease, degenerative disc
+23
+24
+disease, degenerative
+24
+Req. No. 369 Page 6
+
+1
+spondylosis/spondylolisthesis and spinal
+1
+2
+stenosis, or
+2
+3
+(6) any preexisting condition except when the
+3
+4
+treating physician clearly confirms an
+4
+5
+identifiable and significant aggravation incurred
+5
+6
+in the course and scope of employment.
+6
+7
+c. A compensable injury shall be established by medical
+7
+8
+evidence supported by objective findings as defined in
+8
+9
+paragraph 31 of this section.
+9
+10
+d. The injured employee shall prove by a preponderance of
+10
+11
+the evidence that he or she has suffered a compensable
+11
+12
+injury.
+12
+13
+e. Benefits shall not be payable for a condition which
+13
+14
+results from a non-work-related independent
+14
+15
+intervening cause following a compensable injury which
+15
+16
+causes or prolongs disability, or aggravation, or
+16
+17
+requires treatment. A non-work-related independent
+17
+18
+intervening cause does not require negligence or
+18
+19
+recklessness on the part of a claimant.
+19
+20
+f. An employee who suffers a compensable injury shall be
+20
+21
+entitled to receive compensation as prescribed in this
+21
+22
+act the Administrative Workers’ Compensation Act.
+22
+23
+Notwithstanding other provisions of law, if it is
+23
+24
+determined that a compensable injury did not occur,
+24
+Req. No. 369 Page 7
+
+1
+the employee shall not be entitled to compensation
+1
+2
+under this act the Administrative Workers’
+2
+3
+Compensation Act;
+3
+4
+10. “Compensation” means the money allowance payable to the
+4
+5
+employee or to his or her dependents and includes the medical
+5
+6
+services and supplies provided for in Section 50 of this title and
+6
+7
+funeral expenses;
+7
+8
+11. “Consequential injury” means injury or harm to a part of
+8
+9
+the body that is a direct result of the injury or medical treatment
+9
+10
+to the part of the body originally injured in the claim. The
+10
+11
+Commission shall not make a finding of a consequential injury unless
+11
+12
+it is established by objective medical evidence that medical
+12
+13
+treatment for such part of the body is required;
+13
+14
+12. “Continuing medical maintenance” means medical treatment
+14
+15
+that is reasonable and necessary to maintain a claimant’s condition
+15
+16
+resulting from the compensable injury or illness after reaching
+16
+17
+maximum medical improvement. Continuing medical maintenance shall
+17
+18
+not include diagnostic tests, surgery, injections, counseling,
+18
+19
+physical therapy, or pain management devices or equipment;
+19
+20
+13. “Course and scope of employment” means an activity of any
+20
+21
+kind or character for which the employee was hired and that relates
+21
+22
+to and derives from the work, business, trade or profession of an
+22
+23
+employer, and is performed by an employee in the furtherance of the
+23
+24
+affairs or business of an employer. The term includes activities
+24
+Req. No. 369 Page 8
+
+1
+conducted on the premises of an employer or at other locations
+1
+2
+designated by an employer and travel by an employee in furtherance
+2
+3
+of the affairs of an employer that is specifically directed by the
+3
+4
+employer. This term does not include:
+4
+5
+a. an employee’s transportation to and from his or her
+5
+6
+place of employment,
+6
+7
+b. travel by an employee in furtherance of the affairs of
+7
+8
+an employer if the travel is also in furtherance of
+8
+9
+personal or private affairs of the employee,
+9
+10
+c. any injury occurring in a parking lot or other common
+10
+11
+area adjacent to an employer’s place of business
+11
+12
+before the employee clocks in or otherwise begins work
+12
+13
+for the employer or after the employee clocks out or
+13
+14
+otherwise stops work for the employer unless the
+14
+15
+employer owns or maintains exclusive control over the
+15
+16
+area, or
+16
+17
+d. any injury occurring while an employee is on a work
+17
+18
+break, unless the injury occurs while the employee is
+18
+19
+on a work break inside the employer’s facility or in
+19
+20
+an area owned by or exclusively controlled by the
+20
+21
+employer and the work break is authorized by the
+21
+22
+employee’s supervisor;
+22
+23
+14. “Cumulative trauma” means an injury to an employee that is
+23
+24
+caused by the combined effect of repetitive physical activities
+24
+Req. No. 369 Page 9
+
+1
+extending over a period of time in the course and scope of
+1
+2
+employment. Cumulative trauma shall not mean fatigue, soreness or
+2
+3
+general aches and pain that may have been caused, aggravated,
+3
+4
+exacerbated or accelerated by the employee’s course and scope of
+4
+5
+employment. Cumulative trauma shall have resulted directly and
+5
+6
+independently of all other causes;
+6
+7
+15. “Death” means only death resulting from compensable injury
+7
+8
+as defined in paragraph 9 of this section;
+8
+9
+16. “Disability” means incapacity because of compensable injury
+9
+10
+to earn, in the same or any other employment, substantially the same
+10
+11
+amount of wages the employee was receiving at the time of the
+11
+12
+compensable injury;
+12
+13
+17. “Drive-away operations” includes every person engaged in
+13
+14
+the business of transporting and delivering new or used vehicles by
+14
+15
+driving, either singly or by towbar, saddle-mount or full-mount
+15
+16
+method, or any combination thereof, with or without towing a
+16
+17
+privately owned vehicle;
+17
+18
+18. a. “Employee” means any person, including a minor, in the
+18
+19
+service of an employer under any contract of hire or
+19
+20
+apprenticeship, written or oral, expressed or implied,
+20
+21
+but excluding one whose employment is casual and not
+21
+22
+in the course of the trade, business, profession, or
+22
+23
+occupation of his or her employer and excluding one
+23
+24
+who is required to perform work for a municipality or
+24
+Req. No. 369 Page 10
+
+1
+county or the state or federal government on having
+1
+2
+been convicted of a criminal offense or while
+2
+3
+incarcerated. “Employee” Employee shall also include
+3
+4
+a member of the Oklahoma National Guard while in the
+4
+5
+performance of duties only while in response to state
+5
+6
+orders and any authorized voluntary or uncompensated
+6
+7
+worker, rendering services as a firefighter, law
+7
+8
+enforcement officer or emergency management worker.
+8
+9
+Travel by a police officer, fireman, or a member of a
+9
+10
+first aid or rescue squad, in responding to and
+10
+11
+returning from an emergency, shall be deemed to be in
+11
+12
+the course of employment.
+12
+13
+b. The term “employee” employee shall not include:
+13
+14
+(1) any person for whom an employer is liable under
+14
+15
+any Act of Congress for providing compensation to
+15
+16
+employees for injuries, disease or death arising
+16
+17
+out of and in the course of employment including,
+17
+18
+but not limited to, the Federal Employees’
+18
+19
+Compensation Act, the Federal Employers’
+19
+20
+Liability Act, the Longshore and Harbor Workers’
+20
+21
+Compensation Act and the Jones Act, to the extent
+21
+22
+his or her employees are subject to such acts,
+22
+23
+(2) any person who is employed in agriculture,
+23
+24
+ranching or horticulture by an employer who had a
+24
+Req. No. 369 Page 11
+
+1
+gross annual payroll in the preceding calendar
+1
+2
+year of less than One Hundred Thousand Dollars
+2
+3
+($100,000.00) wages for agricultural, ranching or
+3
+4
+horticultural workers, or any person who is
+4
+5
+employed in agriculture, ranching or horticulture
+5
+6
+who is not engaged in operation of motorized
+6
+7
+machines. This exemption applies to any period
+7
+8
+of time for which such employment exists,
+8
+9
+irrespective of whether or not the person is
+9
+10
+employed in other activities for which the
+10
+11
+exemption does not apply. If the person is
+11
+12
+employed for part of a year in exempt activities
+12
+13
+and for part of a year in nonexempt activities,
+13
+14
+the employer shall be responsible for providing
+14
+15
+workers’ compensation only for the period of time
+15
+16
+for which the person is employed in nonexempt
+16
+17
+activities,
+17
+18
+(3) any person who is a licensed real estate sales
+18
+19
+associate or broker, paid on a commission basis,
+19
+20
+(4) any person employed by an employer with five or
+20
+21
+fewer total employees, all of whom are related
+21
+22
+within the second degree by blood or marriage to
+22
+23
+the employer, all of whom are dependents living
+23
+24
+in the household of the employer, or all of whom
+24
+Req. No. 369 Page 12
+
+1
+are a combination of such relatives and
+1
+2
+dependents. If the employer is not a natural
+2
+3
+person such relative shall be related within the
+3
+4
+second degree by blood or marriage to a person
+4
+5
+who owns fifty percent (50%) or more of the
+5
+6
+employer, or such dependent shall be in the
+6
+7
+household of a person who owns fifty percent
+7
+8
+(50%) or more of the employer,
+8
+9
+(5) any person employed by an employer which is a
+9
+10
+youth sports league which qualifies for exemption
+10
+11
+from federal income taxation pursuant to federal
+11
+12
+law,
+12
+13
+(6) sole proprietors, members of a partnership,
+13
+14
+individuals who are party to a franchise
+14
+15
+agreement as set out by the Federal Trade
+15
+16
+Commission franchise disclosure rule, 16 CFR
+16
+17
+436.1 through 436.11, members of a limited
+17
+18
+liability company who own at least ten percent
+18
+19
+(10%) of the capital of the limited liability
+19
+20
+company or any stockholder-employees of a
+20
+21
+corporation who own ten percent (10%) or more
+21
+22
+stock in the corporation, unless they elect to be
+22
+23
+covered by a policy of insurance covering
+23
+24
+24
+Req. No. 369 Page 13
+
+1
+benefits under the Administrative Workers’
+1
+2
+Compensation Act,
+2
+3
+(7) any person providing or performing voluntary
+3
+4
+service who receives no wages for the services
+4
+5
+other than meals, drug or alcohol rehabilitative
+5
+6
+therapy, transportation, lodging or reimbursement
+6
+7
+for incidental expenses except for volunteers
+7
+8
+specifically provided for in subparagraph a of
+8
+9
+this paragraph,
+9
+10
+(8) a person, commonly referred to as an owner-
+10
+11
+operator, who owns or leases a truck-tractor or
+11
+12
+truck for hire, if the owner-operator actually
+12
+13
+operates the truck-tractor or truck and if the
+13
+14
+person contracting with the owner-operator is not
+14
+15
+the lessor of the truck-tractor or truck.
+15
+16
+Provided, however, an owner-operator shall not be
+16
+17
+precluded from workers’ compensation coverage
+17
+18
+under the Administrative Workers’ Compensation
+18
+19
+Act if the owner-operator elects to participate
+19
+20
+as a sole proprietor,
+20
+21
+(9) a person referred to as a drive-away owner-
+21
+22
+operator who privately owns and utilizes a tow
+22
+23
+vehicle in drive-away operations and operates
+23
+24
+independently for hire, if the drive-away owner-
+24
+Req. No. 369 Page 14
+
+1
+operator actually utilizes the tow vehicle and if
+1
+2
+the person contracting with the drive-away owner-
+2
+3
+operator is not the lessor of the tow vehicle.
+3
+4
+Provided, however, a drive-away owner-operator
+4
+5
+shall not be precluded from workers’ compensation
+5
+6
+coverage under the Administrative Workers’
+6
+7
+Compensation Act if the drive-away owner-operator
+7
+8
+elects to participate as a sole proprietor, and
+8
+9
+(10) any person who is employed as a domestic servant
+9
+10
+or as a casual worker in and about a private home
+10
+11
+or household, which private home or household had
+11
+12
+a gross annual payroll in the preceding calendar
+12
+13
+year of less than Fifty Thousand Dollars
+13
+14
+($50,000.00) for such workers, and
+14
+15
+(11) any person engaging in a temporary work
+15
+16
+arrangement that allows the individual to observe
+16
+17
+a work environment and gain work experience
+17
+18
+without the expectation of financial
+18
+19
+compensation;
+19
+20
+19. “Employer” means a natural person, partnership,
+20
+21
+association, limited liability company, corporation, and the legal
+21
+22
+representatives of a deceased employer, or the receiver or trustee
+22
+23
+of a person, partnership, association, corporation, or limited
+23
+24
+liability company, departments, instrumentalities and institutions
+24
+Req. No. 369 Page 15
+
+1
+of this state and divisions thereof, counties and divisions thereof,
+1
+2
+public trusts, boards of education and incorporated cities or towns
+2
+3
+and divisions thereof, employing a person included within the term
+3
+4
+“employee” employee as defined in this section. Employer may also
+4
+5
+mean the employer’s workers’ compensation insurance carrier, if
+5
+6
+applicable. Except as provided otherwise, this act the
+6
+7
+Administrative Workers’ Compensation Act applies to all public and
+7
+8
+private entities and institutions;
+8
+9
+20. “Employment” includes work or labor in a trade, business,
+9
+10
+occupation or activity carried on by an employer or any authorized
+10
+11
+voluntary or uncompensated worker rendering services as a
+11
+12
+firefighter, peace officer or emergency management worker;
+12
+13
+21. “Evidence-based” means expert-based, literature-supported
+13
+14
+and outcomes validated by well-designed randomized trials when such
+14
+15
+information is available and which uses the best available evidence
+15
+16
+to support medical decision making;
+16
+17
+22. “Gainful employment” means the capacity to perform
+17
+18
+employment for wages for a period of time that is not part-time,
+18
+19
+occasional or sporadic;
+19
+20
+23. “Impaired self-insurer” means a private self-insurer or
+20
+21
+group self-insurance association that fails to pay its workers’
+21
+22
+compensation obligations, or is financially unable to do so and is
+22
+23
+the subject of any proceeding under the Federal Bankruptcy Reform
+23
+24
+Act of 1978, and any subsequent amendments or is the subject of any
+24
+Req. No. 369 Page 16
+
+1
+proceeding in which a receiver, custodian, liquidator,
+1
+2
+rehabilitator, trustee or similar officer has been appointed by a
+2
+3
+court of competent jurisdiction to act in lieu of or on behalf of
+3
+4
+the self-insurer;
+4
+5
+24. “Incapacity” means inadequate strength or ability to
+5
+6
+perform a work-related task;
+6
+7
+25. “Insurance Commissioner” means the Insurance Commissioner
+7
+8
+of the State of Oklahoma this state;
+8
+9
+26. “Insurance Department” means the Insurance Department of
+9
+10
+the State of Oklahoma this state;
+10
+11
+27. “Major cause” means more than fifty percent (50%) of the
+11
+12
+resulting injury, disease or illness. A finding of major cause
+12
+13
+shall be established by a preponderance of the evidence. A finding
+13
+14
+that the workplace was not a major cause of the injury, disease or
+14
+15
+illness shall not adversely affect the exclusive remedy provisions
+15
+16
+of this act the Administrative Workers’ Compensation Act and shall
+16
+17
+not create a separate cause of action outside this act the
+17
+18
+Administrative Workers’ Compensation Act;
+18
+19
+28. “Maximum medical improvement” means that no further
+19
+20
+material improvement would reasonably be expected from medical
+20
+21
+treatment or the passage of time;
+21
+22
+29. “Medical services” means those services specified in
+22
+23
+Section 50 of this title;
+23
+24
+30. “Misconduct” shall include the following:
+24
+Req. No. 369 Page 17
+
+1
+a. unexplained absenteeism or tardiness,
+1
+2
+b. willful or wanton indifference to or neglect of the
+2
+3
+duties required,
+3
+4
+c. willful or wanton breach of any duty required by the
+4
+5
+employer,
+5
+6
+d. the mismanagement of a position of employment by
+6
+7
+action or inaction,
+7
+8
+e. actions or omissions that place in jeopardy the
+8
+9
+health, life, or property of self or others,
+9
+10
+f. dishonesty,
+10
+11
+g. wrongdoing,
+11
+12
+h. violation of a law, or
+12
+13
+i. a violation of a policy or rule adopted to ensure
+13
+14
+orderly work or the safety of self or others;
+14
+15
+31. a. (1) “Objective findings” are those findings which
+15
+16
+cannot come under the voluntary control of the
+16
+17
+patient.
+17
+18
+(2) (a) When determining permanent disability, a
+18
+19
+physician, any other medical provider, an
+19
+20
+administrative law judge, the Commission or
+20
+21
+the courts shall not consider complaints of
+21
+22
+pain.
+22
+23
+(b) For the purpose of making permanent
+23
+24
+disability ratings to the spine, physicians
+24
+Req. No. 369 Page 18
+
+1
+shall use criteria established by the Sixth
+1
+2
+Edition of the American Medical Association
+2
+3
+“Guides to the Evaluation of Permanent
+3
+4
+Impairment”.
+4
+5
+(3) (a) Objective evidence necessary to prove
+5
+6
+permanent disability in occupational hearing
+6
+7
+loss cases may be established by medically
+7
+8
+recognized and accepted clinical diagnostic
+8
+9
+methodologies, including, but not limited
+9
+10
+to, audiological tests that measure air and
+10
+11
+bone conduction thresholds and speech
+11
+12
+discrimination ability.
+12
+13
+(b) Any difference in the baseline hearing
+13
+14
+levels shall be confirmed by subsequent
+14
+15
+testing; provided, however, such test shall
+15
+16
+be given within four (4) weeks of the
+16
+17
+initial baseline hearing level test but not
+17
+18
+before five (5) days after being adjusted
+18
+19
+for presbycusis.
+19
+20
+b. Medical opinions addressing compensability and
+20
+21
+permanent disability shall be stated within a
+21
+22
+reasonable degree of medical certainty;
+22
+23
+23
+24
+24
+Req. No. 369 Page 19
+
+1
+32. “Official Disability Guidelines” or “ODG” means the current
+1
+2
+edition of the Official Disability Guidelines and the ODG Treatment
+2
+3
+in Workers’ Comp as published by the Work Loss Data Institute;
+3
+4
+33. “Permanent disability” means the extent, expressed as a
+4
+5
+percentage, of the loss of a portion of the total physiological
+5
+6
+capabilities of the human body as established by competent medical
+6
+7
+evidence and based on the Sixth Edition of the American Medical
+7
+8
+Association “Guides to the Evaluation of Permanent Impairment”, if
+8
+9
+the impairment is contained therein;
+9
+10
+34. “Permanent partial disability” means a permanent disability
+10
+11
+or loss of use after maximum medical improvement has been reached
+11
+12
+which prevents the injured employee, who has been released to return
+12
+13
+to work by the treating physician, from returning to his or her pre-
+13
+14
+injury or equivalent job. All evaluations of permanent partial
+14
+15
+disability must be supported by objective findings;
+15
+16
+35. “Permanent total disability” means, based on objective
+16
+17
+findings, incapacity, based upon accidental injury or occupational
+17
+18
+disease, to earn wages in any employment for which the employee may
+18
+19
+become physically suited and reasonably fitted by education,
+19
+20
+training, experience or vocational rehabilitation provided under
+20
+21
+this act the Administrative Workers’ Compensation Act. Loss of both
+21
+22
+hands, both feet, both legs, or both eyes, or any two thereof, shall
+22
+23
+constitute permanent total disability;
+23
+24
+24
+Req. No. 369 Page 20
+
+1
+36. “Preexisting condition” means any illness, injury, disease,
+1
+2
+or other physical or mental condition, whether or not work-related,
+2
+3
+for which medical advice, diagnosis, care or treatment was
+3
+4
+recommended or received preceding the date of injury;
+4
+5
+37. “Pre-injury or equivalent job” means the job that the
+5
+6
+claimant was working for the employer at the time the injury
+6
+7
+occurred or any other employment offered by the claimant’s employer
+7
+8
+that pays at least one hundred percent (100%) of the employee’s
+8
+9
+average weekly wage;
+9
+10
+38. “Private self-insurer” means a private employer that has
+10
+11
+been authorized to self-insure its workers’ compensation obligations
+11
+12
+pursuant to this act the Administrative Workers’ Compensation Act,
+12
+13
+but does not include group self-insurance associations authorized by
+13
+14
+this act the Administrative Workers’ Compensation Act, or any public
+14
+15
+employer that self-insures pursuant to this act the Administrative
+15
+16
+Workers’ Compensation Act;
+16
+17
+39. “Prosthetic” means an artificial device used to replace a
+17
+18
+part or joint of the body that is lost or injured in an accident or
+18
+19
+illness covered by this act the Administrative Workers’ Compensation
+19
+20
+Act;
+20
+21
+40. “Scheduled member” or “member” means hands, fingers, arms,
+21
+22
+legs, feet, toes, and eyes. In addition, for purposes of the
+22
+23
+Multiple Injury Trust Fund only, “scheduled member” scheduled member
+23
+24
+means hearing impairment;
+24
+Req. No. 369 Page 21
+
+1
+41. “Scientifically based” involves the application of
+1
+2
+rigorous, systematic, and objective procedures to obtain reliable
+2
+3
+and valid knowledge relevant to medical testing, diagnoses and
+3
+4
+treatment; is adequate to justify the general conclusions drawn; and
+4
+5
+has been accepted by a peer-review journal or approved by a panel of
+5
+6
+independent experts through a comparably rigorous, objective, and
+6
+7
+scientific review;
+7
+8
+42. “State average weekly wage” means the state average weekly
+8
+9
+wage determined by the Oklahoma Employment Security Commission in
+9
+10
+the preceding calendar year. If such determination is not
+10
+11
+available, the Commission shall determine the wage annually after
+11
+12
+reasonable investigation;
+12
+13
+43. “Subcontractor” means a person, firm, corporation or other
+13
+14
+legal entity hired by the general or prime contractor to perform a
+14
+15
+specific task for the completion of a work-related activity;
+15
+16
+44. “Surgery” does not include an injection, or the forcing of
+16
+17
+fluids beneath the skin, for treatment or diagnosis;
+17
+18
+45. “Surviving spouse” means the employee’s spouse by reason of
+18
+19
+a legal marriage recognized by the State of Oklahoma this state or
+19
+20
+under the requirements of a common law marriage in this state, as
+20
+21
+determined by the Oklahoma Workers’ Compensation Commission;
+21
+22
+46. “Temporary partial disability” means an injured employee
+22
+23
+who is temporarily unable to perform his or her job, but may perform
+23
+24
+alternative work offered by the employer;
+24
+Req. No. 369 Page 22
+
+1
+47. “Time of accident” or “date of accident” means the time or
+1
+2
+date of the occurrence of the accidental incident from which
+2
+3
+compensable injury, disability, or death results; and
+3
+4
+48. “Wages” means money compensation received for employment at
+4
+5
+the time of the accident, including the reasonable value of board,
+5
+6
+rent, housing, lodging, or similar advantage received from the
+6
+7
+employer and includes the amount of tips required to be reported by
+7
+8
+the employer under Section 6053 of the Internal Revenue Code and the
+8
+9
+regulations promulgated pursuant thereto or the amount of actual
+9
+10
+tips reported, whichever amount is greater.
+10
+11
+SECTION 2. This act shall become effective November 1, 2025.
+11
+12
+12
+13
+60-1-369 MR 1/19/2025 5:46:34 AM
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 369 Page 23
+
+[DELETED:  P B S]
+[DELETED:  P C C C C C]
+[DELETED:  P C]
+[DELETED:  P a “ w o o w “]
+[DELETED:  P i i i i]
+[DELETED:  P a]
+[DELETED:  P a A T B A]
+[DELETED:  P]
+[DELETED:  P a t a a]
+[DELETED:  P a “]
+[DELETED:  P T a a]
+[DELETED:  P a a]
+[DELETED:  P a s]
+[DELETED:  P a a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P u w w t a d w v a a ( “ ( W F]
+[DELETED:  P ( O A M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 1]

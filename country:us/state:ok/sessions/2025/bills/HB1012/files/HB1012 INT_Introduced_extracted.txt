@@ -1,0 +1,7613 @@
+Title: HOUSE BILL 1012 By: West (Josh)
+Official Title: HOUSE BILL 1012 By: West (Josh)
+Number of Sections: 169
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 49 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to privacy of computer data; enacting
+7
+the Oklahoma Computer Data Privacy Act; defining
+8
+terms; providing for applicability of act to certain
+8
+businesses that collect consumers' personal
+9
+information; providing exemptions; prescribing
+9
+compliance with other laws and legal proceedings;
+10
+requiring act to be liberally construed to align its
+10
+effects with other laws relating to privacy and
+11
+protection of personal information; providing for
+11
+controlling effect of federal law; providing for
+12
+construction in event of conflict with state law;
+12
+providing for controlling effect of law which
+13
+provides greatest privacy or protection to consumers;
+13
+providing for preemption of local law; providing
+14
+consumers right to request disclosure of certain
+14
+information; providing consumers right to request
+15
+deletion of certain information; providing consumers
+15
+the right to request and receive a disclosure of
+16
+personal information sold or disclosed; providing
+16
+consumers right to opt in and out of the sale of
+17
+personal information; making legislative findings;
+17
+providing contracts or other agreements purporting to
+18
+waive or limit a right, remedy or means of
+18
+enforcement contrary to public policy; requiring
+19
+businesses collecting consumer data information
+19
+inform consumer of certain information collected;
+20
+prescribing required content of disclosures;
+20
+requiring consumer consent; requiring businesses to
+21
+provide online privacy policy or a notice of
+21
+policies; requiring businesses to designate and make
+22
+available methods for submitting verifiable consumer
+22
+request for certain information; requiring businesses
+23
+receiving verifiable consumer requests reasonably
+23
+verify identity of requesting consumer; requiring
+24
+businesses disclose required information within a
+24
+Req. No. 10067 Page 1
+1
+certain period; requiring businesses using de-
+1
+identified information not re-identify or attempt to
+2
+re-identify certain consumers; requiring permission;
+2
+prohibiting discrimination against consumers for
+3
+exercise of rights; authorizing businesses to offer
+3
+financial incentives to consumers for collection,
+4
+sale or disclosure of personal information;
+4
+prohibiting division of single transactions;
+5
+requiring employee training with respect to consumer
+5
+inquiries; requiring disclosure of certain rights,
+6
+requirements and information; providing civil
+6
+penalties; authorizing Oklahoma Attorney General to
+7
+take certain actions based on violations; authorizing
+7
+Attorney General to recover reasonable expenses
+8
+incurred in obtaining injunctive relief or civil
+8
+penalties; directing Attorney General to deposit
+9
+collected penalties in a dedicated account in the
+9
+General Revenue Fund; providing certain immunities;
+10
+providing protections to service providers; providing
+10
+for codification; and providing an effective date.
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+14
+15
+in the Oklahoma Statutes as Section 901.1 of Title 17, unless there
+15
+16
+is created a duplication in numbering, reads as follows:
+16
+17
+This act shall be known and may be cited as the "Oklahoma
+17
+18
+Computer Data Privacy Act".
+18
+19
+
+Section 3:
+SECTION 2. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 901.2 of Title 17, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+As used in this act:
+22
+23
+
+Section 4:
+1. "Aggregate consumer information" means information that
+23
+24
+relates to a group or category of consumers from which individual
+24
+Req. No. 10067 Page 2
+1
+consumer identities have been removed and that is not linked or
+1
+2
+reasonably linkable to a particular consumer or household, including
+2
+3
+through a device. The term does not include one or more individual
+3
+4
+consumer records that have been de-identified;
+4
+5
+
+Section 5:
+2. "Biometric information" means an individual's physiological,
+5
+6
+biological or behavioral characteristics that can be used, alone or
+6
+7
+in combination with other characteristics or other identifying data,
+7
+8
+to establish the individual's identity. The term includes:
+8
+9
+a. an image of an iris, retina, fingerprint, face, hand,
+9
+10
+palm or vein pattern or a voice recording from which
+10
+11
+an identifier template can be extracted such as a
+11
+12
+faceprint, minutiae template or voiceprint,
+12
+13
+b. keystroke patterns or rhythms,
+13
+14
+c. gait patterns or rhythms, and
+14
+15
+d. sleep, health or exercise data that contains
+15
+16
+identifying information;
+16
+17
+
+Section 6:
+3. "Business" means a for-profit entity, including a sole
+17
+18
+proprietorship, partnership, limited liability company, corporation,
+18
+19
+association or other legal entity that is organized or operated for
+19
+20
+the profit or financial benefit of the entity's shareholders or
+20
+21
+other owners, but does not include Internet service providers so
+21
+22
+long as they are acting in their role as Internet service providers;
+22
+23
+
+Section 7:
+4. "Business purpose" means the use of personal information
+23
+24
+for:
+24
+Req. No. 10067 Page 3
+1
+a. the following operational purposes of a business or
+1
+2
+service provider, provided that the use of the
+2
+3
+information is reasonably necessary and proportionate
+3
+4
+to achieve the operational purpose for which the
+4
+5
+information was collected or processed or another
+5
+6
+operational purpose that is compatible with the
+6
+7
+context in which the information was collected:
+7
+8
+(1) auditing related to a current interaction with a
+8
+9
+consumer and any concurrent transactions,
+9
+10
+including counting ad impressions of unique
+10
+11
+visitors, verifying the positioning and quality
+11
+12
+of ad impressions, and auditing compliance with a
+12
+13
+specification or other standards for ad
+13
+14
+impressions,
+14
+15
+(2) detecting a security incident, protecting against
+15
+16
+malicious, deceptive, fraudulent or illegal
+16
+17
+activity, and prosecuting those responsible for
+17
+18
+any illegal activity described by this division,
+18
+19
+(3) identifying and repairing or removing errors that
+19
+20
+impair the intended functionality of computer
+20
+21
+hardware or software,
+21
+22
+(4) using personal information in the short term or
+22
+23
+for a transient use, provided that the
+23
+24
+information is not:
+24
+Req. No. 10067 Page 4
+1
+(a) disclosed to a third party, and
+1
+2
+(b) used to build a profile about a consumer or
+2
+3
+alter an individual consumer's experience
+3
+4
+outside of a current interaction with the
+4
+5
+consumer, including the contextual
+5
+6
+customization of an advertisement displayed
+6
+7
+as part of the same interaction,
+7
+8
+(5) performing a service on behalf of the business or
+8
+9
+service provider, including:
+9
+10
+(a) maintaining or servicing an account,
+10
+11
+providing customer service, processing or
+11
+12
+fulfilling an order or transaction,
+12
+13
+verifying customer information, processing a
+13
+14
+payment, providing financing, providing
+14
+15
+advertising or marketing services, or
+15
+16
+providing analytic services, or
+16
+17
+(b) performing a service similar to a service
+17
+18
+described by subdivision (a) of this
+18
+19
+division on behalf of the business or
+19
+20
+service provider,
+20
+21
+(6) undertaking internal research for technological
+21
+22
+development and demonstration,
+22
+23
+(7) undertaking an activity to:
+23
+24
+24
+Req. No. 10067 Page 5
+1
+(a) verify or maintain the quality or safety of
+1
+2
+a service or device that is owned by,
+2
+3
+manufactured by, manufactured for or
+3
+4
+controlled by the business, or
+4
+5
+(b) improve, upgrade or enhance a service or
+5
+6
+device described by subdivision (a) of this
+6
+7
+division, or
+7
+8
+(8) retention of employment data, or
+8
+9
+b. another operational purpose for which notice is given
+9
+10
+under this act, but specifically excepting cross-
+10
+11
+context targeted advertising, unless the customer has
+11
+12
+opted in to the same;
+12
+13
+
+Section 8:
+5. "Collect" means to buy, rent, gather, obtain, receive or
+13
+14
+access the personal information of a consumer by any means,
+14
+15
+including by actively or passively receiving the information from
+15
+16
+the consumer or by observing the consumer's behavior;
+16
+17
+
+Section 9:
+6. "Commercial purpose" means a purpose that is intended to
+17
+18
+result in a profit or other tangible benefit or the advancement of a
+18
+19
+person's commercial or economic interests, such as by inducing
+19
+20
+another person to buy, rent, lease, subscribe to, provide or
+20
+21
+exchange products, goods, property, information or services or by
+21
+22
+enabling or effecting, directly or indirectly, a commercial
+22
+23
+transaction. The term does not include the purpose of engaging in
+23
+24
+24
+Req. No. 10067 Page 6
+1
+speech recognized by state or federal courts as noncommercial
+1
+2
+speech, including political speech and journalism;
+2
+3
+
+Section 10:
+7. "Consumer" means an individual who is a resident of this
+3
+4
+state;
+4
+5
+
+Section 11:
+8. "De-identified information" means information that cannot
+5
+6
+reasonably identify, relate to, describe, be associated with, or be
+6
+7
+linked to, directly or indirectly, a particular consumer;
+7
+8
+
+Section 12:
+9. "Device" means any physical object capable of connecting to
+8
+9
+the Internet, directly or indirectly, or to another device;
+9
+10
+
+Section 13:
+10. "Genetic information" means any information, regardless of
+10
+11
+its format, that concerns a consumer's genetic characteristics.
+11
+12
+Genetic information includes, but is not limited to:
+12
+13
+a. raw sequence data that result from sequencing of a
+13
+14
+consumer's complete extracted or a portion of the
+14
+15
+extracted DNA,
+15
+16
+b. genotypic and phenotypic information that results from
+16
+17
+analyzing the raw sequence data, and
+17
+18
+c. self-reported health information that consumer submits
+18
+19
+to a company regarding the consumer's health
+19
+20
+conditions and that is used for scientific research or
+20
+21
+product development and analyzed in connection with
+21
+22
+the consumer's raw sequence data;
+22
+23
+
+Section 14:
+11. "Identifier" means data elements or other information that
+23
+24
+alone or in conjunction with other information can be used to
+24
+Req. No. 10067 Page 7
+1
+identify a particular consumer, household or device that is linked
+1
+2
+to a particular consumer or household;
+2
+3
+
+Section 15:
+12. "Internet service provider" means a person who provides a
+3
+4
+mass-market retail service by wire or radio that provides the
+4
+5
+capability to transmit data and to receive data from all or
+5
+6
+substantially all Internet endpoints, including any capabilities
+6
+7
+that are incidental to and enable the operations of the service,
+7
+8
+excluding dial-up Internet access service;
+8
+9
+
+Section 16:
+13. "Person" means an individual, sole proprietorship, firm,
+9
+10
+partnership, joint venture, syndicate, business trust, company,
+10
+11
+corporation, limited liability company, association, committee and
+11
+12
+any other organization or group of persons acting in concert;
+12
+13
+
+Section 17:
+14. "Personal information" means information that identifies,
+13
+14
+relates to, describes, can be associated with or can reasonably be
+14
+15
+linked to, directly or indirectly, a particular consumer or
+15
+16
+household. The term includes the following categories of
+16
+17
+information if the information identifies, relates to, describes,
+17
+18
+can be associated with or can reasonably be linked to, directly or
+18
+19
+indirectly, a particular consumer or household:
+19
+20
+a. an identifier, including a real name, alias, mailing
+20
+21
+address, account name, date of birth, driver license
+21
+22
+number, unique identifier, Social Security number,
+22
+23
+passport number, signature, telephone number or other
+23
+24
+24
+Req. No. 10067 Page 8
+1
+government-issued identification number, or other
+1
+2
+similar identifier,
+2
+3
+b. an online identifier, including an electronic mail
+3
+4
+address or Internet Protocol address, or other similar
+4
+5
+identifier,
+5
+6
+c. a physical characteristic or description, including a
+6
+7
+characteristic of a protected classification under
+7
+8
+state or federal law,
+8
+9
+d. commercial information, including:
+9
+10
+(1) a record of personal property,
+10
+11
+(2) a good or service purchased, obtained or
+11
+12
+considered,
+12
+13
+(3) an insurance policy number, or
+13
+14
+(4) other purchasing or consuming histories or
+14
+15
+tendencies,
+15
+16
+e. biometric information and genetic information,
+16
+17
+f. Internet or other electronic network activity
+17
+18
+information, including:
+18
+19
+(1) browsing or search history, and
+19
+20
+(2) other information regarding a consumer's
+20
+21
+interaction with an Internet website, application
+21
+22
+or advertisement,
+22
+23
+g. geolocation data,
+23
+24
+24
+Req. No. 10067 Page 9
+1
+h. audio, electronic, visual, thermal, olfactory or other
+1
+2
+similar information,
+2
+3
+i. professional or employment-related information,
+3
+4
+j. education information that is not publicly available
+4
+5
+that includes personally identifiable information
+5
+6
+under the federal Family Educational Rights and
+6
+7
+Privacy Act of 1974,
+7
+8
+k. financial information, including a financial
+8
+9
+institution account number, credit or debit card
+9
+10
+number, or password or access code associated with a
+10
+11
+credit or debit card or bank account,
+11
+12
+l. medical information,
+12
+13
+m. health insurance information, or
+13
+14
+n. inferences drawn from any of the information listed
+14
+15
+under this paragraph to create a profile about a
+15
+16
+consumer that reflects the consumer's preferences,
+16
+17
+characteristics, psychological trends,
+17
+18
+predispositions, behavior, attitudes, intelligence,
+18
+19
+abilities or aptitudes;
+19
+20
+
+Section 18:
+15. "Processing information" means performing any operation or
+20
+21
+set of operations on personal data or on sets of personal data,
+21
+22
+whether or not by automated means;
+22
+23
+
+Section 19:
+16. "Pseudonymize" or "pseudonymization" means the processing
+23
+24
+of personal information in a manner that renders the personal
+24
+Req. No. 10067 Page 10
+1
+information no longer attributable to a specific consumer without
+1
+2
+the use of additional information, provided that the additional
+2
+3
+information is kept separately and is subject to technical and
+3
+4
+organizational measures to ensure that the personal information is
+4
+5
+not attributed to an identified or identifiable consumer;
+5
+6
+
+Section 20:
+17. "Publicly available information" means information that is
+6
+7
+lawfully made available to the public from federal, state or local
+7
+8
+government records or information received from widely distributed
+8
+9
+media or by the consumer in the public domain. The term does not
+9
+10
+include:
+10
+11
+a. biometric information or genetic information of a
+11
+12
+consumer collected by a business without the
+12
+13
+consumer's knowledge or consent, or
+13
+14
+b. de-identified or aggregate consumer information;
+14
+15
+
+Section 21:
+18. "Service provider" means a for-profit entity as described
+15
+16
+by paragraph 3 of this section that processes information on behalf
+16
+17
+of a business and to which the business discloses, for a business
+17
+18
+purpose, a consumer's personal information under a written contract,
+18
+19
+provided that the contract prohibits the entity receiving the
+19
+20
+information from retaining, using or disclosing the information for
+20
+21
+any purpose other than:
+21
+22
+a. providing the services specified in the contract with
+22
+23
+the business, or
+23
+24
+24
+Req. No. 10067 Page 11
+1
+b. for a purpose permitted by this act, including for a
+1
+2
+commercial purpose other than providing those
+2
+3
+specified services;
+3
+4
+
+Section 22:
+19. "Third party" means a person who is not:
+4
+5
+a. a business to which this act applies that collects
+5
+6
+personal information from consumers, or
+6
+7
+b. a person to whom the business discloses, for a
+7
+8
+business purpose, a consumer's personal information
+8
+9
+under a written contract, provided that the contract:
+9
+10
+(1) prohibits the person receiving the information
+10
+11
+from:
+11
+12
+(a) selling the information,
+12
+13
+(b) retaining, using or disclosing the
+13
+14
+information for any purpose other than
+14
+15
+providing the services specified in the
+15
+16
+contract, including for a commercial purpose
+16
+17
+other than providing those services, and
+17
+18
+(c) retaining, using or disclosing the
+18
+19
+information outside of the direct business
+19
+20
+relationship between the person and the
+20
+21
+business, and
+21
+22
+(2) includes a certification made by the person
+22
+23
+receiving the personal information that the
+23
+24
+person understands and will comply with the
+24
+Req. No. 10067 Page 12
+1
+prohibitions under division (1) of this
+1
+2
+subparagraph;
+2
+3
+
+Section 23:
+20. "Unique identifier" means a persistent identifier that can
+3
+4
+be used over time and across different services to recognize a
+4
+5
+consumer, a custodial parent or guardian, or any minor children over
+5
+6
+which the parent or guardian has custody, or a device that is linked
+6
+7
+to those individuals. The term includes:
+7
+8
+a. a device identifier,
+8
+9
+b. an Internet Protocol address,
+9
+10
+c. a cookie, beacon, pixel tag, mobile ad identifier or
+10
+11
+similar technology,
+11
+12
+d. a customer number, unique pseudonym or user alias,
+12
+13
+e. a telephone number, and
+13
+14
+f. another form of a persistent or probabilistic
+14
+15
+identifier that can be used to identify a particular
+15
+16
+consumer or device;
+16
+17
+
+Section 24:
+21. "Verifiable consumer request" means a request:
+17
+18
+a. that is made by a consumer, a consumer on behalf of
+18
+19
+the consumer's minor child, or a natural person or
+19
+20
+person who is authorized by a consumer to act on the
+20
+21
+consumer's behalf, and
+21
+22
+b. that a business can reasonably verify, in accordance
+22
+23
+with Section 19 of this act, was submitted by the
+23
+24
+24
+Req. No. 10067 Page 13
+1
+consumer about whom the business has collected
+1
+2
+personal information; and
+2
+3
+
+Section 25:
+22. "Consent" means an act that clearly and conspicuously
+3
+4
+communicates the individual's authorization of an act or practice
+4
+5
+that is made in the absence of any mechanism in the user interface
+5
+6
+that has the purpose or substantial effect of obscuring, subverting
+6
+7
+or impairing decision-making or choice to obtain consent.
+7
+8
+
+Section 26:
+SECTION 3. NEW LAW A new section of law to be codified
+8
+9
+in the Oklahoma Statutes as Section 901.3 of Title 17, unless there
+9
+10
+is created a duplication in numbering, reads as follows:
+10
+11
+A. This act applies only to:
+11
+12
+
+Section 27:
+1. A business that:
+12
+13
+a. does business in this state,
+13
+14
+b. collects consumers' personal information or has that
+14
+15
+information collected on the business's behalf,
+15
+16
+c. alone or in conjunction with others, determines the
+16
+17
+purpose for and means of processing consumers'
+17
+18
+personal information, and
+18
+19
+d. satisfies one or more of the following thresholds:
+19
+20
+(1) has annual gross revenue in an amount that
+20
+21
+exceeds Fifteen Million Dollars ($15,000,000.00),
+21
+22
+(2) alone or in combination with others, annually
+22
+23
+buys, sells or receives or shares for commercial
+23
+24
+purposes the personal information of fifty
+24
+Req. No. 10067 Page 14
+1
+thousand or more consumers, households or
+1
+2
+devices, or
+2
+3
+(3) derives twenty-five percent (25%) or more of the
+3
+4
+business's annual revenue from selling consumers'
+4
+5
+personal information; and
+5
+6
+
+Section 28:
+2. An entity that controls or is controlled by a business
+6
+7
+described by paragraph 1 of this subsection and that shares the same
+7
+8
+or substantially similar brand name and/or common database for
+8
+9
+consumers' personal information. For purposes of this paragraph,
+9
+10
+"control" means the:
+10
+11
+a. ownership of, or power to vote, more than fifty
+11
+12
+percent (50%) of the outstanding shares of any class
+12
+13
+of voting security of a business,
+13
+14
+b. control in any manner over the election of a majority
+14
+15
+of the directors or of individuals exercising similar
+15
+16
+functions, or
+16
+17
+c. power to exercise a controlling influence over the
+17
+18
+management of a company.
+18
+19
+B. For purposes of this act, a business sells a consumer's
+19
+20
+personal information to another business or a third party if the
+20
+21
+business sells, rents, discloses, disseminates, makes available,
+21
+22
+transfers or otherwise communicates, orally, in writing, or by
+22
+23
+electronic or other means, the information to the other business or
+23
+24
+third party for monetary or other valuable consideration.
+24
+Req. No. 10067 Page 15
+1
+C. For purposes of this act, a business does not sell a
+1
+2
+consumer's personal information if:
+2
+3
+
+Section 29:
+1. The consumer directs the business to intentionally disclose
+3
+4
+the information or uses the business to intentionally interact with
+4
+5
+a third party, provided that the third party does not sell the
+5
+6
+information, unless that disclosure is consistent with this act; or
+6
+7
+
+Section 30:
+2. The business:
+7
+8
+a. uses or shares an identifier of the consumer to alert
+8
+9
+a third party that the consumer has opted out of the
+9
+10
+sale of the information,
+10
+11
+b. uses or shares with a service provider a consumer's
+11
+12
+personal information that is necessary to perform a
+12
+13
+business purpose if:
+13
+14
+(1) the business provided notice that the information
+14
+15
+is being used or shared in the business's terms
+15
+16
+and conditions consistent with Sections 13 and 17
+16
+17
+of this act, and
+17
+18
+(2) the service provider does not further collect,
+18
+19
+sell or use the information except as necessary
+19
+20
+to perform the business purpose, or
+20
+21
+c. transfers to a third party a consumer's personal
+21
+22
+information as an asset that is part of a merger,
+22
+23
+acquisition, bankruptcy or other transaction in which
+23
+24
+the third party assumes control of all or part of the
+24
+Req. No. 10067 Page 16
+1
+business, provided that information is used or shared
+1
+2
+consistent with this act.
+2
+3
+D. For purposes of paragraph 1 of subsection C of this section,
+3
+4
+an intentional interaction occurs if the consumer does one or more
+4
+5
+deliberate acts with the intent to interact with a third party.
+5
+6
+Placing a cursor over, muting, pausing or closing online content
+6
+7
+does not constitute a consumer's intent to interact with a third
+7
+8
+party. Instead, said deliberate act must be consent to such
+8
+9
+interaction as defined herein.
+9
+10
+
+Section 31:
+SECTION 4. NEW LAW A new section of law to be codified
+10
+11
+in the Oklahoma Statutes as Section 901.4 of Title 17, unless there
+11
+12
+is created a duplication in numbering, reads as follows:
+12
+13
+A. This act does not apply to:
+13
+14
+
+Section 32:
+1. Publicly available information;
+14
+15
+
+Section 33:
+2. Medical information governed by state privacy health laws or
+15
+16
+protected health information that is collected by a covered entity
+16
+17
+or business associate governed by the privacy, security and data
+17
+18
+breach notification rules issued by the United States Department of
+18
+19
+Health and Human Services, Parts 160 and 164 of Title 45 of the Code
+19
+20
+of Federal Regulations, established pursuant to the federal Health
+20
+21
+Insurance Portability and Accountability Act of 1996 (Public Law
+21
+22
+104-191) and the federal Health Information Technology for Economic
+22
+23
+and Clinical Health Act, Title XIII of the federal American Recovery
+23
+24
+and Reinvestment Act of 2009 (Public Law 111-5);
+24
+Req. No. 10067 Page 17
+1
+
+Section 34:
+3. A provider of health care, or a health plan, governed by
+1
+2
+state privacy health laws or a covered entity governed by the
+2
+3
+privacy, security and data breach notification rules issued by the
+3
+4
+United States Department of Health and Human Services, Parts 160 and
+4
+5
+164 of Title 45 of the Code of Federal Regulations, established
+5
+6
+pursuant to the federal Health Insurance Portability and
+6
+7
+Accountability Act of 1996 (Public Law 104-191), to the extent the
+7
+8
+provider or covered entity maintains, uses and discloses patient
+8
+9
+information in the same manner as medical information or protected
+9
+10
+health information as described in paragraph 2 of this subsection;
+10
+11
+
+Section 35:
+4. A business associate of a covered entity governed by the
+11
+12
+privacy, security and data breach notification rules issued by the
+12
+13
+United States Department of Health and Human Services, Parts 160 and
+13
+14
+164 of Title 45 of the Code of Federal Regulations, established
+14
+15
+pursuant to the federal Health Insurance Portability and
+15
+16
+Accountability Act of 1996 (Public Law 104-191) and the federal
+16
+17
+Health Information Technology for Economic and Clinical Health Act,
+17
+18
+Title XIII of the federal American Recovery and Reinvestment Act of
+18
+19
+2009 (Public Law 111-5), to the extent that the business associate
+19
+20
+maintains, uses and discloses patient information in the same manner
+20
+21
+as medical information or protected health information as described
+21
+22
+in paragraph 2 of this subsection;
+22
+23
+
+Section 36:
+5. Information that meets both of the following conditions:
+23
+24
+24
+Req. No. 10067 Page 18
+1
+a. is de-identified in accordance with the requirements
+1
+2
+for de-identification set forth in Section 164.514 of
+2
+3
+Part 164 of Title 45 of the Code of Federal
+3
+4
+Regulations, and
+4
+5
+b. is derived from patient information that was
+5
+6
+originally collected, created, transmitted or
+6
+7
+maintained by an entity regulated by the Health
+7
+8
+Insurance Portability and Accountability Act of 1996
+8
+9
+or the Federal Policy for the Protection of Human
+9
+10
+Subjects, also known as the Common Rule.
+10
+11
+Information that meets the requirements of subparagraph a or b
+11
+12
+of this paragraph but is subsequently re-identified shall no longer
+12
+13
+be eligible for the exemption in this paragraph and shall be subject
+13
+14
+to applicable federal and state data privacy and security laws,
+14
+15
+including, but not limited to, the Health Insurance Portability and
+15
+16
+Accountability Act of 1996 and state medical privacy laws;
+16
+17
+
+Section 37:
+6. Information that is collected, used or disclosed in
+17
+18
+research, as defined in Section 164.501 of Title 45 of the Code of
+18
+19
+Federal Regulations, including, but not limited to, a clinical
+19
+20
+trial, and that is conducted in accordance with applicable ethics,
+20
+21
+confidentiality, privacy and security rules of Part 164 of Title 45
+21
+22
+of the Code of Federal Regulations, the Federal Policy for the
+22
+23
+Protection of Human Subjects, also known as the Common Rule, good
+23
+24
+clinical practice guidelines issued by the International Council for
+24
+Req. No. 10067 Page 19
+1
+Harmonization, or human subject protection requirements of the
+1
+2
+United States Food and Drug Administration;
+2
+3
+
+Section 38:
+7. The sale of personal information to or by a consumer
+3
+4
+reporting agency if the information is to be:
+4
+5
+a. reported in or used to generate a consumer report, as
+5
+6
+defined by Section 1681a(d) of the Fair Credit
+6
+7
+Reporting Act (15 U.S.C., Section 1681 et seq.), and
+7
+8
+b. used solely for a purpose authorized under that act;
+8
+9
+
+Section 39:
+8. Personal information collected, processed, sold or disclosed
+9
+10
+in accordance with:
+10
+11
+a. the federal Gramm-Leach-Bliley Act of 1999 (Public Law
+11
+12
+106-102) and its implementing regulations, or
+12
+13
+b. the federal Driver's Privacy Protection Act of 1994
+13
+14
+(18 U.S.C., Section 2721 et seq.);
+14
+15
+
+Section 40:
+9. De-identified or aggregate consumer information; or
+15
+16
+
+Section 41:
+10. A consumer's personal information collected or sold by a
+16
+17
+business, if every aspect of the collection or sale occurred wholly
+17
+18
+outside of this state.
+18
+19
+Provided further, nothing in this act shall be deemed to apply
+19
+20
+in any manner to a financial institution or an affiliate of a
+20
+21
+financial institution that is subject to the federal Gramm-Leach-
+21
+22
+Bliley Act of 1999 and the rules promulgated thereunder.
+22
+23
+B. For the purposes of this section, a business or other person
+23
+24
+shall not re-identify, or attempt to re-identify, information that
+24
+Req. No. 10067 Page 20
+1
+has met the requirements of paragraphs 2 through 6 of subsection A
+1
+2
+of this section, except for one or more of the following purposes:
+2
+3
+
+Section 42:
+1. Treatment, payment or health care operations conducted by a
+3
+4
+covered entity or business associate acting on behalf of, and at the
+4
+5
+written direction of, the covered entity. For purposes of this
+5
+6
+paragraph, "treatment", "payment", "health care operations" and
+6
+7
+"covered entity" have the same meaning as defined in Section 164.501
+7
+8
+of Title 45 of the Code of Federal Regulations, and "business
+8
+9
+associate" has the same meaning as defined in Section 160.103 of
+9
+10
+Title 45 of the Code of Federal Regulations;
+10
+11
+
+Section 43:
+2. Public health activities or purposes as described in Section
+11
+12
+
+Section 44:
+164.512 of Title 45 of the Code of Federal Regulations;
+12
+13
+
+Section 45:
+3. Research, as defined in Section 164.501 of Title 45 of the
+13
+14
+Code of Federal Regulations, that is conducted in accordance with
+14
+15
+Part 46 of Title 45 of the Code of Federal Regulations and the
+15
+16
+Federal Policy for the Protection of Human Subjects, also known as
+16
+17
+the Common Rule;
+17
+18
+
+Section 46:
+4. Pursuant to a contract where the lawful holder of the de-
+18
+19
+identified information expressly engages a person or entity to
+19
+20
+attempt to re-identify the de-identified information in order to
+20
+21
+conduct testing, analysis, or validation of de-identification, or
+21
+22
+related statistical techniques, if the contract bans any other use
+22
+23
+or disclosure of the re-identified information and requires the
+23
+24
+24
+Req. No. 10067 Page 21
+1
+return or destruction of the information that was re-identified upon
+1
+2
+completion of the contract; and
+2
+3
+
+Section 47:
+5. If otherwise required by law.
+3
+4
+C. In accordance with paragraphs 2 through 6 of subsection A of
+4
+5
+this section, information re-identified pursuant to this section
+5
+6
+shall be subject to applicable federal and state data privacy and
+6
+7
+security laws, including, but not limited to, the Health Insurance
+7
+8
+Portability and Accountability Act of 1996 and state health privacy
+8
+9
+laws.
+9
+10
+D. Beginning January 1, 2026, any contract for the sale or
+10
+11
+license of de-identified information that has met the requirements
+11
+12
+of paragraphs 2 through 6 of subsection A of this section, where one
+12
+13
+of the parties is a person residing or doing business in the state,
+13
+14
+shall include the following, or substantially similar, provisions:
+14
+15
+
+Section 48:
+1. A statement that the de-identified information being sold or
+15
+16
+licensed includes de-identified patient information;
+16
+17
+
+Section 49:
+2. A statement that re-identification, and attempted re-
+17
+18
+identification, of the de-identified information by the purchaser or
+18
+19
+licensee of the information is prohibited pursuant to this section;
+19
+20
+and
+20
+21
+
+Section 50:
+3. A requirement that, unless otherwise required by law, the
+21
+22
+purchaser or licensee of the de-identified information may not
+22
+23
+further disclose the de-identified information to any third party
+23
+24
+24
+Req. No. 10067 Page 22
+1
+unless the third party is contractually bound by the same or
+1
+2
+stricter restrictions and conditions.
+2
+3
+E. For purposes of this section, "re-identify" means the
+3
+4
+process of reversal of de-identification techniques, including, but
+4
+5
+not limited to, the addition of specific pieces of information or
+5
+6
+data elements that can, individually or in combination, be used to
+6
+7
+uniquely identify an individual or usage.
+7
+8
+F. For purposes of paragraph 10 of subsection A of this
+8
+9
+
+Section 51:
+section, the collection or sale of a consumer's personal information
+9
+10
+occurs wholly outside of this state if:
+10
+11
+
+Section 52:
+1. The business collects that information while the consumer is
+11
+12
+outside of this state;
+12
+13
+
+Section 53:
+2. No part of the sale of the information occurs in this state;
+13
+14
+and
+14
+15
+
+Section 54:
+3. The business does not sell any personal information of the
+15
+16
+consumer collected while the consumer is in this state.
+16
+17
+G. For purposes of subsection F of this section, the collection
+17
+18
+or sale of a consumer's personal information does not occur wholly
+18
+19
+outside of this state if a business stores a consumer's personal
+19
+20
+information, including on a device, when the consumer is in this
+20
+21
+state and subsequently collects or sells that stored information
+21
+22
+when the consumer and the information are outside of this state.
+22
+23
+H. For purposes of this section, all of the following shall
+23
+24
+apply:
+24
+Req. No. 10067 Page 23
+1
+
+Section 55:
+1. "Business associate" has the same meaning as defined in
+1
+2
+
+Section 56:
+Section 160.103 of Title 45 of the Code of Federal Regulations;
+2
+3
+
+Section 57:
+2. "Covered entity" has the same meaning as defined in Section
+3
+4
+
+Section 58:
+160.103 of Title 45 of the Code of Federal Regulations;
+4
+5
+
+Section 59:
+3. "Identifiable private information" has the same meaning as
+5
+6
+defined in Section 46.102 of Title 45 of the Code of Federal
+6
+7
+Regulations;
+7
+8
+
+Section 60:
+4. "Individually identifiable health information" has the same
+8
+9
+meaning as defined in Section 160.103 of Title 45 of the Code of
+9
+10
+Federal Regulations;
+10
+11
+
+Section 61:
+5. "Medical information" means any individually identifiable
+11
+12
+information, in electronic or physical form, in possession of or
+12
+13
+derived from a provider of health care, health care service plan,
+13
+14
+pharmaceutical company, or contractor regarding a patient's medical
+14
+15
+history, mental or physical condition, or treatment;
+15
+16
+
+Section 62:
+6. "Patient information" means identifiable private
+16
+17
+information, protected health information, individually identifiable
+17
+18
+health information, or medical information;
+18
+19
+
+Section 63:
+7. "Protected health information" has the same meaning as
+19
+20
+defined in Section 160.103 of Title 45 of the Code of Federal
+20
+21
+Regulations; and
+21
+22
+
+Section 64:
+8. "Provider of health care" means a person or entity that is a
+22
+23
+covered entity.
+23
+24
+24
+Req. No. 10067 Page 24
+1
+
+Section 65:
+SECTION 5. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 901.5 of Title 17, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A right or obligation under this act does not apply to the
+4
+5
+extent that the exercise of the right or performance of the
+5
+6
+obligation infringes on a noncommercial activity of:
+6
+7
+
+Section 66:
+1. A publisher, editor, reporter or other person connected with
+7
+8
+or employed by a newspaper, magazine or other publication of general
+8
+9
+circulation, including a periodical, newsletter, pamphlet or report;
+9
+10
+
+Section 67:
+2. A radio or television station that holds a license issued by
+10
+11
+the Federal Communications Commission;
+11
+12
+
+Section 68:
+3. A nonprofit that provides programing to radio or television
+12
+13
+networks; or
+13
+14
+
+Section 69:
+4. An entity that provides an information service, including a
+14
+15
+press association or wire service.
+15
+16
+
+Section 70:
+SECTION 6. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 901.6 of Title 17, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+This act does not:
+19
+20
+
+Section 71:
+1. Restrict a business's ability to:
+20
+21
+a. comply with:
+21
+22
+(1) applicable federal, state or local laws, or
+22
+23
+23
+24
+24
+Req. No. 10067 Page 25
+1
+(2) a civil, criminal or regulatory inquiry,
+1
+2
+investigation, subpoena or summons by a federal,
+2
+3
+state or local authority,
+3
+4
+b. cooperate with a law enforcement agency concerning
+4
+5
+conduct or activity that the business, a service
+5
+6
+provider of the business or a third party reasonably
+6
+7
+and in good faith believes may violate other
+7
+8
+applicable federal, state or local laws,
+8
+9
+c. pursue or defend against a legal claim,
+9
+10
+d. detect a security incident; protect against malicious,
+10
+11
+deceptive, fraudulent or illegal activity; or
+11
+12
+prosecute those responsible for any illegal activity
+12
+13
+described by this paragraph, or
+13
+14
+e. assist another party with any of the foregoing; or
+14
+15
+
+Section 72:
+2. Require a business to violate an evidentiary privilege under
+15
+16
+federal or state law or prevent a business from disclosing to a
+16
+17
+person covered by an evidentiary privilege the personal information
+17
+18
+of a consumer as part of a privileged communication.
+18
+19
+
+Section 73:
+SECTION 7. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 901.7 of Title 17, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+A. This act shall be liberally construed to effect its purposes
+22
+23
+and to harmonize, to the extent possible, with other laws of this
+23
+24
+state relating to the privacy or protection of personal information.
+24
+Req. No. 10067 Page 26
+1
+B. To the extent of a conflict between a provision of this act
+1
+2
+and a provision of federal law, including a regulation or an
+2
+3
+interpretation of federal law, federal law controls and conflicting
+3
+4
+requirements or other provisions of this act do not apply. Further,
+4
+5
+should the federal government pass comprehensive data privacy
+5
+6
+regulations that conflict with the provisions herein, federal law
+6
+7
+shall prevail.
+7
+8
+C. To the extent of a conflict between a provision of this act
+8
+9
+and another statute of this state with respect to the privacy or
+9
+10
+protection of consumers' personal information, the provision of law
+10
+11
+that affords the greatest privacy or protection to consumers
+11
+12
+prevails.
+12
+13
+
+Section 74:
+SECTION 8. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 901.8 of Title 17, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+This act preempts and supersedes any ordinance, order or rule
+16
+17
+adopted by a political subdivision of this state relating to the
+17
+18
+collection or sale by a business of a consumer's personal
+18
+19
+information.
+19
+20
+
+Section 75:
+SECTION 9. NEW LAW A new section of law to be codified
+20
+21
+in the Oklahoma Statutes as Section 901.9 of Title 17, unless there
+21
+22
+is created a duplication in numbering, reads as follows:
+22
+23
+Except as used in Section 4 of this act, for purposes of this
+23
+24
+act, "research" means scientific, systematic study and observation,
+24
+Req. No. 10067 Page 27
+1
+including basic research or applied research that is in the public
+1
+2
+interest and that adheres to all other applicable ethics and privacy
+2
+3
+laws or studies conducted in the public interest in the area of
+3
+4
+public health. Research with personal information that may have
+4
+5
+been collected from a consumer in the course of the consumer's
+5
+6
+interactions with a business's service or device for other purposes
+6
+7
+must:
+7
+8
+
+Section 76:
+1. Be compatible with the business purpose for which the
+8
+9
+personal information was collected;
+9
+10
+
+Section 77:
+2. Be subsequently pseudonymized and de-identified, or de-
+10
+11
+identified and in the aggregate, such that the information cannot
+11
+12
+reasonably identify, relate to, describe, be capable of being
+12
+13
+associated with, or be linked, directly or indirectly, to a
+13
+14
+particular consumer;
+14
+15
+
+Section 78:
+3. Be made subject to technical safeguards that prohibit re-
+15
+16
+identification of the consumer to whom the information may pertain;
+16
+17
+
+Section 79:
+4. Be subject to business processes that specifically prohibit
+17
+18
+re-identification of the information;
+18
+19
+
+Section 80:
+5. Be made subject to business processes to prevent inadvertent
+19
+20
+release of de-identified information;
+20
+21
+
+Section 81:
+6. Be protected from any re-identification attempts;
+21
+22
+
+Section 82:
+7. Be used solely for research purposes that are compatible
+22
+23
+with the context in which the personal information was collected;
+23
+24
+
+Section 83:
+8. Not be used for any commercial purpose; and
+24
+Req. No. 10067 Page 28
+1
+
+Section 84:
+9. Be subjected by the business conducting the research to
+1
+2
+additional security controls that limit access to the research data
+2
+3
+to only those individuals in a business as are necessary to carry
+3
+4
+out the research purpose.
+4
+5
+
+Section 85:
+SECTION 10. NEW LAW A new section of law to be codified
+5
+6
+in the Oklahoma Statutes as Section 901.10 of Title 17, unless there
+6
+7
+is created a duplication in numbering, reads as follows:
+7
+8
+A. A consumer is entitled to request that a business that
+8
+9
+collects the consumer's personal information disclose to the
+9
+10
+consumer the categories and specific items of personal information
+10
+11
+the business has collected.
+11
+12
+B. To receive the disclosure of information under subsection A
+12
+13
+of this section, a consumer must submit to the business a verifiable
+13
+14
+consumer request using a method designated by the business under
+14
+15
+
+Section 86:
+Section 18 of this act.
+15
+16
+C. On receipt of a verifiable consumer request under this
+16
+17
+
+Section 87:
+section, a business shall disclose to the consumer in the time and
+17
+18
+manner provided by Section 20 of this act:
+18
+19
+
+Section 88:
+1. Each enumerated category and item within each category of
+19
+20
+personal information under paragraph 14 of Section 2 of this act
+20
+21
+that the business collected about the consumer during the twelve
+21
+22
+(12) months preceding the date of the request;
+22
+23
+
+Section 89:
+2. Each category of sources from which the information was
+23
+24
+collected;
+24
+Req. No. 10067 Page 29
+1
+
+Section 90:
+3. The business or commercial purpose for collecting or selling
+1
+2
+the personal information; and
+2
+3
+
+Section 91:
+4. Each category of third parties with whom the business shares
+3
+4
+the personal information.
+4
+5
+D. This section does not require a business to:
+5
+6
+
+Section 92:
+1. Retain a consumer's personal information that was collected
+6
+7
+for a one-time transaction if the information is not sold or
+7
+8
+retained in the ordinary course of business; or
+8
+9
+
+Section 93:
+2. Re-identify or otherwise link any data that, in the ordinary
+9
+10
+course of business, is not maintained in a manner that would be
+10
+11
+considered personal information.
+11
+12
+
+Section 94:
+SECTION 11. NEW LAW A new section of law to be codified
+12
+13
+in the Oklahoma Statutes as Section 901.11 of Title 17, unless there
+13
+14
+is created a duplication in numbering, reads as follows:
+14
+15
+A. A consumer is entitled to request that a business that
+15
+16
+collects the consumer's personal information delete any personal
+16
+17
+information the business has collected from the consumer by
+17
+18
+submitting a verifiable consumer request using a method designated
+18
+19
+by the business under Section 18 of this act.
+19
+20
+B. Except as provided by subsection C of this section, on
+20
+21
+receipt of a verifiable consumer request under this section, a
+21
+22
+business shall delete from the business's records any personal
+22
+23
+information collected from the consumer and direct a service
+23
+24
+provider of the business to delete the information from the
+24
+Req. No. 10067 Page 30
+1
+provider's records in the time provided for in Section 20 of this
+1
+2
+act.
+2
+3
+C. A business or service provider of the business is not
+3
+4
+required to comply with a verifiable consumer request received under
+4
+5
+this section if the business or service provider needs to retain the
+5
+6
+consumer's personal information to:
+6
+7
+
+Section 95:
+1. Complete the transaction for which the information was
+7
+8
+collected;
+8
+9
+
+Section 96:
+2. Provide a good or service requested by the consumer in the
+9
+10
+context of the ongoing business relationship between the business
+10
+11
+and consumer;
+11
+12
+
+Section 97:
+3. Perform under a contract between the business and the
+12
+13
+consumer;
+13
+14
+
+Section 98:
+4. Detect a security incident; protect against malicious,
+14
+15
+deceptive, fraudulent or illegal activity; or prosecute those
+15
+16
+responsible for any illegal activity described by this paragraph;
+16
+17
+
+Section 99:
+5. Identify and repair or remove errors from computer hardware
+17
+18
+or software that impair its intended functionality;
+18
+19
+
+Section 100:
+6. Exercise free speech or ensure the right of another consumer
+19
+20
+to exercise the right of free speech or another right afforded by
+20
+21
+law;
+21
+22
+
+Section 101:
+7. Comply with a court order or subpoena or other lawful
+22
+23
+process; or
+23
+24
+24
+Req. No. 10067 Page 31
+1
+
+Section 102:
+8. Engage in public or peer-reviewed scientific, historical or
+1
+2
+statistical research that is in the public interest and that adheres
+2
+3
+to all other applicable ethics and privacy laws, provided that:
+3
+4
+a. the business's deletion of the information is likely
+4
+5
+to render impossible or seriously impair the
+5
+6
+achievement of that research, and
+6
+7
+b. the consumer has previously provided to the business
+7
+8
+informed consent to retain the information for such
+8
+9
+use.
+9
+10
+D. Where a business, service provider or third party has made a
+10
+11
+consumer's personal information public, said business, service
+11
+12
+provider or third party shall:
+12
+13
+
+Section 103:
+1. Take all reasonable steps, including technical measures, to
+13
+14
+erase the personal information that the business, service provider
+14
+15
+or third party made public, taking into account available technology
+15
+16
+and the cost of implementation; and
+16
+17
+
+Section 104:
+2. Advise any other business, service provider or third party
+17
+18
+with whom a contract regarding the consumer exists that the consumer
+18
+19
+has requested the erasure of any links to, copies of or replication
+19
+20
+of that personal information.
+20
+21
+
+Section 105:
+SECTION 12. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 901.12 of Title 17, unless there
+22
+23
+is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 10067 Page 32
+1
+A. A consumer is entitled to request that a business that
+1
+2
+sells, or discloses for a business purpose, the consumer's personal
+2
+3
+information disclose to the consumer:
+3
+4
+
+Section 106:
+1. The categories of personal information the business
+4
+5
+collected about the consumer;
+5
+6
+
+Section 107:
+2. The categories of personal information about the consumer
+6
+7
+the business sold, or disclosed for a business purpose; and
+7
+8
+
+Section 108:
+3. The categories of third parties to whom the personal
+8
+9
+information was sold or disclosed.
+9
+10
+B. To receive the disclosure of information under subsection A
+10
+11
+of this section, a consumer must submit to the business a verifiable
+11
+12
+consumer request using a method designated by the business under
+12
+13
+
+Section 109:
+Section 18 of this act.
+13
+14
+C. On receipt of a verifiable consumer request under this
+14
+15
+
+Section 110:
+section, a business shall disclose to the consumer in the time and
+15
+16
+manner provided by Section 20 of this act:
+16
+17
+
+Section 111:
+1. Each enumerated category of personal information under
+17
+18
+paragraph 14 of Section 2 of this act that the business collected
+18
+19
+about the consumer during the twelve (12) months preceding the date
+19
+20
+of the request;
+20
+21
+
+Section 112:
+2. The categories of third parties to whom the business sold
+21
+22
+the consumer's personal information during the twelve (12) months
+22
+23
+preceding the date of the request by reference to each enumerated
+23
+24
+24
+Req. No. 10067 Page 33
+1
+category of information under paragraph 14 of Section 2 of this act
+1
+2
+sold to each third party; and
+2
+3
+
+Section 113:
+3. The categories of third parties to whom the business
+3
+4
+disclosed for a business purpose the consumer's personal information
+4
+5
+during the twelve (12) months preceding the date of the request by
+5
+6
+reference to each enumerated category of information under paragraph
+6
+7
+14 of Section 2 of this act disclosed to each third party.
+7
+8
+D. A business shall provide the information described by
+8
+9
+paragraphs 2 and 3 of subsection C of this section in two separate
+9
+10
+lists.
+10
+11
+E. A business that did not sell, or disclose for a business
+11
+12
+purpose, the consumer's personal information during the twelve (12)
+12
+13
+months preceding the date of receiving the consumer's verifiable
+13
+14
+consumer request under this section shall disclose that fact to the
+14
+15
+consumer.
+15
+16
+
+Section 114:
+SECTION 13. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 901.13 of Title 17, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+A. A consumer is entitled at any time to opt out of the sale of
+19
+20
+the consumer's personal information by a business to third parties
+20
+21
+by directing the business not to sell the information. A consumer
+21
+22
+may authorize another person solely to opt out of the sale of the
+22
+23
+consumer's personal information on the consumer's behalf. A
+23
+24
+24
+Req. No. 10067 Page 34
+1
+business shall comply with a direction not to sell that is received
+1
+2
+under this subsection.
+2
+3
+B. To exercise the right to opt out specified in subsection A
+3
+4
+of this section, a consumer shall submit to the business a
+4
+5
+verifiable consumer request using a method designated by the
+5
+6
+business under Section 18 of this act.
+6
+7
+C. A business that sells consumers' personal information to a
+7
+8
+third party shall provide on the business's Internet website:
+8
+9
+
+Section 115:
+1. Notice to consumers that:
+9
+10
+a. the information may be sold,
+10
+11
+b. identifies the categories of persons to whom the
+11
+12
+information will or could be sold, and
+12
+13
+c. consumers have the right to opt in to the sale via
+13
+14
+consent; and
+14
+15
+
+Section 116:
+2. A clear and conspicuous link that enables a consumer, or
+15
+16
+person authorized by the consumer, to consent to the sale of the
+16
+17
+consumer's personal information.
+17
+18
+D. A business may not sell to a third party the personal
+18
+19
+information of a consumer who does not consent to the sale of that
+19
+20
+information after the effective date of this act or after a consumer
+20
+21
+submits a verifiable request to opt out of any future sale.
+21
+22
+E. A business may use any personal information collected from
+22
+23
+the consumer in connection with the consumer's opting out under this
+23
+24
+
+Section 117:
+section solely to comply with this section.
+24
+Req. No. 10067 Page 35
+1
+F. A third party to whom a business has sold the personal
+1
+2
+information of a consumer may not sell the information unless the
+2
+3
+consumer receives explicit notice of the potential sale and is
+3
+4
+provided the opportunity to, and in fact does, consent to the sale
+4
+5
+as provided by this section.
+5
+6
+G. A business may not require a consumer to create an account
+6
+7
+with the business to opt in to the sale of the consumer's personal
+7
+8
+information.
+8
+9
+H. A business or service provider shall implement and maintain
+9
+10
+reasonable security procedures and practices, including
+10
+11
+administrative, physical and technical safeguards appropriate to the
+11
+12
+nature of the information and the purposes for which the personal
+12
+13
+information will be used, to protect consumers' personal information
+13
+14
+from unauthorized use, disclosure, access, destruction or
+14
+15
+modification, irrespective of whether a customer has consented to
+15
+16
+opt in or out of a sale of data.
+16
+17
+
+Section 118:
+SECTION 14. NEW LAW A new section of law to be codified
+17
+18
+in the Oklahoma Statutes as Section 901.14 of Title 17, unless there
+18
+19
+is created a duplication in numbering, reads as follows:
+19
+20
+A. The Legislature of the State of Oklahoma finds that
+20
+21
+individuals within Oklahoma have a right to prohibit retention, use
+21
+22
+or disclosure of their own personal data.
+22
+23
+B. The Legislature of the State of Oklahoma further finds that
+23
+24
+individuals within Oklahoma have previously been exploited for
+24
+Req. No. 10067 Page 36
+1
+monetary gain and manipulation by private ventures in utilization of
+1
+2
+private data.
+2
+3
+C. The Legislature of the State of Oklahoma further finds that
+3
+4
+the protection of individuals within Oklahoma and their data is a
+4
+5
+core governmental function in order to protect the health, safety
+5
+6
+and welfare of individuals within Oklahoma.
+6
+7
+D. The Legislature of the State of Oklahoma further finds that
+7
+8
+the terms and conditions set forth in this act are the least
+8
+9
+restrictive alternative necessary to protect individuals within
+9
+10
+Oklahoma and their rights and that the use of a strictly "opt-out"
+10
+11
+method for data privacy is ineffectual and poses an immediate risk
+11
+12
+to the health, safety and welfare of individuals within Oklahoma.
+12
+13
+
+Section 119:
+SECTION 15. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 901.15 of Title 17, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+A. A provision of a contract or other agreement that purports
+16
+17
+to waive or limit a right, remedy or means of enforcement under this
+17
+18
+act is contrary to public policy and is void.
+18
+19
+B. This section does not prevent a consumer from:
+19
+20
+
+Section 120:
+1. Declining to request information from a business;
+20
+21
+
+Section 121:
+2. Declining to consent to a business's sale of the consumer's
+21
+22
+personal information; or
+22
+23
+
+Section 122:
+3. Authorizing a business to sell the consumer's personal
+23
+24
+information after previously opting out.
+24
+Req. No. 10067 Page 37
+1
+
+Section 123:
+SECTION 16. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 901.16 of Title 17, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. After the effective date of this act, a business shall not
+4
+5
+collect a consumer's personal information directly from the consumer
+5
+6
+prior to notifying the consumer of each category of personal
+6
+7
+information to be collected and for what purposes information will
+7
+8
+be used, as well as obtaining the consumer's consent to opt in to
+8
+9
+collection, which may be provided electronically by the consumer, to
+9
+10
+collect a consumer's personal information.
+10
+11
+B. A business may not collect an additional category of
+11
+12
+personal information directly from the consumer or use personal
+12
+13
+information collected for an additional purpose unless the business
+13
+14
+provides notice to the consumer of the additional category or
+14
+15
+purpose in accordance with subsection A of this section.
+15
+16
+C. If a third party that assumes control of all or part of a
+16
+17
+business as described by subparagraph c of paragraph 2 of subsection
+17
+18
+C of Section 3 of this act materially alters the practices of the
+18
+19
+business in how personal information is used or shared, and the
+19
+20
+practices are materially inconsistent with a notice provided to a
+20
+21
+consumer under subsection A or B of this section, the third party
+21
+22
+must notify the consumer of the third party's new or changed
+22
+23
+practices in a conspicuous manner that allows the consumer to easily
+23
+24
+24
+Req. No. 10067 Page 38
+1
+exercise a right provided under this act before the third-party
+1
+2
+collector uses or shares the personal information.
+2
+3
+D. Subsection C of this section does not authorize a business
+3
+4
+to make a material, retroactive change or other change to a
+4
+5
+business's privacy policy in a manner that would be a deceptive
+5
+6
+trade practice actionable under Oklahoma law.
+6
+7
+
+Section 124:
+SECTION 17. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 901.17 of Title 17, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. A business that collects, sells or for a business purpose
+10
+11
+discloses a consumer's personal information shall disclose the
+11
+12
+following information in the business's online privacy policy or
+12
+13
+other notice of the business's policies:
+13
+14
+
+Section 125:
+1. A description of a consumer's rights under Sections 10, 11,
+14
+15
+12, 13 and 16 of this act and designated methods for submitting a
+15
+16
+verifiable consumer request under this act;
+16
+17
+
+Section 126:
+2. For a business that collects personal information about
+17
+18
+consumers, a description of the consumer's right to request the
+18
+19
+deletion of the consumer's personal information;
+19
+20
+
+Section 127:
+3. Separate lists containing the categories of consumers'
+20
+21
+personal information described by paragraph 14 of Section 2 of this
+21
+22
+act that, during the twelve (12) months preceding the date the
+22
+23
+business updated the information as required by subsection C of this
+23
+24
+
+Section 128:
+section, the business:
+24
+Req. No. 10067 Page 39
+1
+a. collected,
+1
+2
+b. sold, if applicable, or
+2
+3
+c. disclosed for a business purpose, if applicable;
+3
+4
+
+Section 129:
+4. The categories of sources from which the information under
+4
+5
+paragraph 3 of this subsection is collected;
+5
+6
+
+Section 130:
+5. The business or commercial purposes for collecting personal
+6
+7
+information;
+7
+8
+
+Section 131:
+6. If the business does not sell consumers' personal
+8
+9
+information or disclose the information for a business or commercial
+9
+10
+purpose, a statement of that fact;
+10
+11
+
+Section 132:
+7. The categories of third parties to whom the business sells
+11
+12
+or discloses personal information;
+12
+13
+
+Section 133:
+8. If the business sells consumers' personal information, the
+13
+14
+Internet link required by subsection C of Section 13 of this act;
+14
+15
+and
+15
+16
+
+Section 134:
+9. If applicable, the financial incentives offered to consumers
+16
+17
+under Section 23 of this act.
+17
+18
+B. If a business described by subsection A of this section does
+18
+19
+not have an online privacy policy or other notice of the business's
+19
+20
+policies, the business shall make the information required under
+20
+21
+subsection A of this section available to consumers on the
+21
+22
+business's Internet website or another website the business
+22
+23
+maintains that is dedicated to consumers in this state.
+23
+24
+24
+Req. No. 10067 Page 40
+1
+C. A business must update the information required by
+1
+2
+subsection A of this section at least once each year.
+2
+3
+
+Section 135:
+SECTION 18. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 901.18 of Title 17, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. A business shall designate and make available to consumers,
+6
+7
+in a form that is reasonably accessible, at least two methods for
+7
+8
+submitting a verifiable consumer request for information required to
+8
+9
+be disclosed or deleted under this act. The methods must include,
+9
+10
+at a minimum:
+10
+11
+
+Section 136:
+1. A toll-free telephone number that a consumer may call to
+11
+12
+submit the request; and
+12
+13
+
+Section 137:
+2. The business's Internet website at which the consumer may
+13
+14
+submit the request.
+14
+15
+B. The methods designated under subsection A of this section
+15
+16
+may also include:
+16
+17
+
+Section 138:
+1. A mailing address;
+17
+18
+
+Section 139:
+2. An electronic mail address; or
+18
+19
+
+Section 140:
+3. Another Internet webpage or portal.
+19
+20
+C. A business may not require a consumer to create an account
+20
+21
+with the business to submit a verifiable consumer request.
+21
+22
+
+Section 141:
+SECTION 19. NEW LAW A new section of law to be codified
+22
+23
+in the Oklahoma Statutes as Section 901.19 of Title 17, unless there
+23
+24
+is created a duplication in numbering, reads as follows:
+24
+Req. No. 10067 Page 41
+1
+A. A business that receives a verifiable consumer request under
+1
+2
+
+Section 142:
+Section 10, 11, 12 or 13 of this act shall promptly take steps to
+2
+3
+reasonably verify that:
+3
+4
+
+Section 143:
+1. The consumer who is the subject of the request is a consumer
+4
+5
+about whom the business has collected, sold, or for a business
+5
+6
+purpose disclosed personal information; and
+6
+7
+
+Section 144:
+2. The request is made by:
+7
+8
+a. the consumer,
+8
+9
+b. a consumer on behalf of the consumer's minor child, or
+9
+10
+c. a person authorized to act on the consumer's behalf.
+10
+11
+B. A business may use any personal information collected from
+11
+12
+the consumer in connection with the business's verification of a
+12
+13
+request under this section solely to verify the request.
+13
+14
+C. A business that is unable to verify a consumer request under
+14
+15
+this section is not required to comply with the request.
+15
+16
+
+Section 145:
+SECTION 20. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 901.20 of Title 17, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+A. Not later than forty-five (45) days after the date a
+19
+20
+business receives a verifiable consumer request under Section 10,
+20
+21
+11, 12 or 13 of this act, the business shall disclose free of charge
+21
+22
+to the consumer the information required to be disclosed under those
+22
+23
+
+Section 146:
+sections or take the requested actions, as applicable.
+23
+24
+24
+Req. No. 10067 Page 42
+1
+B. A business may extend the time in which to comply with
+1
+2
+subsection A of this section once by an additional forty-five (45)
+2
+3
+days if reasonably necessary or by an additional ninety (90) days
+3
+4
+after taking into account the number and complexity of verifiable
+4
+5
+consumer requests received by the business. A business that extends
+5
+6
+the time in which to comply with subsection A of this section shall
+6
+7
+notify the consumer of the extension and reason for the delay within
+7
+8
+the period prescribed by that subsection.
+8
+9
+C. The disclosure required by subsection A of this section
+9
+10
+must:
+10
+11
+
+Section 147:
+1. Cover personal information collected, sold or disclosed for
+11
+12
+a business purpose, as applicable, during the twelve (12) months
+12
+13
+preceding the date the business receives the request; and
+13
+14
+
+Section 148:
+2. Be made in writing and delivered to the consumer:
+14
+15
+a. by mail or electronically, at the consumer's option,
+15
+16
+if the consumer does not have an account with the
+16
+17
+business, or
+17
+18
+b. through the consumer's account with the business.
+18
+19
+D. An electronic disclosure under subsection C of this section
+19
+20
+must be in a readily accessible format that allows the consumer to
+20
+21
+electronically transmit the information to another person or entity.
+21
+22
+E. A business is not required to make the disclosure required
+22
+23
+by subsection A of this section to the same consumer more than once
+23
+24
+in a twelve-month period.
+24
+Req. No. 10067 Page 43
+1
+F. Notwithstanding subsection A of this section, if a
+1
+2
+consumer's verifiable consumer request is manifestly baseless or
+2
+3
+excessive, in particular because of repetitiveness, a business may
+3
+4
+charge a reasonable fee after taking into account the administrative
+4
+5
+costs of compliance or refusal to comply with the request. The
+5
+6
+business has the burden of demonstrating that a request is
+6
+7
+manifestly baseless or excessive.
+7
+8
+G. A business that does not comply with a consumer's verifiable
+8
+9
+consumer request under subsection A of this section shall notify the
+9
+10
+consumer, within the time the business is required to respond to a
+10
+11
+request under this section, of the reasons for the refusal and the
+11
+12
+rights the consumer may have to appeal that decision.
+12
+13
+
+Section 149:
+SECTION 21. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 901.21 of Title 17, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+A. A business that uses de-identified information may not re-
+16
+17
+identify or attempt to re-identify a consumer who is the subject of
+17
+18
+de-identified information without obtaining the consumer's consent
+18
+19
+or authorization.
+19
+20
+B. A business that uses de-identified information shall
+20
+21
+implement:
+21
+22
+
+Section 150:
+1. Technical safeguards and business processes to prohibit re-
+22
+23
+identification of the consumer to whom the information may pertain;
+23
+24
+and
+24
+Req. No. 10067 Page 44
+1
+
+Section 151:
+2. Business processes to prevent inadvertent release of de-
+1
+2
+identified information.
+2
+3
+C. This act may not be construed to require a business to re-
+3
+4
+identify or otherwise link information that is not maintained in a
+4
+5
+manner that would be considered personal information.
+5
+6
+
+Section 152:
+SECTION 22. NEW LAW A new section of law to be codified
+6
+7
+in the Oklahoma Statutes as Section 901.22 of Title 17, unless there
+7
+8
+is created a duplication in numbering, reads as follows:
+8
+9
+A. A business may not discriminate against a consumer because
+9
+10
+the consumer exercised a right under this act, including by:
+10
+11
+
+Section 153:
+1. Denying a good or service to the consumer;
+11
+12
+
+Section 154:
+2. Charging the consumer a different price or rate for a good
+12
+13
+or service, including denying the use of a discount or other benefit
+13
+14
+or imposing a penalty;
+14
+15
+
+Section 155:
+3. Providing a different level or quality of a good or service
+15
+16
+to the consumer; or
+16
+17
+
+Section 156:
+4. Suggesting that the consumer will be charged a different
+17
+18
+price or rate for, or provided a different level or quality of, a
+18
+19
+good or service.
+19
+20
+B. This section does not prohibit a business from offering or
+20
+21
+charging a consumer a different price or rate for a good or service,
+21
+22
+or offering or providing to the consumer a different level or
+22
+23
+quality of a good or service, if the difference is reasonably
+23
+24
+24
+Req. No. 10067 Page 45
+1
+related to the value provided to the consumer by the consumer's
+1
+2
+data.
+2
+3
+
+Section 157:
+SECTION 23. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 901.23 of Title 17, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. Subject to subsection B of this section, a business may
+6
+7
+offer a financial incentive to a consumer, including a payment as
+7
+8
+compensation, for the collection, sale or disclosure of the
+8
+9
+consumer's personal information.
+9
+10
+B. A business may enroll a customer in a financial incentive
+10
+11
+program only if the business provides to the consumer a clear
+11
+12
+description of the material terms of the program and obtains the
+12
+13
+consumer's prior opt-in consent, which:
+13
+14
+
+Section 158:
+1. Contains a clear description of those material terms; and
+14
+15
+
+Section 159:
+2. May be revoked by the consumer at any time.
+15
+16
+C. A business may not use financial incentive practices that
+16
+17
+are unjust, unreasonable, coercive or usurious in nature.
+17
+18
+
+Section 160:
+SECTION 24. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 901.24 of Title 17, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+A. A business may not divide a single transaction into more
+21
+22
+than one transaction with the intent to avoid the requirements of
+22
+23
+this act.
+23
+24
+24
+Req. No. 10067 Page 46
+1
+B. For purposes of this act, two or more substantially similar
+1
+2
+or related transactions are considered a single transaction if the
+2
+3
+transactions:
+3
+4
+
+Section 161:
+1. Are entered into contemporaneously; and
+4
+5
+
+Section 162:
+2. Have at least one common party.
+5
+6
+C. A court shall disregard any intermediate transactions
+6
+7
+conducted by a business with the intent to avoid the requirements of
+7
+8
+this act, including the disclosure of information by a business to a
+8
+9
+third party to avoid complying with the requirements under this act
+9
+10
+applicable to a sale of the information.
+10
+11
+
+Section 163:
+SECTION 25. NEW LAW A new section of law to be codified
+11
+12
+in the Oklahoma Statutes as Section 901.25 of Title 17, unless there
+12
+13
+is created a duplication in numbering, reads as follows:
+13
+14
+A business shall ensure that each person responsible for
+14
+15
+handling consumer inquiries about the business's privacy practices
+15
+16
+or compliance with this act is informed of the requirements of this
+16
+17
+act and of how to direct a consumer in exercising any of the rights
+17
+18
+to which a consumer is entitled under this act.
+18
+19
+
+Section 164:
+SECTION 26. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 901.26 of Title 17, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+A. A person who violates this act is liable to this state for
+22
+23
+injunctive relief and/or a civil penalty in an amount not to exceed:
+23
+24
+24
+Req. No. 10067 Page 47
+1
+
+Section 165:
+1. Two Thousand Five Hundred Dollars ($2,500.00) for each
+1
+2
+violation; or
+2
+3
+
+Section 166:
+2. Seven Thousand Five Hundred Dollars ($7,500.00) for each
+3
+4
+violation, if the violation is intentional.
+4
+5
+B. The Oklahoma Attorney General is entitled to recover
+5
+6
+reasonable expenses, including reasonable attorney fees, court costs
+6
+7
+and investigatory costs, incurred in obtaining injunctive relief or
+7
+8
+civil penalties, or both, under this section. Amounts collected
+8
+9
+under this section shall be deposited in a dedicated account in the
+9
+10
+General Revenue Fund and shall be appropriated only for the purposes
+10
+11
+of the administration and enforcement of this act.
+11
+12
+
+Section 167:
+SECTION 27. NEW LAW A new section of law to be codified
+12
+13
+in the Oklahoma Statutes as Section 901.27 of Title 17, unless there
+13
+14
+is created a duplication in numbering, reads as follows:
+14
+15
+A business that discloses to a third party, or discloses for a
+15
+16
+business purpose to a service provider, a consumer's personal
+16
+17
+information in compliance with this act may not be held liable for a
+17
+18
+violation of this act by the third party or service provider if the
+18
+19
+business does not have actual knowledge or a reasonable belief that
+19
+20
+the third party or service provider intends to violate this act.
+20
+21
+
+Section 168:
+SECTION 28. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 901.28 of Title 17, unless there
+22
+23
+is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 10067 Page 48
+1
+A business's service provider may not be held liable for a
+1
+2
+violation of this act by the business.
+2
+3
+
+Section 169:
+SECTION 29. This act shall become effective one (1) year after
+3
+4
+enactment.
+4
+5
+5
+6
+60-1-10067 MJ 11/18/24
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 10067 Page 49
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P a k g s]
+[DELETED:  P t a d i u]
+[DELETED:  P d u p m p u u]
+[DELETED:  P v i r a]
+[DELETED:  P r g s]
+[DELETED:  P a]
+[DELETED:  P a a c a a a o b I b o g]
+[DELETED:  P a p e f m h i]
+[DELETED:  P b d p]
+[DELETED:  P f a a p s r r i]
+[DELETED:  P a a a a a a t t]
+[DELETED:  P d c a s h a]
+[DELETED:  P d o c p]
+[DELETED:  P u u t t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P i i]
+[DELETED:  P r u t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P c a]
+[DELETED:  P a c p d a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t i c]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P c s d]
+[DELETED:  P]
+[DELETED:  P t a a]
+[DELETED:  P b t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+HOUSE BILL 1012 By: West (Josh)
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to privacy of computer data; enacting
+7
+the Oklahoma Computer Data Privacy Act; defining
+8
+terms; providing for applicability of act to certain
+8
+businesses that collect consumers' personal
+9
+information; providing exemptions; prescribing
+9
+compliance with other laws and legal proceedings;
+10
+requiring act to be liberally construed to align its
+10
+effects with other laws relating to privacy and
+11
+protection of personal information; providing for
+11
+controlling effect of federal law; providing for
+12
+construction in event of conflict with state law;
+12
+providing for controlling effect of law which
+13
+provides greatest privacy or protection to consumers;
+13
+providing for preemption of local law; providing
+14
+consumers right to request disclosure of certain
+14
+information; providing consumers right to request
+15
+deletion of certain information; providing consumers
+15
+the right to request and receive a disclosure of
+16
+personal information sold or disclosed; providing
+16
+consumers right to opt in and out of the sale of
+17
+personal information; making legislative findings;
+17
+providing contracts or other agreements purporting to
+18
+waive or limit a right, remedy or means of
+18
+enforcement contrary to public policy; requiring
+19
+businesses collecting consumer data information
+19
+inform consumer of certain information collected;
+20
+prescribing required content of disclosures;
+20
+requiring consumer consent; requiring businesses to
+21
+provide online privacy policy or a notice of
+21
+policies; requiring businesses to designate and make
+22
+available methods for submitting verifiable consumer
+22
+request for certain information; requiring businesses
+23
+receiving verifiable consumer requests reasonably
+23
+verify identity of requesting consumer; requiring
+24
+businesses disclose required information within a
+24
+Req. No. 10067 Page 1
+
+1
+certain period; requiring businesses using de-
+1
+identified information not re-identify or attempt to
+2
+re-identify certain consumers; requiring permission;
+2
+prohibiting discrimination against consumers for
+3
+exercise of rights; authorizing businesses to offer
+3
+financial incentives to consumers for collection,
+4
+sale or disclosure of personal information;
+4
+prohibiting division of single transactions;
+5
+requiring employee training with respect to consumer
+5
+inquiries; requiring disclosure of certain rights,
+6
+requirements and information; providing civil
+6
+penalties; authorizing Oklahoma Attorney General to
+7
+take certain actions based on violations; authorizing
+7
+Attorney General to recover reasonable expenses
+8
+incurred in obtaining injunctive relief or civil
+8
+penalties; directing Attorney General to deposit
+9
+collected penalties in a dedicated account in the
+9
+General Revenue Fund; providing certain immunities;
+10
+providing protections to service providers; providing
+10
+for codification; and providing an effective date.
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+SECTION 1. NEW LAW A new section of law to be codified
+14
+15
+in the Oklahoma Statutes as Section 901.1 of Title 17, unless there
+15
+16
+is created a duplication in numbering, reads as follows:
+16
+17
+This act shall be known and may be cited as the "Oklahoma
+17
+18
+Computer Data Privacy Act".
+18
+19
+SECTION 2. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 901.2 of Title 17, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+As used in this act:
+22
+23
+1. "Aggregate consumer information" means information that
+23
+24
+relates to a group or category of consumers from which individual
+24
+Req. No. 10067 Page 2
+
+1
+consumer identities have been removed and that is not linked or
+1
+2
+reasonably linkable to a particular consumer or household, including
+2
+3
+through a device. The term does not include one or more individual
+3
+4
+consumer records that have been de-identified;
+4
+5
+2. "Biometric information" means an individual's physiological,
+5
+6
+biological or behavioral characteristics that can be used, alone or
+6
+7
+in combination with other characteristics or other identifying data,
+7
+8
+to establish the individual's identity. The term includes:
+8
+9
+a. an image of an iris, retina, fingerprint, face, hand,
+9
+10
+palm or vein pattern or a voice recording from which
+10
+11
+an identifier template can be extracted such as a
+11
+12
+faceprint, minutiae template or voiceprint,
+12
+13
+b. keystroke patterns or rhythms,
+13
+14
+c. gait patterns or rhythms, and
+14
+15
+d. sleep, health or exercise data that contains
+15
+16
+identifying information;
+16
+17
+3. "Business" means a for-profit entity, including a sole
+17
+18
+proprietorship, partnership, limited liability company, corporation,
+18
+19
+association or other legal entity that is organized or operated for
+19
+20
+the profit or financial benefit of the entity's shareholders or
+20
+21
+other owners, but does not include Internet service providers so
+21
+22
+long as they are acting in their role as Internet service providers;
+22
+23
+4. "Business purpose" means the use of personal information
+23
+24
+for:
+24
+Req. No. 10067 Page 3
+
+1
+a. the following operational purposes of a business or
+1
+2
+service provider, provided that the use of the
+2
+3
+information is reasonably necessary and proportionate
+3
+4
+to achieve the operational purpose for which the
+4
+5
+information was collected or processed or another
+5
+6
+operational purpose that is compatible with the
+6
+7
+context in which the information was collected:
+7
+8
+(1) auditing related to a current interaction with a
+8
+9
+consumer and any concurrent transactions,
+9
+10
+including counting ad impressions of unique
+10
+11
+visitors, verifying the positioning and quality
+11
+12
+of ad impressions, and auditing compliance with a
+12
+13
+specification or other standards for ad
+13
+14
+impressions,
+14
+15
+(2) detecting a security incident, protecting against
+15
+16
+malicious, deceptive, fraudulent or illegal
+16
+17
+activity, and prosecuting those responsible for
+17
+18
+any illegal activity described by this division,
+18
+19
+(3) identifying and repairing or removing errors that
+19
+20
+impair the intended functionality of computer
+20
+21
+hardware or software,
+21
+22
+(4) using personal information in the short term or
+22
+23
+for a transient use, provided that the
+23
+24
+information is not:
+24
+Req. No. 10067 Page 4
+
+1
+(a) disclosed to a third party, and
+1
+2
+(b) used to build a profile about a consumer or
+2
+3
+alter an individual consumer's experience
+3
+4
+outside of a current interaction with the
+4
+5
+consumer, including the contextual
+5
+6
+customization of an advertisement displayed
+6
+7
+as part of the same interaction,
+7
+8
+(5) performing a service on behalf of the business or
+8
+9
+service provider, including:
+9
+10
+(a) maintaining or servicing an account,
+10
+11
+providing customer service, processing or
+11
+12
+fulfilling an order or transaction,
+12
+13
+verifying customer information, processing a
+13
+14
+payment, providing financing, providing
+14
+15
+advertising or marketing services, or
+15
+16
+providing analytic services, or
+16
+17
+(b) performing a service similar to a service
+17
+18
+described by subdivision (a) of this
+18
+19
+division on behalf of the business or
+19
+20
+service provider,
+20
+21
+(6) undertaking internal research for technological
+21
+22
+development and demonstration,
+22
+23
+(7) undertaking an activity to:
+23
+24
+24
+Req. No. 10067 Page 5
+
+1
+(a) verify or maintain the quality or safety of
+1
+2
+a service or device that is owned by,
+2
+3
+manufactured by, manufactured for or
+3
+4
+controlled by the business, or
+4
+5
+(b) improve, upgrade or enhance a service or
+5
+6
+device described by subdivision (a) of this
+6
+7
+division, or
+7
+8
+(8) retention of employment data, or
+8
+9
+b. another operational purpose for which notice is given
+9
+10
+under this act, but specifically excepting cross-
+10
+11
+context targeted advertising, unless the customer has
+11
+12
+opted in to the same;
+12
+13
+5. "Collect" means to buy, rent, gather, obtain, receive or
+13
+14
+access the personal information of a consumer by any means,
+14
+15
+including by actively or passively receiving the information from
+15
+16
+the consumer or by observing the consumer's behavior;
+16
+17
+6. "Commercial purpose" means a purpose that is intended to
+17
+18
+result in a profit or other tangible benefit or the advancement of a
+18
+19
+person's commercial or economic interests, such as by inducing
+19
+20
+another person to buy, rent, lease, subscribe to, provide or
+20
+21
+exchange products, goods, property, information or services or by
+21
+22
+enabling or effecting, directly or indirectly, a commercial
+22
+23
+transaction. The term does not include the purpose of engaging in
+23
+24
+24
+Req. No. 10067 Page 6
+
+1
+speech recognized by state or federal courts as noncommercial
+1
+2
+speech, including political speech and journalism;
+2
+3
+7. "Consumer" means an individual who is a resident of this
+3
+4
+state;
+4
+5
+8. "De-identified information" means information that cannot
+5
+6
+reasonably identify, relate to, describe, be associated with, or be
+6
+7
+linked to, directly or indirectly, a particular consumer;
+7
+8
+9. "Device" means any physical object capable of connecting to
+8
+9
+the Internet, directly or indirectly, or to another device;
+9
+10
+10. "Genetic information" means any information, regardless of
+10
+11
+its format, that concerns a consumer's genetic characteristics.
+11
+12
+Genetic information includes, but is not limited to:
+12
+13
+a. raw sequence data that result from sequencing of a
+13
+14
+consumer's complete extracted or a portion of the
+14
+15
+extracted DNA,
+15
+16
+b. genotypic and phenotypic information that results from
+16
+17
+analyzing the raw sequence data, and
+17
+18
+c. self-reported health information that consumer submits
+18
+19
+to a company regarding the consumer's health
+19
+20
+conditions and that is used for scientific research or
+20
+21
+product development and analyzed in connection with
+21
+22
+the consumer's raw sequence data;
+22
+23
+11. "Identifier" means data elements or other information that
+23
+24
+alone or in conjunction with other information can be used to
+24
+Req. No. 10067 Page 7
+
+1
+identify a particular consumer, household or device that is linked
+1
+2
+to a particular consumer or household;
+2
+3
+12. "Internet service provider" means a person who provides a
+3
+4
+mass-market retail service by wire or radio that provides the
+4
+5
+capability to transmit data and to receive data from all or
+5
+6
+substantially all Internet endpoints, including any capabilities
+6
+7
+that are incidental to and enable the operations of the service,
+7
+8
+excluding dial-up Internet access service;
+8
+9
+13. "Person" means an individual, sole proprietorship, firm,
+9
+10
+partnership, joint venture, syndicate, business trust, company,
+10
+11
+corporation, limited liability company, association, committee and
+11
+12
+any other organization or group of persons acting in concert;
+12
+13
+14. "Personal information" means information that identifies,
+13
+14
+relates to, describes, can be associated with or can reasonably be
+14
+15
+linked to, directly or indirectly, a particular consumer or
+15
+16
+household. The term includes the following categories of
+16
+17
+information if the information identifies, relates to, describes,
+17
+18
+can be associated with or can reasonably be linked to, directly or
+18
+19
+indirectly, a particular consumer or household:
+19
+20
+a. an identifier, including a real name, alias, mailing
+20
+21
+address, account name, date of birth, driver license
+21
+22
+number, unique identifier, Social Security number,
+22
+23
+passport number, signature, telephone number or other
+23
+24
+24
+Req. No. 10067 Page 8
+
+1
+government-issued identification number, or other
+1
+2
+similar identifier,
+2
+3
+b. an online identifier, including an electronic mail
+3
+4
+address or Internet Protocol address, or other similar
+4
+5
+identifier,
+5
+6
+c. a physical characteristic or description, including a
+6
+7
+characteristic of a protected classification under
+7
+8
+state or federal law,
+8
+9
+d. commercial information, including:
+9
+10
+(1) a record of personal property,
+10
+11
+(2) a good or service purchased, obtained or
+11
+12
+considered,
+12
+13
+(3) an insurance policy number, or
+13
+14
+(4) other purchasing or consuming histories or
+14
+15
+tendencies,
+15
+16
+e. biometric information and genetic information,
+16
+17
+f. Internet or other electronic network activity
+17
+18
+information, including:
+18
+19
+(1) browsing or search history, and
+19
+20
+(2) other information regarding a consumer's
+20
+21
+interaction with an Internet website, application
+21
+22
+or advertisement,
+22
+23
+g. geolocation data,
+23
+24
+24
+Req. No. 10067 Page 9
+
+1
+h. audio, electronic, visual, thermal, olfactory or other
+1
+2
+similar information,
+2
+3
+i. professional or employment-related information,
+3
+4
+j. education information that is not publicly available
+4
+5
+that includes personally identifiable information
+5
+6
+under the federal Family Educational Rights and
+6
+7
+Privacy Act of 1974,
+7
+8
+k. financial information, including a financial
+8
+9
+institution account number, credit or debit card
+9
+10
+number, or password or access code associated with a
+10
+11
+credit or debit card or bank account,
+11
+12
+l. medical information,
+12
+13
+m. health insurance information, or
+13
+14
+n. inferences drawn from any of the information listed
+14
+15
+under this paragraph to create a profile about a
+15
+16
+consumer that reflects the consumer's preferences,
+16
+17
+characteristics, psychological trends,
+17
+18
+predispositions, behavior, attitudes, intelligence,
+18
+19
+abilities or aptitudes;
+19
+20
+15. "Processing information" means performing any operation or
+20
+21
+set of operations on personal data or on sets of personal data,
+21
+22
+whether or not by automated means;
+22
+23
+16. "Pseudonymize" or "pseudonymization" means the processing
+23
+24
+of personal information in a manner that renders the personal
+24
+Req. No. 10067 Page 10
+
+1
+information no longer attributable to a specific consumer without
+1
+2
+the use of additional information, provided that the additional
+2
+3
+information is kept separately and is subject to technical and
+3
+4
+organizational measures to ensure that the personal information is
+4
+5
+not attributed to an identified or identifiable consumer;
+5
+6
+17. "Publicly available information" means information that is
+6
+7
+lawfully made available to the public from federal, state or local
+7
+8
+government records or information received from widely distributed
+8
+9
+media or by the consumer in the public domain. The term does not
+9
+10
+include:
+10
+11
+a. biometric information or genetic information of a
+11
+12
+consumer collected by a business without the
+12
+13
+consumer's knowledge or consent, or
+13
+14
+b. de-identified or aggregate consumer information;
+14
+15
+18. "Service provider" means a for-profit entity as described
+15
+16
+by paragraph 3 of this section that processes information on behalf
+16
+17
+of a business and to which the business discloses, for a business
+17
+18
+purpose, a consumer's personal information under a written contract,
+18
+19
+provided that the contract prohibits the entity receiving the
+19
+20
+information from retaining, using or disclosing the information for
+20
+21
+any purpose other than:
+21
+22
+a. providing the services specified in the contract with
+22
+23
+the business, or
+23
+24
+24
+Req. No. 10067 Page 11
+
+1
+b. for a purpose permitted by this act, including for a
+1
+2
+commercial purpose other than providing those
+2
+3
+specified services;
+3
+4
+19. "Third party" means a person who is not:
+4
+5
+a. a business to which this act applies that collects
+5
+6
+personal information from consumers, or
+6
+7
+b. a person to whom the business discloses, for a
+7
+8
+business purpose, a consumer's personal information
+8
+9
+under a written contract, provided that the contract:
+9
+10
+(1) prohibits the person receiving the information
+10
+11
+from:
+11
+12
+(a) selling the information,
+12
+13
+(b) retaining, using or disclosing the
+13
+14
+information for any purpose other than
+14
+15
+providing the services specified in the
+15
+16
+contract, including for a commercial purpose
+16
+17
+other than providing those services, and
+17
+18
+(c) retaining, using or disclosing the
+18
+19
+information outside of the direct business
+19
+20
+relationship between the person and the
+20
+21
+business, and
+21
+22
+(2) includes a certification made by the person
+22
+23
+receiving the personal information that the
+23
+24
+person understands and will comply with the
+24
+Req. No. 10067 Page 12
+
+1
+prohibitions under division (1) of this
+1
+2
+subparagraph;
+2
+3
+20. "Unique identifier" means a persistent identifier that can
+3
+4
+be used over time and across different services to recognize a
+4
+5
+consumer, a custodial parent or guardian, or any minor children over
+5
+6
+which the parent or guardian has custody, or a device that is linked
+6
+7
+to those individuals. The term includes:
+7
+8
+a. a device identifier,
+8
+9
+b. an Internet Protocol address,
+9
+10
+c. a cookie, beacon, pixel tag, mobile ad identifier or
+10
+11
+similar technology,
+11
+12
+d. a customer number, unique pseudonym or user alias,
+12
+13
+e. a telephone number, and
+13
+14
+f. another form of a persistent or probabilistic
+14
+15
+identifier that can be used to identify a particular
+15
+16
+consumer or device;
+16
+17
+21. "Verifiable consumer request" means a request:
+17
+18
+a. that is made by a consumer, a consumer on behalf of
+18
+19
+the consumer's minor child, or a natural person or
+19
+20
+person who is authorized by a consumer to act on the
+20
+21
+consumer's behalf, and
+21
+22
+b. that a business can reasonably verify, in accordance
+22
+23
+with Section 19 of this act, was submitted by the
+23
+24
+24
+Req. No. 10067 Page 13
+
+1
+consumer about whom the business has collected
+1
+2
+personal information; and
+2
+3
+22. "Consent" means an act that clearly and conspicuously
+3
+4
+communicates the individual's authorization of an act or practice
+4
+5
+that is made in the absence of any mechanism in the user interface
+5
+6
+that has the purpose or substantial effect of obscuring, subverting
+6
+7
+or impairing decision-making or choice to obtain consent.
+7
+8
+SECTION 3. NEW LAW A new section of law to be codified
+8
+9
+in the Oklahoma Statutes as Section 901.3 of Title 17, unless there
+9
+10
+is created a duplication in numbering, reads as follows:
+10
+11
+A. This act applies only to:
+11
+12
+1. A business that:
+12
+13
+a. does business in this state,
+13
+14
+b. collects consumers' personal information or has that
+14
+15
+information collected on the business's behalf,
+15
+16
+c. alone or in conjunction with others, determines the
+16
+17
+purpose for and means of processing consumers'
+17
+18
+personal information, and
+18
+19
+d. satisfies one or more of the following thresholds:
+19
+20
+(1) has annual gross revenue in an amount that
+20
+21
+exceeds Fifteen Million Dollars ($15,000,000.00),
+21
+22
+(2) alone or in combination with others, annually
+22
+23
+buys, sells or receives or shares for commercial
+23
+24
+purposes the personal information of fifty
+24
+Req. No. 10067 Page 14
+
+1
+thousand or more consumers, households or
+1
+2
+devices, or
+2
+3
+(3) derives twenty-five percent (25%) or more of the
+3
+4
+business's annual revenue from selling consumers'
+4
+5
+personal information; and
+5
+6
+2. An entity that controls or is controlled by a business
+6
+7
+described by paragraph 1 of this subsection and that shares the same
+7
+8
+or substantially similar brand name and/or common database for
+8
+9
+consumers' personal information. For purposes of this paragraph,
+9
+10
+"control" means the:
+10
+11
+a. ownership of, or power to vote, more than fifty
+11
+12
+percent (50%) of the outstanding shares of any class
+12
+13
+of voting security of a business,
+13
+14
+b. control in any manner over the election of a majority
+14
+15
+of the directors or of individuals exercising similar
+15
+16
+functions, or
+16
+17
+c. power to exercise a controlling influence over the
+17
+18
+management of a company.
+18
+19
+B. For purposes of this act, a business sells a consumer's
+19
+20
+personal information to another business or a third party if the
+20
+21
+business sells, rents, discloses, disseminates, makes available,
+21
+22
+transfers or otherwise communicates, orally, in writing, or by
+22
+23
+electronic or other means, the information to the other business or
+23
+24
+third party for monetary or other valuable consideration.
+24
+Req. No. 10067 Page 15
+
+1
+C. For purposes of this act, a business does not sell a
+1
+2
+consumer's personal information if:
+2
+3
+1. The consumer directs the business to intentionally disclose
+3
+4
+the information or uses the business to intentionally interact with
+4
+5
+a third party, provided that the third party does not sell the
+5
+6
+information, unless that disclosure is consistent with this act; or
+6
+7
+2. The business:
+7
+8
+a. uses or shares an identifier of the consumer to alert
+8
+9
+a third party that the consumer has opted out of the
+9
+10
+sale of the information,
+10
+11
+b. uses or shares with a service provider a consumer's
+11
+12
+personal information that is necessary to perform a
+12
+13
+business purpose if:
+13
+14
+(1) the business provided notice that the information
+14
+15
+is being used or shared in the business's terms
+15
+16
+and conditions consistent with Sections 13 and 17
+16
+17
+of this act, and
+17
+18
+(2) the service provider does not further collect,
+18
+19
+sell or use the information except as necessary
+19
+20
+to perform the business purpose, or
+20
+21
+c. transfers to a third party a consumer's personal
+21
+22
+information as an asset that is part of a merger,
+22
+23
+acquisition, bankruptcy or other transaction in which
+23
+24
+the third party assumes control of all or part of the
+24
+Req. No. 10067 Page 16
+
+1
+business, provided that information is used or shared
+1
+2
+consistent with this act.
+2
+3
+D. For purposes of paragraph 1 of subsection C of this section,
+3
+4
+an intentional interaction occurs if the consumer does one or more
+4
+5
+deliberate acts with the intent to interact with a third party.
+5
+6
+Placing a cursor over, muting, pausing or closing online content
+6
+7
+does not constitute a consumer's intent to interact with a third
+7
+8
+party. Instead, said deliberate act must be consent to such
+8
+9
+interaction as defined herein.
+9
+10
+SECTION 4. NEW LAW A new section of law to be codified
+10
+11
+in the Oklahoma Statutes as Section 901.4 of Title 17, unless there
+11
+12
+is created a duplication in numbering, reads as follows:
+12
+13
+A. This act does not apply to:
+13
+14
+1. Publicly available information;
+14
+15
+2. Medical information governed by state privacy health laws or
+15
+16
+protected health information that is collected by a covered entity
+16
+17
+or business associate governed by the privacy, security and data
+17
+18
+breach notification rules issued by the United States Department of
+18
+19
+Health and Human Services, Parts 160 and 164 of Title 45 of the Code
+19
+20
+of Federal Regulations, established pursuant to the federal Health
+20
+21
+Insurance Portability and Accountability Act of 1996 (Public Law
+21
+22
+104-191) and the federal Health Information Technology for Economic
+22
+23
+and Clinical Health Act, Title XIII of the federal American Recovery
+23
+24
+and Reinvestment Act of 2009 (Public Law 111-5);
+24
+Req. No. 10067 Page 17
+
+1
+3. A provider of health care, or a health plan, governed by
+1
+2
+state privacy health laws or a covered entity governed by the
+2
+3
+privacy, security and data breach notification rules issued by the
+3
+4
+United States Department of Health and Human Services, Parts 160 and
+4
+5
+164 of Title 45 of the Code of Federal Regulations, established
+5
+6
+pursuant to the federal Health Insurance Portability and
+6
+7
+Accountability Act of 1996 (Public Law 104-191), to the extent the
+7
+8
+provider or covered entity maintains, uses and discloses patient
+8
+9
+information in the same manner as medical information or protected
+9
+10
+health information as described in paragraph 2 of this subsection;
+10
+11
+4. A business associate of a covered entity governed by the
+11
+12
+privacy, security and data breach notification rules issued by the
+12
+13
+United States Department of Health and Human Services, Parts 160 and
+13
+14
+164 of Title 45 of the Code of Federal Regulations, established
+14
+15
+pursuant to the federal Health Insurance Portability and
+15
+16
+Accountability Act of 1996 (Public Law 104-191) and the federal
+16
+17
+Health Information Technology for Economic and Clinical Health Act,
+17
+18
+Title XIII of the federal American Recovery and Reinvestment Act of
+18
+19
+2009 (Public Law 111-5), to the extent that the business associate
+19
+20
+maintains, uses and discloses patient information in the same manner
+20
+21
+as medical information or protected health information as described
+21
+22
+in paragraph 2 of this subsection;
+22
+23
+5. Information that meets both of the following conditions:
+23
+24
+24
+Req. No. 10067 Page 18
+
+1
+a. is de-identified in accordance with the requirements
+1
+2
+for de-identification set forth in Section 164.514 of
+2
+3
+Part 164 of Title 45 of the Code of Federal
+3
+4
+Regulations, and
+4
+5
+b. is derived from patient information that was
+5
+6
+originally collected, created, transmitted or
+6
+7
+maintained by an entity regulated by the Health
+7
+8
+Insurance Portability and Accountability Act of 1996
+8
+9
+or the Federal Policy for the Protection of Human
+9
+10
+Subjects, also known as the Common Rule.
+10
+11
+Information that meets the requirements of subparagraph a or b
+11
+12
+of this paragraph but is subsequently re-identified shall no longer
+12
+13
+be eligible for the exemption in this paragraph and shall be subject
+13
+14
+to applicable federal and state data privacy and security laws,
+14
+15
+including, but not limited to, the Health Insurance Portability and
+15
+16
+Accountability Act of 1996 and state medical privacy laws;
+16
+17
+6. Information that is collected, used or disclosed in
+17
+18
+research, as defined in Section 164.501 of Title 45 of the Code of
+18
+19
+Federal Regulations, including, but not limited to, a clinical
+19
+20
+trial, and that is conducted in accordance with applicable ethics,
+20
+21
+confidentiality, privacy and security rules of Part 164 of Title 45
+21
+22
+of the Code of Federal Regulations, the Federal Policy for the
+22
+23
+Protection of Human Subjects, also known as the Common Rule, good
+23
+24
+clinical practice guidelines issued by the International Council for
+24
+Req. No. 10067 Page 19
+
+1
+Harmonization, or human subject protection requirements of the
+1
+2
+United States Food and Drug Administration;
+2
+3
+7. The sale of personal information to or by a consumer
+3
+4
+reporting agency if the information is to be:
+4
+5
+a. reported in or used to generate a consumer report, as
+5
+6
+defined by Section 1681a(d) of the Fair Credit
+6
+7
+Reporting Act (15 U.S.C., Section 1681 et seq.), and
+7
+8
+b. used solely for a purpose authorized under that act;
+8
+9
+8. Personal information collected, processed, sold or disclosed
+9
+10
+in accordance with:
+10
+11
+a. the federal Gramm-Leach-Bliley Act of 1999 (Public Law
+11
+12
+106-102) and its implementing regulations, or
+12
+13
+b. the federal Driver's Privacy Protection Act of 1994
+13
+14
+(18 U.S.C., Section 2721 et seq.);
+14
+15
+9. De-identified or aggregate consumer information; or
+15
+16
+10. A consumer's personal information collected or sold by a
+16
+17
+business, if every aspect of the collection or sale occurred wholly
+17
+18
+outside of this state.
+18
+19
+Provided further, nothing in this act shall be deemed to apply
+19
+20
+in any manner to a financial institution or an affiliate of a
+20
+21
+financial institution that is subject to the federal Gramm-Leach-
+21
+22
+Bliley Act of 1999 and the rules promulgated thereunder.
+22
+23
+B. For the purposes of this section, a business or other person
+23
+24
+shall not re-identify, or attempt to re-identify, information that
+24
+Req. No. 10067 Page 20
+
+1
+has met the requirements of paragraphs 2 through 6 of subsection A
+1
+2
+of this section, except for one or more of the following purposes:
+2
+3
+1. Treatment, payment or health care operations conducted by a
+3
+4
+covered entity or business associate acting on behalf of, and at the
+4
+5
+written direction of, the covered entity. For purposes of this
+5
+6
+paragraph, "treatment", "payment", "health care operations" and
+6
+7
+"covered entity" have the same meaning as defined in Section 164.501
+7
+8
+of Title 45 of the Code of Federal Regulations, and "business
+8
+9
+associate" has the same meaning as defined in Section 160.103 of
+9
+10
+Title 45 of the Code of Federal Regulations;
+10
+11
+2. Public health activities or purposes as described in Section
+11
+12
+164.512 of Title 45 of the Code of Federal Regulations;
+12
+13
+3. Research, as defined in Section 164.501 of Title 45 of the
+13
+14
+Code of Federal Regulations, that is conducted in accordance with
+14
+15
+Part 46 of Title 45 of the Code of Federal Regulations and the
+15
+16
+Federal Policy for the Protection of Human Subjects, also known as
+16
+17
+the Common Rule;
+17
+18
+4. Pursuant to a contract where the lawful holder of the de-
+18
+19
+identified information expressly engages a person or entity to
+19
+20
+attempt to re-identify the de-identified information in order to
+20
+21
+conduct testing, analysis, or validation of de-identification, or
+21
+22
+related statistical techniques, if the contract bans any other use
+22
+23
+or disclosure of the re-identified information and requires the
+23
+24
+24
+Req. No. 10067 Page 21
+
+1
+return or destruction of the information that was re-identified upon
+1
+2
+completion of the contract; and
+2
+3
+5. If otherwise required by law.
+3
+4
+C. In accordance with paragraphs 2 through 6 of subsection A of
+4
+5
+this section, information re-identified pursuant to this section
+5
+6
+shall be subject to applicable federal and state data privacy and
+6
+7
+security laws, including, but not limited to, the Health Insurance
+7
+8
+Portability and Accountability Act of 1996 and state health privacy
+8
+9
+laws.
+9
+10
+D. Beginning January 1, 2026, any contract for the sale or
+10
+11
+license of de-identified information that has met the requirements
+11
+12
+of paragraphs 2 through 6 of subsection A of this section, where one
+12
+13
+of the parties is a person residing or doing business in the state,
+13
+14
+shall include the following, or substantially similar, provisions:
+14
+15
+1. A statement that the de-identified information being sold or
+15
+16
+licensed includes de-identified patient information;
+16
+17
+2. A statement that re-identification, and attempted re-
+17
+18
+identification, of the de-identified information by the purchaser or
+18
+19
+licensee of the information is prohibited pursuant to this section;
+19
+20
+and
+20
+21
+3. A requirement that, unless otherwise required by law, the
+21
+22
+purchaser or licensee of the de-identified information may not
+22
+23
+further disclose the de-identified information to any third party
+23
+24
+24
+Req. No. 10067 Page 22
+
+1
+unless the third party is contractually bound by the same or
+1
+2
+stricter restrictions and conditions.
+2
+3
+E. For purposes of this section, "re-identify" means the
+3
+4
+process of reversal of de-identification techniques, including, but
+4
+5
+not limited to, the addition of specific pieces of information or
+5
+6
+data elements that can, individually or in combination, be used to
+6
+7
+uniquely identify an individual or usage.
+7
+8
+F. For purposes of paragraph 10 of subsection A of this
+8
+9
+section, the collection or sale of a consumer's personal information
+9
+10
+occurs wholly outside of this state if:
+10
+11
+1. The business collects that information while the consumer is
+11
+12
+outside of this state;
+12
+13
+2. No part of the sale of the information occurs in this state;
+13
+14
+and
+14
+15
+3. The business does not sell any personal information of the
+15
+16
+consumer collected while the consumer is in this state.
+16
+17
+G. For purposes of subsection F of this section, the collection
+17
+18
+or sale of a consumer's personal information does not occur wholly
+18
+19
+outside of this state if a business stores a consumer's personal
+19
+20
+information, including on a device, when the consumer is in this
+20
+21
+state and subsequently collects or sells that stored information
+21
+22
+when the consumer and the information are outside of this state.
+22
+23
+H. For purposes of this section, all of the following shall
+23
+24
+apply:
+24
+Req. No. 10067 Page 23
+
+1
+1. "Business associate" has the same meaning as defined in
+1
+2
+Section 160.103 of Title 45 of the Code of Federal Regulations;
+2
+3
+2. "Covered entity" has the same meaning as defined in Section
+3
+4
+160.103 of Title 45 of the Code of Federal Regulations;
+4
+5
+3. "Identifiable private information" has the same meaning as
+5
+6
+defined in Section 46.102 of Title 45 of the Code of Federal
+6
+7
+Regulations;
+7
+8
+4. "Individually identifiable health information" has the same
+8
+9
+meaning as defined in Section 160.103 of Title 45 of the Code of
+9
+10
+Federal Regulations;
+10
+11
+5. "Medical information" means any individually identifiable
+11
+12
+information, in electronic or physical form, in possession of or
+12
+13
+derived from a provider of health care, health care service plan,
+13
+14
+pharmaceutical company, or contractor regarding a patient's medical
+14
+15
+history, mental or physical condition, or treatment;
+15
+16
+6. "Patient information" means identifiable private
+16
+17
+information, protected health information, individually identifiable
+17
+18
+health information, or medical information;
+18
+19
+7. "Protected health information" has the same meaning as
+19
+20
+defined in Section 160.103 of Title 45 of the Code of Federal
+20
+21
+Regulations; and
+21
+22
+8. "Provider of health care" means a person or entity that is a
+22
+23
+covered entity.
+23
+24
+24
+Req. No. 10067 Page 24
+
+1
+SECTION 5. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 901.5 of Title 17, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A right or obligation under this act does not apply to the
+4
+5
+extent that the exercise of the right or performance of the
+5
+6
+obligation infringes on a noncommercial activity of:
+6
+7
+1. A publisher, editor, reporter or other person connected with
+7
+8
+or employed by a newspaper, magazine or other publication of general
+8
+9
+circulation, including a periodical, newsletter, pamphlet or report;
+9
+10
+2. A radio or television station that holds a license issued by
+10
+11
+the Federal Communications Commission;
+11
+12
+3. A nonprofit that provides programing to radio or television
+12
+13
+networks; or
+13
+14
+4. An entity that provides an information service, including a
+14
+15
+press association or wire service.
+15
+16
+SECTION 6. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 901.6 of Title 17, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+This act does not:
+19
+20
+1. Restrict a business's ability to:
+20
+21
+a. comply with:
+21
+22
+(1) applicable federal, state or local laws, or
+22
+23
+23
+24
+24
+Req. No. 10067 Page 25
+
+1
+(2) a civil, criminal or regulatory inquiry,
+1
+2
+investigation, subpoena or summons by a federal,
+2
+3
+state or local authority,
+3
+4
+b. cooperate with a law enforcement agency concerning
+4
+5
+conduct or activity that the business, a service
+5
+6
+provider of the business or a third party reasonably
+6
+7
+and in good faith believes may violate other
+7
+8
+applicable federal, state or local laws,
+8
+9
+c. pursue or defend against a legal claim,
+9
+10
+d. detect a security incident; protect against malicious,
+10
+11
+deceptive, fraudulent or illegal activity; or
+11
+12
+prosecute those responsible for any illegal activity
+12
+13
+described by this paragraph, or
+13
+14
+e. assist another party with any of the foregoing; or
+14
+15
+2. Require a business to violate an evidentiary privilege under
+15
+16
+federal or state law or prevent a business from disclosing to a
+16
+17
+person covered by an evidentiary privilege the personal information
+17
+18
+of a consumer as part of a privileged communication.
+18
+19
+SECTION 7. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 901.7 of Title 17, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+A. This act shall be liberally construed to effect its purposes
+22
+23
+and to harmonize, to the extent possible, with other laws of this
+23
+24
+state relating to the privacy or protection of personal information.
+24
+Req. No. 10067 Page 26
+
+1
+B. To the extent of a conflict between a provision of this act
+1
+2
+and a provision of federal law, including a regulation or an
+2
+3
+interpretation of federal law, federal law controls and conflicting
+3
+4
+requirements or other provisions of this act do not apply. Further,
+4
+5
+should the federal government pass comprehensive data privacy
+5
+6
+regulations that conflict with the provisions herein, federal law
+6
+7
+shall prevail.
+7
+8
+C. To the extent of a conflict between a provision of this act
+8
+9
+and another statute of this state with respect to the privacy or
+9
+10
+protection of consumers' personal information, the provision of law
+10
+11
+that affords the greatest privacy or protection to consumers
+11
+12
+prevails.
+12
+13
+SECTION 8. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 901.8 of Title 17, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+This act preempts and supersedes any ordinance, order or rule
+16
+17
+adopted by a political subdivision of this state relating to the
+17
+18
+collection or sale by a business of a consumer's personal
+18
+19
+information.
+19
+20
+SECTION 9. NEW LAW A new section of law to be codified
+20
+21
+in the Oklahoma Statutes as Section 901.9 of Title 17, unless there
+21
+22
+is created a duplication in numbering, reads as follows:
+22
+23
+Except as used in Section 4 of this act, for purposes of this
+23
+24
+act, "research" means scientific, systematic study and observation,
+24
+Req. No. 10067 Page 27
+
+1
+including basic research or applied research that is in the public
+1
+2
+interest and that adheres to all other applicable ethics and privacy
+2
+3
+laws or studies conducted in the public interest in the area of
+3
+4
+public health. Research with personal information that may have
+4
+5
+been collected from a consumer in the course of the consumer's
+5
+6
+interactions with a business's service or device for other purposes
+6
+7
+must:
+7
+8
+1. Be compatible with the business purpose for which the
+8
+9
+personal information was collected;
+9
+10
+2. Be subsequently pseudonymized and de-identified, or de-
+10
+11
+identified and in the aggregate, such that the information cannot
+11
+12
+reasonably identify, relate to, describe, be capable of being
+12
+13
+associated with, or be linked, directly or indirectly, to a
+13
+14
+particular consumer;
+14
+15
+3. Be made subject to technical safeguards that prohibit re-
+15
+16
+identification of the consumer to whom the information may pertain;
+16
+17
+4. Be subject to business processes that specifically prohibit
+17
+18
+re-identification of the information;
+18
+19
+5. Be made subject to business processes to prevent inadvertent
+19
+20
+release of de-identified information;
+20
+21
+6. Be protected from any re-identification attempts;
+21
+22
+7. Be used solely for research purposes that are compatible
+22
+23
+with the context in which the personal information was collected;
+23
+24
+8. Not be used for any commercial purpose; and
+24
+Req. No. 10067 Page 28
+
+1
+9. Be subjected by the business conducting the research to
+1
+2
+additional security controls that limit access to the research data
+2
+3
+to only those individuals in a business as are necessary to carry
+3
+4
+out the research purpose.
+4
+5
+SECTION 10. NEW LAW A new section of law to be codified
+5
+6
+in the Oklahoma Statutes as Section 901.10 of Title 17, unless there
+6
+7
+is created a duplication in numbering, reads as follows:
+7
+8
+A. A consumer is entitled to request that a business that
+8
+9
+collects the consumer's personal information disclose to the
+9
+10
+consumer the categories and specific items of personal information
+10
+11
+the business has collected.
+11
+12
+B. To receive the disclosure of information under subsection A
+12
+13
+of this section, a consumer must submit to the business a verifiable
+13
+14
+consumer request using a method designated by the business under
+14
+15
+Section 18 of this act.
+15
+16
+C. On receipt of a verifiable consumer request under this
+16
+17
+section, a business shall disclose to the consumer in the time and
+17
+18
+manner provided by Section 20 of this act:
+18
+19
+1. Each enumerated category and item within each category of
+19
+20
+personal information under paragraph 14 of Section 2 of this act
+20
+21
+that the business collected about the consumer during the twelve
+21
+22
+(12) months preceding the date of the request;
+22
+23
+2. Each category of sources from which the information was
+23
+24
+collected;
+24
+Req. No. 10067 Page 29
+
+1
+3. The business or commercial purpose for collecting or selling
+1
+2
+the personal information; and
+2
+3
+4. Each category of third parties with whom the business shares
+3
+4
+the personal information.
+4
+5
+D. This section does not require a business to:
+5
+6
+1. Retain a consumer's personal information that was collected
+6
+7
+for a one-time transaction if the information is not sold or
+7
+8
+retained in the ordinary course of business; or
+8
+9
+2. Re-identify or otherwise link any data that, in the ordinary
+9
+10
+course of business, is not maintained in a manner that would be
+10
+11
+considered personal information.
+11
+12
+SECTION 11. NEW LAW A new section of law to be codified
+12
+13
+in the Oklahoma Statutes as Section 901.11 of Title 17, unless there
+13
+14
+is created a duplication in numbering, reads as follows:
+14
+15
+A. A consumer is entitled to request that a business that
+15
+16
+collects the consumer's personal information delete any personal
+16
+17
+information the business has collected from the consumer by
+17
+18
+submitting a verifiable consumer request using a method designated
+18
+19
+by the business under Section 18 of this act.
+19
+20
+B. Except as provided by subsection C of this section, on
+20
+21
+receipt of a verifiable consumer request under this section, a
+21
+22
+business shall delete from the business's records any personal
+22
+23
+information collected from the consumer and direct a service
+23
+24
+provider of the business to delete the information from the
+24
+Req. No. 10067 Page 30
+
+1
+provider's records in the time provided for in Section 20 of this
+1
+2
+act.
+2
+3
+C. A business or service provider of the business is not
+3
+4
+required to comply with a verifiable consumer request received under
+4
+5
+this section if the business or service provider needs to retain the
+5
+6
+consumer's personal information to:
+6
+7
+1. Complete the transaction for which the information was
+7
+8
+collected;
+8
+9
+2. Provide a good or service requested by the consumer in the
+9
+10
+context of the ongoing business relationship between the business
+10
+11
+and consumer;
+11
+12
+3. Perform under a contract between the business and the
+12
+13
+consumer;
+13
+14
+4. Detect a security incident; protect against malicious,
+14
+15
+deceptive, fraudulent or illegal activity; or prosecute those
+15
+16
+responsible for any illegal activity described by this paragraph;
+16
+17
+5. Identify and repair or remove errors from computer hardware
+17
+18
+or software that impair its intended functionality;
+18
+19
+6. Exercise free speech or ensure the right of another consumer
+19
+20
+to exercise the right of free speech or another right afforded by
+20
+21
+law;
+21
+22
+7. Comply with a court order or subpoena or other lawful
+22
+23
+process; or
+23
+24
+24
+Req. No. 10067 Page 31
+
+1
+8. Engage in public or peer-reviewed scientific, historical or
+1
+2
+statistical research that is in the public interest and that adheres
+2
+3
+to all other applicable ethics and privacy laws, provided that:
+3
+4
+a. the business's deletion of the information is likely
+4
+5
+to render impossible or seriously impair the
+5
+6
+achievement of that research, and
+6
+7
+b. the consumer has previously provided to the business
+7
+8
+informed consent to retain the information for such
+8
+9
+use.
+9
+10
+D. Where a business, service provider or third party has made a
+10
+11
+consumer's personal information public, said business, service
+11
+12
+provider or third party shall:
+12
+13
+1. Take all reasonable steps, including technical measures, to
+13
+14
+erase the personal information that the business, service provider
+14
+15
+or third party made public, taking into account available technology
+15
+16
+and the cost of implementation; and
+16
+17
+2. Advise any other business, service provider or third party
+17
+18
+with whom a contract regarding the consumer exists that the consumer
+18
+19
+has requested the erasure of any links to, copies of or replication
+19
+20
+of that personal information.
+20
+21
+SECTION 12. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 901.12 of Title 17, unless there
+22
+23
+is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 10067 Page 32
+
+1
+A. A consumer is entitled to request that a business that
+1
+2
+sells, or discloses for a business purpose, the consumer's personal
+2
+3
+information disclose to the consumer:
+3
+4
+1. The categories of personal information the business
+4
+5
+collected about the consumer;
+5
+6
+2. The categories of personal information about the consumer
+6
+7
+the business sold, or disclosed for a business purpose; and
+7
+8
+3. The categories of third parties to whom the personal
+8
+9
+information was sold or disclosed.
+9
+10
+B. To receive the disclosure of information under subsection A
+10
+11
+of this section, a consumer must submit to the business a verifiable
+11
+12
+consumer request using a method designated by the business under
+12
+13
+Section 18 of this act.
+13
+14
+C. On receipt of a verifiable consumer request under this
+14
+15
+section, a business shall disclose to the consumer in the time and
+15
+16
+manner provided by Section 20 of this act:
+16
+17
+1. Each enumerated category of personal information under
+17
+18
+paragraph 14 of Section 2 of this act that the business collected
+18
+19
+about the consumer during the twelve (12) months preceding the date
+19
+20
+of the request;
+20
+21
+2. The categories of third parties to whom the business sold
+21
+22
+the consumer's personal information during the twelve (12) months
+22
+23
+preceding the date of the request by reference to each enumerated
+23
+24
+24
+Req. No. 10067 Page 33
+
+1
+category of information under paragraph 14 of Section 2 of this act
+1
+2
+sold to each third party; and
+2
+3
+3. The categories of third parties to whom the business
+3
+4
+disclosed for a business purpose the consumer's personal information
+4
+5
+during the twelve (12) months preceding the date of the request by
+5
+6
+reference to each enumerated category of information under paragraph
+6
+7
+14 of Section 2 of this act disclosed to each third party.
+7
+8
+D. A business shall provide the information described by
+8
+9
+paragraphs 2 and 3 of subsection C of this section in two separate
+9
+10
+lists.
+10
+11
+E. A business that did not sell, or disclose for a business
+11
+12
+purpose, the consumer's personal information during the twelve (12)
+12
+13
+months preceding the date of receiving the consumer's verifiable
+13
+14
+consumer request under this section shall disclose that fact to the
+14
+15
+consumer.
+15
+16
+SECTION 13. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 901.13 of Title 17, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+A. A consumer is entitled at any time to opt out of the sale of
+19
+20
+the consumer's personal information by a business to third parties
+20
+21
+by directing the business not to sell the information. A consumer
+21
+22
+may authorize another person solely to opt out of the sale of the
+22
+23
+consumer's personal information on the consumer's behalf. A
+23
+24
+24
+Req. No. 10067 Page 34
+
+1
+business shall comply with a direction not to sell that is received
+1
+2
+under this subsection.
+2
+3
+B. To exercise the right to opt out specified in subsection A
+3
+4
+of this section, a consumer shall submit to the business a
+4
+5
+verifiable consumer request using a method designated by the
+5
+6
+business under Section 18 of this act.
+6
+7
+C. A business that sells consumers' personal information to a
+7
+8
+third party shall provide on the business's Internet website:
+8
+9
+1. Notice to consumers that:
+9
+10
+a. the information may be sold,
+10
+11
+b. identifies the categories of persons to whom the
+11
+12
+information will or could be sold, and
+12
+13
+c. consumers have the right to opt in to the sale via
+13
+14
+consent; and
+14
+15
+2. A clear and conspicuous link that enables a consumer, or
+15
+16
+person authorized by the consumer, to consent to the sale of the
+16
+17
+consumer's personal information.
+17
+18
+D. A business may not sell to a third party the personal
+18
+19
+information of a consumer who does not consent to the sale of that
+19
+20
+information after the effective date of this act or after a consumer
+20
+21
+submits a verifiable request to opt out of any future sale.
+21
+22
+E. A business may use any personal information collected from
+22
+23
+the consumer in connection with the consumer's opting out under this
+23
+24
+section solely to comply with this section.
+24
+Req. No. 10067 Page 35
+
+1
+F. A third party to whom a business has sold the personal
+1
+2
+information of a consumer may not sell the information unless the
+2
+3
+consumer receives explicit notice of the potential sale and is
+3
+4
+provided the opportunity to, and in fact does, consent to the sale
+4
+5
+as provided by this section.
+5
+6
+G. A business may not require a consumer to create an account
+6
+7
+with the business to opt in to the sale of the consumer's personal
+7
+8
+information.
+8
+9
+H. A business or service provider shall implement and maintain
+9
+10
+reasonable security procedures and practices, including
+10
+11
+administrative, physical and technical safeguards appropriate to the
+11
+12
+nature of the information and the purposes for which the personal
+12
+13
+information will be used, to protect consumers' personal information
+13
+14
+from unauthorized use, disclosure, access, destruction or
+14
+15
+modification, irrespective of whether a customer has consented to
+15
+16
+opt in or out of a sale of data.
+16
+17
+SECTION 14. NEW LAW A new section of law to be codified
+17
+18
+in the Oklahoma Statutes as Section 901.14 of Title 17, unless there
+18
+19
+is created a duplication in numbering, reads as follows:
+19
+20
+A. The Legislature of the State of Oklahoma finds that
+20
+21
+individuals within Oklahoma have a right to prohibit retention, use
+21
+22
+or disclosure of their own personal data.
+22
+23
+B. The Legislature of the State of Oklahoma further finds that
+23
+24
+individuals within Oklahoma have previously been exploited for
+24
+Req. No. 10067 Page 36
+
+1
+monetary gain and manipulation by private ventures in utilization of
+1
+2
+private data.
+2
+3
+C. The Legislature of the State of Oklahoma further finds that
+3
+4
+the protection of individuals within Oklahoma and their data is a
+4
+5
+core governmental function in order to protect the health, safety
+5
+6
+and welfare of individuals within Oklahoma.
+6
+7
+D. The Legislature of the State of Oklahoma further finds that
+7
+8
+the terms and conditions set forth in this act are the least
+8
+9
+restrictive alternative necessary to protect individuals within
+9
+10
+Oklahoma and their rights and that the use of a strictly "opt-out"
+10
+11
+method for data privacy is ineffectual and poses an immediate risk
+11
+12
+to the health, safety and welfare of individuals within Oklahoma.
+12
+13
+SECTION 15. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 901.15 of Title 17, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+A. A provision of a contract or other agreement that purports
+16
+17
+to waive or limit a right, remedy or means of enforcement under this
+17
+18
+act is contrary to public policy and is void.
+18
+19
+B. This section does not prevent a consumer from:
+19
+20
+1. Declining to request information from a business;
+20
+21
+2. Declining to consent to a business's sale of the consumer's
+21
+22
+personal information; or
+22
+23
+3. Authorizing a business to sell the consumer's personal
+23
+24
+information after previously opting out.
+24
+Req. No. 10067 Page 37
+
+1
+SECTION 16. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 901.16 of Title 17, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. After the effective date of this act, a business shall not
+4
+5
+collect a consumer's personal information directly from the consumer
+5
+6
+prior to notifying the consumer of each category of personal
+6
+7
+information to be collected and for what purposes information will
+7
+8
+be used, as well as obtaining the consumer's consent to opt in to
+8
+9
+collection, which may be provided electronically by the consumer, to
+9
+10
+collect a consumer's personal information.
+10
+11
+B. A business may not collect an additional category of
+11
+12
+personal information directly from the consumer or use personal
+12
+13
+information collected for an additional purpose unless the business
+13
+14
+provides notice to the consumer of the additional category or
+14
+15
+purpose in accordance with subsection A of this section.
+15
+16
+C. If a third party that assumes control of all or part of a
+16
+17
+business as described by subparagraph c of paragraph 2 of subsection
+17
+18
+C of Section 3 of this act materially alters the practices of the
+18
+19
+business in how personal information is used or shared, and the
+19
+20
+practices are materially inconsistent with a notice provided to a
+20
+21
+consumer under subsection A or B of this section, the third party
+21
+22
+must notify the consumer of the third party's new or changed
+22
+23
+practices in a conspicuous manner that allows the consumer to easily
+23
+24
+24
+Req. No. 10067 Page 38
+
+1
+exercise a right provided under this act before the third-party
+1
+2
+collector uses or shares the personal information.
+2
+3
+D. Subsection C of this section does not authorize a business
+3
+4
+to make a material, retroactive change or other change to a
+4
+5
+business's privacy policy in a manner that would be a deceptive
+5
+6
+trade practice actionable under Oklahoma law.
+6
+7
+SECTION 17. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 901.17 of Title 17, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. A business that collects, sells or for a business purpose
+10
+11
+discloses a consumer's personal information shall disclose the
+11
+12
+following information in the business's online privacy policy or
+12
+13
+other notice of the business's policies:
+13
+14
+1. A description of a consumer's rights under Sections 10, 11,
+14
+15
+12, 13 and 16 of this act and designated methods for submitting a
+15
+16
+verifiable consumer request under this act;
+16
+17
+2. For a business that collects personal information about
+17
+18
+consumers, a description of the consumer's right to request the
+18
+19
+deletion of the consumer's personal information;
+19
+20
+3. Separate lists containing the categories of consumers'
+20
+21
+personal information described by paragraph 14 of Section 2 of this
+21
+22
+act that, during the twelve (12) months preceding the date the
+22
+23
+business updated the information as required by subsection C of this
+23
+24
+section, the business:
+24
+Req. No. 10067 Page 39
+
+1
+a. collected,
+1
+2
+b. sold, if applicable, or
+2
+3
+c. disclosed for a business purpose, if applicable;
+3
+4
+4. The categories of sources from which the information under
+4
+5
+paragraph 3 of this subsection is collected;
+5
+6
+5. The business or commercial purposes for collecting personal
+6
+7
+information;
+7
+8
+6. If the business does not sell consumers' personal
+8
+9
+information or disclose the information for a business or commercial
+9
+10
+purpose, a statement of that fact;
+10
+11
+7. The categories of third parties to whom the business sells
+11
+12
+or discloses personal information;
+12
+13
+8. If the business sells consumers' personal information, the
+13
+14
+Internet link required by subsection C of Section 13 of this act;
+14
+15
+and
+15
+16
+9. If applicable, the financial incentives offered to consumers
+16
+17
+under Section 23 of this act.
+17
+18
+B. If a business described by subsection A of this section does
+18
+19
+not have an online privacy policy or other notice of the business's
+19
+20
+policies, the business shall make the information required under
+20
+21
+subsection A of this section available to consumers on the
+21
+22
+business's Internet website or another website the business
+22
+23
+maintains that is dedicated to consumers in this state.
+23
+24
+24
+Req. No. 10067 Page 40
+
+1
+C. A business must update the information required by
+1
+2
+subsection A of this section at least once each year.
+2
+3
+SECTION 18. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 901.18 of Title 17, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. A business shall designate and make available to consumers,
+6
+7
+in a form that is reasonably accessible, at least two methods for
+7
+8
+submitting a verifiable consumer request for information required to
+8
+9
+be disclosed or deleted under this act. The methods must include,
+9
+10
+at a minimum:
+10
+11
+1. A toll-free telephone number that a consumer may call to
+11
+12
+submit the request; and
+12
+13
+2. The business's Internet website at which the consumer may
+13
+14
+submit the request.
+14
+15
+B. The methods designated under subsection A of this section
+15
+16
+may also include:
+16
+17
+1. A mailing address;
+17
+18
+2. An electronic mail address; or
+18
+19
+3. Another Internet webpage or portal.
+19
+20
+C. A business may not require a consumer to create an account
+20
+21
+with the business to submit a verifiable consumer request.
+21
+22
+SECTION 19. NEW LAW A new section of law to be codified
+22
+23
+in the Oklahoma Statutes as Section 901.19 of Title 17, unless there
+23
+24
+is created a duplication in numbering, reads as follows:
+24
+Req. No. 10067 Page 41
+
+1
+A. A business that receives a verifiable consumer request under
+1
+2
+Section 10, 11, 12 or 13 of this act shall promptly take steps to
+2
+3
+reasonably verify that:
+3
+4
+1. The consumer who is the subject of the request is a consumer
+4
+5
+about whom the business has collected, sold, or for a business
+5
+6
+purpose disclosed personal information; and
+6
+7
+2. The request is made by:
+7
+8
+a. the consumer,
+8
+9
+b. a consumer on behalf of the consumer's minor child, or
+9
+10
+c. a person authorized to act on the consumer's behalf.
+10
+11
+B. A business may use any personal information collected from
+11
+12
+the consumer in connection with the business's verification of a
+12
+13
+request under this section solely to verify the request.
+13
+14
+C. A business that is unable to verify a consumer request under
+14
+15
+this section is not required to comply with the request.
+15
+16
+SECTION 20. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 901.20 of Title 17, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+A. Not later than forty-five (45) days after the date a
+19
+20
+business receives a verifiable consumer request under Section 10,
+20
+21
+11, 12 or 13 of this act, the business shall disclose free of charge
+21
+22
+to the consumer the information required to be disclosed under those
+22
+23
+sections or take the requested actions, as applicable.
+23
+24
+24
+Req. No. 10067 Page 42
+
+1
+B. A business may extend the time in which to comply with
+1
+2
+subsection A of this section once by an additional forty-five (45)
+2
+3
+days if reasonably necessary or by an additional ninety (90) days
+3
+4
+after taking into account the number and complexity of verifiable
+4
+5
+consumer requests received by the business. A business that extends
+5
+6
+the time in which to comply with subsection A of this section shall
+6
+7
+notify the consumer of the extension and reason for the delay within
+7
+8
+the period prescribed by that subsection.
+8
+9
+C. The disclosure required by subsection A of this section
+9
+10
+must:
+10
+11
+1. Cover personal information collected, sold or disclosed for
+11
+12
+a business purpose, as applicable, during the twelve (12) months
+12
+13
+preceding the date the business receives the request; and
+13
+14
+2. Be made in writing and delivered to the consumer:
+14
+15
+a. by mail or electronically, at the consumer's option,
+15
+16
+if the consumer does not have an account with the
+16
+17
+business, or
+17
+18
+b. through the consumer's account with the business.
+18
+19
+D. An electronic disclosure under subsection C of this section
+19
+20
+must be in a readily accessible format that allows the consumer to
+20
+21
+electronically transmit the information to another person or entity.
+21
+22
+E. A business is not required to make the disclosure required
+22
+23
+by subsection A of this section to the same consumer more than once
+23
+24
+in a twelve-month period.
+24
+Req. No. 10067 Page 43
+
+1
+F. Notwithstanding subsection A of this section, if a
+1
+2
+consumer's verifiable consumer request is manifestly baseless or
+2
+3
+excessive, in particular because of repetitiveness, a business may
+3
+4
+charge a reasonable fee after taking into account the administrative
+4
+5
+costs of compliance or refusal to comply with the request. The
+5
+6
+business has the burden of demonstrating that a request is
+6
+7
+manifestly baseless or excessive.
+7
+8
+G. A business that does not comply with a consumer's verifiable
+8
+9
+consumer request under subsection A of this section shall notify the
+9
+10
+consumer, within the time the business is required to respond to a
+10
+11
+request under this section, of the reasons for the refusal and the
+11
+12
+rights the consumer may have to appeal that decision.
+12
+13
+SECTION 21. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 901.21 of Title 17, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+A. A business that uses de-identified information may not re-
+16
+17
+identify or attempt to re-identify a consumer who is the subject of
+17
+18
+de-identified information without obtaining the consumer's consent
+18
+19
+or authorization.
+19
+20
+B. A business that uses de-identified information shall
+20
+21
+implement:
+21
+22
+1. Technical safeguards and business processes to prohibit re-
+22
+23
+identification of the consumer to whom the information may pertain;
+23
+24
+and
+24
+Req. No. 10067 Page 44
+
+1
+2. Business processes to prevent inadvertent release of de-
+1
+2
+identified information.
+2
+3
+C. This act may not be construed to require a business to re-
+3
+4
+identify or otherwise link information that is not maintained in a
+4
+5
+manner that would be considered personal information.
+5
+6
+SECTION 22. NEW LAW A new section of law to be codified
+6
+7
+in the Oklahoma Statutes as Section 901.22 of Title 17, unless there
+7
+8
+is created a duplication in numbering, reads as follows:
+8
+9
+A. A business may not discriminate against a consumer because
+9
+10
+the consumer exercised a right under this act, including by:
+10
+11
+1. Denying a good or service to the consumer;
+11
+12
+2. Charging the consumer a different price or rate for a good
+12
+13
+or service, including denying the use of a discount or other benefit
+13
+14
+or imposing a penalty;
+14
+15
+3. Providing a different level or quality of a good or service
+15
+16
+to the consumer; or
+16
+17
+4. Suggesting that the consumer will be charged a different
+17
+18
+price or rate for, or provided a different level or quality of, a
+18
+19
+good or service.
+19
+20
+B. This section does not prohibit a business from offering or
+20
+21
+charging a consumer a different price or rate for a good or service,
+21
+22
+or offering or providing to the consumer a different level or
+22
+23
+quality of a good or service, if the difference is reasonably
+23
+24
+24
+Req. No. 10067 Page 45
+
+1
+related to the value provided to the consumer by the consumer's
+1
+2
+data.
+2
+3
+SECTION 23. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 901.23 of Title 17, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. Subject to subsection B of this section, a business may
+6
+7
+offer a financial incentive to a consumer, including a payment as
+7
+8
+compensation, for the collection, sale or disclosure of the
+8
+9
+consumer's personal information.
+9
+10
+B. A business may enroll a customer in a financial incentive
+10
+11
+program only if the business provides to the consumer a clear
+11
+12
+description of the material terms of the program and obtains the
+12
+13
+consumer's prior opt-in consent, which:
+13
+14
+1. Contains a clear description of those material terms; and
+14
+15
+2. May be revoked by the consumer at any time.
+15
+16
+C. A business may not use financial incentive practices that
+16
+17
+are unjust, unreasonable, coercive or usurious in nature.
+17
+18
+SECTION 24. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 901.24 of Title 17, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+A. A business may not divide a single transaction into more
+21
+22
+than one transaction with the intent to avoid the requirements of
+22
+23
+this act.
+23
+24
+24
+Req. No. 10067 Page 46
+
+1
+B. For purposes of this act, two or more substantially similar
+1
+2
+or related transactions are considered a single transaction if the
+2
+3
+transactions:
+3
+4
+1. Are entered into contemporaneously; and
+4
+5
+2. Have at least one common party.
+5
+6
+C. A court shall disregard any intermediate transactions
+6
+7
+conducted by a business with the intent to avoid the requirements of
+7
+8
+this act, including the disclosure of information by a business to a
+8
+9
+third party to avoid complying with the requirements under this act
+9
+10
+applicable to a sale of the information.
+10
+11
+SECTION 25. NEW LAW A new section of law to be codified
+11
+12
+in the Oklahoma Statutes as Section 901.25 of Title 17, unless there
+12
+13
+is created a duplication in numbering, reads as follows:
+13
+14
+A business shall ensure that each person responsible for
+14
+15
+handling consumer inquiries about the business's privacy practices
+15
+16
+or compliance with this act is informed of the requirements of this
+16
+17
+act and of how to direct a consumer in exercising any of the rights
+17
+18
+to which a consumer is entitled under this act.
+18
+19
+SECTION 26. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 901.26 of Title 17, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+A. A person who violates this act is liable to this state for
+22
+23
+injunctive relief and/or a civil penalty in an amount not to exceed:
+23
+24
+24
+Req. No. 10067 Page 47
+
+1
+1. Two Thousand Five Hundred Dollars ($2,500.00) for each
+1
+2
+violation; or
+2
+3
+2. Seven Thousand Five Hundred Dollars ($7,500.00) for each
+3
+4
+violation, if the violation is intentional.
+4
+5
+B. The Oklahoma Attorney General is entitled to recover
+5
+6
+reasonable expenses, including reasonable attorney fees, court costs
+6
+7
+and investigatory costs, incurred in obtaining injunctive relief or
+7
+8
+civil penalties, or both, under this section. Amounts collected
+8
+9
+under this section shall be deposited in a dedicated account in the
+9
+10
+General Revenue Fund and shall be appropriated only for the purposes
+10
+11
+of the administration and enforcement of this act.
+11
+12
+SECTION 27. NEW LAW A new section of law to be codified
+12
+13
+in the Oklahoma Statutes as Section 901.27 of Title 17, unless there
+13
+14
+is created a duplication in numbering, reads as follows:
+14
+15
+A business that discloses to a third party, or discloses for a
+15
+16
+business purpose to a service provider, a consumer's personal
+16
+17
+information in compliance with this act may not be held liable for a
+17
+18
+violation of this act by the third party or service provider if the
+18
+19
+business does not have actual knowledge or a reasonable belief that
+19
+20
+the third party or service provider intends to violate this act.
+20
+21
+SECTION 28. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 901.28 of Title 17, unless there
+22
+23
+is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 10067 Page 48
+
+1
+A business's service provider may not be held liable for a
+1
+2
+violation of this act by the business.
+2
+3
+SECTION 29. This act shall become effective one (1) year after
+3
+4
+enactment.
+4
+5
+5
+6
+60-1-10067 MJ 11/18/24
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 10067 Page 49
+
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P a k g s]
+[DELETED:  P t a d i u]
+[DELETED:  P d u p m p u u]
+[DELETED:  P v i r a]
+[DELETED:  P r g s]
+[DELETED:  P a]
+[DELETED:  P a a c a a a o b I b o g]
+[DELETED:  P a p e f m h i]
+[DELETED:  P b d p]
+[DELETED:  P f a a p s r r i]
+[DELETED:  P a a a a a a t t]
+[DELETED:  P d c a s h a]
+[DELETED:  P d o c p]
+[DELETED:  P u u t t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P i i]
+[DELETED:  P r u t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P c a]
+[DELETED:  P a c p d a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t i c]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P c s d]
+[DELETED:  P]
+[DELETED:  P t a a]
+[DELETED:  P b t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 1]

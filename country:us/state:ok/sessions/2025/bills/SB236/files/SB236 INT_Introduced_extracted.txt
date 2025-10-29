@@ -1,0 +1,586 @@
+Title: SENATE BILL 236 By: Haste
+Official Title: SENATE BILL 236 By: Haste
+Number of Sections: 7
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to income tax; defining terms;
+7
+providing credit to qualified employers for certain
+8
+compensation paid and expenses incurred; stipulating
+8
+credit amount; limiting credit amount; requiring
+9
+certain compliance for eligibility; prohibiting
+9
+credit for certain compensation paid and expenses
+10
+incurred; prohibiting refundability of credit;
+10
+authorizing the carry forward of credit; limiting
+11
+annual credit amount; prescribing enforcement of
+11
+annual limit; providing for codification; and
+12
+providing an effective date.
+12
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 2357.305 of Title 68, unless
+17
+18
+there is created a duplication in numbering, reads as follows:
+18
+19
+A. As used in this section:
+19
+20
+
+Section 3:
+1. “Aerospace and defense sector” means a private or public
+20
+21
+organization located in this state and engaged in:
+21
+22
+a. the manufacture of aerospace defense hardware or
+22
+23
+software,
+23
+24
+24
+Req. No. 438 Page 1
+1
+b. aerospace or defense maintenance, repair, and
+1
+2
+overhaul,
+2
+3
+c. the supply of parts to the aerospace or defense
+3
+4
+industry,
+4
+5
+d. the provisions of services and support relating to the
+5
+6
+aerospace or defense industry,
+6
+7
+e. research and development of aerospace technology and
+7
+8
+systems, and
+8
+9
+f. the training of aerospace or defense personnel;
+9
+10
+
+Section 4:
+2. “CMMC” means the Cybersecurity Maturity Model Certification
+10
+11
+of the United States Department of Defense; and
+11
+12
+
+Section 5:
+3. “Qualified employer” means a sole proprietor, general
+12
+13
+partnership, limited liability partnership, limited liability
+13
+14
+company, corporation, or other legally recognized business entity in
+14
+15
+this state whose business:
+15
+16
+a. is engaged in a contract for products or services with
+16
+17
+the United States Department of Defense that requires
+17
+18
+CMMC compliance,
+18
+19
+b. has between five and two hundred employees,
+19
+20
+c. is not compliant with CMMC as of January 1, 2026, and
+20
+21
+d. is involved in the aerospace and defense sector.
+21
+22
+B. For tax years 2026 through 2031, a qualified employer shall
+22
+23
+be allowed a credit against the tax imposed pursuant to Section 2355
+23
+24
+of Title 68 of the Oklahoma Statutes equal to fifty percent (50%) of
+24
+Req. No. 438 Page 2
+1
+compensation paid to employees while achieving CMMC compliance and
+1
+2
+expenses incurred to achieve CMMC compliance.
+2
+3
+C. The credit authorized by subsection B of this section shall
+3
+4
+not exceed Fifty Thousand Dollars ($50,000.00) cumulatively for all
+4
+5
+tax years for each qualified employer.
+5
+6
+D. To be eligible for the credit authorized pursuant to this
+6
+7
+
+Section 6:
+section, a qualified employer shall achieve CMMC compliance.
+7
+8
+E. No credit shall be authorized pursuant to this section for
+8
+9
+compensation paid and expenses incurred to maintain CMMC compliance
+9
+10
+after initially achieving CMMC compliance.
+10
+11
+F. The credit authorized by this section shall not be used to
+11
+12
+reduce the tax liability of the taxpayer to less than zero (0).
+12
+13
+G. Any credit claimed, but not used, may be carried forward, in
+13
+14
+order, to each of the five (5) subsequent tax years.
+14
+15
+H. For tax year 2028 and subsequent tax years, the total amount
+15
+16
+of credits authorized pursuant to subsection B of this section shall
+16
+17
+be adjusted annually to limit the annual amount of credits to Ten
+17
+18
+Million Dollars ($10,000,000.00). The Oklahoma Tax Commission shall
+18
+19
+annually calculate and publish a percentage by which the credits
+19
+20
+authorized by this section shall be reduced so the total amount of
+20
+21
+credits used to offset tax does not exceed the annual limit. The
+21
+22
+formula to be used for the percentage adjustment shall be Ten
+22
+23
+Million Dollars ($10,000,000.00) divided by the amount of credit
+23
+24
+claimed in the second preceding tax year. In the event the total
+24
+Req. No. 438 Page 3
+1
+tax credits authorized by this section exceed the annual limit in
+1
+2
+any tax year, the Tax Commission shall permit any excess but shall
+2
+3
+factor such excess into the percentage adjustment formula for
+3
+4
+subsequent tax years.
+4
+5
+
+Section 7:
+SECTION 2. This act shall become effective November 1, 2025.
+5
+6
+6
+7
+60-1-438 QD 12/30/2024 5:16:57 PM
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 438 Page 4
+[DELETED:  P B H t]
+[DELETED:  P a t t r t i h i i]
+[DELETED:  P]
+[DELETED:  P Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 236 By: Haste
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to income tax; defining terms;
+7
+providing credit to qualified employers for certain
+8
+compensation paid and expenses incurred; stipulating
+8
+credit amount; limiting credit amount; requiring
+9
+certain compliance for eligibility; prohibiting
+9
+credit for certain compensation paid and expenses
+10
+incurred; prohibiting refundability of credit;
+10
+authorizing the carry forward of credit; limiting
+11
+annual credit amount; prescribing enforcement of
+11
+annual limit; providing for codification; and
+12
+providing an effective date.
+12
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+SECTION 1. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 2357.305 of Title 68, unless
+17
+18
+there is created a duplication in numbering, reads as follows:
+18
+19
+A. As used in this section:
+19
+20
+1. “Aerospace and defense sector” means a private or public
+20
+21
+organization located in this state and engaged in:
+21
+22
+a. the manufacture of aerospace defense hardware or
+22
+23
+software,
+23
+24
+24
+Req. No. 438 Page 1
+
+1
+b. aerospace or defense maintenance, repair, and
+1
+2
+overhaul,
+2
+3
+c. the supply of parts to the aerospace or defense
+3
+4
+industry,
+4
+5
+d. the provisions of services and support relating to the
+5
+6
+aerospace or defense industry,
+6
+7
+e. research and development of aerospace technology and
+7
+8
+systems, and
+8
+9
+f. the training of aerospace or defense personnel;
+9
+10
+2. “CMMC” means the Cybersecurity Maturity Model Certification
+10
+11
+of the United States Department of Defense; and
+11
+12
+3. “Qualified employer” means a sole proprietor, general
+12
+13
+partnership, limited liability partnership, limited liability
+13
+14
+company, corporation, or other legally recognized business entity in
+14
+15
+this state whose business:
+15
+16
+a. is engaged in a contract for products or services with
+16
+17
+the United States Department of Defense that requires
+17
+18
+CMMC compliance,
+18
+19
+b. has between five and two hundred employees,
+19
+20
+c. is not compliant with CMMC as of January 1, 2026, and
+20
+21
+d. is involved in the aerospace and defense sector.
+21
+22
+B. For tax years 2026 through 2031, a qualified employer shall
+22
+23
+be allowed a credit against the tax imposed pursuant to Section 2355
+23
+24
+of Title 68 of the Oklahoma Statutes equal to fifty percent (50%) of
+24
+Req. No. 438 Page 2
+
+1
+compensation paid to employees while achieving CMMC compliance and
+1
+2
+expenses incurred to achieve CMMC compliance.
+2
+3
+C. The credit authorized by subsection B of this section shall
+3
+4
+not exceed Fifty Thousand Dollars ($50,000.00) cumulatively for all
+4
+5
+tax years for each qualified employer.
+5
+6
+D. To be eligible for the credit authorized pursuant to this
+6
+7
+section, a qualified employer shall achieve CMMC compliance.
+7
+8
+E. No credit shall be authorized pursuant to this section for
+8
+9
+compensation paid and expenses incurred to maintain CMMC compliance
+9
+10
+after initially achieving CMMC compliance.
+10
+11
+F. The credit authorized by this section shall not be used to
+11
+12
+reduce the tax liability of the taxpayer to less than zero (0).
+12
+13
+G. Any credit claimed, but not used, may be carried forward, in
+13
+14
+order, to each of the five (5) subsequent tax years.
+14
+15
+H. For tax year 2028 and subsequent tax years, the total amount
+15
+16
+of credits authorized pursuant to subsection B of this section shall
+16
+17
+be adjusted annually to limit the annual amount of credits to Ten
+17
+18
+Million Dollars ($10,000,000.00). The Oklahoma Tax Commission shall
+18
+19
+annually calculate and publish a percentage by which the credits
+19
+20
+authorized by this section shall be reduced so the total amount of
+20
+21
+credits used to offset tax does not exceed the annual limit. The
+21
+22
+formula to be used for the percentage adjustment shall be Ten
+22
+23
+Million Dollars ($10,000,000.00) divided by the amount of credit
+23
+24
+claimed in the second preceding tax year. In the event the total
+24
+Req. No. 438 Page 3
+
+1
+tax credits authorized by this section exceed the annual limit in
+1
+2
+any tax year, the Tax Commission shall permit any excess but shall
+2
+3
+factor such excess into the percentage adjustment formula for
+3
+4
+subsequent tax years.
+4
+5
+SECTION 2. This act shall become effective November 1, 2025.
+5
+6
+6
+7
+60-1-438 QD 12/30/2024 5:16:57 PM
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 438 Page 4
+
+[DELETED:  P B H t]
+[DELETED:  P a t t r t i h i i]
+[DELETED:  P]
+[DELETED:  P Q 1]
