@@ -1,0 +1,451 @@
+Title: SENATE BILL 223 By: Nice
+Official Title: SENATE BILL 223 By: Nice
+Number of Sections: 7
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to income tax; amending 68 O.S. 2021,
+7
+
+Section 2:
+Section 2357, which relates to credits against income
+8
+tax; updating statutory references; authorizing claim
+8
+for child tax credit in the tax year for which
+9
+certain stillborn birth certificates are issued;
+9
+prescribing calculation of credit amount; authorizing
+10
+the Oklahoma Tax Commission to promulgate rules; and
+10
+providing an effective date.
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+
+Section 3:
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2357, is
+14
+15
+amended to read as follows:
+15
+16
+
+Section 4:
+Section 2357. A. The withheld taxes and estimated taxes paid
+16
+17
+shall be allowed as credits as provided by law.
+17
+18
+B. 1. There shall be allowed as a credit against the tax
+18
+19
+imposed by Section 2355 of this title the amount of tax paid another
+19
+20
+state by a resident individual, as defined in paragraph 4 of Section
+20
+21
+2353 of this title, upon income received as compensation for
+21
+22
+personal services in such other state; provided, such credit shall
+22
+23
+not be allowed with respect to any income specified in Section 114
+23
+24
+of Title 4 of the United States Code, 4 U.S.C., Section 114, upon
+24
+Req. No. 1345 Page 1
+1
+which a state is prohibited from imposing an income tax. The credit
+1
+2
+shall not exceed such proportion of the tax payable under Section
+2
+3
+2355 of this title as the compensation for personal services subject
+3
+4
+to tax in the other state and also taxable under Section 2355 of
+4
+5
+this title bears to the Oklahoma adjusted gross income as defined in
+5
+6
+paragraph 13 of Section 2353 of this title.
+6
+7
+
+Section 5:
+2. For tax years beginning after December 31, 2007, there shall
+7
+8
+be allowed to a resident individual or part-year resident individual
+8
+9
+or nonresident individual member of the Armed Forces as a credit
+9
+10
+against the tax imposed by Section 2355 of this title twenty percent
+10
+11
+(20%) of the credit for child care expenses allowed under the
+11
+12
+Internal Revenue Code of the United States 1986, as amended, or five
+12
+13
+percent (5%) of the child tax credit allowed under the Internal
+13
+14
+Revenue Code of 1986, as amended, whichever amount is greater.
+14
+15
+Neither credit authorized by this paragraph shall exceed the tax
+15
+16
+imposed by Section 2355 of this title. The maximum child care
+16
+17
+credit allowable on the Oklahoma income tax return shall be prorated
+17
+18
+on the ratio that Oklahoma adjusted gross income bears to the
+18
+19
+federal adjusted gross income. The credit authorized by this
+19
+20
+paragraph shall not be claimed by any taxpayer if the federal
+20
+21
+adjusted gross income reflected on the Oklahoma return for the
+21
+22
+taxpayer is in excess of One Hundred Thousand Dollars ($100,000.00).
+22
+23
+C. For tax year 2026 and subsequent tax years, a taxpayer may
+23
+24
+claim the child tax credit allowed pursuant to paragraph 2 of
+24
+Req. No. 1345 Page 2
+1
+subsection B of this section for each birth that a certificate of
+1
+2
+birth resulting in stillbirth has been issued pursuant to Section 1-
+2
+3
+
+Section 6:
+318.2 of Title 63 of the Oklahoma Statutes, if the child otherwise
+3
+4
+would have been a member of the household of the taxpayer. The
+4
+5
+taxpayer may claim the credit only in the tax year in which the
+5
+6
+stillbirth occurred. The credit authorized pursuant to this
+6
+7
+subsection shall be five percent (5%) of the child tax credit that
+7
+8
+would be allowed under the Internal Revenue Code of 1986, as
+8
+9
+amended, if the child were a dependent and a member of the
+9
+10
+household. The Oklahoma Tax Commission may promulgate rules to
+10
+11
+enforce the provisions of this subsection.
+11
+12
+
+Section 7:
+SECTION 2. This act shall become effective November 1, 2025.
+12
+13
+13
+14
+60-1-1345 QD 12/30/2024 4:51:34 PM
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1345 Page 3
+[DELETED:  P B N]
+[DELETED:  P]
+[DELETED:  P Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 223 By: Nice
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to income tax; amending 68 O.S. 2021,
+7
+Section 2357, which relates to credits against income
+8
+tax; updating statutory references; authorizing claim
+8
+for child tax credit in the tax year for which
+9
+certain stillborn birth certificates are issued;
+9
+prescribing calculation of credit amount; authorizing
+10
+the Oklahoma Tax Commission to promulgate rules; and
+10
+providing an effective date.
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2357, is
+14
+15
+amended to read as follows:
+15
+16
+Section 2357. A. The withheld taxes and estimated taxes paid
+16
+17
+shall be allowed as credits as provided by law.
+17
+18
+B. 1. There shall be allowed as a credit against the tax
+18
+19
+imposed by Section 2355 of this title the amount of tax paid another
+19
+20
+state by a resident individual, as defined in paragraph 4 of Section
+20
+21
+2353 of this title, upon income received as compensation for
+21
+22
+personal services in such other state; provided, such credit shall
+22
+23
+not be allowed with respect to any income specified in Section 114
+23
+24
+of Title 4 of the United States Code, 4 U.S.C., Section 114, upon
+24
+Req. No. 1345 Page 1
+
+1
+which a state is prohibited from imposing an income tax. The credit
+1
+2
+shall not exceed such proportion of the tax payable under Section
+2
+3
+2355 of this title as the compensation for personal services subject
+3
+4
+to tax in the other state and also taxable under Section 2355 of
+4
+5
+this title bears to the Oklahoma adjusted gross income as defined in
+5
+6
+paragraph 13 of Section 2353 of this title.
+6
+7
+2. For tax years beginning after December 31, 2007, there shall
+7
+8
+be allowed to a resident individual or part-year resident individual
+8
+9
+or nonresident individual member of the Armed Forces as a credit
+9
+10
+against the tax imposed by Section 2355 of this title twenty percent
+10
+11
+(20%) of the credit for child care expenses allowed under the
+11
+12
+Internal Revenue Code of the United States 1986, as amended, or five
+12
+13
+percent (5%) of the child tax credit allowed under the Internal
+13
+14
+Revenue Code of 1986, as amended, whichever amount is greater.
+14
+15
+Neither credit authorized by this paragraph shall exceed the tax
+15
+16
+imposed by Section 2355 of this title. The maximum child care
+16
+17
+credit allowable on the Oklahoma income tax return shall be prorated
+17
+18
+on the ratio that Oklahoma adjusted gross income bears to the
+18
+19
+federal adjusted gross income. The credit authorized by this
+19
+20
+paragraph shall not be claimed by any taxpayer if the federal
+20
+21
+adjusted gross income reflected on the Oklahoma return for the
+21
+22
+taxpayer is in excess of One Hundred Thousand Dollars ($100,000.00).
+22
+23
+C. For tax year 2026 and subsequent tax years, a taxpayer may
+23
+24
+claim the child tax credit allowed pursuant to paragraph 2 of
+24
+Req. No. 1345 Page 2
+
+1
+subsection B of this section for each birth that a certificate of
+1
+2
+birth resulting in stillbirth has been issued pursuant to Section 1-
+2
+3
+318.2 of Title 63 of the Oklahoma Statutes, if the child otherwise
+3
+4
+would have been a member of the household of the taxpayer. The
+4
+5
+taxpayer may claim the credit only in the tax year in which the
+5
+6
+stillbirth occurred. The credit authorized pursuant to this
+6
+7
+subsection shall be five percent (5%) of the child tax credit that
+7
+8
+would be allowed under the Internal Revenue Code of 1986, as
+8
+9
+amended, if the child were a dependent and a member of the
+9
+10
+household. The Oklahoma Tax Commission may promulgate rules to
+10
+11
+enforce the provisions of this subsection.
+11
+12
+SECTION 2. This act shall become effective November 1, 2025.
+12
+13
+13
+14
+60-1-1345 QD 12/30/2024 4:51:34 PM
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1345 Page 3
+
+[DELETED:  P B N]
+[DELETED:  P]
+[DELETED:  P Q 1]

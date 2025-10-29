@@ -1,0 +1,354 @@
+Title: 5 SENATE BILL NO. 68 By: Green of the Senate
+Official Title: 5 SENATE BILL NO. 68 By: Green of the Senate
+Number of Sections: 1
+Source: versions - Floor (House)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 1st Session of the 60th Legislature (2025)
+4 COMMITTEE SUBSTITUTE
+FOR ENGROSSED
+6 and
+7 Bashore of the House
+8
+9
+10 COMMITTEE SUBSTITUTE
+11 An Act relating to the Information Technology
+Consolidation and Coordination Act; amending 62 O.S.
+12 2021, Section 35.3, which relates to definitions;
+expanding certain definitions; setting guidelines for
+13 hiring personnel; providing for codification; and
+declaring an emergency.
+14
+15
+16 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17 SECTION 1. AMENDATORY 62 O.S. 2021, Section 35.3, is
+18 amended to read as follows:
+19 Section 35.3. As used in the Information Technology
+20 Consolidation and Coordination Act:
+21 1. “Appropriated state agency” means any state agency that
+22 receives funding through the annual legislative appropriations
+23 process;
+24
+SB68 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+1 2. “Information technology assets” means any equipment or
+2 interconnected system or subsystem of equipment that is used in the
+3 acquisition, storage, manipulation, management, movement, control,
+4 display, switching, interchange, transmission, or reception of data
+5 or information. The term shall include computers, ancillary
+6 equipment, software, firmware and similar procedures, services,
+7 including support services and consulting services, software
+8 development, and related resources, and shall further include
+9 telecommunications fiber networks used for conveying electronic
+10 communication or information systems to multiple physical locations;
+11 3. “Information technology position” means a classified or
+12 unclassified position in the following functional areas:
+13 a. applications programming,
+14 b. EDP audit,
+15 c. data examination,
+16 d. computer applications,
+17 e. computer data entry,
+18 f. computer networking,
+19 g. computer operations,
+20 h. computer programming,
+21 i. computer security,
+22 j. computer software design,
+23 k. web applications,
+24 l. database analysis,
+SB68 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+1 m. data management analysis,
+2 n. database development,
+3 o. database programming,
+4 p. software design/development,
+5 q. help desk,
+6 r. imaging,
+7 s. systems analysis,
+8 t. systems application planning,
+9 u. systems application,
+10 v. systems administration,
+11 w. systems coordination,
+12 x. systems integration,
+13 y. systems operation,
+14 z. systems planning/development,
+15 aa. systems programming,
+16 bb. systems engineering,
+17 cc. systems service specialist,
+18 dd. systems support,
+19 ee. network administration,
+20 ff. network management,
+21 gg. network technical,
+22 hh. operating systems specialist,
+23 ii. systems program manager,
+24 jj. telecommunications, whether data or voice,
+SB68 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+1 kk. software training, and
+2 ll. technology development or support;
+3 4. “Nonappropriated state agency” means any state agency that
+4 does not receive funding through the annual legislative
+5 appropriations process;
+6 5. “Shared services” means those state agency functions which
+7 are or could be provided through:
+8 a. the services and systems specified in subsection A of
+9 Section 35.6 of this title, and
+10 b. the programs, services, software, or processes
+11 specified in subsection B of Section 35.6 of this
+12 title; and
+13 6. “State agency” means any office, elected or appointed
+14 officer, bureau, board, commission, counsel, unit, division, body,
+15 authority, or institution of the executive branch of state
+16 government excluding institutions within The Oklahoma State System
+17 of Higher Education, the Oklahoma Municipal Power Authority, the
+18 Oklahoma State Regents for Higher Education, the Oklahoma State
+19 Bureau of Investigation, the District Attorneys Council, the Office
+20 of the Attorney General, the Office of the State Auditor and
+21 Inspector, and the telecommunications network known as OneNet.
+22 SECTION 2. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 35.7a of Title 62, unless there
+24 is created a duplication in numbering, reads as follows:
+SB68 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+1 A. Except as otherwise provided by the Information Technology
+2 Consolidation and Coordination Act, any state agency may employ
+3 information technology personnel to develop and implement the
+4 agency’s technology strategy, provided that the agency remains
+5 subject to the standards, policies, and oversight established by the
+6 Chief Information Officer of this state for the purposes of data
+7 integrity and security.
+8 B. A state agency may employ information technology personnel
+9 pursuant to this section if it first enters into a memorandum of
+10 understanding with the Chief Information Officer detailing, at a
+11 minimum:
+12 1. The specific positions and job descriptions that the agency
+13 plans to hire;
+14 2. The qualifications of the positions;
+15 3. Agreement by the state agency to be bound by the standards,
+16 policies, and oversight set forth by the Chief Information Officer
+17 for security and data integrity purposes; and
+18 4. Any other terms deemed necessary by the Chief Information
+19 Officer or the state agency.
+20 No information technology personnel shall be hired or retained
+21 by the state agency until a memorandum of understanding has been
+22 fully executed by both the Chief Information Officer and the state
+23 agency.
+24
+SB68 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+1 C. The Chief Information Officer, at his or her discretion, may
+2 audit the state agency’s compliance with the provisions of the
+3 memorandum of understanding and any other requirements of this
+4 section.
+5 D. The authorization described in this section shall not be
+6 construed as a waiver or exemption of any other provisions of the
+7 Information Technology Consolidation and Coordination Act.
+8 SECTION 3. It being immediately necessary for the preservation
+9 of the public peace, health or safety, an emergency is hereby
+10 declared to exist, by reason whereof this act shall take effect and
+11 be in full force from and after its passage and approval.
+12
+13 COMMITTEE REPORT BY: COMMITTEE ON COMMERCE AND ECONOMIC DEVELOPMENT
+OVERSIGHT, dated 04/21/2025 - DO PASS, As Amended.
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SB68 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+[DELETED:  P B G  a B]
+[DELETED:  P a E d c c c c c c c w d]
+[DELETED:  P d d d s h i s s s s s s s s s s s s n n n o s t]
+[DELETED:  P s t t t]
+[DELETED:  P]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 1st Session of the 60th Legislature (2025)
+4 COMMITTEE SUBSTITUTE
+FOR ENGROSSED
+5 SENATE BILL NO. 68 By: Green of the Senate
+6 and
+7 Bashore of the House
+8
+9
+10 COMMITTEE SUBSTITUTE
+11 An Act relating to the Information Technology
+Consolidation and Coordination Act; amending 62 O.S.
+12 2021, Section 35.3, which relates to definitions;
+expanding certain definitions; setting guidelines for
+13 hiring personnel; providing for codification; and
+declaring an emergency.
+14
+15
+16 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17 SECTION 1. AMENDATORY 62 O.S. 2021, Section 35.3, is
+18 amended to read as follows:
+19 Section 35.3. As used in the Information Technology
+20 Consolidation and Coordination Act:
+21 1. “Appropriated state agency” means any state agency that
+22 receives funding through the annual legislative appropriations
+23 process;
+24
+SB68 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+1 2. “Information technology assets” means any equipment or
+2 interconnected system or subsystem of equipment that is used in the
+3 acquisition, storage, manipulation, management, movement, control,
+4 display, switching, interchange, transmission, or reception of data
+5 or information. The term shall include computers, ancillary
+6 equipment, software, firmware and similar procedures, services,
+7 including support services and consulting services, software
+8 development, and related resources, and shall further include
+9 telecommunications fiber networks used for conveying electronic
+10 communication or information systems to multiple physical locations;
+11 3. “Information technology position” means a classified or
+12 unclassified position in the following functional areas:
+13 a. applications programming,
+14 b. EDP audit,
+15 c. data examination,
+16 d. computer applications,
+17 e. computer data entry,
+18 f. computer networking,
+19 g. computer operations,
+20 h. computer programming,
+21 i. computer security,
+22 j. computer software design,
+23 k. web applications,
+24 l. database analysis,
+SB68 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+1 m. data management analysis,
+2 n. database development,
+3 o. database programming,
+4 p. software design/development,
+5 q. help desk,
+6 r. imaging,
+7 s. systems analysis,
+8 t. systems application planning,
+9 u. systems application,
+10 v. systems administration,
+11 w. systems coordination,
+12 x. systems integration,
+13 y. systems operation,
+14 z. systems planning/development,
+15 aa. systems programming,
+16 bb. systems engineering,
+17 cc. systems service specialist,
+18 dd. systems support,
+19 ee. network administration,
+20 ff. network management,
+21 gg. network technical,
+22 hh. operating systems specialist,
+23 ii. systems program manager,
+24 jj. telecommunications, whether data or voice,
+SB68 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+1 kk. software training, and
+2 ll. technology development or support;
+3 4. “Nonappropriated state agency” means any state agency that
+4 does not receive funding through the annual legislative
+5 appropriations process;
+6 5. “Shared services” means those state agency functions which
+7 are or could be provided through:
+8 a. the services and systems specified in subsection A of
+9 Section 35.6 of this title, and
+10 b. the programs, services, software, or processes
+11 specified in subsection B of Section 35.6 of this
+12 title; and
+13 6. “State agency” means any office, elected or appointed
+14 officer, bureau, board, commission, counsel, unit, division, body,
+15 authority, or institution of the executive branch of state
+16 government excluding institutions within The Oklahoma State System
+17 of Higher Education, the Oklahoma Municipal Power Authority, the
+18 Oklahoma State Regents for Higher Education, the Oklahoma State
+19 Bureau of Investigation, the District Attorneys Council, the Office
+20 of the Attorney General, the Office of the State Auditor and
+21 Inspector, and the telecommunications network known as OneNet.
+22 SECTION 2. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 35.7a of Title 62, unless there
+24 is created a duplication in numbering, reads as follows:
+SB68 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+1 A. Except as otherwise provided by the Information Technology
+2 Consolidation and Coordination Act, any state agency may employ
+3 information technology personnel to develop and implement the
+4 agency’s technology strategy, provided that the agency remains
+5 subject to the standards, policies, and oversight established by the
+6 Chief Information Officer of this state for the purposes of data
+7 integrity and security.
+8 B. A state agency may employ information technology personnel
+9 pursuant to this section if it first enters into a memorandum of
+10 understanding with the Chief Information Officer detailing, at a
+11 minimum:
+12 1. The specific positions and job descriptions that the agency
+13 plans to hire;
+14 2. The qualifications of the positions;
+15 3. Agreement by the state agency to be bound by the standards,
+16 policies, and oversight set forth by the Chief Information Officer
+17 for security and data integrity purposes; and
+18 4. Any other terms deemed necessary by the Chief Information
+19 Officer or the state agency.
+20 No information technology personnel shall be hired or retained
+21 by the state agency until a memorandum of understanding has been
+22 fully executed by both the Chief Information Officer and the state
+23 agency.
+24
+SB68 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+1 C. The Chief Information Officer, at his or her discretion, may
+2 audit the state agency’s compliance with the provisions of the
+3 memorandum of understanding and any other requirements of this
+4 section.
+5 D. The authorization described in this section shall not be
+6 construed as a waiver or exemption of any other provisions of the
+7 Information Technology Consolidation and Coordination Act.
+8 SECTION 3. It being immediately necessary for the preservation
+9 of the public peace, health or safety, an emergency is hereby
+10 declared to exist, by reason whereof this act shall take effect and
+11 be in full force from and after its passage and approval.
+12
+13 COMMITTEE REPORT BY: COMMITTEE ON COMMERCE AND ECONOMIC DEVELOPMENT
+OVERSIGHT, dated 04/21/2025 - DO PASS, As Amended.
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SB68 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+[DELETED:  P B G  a B]
+[DELETED:  P a E d c c c c c c c w d]
+[DELETED:  P d d d s h i s s s s s s s s s s s s n n n o s t]
+[DELETED:  P s t t t]
+[DELETED:  P]
+[DELETED:  P]

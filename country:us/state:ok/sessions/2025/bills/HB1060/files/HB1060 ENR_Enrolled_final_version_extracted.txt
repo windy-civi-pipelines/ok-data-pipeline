@@ -1,0 +1,1053 @@
+Title: An Act
+Official Title: An Act
+Number of Sections: 87
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED HOUSE
+BILL NO. 1060 By: Wilk of the House
+and
+Standridge of the Senate
+An Act relating to easements; enacting the Oklahoma
+Uniform Easement Relocation Act of 2025; defining
+terms; making provisions of act applicable to certain
+easements; excluding certain easements from relation;
+establishing the right of a property owner to
+relocate an easement in certain circumstances;
+providing that a property owner may commence a civil
+action to relocate an easement; providing the
+requirements for commencing a civil action to
+relocate an easement; providing the court guidelines
+in creating an order for relocation of an easement;
+requiring the recordation of certain documents prior
+to relocation of an easement; providing for
+reasonable expenses related to the relocation of an
+easement; requiring the parties to a civil action for
+easement relocation to act in good faith in
+facilitating relocation; providing when a proposed
+easement relocation is considered to be final and
+complete; providing and limiting the effect of an
+easement relocation; providing that the right of a
+property to relocate an easement under this act
+cannot be waived, excluded, or restricted by
+agreement; providing that the law should be applied
+and construed to promote uniformity with other states
+that enact the act; providing relation to the
+Electronic Signatures in Global and National Commerce
+Act; providing that this act applies to an easement
+created before, on, or after the effective date of
+this act; providing for codification; and providing
+an effective date.
+SUBJECT: Easements
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1501 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+This act shall be known and may be cited as the "Oklahoma
+Uniform Easement Relocation Act of 2025".
+
+Section 3:
+SECTION 2. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1502 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+As used in this act:
+
+Section 4:
+1. "Appurtenant easement" means an easement tied to or
+dependent on ownership or occupancy of a unit or a parcel of real
+property;
+
+Section 5:
+2. "Conservation easement" means a nonpossessory property
+interest created for one or more of the following conservation
+purposes:
+a. retaining or protecting the natural, scenic, wildlife,
+wildlife-habitat, biological, ecological, or open-
+space values of real property,
+b. ensuring the availability of real property for
+agricultural, forest, outdoor-recreational, or open-
+space uses,
+c. protecting natural resources, including wetlands,
+grasslands, and riparian areas,
+d. maintaining or enhancing air or water quality, or
+e. preserving the historical, architectural,
+archeological, paleontological, or cultural aspects of
+real property;
+
+Section 6:
+3. "Dominant estate" means an estate or interest in real
+property benefitted by an appurtenant easement;
+ENR. H. B. NO. 1060 Page 2
+
+Section 7:
+4. "Easement" means a nonpossessory property interest that:
+a. provides a right to enter, use, or enjoy real property
+owned by or in the possession of another, and
+b. imposes on the owner or possessor a duty not to
+interfere with the entry, use, or enjoyment permitted
+by the instrument creating the easement or, in the
+case of an easement not established by express grant
+or reservation, the entry, use, or enjoyment
+authorized by law;
+
+Section 8:
+5. "Easement holder" means:
+a. in the case of an appurtenant easement, the dominant
+estate owner, or
+b. in the case of an easement in gross, public-utility
+easement, conservation easement, or negative easement,
+the grantee of the easement or a successor;
+
+Section 9:
+6. "Easement in gross" means an easement not tied to or
+dependent on ownership or occupancy of a unit or a parcel of real
+property;
+
+Section 10:
+7. "Lessee of record" means a person holding a lessee's
+interest under a recorded lease or memorandum of lease;
+
+Section 11:
+8. "Negative easement" means a nonpossessory property interest
+whose primary purpose is to impose on a servient estate owner a duty
+not to engage in a specified use of the estate;
+
+Section 12:
+9. "Person" means an individual, estate, business or nonprofit
+entity, public corporation, government or governmental subdivision,
+agency, or instrumentality, or other legal entity;
+
+Section 13:
+10. "Public-utility easement" means a nonpossessory property
+interest in which the easement holder is a publicly regulated or
+publicly owned utility under federal law or law of this state or a
+municipality. The term includes an easement benefiting an
+intrastate utility, an interstate utility, or a utility cooperative;
+
+Section 14:
+11. "Real property" means an estate or interest in, over, or
+under land, including structures, fixtures, and other things that by
+custom, usage, or law pass with a conveyance of land whether or not
+ENR. H. B. NO. 1060 Page 3
+described or mentioned in the contract of sale or instrument of
+conveyance. The term includes the interest of a lessor and lessee
+and, unless the interest is personal property under law of this
+state other than this act, an interest in a common-interest
+community;
+
+Section 15:
+12. "Record", used as a noun, means information that is
+inscribed on a tangible medium or that is stored in an electronic or
+other medium and is retrievable in perceivable form;
+
+Section 16:
+13. "Security instrument" means a mortgage, deed of trust,
+security deed, contract for deed, lease, or other record that
+creates or provides for an interest in real property to secure
+payment or performance of an obligation, whether by acquisition or
+retention of a lien, a lessor's interest under a lease, or title to
+the real property. The term includes:
+a. a security instrument that also creates or provides
+for a security interest in personal property,
+b. a modification or amendment of a security instrument,
+and
+c. a record creating a lien on real property to secure an
+obligation under a covenant running with the real
+property or owed by a unit owner to a common-interest
+community association;
+
+Section 17:
+14. "Security-interest holder of record" means a person holding
+an interest in real property created by a recorded security
+instrument;
+
+Section 18:
+15. "Servient estate" means an estate or interest in real
+property that is burdened by an easement;
+
+Section 19:
+16. "Title evidence" means a title insurance policy,
+preliminary title report or binder, title insurance commitment,
+abstract of title, attorney's opinion of title based on examination
+of public records or an abstract of title, or any other means of
+reporting the state of title to real property which is customary in
+the locality;
+
+Section 20:
+17. "Unit" means a physical portion of a common-interest
+community designated for separate ownership or occupancy with
+ENR. H. B. NO. 1060 Page 4
+boundaries described in a declaration establishing the common-
+interest community; and
+
+Section 21:
+18. "Utility cooperative" means a non-profit entity whose
+purpose is to deliver a utility service, such as electricity, oil,
+natural gas, water, sanitary sewer, storm water, or
+telecommunications, to its customers or members and includes an
+electric cooperative, rural electric cooperative, rural water
+district, and rural water association.
+
+Section 22:
+SECTION 3. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1503 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A. Except as otherwise provided in subsection B of this
+
+Section 23:
+section, this act applies to an easement established by express
+grant or reservation or by prescription, implication, necessity,
+estoppel, or other method.
+B. This act may not be used to relocate:
+
+Section 24:
+1. A public-utility easement, conservation easement, or
+negative easement; or
+
+Section 25:
+2. An easement if the proposed location would encroach on an
+area of an estate burdened by a conservation easement or would
+interfere with the use or enjoyment of a public-utility easement or
+an easement appurtenant to a conservation easement.
+C. This act does not apply to relocation of an easement by
+consent.
+
+Section 26:
+SECTION 4. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1504 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A servient estate owner may relocate an easement under this act
+only if the relocation does not materially:
+
+Section 27:
+1. Lessen the utility of the easement;
+
+Section 28:
+2. After the relocation, increase the burden on the easement
+holder in its reasonable use and enjoyment of the easement;
+ENR. H. B. NO. 1060 Page 5
+
+Section 29:
+3. Impair an affirmative, easement-related purpose for which
+the easement was created;
+
+Section 30:
+4. During or after the relocation, impair the safety of the
+easement holder or another entitled to use and enjoy the easement;
+
+Section 31:
+5. During the relocation, disrupt the use and enjoyment of the
+easement by the easement holder or another entitled to use and enjoy
+the easement, unless the servient estate owner substantially
+mitigates the duration and nature of the disruption;
+
+Section 32:
+6. Impair the physical condition, use, or value of the dominant
+estate or improvements on the dominant estate; or
+
+Section 33:
+7. Impair the value of the collateral of a security-interest
+holder of record in the servient estate or dominant estate, impair a
+real-property interest of a lessee of record in the dominant estate,
+or impair a recorded real-property interest of any other person in
+the servient estate or dominant estate.
+
+Section 34:
+SECTION 5. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1505 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A. To obtain an order to relocate an easement under this act, a
+servient estate owner must commence a civil action.
+B. A servient estate owner that commences a civil action under
+subsection A of this section:
+
+Section 35:
+1. Shall serve a summons and petition on:
+a. the easement holder whose easement is the subject of
+the relocation,
+b. a security-interest holder of record of an interest in
+the servient estate or dominant estate,
+c. a lessee of record of an interest in the dominant
+estate, and
+d. except as otherwise provided in paragraph 2 of this
+subsection, any other owner of a recorded real-
+property interest if the relocation would encroach on
+ENR. H. B. NO. 1060 Page 6
+an area of the servient estate or dominant estate
+burdened by the interest; and
+
+Section 36:
+2. Is not required to serve a summons and petition on the owner
+of a recorded real-property interest in oil, gas, or minerals unless
+the interest includes an easement to facilitate oil, gas, or mineral
+development.
+C. A petition under this section must state:
+
+Section 37:
+1. The intent of the servient estate owner to seek the
+relocation;
+
+Section 38:
+2. The nature, extent, and anticipated dates of commencement
+and completion of the proposed relocation;
+
+Section 39:
+3. The current and proposed locations of the easement;
+
+Section 40:
+4. The reason the easement is eligible for relocation under
+
+Section 41:
+Section 3 of this act;
+
+Section 42:
+5. The reason the proposed relocation satisfies the conditions
+for relocation under Section 4 of this act; and
+
+Section 43:
+6. That the servient estate owner has made a reasonable attempt
+to notify the holders of any public-utility easement, conservation
+easement, or negative easement on the servient estate or dominant
+estate of the proposed relocation.
+D. At any time before the court renders a final order in an
+action under subsection A of this section, a person served under
+subparagraph b, c, or d of subsection B of this section may file a
+document, in recordable form, that waives its rights to contest or
+obtain relief in connection with the relocation or subordinates its
+interests to the relocation. On filing of the document, the court
+may order that the person is not required to answer or participate
+further in the action.
+
+Section 44:
+SECTION 6. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1506 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A. The court may not approve relocation of an easement under
+this act unless the servient estate owner:
+ENR. H. B. NO. 1060 Page 7
+
+Section 45:
+1. Establishes that the easement is eligible for relocation
+under Section 3 of this act; and
+
+Section 46:
+2. Satisfies the conditions for relocation under Section 4 of
+this act.
+B. An order under this act approving relocation of an easement
+must:
+
+Section 47:
+1. State that the order is issued in accordance with this act;
+
+Section 48:
+2. Recite the recording data of the instrument creating the
+easement, if any, and any amendments, and any notice as described by
+
+Section 49:
+Section 71 of Title 16 of the Oklahoma Statutes;
+
+Section 50:
+3. Identify the immediately preceding location of the easement;
+
+Section 51:
+4. Describe in a legally sufficient manner the new location of
+the easement;
+
+Section 52:
+5. Describe mitigation required of the servient estate owner
+during relocation;
+
+Section 53:
+6. Refer in detail to the plans and specifications of
+improvements necessary for the easement holder to enter, use, and
+enjoy the easement in the new location;
+
+Section 54:
+7. Specify conditions to be satisfied by the servient estate
+owner to relocate the easement and construct improvements necessary
+for the easement holder to enter, use, and enjoy the easement in the
+new location;
+
+Section 55:
+8. Include a provision for payment by the servient estate owner
+of expenses under Section 7 of this act;
+
+Section 56:
+9. Include a provision for compliance by the parties with the
+obligation of good faith under Section 8 of this act; and
+
+Section 57:
+10. Instruct the servient estate owner to record an affidavit,
+if required under subsection A of Section 9 of this act, when the
+servient estate owner substantially completes relocation.
+C. An order under subsection B of this section may include any
+other provision consistent with this act for the fair and equitable
+relocation of the easement.
+ENR. H. B. NO. 1060 Page 8
+D. Before a servient estate owner proceeds with relocation of
+an easement under this act, the owner must record, in the county
+records of each jurisdiction where the servient estate is located, a
+certified copy of the order under subsection B of this section.
+
+Section 58:
+SECTION 7. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1507 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A servient estate owner is responsible for reasonable expenses
+of relocation of an easement under this act, including the expense
+of:
+
+Section 59:
+1. Constructing improvements on the servient estate or dominant
+estate in accordance with an order under Section 6 of this act;
+
+Section 60:
+2. During the relocation, mitigating disruption in the use and
+enjoyment of the easement by the easement holder or another person
+entitled to use and enjoy the easement;
+
+Section 61:
+3. Obtaining a governmental approval or permit to relocate the
+easement and construct necessary improvements;
+
+Section 62:
+4. Preparing and recording the certified copy required by
+subsection D of Section 6 of this act and any other document
+required to be recorded;
+
+Section 63:
+5. Any title work required to complete the relocation or
+required by a party to the civil action as a result of the
+relocation;
+
+Section 64:
+6. Applicable premiums for title insurance related to the
+relocation;
+
+Section 65:
+7. Any expert necessary to review plans and specifications for
+an improvement to be constructed in the relocated easement or on the
+dominant estate and to confirm compliance with the plans and
+specifications referred to in the order under paragraph 6 of
+subsection B of Section 6 of this act;
+
+Section 66:
+8. Payment of any maintenance cost associated with the
+relocated easement which is greater than the maintenance cost
+associated with the easement before relocation; and
+ENR. H. B. NO. 1060 Page 9
+
+Section 67:
+9. Obtaining any third-party consent required to relocate the
+easement.
+
+Section 68:
+SECTION 8. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1508 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+After the court, under Section 6 of this act, approves
+relocation of an easement and the servient estate owner commences
+the relocation, the servient estate owner, the easement holder, and
+other parties in the civil action shall act in good faith to
+facilitate the relocation in compliance with this act.
+
+Section 69:
+SECTION 9. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1509 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A. If an order under Section 6 of this act requires the
+construction of an improvement as a condition for relocation of an
+easement, relocation is substantially complete, and the easement
+holder is able to enter, use, and enjoy the easement in the new
+location, the servient estate owner shall:
+
+Section 70:
+1. Record, in the land records of each jurisdiction where the
+servient estate is located, an affidavit certifying that the
+easement has been relocated; and
+
+Section 71:
+2. Send, by certified mail, a copy of the recorded affidavit to
+the easement holder and parties to the civil action.
+B. Until an affidavit under subsection A of this section is
+recorded and sent, the easement holder may enter, use, and enjoy the
+easement in the current location, subject to the court's order under
+
+Section 72:
+Section 6 of this act approving relocation.
+C. If an order under Section 6 of this act does not require an
+improvement to be constructed as a condition of the relocation,
+recording the order under subsection D of Section 6 of this act
+constitutes relocation.
+
+Section 73:
+SECTION 10. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1510 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A. Relocation of an easement under this act:
+ENR. H. B. NO. 1060 Page 10
+
+Section 74:
+1. Is not a new transfer or a new grant of an interest in the
+servient estate or the dominant estate;
+
+Section 75:
+2. Is not a breach or default of, and does not trigger, a due-
+on-sale clause or other transfer-restriction clause under a security
+instrument, except as otherwise determined by a court under law
+other than this act;
+
+Section 76:
+3. Is not a breach or default of a lease, except as otherwise
+determined by a court under law other than this act;
+
+Section 77:
+4. Is not a breach or default by the servient estate owner of a
+recorded document affected by the relocation, except as otherwise
+determined by a court under law other than this act;
+
+Section 78:
+5. Does not affect the priority of the easement with respect to
+other recorded real-property interests burdening the area of the
+servient estate where the easement was located before the
+relocation; and
+
+Section 79:
+6. Is not a fraudulent conveyance or voidable transaction under
+law.
+B. This act does not affect any other method of relocating an
+easement permitted under law of this state other than this act.
+
+Section 80:
+SECTION 11. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1511 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+The right of a servient estate owner to relocate an easement
+under this act may not be waived, excluded, or restricted by
+agreement even if:
+
+Section 81:
+1. The instrument creating the easement prohibits relocation or
+contains a waiver, exclusion, or restriction of this act;
+
+Section 82:
+2. The instrument creating the easement requires consent of the
+easement holder to amend the terms of the easement; or
+
+Section 83:
+3. The location of the easement is fixed by the instrument
+creating the easement, another agreement, previous conduct,
+acquiescence, estoppel, or implication.
+ENR. H. B. NO. 1060 Page 11
+
+Section 84:
+SECTION 12. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1512 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+In applying and construing this uniform act, consideration must
+be given to the need to promote uniformity of the law with respect
+to its subject matter among the states that enact it.
+
+Section 85:
+SECTION 13. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1513 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+This act modifies, limits, or supersedes the Electronic
+Signatures in Global and National Commerce Act, 15 U.S.C., Section
+7001 et seq., but does not modify, limit, or supersede Section
+101(c) of that act, 15 U.S.C., Section 7001(c), or authorize
+electronic delivery of any of the notices described in Section
+103(b) of that act, 15 U.S.C., Section 7003(b).
+
+Section 86:
+SECTION 14. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1514 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+This act applies to an easement created before, on, or after the
+effective date of this act.
+
+Section 87:
+SECTION 15. This act shall become effective November 1, 2025.
+ENR. H. B. NO. 1060 Page 12
+Passed the House of Representatives the 11th day of March, 2025.
+Presiding Officer of the House
+of Representatives
+Passed the Senate the 7th day of May, 2025.
+Presiding Officer of the Senate
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. H. B. NO. 1060 Page 13
+[DELETED:  B W   a S]
+[DELETED:  P r e p m p]
+[DELETED:  P p i i i]
+[DELETED:  P a a a]
+[DELETED:  P]
+[DELETED:  P t a a e]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPoP_G]
+
+
+================================================================================
+
+Raw Text:
+An Act
+ENROLLED HOUSE
+BILL NO. 1060 By: Wilk of the House
+and
+Standridge of the Senate
+An Act relating to easements; enacting the Oklahoma
+Uniform Easement Relocation Act of 2025; defining
+terms; making provisions of act applicable to certain
+easements; excluding certain easements from relation;
+establishing the right of a property owner to
+relocate an easement in certain circumstances;
+providing that a property owner may commence a civil
+action to relocate an easement; providing the
+requirements for commencing a civil action to
+relocate an easement; providing the court guidelines
+in creating an order for relocation of an easement;
+requiring the recordation of certain documents prior
+to relocation of an easement; providing for
+reasonable expenses related to the relocation of an
+easement; requiring the parties to a civil action for
+easement relocation to act in good faith in
+facilitating relocation; providing when a proposed
+easement relocation is considered to be final and
+complete; providing and limiting the effect of an
+easement relocation; providing that the right of a
+property to relocate an easement under this act
+cannot be waived, excluded, or restricted by
+agreement; providing that the law should be applied
+and construed to promote uniformity with other states
+that enact the act; providing relation to the
+Electronic Signatures in Global and National Commerce
+Act; providing that this act applies to an easement
+created before, on, or after the effective date of
+this act; providing for codification; and providing
+an effective date.
+
+SUBJECT: Easements
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1501 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+This act shall be known and may be cited as the "Oklahoma
+Uniform Easement Relocation Act of 2025".
+SECTION 2. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1502 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+As used in this act:
+1. "Appurtenant easement" means an easement tied to or
+dependent on ownership or occupancy of a unit or a parcel of real
+property;
+2. "Conservation easement" means a nonpossessory property
+interest created for one or more of the following conservation
+purposes:
+a. retaining or protecting the natural, scenic, wildlife,
+wildlife-habitat, biological, ecological, or open-
+space values of real property,
+b. ensuring the availability of real property for
+agricultural, forest, outdoor-recreational, or open-
+space uses,
+c. protecting natural resources, including wetlands,
+grasslands, and riparian areas,
+d. maintaining or enhancing air or water quality, or
+e. preserving the historical, architectural,
+archeological, paleontological, or cultural aspects of
+real property;
+3. "Dominant estate" means an estate or interest in real
+property benefitted by an appurtenant easement;
+ENR. H. B. NO. 1060 Page 2
+
+4. "Easement" means a nonpossessory property interest that:
+a. provides a right to enter, use, or enjoy real property
+owned by or in the possession of another, and
+b. imposes on the owner or possessor a duty not to
+interfere with the entry, use, or enjoyment permitted
+by the instrument creating the easement or, in the
+case of an easement not established by express grant
+or reservation, the entry, use, or enjoyment
+authorized by law;
+5. "Easement holder" means:
+a. in the case of an appurtenant easement, the dominant
+estate owner, or
+b. in the case of an easement in gross, public-utility
+easement, conservation easement, or negative easement,
+the grantee of the easement or a successor;
+6. "Easement in gross" means an easement not tied to or
+dependent on ownership or occupancy of a unit or a parcel of real
+property;
+7. "Lessee of record" means a person holding a lessee's
+interest under a recorded lease or memorandum of lease;
+8. "Negative easement" means a nonpossessory property interest
+whose primary purpose is to impose on a servient estate owner a duty
+not to engage in a specified use of the estate;
+9. "Person" means an individual, estate, business or nonprofit
+entity, public corporation, government or governmental subdivision,
+agency, or instrumentality, or other legal entity;
+10. "Public-utility easement" means a nonpossessory property
+interest in which the easement holder is a publicly regulated or
+publicly owned utility under federal law or law of this state or a
+municipality. The term includes an easement benefiting an
+intrastate utility, an interstate utility, or a utility cooperative;
+11. "Real property" means an estate or interest in, over, or
+under land, including structures, fixtures, and other things that by
+custom, usage, or law pass with a conveyance of land whether or not
+ENR. H. B. NO. 1060 Page 3
+
+described or mentioned in the contract of sale or instrument of
+conveyance. The term includes the interest of a lessor and lessee
+and, unless the interest is personal property under law of this
+state other than this act, an interest in a common-interest
+community;
+12. "Record", used as a noun, means information that is
+inscribed on a tangible medium or that is stored in an electronic or
+other medium and is retrievable in perceivable form;
+13. "Security instrument" means a mortgage, deed of trust,
+security deed, contract for deed, lease, or other record that
+creates or provides for an interest in real property to secure
+payment or performance of an obligation, whether by acquisition or
+retention of a lien, a lessor's interest under a lease, or title to
+the real property. The term includes:
+a. a security instrument that also creates or provides
+for a security interest in personal property,
+b. a modification or amendment of a security instrument,
+and
+c. a record creating a lien on real property to secure an
+obligation under a covenant running with the real
+property or owed by a unit owner to a common-interest
+community association;
+14. "Security-interest holder of record" means a person holding
+an interest in real property created by a recorded security
+instrument;
+15. "Servient estate" means an estate or interest in real
+property that is burdened by an easement;
+16. "Title evidence" means a title insurance policy,
+preliminary title report or binder, title insurance commitment,
+abstract of title, attorney's opinion of title based on examination
+of public records or an abstract of title, or any other means of
+reporting the state of title to real property which is customary in
+the locality;
+17. "Unit" means a physical portion of a common-interest
+community designated for separate ownership or occupancy with
+ENR. H. B. NO. 1060 Page 4
+
+boundaries described in a declaration establishing the common-
+interest community; and
+18. "Utility cooperative" means a non-profit entity whose
+purpose is to deliver a utility service, such as electricity, oil,
+natural gas, water, sanitary sewer, storm water, or
+telecommunications, to its customers or members and includes an
+electric cooperative, rural electric cooperative, rural water
+district, and rural water association.
+SECTION 3. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1503 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A. Except as otherwise provided in subsection B of this
+section, this act applies to an easement established by express
+grant or reservation or by prescription, implication, necessity,
+estoppel, or other method.
+B. This act may not be used to relocate:
+1. A public-utility easement, conservation easement, or
+negative easement; or
+2. An easement if the proposed location would encroach on an
+area of an estate burdened by a conservation easement or would
+interfere with the use or enjoyment of a public-utility easement or
+an easement appurtenant to a conservation easement.
+C. This act does not apply to relocation of an easement by
+consent.
+SECTION 4. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1504 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A servient estate owner may relocate an easement under this act
+only if the relocation does not materially:
+1. Lessen the utility of the easement;
+2. After the relocation, increase the burden on the easement
+holder in its reasonable use and enjoyment of the easement;
+ENR. H. B. NO. 1060 Page 5
+
+3. Impair an affirmative, easement-related purpose for which
+the easement was created;
+4. During or after the relocation, impair the safety of the
+easement holder or another entitled to use and enjoy the easement;
+5. During the relocation, disrupt the use and enjoyment of the
+easement by the easement holder or another entitled to use and enjoy
+the easement, unless the servient estate owner substantially
+mitigates the duration and nature of the disruption;
+6. Impair the physical condition, use, or value of the dominant
+estate or improvements on the dominant estate; or
+7. Impair the value of the collateral of a security-interest
+holder of record in the servient estate or dominant estate, impair a
+real-property interest of a lessee of record in the dominant estate,
+or impair a recorded real-property interest of any other person in
+the servient estate or dominant estate.
+SECTION 5. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1505 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A. To obtain an order to relocate an easement under this act, a
+servient estate owner must commence a civil action.
+B. A servient estate owner that commences a civil action under
+subsection A of this section:
+1. Shall serve a summons and petition on:
+a. the easement holder whose easement is the subject of
+the relocation,
+b. a security-interest holder of record of an interest in
+the servient estate or dominant estate,
+c. a lessee of record of an interest in the dominant
+estate, and
+d. except as otherwise provided in paragraph 2 of this
+subsection, any other owner of a recorded real-
+property interest if the relocation would encroach on
+ENR. H. B. NO. 1060 Page 6
+
+an area of the servient estate or dominant estate
+burdened by the interest; and
+2. Is not required to serve a summons and petition on the owner
+of a recorded real-property interest in oil, gas, or minerals unless
+the interest includes an easement to facilitate oil, gas, or mineral
+development.
+C. A petition under this section must state:
+1. The intent of the servient estate owner to seek the
+relocation;
+2. The nature, extent, and anticipated dates of commencement
+and completion of the proposed relocation;
+3. The current and proposed locations of the easement;
+4. The reason the easement is eligible for relocation under
+Section 3 of this act;
+5. The reason the proposed relocation satisfies the conditions
+for relocation under Section 4 of this act; and
+6. That the servient estate owner has made a reasonable attempt
+to notify the holders of any public-utility easement, conservation
+easement, or negative easement on the servient estate or dominant
+estate of the proposed relocation.
+D. At any time before the court renders a final order in an
+action under subsection A of this section, a person served under
+subparagraph b, c, or d of subsection B of this section may file a
+document, in recordable form, that waives its rights to contest or
+obtain relief in connection with the relocation or subordinates its
+interests to the relocation. On filing of the document, the court
+may order that the person is not required to answer or participate
+further in the action.
+SECTION 6. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1506 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A. The court may not approve relocation of an easement under
+this act unless the servient estate owner:
+ENR. H. B. NO. 1060 Page 7
+
+1. Establishes that the easement is eligible for relocation
+under Section 3 of this act; and
+2. Satisfies the conditions for relocation under Section 4 of
+this act.
+B. An order under this act approving relocation of an easement
+must:
+1. State that the order is issued in accordance with this act;
+2. Recite the recording data of the instrument creating the
+easement, if any, and any amendments, and any notice as described by
+Section 71 of Title 16 of the Oklahoma Statutes;
+3. Identify the immediately preceding location of the easement;
+4. Describe in a legally sufficient manner the new location of
+the easement;
+5. Describe mitigation required of the servient estate owner
+during relocation;
+6. Refer in detail to the plans and specifications of
+improvements necessary for the easement holder to enter, use, and
+enjoy the easement in the new location;
+7. Specify conditions to be satisfied by the servient estate
+owner to relocate the easement and construct improvements necessary
+for the easement holder to enter, use, and enjoy the easement in the
+new location;
+8. Include a provision for payment by the servient estate owner
+of expenses under Section 7 of this act;
+9. Include a provision for compliance by the parties with the
+obligation of good faith under Section 8 of this act; and
+10. Instruct the servient estate owner to record an affidavit,
+if required under subsection A of Section 9 of this act, when the
+servient estate owner substantially completes relocation.
+C. An order under subsection B of this section may include any
+other provision consistent with this act for the fair and equitable
+relocation of the easement.
+ENR. H. B. NO. 1060 Page 8
+
+D. Before a servient estate owner proceeds with relocation of
+an easement under this act, the owner must record, in the county
+records of each jurisdiction where the servient estate is located, a
+certified copy of the order under subsection B of this section.
+SECTION 7. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1507 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A servient estate owner is responsible for reasonable expenses
+of relocation of an easement under this act, including the expense
+of:
+1. Constructing improvements on the servient estate or dominant
+estate in accordance with an order under Section 6 of this act;
+2. During the relocation, mitigating disruption in the use and
+enjoyment of the easement by the easement holder or another person
+entitled to use and enjoy the easement;
+3. Obtaining a governmental approval or permit to relocate the
+easement and construct necessary improvements;
+4. Preparing and recording the certified copy required by
+subsection D of Section 6 of this act and any other document
+required to be recorded;
+5. Any title work required to complete the relocation or
+required by a party to the civil action as a result of the
+relocation;
+6. Applicable premiums for title insurance related to the
+relocation;
+7. Any expert necessary to review plans and specifications for
+an improvement to be constructed in the relocated easement or on the
+dominant estate and to confirm compliance with the plans and
+specifications referred to in the order under paragraph 6 of
+subsection B of Section 6 of this act;
+8. Payment of any maintenance cost associated with the
+relocated easement which is greater than the maintenance cost
+associated with the easement before relocation; and
+ENR. H. B. NO. 1060 Page 9
+
+9. Obtaining any third-party consent required to relocate the
+easement.
+SECTION 8. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1508 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+After the court, under Section 6 of this act, approves
+relocation of an easement and the servient estate owner commences
+the relocation, the servient estate owner, the easement holder, and
+other parties in the civil action shall act in good faith to
+facilitate the relocation in compliance with this act.
+SECTION 9. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1509 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A. If an order under Section 6 of this act requires the
+construction of an improvement as a condition for relocation of an
+easement, relocation is substantially complete, and the easement
+holder is able to enter, use, and enjoy the easement in the new
+location, the servient estate owner shall:
+1. Record, in the land records of each jurisdiction where the
+servient estate is located, an affidavit certifying that the
+easement has been relocated; and
+2. Send, by certified mail, a copy of the recorded affidavit to
+the easement holder and parties to the civil action.
+B. Until an affidavit under subsection A of this section is
+recorded and sent, the easement holder may enter, use, and enjoy the
+easement in the current location, subject to the court's order under
+Section 6 of this act approving relocation.
+C. If an order under Section 6 of this act does not require an
+improvement to be constructed as a condition of the relocation,
+recording the order under subsection D of Section 6 of this act
+constitutes relocation.
+SECTION 10. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1510 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+A. Relocation of an easement under this act:
+ENR. H. B. NO. 1060 Page 10
+
+1. Is not a new transfer or a new grant of an interest in the
+servient estate or the dominant estate;
+2. Is not a breach or default of, and does not trigger, a due-
+on-sale clause or other transfer-restriction clause under a security
+instrument, except as otherwise determined by a court under law
+other than this act;
+3. Is not a breach or default of a lease, except as otherwise
+determined by a court under law other than this act;
+4. Is not a breach or default by the servient estate owner of a
+recorded document affected by the relocation, except as otherwise
+determined by a court under law other than this act;
+5. Does not affect the priority of the easement with respect to
+other recorded real-property interests burdening the area of the
+servient estate where the easement was located before the
+relocation; and
+6. Is not a fraudulent conveyance or voidable transaction under
+law.
+B. This act does not affect any other method of relocating an
+easement permitted under law of this state other than this act.
+SECTION 11. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1511 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+The right of a servient estate owner to relocate an easement
+under this act may not be waived, excluded, or restricted by
+agreement even if:
+1. The instrument creating the easement prohibits relocation or
+contains a waiver, exclusion, or restriction of this act;
+2. The instrument creating the easement requires consent of the
+easement holder to amend the terms of the easement; or
+3. The location of the easement is fixed by the instrument
+creating the easement, another agreement, previous conduct,
+acquiescence, estoppel, or implication.
+ENR. H. B. NO. 1060 Page 11
+
+SECTION 12. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1512 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+In applying and construing this uniform act, consideration must
+be given to the need to promote uniformity of the law with respect
+to its subject matter among the states that enact it.
+SECTION 13. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1513 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+This act modifies, limits, or supersedes the Electronic
+Signatures in Global and National Commerce Act, 15 U.S.C., Section
+7001 et seq., but does not modify, limit, or supersede Section
+101(c) of that act, 15 U.S.C., Section 7001(c), or authorize
+electronic delivery of any of the notices described in Section
+103(b) of that act, 15 U.S.C., Section 7003(b).
+SECTION 14. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1514 of Title 60, unless there
+is created a duplication in numbering, reads as follows:
+This act applies to an easement created before, on, or after the
+effective date of this act.
+SECTION 15. This act shall become effective November 1, 2025.
+ENR. H. B. NO. 1060 Page 12
+
+Passed the House of Representatives the 11th day of March, 2025.
+Presiding Officer of the House
+of Representatives
+Passed the Senate the 7th day of May, 2025.
+Presiding Officer of the Senate
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. H. B. NO. 1060 Page 13
+
+[DELETED:  B W   a S]
+[DELETED:  P r e p m p]
+[DELETED:  P p i i i]
+[DELETED:  P a a a]
+[DELETED:  P]
+[DELETED:  P t a a e]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPoP_G]

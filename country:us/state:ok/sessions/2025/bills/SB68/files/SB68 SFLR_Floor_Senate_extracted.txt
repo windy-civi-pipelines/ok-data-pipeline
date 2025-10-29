@@ -1,0 +1,240 @@
+Title: 3 SENATE BILL NO. 68 By: Green of the Senate
+Official Title: 3 SENATE BILL NO. 68 By: Green of the Senate
+Number of Sections: 1
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 SENATE FLOOR VERSION
+February 25, 2025
+2 AS AMENDED
+4 and
+5 Bashore of the House
+6
+7
+8 [ Information Technology Consolidation and
+Coordination Act - term -
+9 emergency ]
+10
+11
+12 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13 SECTION 1. AMENDATORY 62 O.S. 2021, Section 35.3, is
+14 amended to read as follows:
+15 Section 35.3. As used in the Information Technology
+16 Consolidation and Coordination Act:
+17 1. “Appropriated state agency” means any state agency that
+18 receives funding through the annual legislative appropriations
+19 process;
+20 2. “Information technology assets” means any equipment or
+21 interconnected system or subsystem of equipment that is used in the
+22 acquisition, storage, manipulation, management, movement, control,
+23 display, switching, interchange, transmission, or reception of data
+24 or information. The term shall include computers, ancillary
+SENATE FLOOR VERSION - SB68 SFLR Page 1
+(Bold face denotes Committee Amendments)
+1 equi pment, software, firmware and similar procedures, services,
+2 including support services and consulting services, software
+3 development, and related resources, and shall further include
+4 telecommunications fiber networks used for conveying electronic
+5 communication or information systems to multiple physical locations;
+6 3. “Information technology position” means a classified or
+7 unclassified position in the following functional areas:
+8 a. applications programming,
+9 b. EDP audit,
+10 c. data examination,
+11 d. computer applications,
+12 e. computer data entry,
+13 f. computer networking,
+14 g. computer operations,
+15 h. computer programming,
+16 i. computer security,
+17 j. computer software design,
+18 k. web applications,
+19 l. database analysis,
+20 m. data management analysis,
+21 n. database development,
+22 o. database programming,
+23 p. software design/development,
+24 q. help desk,
+SENATE FLOOR VERSION - SB68 SFLR Page 2
+(Bold face denotes Committee Amendments)
+1 r. imaging,
+2 s. systems analysis,
+3 t. systems application planning,
+4 u. systems application,
+5 v. systems administration,
+6 w. systems coordination,
+7 x. systems integration,
+8 y. systems operation,
+9 z. systems planning/development,
+10 aa. systems programming,
+11 bb. systems engineering,
+12 cc. systems service specialist,
+13 dd. systems support,
+14 ee. network administration,
+15 ff. network management,
+16 gg. network technical,
+17 hh. operating systems specialist,
+18 ii. systems program manager,
+19 jj. telecommunications, whether data or voice,
+20 kk. software training, and
+21 ll. technology development or support;
+22 4. “Nonappropriated state agency” means any state agency that
+23 does not receive funding through the annual legislative
+24 appropriations process;
+SENATE FLOOR VERSION - SB68 SFLR Page 3
+(Bold face denotes Committee Amendments)
+1 5. “Shared services” means those state agency functions which
+2 are or could be provided through:
+3 a. the services and systems specified in subsection A of
+4 Section 35.6 of this title, and
+5 b. the programs, services, software, or processes
+6 specified in subsection B of Section 35.6 of this
+7 title; and
+8 6. “State agency” means any office, elected or appointed
+9 officer, bureau, board, commission, counsel, unit, division, body,
+10 authority, or institution of the executive branch of state
+11 government excluding institutions within The Oklahoma State System
+12 of Higher Education, the Oklahoma Municipal Power Authority, the
+13 Oklahoma State Regents for Higher Education, the Oklahoma State
+14 Bureau of Investigation, the District Attorneys Council, the Office
+15 of the Attorney General, the Office of the State Auditor and
+16 Inspector, and the telecommunications network known as OneNet.
+17 SECTION 2. It being immediately necessary for the preservation
+18 of the public peace, health or safety, an emergency is hereby
+19 declared to exist, by reason whereof this act shall take effect and
+20 be in full force from and after its passage and approval.
+21 COMMITTEE REPORT BY: COMMITTEE ON RETIREMENT AND GOVERNMENT
+RESOURCES
+22 February 25, 2025 - DO PASS AS AMENDED
+23
+24
+SENATE FLOOR VERSION - SB68 SFLR Page 4
+(Bold face denotes Committee Amendments)
+[DELETED: P B G  a Be]
+[DELETED: P a E d c c c c c c c w d d d d s h]
+[DELETED: P i s s s s s s s s s s s s n n n o s t s t]
+[DELETED: P t t]
+
+
+================================================================================
+
+Raw Text:
+1 SENATE FLOOR VERSION
+February 25, 2025
+2 AS AMENDED
+3 SENATE BILL NO. 68 By: Green of the Senate
+4 and
+5 Bashore of the House
+6
+7
+8 [ Information Technology Consolidation and
+Coordination Act - term -
+9 emergency ]
+10
+11
+12 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13 SECTION 1. AMENDATORY 62 O.S. 2021, Section 35.3, is
+14 amended to read as follows:
+15 Section 35.3. As used in the Information Technology
+16 Consolidation and Coordination Act:
+17 1. “Appropriated state agency” means any state agency that
+18 receives funding through the annual legislative appropriations
+19 process;
+20 2. “Information technology assets” means any equipment or
+21 interconnected system or subsystem of equipment that is used in the
+22 acquisition, storage, manipulation, management, movement, control,
+23 display, switching, interchange, transmission, or reception of data
+24 or information. The term shall include computers, ancillary
+SENATE FLOOR VERSION - SB68 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 equi pment, software, firmware and similar procedures, services,
+2 including support services and consulting services, software
+3 development, and related resources, and shall further include
+4 telecommunications fiber networks used for conveying electronic
+5 communication or information systems to multiple physical locations;
+6 3. “Information technology position” means a classified or
+7 unclassified position in the following functional areas:
+8 a. applications programming,
+9 b. EDP audit,
+10 c. data examination,
+11 d. computer applications,
+12 e. computer data entry,
+13 f. computer networking,
+14 g. computer operations,
+15 h. computer programming,
+16 i. computer security,
+17 j. computer software design,
+18 k. web applications,
+19 l. database analysis,
+20 m. data management analysis,
+21 n. database development,
+22 o. database programming,
+23 p. software design/development,
+24 q. help desk,
+SENATE FLOOR VERSION - SB68 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 r. imaging,
+2 s. systems analysis,
+3 t. systems application planning,
+4 u. systems application,
+5 v. systems administration,
+6 w. systems coordination,
+7 x. systems integration,
+8 y. systems operation,
+9 z. systems planning/development,
+10 aa. systems programming,
+11 bb. systems engineering,
+12 cc. systems service specialist,
+13 dd. systems support,
+14 ee. network administration,
+15 ff. network management,
+16 gg. network technical,
+17 hh. operating systems specialist,
+18 ii. systems program manager,
+19 jj. telecommunications, whether data or voice,
+20 kk. software training, and
+21 ll. technology development or support;
+22 4. “Nonappropriated state agency” means any state agency that
+23 does not receive funding through the annual legislative
+24 appropriations process;
+SENATE FLOOR VERSION - SB68 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 5. “Shared services” means those state agency functions which
+2 are or could be provided through:
+3 a. the services and systems specified in subsection A of
+4 Section 35.6 of this title, and
+5 b. the programs, services, software, or processes
+6 specified in subsection B of Section 35.6 of this
+7 title; and
+8 6. “State agency” means any office, elected or appointed
+9 officer, bureau, board, commission, counsel, unit, division, body,
+10 authority, or institution of the executive branch of state
+11 government excluding institutions within The Oklahoma State System
+12 of Higher Education, the Oklahoma Municipal Power Authority, the
+13 Oklahoma State Regents for Higher Education, the Oklahoma State
+14 Bureau of Investigation, the District Attorneys Council, the Office
+15 of the Attorney General, the Office of the State Auditor and
+16 Inspector, and the telecommunications network known as OneNet.
+17 SECTION 2. It being immediately necessary for the preservation
+18 of the public peace, health or safety, an emergency is hereby
+19 declared to exist, by reason whereof this act shall take effect and
+20 be in full force from and after its passage and approval.
+21 COMMITTEE REPORT BY: COMMITTEE ON RETIREMENT AND GOVERNMENT
+RESOURCES
+22 February 25, 2025 - DO PASS AS AMENDED
+23
+24
+SENATE FLOOR VERSION - SB68 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+[DELETED: P B G  a Be]
+[DELETED: P a E d c c c c c c c w d d d d s h]
+[DELETED: P i s s s s s s s s s s s s n n n o s t s t]
+[DELETED: P t t]

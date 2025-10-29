@@ -1,0 +1,123 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 4
+Source: versions - 2 Floor Amendment by SCHREIBER
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SB676 FA2 SchreiberSu-GRS
+5/8/2025 2:49:46 pm
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend SB676
+Page 2 Section 1 Lines 1
+Of the Engrossed Bill
+By inserting a new SECTION 1 to read as follows:
+(SEE ATTACHED)
+and by renumbering the subsequent sections of the bill.
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Suzanne Schreiber
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+"SECTION 1. NEW LAW A new section of law to be codified in the
+Oklahoma Statutes as Section 461 of Title 10, unless there is created a
+duplication in numbering, reads as follows:
+A. There is hereby created until November 1, 2028, in accordance with
+the Oklahoma Sunset Law, the Teacher Recruitment and Retention Program to
+be administered by Oklahoma Partnership for School Readiness.
+B. The Program, through Oklahoma Partnership for School Readiness,
+shall ensure that:
+
+Section 2:
+1. Any employee who is employed by a child care facility licensed
+pursuant to the Oklahoma Child Care Facilities Licensing Act shall have
+household income exempted from consideration when eligibility is
+determined for the Child Care Subsidy Program administered by the
+Department of Human Services;
+
+Section 3:
+2. When an employee who is employed by a licensed child care facility
+leaves employment of the licensed provider, the provider shall provide
+written notice to the Department of Human Services that the employee is no
+longer employed within thirty (30) days; and
+
+Section 4:
+3. Other than the income exemption pursuant to paragraph 1 of this
+subsection and the reporting requirements established pursuant to this
+subsection, all other conditions of eligibility for the Child Care Subsidy
+Program located in the Oklahoma Administrative Code (OAC) shall be
+followed.
+C. Subsection B of this section shall not apply to employees who are
+employed by a child care facility licensed pursuant to the Oklahoma Child
+Care Facilities Licensing Act and who are eligible for the Child Care
+Subsidy Program without household income being exempted.
+D. The Department of Human Services shall waive copayments for
+employees who are employed by a licensed child care facility and who
+qualify under income eligibility requirements of the Child Care Subsidy
+Program."
+[DELETED: 5 AS C           O S L           ]
+
+
+================================================================================
+
+Raw Text:
+SB676 FA2 SchreiberSu-GRS
+5/8/2025 2:49:46 pm
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend SB676
+Of the printed Bill
+Page 2 Section 1 Lines 1
+Of the Engrossed Bill
+By inserting a new SECTION 1 to read as follows:
+(SEE ATTACHED)
+and by renumbering the subsequent sections of the bill.
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Suzanne Schreiber
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+"SECTION 1. NEW LAW A new section of law to be codified in the
+Oklahoma Statutes as Section 461 of Title 10, unless there is created a
+duplication in numbering, reads as follows:
+A. There is hereby created until November 1, 2028, in accordance with
+the Oklahoma Sunset Law, the Teacher Recruitment and Retention Program to
+be administered by Oklahoma Partnership for School Readiness.
+B. The Program, through Oklahoma Partnership for School Readiness,
+shall ensure that:
+1. Any employee who is employed by a child care facility licensed
+pursuant to the Oklahoma Child Care Facilities Licensing Act shall have
+household income exempted from consideration when eligibility is
+determined for the Child Care Subsidy Program administered by the
+Department of Human Services;
+2. When an employee who is employed by a licensed child care facility
+leaves employment of the licensed provider, the provider shall provide
+written notice to the Department of Human Services that the employee is no
+longer employed within thirty (30) days; and
+3. Other than the income exemption pursuant to paragraph 1 of this
+subsection and the reporting requirements established pursuant to this
+subsection, all other conditions of eligibility for the Child Care Subsidy
+Program located in the Oklahoma Administrative Code (OAC) shall be
+followed.
+C. Subsection B of this section shall not apply to employees who are
+employed by a child care facility licensed pursuant to the Oklahoma Child
+Care Facilities Licensing Act and who are eligible for the Child Care
+Subsidy Program without household income being exempted.
+
+D. The Department of Human Services shall waive copayments for
+employees who are employed by a licensed child care facility and who
+qualify under income eligibility requirements of the Child Care Subsidy
+Program."
+
+[DELETED: 5 AS C           O S L           ]
