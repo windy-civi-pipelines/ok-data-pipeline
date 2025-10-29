@@ -1,0 +1,1665 @@
+Title: SENATE BILL 488 By: Bergstrom
+Official Title: SENATE BILL 488 By: Bergstrom
+Number of Sections: 21
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to unmanned aerial systems; defining
+7
+term; prohibiting certain purchase by state agencies
+8
+after certain date; prohibiting certain purchase by
+8
+political subdivisions after certain date; directing
+9
+the Office of Homeland Security to maintain certain
+9
+list; amending 51 O.S. 2021, Section 24A.5, as last
+10
+amended by Section 2, Chapter 116, O.S.L. 2024 (51
+10
+O.S. Supp. 2024, Section 24A.5), which relates to the
+11
+Oklahoma Open Records Act; providing for certain
+11
+assessment to be confidential; updating statutory
+12
+language; providing for codification; and providing
+12
+an effective date.
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 422 of Title 3, unless there is
+17
+18
+created a duplication in numbering, reads as follows:
+18
+19
+As used in this act, “drone or unmanned aerial system” shall
+19
+20
+mean a powered aerial vehicle that:
+20
+21
+
+Section 3:
+1. Does not carry a human operator and is operated autonomously
+21
+22
+without the possibility of direct human intervention from, within,
+22
+23
+or on the aircraft; and
+23
+24
+
+Section 4:
+2. Uses aerodynamic forces to provide lift.
+24
+Req. No. 66 Page 1
+1
+
+Section 5:
+SECTION 2. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 423 of Title 3, unless there is
+2
+3
+created a duplication in numbering, reads as follows:
+3
+4
+A. Effective January 1, 2028, no state agency shall purchase or
+4
+5
+otherwise acquire a drone or unmanned aerial system other than those
+5
+6
+cleared by the Office of Homeland Security, pursuant to Section 3 of
+6
+7
+this act. No state funds shall be used to purchase or otherwise
+7
+8
+acquire a drone or unmanned aerial system whose purchase would be
+8
+9
+prohibited by the provisions of this subsection. Any contract or
+9
+10
+agreement for the acquisition of a drone or unmanned aerial system
+10
+11
+not cleared by the Office is void and unenforceable.
+11
+12
+B. Effective January 1, 2028, no political subdivision of this
+12
+13
+state shall purchase or otherwise acquire a drone or unmanned aerial
+13
+14
+system other than those cleared by the Office, pursuant to Section 3
+14
+15
+of this act. Any contract or agreement for the acquisition of a
+15
+16
+drone or unmanned aerial system not cleared by the Office is void
+16
+17
+and unenforceable.
+17
+18
+
+Section 6:
+SECTION 3. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 424 of Title 3, unless there is
+19
+20
+created a duplication in numbering, reads as follows:
+20
+21
+A. On or before January 1, 2028, the Office of Homeland
+21
+22
+Security, in consultation with the Oklahoma Department of Aerospace
+22
+23
+and Aeronautics and the Purchasing Division of the Office of
+23
+24
+24
+Req. No. 66 Page 2
+1
+Management and Enterprise Services, shall create and regularly
+1
+2
+maintain a list of drones and unmanned aerial systems that are:
+2
+3
+
+Section 7:
+1. Cleared by the United States Department of Defense through
+3
+4
+its Blue UAS program;
+4
+5
+
+Section 8:
+2. Determined to be compliant with the requirements of the
+5
+6
+National Defense Authorization Act for Fiscal Year 2024, Public Law
+6
+7
+118-31;
+7
+8
+
+Section 9:
+3. Determined by the Office of Homeland Security to, under
+8
+9
+normal operating conditions, be unable to transmit data to
+9
+10
+unauthorized persons or entities; or
+10
+11
+
+Section 10:
+4. Otherwise determined by the Department of Public Safety to
+11
+12
+present no threat to the security of this state.
+12
+13
+B. The list shall be updated at least every six (6) months, and
+13
+14
+the devices and vendors on the list shall be preferred over other
+14
+15
+devices and vendors in state and local procurement actions.
+15
+16
+C. In creating and maintaining the list, the Office of Homeland
+16
+17
+Security shall consult with recognized cybersecurity experts from
+17
+18
+the private and public sector to ensure the integrity and security
+18
+19
+of all data collected by drones and unmanned aerial systems used in
+19
+20
+this state.
+20
+21
+D. The list shall be a public document. Any documents related
+21
+22
+to the assessment process of drones and unmanned aerial systems on
+22
+23
+the list shall be required to remain confidential.
+23
+24
+24
+Req. No. 66 Page 3
+1
+
+Section 11:
+SECTION 4. AMENDATORY 51 O.S. 2021, Section 24A.5, as
+1
+2
+last amended by Section 2, Chapter 116, O.S.L. 2024 (51 O.S. Supp.
+2
+3
+2024, Section 24A.5), is amended to read as follows:
+3
+4
+
+Section 12:
+Section 24A.5. All records of public bodies and public
+4
+5
+officials shall be open to any person for inspection, copying, or
+5
+6
+mechanical reproduction during regular business hours; provided:
+6
+7
+
+Section 13:
+1. The Oklahoma Open Records Act, Sections 24A.1 through 24A.30
+7
+8
+et seq. of this title, does not apply to records specifically
+8
+9
+required by law to be kept confidential including:
+9
+10
+a. records protected by a state evidentiary privilege
+10
+11
+such as the attorney-client privilege, the work
+11
+12
+product immunity from discovery and the identity of
+12
+13
+informer privileges,
+13
+14
+b. records of what transpired during meetings of a public
+14
+15
+body lawfully closed to the public such as executive
+15
+16
+sessions authorized under the Oklahoma Open Meeting
+16
+17
+Act,
+17
+18
+c. personal information within driver records as defined
+18
+19
+by the Driver’s Privacy Protection Act, 18 United
+19
+20
+States Code, Sections 2721 through 2725,
+20
+21
+d. information in the files of the Board of Medicolegal
+21
+22
+Investigations obtained pursuant to Sections 940 and
+22
+23
+941 of Title 63 of the Oklahoma Statutes that may be
+23
+24
+24
+Req. No. 66 Page 4
+1
+hearsay, preliminary unsubstantiated investigation-
+1
+2
+related findings, or confidential medical information,
+2
+3
+e. any test forms, question banks, and answer keys
+3
+4
+developed for state licensure examinations, but
+4
+5
+specifically excluding test preparation materials or
+5
+6
+study guides,
+6
+7
+f. last names, addresses, Social Security numbers, or tax
+7
+8
+identification numbers, and proof of identification
+8
+9
+submitted to the Oklahoma Lottery Commission by
+9
+10
+persons claiming a lottery prize,
+10
+11
+g. unless public disclosure is required by other laws or
+11
+12
+regulations, vehicle movement records of the Oklahoma
+12
+13
+Transportation Authority obtained in connection with
+13
+14
+the Authority’s electronic toll collection system,
+14
+15
+h. personal financial information, credit reports, or
+15
+16
+other financial data obtained by or submitted to a
+16
+17
+public body for the purpose of evaluating credit
+17
+18
+worthiness, obtaining a license, permit, or for the
+18
+19
+purpose of becoming qualified to contract with a
+19
+20
+public body,
+20
+21
+i. any digital audio/video recordings of the toll
+21
+22
+collection and safeguarding activities of the Oklahoma
+22
+23
+Transportation Authority,
+23
+24
+24
+Req. No. 66 Page 5
+1
+j. any personal information provided by a guest at any
+1
+2
+facility owned or operated by the Oklahoma Tourism and
+2
+3
+Recreation Department to obtain any service at the
+3
+4
+facility or by a purchaser of a product sold by or
+4
+5
+through the Oklahoma Tourism and Recreation
+5
+6
+Department,
+6
+7
+k. a Department of Defense Form 214 (DD Form 214) filed
+7
+8
+with a county clerk, including any DD Form 214 filed
+8
+9
+before July 1, 2002,
+9
+10
+l. except as provided for in Section 2-110 of Title 47 of
+10
+11
+the Oklahoma Statutes:
+11
+12
+(1) any record in connection with a Motor Vehicle
+12
+13
+Report issued by the Department of Public Safety,
+13
+14
+as prescribed in Section 6-117 of Title 47 of the
+14
+15
+Oklahoma Statutes, or
+15
+16
+(2) personal information within driver records, as
+16
+17
+defined by the Driver’s Privacy Protection Act,
+17
+18
+18 U.S.C., Sections 2721 through 2725, which are
+18
+19
+stored and maintained by the Department of Public
+19
+20
+Safety,
+20
+21
+m. any portion of any document or information provided to
+21
+22
+an agency or entity of the state or a political
+22
+23
+subdivision to obtain licensure under the laws of this
+23
+24
+state or a political subdivision that contains an
+24
+Req. No. 66 Page 6
+1
+applicant’s personal address, personal phone number,
+1
+2
+personal email address, any government-issued
+2
+3
+identification numbers, or other contact information;
+3
+4
+provided, however, lists of persons licensed, the
+4
+5
+existence of a license of a person, or a business or
+5
+6
+commercial address, or other business or commercial
+6
+7
+information disclosable under state law submitted with
+7
+8
+an application for licensure shall be public record,
+8
+9
+unless the business or commercial address is the same
+9
+10
+as the applicant’s personal address, except when the
+10
+11
+applicant permits in writing the disclosure of the
+11
+12
+address,
+12
+13
+n. an investigative file obtained during an investigation
+13
+14
+conducted by the State Department of Health into
+14
+15
+violations of the Long-Term Care Administrator
+15
+16
+Licensing Act under Title 63 of the Oklahoma Statutes,
+16
+17
+or
+17
+18
+o. documents, evidence, materials, records, reports,
+18
+19
+complaints, or other information in the possession or
+19
+20
+control of the Attorney General or Insurance
+20
+21
+Department pertaining to an evaluation, examination,
+21
+22
+investigation, or review made pursuant to the
+22
+23
+provisions of the Patient’s Right to Pharmacy Choice
+23
+24
+24
+Req. No. 66 Page 7
+1
+Act, the Pharmacy Audit Integrity Act, or Sections 357
+1
+2
+through 360 of Title 59 of the Oklahoma Statutes, or
+2
+3
+p. any documents related to the assessment process of
+3
+4
+drones and unmanned aerial systems, pursuant to
+4
+5
+
+Section 14:
+Section 3 of this act;
+5
+6
+
+Section 15:
+2. All Social Security numbers included in a record may be
+6
+7
+confidential regardless of the person’s status as a public employee
+7
+8
+or private individual and may be redacted or deleted prior to
+8
+9
+release of the record by the public body;
+9
+10
+
+Section 16:
+3. Any reasonably segregable portion of a record containing
+10
+11
+exempt material shall be provided after deletion of the exempt
+11
+12
+portions; provided however, the Department of Public Safety shall
+12
+13
+not be required to assemble for the requesting person specific
+13
+14
+information, in any format, from driving records relating to any
+14
+15
+person whose name and date of birth or whose driver license number
+15
+16
+is not furnished by the requesting person.
+16
+17
+The Oklahoma State Bureau of Investigation shall not be required
+17
+18
+to assemble for the requesting person any criminal history records
+18
+19
+relating to persons whose names, dates of birth, and other
+19
+20
+identifying information required by the Oklahoma State Bureau of
+20
+21
+Investigation pursuant to administrative rule are not furnished by
+21
+22
+the requesting person;
+22
+23
+
+Section 17:
+4. Any request for a record which contains individual records
+23
+24
+of persons, and the cost of copying, reproducing, or certifying each
+24
+Req. No. 66 Page 8
+1
+individual record is otherwise prescribed by state law, the cost may
+1
+2
+be assessed for each individual record, or portion thereof requested
+2
+3
+as prescribed by state law. Otherwise, a public body may charge a
+3
+4
+fee only for recovery of the reasonable, direct costs of record
+4
+5
+copying, or mechanical reproduction. Notwithstanding any state or
+5
+6
+local provision to the contrary, in no instance shall the record
+6
+7
+copying fee exceed twenty-five cents ($0.25) per page for records
+7
+8
+having the dimensions of eight and one-half (8 1/2) by fourteen (14)
+8
+9
+inches or smaller, or a maximum of One Dollar ($1.00) per copied
+9
+10
+page for a certified copy. However, if the request:
+10
+11
+a. is solely for commercial purpose, or
+11
+12
+b. would clearly cause excessive disruption of the
+12
+13
+essential functions of the public body,
+13
+14
+then the public body may charge a reasonable fee to recover the
+14
+15
+direct cost of record search and copying; however, publication in a
+15
+16
+newspaper or broadcast by news media for news purposes shall not
+16
+17
+constitute a resale or use of a record for trade or commercial
+17
+18
+purpose and charges for providing copies of electronic data to the
+18
+19
+news media for a news purpose shall not exceed the direct cost of
+19
+20
+making the copy. The fee charged by the Department of Public Safety
+20
+21
+for a copy in a computerized format of a record of the Department
+21
+22
+shall not exceed the direct cost of making the copy unless the fee
+22
+23
+for the record is otherwise set by law.
+23
+24
+24
+Req. No. 66 Page 9
+1
+Any public body establishing fees under this act shall post a
+1
+2
+written schedule of the fees at its principal office and with the
+2
+3
+county clerk.
+3
+4
+In no case shall a search fee be charged when the release of
+4
+5
+records is in the public interest, including, but not limited to,
+5
+6
+release to the news media, scholars, authors and taxpayers seeking
+6
+7
+to determine whether those entrusted with the affairs of the
+7
+8
+government are honestly, faithfully, and competently performing
+8
+9
+their duties as public servants.
+9
+10
+The fees shall not be used for the purpose of discouraging
+10
+11
+requests for information or as obstacles to disclosure of requested
+11
+12
+information;
+12
+13
+
+Section 18:
+5. The land description tract index of all recorded instruments
+13
+14
+concerning real property required to be kept by the county clerk of
+14
+15
+any county shall be available for inspection or copying in
+15
+16
+accordance with the provisions of the Oklahoma Open Records Act;
+16
+17
+provided, however, the index shall not be copied or mechanically
+17
+18
+reproduced for the purpose of sale of the information;
+18
+19
+
+Section 19:
+6. A public body must provide prompt, reasonable access to its
+19
+20
+records but may establish reasonable procedures which protect the
+20
+21
+integrity and organization of its records and to prevent excessive
+21
+22
+disruptions of its essential functions. A delay in providing access
+22
+23
+to records shall be limited solely to the time required for
+23
+24
+preparing the requested documents and the avoidance of excessive
+24
+Req. No. 66 Page 10
+1
+disruptions of the public body’s essential functions. In no event
+1
+2
+may production of a current request for records be unreasonably
+2
+3
+delayed until after completion of a prior records request that will
+3
+4
+take substantially longer than the current request. Any public body
+4
+5
+which makes the requested records available on the Internet shall
+5
+6
+meet the obligation of providing prompt, reasonable access to its
+6
+7
+records as required by this paragraph; and
+7
+8
+
+Section 20:
+7. A public body shall designate certain persons who are
+8
+9
+authorized to release records of the public body for inspection,
+9
+10
+copying, or mechanical reproduction. At least one person shall be
+10
+11
+available at all times to release records during the regular
+11
+12
+business hours of the public body.
+12
+13
+
+Section 21:
+SECTION 5. This act shall become effective November 1, 2025.
+13
+14
+14
+15
+60-1-66 MSBB 1/19/2025 5:37:22 AM
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 66 Page 11
+[DELETED:  P B B]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P r r p i]
+[DELETED:  P a l u p a]
+[DELETED:  P a a e a p a]
+[DELETED:  P a d]
+[DELETED:  P a]
+[DELETED:  P i w]
+[DELETED:  P]
+[DELETED:  P M 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 488 By: Bergstrom
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to unmanned aerial systems; defining
+7
+term; prohibiting certain purchase by state agencies
+8
+after certain date; prohibiting certain purchase by
+8
+political subdivisions after certain date; directing
+9
+the Office of Homeland Security to maintain certain
+9
+list; amending 51 O.S. 2021, Section 24A.5, as last
+10
+amended by Section 2, Chapter 116, O.S.L. 2024 (51
+10
+O.S. Supp. 2024, Section 24A.5), which relates to the
+11
+Oklahoma Open Records Act; providing for certain
+11
+assessment to be confidential; updating statutory
+12
+language; providing for codification; and providing
+12
+an effective date.
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+SECTION 1. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 422 of Title 3, unless there is
+17
+18
+created a duplication in numbering, reads as follows:
+18
+19
+As used in this act, “drone or unmanned aerial system” shall
+19
+20
+mean a powered aerial vehicle that:
+20
+21
+1. Does not carry a human operator and is operated autonomously
+21
+22
+without the possibility of direct human intervention from, within,
+22
+23
+or on the aircraft; and
+23
+24
+2. Uses aerodynamic forces to provide lift.
+24
+Req. No. 66 Page 1
+
+1
+SECTION 2. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 423 of Title 3, unless there is
+2
+3
+created a duplication in numbering, reads as follows:
+3
+4
+A. Effective January 1, 2028, no state agency shall purchase or
+4
+5
+otherwise acquire a drone or unmanned aerial system other than those
+5
+6
+cleared by the Office of Homeland Security, pursuant to Section 3 of
+6
+7
+this act. No state funds shall be used to purchase or otherwise
+7
+8
+acquire a drone or unmanned aerial system whose purchase would be
+8
+9
+prohibited by the provisions of this subsection. Any contract or
+9
+10
+agreement for the acquisition of a drone or unmanned aerial system
+10
+11
+not cleared by the Office is void and unenforceable.
+11
+12
+B. Effective January 1, 2028, no political subdivision of this
+12
+13
+state shall purchase or otherwise acquire a drone or unmanned aerial
+13
+14
+system other than those cleared by the Office, pursuant to Section 3
+14
+15
+of this act. Any contract or agreement for the acquisition of a
+15
+16
+drone or unmanned aerial system not cleared by the Office is void
+16
+17
+and unenforceable.
+17
+18
+SECTION 3. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 424 of Title 3, unless there is
+19
+20
+created a duplication in numbering, reads as follows:
+20
+21
+A. On or before January 1, 2028, the Office of Homeland
+21
+22
+Security, in consultation with the Oklahoma Department of Aerospace
+22
+23
+and Aeronautics and the Purchasing Division of the Office of
+23
+24
+24
+Req. No. 66 Page 2
+
+1
+Management and Enterprise Services, shall create and regularly
+1
+2
+maintain a list of drones and unmanned aerial systems that are:
+2
+3
+1. Cleared by the United States Department of Defense through
+3
+4
+its Blue UAS program;
+4
+5
+2. Determined to be compliant with the requirements of the
+5
+6
+National Defense Authorization Act for Fiscal Year 2024, Public Law
+6
+7
+118-31;
+7
+8
+3. Determined by the Office of Homeland Security to, under
+8
+9
+normal operating conditions, be unable to transmit data to
+9
+10
+unauthorized persons or entities; or
+10
+11
+4. Otherwise determined by the Department of Public Safety to
+11
+12
+present no threat to the security of this state.
+12
+13
+B. The list shall be updated at least every six (6) months, and
+13
+14
+the devices and vendors on the list shall be preferred over other
+14
+15
+devices and vendors in state and local procurement actions.
+15
+16
+C. In creating and maintaining the list, the Office of Homeland
+16
+17
+Security shall consult with recognized cybersecurity experts from
+17
+18
+the private and public sector to ensure the integrity and security
+18
+19
+of all data collected by drones and unmanned aerial systems used in
+19
+20
+this state.
+20
+21
+D. The list shall be a public document. Any documents related
+21
+22
+to the assessment process of drones and unmanned aerial systems on
+22
+23
+the list shall be required to remain confidential.
+23
+24
+24
+Req. No. 66 Page 3
+
+1
+SECTION 4. AMENDATORY 51 O.S. 2021, Section 24A.5, as
+1
+2
+last amended by Section 2, Chapter 116, O.S.L. 2024 (51 O.S. Supp.
+2
+3
+2024, Section 24A.5), is amended to read as follows:
+3
+4
+Section 24A.5. All records of public bodies and public
+4
+5
+officials shall be open to any person for inspection, copying, or
+5
+6
+mechanical reproduction during regular business hours; provided:
+6
+7
+1. The Oklahoma Open Records Act, Sections 24A.1 through 24A.30
+7
+8
+et seq. of this title, does not apply to records specifically
+8
+9
+required by law to be kept confidential including:
+9
+10
+a. records protected by a state evidentiary privilege
+10
+11
+such as the attorney-client privilege, the work
+11
+12
+product immunity from discovery and the identity of
+12
+13
+informer privileges,
+13
+14
+b. records of what transpired during meetings of a public
+14
+15
+body lawfully closed to the public such as executive
+15
+16
+sessions authorized under the Oklahoma Open Meeting
+16
+17
+Act,
+17
+18
+c. personal information within driver records as defined
+18
+19
+by the Driver’s Privacy Protection Act, 18 United
+19
+20
+States Code, Sections 2721 through 2725,
+20
+21
+d. information in the files of the Board of Medicolegal
+21
+22
+Investigations obtained pursuant to Sections 940 and
+22
+23
+941 of Title 63 of the Oklahoma Statutes that may be
+23
+24
+24
+Req. No. 66 Page 4
+
+1
+hearsay, preliminary unsubstantiated investigation-
+1
+2
+related findings, or confidential medical information,
+2
+3
+e. any test forms, question banks, and answer keys
+3
+4
+developed for state licensure examinations, but
+4
+5
+specifically excluding test preparation materials or
+5
+6
+study guides,
+6
+7
+f. last names, addresses, Social Security numbers, or tax
+7
+8
+identification numbers, and proof of identification
+8
+9
+submitted to the Oklahoma Lottery Commission by
+9
+10
+persons claiming a lottery prize,
+10
+11
+g. unless public disclosure is required by other laws or
+11
+12
+regulations, vehicle movement records of the Oklahoma
+12
+13
+Transportation Authority obtained in connection with
+13
+14
+the Authority’s electronic toll collection system,
+14
+15
+h. personal financial information, credit reports, or
+15
+16
+other financial data obtained by or submitted to a
+16
+17
+public body for the purpose of evaluating credit
+17
+18
+worthiness, obtaining a license, permit, or for the
+18
+19
+purpose of becoming qualified to contract with a
+19
+20
+public body,
+20
+21
+i. any digital audio/video recordings of the toll
+21
+22
+collection and safeguarding activities of the Oklahoma
+22
+23
+Transportation Authority,
+23
+24
+24
+Req. No. 66 Page 5
+
+1
+j. any personal information provided by a guest at any
+1
+2
+facility owned or operated by the Oklahoma Tourism and
+2
+3
+Recreation Department to obtain any service at the
+3
+4
+facility or by a purchaser of a product sold by or
+4
+5
+through the Oklahoma Tourism and Recreation
+5
+6
+Department,
+6
+7
+k. a Department of Defense Form 214 (DD Form 214) filed
+7
+8
+with a county clerk, including any DD Form 214 filed
+8
+9
+before July 1, 2002,
+9
+10
+l. except as provided for in Section 2-110 of Title 47 of
+10
+11
+the Oklahoma Statutes:
+11
+12
+(1) any record in connection with a Motor Vehicle
+12
+13
+Report issued by the Department of Public Safety,
+13
+14
+as prescribed in Section 6-117 of Title 47 of the
+14
+15
+Oklahoma Statutes, or
+15
+16
+(2) personal information within driver records, as
+16
+17
+defined by the Driver’s Privacy Protection Act,
+17
+18
+18 U.S.C., Sections 2721 through 2725, which are
+18
+19
+stored and maintained by the Department of Public
+19
+20
+Safety,
+20
+21
+m. any portion of any document or information provided to
+21
+22
+an agency or entity of the state or a political
+22
+23
+subdivision to obtain licensure under the laws of this
+23
+24
+state or a political subdivision that contains an
+24
+Req. No. 66 Page 6
+
+1
+applicant’s personal address, personal phone number,
+1
+2
+personal email address, any government-issued
+2
+3
+identification numbers, or other contact information;
+3
+4
+provided, however, lists of persons licensed, the
+4
+5
+existence of a license of a person, or a business or
+5
+6
+commercial address, or other business or commercial
+6
+7
+information disclosable under state law submitted with
+7
+8
+an application for licensure shall be public record,
+8
+9
+unless the business or commercial address is the same
+9
+10
+as the applicant’s personal address, except when the
+10
+11
+applicant permits in writing the disclosure of the
+11
+12
+address,
+12
+13
+n. an investigative file obtained during an investigation
+13
+14
+conducted by the State Department of Health into
+14
+15
+violations of the Long-Term Care Administrator
+15
+16
+Licensing Act under Title 63 of the Oklahoma Statutes,
+16
+17
+or
+17
+18
+o. documents, evidence, materials, records, reports,
+18
+19
+complaints, or other information in the possession or
+19
+20
+control of the Attorney General or Insurance
+20
+21
+Department pertaining to an evaluation, examination,
+21
+22
+investigation, or review made pursuant to the
+22
+23
+provisions of the Patient’s Right to Pharmacy Choice
+23
+24
+24
+Req. No. 66 Page 7
+
+1
+Act, the Pharmacy Audit Integrity Act, or Sections 357
+1
+2
+through 360 of Title 59 of the Oklahoma Statutes, or
+2
+3
+p. any documents related to the assessment process of
+3
+4
+drones and unmanned aerial systems, pursuant to
+4
+5
+Section 3 of this act;
+5
+6
+2. All Social Security numbers included in a record may be
+6
+7
+confidential regardless of the person’s status as a public employee
+7
+8
+or private individual and may be redacted or deleted prior to
+8
+9
+release of the record by the public body;
+9
+10
+3. Any reasonably segregable portion of a record containing
+10
+11
+exempt material shall be provided after deletion of the exempt
+11
+12
+portions; provided however, the Department of Public Safety shall
+12
+13
+not be required to assemble for the requesting person specific
+13
+14
+information, in any format, from driving records relating to any
+14
+15
+person whose name and date of birth or whose driver license number
+15
+16
+is not furnished by the requesting person.
+16
+17
+The Oklahoma State Bureau of Investigation shall not be required
+17
+18
+to assemble for the requesting person any criminal history records
+18
+19
+relating to persons whose names, dates of birth, and other
+19
+20
+identifying information required by the Oklahoma State Bureau of
+20
+21
+Investigation pursuant to administrative rule are not furnished by
+21
+22
+the requesting person;
+22
+23
+4. Any request for a record which contains individual records
+23
+24
+of persons, and the cost of copying, reproducing, or certifying each
+24
+Req. No. 66 Page 8
+
+1
+individual record is otherwise prescribed by state law, the cost may
+1
+2
+be assessed for each individual record, or portion thereof requested
+2
+3
+as prescribed by state law. Otherwise, a public body may charge a
+3
+4
+fee only for recovery of the reasonable, direct costs of record
+4
+5
+copying, or mechanical reproduction. Notwithstanding any state or
+5
+6
+local provision to the contrary, in no instance shall the record
+6
+7
+copying fee exceed twenty-five cents ($0.25) per page for records
+7
+8
+having the dimensions of eight and one-half (8 1/2) by fourteen (14)
+8
+9
+inches or smaller, or a maximum of One Dollar ($1.00) per copied
+9
+10
+page for a certified copy. However, if the request:
+10
+11
+a. is solely for commercial purpose, or
+11
+12
+b. would clearly cause excessive disruption of the
+12
+13
+essential functions of the public body,
+13
+14
+then the public body may charge a reasonable fee to recover the
+14
+15
+direct cost of record search and copying; however, publication in a
+15
+16
+newspaper or broadcast by news media for news purposes shall not
+16
+17
+constitute a resale or use of a record for trade or commercial
+17
+18
+purpose and charges for providing copies of electronic data to the
+18
+19
+news media for a news purpose shall not exceed the direct cost of
+19
+20
+making the copy. The fee charged by the Department of Public Safety
+20
+21
+for a copy in a computerized format of a record of the Department
+21
+22
+shall not exceed the direct cost of making the copy unless the fee
+22
+23
+for the record is otherwise set by law.
+23
+24
+24
+Req. No. 66 Page 9
+
+1
+Any public body establishing fees under this act shall post a
+1
+2
+written schedule of the fees at its principal office and with the
+2
+3
+county clerk.
+3
+4
+In no case shall a search fee be charged when the release of
+4
+5
+records is in the public interest, including, but not limited to,
+5
+6
+release to the news media, scholars, authors and taxpayers seeking
+6
+7
+to determine whether those entrusted with the affairs of the
+7
+8
+government are honestly, faithfully, and competently performing
+8
+9
+their duties as public servants.
+9
+10
+The fees shall not be used for the purpose of discouraging
+10
+11
+requests for information or as obstacles to disclosure of requested
+11
+12
+information;
+12
+13
+5. The land description tract index of all recorded instruments
+13
+14
+concerning real property required to be kept by the county clerk of
+14
+15
+any county shall be available for inspection or copying in
+15
+16
+accordance with the provisions of the Oklahoma Open Records Act;
+16
+17
+provided, however, the index shall not be copied or mechanically
+17
+18
+reproduced for the purpose of sale of the information;
+18
+19
+6. A public body must provide prompt, reasonable access to its
+19
+20
+records but may establish reasonable procedures which protect the
+20
+21
+integrity and organization of its records and to prevent excessive
+21
+22
+disruptions of its essential functions. A delay in providing access
+22
+23
+to records shall be limited solely to the time required for
+23
+24
+preparing the requested documents and the avoidance of excessive
+24
+Req. No. 66 Page 10
+
+1
+disruptions of the public body’s essential functions. In no event
+1
+2
+may production of a current request for records be unreasonably
+2
+3
+delayed until after completion of a prior records request that will
+3
+4
+take substantially longer than the current request. Any public body
+4
+5
+which makes the requested records available on the Internet shall
+5
+6
+meet the obligation of providing prompt, reasonable access to its
+6
+7
+records as required by this paragraph; and
+7
+8
+7. A public body shall designate certain persons who are
+8
+9
+authorized to release records of the public body for inspection,
+9
+10
+copying, or mechanical reproduction. At least one person shall be
+10
+11
+available at all times to release records during the regular
+11
+12
+business hours of the public body.
+12
+13
+SECTION 5. This act shall become effective November 1, 2025.
+13
+14
+14
+15
+60-1-66 MSBB 1/19/2025 5:37:22 AM
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 66 Page 11
+
+[DELETED:  P B B]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P r r p i]
+[DELETED:  P a l u p a]
+[DELETED:  P a a e a p a]
+[DELETED:  P a d]
+[DELETED:  P a]
+[DELETED:  P i w]
+[DELETED:  P]
+[DELETED:  P M 1]

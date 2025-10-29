@@ -1,0 +1,1458 @@
+Title: An Act
+Official Title: An Act
+Number of Sections: 105
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED SENATE
+BILL NO. 924 By: Coleman of the Senate
+and
+Tedford of the House
+An Act relating to the Employment Security Act of
+1980; amending 40 O.S. 2021, Section 1-201, as last
+amended by Section 1, Chapter 114, O.S.L. 2024 (40
+O.S. Supp. 2024, Section 1-201), which relates to
+definitions; defining term; amending 40 O.S. 2021,
+
+Section 2:
+Section 1-224, as last amended by Section 2, Chapter
+114, O.S.L. 2024 (40 O.S. Supp. 2024, Section 1-224),
+which relates to filing; authorizing the Oklahoma
+Employment Security Commission to modify appeal
+filing requirements under certain circumstances;
+amending 40 O.S. 2021, Section 2-610, which relates
+to judicial review; allowing certain case to be
+dismissed upon failure to provide certain
+information; amending 40 O.S. 2021, Section 4-508, as
+amended by Section 22, Chapter 360, O.S.L. 2022 (40
+O.S. Supp. 2024, Section 4-508), which relates to
+information to be kept confidential; removing
+reference to specific entities; updating statutory
+language; and providing an effective date.
+SUBJECT: Unemployment claims
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+Section 3:
+SECTION 1. AMENDATORY 40 O.S. 2021, Section 1-201, as
+last amended by Section 1, Chapter 114, O.S.L. 2024 (40 O.S. Supp.
+2024, Section 1-201), is amended to read as follows:
+
+Section 4:
+Section 1-201. GENERAL DEFINITIONS. As used in the Employment
+Security Act of 1980:
+
+Section 5:
+1. “Additional initial claim” means a claim application which
+reactivates a claim during an existing benefit year and certifies to
+a period of employment which occurred subsequent to the date of the
+filing of the last initial, additional, or reopened claim;
+
+Section 6:
+2. “Alternative base period” means the most recent four (4)
+completed calendar quarters immediately preceding the first day of
+an individual’s benefit year. In the event that an individual’s
+claim uses an alternative base period to meet the wage requirement
+under Section 2-207 of this title, this alternative base period
+shall be substituted for base period for all other purposes under
+the Employment Security Act of 1980;
+
+Section 7:
+3. “Assigned tax rate” means the tax rate assigned to an
+employer pursuant to Section 3-110.1 of this title when the employer
+does not have sufficient experience history to meet the At-Risk Rule
+set out in paragraph 3 of Section 3-110.1 of this title;
+
+Section 8:
+4. “Base period” means the first four (4) of the last five (5)
+completed calendar quarters immediately preceding the first day of
+an individual’s benefit year;
+
+Section 9:
+5. “Benefit year” with respect to any individual means the one-
+year period beginning with the first day of the first week with
+respect to which the individual first files a valid claim for
+benefits and thereafter the one-year period beginning with the first
+day of the first week with respect to which the individual next
+files a valid claim for benefits after the termination of his or her
+last preceding benefit year. Any claim for benefits shall be deemed
+a valid claim for the purpose of this section if the individual has
+been paid the wages for insured work required under the Employment
+Security Act of 1980;
+
+Section 10:
+6. “Benefit wages” means the taxable wages earned by a claimant
+during the claimant’s base period which are not in excess of the
+current maximum weekly benefit amount, as determined under Section
+2-104 of this title, multiplied by the maximum number of weeks for
+which benefits could be paid to any individual pursuant to Section
+2-106 of this title, multiplied by three (3); provided, however, no
+wages shall be included as benefit wages unless and until the
+claimant has been paid benefits for five (5) weeks in one (1)
+benefit year;
+ENR. S. B. NO. 924 Page 2
+
+Section 11:
+7. “Benefits” means the money payments payable to an individual
+as provided in the Employment Security Act of 1980 with respect to
+his or her unemployment, including extended benefits. The federal
+share of such extended benefits shall not be construed as benefits
+for the purposes of computing contribution rates under the
+Employment Security Act of 1980;
+
+Section 12:
+8. “Calendar quarter” means the period of three (3) consecutive
+calendar months ending on March 31, June 30, September 30, or
+December 31, or the equivalent thereof as the Oklahoma Employment
+Security Commission may by regulation prescribe;
+
+Section 13:
+9. “Claimant” means an individual who has filed for
+unemployment benefits with the Commission;
+
+Section 14:
+9. 10. “Client” shall have the same meaning as provided in
+paragraph 1 of Section 600.2 of this title;
+
+Section 15:
+10. 11. “Coemployer” shall have the same meaning as provided in
+paragraph 2 of Section 600.2 of this title;
+
+Section 16:
+11. 12. “Coemployment relationship” shall have the same meaning
+as provided in paragraph 3 of Section 600.2 of this title;
+
+Section 17:
+12. 13. “Commission” means the Oklahoma Employment Security
+Commission;
+
+Section 18:
+13. 14. “Commissioner” means a member of the Commission;
+
+Section 19:
+14. 15. “Continued claim series” means an uninterrupted series
+of weekly claims filed by a claimant during the benefit year;
+
+Section 20:
+15. 16. “Contributions” means the money payments, including
+taxes and reimbursements, required by the Employment Security Act of
+1980 to be paid into the Unemployment Compensation Fund by an
+employer;
+
+Section 21:
+16. 17. “Covered employee” shall have the same meaning as
+provided in paragraph 5 of Section 600.2 of this title;
+ENR. S. B. NO. 924 Page 3
+
+Section 22:
+17. 18. “Digital portal filing” means electronic communication
+through the agency digital portal;
+
+Section 23:
+18. 19. “Earned tax rate” means the tax rate calculated for an
+employer with sufficient experience history to meet the At-Risk Rule
+set out in paragraph 3 of Section 3-110.1 of this title, with the
+tax rate calculated pursuant to the provisions of Section 3-101 et
+seq. of this title;
+
+Section 24:
+19. 20. “Electronic e-filing” means filing by email or fax to
+email;
+
+Section 25:
+20. 21. “Eligibility period” of an individual for extended
+benefits means the period consisting of the weeks in his or her
+benefit year, as defined by the Employment Security Act of 1980,
+which begin in an extended benefit period and, if his or her benefit
+year ends within such extended benefit period, any weeks thereafter
+which begin in such extended benefit period;
+
+Section 26:
+21. 22. “Employer” shall have the same meaning as provided in
+
+Section 27:
+Section 1-208 of this title;
+
+Section 28:
+22. 23. “Employing unit” means any individual or type of
+organization, including any partnership, association, trust, estate,
+joint stock company, insurance company, limited liability company or
+corporation, whether domestic or foreign, or the receiver, trustee
+in bankruptcy, trustee or successor thereof, or the legal
+representative of a deceased person, which has or subsequent to
+January 1, 1936, had in its employ one or more individuals
+performing services for it within this state;
+
+Section 29:
+23. 24. “Employment” shall have the same meaning as provided in
+
+Section 30:
+Section 1-210 of this title;
+
+Section 31:
+24. 25. “Employment office” means a free public employment
+office or branch thereof operated by this or any other state as a
+part of a state-controlled system of public employment offices or by
+a federal agency charged with the administration of an unemployment
+compensation program or free public employment offices;
+
+Section 32:
+25. 26. “Employment Security Administration Fund” means the
+fund established in Section 4-602 of this title from which
+ENR. S. B. NO. 924 Page 4
+administration expenses under the Employment Security Act of 1980
+shall be paid;
+
+Section 33:
+26. 27. “Exhaustee” shall have the same meaning as provided in
+
+Section 34:
+Section 2-712 of this title;
+
+Section 35:
+27. 28. “Experience period” means the most recent twelve (12)
+consecutive completed calendar quarters occurring before July 1 of
+the year immediately preceding the year for which the employer’s
+contribution rate is being calculated;
+
+Section 36:
+28. 29. “Extended base period” means the four (4) quarters
+prior to the claimant’s base period. These four (4) quarters may be
+substituted for base period quarters on a quarter-by-quarter basis
+to establish a valid claim regardless of whether the wages have been
+used to establish a prior claim, except any wages earned that would
+render the Commission out of compliance with applicable federal law
+shall be excluded if used in a prior claim;
+
+Section 37:
+29. 30. “Extended benefit period” shall have the same meaning
+as provided in Section 2-703 of this title;
+
+Section 38:
+30. 31. “File”, “files”, or “filed” shall have the same meaning
+as provided in Section 1-224 of this title;
+
+Section 39:
+31. 32. “Mail”, “mails”, “mailed”, or “mailing” means
+communication sent by a postal service with sufficient postage;
+
+Section 40:
+32. 33. “Foreign limited liability company” shall be defined by
+the provisions of the Oklahoma Limited Liability Company Act;
+
+Section 41:
+33. 34. “Fund” means the Unemployment Compensation Fund
+established in Section 3-601 of this title;
+
+Section 42:
+34. 35. “Hospital” means any hospital required to be licensed
+under the Oklahoma Public Health Code, Section 1-101 et seq. of
+Title 63 of the Oklahoma Statutes, and includes state mental
+hospitals and any other mental hospital or institution;
+
+Section 43:
+35. 36. “Initial claim” means a new claim application submitted
+by a claimant to establish a benefit year for unemployment insurance
+benefits;
+ENR. S. B. NO. 924 Page 5
+
+Section 44:
+36. 37. “Institution of higher education” shall have the same
+meaning as provided in Section 1-214 of this title;
+
+Section 45:
+37. 38. “Insured work” means employment for employers as
+defined by the Employment Security Act of 1980;
+
+Section 46:
+38. 39. “Lessor employing unit” means any independently
+established business entity which engages in the business of
+providing leased employees to any other employer, individual,
+organization, partnership, corporation, or other legal entity,
+referred to herein as a client lessee;
+
+Section 47:
+39. 40. “Limited liability company” shall be defined by the
+provisions of the Oklahoma Limited Liability Company Act;
+
+Section 48:
+40. 41. “Probationary period” means a period of time set forth
+in an established probationary plan, which applies to all employees
+or a specific group of employees, and does not exceed ninety (90)
+calendar days from the first day a new employee begins work;
+
+Section 49:
+41. 42. “Professional Employer Organization” or “PEO” means an
+organization that is subject to the Oklahoma Professional Employer
+Organization Recognition and Registration Act and which meets the
+definition set out in paragraph 9 of Section 600.2 of this title;
+
+Section 50:
+42. 43. “Rate of insured employment” shall have the same
+meaning as provided in Section 2-708 of this title;
+
+Section 51:
+43. 44. “Regular benefits” means benefits payable to an
+individual under the Employment Security Act of 1980, or under any
+other state law including dependents’ allowances and benefits
+payable to federal civilian employees;
+
+Section 52:
+44. 45. “Reopened claim” means a claim application which
+reactivates a claim during an existing benefit year when a claimant
+stopped filing for benefits before his or her claim was exhausted,
+but in which there occurred no intervening employment from the date
+of the filing of the last initial, additional, or reopened claim;
+ENR. S. B. NO. 924 Page 6
+
+Section 53:
+45. 46. “State” includes, in addition to the states of the
+United States of America, the District of Columbia, the Commonwealth
+of Puerto Rico, and the Virgin Islands;
+
+Section 54:
+46. 47. “State law” means the unemployment insurance law of any
+state, approved by the Secretary of Labor of the United States under
+
+Section 55:
+Section 3304 of the Internal Revenue Code of 1954;
+
+Section 56:
+47. 48. “Supplemental unemployment benefit plan” means a plan
+that provides for an employer to make payments to its employees
+during a permanent or temporary layoff that will supplement
+unemployment benefits received by the employees. The purpose of a
+supplemental unemployment benefit plan is to allow an employer to
+sustain the purchasing power of its employees or former employees
+during a layoff;
+
+Section 57:
+48. 49. “Taxable wages” means the wages paid to an individual
+with respect to employment during a calendar year for services
+covered by the Employment Security Act of 1980 or other state
+unemployment compensation acts which shall equal the applicable
+percentage of the state’s average annual wage for the second
+preceding calendar year as determined by the Commission, rounded to
+the nearest multiple of One Hundred Dollars ($100.00);
+
+Section 58:
+49. 50. “Wages” shall have the same meaning as provided in
+
+Section 59:
+Section 1-218 of this title;
+
+Section 60:
+50. 51. “Wages paid” means wages actually paid to the worker;
+provided, however, that in the event of any distribution of an
+employer’s assets through insolvency, receivership, composition,
+assignment for the benefit of creditors, or termination of business,
+wages earned but not actually paid shall be considered as paid; and
+
+Section 61:
+51. 52. “Week” means such period of seven (7) consecutive days,
+as the Commission may by regulation prescribe.
+
+Section 62:
+SECTION 2. AMENDATORY 40 O.S. 2021, Section 1-224, as
+last amended by Section 2, Chapter 114, O.S.L. 2024 (40 O.S. Supp.
+2024, Section 1-224), is amended to read as follows:
+
+Section 63:
+Section 1-224. FILE.
+ENR. S. B. NO. 924 Page 7
+A. For purposes of this section, “OESC 2020-21 business process
+transformation” means a change from paper process to integrated
+digital technology. Upon completion of the OESC 2020-21 business
+process transformation, electronic e-filing will be the Oklahoma
+Employment Security Commission’s preferred filing method for
+tendering and receiving documents. All claimants and employers
+tendering documents to the Commission will be expected to tender the
+documents electronically. If the claimant or employer has elected
+to utilize other means of transmittal, it will be the responsibility
+of the claimant or employer to notify the Commission of this
+preference.
+B. When the provisions of the Employment Security Act of 1980
+or the rules promulgated under the authority of the act Employment
+Security Act of 1980 require any document to be filed with the
+Oklahoma Employment Security Commission or its affiliate entities,
+the term “file”, “files”, or “filed” shall mean:
+
+Section 64:
+1. Mailing by means calculated to ensure receipt by the
+Oklahoma Employment Security Commission on or before the date due.
+Timely mailing shall be determined by the United States Postal
+Service postmark. If there is no such legible postmark, the date of
+receipt by the Commission shall constitute the date of filing;
+
+Section 65:
+2. Electronic e-filing to the Oklahoma Employment Security
+Commission, as directed by the instructions on the determination
+letter, order or other document issued by the Commission, by
+midnight on or before the date due. Timely transmission shall be
+determined by the Commission’s transmission log file; or
+
+Section 66:
+3. Digital portal filing by midnight on or before the date due.
+Timely transmission shall be determined by the Commission’s
+transmission log file; or
+
+Section 67:
+4. In significant economic situations, instances where evidence
+suggests potential fraudulent activity or for those who have not
+completed the claim filing process, the Commission shall have the
+discretion to modify the appeal filing requirements to respond to
+the situation.
+C. If the Employment Security Act of 1980 or the rules
+promulgated under the Employment Security Act of 1980 require that a
+ENR. S. B. NO. 924 Page 8
+document be filed with a court or any other agency of this state,
+the term “file”, “files” or “filed” shall be defined by the
+statutes, rules or practice governing that court or agency.
+
+Section 68:
+SECTION 3. AMENDATORY 40 O.S. 2021, Section 2-610, is
+amended to read as follows:
+
+Section 69:
+Section 2-610. JUDICIAL REVIEW.
+A. Within the thirty (30) days after the day a notice of
+decision of the Board of Review is mailed to the parties, the
+Oklahoma Employment Security Commission, or any party to the
+proceedings before the Board of Review, may obtain judicial review
+by filing in the district court of the county in which the claimant
+resides, or if the claimant is not a resident of the State of
+Oklahoma then in the District Court of Oklahoma County, a petition
+for review of the decision of the Board of Review. The petition for
+review shall set out the names of all codefendants in the style of
+the case, which shall include:
+
+Section 70:
+1. The Board of Review;
+
+Section 71:
+2. The Oklahoma Employment Security Commission; and
+
+Section 72:
+3. All other parties to the proceeding before the Board of
+Review.
+Failure to properly name the codefendants as stated in this
+
+Section 73:
+section shall be deemed a jurisdictional defect and the case shall
+be dismissed. The petition for review need not be verified but
+shall state specifically the grounds upon which the review is
+sought. A copy of the petition for review shall be served upon the
+Board of Review at its official address and the petitioner shall
+also deliver to the Board of Review as many copies of the petition
+as there are defendants. The Board of Review shall issue to each
+party to the proceeding a copy of the petition and the issuance
+shall be deemed to be service upon all the parties. In any
+proceeding under this section the findings of the Board of Review as
+to the facts, if supported by evidence, shall be conclusive and the
+jurisdiction of the court shall be confined to questions of law. No
+additional evidence shall be received by the court, but the court
+ENR. S. B. NO. 924 Page 9
+may remand the case and order additional evidence to be taken by the
+Appeal Tribunal of the Oklahoma Employment Security Commission.
+B. Within sixty (60) days of the date of service of the
+petition on the Board of Review, the Board of Review shall file with
+the court a certified copy of the record of the case, including all
+documents and papers properly admitted into evidence and a
+transcript of all testimony taken in the matter, together with the
+Board of Review’s findings, conclusions and decision.
+C. The proceedings shall be heard in a summary manner and shall
+be given precedence over all other civil cases. An appeal may be
+taken from the decision of the district court to the Supreme Court
+of this state in the same manner as is provided in other civil
+cases. It shall not be necessary as a condition precedent to
+judicial review of any decision of the Board of Review to enter
+exceptions to the rulings of the Board, and no bond shall be
+required as a condition of initiating a proceeding for judicial
+review or entering an appeal from the decision of the court. Upon
+the final termination of the judicial proceeding, the Board of
+Review shall enter an order in accordance with the mandate of the
+district or appellate court.
+
+Section 74:
+SECTION 4. AMENDATORY 40 O.S. 2021, Section 4-508, as
+amended by Section 22, Chapter 360, O.S.L. 2022 (40 O.S. Supp. 2024,
+
+Section 75:
+Section 4-508), is amended to read as follows:
+
+Section 76:
+Section 4-508. INFORMATION TO BE KEPT CONFIDENTIAL -
+DISCLOSURE.
+A. Except as otherwise provided by law, information obtained
+from any employing unit or individual pursuant to the administration
+of the Employment Security Act of 1980, any workforce system program
+administered or monitored by the Oklahoma Employment Security
+Commission, and determinations as to the benefit rights of any
+individual shall be kept confidential and shall not be disclosed or
+be open to public inspection in any manner revealing the
+individual’s or employing unit’s identity. Any claimant, employer,
+or agent of either as authorized in writing, shall be supplied with
+information from the records of the Oklahoma Employment Security
+Commission, to the extent necessary for the proper presentation of
+ENR. S. B. NO. 924 Page 10
+the claim or complaint in any proceeding under the Employment
+Security Act of 1980, with respect thereto.
+B. Upon receipt of written request by any employer who
+maintains a Supplemental Unemployment Benefit (SUB) Plan, the
+Commission or its designated representative may release to that
+employer information regarding weekly benefit amounts paid its
+workers during a specified temporary layoff period, provided the
+Supplemental Unemployment Benefit (SUB) Plan requires benefit
+payment information before Supplemental Unemployment Benefits can be
+paid to the workers. Any information disclosed under this provision
+shall be utilized solely for the purpose outlined herein and shall
+be held strictly confidential by the employer.
+C. The provisions of this section shall not prevent the
+Commission from disclosing the following information and no
+liability whatsoever, civil or criminal, shall attach to any member
+of the Commission or any employee thereof for any error or omission
+in the disclosure of this information:
+
+Section 77:
+1. The delivery to taxpayer or claimant a copy of any report or
+other paper filed by the taxpayer or claimant pursuant to the
+Employment Security Act of 1980;
+
+Section 78:
+2. The disclosure of information to any person for a purpose as
+authorized by the taxpayer or claimant pursuant to a waiver of
+confidentiality. The waiver shall be in writing and shall be
+notarized;
+
+Section 79:
+3. The Oklahoma Department of Commerce may have access to data
+obtained pursuant to the Employment Security Act of 1980 pursuant to
+rules promulgated by the Commission. The information obtained shall
+be held confidential by the Department and any of its agents and
+shall not be disclosed or be open to public inspection. The
+Oklahoma Department of Commerce, however, may release aggregated
+data, either by industry or county, provided that the aggregation
+meets disclosure requirements of the Commission;
+
+Section 80:
+4. The publication of statistics so classified as to prevent
+the identification of a particular report and the items thereof;
+ENR. S. B. NO. 924 Page 11
+
+Section 81:
+5. The disclosing of information or evidence to the Attorney
+General or any district attorney when the information or evidence is
+to be used by the officials or other parties to the proceedings to
+prosecute or defend allegations of violations of the Employment
+Security Act of 1980. The information disclosed to the Attorney
+General or any district attorney shall be kept confidential by them
+and not be disclosed except when presented to a court in a
+prosecution of a violation of Section 1-101 et seq. of this title,
+and a violation by the Attorney General or district attorney by
+otherwise releasing the information shall be a felony;
+
+Section 82:
+6. The furnishing, at the discretion of the Commission, of any
+information disclosed by the records or files to any official person
+or body of this state, any other state or of the United States who
+is concerned with the administration of assessment of any similar
+tax in this state, any other state or the United States;
+
+Section 83:
+7. The furnishing of information to other state agencies for
+the limited purpose of aiding in the collection of debts owed by
+individuals to the requesting agencies or the Oklahoma Employment
+Security Commission;
+
+Section 84:
+8. The release of information to employees of the Department of
+Transportation required for use in federally mandated regional
+transportation planning, which is performed as a part of its
+official duties;
+
+Section 85:
+9. The release of information to employees of the State
+Treasurer’s office required to verify or evaluate the effectiveness
+of the Oklahoma Small Business Linked Deposit Program on job
+creation;
+
+Section 86:
+10. The release of information to employees of the Attorney
+General, the Department of Labor, the Workers’ Compensation
+Commission and the Insurance Department for use in investigation of
+workers’ compensation fraud;
+
+Section 87:
+11. The release of information to employees of any state,
+county, municipal or tribal law enforcement agency for use in
+criminal investigations and the location of missing persons or
+fugitives from justice;
+ENR. S. B. NO. 924 Page 12
+
+Section 88:
+12. The release of information to employees of the Center of
+International Trade, Oklahoma State University, required for the
+development of International Trade for employers doing business in
+this state;
+
+Section 89:
+13. The release of information to employees of the Oklahoma
+State Regents for Higher Education required for use in the default
+prevention efforts and/or collection of defaulted student loans
+guaranteed by the Oklahoma Guaranteed Student Loan Program. Any
+information disclosed under this provision shall be utilized solely
+for the purpose outlined herein and shall be held strictly
+confidential by the Oklahoma State Regents for Higher Education;
+
+Section 90:
+14. The release of information to employees of the Oklahoma
+Department of Career and Technology Education, the Oklahoma State
+Regents for Higher Education, the Center for Economic and Management
+Research of the University of Oklahoma, the Center for Economic and
+Business Development at Southwestern Oklahoma State University or a
+center of economic and business research or development at a
+comprehensive or regional higher education institution within The
+Oklahoma State System of Higher Education required to identify
+economic trends or educational outcomes. The information obtained
+shall be kept confidential by the Oklahoma Department of Career and
+Technology Education, the Oklahoma State Regents for Higher
+Education and the higher education institution and shall not be
+disclosed or be open to public inspection. The Oklahoma Department
+of Career and Technology Education, the Oklahoma State Regents for
+Higher Education and the higher education institution may release
+aggregated data, provided that the aggregation meets disclosure
+requirements of the Commission;
+
+Section 91:
+15. The release of information to employees of the Office of
+Management and Enterprise Services required to identify economic
+trends. The information obtained shall be kept confidential by the
+Office of Management and Enterprise Services and shall not be
+disclosed or be open to public inspection. The Office of Management
+and Enterprise Services may release aggregate data, provided that
+the aggregation meets disclosure requirements of the Oklahoma
+Employment Security Commission;
+
+Section 92:
+16. The release of information to employees of the Department
+of Mental Health and Substance Abuse Services required to evaluate
+ENR. S. B. NO. 924 Page 13
+the effectiveness of mental health and substance abuse treatment and
+state or local programs utilized to divert persons from inpatient
+treatment. The information obtained shall be kept confidential by
+the Department and shall not be disclosed or be open to public
+inspection. The Department of Mental Health and Substance Abuse
+Services, however, may release aggregated data, either by treatment
+facility, program or larger aggregate units, provided that the
+aggregation meets disclosure requirements of the Oklahoma Employment
+Security Commission;
+
+Section 93:
+17. The release of information to employees of the Attorney
+General, the Oklahoma State Bureau of Investigation and the
+Insurance Department for use in the investigation of insurance fraud
+and health care fraud;
+
+Section 94:
+18. The release of information to employees of public housing
+agencies for purposes of determining eligibility pursuant to 42
+U.S.C., Section 503(i);
+
+Section 95:
+19. The release of wage and benefit claim information, at the
+discretion of the Commission, to an agency of this state or its
+political subdivisions that operate a program or activity designated
+as a required partner in the Workforce Innovation and Opportunity
+Act One-Stop delivery system pursuant to 29 U.S.C.A., Section
+3151(b)(1), based on a showing of need made to the Commission and
+after an agreement concerning the release of information is entered
+into with the entity receiving the information. For the limited
+purpose of completing performance accountability reports required by
+the Workforce Innovation and Opportunity Act, only those designated
+required partners that meet the 20 CFR Section 603.2(d) definition
+of public official may contract with a private agent or contractor
+pursuant to 20 CFR Section 603.5(f) for the purpose of the private
+agent or contractor receiving confidential unemployment compensation
+information to the extent necessary to complete the performance
+accountability reports;
+
+Section 96:
+20. The release of information to the State Wage Interchange
+System, at the discretion of the Commission;
+
+Section 97:
+21. The release of information to the Bureau of the Census of
+the U.S. Department of Commerce, the Bureau of Labor Statistics of
+the U.S. Department of Labor, and its agents employed by the
+ENR. S. B. NO. 924 Page 14
+Oklahoma Department of Labor for the purpose of economic and
+statistical research;
+
+Section 98:
+22. The release of employer tax information and benefit claim
+information to the Oklahoma Health Care Authority for use in
+determining eligibility for a program that will provide subsidies
+for health insurance premiums for qualified employers, employees,
+self-employed persons and unemployed persons;
+
+Section 99:
+23. The release of employer tax information and benefit claim
+information to the State Department of Rehabilitation Services for
+use in assessing results and outcomes of clients served;
+
+Section 100:
+24. The release of information to any state or federal law
+enforcement authority when necessary in the investigation of any
+crime in which the Commission is a victim. Information that is
+confidential under this section shall be held confidential by the
+law enforcement authority unless and until it is required for use in
+court in the prosecution of a defendant in a criminal prosecution;
+
+Section 101:
+25. The release of information to vendors that contract with
+the Oklahoma Employment Security Commission to provide for the
+issuance of debit cards, to conduct electronic fund transfers, to
+perform computer programming operations, or to perform computer
+maintenance or replacement operations; provided the vendor agrees to
+protect and safeguard the information it receives and to destroy the
+information when no longer needed for the purposes set out in the
+contract;
+
+Section 102:
+26. The release of information to employees of the Office of
+Juvenile Affairs for use in assessing results and outcomes of
+clients served as well as the effectiveness of state and local
+juvenile and justice programs including prevention and treatment
+programs. The information obtained shall be kept confidential by
+the Office of Juvenile Affairs and shall not be disclosed or be open
+to public inspection. The Office of Juvenile Affairs may release
+aggregated data for programs or larger aggregate units, provided
+that the aggregation meets disclosure requirements of the Oklahoma
+Employment Security Commission;
+
+Section 103:
+27. The release of information to vendors that contract with
+the State of Oklahoma for the purpose of providing a public
+ENR. S. B. NO. 924 Page 15
+electronic labor exchange system that will support the Oklahoma
+Employment Security Commission’s operation of an employment service
+system to connect employers with job seekers and military veterans.
+This labor exchange system would enhance the stability and security
+of Oklahoma’s economy as well as support the provision of veterans’
+priority of service. The vendors may perform computer programming
+operations, perform computer maintenance or replacement operations,
+or host the electronic solution; provided, each vendor agrees to
+protect and safeguard all information received, that no information
+shall be disclosed to any third party, that the use of the
+information shall be restricted to the scope of the contract, and
+that the vendor shall properly dispose of all information when no
+longer needed for the purposes set out in the contract; or
+
+Section 104:
+28. The release of employer tax information and benefit claim
+information to employees of a county public defender’s office in
+this state and the Oklahoma Indigent Defense System for the purpose
+of determining financial eligibility for the services provided by
+such entities.
+D. Subpoenas to compel disclosure of information made
+confidential by this statute shall not be valid, except for
+administrative subpoenas issued by federal, state, or local
+governmental agencies that have been granted subpoena power by
+statute or ordinance. Confidential information maintained by the
+Commission can be obtained by order of a court of record that
+authorizes the release of the records in writing. All
+administrative subpoenas or court orders for production of documents
+must provide a minimum of twenty (20) days from the date it is
+served for the Commission to produce the documents. If the date on
+which production of the documents is required is less than twenty
+(20) days from the date of service, the subpoena or order shall be
+considered void on its face as an undue burden or hardship on the
+Commission. All administrative subpoenas, court orders or notarized
+waivers of confidentiality authorized by paragraph 2 of subsection C
+of this section shall be presented with a request for records within
+ninety (90) days of the date the document is issued or signed, and
+the document can only be used one time to obtain records.
+E. Should any of the disclosures provided for in this section
+require more than casual or incidental staff time, the Commission
+ENR. S. B. NO. 924 Page 16
+shall charge the cost of the staff time to the party requesting the
+information.
+F. It is further provided that the provisions of this section
+shall be strictly interpreted and shall not be construed as
+permitting the disclosure of any other information contained in the
+records and files of the Commission.
+
+Section 105:
+SECTION 5. This act shall become effective November 1, 2025.
+ENR. S. B. NO. 924 Page 17
+Passed the Senate the 24th day of March, 2025.
+Presiding Officer of the Senate
+Passed the House of Representatives the 5th day of May, 2025.
+Presiding Officer of the House
+of Representatives
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of __________________, 20 _______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. S. B. NO. 924 Page 18
+[DELETED:  B C  a T]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPPo_G]
+
+
+================================================================================
+
+Raw Text:
+An Act
+ENROLLED SENATE
+BILL NO. 924 By: Coleman of the Senate
+and
+Tedford of the House
+An Act relating to the Employment Security Act of
+1980; amending 40 O.S. 2021, Section 1-201, as last
+amended by Section 1, Chapter 114, O.S.L. 2024 (40
+O.S. Supp. 2024, Section 1-201), which relates to
+definitions; defining term; amending 40 O.S. 2021,
+Section 1-224, as last amended by Section 2, Chapter
+114, O.S.L. 2024 (40 O.S. Supp. 2024, Section 1-224),
+which relates to filing; authorizing the Oklahoma
+Employment Security Commission to modify appeal
+filing requirements under certain circumstances;
+amending 40 O.S. 2021, Section 2-610, which relates
+to judicial review; allowing certain case to be
+dismissed upon failure to provide certain
+information; amending 40 O.S. 2021, Section 4-508, as
+amended by Section 22, Chapter 360, O.S.L. 2022 (40
+O.S. Supp. 2024, Section 4-508), which relates to
+information to be kept confidential; removing
+reference to specific entities; updating statutory
+language; and providing an effective date.
+SUBJECT: Unemployment claims
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1. AMENDATORY 40 O.S. 2021, Section 1-201, as
+last amended by Section 1, Chapter 114, O.S.L. 2024 (40 O.S. Supp.
+2024, Section 1-201), is amended to read as follows:
+Section 1-201. GENERAL DEFINITIONS. As used in the Employment
+Security Act of 1980:
+
+1. “Additional initial claim” means a claim application which
+reactivates a claim during an existing benefit year and certifies to
+a period of employment which occurred subsequent to the date of the
+filing of the last initial, additional, or reopened claim;
+2. “Alternative base period” means the most recent four (4)
+completed calendar quarters immediately preceding the first day of
+an individual’s benefit year. In the event that an individual’s
+claim uses an alternative base period to meet the wage requirement
+under Section 2-207 of this title, this alternative base period
+shall be substituted for base period for all other purposes under
+the Employment Security Act of 1980;
+3. “Assigned tax rate” means the tax rate assigned to an
+employer pursuant to Section 3-110.1 of this title when the employer
+does not have sufficient experience history to meet the At-Risk Rule
+set out in paragraph 3 of Section 3-110.1 of this title;
+4. “Base period” means the first four (4) of the last five (5)
+completed calendar quarters immediately preceding the first day of
+an individual’s benefit year;
+5. “Benefit year” with respect to any individual means the one-
+year period beginning with the first day of the first week with
+respect to which the individual first files a valid claim for
+benefits and thereafter the one-year period beginning with the first
+day of the first week with respect to which the individual next
+files a valid claim for benefits after the termination of his or her
+last preceding benefit year. Any claim for benefits shall be deemed
+a valid claim for the purpose of this section if the individual has
+been paid the wages for insured work required under the Employment
+Security Act of 1980;
+6. “Benefit wages” means the taxable wages earned by a claimant
+during the claimant’s base period which are not in excess of the
+current maximum weekly benefit amount, as determined under Section
+2-104 of this title, multiplied by the maximum number of weeks for
+which benefits could be paid to any individual pursuant to Section
+2-106 of this title, multiplied by three (3); provided, however, no
+wages shall be included as benefit wages unless and until the
+claimant has been paid benefits for five (5) weeks in one (1)
+benefit year;
+ENR. S. B. NO. 924 Page 2
+
+7. “Benefits” means the money payments payable to an individual
+as provided in the Employment Security Act of 1980 with respect to
+his or her unemployment, including extended benefits. The federal
+share of such extended benefits shall not be construed as benefits
+for the purposes of computing contribution rates under the
+Employment Security Act of 1980;
+8. “Calendar quarter” means the period of three (3) consecutive
+calendar months ending on March 31, June 30, September 30, or
+December 31, or the equivalent thereof as the Oklahoma Employment
+Security Commission may by regulation prescribe;
+9. “Claimant” means an individual who has filed for
+unemployment benefits with the Commission;
+9. 10. “Client” shall have the same meaning as provided in
+paragraph 1 of Section 600.2 of this title;
+10. 11. “Coemployer” shall have the same meaning as provided in
+paragraph 2 of Section 600.2 of this title;
+11. 12. “Coemployment relationship” shall have the same meaning
+as provided in paragraph 3 of Section 600.2 of this title;
+12. 13. “Commission” means the Oklahoma Employment Security
+Commission;
+13. 14. “Commissioner” means a member of the Commission;
+14. 15. “Continued claim series” means an uninterrupted series
+of weekly claims filed by a claimant during the benefit year;
+15. 16. “Contributions” means the money payments, including
+taxes and reimbursements, required by the Employment Security Act of
+1980 to be paid into the Unemployment Compensation Fund by an
+employer;
+16. 17. “Covered employee” shall have the same meaning as
+provided in paragraph 5 of Section 600.2 of this title;
+ENR. S. B. NO. 924 Page 3
+
+17. 18. “Digital portal filing” means electronic communication
+through the agency digital portal;
+18. 19. “Earned tax rate” means the tax rate calculated for an
+employer with sufficient experience history to meet the At-Risk Rule
+set out in paragraph 3 of Section 3-110.1 of this title, with the
+tax rate calculated pursuant to the provisions of Section 3-101 et
+seq. of this title;
+19. 20. “Electronic e-filing” means filing by email or fax to
+email;
+20. 21. “Eligibility period” of an individual for extended
+benefits means the period consisting of the weeks in his or her
+benefit year, as defined by the Employment Security Act of 1980,
+which begin in an extended benefit period and, if his or her benefit
+year ends within such extended benefit period, any weeks thereafter
+which begin in such extended benefit period;
+21. 22. “Employer” shall have the same meaning as provided in
+Section 1-208 of this title;
+22. 23. “Employing unit” means any individual or type of
+organization, including any partnership, association, trust, estate,
+joint stock company, insurance company, limited liability company or
+corporation, whether domestic or foreign, or the receiver, trustee
+in bankruptcy, trustee or successor thereof, or the legal
+representative of a deceased person, which has or subsequent to
+January 1, 1936, had in its employ one or more individuals
+performing services for it within this state;
+23. 24. “Employment” shall have the same meaning as provided in
+Section 1-210 of this title;
+24. 25. “Employment office” means a free public employment
+office or branch thereof operated by this or any other state as a
+part of a state-controlled system of public employment offices or by
+a federal agency charged with the administration of an unemployment
+compensation program or free public employment offices;
+25. 26. “Employment Security Administration Fund” means the
+fund established in Section 4-602 of this title from which
+ENR. S. B. NO. 924 Page 4
+
+administration expenses under the Employment Security Act of 1980
+shall be paid;
+26. 27. “Exhaustee” shall have the same meaning as provided in
+Section 2-712 of this title;
+27. 28. “Experience period” means the most recent twelve (12)
+consecutive completed calendar quarters occurring before July 1 of
+the year immediately preceding the year for which the employer’s
+contribution rate is being calculated;
+28. 29. “Extended base period” means the four (4) quarters
+prior to the claimant’s base period. These four (4) quarters may be
+substituted for base period quarters on a quarter-by-quarter basis
+to establish a valid claim regardless of whether the wages have been
+used to establish a prior claim, except any wages earned that would
+render the Commission out of compliance with applicable federal law
+shall be excluded if used in a prior claim;
+29. 30. “Extended benefit period” shall have the same meaning
+as provided in Section 2-703 of this title;
+30. 31. “File”, “files”, or “filed” shall have the same meaning
+as provided in Section 1-224 of this title;
+31. 32. “Mail”, “mails”, “mailed”, or “mailing” means
+communication sent by a postal service with sufficient postage;
+32. 33. “Foreign limited liability company” shall be defined by
+the provisions of the Oklahoma Limited Liability Company Act;
+33. 34. “Fund” means the Unemployment Compensation Fund
+established in Section 3-601 of this title;
+34. 35. “Hospital” means any hospital required to be licensed
+under the Oklahoma Public Health Code, Section 1-101 et seq. of
+Title 63 of the Oklahoma Statutes, and includes state mental
+hospitals and any other mental hospital or institution;
+35. 36. “Initial claim” means a new claim application submitted
+by a claimant to establish a benefit year for unemployment insurance
+benefits;
+ENR. S. B. NO. 924 Page 5
+
+36. 37. “Institution of higher education” shall have the same
+meaning as provided in Section 1-214 of this title;
+37. 38. “Insured work” means employment for employers as
+defined by the Employment Security Act of 1980;
+38. 39. “Lessor employing unit” means any independently
+established business entity which engages in the business of
+providing leased employees to any other employer, individual,
+organization, partnership, corporation, or other legal entity,
+referred to herein as a client lessee;
+39. 40. “Limited liability company” shall be defined by the
+provisions of the Oklahoma Limited Liability Company Act;
+40. 41. “Probationary period” means a period of time set forth
+in an established probationary plan, which applies to all employees
+or a specific group of employees, and does not exceed ninety (90)
+calendar days from the first day a new employee begins work;
+41. 42. “Professional Employer Organization” or “PEO” means an
+organization that is subject to the Oklahoma Professional Employer
+Organization Recognition and Registration Act and which meets the
+definition set out in paragraph 9 of Section 600.2 of this title;
+42. 43. “Rate of insured employment” shall have the same
+meaning as provided in Section 2-708 of this title;
+43. 44. “Regular benefits” means benefits payable to an
+individual under the Employment Security Act of 1980, or under any
+other state law including dependents’ allowances and benefits
+payable to federal civilian employees;
+44. 45. “Reopened claim” means a claim application which
+reactivates a claim during an existing benefit year when a claimant
+stopped filing for benefits before his or her claim was exhausted,
+but in which there occurred no intervening employment from the date
+of the filing of the last initial, additional, or reopened claim;
+ENR. S. B. NO. 924 Page 6
+
+45. 46. “State” includes, in addition to the states of the
+United States of America, the District of Columbia, the Commonwealth
+of Puerto Rico, and the Virgin Islands;
+46. 47. “State law” means the unemployment insurance law of any
+state, approved by the Secretary of Labor of the United States under
+Section 3304 of the Internal Revenue Code of 1954;
+47. 48. “Supplemental unemployment benefit plan” means a plan
+that provides for an employer to make payments to its employees
+during a permanent or temporary layoff that will supplement
+unemployment benefits received by the employees. The purpose of a
+supplemental unemployment benefit plan is to allow an employer to
+sustain the purchasing power of its employees or former employees
+during a layoff;
+48. 49. “Taxable wages” means the wages paid to an individual
+with respect to employment during a calendar year for services
+covered by the Employment Security Act of 1980 or other state
+unemployment compensation acts which shall equal the applicable
+percentage of the state’s average annual wage for the second
+preceding calendar year as determined by the Commission, rounded to
+the nearest multiple of One Hundred Dollars ($100.00);
+49. 50. “Wages” shall have the same meaning as provided in
+Section 1-218 of this title;
+50. 51. “Wages paid” means wages actually paid to the worker;
+provided, however, that in the event of any distribution of an
+employer’s assets through insolvency, receivership, composition,
+assignment for the benefit of creditors, or termination of business,
+wages earned but not actually paid shall be considered as paid; and
+51. 52. “Week” means such period of seven (7) consecutive days,
+as the Commission may by regulation prescribe.
+SECTION 2. AMENDATORY 40 O.S. 2021, Section 1-224, as
+last amended by Section 2, Chapter 114, O.S.L. 2024 (40 O.S. Supp.
+2024, Section 1-224), is amended to read as follows:
+Section 1-224. FILE.
+ENR. S. B. NO. 924 Page 7
+
+A. For purposes of this section, “OESC 2020-21 business process
+transformation” means a change from paper process to integrated
+digital technology. Upon completion of the OESC 2020-21 business
+process transformation, electronic e-filing will be the Oklahoma
+Employment Security Commission’s preferred filing method for
+tendering and receiving documents. All claimants and employers
+tendering documents to the Commission will be expected to tender the
+documents electronically. If the claimant or employer has elected
+to utilize other means of transmittal, it will be the responsibility
+of the claimant or employer to notify the Commission of this
+preference.
+B. When the provisions of the Employment Security Act of 1980
+or the rules promulgated under the authority of the act Employment
+Security Act of 1980 require any document to be filed with the
+Oklahoma Employment Security Commission or its affiliate entities,
+the term “file”, “files”, or “filed” shall mean:
+1. Mailing by means calculated to ensure receipt by the
+Oklahoma Employment Security Commission on or before the date due.
+Timely mailing shall be determined by the United States Postal
+Service postmark. If there is no such legible postmark, the date of
+receipt by the Commission shall constitute the date of filing;
+2. Electronic e-filing to the Oklahoma Employment Security
+Commission, as directed by the instructions on the determination
+letter, order or other document issued by the Commission, by
+midnight on or before the date due. Timely transmission shall be
+determined by the Commission’s transmission log file; or
+3. Digital portal filing by midnight on or before the date due.
+Timely transmission shall be determined by the Commission’s
+transmission log file; or
+4. In significant economic situations, instances where evidence
+suggests potential fraudulent activity or for those who have not
+completed the claim filing process, the Commission shall have the
+discretion to modify the appeal filing requirements to respond to
+the situation.
+C. If the Employment Security Act of 1980 or the rules
+promulgated under the Employment Security Act of 1980 require that a
+ENR. S. B. NO. 924 Page 8
+
+document be filed with a court or any other agency of this state,
+the term “file”, “files” or “filed” shall be defined by the
+statutes, rules or practice governing that court or agency.
+SECTION 3. AMENDATORY 40 O.S. 2021, Section 2-610, is
+amended to read as follows:
+Section 2-610. JUDICIAL REVIEW.
+A. Within the thirty (30) days after the day a notice of
+decision of the Board of Review is mailed to the parties, the
+Oklahoma Employment Security Commission, or any party to the
+proceedings before the Board of Review, may obtain judicial review
+by filing in the district court of the county in which the claimant
+resides, or if the claimant is not a resident of the State of
+Oklahoma then in the District Court of Oklahoma County, a petition
+for review of the decision of the Board of Review. The petition for
+review shall set out the names of all codefendants in the style of
+the case, which shall include:
+1. The Board of Review;
+2. The Oklahoma Employment Security Commission; and
+3. All other parties to the proceeding before the Board of
+Review.
+Failure to properly name the codefendants as stated in this
+section shall be deemed a jurisdictional defect and the case shall
+be dismissed. The petition for review need not be verified but
+shall state specifically the grounds upon which the review is
+sought. A copy of the petition for review shall be served upon the
+Board of Review at its official address and the petitioner shall
+also deliver to the Board of Review as many copies of the petition
+as there are defendants. The Board of Review shall issue to each
+party to the proceeding a copy of the petition and the issuance
+shall be deemed to be service upon all the parties. In any
+proceeding under this section the findings of the Board of Review as
+to the facts, if supported by evidence, shall be conclusive and the
+jurisdiction of the court shall be confined to questions of law. No
+additional evidence shall be received by the court, but the court
+ENR. S. B. NO. 924 Page 9
+
+may remand the case and order additional evidence to be taken by the
+Appeal Tribunal of the Oklahoma Employment Security Commission.
+B. Within sixty (60) days of the date of service of the
+petition on the Board of Review, the Board of Review shall file with
+the court a certified copy of the record of the case, including all
+documents and papers properly admitted into evidence and a
+transcript of all testimony taken in the matter, together with the
+Board of Review’s findings, conclusions and decision.
+C. The proceedings shall be heard in a summary manner and shall
+be given precedence over all other civil cases. An appeal may be
+taken from the decision of the district court to the Supreme Court
+of this state in the same manner as is provided in other civil
+cases. It shall not be necessary as a condition precedent to
+judicial review of any decision of the Board of Review to enter
+exceptions to the rulings of the Board, and no bond shall be
+required as a condition of initiating a proceeding for judicial
+review or entering an appeal from the decision of the court. Upon
+the final termination of the judicial proceeding, the Board of
+Review shall enter an order in accordance with the mandate of the
+district or appellate court.
+SECTION 4. AMENDATORY 40 O.S. 2021, Section 4-508, as
+amended by Section 22, Chapter 360, O.S.L. 2022 (40 O.S. Supp. 2024,
+Section 4-508), is amended to read as follows:
+Section 4-508. INFORMATION TO BE KEPT CONFIDENTIAL -
+DISCLOSURE.
+A. Except as otherwise provided by law, information obtained
+from any employing unit or individual pursuant to the administration
+of the Employment Security Act of 1980, any workforce system program
+administered or monitored by the Oklahoma Employment Security
+Commission, and determinations as to the benefit rights of any
+individual shall be kept confidential and shall not be disclosed or
+be open to public inspection in any manner revealing the
+individual’s or employing unit’s identity. Any claimant, employer,
+or agent of either as authorized in writing, shall be supplied with
+information from the records of the Oklahoma Employment Security
+Commission, to the extent necessary for the proper presentation of
+ENR. S. B. NO. 924 Page 10
+
+the claim or complaint in any proceeding under the Employment
+Security Act of 1980, with respect thereto.
+B. Upon receipt of written request by any employer who
+maintains a Supplemental Unemployment Benefit (SUB) Plan, the
+Commission or its designated representative may release to that
+employer information regarding weekly benefit amounts paid its
+workers during a specified temporary layoff period, provided the
+Supplemental Unemployment Benefit (SUB) Plan requires benefit
+payment information before Supplemental Unemployment Benefits can be
+paid to the workers. Any information disclosed under this provision
+shall be utilized solely for the purpose outlined herein and shall
+be held strictly confidential by the employer.
+C. The provisions of this section shall not prevent the
+Commission from disclosing the following information and no
+liability whatsoever, civil or criminal, shall attach to any member
+of the Commission or any employee thereof for any error or omission
+in the disclosure of this information:
+1. The delivery to taxpayer or claimant a copy of any report or
+other paper filed by the taxpayer or claimant pursuant to the
+Employment Security Act of 1980;
+2. The disclosure of information to any person for a purpose as
+authorized by the taxpayer or claimant pursuant to a waiver of
+confidentiality. The waiver shall be in writing and shall be
+notarized;
+3. The Oklahoma Department of Commerce may have access to data
+obtained pursuant to the Employment Security Act of 1980 pursuant to
+rules promulgated by the Commission. The information obtained shall
+be held confidential by the Department and any of its agents and
+shall not be disclosed or be open to public inspection. The
+Oklahoma Department of Commerce, however, may release aggregated
+data, either by industry or county, provided that the aggregation
+meets disclosure requirements of the Commission;
+4. The publication of statistics so classified as to prevent
+the identification of a particular report and the items thereof;
+ENR. S. B. NO. 924 Page 11
+
+5. The disclosing of information or evidence to the Attorney
+General or any district attorney when the information or evidence is
+to be used by the officials or other parties to the proceedings to
+prosecute or defend allegations of violations of the Employment
+Security Act of 1980. The information disclosed to the Attorney
+General or any district attorney shall be kept confidential by them
+and not be disclosed except when presented to a court in a
+prosecution of a violation of Section 1-101 et seq. of this title,
+and a violation by the Attorney General or district attorney by
+otherwise releasing the information shall be a felony;
+6. The furnishing, at the discretion of the Commission, of any
+information disclosed by the records or files to any official person
+or body of this state, any other state or of the United States who
+is concerned with the administration of assessment of any similar
+tax in this state, any other state or the United States;
+7. The furnishing of information to other state agencies for
+the limited purpose of aiding in the collection of debts owed by
+individuals to the requesting agencies or the Oklahoma Employment
+Security Commission;
+8. The release of information to employees of the Department of
+Transportation required for use in federally mandated regional
+transportation planning, which is performed as a part of its
+official duties;
+9. The release of information to employees of the State
+Treasurer’s office required to verify or evaluate the effectiveness
+of the Oklahoma Small Business Linked Deposit Program on job
+creation;
+10. The release of information to employees of the Attorney
+General, the Department of Labor, the Workers’ Compensation
+Commission and the Insurance Department for use in investigation of
+workers’ compensation fraud;
+11. The release of information to employees of any state,
+county, municipal or tribal law enforcement agency for use in
+criminal investigations and the location of missing persons or
+fugitives from justice;
+ENR. S. B. NO. 924 Page 12
+
+12. The release of information to employees of the Center of
+International Trade, Oklahoma State University, required for the
+development of International Trade for employers doing business in
+this state;
+13. The release of information to employees of the Oklahoma
+State Regents for Higher Education required for use in the default
+prevention efforts and/or collection of defaulted student loans
+guaranteed by the Oklahoma Guaranteed Student Loan Program. Any
+information disclosed under this provision shall be utilized solely
+for the purpose outlined herein and shall be held strictly
+confidential by the Oklahoma State Regents for Higher Education;
+14. The release of information to employees of the Oklahoma
+Department of Career and Technology Education, the Oklahoma State
+Regents for Higher Education, the Center for Economic and Management
+Research of the University of Oklahoma, the Center for Economic and
+Business Development at Southwestern Oklahoma State University or a
+center of economic and business research or development at a
+comprehensive or regional higher education institution within The
+Oklahoma State System of Higher Education required to identify
+economic trends or educational outcomes. The information obtained
+shall be kept confidential by the Oklahoma Department of Career and
+Technology Education, the Oklahoma State Regents for Higher
+Education and the higher education institution and shall not be
+disclosed or be open to public inspection. The Oklahoma Department
+of Career and Technology Education, the Oklahoma State Regents for
+Higher Education and the higher education institution may release
+aggregated data, provided that the aggregation meets disclosure
+requirements of the Commission;
+15. The release of information to employees of the Office of
+Management and Enterprise Services required to identify economic
+trends. The information obtained shall be kept confidential by the
+Office of Management and Enterprise Services and shall not be
+disclosed or be open to public inspection. The Office of Management
+and Enterprise Services may release aggregate data, provided that
+the aggregation meets disclosure requirements of the Oklahoma
+Employment Security Commission;
+16. The release of information to employees of the Department
+of Mental Health and Substance Abuse Services required to evaluate
+ENR. S. B. NO. 924 Page 13
+
+the effectiveness of mental health and substance abuse treatment and
+state or local programs utilized to divert persons from inpatient
+treatment. The information obtained shall be kept confidential by
+the Department and shall not be disclosed or be open to public
+inspection. The Department of Mental Health and Substance Abuse
+Services, however, may release aggregated data, either by treatment
+facility, program or larger aggregate units, provided that the
+aggregation meets disclosure requirements of the Oklahoma Employment
+Security Commission;
+17. The release of information to employees of the Attorney
+General, the Oklahoma State Bureau of Investigation and the
+Insurance Department for use in the investigation of insurance fraud
+and health care fraud;
+18. The release of information to employees of public housing
+agencies for purposes of determining eligibility pursuant to 42
+U.S.C., Section 503(i);
+19. The release of wage and benefit claim information, at the
+discretion of the Commission, to an agency of this state or its
+political subdivisions that operate a program or activity designated
+as a required partner in the Workforce Innovation and Opportunity
+Act One-Stop delivery system pursuant to 29 U.S.C.A., Section
+3151(b)(1), based on a showing of need made to the Commission and
+after an agreement concerning the release of information is entered
+into with the entity receiving the information. For the limited
+purpose of completing performance accountability reports required by
+the Workforce Innovation and Opportunity Act, only those designated
+required partners that meet the 20 CFR Section 603.2(d) definition
+of public official may contract with a private agent or contractor
+pursuant to 20 CFR Section 603.5(f) for the purpose of the private
+agent or contractor receiving confidential unemployment compensation
+information to the extent necessary to complete the performance
+accountability reports;
+20. The release of information to the State Wage Interchange
+System, at the discretion of the Commission;
+21. The release of information to the Bureau of the Census of
+the U.S. Department of Commerce, the Bureau of Labor Statistics of
+the U.S. Department of Labor, and its agents employed by the
+ENR. S. B. NO. 924 Page 14
+
+Oklahoma Department of Labor for the purpose of economic and
+statistical research;
+22. The release of employer tax information and benefit claim
+information to the Oklahoma Health Care Authority for use in
+determining eligibility for a program that will provide subsidies
+for health insurance premiums for qualified employers, employees,
+self-employed persons and unemployed persons;
+23. The release of employer tax information and benefit claim
+information to the State Department of Rehabilitation Services for
+use in assessing results and outcomes of clients served;
+24. The release of information to any state or federal law
+enforcement authority when necessary in the investigation of any
+crime in which the Commission is a victim. Information that is
+confidential under this section shall be held confidential by the
+law enforcement authority unless and until it is required for use in
+court in the prosecution of a defendant in a criminal prosecution;
+25. The release of information to vendors that contract with
+the Oklahoma Employment Security Commission to provide for the
+issuance of debit cards, to conduct electronic fund transfers, to
+perform computer programming operations, or to perform computer
+maintenance or replacement operations; provided the vendor agrees to
+protect and safeguard the information it receives and to destroy the
+information when no longer needed for the purposes set out in the
+contract;
+26. The release of information to employees of the Office of
+Juvenile Affairs for use in assessing results and outcomes of
+clients served as well as the effectiveness of state and local
+juvenile and justice programs including prevention and treatment
+programs. The information obtained shall be kept confidential by
+the Office of Juvenile Affairs and shall not be disclosed or be open
+to public inspection. The Office of Juvenile Affairs may release
+aggregated data for programs or larger aggregate units, provided
+that the aggregation meets disclosure requirements of the Oklahoma
+Employment Security Commission;
+27. The release of information to vendors that contract with
+the State of Oklahoma for the purpose of providing a public
+ENR. S. B. NO. 924 Page 15
+
+electronic labor exchange system that will support the Oklahoma
+Employment Security Commission’s operation of an employment service
+system to connect employers with job seekers and military veterans.
+This labor exchange system would enhance the stability and security
+of Oklahoma’s economy as well as support the provision of veterans’
+priority of service. The vendors may perform computer programming
+operations, perform computer maintenance or replacement operations,
+or host the electronic solution; provided, each vendor agrees to
+protect and safeguard all information received, that no information
+shall be disclosed to any third party, that the use of the
+information shall be restricted to the scope of the contract, and
+that the vendor shall properly dispose of all information when no
+longer needed for the purposes set out in the contract; or
+28. The release of employer tax information and benefit claim
+information to employees of a county public defender’s office in
+this state and the Oklahoma Indigent Defense System for the purpose
+of determining financial eligibility for the services provided by
+such entities.
+D. Subpoenas to compel disclosure of information made
+confidential by this statute shall not be valid, except for
+administrative subpoenas issued by federal, state, or local
+governmental agencies that have been granted subpoena power by
+statute or ordinance. Confidential information maintained by the
+Commission can be obtained by order of a court of record that
+authorizes the release of the records in writing. All
+administrative subpoenas or court orders for production of documents
+must provide a minimum of twenty (20) days from the date it is
+served for the Commission to produce the documents. If the date on
+which production of the documents is required is less than twenty
+(20) days from the date of service, the subpoena or order shall be
+considered void on its face as an undue burden or hardship on the
+Commission. All administrative subpoenas, court orders or notarized
+waivers of confidentiality authorized by paragraph 2 of subsection C
+of this section shall be presented with a request for records within
+ninety (90) days of the date the document is issued or signed, and
+the document can only be used one time to obtain records.
+E. Should any of the disclosures provided for in this section
+require more than casual or incidental staff time, the Commission
+ENR. S. B. NO. 924 Page 16
+
+shall charge the cost of the staff time to the party requesting the
+information.
+F. It is further provided that the provisions of this section
+shall be strictly interpreted and shall not be construed as
+permitting the disclosure of any other information contained in the
+records and files of the Commission.
+SECTION 5. This act shall become effective November 1, 2025.
+ENR. S. B. NO. 924 Page 17
+
+Passed the Senate the 24th day of March, 2025.
+Presiding Officer of the Senate
+Passed the House of Representatives the 5th day of May, 2025.
+Presiding Officer of the House
+of Representatives
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of __________________, 20 _______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. S. B. NO. 924 Page 18
+
+[DELETED:  B C  a T]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPPo_G]

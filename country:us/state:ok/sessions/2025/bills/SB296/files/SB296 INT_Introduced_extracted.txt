@@ -1,0 +1,1087 @@
+Title: SENATE BILL 296 By: Pugh
+Official Title: SENATE BILL 296 By: Pugh
+Number of Sections: 25
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to income tax; amending 68 O.S. 2021,
+7
+
+Section 2:
+Section 2357.301, as amended by Section 1, Chapter
+8
+313, O.S.L. 2024 (68 O.S. Supp. 2024, Section
+8
+
+Section 3:
+2357.301), which relates to definitions; defining
+9
+term; amending 68 O.S. 2021, Sections 2357.303 and
+9
+
+Section 4:
+2357.304, as amended by Section 2, Chapter 313,
+10
+O.S.L. 2024 (68 O.S. Supp. 2024, Section 2357.304),
+10
+which relate to credit for qualified employers and
+11
+qualified employees; expanding credit to include
+11
+instructor pilots; and providing an effective date.
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+
+Section 5:
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2357.301, as
+15
+16
+amended by Section 1, Chapter 313, O.S.L. 2024 (68 O.S. Supp. 2024,
+16
+17
+
+Section 6:
+Section 2357.301), is amended to read as follows:
+17
+18
+
+Section 7:
+Section 2357.301. As used in Sections 2357.301 through 2357.304
+18
+19
+of this title:
+19
+20
+
+Section 8:
+1. “Aerospace sector” means a private or public organization
+20
+21
+located in this state and engaged in the manufacture of aerospace or
+21
+22
+defense hardware or software, aerospace maintenance, aerospace
+22
+23
+repair and overhaul, supply of parts to the aerospace industry,
+23
+24
+provision of services and support relating to the aerospace
+24
+Req. No. 1249 Page 1
+1
+industry, research and development of aerospace technology and
+1
+2
+systems and the education and training of aerospace personnel;
+2
+3
+
+Section 9:
+2. “Compensation” means payments in the form of contract labor
+3
+4
+for which the payor is required to provide a Form 1099 to the person
+4
+5
+paid, wages subject to withholding tax paid to a part-time employee
+5
+6
+or full-time employee or salary or other remuneration. Compensation
+6
+7
+shall not include employer-provided retirement, medical or health-
+7
+8
+care benefits, reimbursement for travel, meals, lodging or any other
+8
+9
+expense;
+9
+10
+
+Section 10:
+3. “Institution” means an institution within The Oklahoma State
+10
+11
+System of Higher Education or any other public or private college or
+11
+12
+university that is accredited by a national accrediting body;
+12
+13
+
+Section 11:
+4. “Instructor pilot” means any person who is licensed as a
+13
+14
+Certified Flight Instructor by the Federal Aviation Administration
+14
+15
+and is employed in this state in support of a contract with the
+15
+16
+federal government to provide instruction either live or on a flight
+16
+17
+simulator who was not employed as an instructor pilot in the
+17
+18
+aerospace sector in this state immediately preceding employment or
+18
+19
+contracting with a qualified employer. The definition shall not be
+19
+20
+interpreted to exclude any person (1) who previously qualified and
+20
+21
+established the credit against the tax imposed pursuant to Section
+21
+22
+2355 of this title and becomes employed by a different qualified
+22
+23
+employer, or (2) who establishes the credit against the tax imposed
+23
+24
+pursuant to Section 2355 of this title for the first time and
+24
+Req. No. 1249 Page 2
+1
+becomes employed by a different qualified employer in subsequent
+1
+2
+years, provided a person in either case has not claimed the credit
+2
+3
+for the lifetime maximum of five (5) years;
+3
+4
+
+Section 12:
+5. “Qualified employer” means a sole proprietor, general
+4
+5
+partnership, limited partnership, limited liability company,
+5
+6
+corporation, other legally recognized business entity or public
+6
+7
+entity whose principal business activity involves the aerospace
+7
+8
+sector;
+8
+9
+
+Section 13:
+5. 6. “Qualified employee” means any person, regardless of the
+9
+10
+date of hire, employed in this state by or contracting in this state
+10
+11
+with a qualified employer on or after January 1, 2009, who was not
+11
+12
+employed in the aerospace sector in this state immediately preceding
+12
+13
+employment or contracting with a qualified employer, and who has
+13
+14
+been either:
+14
+15
+a. awarded an undergraduate or graduate degree from a
+15
+16
+qualified program by an institution, or
+16
+17
+b. licensed as a Professional Engineer by the State Board
+17
+18
+of Licensure for Professional Engineers and Land
+18
+19
+Surveyors pursuant to Section 475.15 of Title 59 of
+19
+20
+the Oklahoma Statutes.
+20
+21
+Provided, the definition shall not be interpreted to exclude any
+21
+22
+person who was employed in the aerospace sector, but not as a full-
+22
+23
+time engineer, prior to being awarded an undergraduate or graduate
+23
+24
+degree from a qualified program by an institution or any person who
+24
+Req. No. 1249 Page 3
+1
+has been awarded an undergraduate or graduate degree from a
+1
+2
+qualified program by an institution and is employed by a
+2
+3
+professional staffing company and assigned to work in the aerospace
+3
+4
+sector in this state.
+4
+5
+Beginning on or after January 1, 2024, the definition shall also
+5
+6
+not be interpreted to exclude any person (1) who previously
+6
+7
+qualified and established the credit against the tax imposed
+7
+8
+pursuant to Section 2355 of this title and becomes employed by a
+8
+9
+different qualified employer, or (2) who establishes the credit
+9
+10
+against the tax imposed pursuant to Section 2355 of this title for
+10
+11
+the first time and becomes employed by a different qualified
+11
+12
+employer in subsequent years, provided a person in either case has
+12
+13
+not claimed the credit for the lifetime maximum of five (5) years;
+13
+14
+
+Section 14:
+6. 7. “Qualified program” means a program at an institution
+14
+15
+that includes a graduate or undergraduate program that has been
+15
+16
+accredited by the Engineering Accreditation Commission of the
+16
+17
+Accreditation Board for Engineering and Technology (ABET) and that
+17
+18
+awards an undergraduate or graduate degree. Both the undergraduate
+18
+19
+and graduate programs of the same discipline of engineering at an
+19
+20
+institution shall be part of the qualified program if either program
+20
+21
+is ABET accredited; and
+21
+22
+
+Section 15:
+7. 8. “Tuition” means the average annual amount paid by a
+22
+23
+qualified employee for enrollment and instruction in a qualified
+23
+24
+24
+Req. No. 1249 Page 4
+1
+program. Tuition shall not include the cost of books, fees or room
+1
+2
+and board.
+2
+3
+
+Section 16:
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 2357.303, is
+3
+4
+amended to read as follows:
+4
+5
+
+Section 17:
+Section 2357.303. A. Except as provided in subsection F of
+5
+6
+this section, for taxable years beginning after December 31, 2008,
+6
+7
+and ending before January 1, 2026, a qualified employer shall be
+7
+8
+allowed a credit against the tax imposed pursuant to Section 2355 of
+8
+9
+this title for compensation paid to a qualified employee and, for
+9
+10
+tax year 2025, an instructor pilot.
+10
+11
+B. The credit authorized by subsection A of this section shall
+11
+12
+be in the amount of:
+12
+13
+
+Section 18:
+1. Ten percent (10%) of the compensation paid for the first
+13
+14
+through fifth years of employment in the aerospace sector if the
+14
+15
+qualified employee graduated from an institution located in this
+15
+16
+state; or
+16
+17
+
+Section 19:
+2. Five percent (5%) of the compensation paid for the first
+17
+18
+through fifth years of employment in the aerospace sector if the
+18
+19
+qualified employee graduated from an institution located outside
+19
+20
+this state.
+20
+21
+C. The credit authorized by this section shall not exceed
+21
+22
+Twelve Thousand Five Hundred Dollars ($12,500.00) for each qualified
+22
+23
+employee annually.
+23
+24
+24
+Req. No. 1249 Page 5
+1
+D. The credit authorized by this section shall not be used to
+1
+2
+reduce the tax liability of the qualified employer to less than zero
+2
+3
+(0).
+3
+4
+E. No credit authorized pursuant to this section shall be
+4
+5
+claimed after the fifth year of employment.
+5
+6
+F. No credit otherwise authorized by the provisions of this
+6
+7
+
+Section 20:
+section may be claimed for any event, transaction, investment,
+7
+8
+expenditure or other act occurring on or after July 1, 2010, for
+8
+9
+which the credit would otherwise be allowable. The provisions of
+9
+10
+this subsection shall cease to be operative on July 1, 2011.
+10
+11
+Beginning July 1, 2011, the credit authorized by this section may be
+11
+12
+claimed for any event, transaction, investment, expenditure or other
+12
+13
+act occurring on or after July 1, 2011, according to the provisions
+13
+14
+of this section.
+14
+15
+
+Section 21:
+SECTION 3. AMENDATORY 68 O.S. 2021, Section 2357.304, as
+15
+16
+amended by Section 2, Chapter 313, O.S.L. 2024 (68 O.S. Supp. 2024,
+16
+17
+
+Section 22:
+Section 2357.304), is amended to read as follows:
+17
+18
+
+Section 23:
+Section 2357.304. A. Except as provided in subsection D of
+18
+19
+this section, for taxable years beginning after December 31, 2008,
+19
+20
+and ending before January 1, 2026, a qualified employee and, for tax
+20
+21
+year 2025, an instructor pilot shall be allowed a credit against the
+21
+22
+tax imposed pursuant to Section 2355 of this title of up to Five
+22
+23
+Thousand Dollars ($5,000.00) per tax year for a period of time not
+23
+24
+24
+Req. No. 1249 Page 6
+1
+to exceed five (5) years during the lifetime of the qualified
+1
+2
+employee. This credit may be claimed in nonconsecutive tax years.
+2
+3
+B. The credit authorized by this section shall not be used to
+3
+4
+reduce the tax liability of the taxpayer to less than zero (0).
+4
+5
+C. Any credit claimed, but not used, may be carried over, in
+5
+6
+order, to each of the five (5) subsequent taxable years.
+6
+7
+D. No credit otherwise authorized by the provisions of this
+7
+8
+
+Section 24:
+section may be claimed for any event, transaction, investment,
+8
+9
+expenditure or other act occurring on or after July 1, 2010, for
+9
+10
+which the credit would otherwise be allowable. The provisions of
+10
+11
+this subsection shall cease to be operative on July 1, 2011.
+11
+12
+Beginning July 1, 2011, the credit authorized by this section may be
+12
+13
+claimed for any event, transaction, investment, expenditure or other
+13
+14
+act occurring on or after July 1, 2011, according to the provisions
+14
+15
+of this section.
+15
+16
+
+Section 25:
+SECTION 4. This act shall become effective November 1, 2025.
+16
+17
+17
+18
+60-1-1249 QD 12/30/2024 11:25:34 PM
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1249 Page 7
+[DELETED:  P B P]
+[DELETED:  P]
+[DELETED:  P a l]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+1st Session of the 60th Legislature (2025)
+2
+3
+SENATE BILL 296 By: Pugh
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to income tax; amending 68 O.S. 2021,
+7
+Section 2357.301, as amended by Section 1, Chapter
+8
+313, O.S.L. 2024 (68 O.S. Supp. 2024, Section
+8
+2357.301), which relates to definitions; defining
+9
+term; amending 68 O.S. 2021, Sections 2357.303 and
+9
+2357.304, as amended by Section 2, Chapter 313,
+10
+O.S.L. 2024 (68 O.S. Supp. 2024, Section 2357.304),
+10
+which relate to credit for qualified employers and
+11
+qualified employees; expanding credit to include
+11
+instructor pilots; and providing an effective date.
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2357.301, as
+15
+16
+amended by Section 1, Chapter 313, O.S.L. 2024 (68 O.S. Supp. 2024,
+16
+17
+Section 2357.301), is amended to read as follows:
+17
+18
+Section 2357.301. As used in Sections 2357.301 through 2357.304
+18
+19
+of this title:
+19
+20
+1. “Aerospace sector” means a private or public organization
+20
+21
+located in this state and engaged in the manufacture of aerospace or
+21
+22
+defense hardware or software, aerospace maintenance, aerospace
+22
+23
+repair and overhaul, supply of parts to the aerospace industry,
+23
+24
+provision of services and support relating to the aerospace
+24
+Req. No. 1249 Page 1
+
+1
+industry, research and development of aerospace technology and
+1
+2
+systems and the education and training of aerospace personnel;
+2
+3
+2. “Compensation” means payments in the form of contract labor
+3
+4
+for which the payor is required to provide a Form 1099 to the person
+4
+5
+paid, wages subject to withholding tax paid to a part-time employee
+5
+6
+or full-time employee or salary or other remuneration. Compensation
+6
+7
+shall not include employer-provided retirement, medical or health-
+7
+8
+care benefits, reimbursement for travel, meals, lodging or any other
+8
+9
+expense;
+9
+10
+3. “Institution” means an institution within The Oklahoma State
+10
+11
+System of Higher Education or any other public or private college or
+11
+12
+university that is accredited by a national accrediting body;
+12
+13
+4. “Instructor pilot” means any person who is licensed as a
+13
+14
+Certified Flight Instructor by the Federal Aviation Administration
+14
+15
+and is employed in this state in support of a contract with the
+15
+16
+federal government to provide instruction either live or on a flight
+16
+17
+simulator who was not employed as an instructor pilot in the
+17
+18
+aerospace sector in this state immediately preceding employment or
+18
+19
+contracting with a qualified employer. The definition shall not be
+19
+20
+interpreted to exclude any person (1) who previously qualified and
+20
+21
+established the credit against the tax imposed pursuant to Section
+21
+22
+2355 of this title and becomes employed by a different qualified
+22
+23
+employer, or (2) who establishes the credit against the tax imposed
+23
+24
+pursuant to Section 2355 of this title for the first time and
+24
+Req. No. 1249 Page 2
+
+1
+becomes employed by a different qualified employer in subsequent
+1
+2
+years, provided a person in either case has not claimed the credit
+2
+3
+for the lifetime maximum of five (5) years;
+3
+4
+5. “Qualified employer” means a sole proprietor, general
+4
+5
+partnership, limited partnership, limited liability company,
+5
+6
+corporation, other legally recognized business entity or public
+6
+7
+entity whose principal business activity involves the aerospace
+7
+8
+sector;
+8
+9
+5. 6. “Qualified employee” means any person, regardless of the
+9
+10
+date of hire, employed in this state by or contracting in this state
+10
+11
+with a qualified employer on or after January 1, 2009, who was not
+11
+12
+employed in the aerospace sector in this state immediately preceding
+12
+13
+employment or contracting with a qualified employer, and who has
+13
+14
+been either:
+14
+15
+a. awarded an undergraduate or graduate degree from a
+15
+16
+qualified program by an institution, or
+16
+17
+b. licensed as a Professional Engineer by the State Board
+17
+18
+of Licensure for Professional Engineers and Land
+18
+19
+Surveyors pursuant to Section 475.15 of Title 59 of
+19
+20
+the Oklahoma Statutes.
+20
+21
+Provided, the definition shall not be interpreted to exclude any
+21
+22
+person who was employed in the aerospace sector, but not as a full-
+22
+23
+time engineer, prior to being awarded an undergraduate or graduate
+23
+24
+degree from a qualified program by an institution or any person who
+24
+Req. No. 1249 Page 3
+
+1
+has been awarded an undergraduate or graduate degree from a
+1
+2
+qualified program by an institution and is employed by a
+2
+3
+professional staffing company and assigned to work in the aerospace
+3
+4
+sector in this state.
+4
+5
+Beginning on or after January 1, 2024, the definition shall also
+5
+6
+not be interpreted to exclude any person (1) who previously
+6
+7
+qualified and established the credit against the tax imposed
+7
+8
+pursuant to Section 2355 of this title and becomes employed by a
+8
+9
+different qualified employer, or (2) who establishes the credit
+9
+10
+against the tax imposed pursuant to Section 2355 of this title for
+10
+11
+the first time and becomes employed by a different qualified
+11
+12
+employer in subsequent years, provided a person in either case has
+12
+13
+not claimed the credit for the lifetime maximum of five (5) years;
+13
+14
+6. 7. “Qualified program” means a program at an institution
+14
+15
+that includes a graduate or undergraduate program that has been
+15
+16
+accredited by the Engineering Accreditation Commission of the
+16
+17
+Accreditation Board for Engineering and Technology (ABET) and that
+17
+18
+awards an undergraduate or graduate degree. Both the undergraduate
+18
+19
+and graduate programs of the same discipline of engineering at an
+19
+20
+institution shall be part of the qualified program if either program
+20
+21
+is ABET accredited; and
+21
+22
+7. 8. “Tuition” means the average annual amount paid by a
+22
+23
+qualified employee for enrollment and instruction in a qualified
+23
+24
+24
+Req. No. 1249 Page 4
+
+1
+program. Tuition shall not include the cost of books, fees or room
+1
+2
+and board.
+2
+3
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 2357.303, is
+3
+4
+amended to read as follows:
+4
+5
+Section 2357.303. A. Except as provided in subsection F of
+5
+6
+this section, for taxable years beginning after December 31, 2008,
+6
+7
+and ending before January 1, 2026, a qualified employer shall be
+7
+8
+allowed a credit against the tax imposed pursuant to Section 2355 of
+8
+9
+this title for compensation paid to a qualified employee and, for
+9
+10
+tax year 2025, an instructor pilot.
+10
+11
+B. The credit authorized by subsection A of this section shall
+11
+12
+be in the amount of:
+12
+13
+1. Ten percent (10%) of the compensation paid for the first
+13
+14
+through fifth years of employment in the aerospace sector if the
+14
+15
+qualified employee graduated from an institution located in this
+15
+16
+state; or
+16
+17
+2. Five percent (5%) of the compensation paid for the first
+17
+18
+through fifth years of employment in the aerospace sector if the
+18
+19
+qualified employee graduated from an institution located outside
+19
+20
+this state.
+20
+21
+C. The credit authorized by this section shall not exceed
+21
+22
+Twelve Thousand Five Hundred Dollars ($12,500.00) for each qualified
+22
+23
+employee annually.
+23
+24
+24
+Req. No. 1249 Page 5
+
+1
+D. The credit authorized by this section shall not be used to
+1
+2
+reduce the tax liability of the qualified employer to less than zero
+2
+3
+(0).
+3
+4
+E. No credit authorized pursuant to this section shall be
+4
+5
+claimed after the fifth year of employment.
+5
+6
+F. No credit otherwise authorized by the provisions of this
+6
+7
+section may be claimed for any event, transaction, investment,
+7
+8
+expenditure or other act occurring on or after July 1, 2010, for
+8
+9
+which the credit would otherwise be allowable. The provisions of
+9
+10
+this subsection shall cease to be operative on July 1, 2011.
+10
+11
+Beginning July 1, 2011, the credit authorized by this section may be
+11
+12
+claimed for any event, transaction, investment, expenditure or other
+12
+13
+act occurring on or after July 1, 2011, according to the provisions
+13
+14
+of this section.
+14
+15
+SECTION 3. AMENDATORY 68 O.S. 2021, Section 2357.304, as
+15
+16
+amended by Section 2, Chapter 313, O.S.L. 2024 (68 O.S. Supp. 2024,
+16
+17
+Section 2357.304), is amended to read as follows:
+17
+18
+Section 2357.304. A. Except as provided in subsection D of
+18
+19
+this section, for taxable years beginning after December 31, 2008,
+19
+20
+and ending before January 1, 2026, a qualified employee and, for tax
+20
+21
+year 2025, an instructor pilot shall be allowed a credit against the
+21
+22
+tax imposed pursuant to Section 2355 of this title of up to Five
+22
+23
+Thousand Dollars ($5,000.00) per tax year for a period of time not
+23
+24
+24
+Req. No. 1249 Page 6
+
+1
+to exceed five (5) years during the lifetime of the qualified
+1
+2
+employee. This credit may be claimed in nonconsecutive tax years.
+2
+3
+B. The credit authorized by this section shall not be used to
+3
+4
+reduce the tax liability of the taxpayer to less than zero (0).
+4
+5
+C. Any credit claimed, but not used, may be carried over, in
+5
+6
+order, to each of the five (5) subsequent taxable years.
+6
+7
+D. No credit otherwise authorized by the provisions of this
+7
+8
+section may be claimed for any event, transaction, investment,
+8
+9
+expenditure or other act occurring on or after July 1, 2010, for
+9
+10
+which the credit would otherwise be allowable. The provisions of
+10
+11
+this subsection shall cease to be operative on July 1, 2011.
+11
+12
+Beginning July 1, 2011, the credit authorized by this section may be
+12
+13
+claimed for any event, transaction, investment, expenditure or other
+13
+14
+act occurring on or after July 1, 2011, according to the provisions
+14
+15
+of this section.
+15
+16
+SECTION 4. This act shall become effective November 1, 2025.
+16
+17
+17
+18
+60-1-1249 QD 12/30/2024 11:25:34 PM
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 1249 Page 7
+
+[DELETED:  P B P]
+[DELETED:  P]
+[DELETED:  P a l]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P Q 1]
